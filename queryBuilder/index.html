@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Query Builder</title>
+    <link href="../Components/CSS/LayoutProperties.css" rel="stylesheet" />
+    <script src="../Plugins/Jquery/jquery.min.js"></script>
+    <script src="../Components/JS/commanFunctions.js"></script>
+    <script src="queryBuilder.js"></script>
+    <style>
+        .layoutFlows {
+            width:20%;
+            margin:0% 2.5% 0% 2.5%;
+        }
+        .layoutFlowsHeading {
+            width:100%;
+        }
+        .layoutFlowsContent {
+            width:100%;
+        }
+    </style>
+</head>
+<body class="layoutBody">
+    <div class="FL layoutFixedHeader">
+        <div class="FL layoutTitle">
+            <a href="../">Scriptag</a>
+        </div>
+        <div class="FL layoutTaps layoutHeaderFont" style="float:right;"> 
+            <a href="../contacts">Contacts</a>
+        </div>
+    </div>
+    <div class="FL layoutContent">
+        <div class="FL layoutContentTitle">
+            <div class="FL layoutTaps">
+                <a href="#">Update Column</a>
+            </div>  
+        </div>
+        <div class="FL layoutContentBody" style="min-height:500px;">
+            <div class="FL"  style="width:100%;">
+                <div class="FL layoutTaps layoutDropDown" style="font-size:16px;">
+                    <div class="layoutDropDownMenu">Add</div>
+                    <ul class="layoutDropDownToggle">
+                        <li class="layoutDropDownList" onclick="addConditions('database');">DataBase</li>
+                        <li class="layoutDropDownList" onclick="addConditions('table');">Tables</li>
+                        <li class="layoutDropDownList" onclick="addConditions('connection');">Connection</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="FL" style="width:100%;" id="columnUpdates">
+                <div class="FL layoutFlows" id="columnsListDIV" style="width: 400px;margin: 0px 20px 0px 20px;">      
+                    <div class="FL layoutFlowsHeading" style="text-align:center;">                            
+                        Column Name <input type="text" style="width:120px;" id="newColumnName"/>                                                
+                    </div>                                                     
+                    <div class="FL layoutFlowsContent">                            
+                        <div class="FL" style="width:50%;">                           
+                            <div class="FL" style="width:100%;">
+                                Values
+                            </div>
+                            <div class="FL" style="width:100%;">
+                                <div class="FL layoutFlowsContent">
+                                    <div class="FL" style="width:100%;">
+                                        <textarea style="width:100px;" id="oldColumnsTextID" onkeydown="addValuesInConditionKey(event,'oldcolumns')"></textarea>
+                                        <input type="button" value="Add" onclick="addValuesInCondition('oldcolumns')" />
+                                    </div>
+                                    <div class="FL layoutDynamicList" id="oldColumnsContentID">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>                                                     
+                        <div class="FL" style="width:50%;">  
+                            <div class="FL" style="width:100%;">
+                                New Values
+                            </div>
+                            <div class="FL" style="width:100%;">
+                                <div class="FL layoutFlowsContent">
+                                    <div class="FL" style="width:100%;">
+                                        <textarea style="width:100px;" id="newColumnsTextID"  onkeydown="addValuesInConditionKey(event,'newcolumns')"></textarea>
+                                        <input type="button" value="Add" onclick="addValuesInCondition('newcolumns')" />
+                                    </div>
+                                    <div class="FL layoutDynamicList" id="newColumnsContentID">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>                                              
+                    </div>                                                 
+                </div>
+            </div>
+            <div class="FL" style="width:100%;">
+                <div class="FL">
+                    Query <input type="button" onclick="generateQueries()" value="Generate" />
+                </div>
+                <div class="FL" style="width:100%;">
+                    <textarea style="width:500px;height:100px;" id="queriesTextAreaID"></textarea>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

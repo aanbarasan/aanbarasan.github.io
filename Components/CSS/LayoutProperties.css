@@ -1,0 +1,108 @@
+﻿
+.FL {
+    position:relative;
+    float:left;
+}
+.layoutBody {
+    position:relative;
+    float:left;
+    width:100%;
+    height:100%;
+    overflow:auto;
+    margin:0px;
+    font-family: sans-serif;
+}
+.layoutHomeHeader {
+    height:100px;
+    width:100%;
+    background-color:#3F5061;
+    color:white;
+    font-size:100px;
+    text-align: center;
+    padding: 130px 0px 130px 0px;
+}
+.layoutFixedHeader {
+    background-color:#3F5061;
+    color:white;
+    width:100%;
+    padding: 15px 0px 15px;
+    position: absolute;
+    top:0px;
+    z-index: 5;
+}
+.layoutTitle {
+    font-size: 30px;
+    padding:5px 15px 5px 15px;
+}
+.layoutTaps {
+    cursor:pointer;
+    font-size: 20px;
+    padding:5px 15px 5px 15px;
+}
+.layoutHeaderFont {
+    font-size: 30px;
+}
+.layoutBody a {
+    color:white;
+    text-decoration:none;
+}
+.layoutContent {
+    padding:80px 0px 80px 0px;
+    background-color:gray;
+    /*height:400px;*/
+    width:100%;
+}
+.layoutContentTiles {
+    width: 20%;
+    margin: 0% 2.5% 0% 2.5%;
+    padding: 30px 0px 30px 0px;
+    text-align: center;
+}
+.layoutContentTilesTitle {
+    width:100%;
+    font-size: 40px;
+}
+.layoutContentTilesContent {
+    width: 80%;
+    margin: 0% 10% 0% 10%;
+}
+.layoutContentTitle {
+    width:60%;
+    margin:0% 20% 0% 20%;
+    padding:10px;
+}
+.layoutContentBody {
+    background-color:white;
+    width:100%;
+}
+.closeButton {
+    cursor:pointer;
+}
+.layoutDropDownToggle {
+    display:none;
+    position:absolute;
+    z-index:5;
+    background-color:white;
+    padding: 10px 0px 10px 0px;
+    box-shadow: 0px 0px 4px 1px gray;
+    list-style-type:none;
+    margin:0px;
+    min-width:120px;
+}
+.layoutDropDownList {
+    padding: 2px 5px 2px 5px;
+    width: 100%;
+}
+.layoutDropDownList:hover{
+    background-color:gray;  
+}
+.layoutOpen {
+    display:block;
+}
+.layoutDynamicList {
+    width:80%;
+    height:300px;
+    overflow:auto;
+    background-color: rgb(211, 210, 210);
+    padding: 10px;
+}
