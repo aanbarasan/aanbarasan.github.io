@@ -10,4 +10,4 @@
 
 # Query Builder
 
-   In this page manual query calculation for multiple scenarios are simplefied. In default column update query is enabled. When then scenarios changes use conditional options to change the dynamic formats. 
+   In this page manual query calculation for multiple scenarios are simplefied. In default column update query is enabled. When the scenarios changes use conditional options to change the dynamic formats. 
