@@ -4,6 +4,6 @@
 
 # URL
  
-    [Here](http://scriptag.github.io) you find the URL for this project
+    <http://scriptag.github.io> you find the URL for this project
 
 
