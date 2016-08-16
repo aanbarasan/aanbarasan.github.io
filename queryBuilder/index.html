@@ -1,97 +1,204 @@
 ﻿<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="http://www.w3.org/1999/xhtml" ng-app="QueryBuilder">
 <head>
     <title>Query Builder</title>
+    <link href="../Plugins/Bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="../Plugins/Bootstrap/css/bootstrap-theme.min.css" rel="stylesheet" />
     <link href="../Components/CSS/LayoutProperties.css" rel="stylesheet" />
     <script src="../Plugins/Jquery/jquery.min.js"></script>
+    <!--<script src="../Plugins/Angular/angular.js"></script>-->
+    <script src="../Plugins/Angular/angular.min.js"></script>
+    <script src="../Plugins/Bootstrap/js/bootstrap.min.js"></script>
     <script src="../Components/JS/commanFunctions.js"></script>
     <script src="queryBuilder.js"></script>
     <style>
-        .layoutFlows {
-            width:20%;
-            margin:0% 2.5% 0% 2.5%;
+        .np {
+            padding:0px;
         }
-        .layoutFlowsHeading {
+        .layoutFlexBoxs{
+            float:left;
+            padding: 10px;
+            border: 1px solid rgb(218, 218, 218);
+            background-color: rgb(218, 218, 218);
+            margin: 3px;
+        }
+        .layoutFlexBoxs .layoutFlexBoxOver {
+           background-color: white;
+           padding: 0px;
+           height:500px;
+           overflow:auto;
+        }
+        .layoutTableTable {
             width:100%;
         }
-        .layoutFlowsContent {
+        .layoutFullCellDiv {
+            user-select:none;
+            -webkit-user-select: none;
             width:100%;
+            height:100%;
+        }
+        .layoutFullCellDivText {
+            user-select:none;
+            -webkit-user-select: none;
+            width:100%;
+            height:30px;
+        }
+        .layoutFullCellText {
+            user-select:initial;
+            -webkit-user-select:initial;
+            width:100%;
+            height: 30px;
+            border: 0px;
+            outline: 0px;
+        }
+        .layoutTableCell {
+            border-width:1px;
+            border-style: solid;
+            border-color: rgb(208, 208, 208);
+            color:gray;
+            cursor:default;
+        }
+        .layoutSelectCell {
+        }
+        .layoutSelectCell.ST {
+            border-top-width:3px;
+        }
+        .layoutSelectCell.SR {
+            border-right-width:3px;
+        }
+        .layoutSelectCell.SB {
+            border-bottom-width:3px;
+        }
+        .layoutSelectCell.SL {
+            border-left-width:3px;
         }
     </style>
 </head>
-<body class="layoutBody">
-    <div class="FL layoutFixedHeader">
-        <div class="FL layoutTitle">
+<body class="layoutBody" ng-controller="QueryBuilderCtrl" ng-keydown="editKeyPressInBodyFunctionCall($event)" ng-mousedown="editMouseDownInBodyFunctionCall($event)">
+    <div class="col-sm-12 layoutFixedHeader" >
+        <div class="col-sm-2 layoutTitle">
             <a href="../">Scriptag</a>
         </div>
-        <div class="FL layoutTaps layoutHeaderFont" style="float:right;"> 
-            <a href="../contacts">Contacts</a>
+        <div class="col-sm-2 layoutTaps">
+            <a href="../">About</a>
         </div>
     </div>
-    <div class="FL layoutContent">
-        <div class="FL layoutContentTitle">
-            <div class="FL layoutTaps">
-                <a href="#">Update Column</a>
-            </div>  
-        </div>
-        <div class="FL layoutContentBody" style="min-height:500px;">
-            <div class="FL"  style="width:100%;">
-                <div class="FL layoutTaps layoutDropDown" style="font-size:16px;">
-                    <div class="layoutDropDownMenu">Add</div>
-                    <ul class="layoutDropDownToggle">
-                        <li class="layoutDropDownList" onclick="addConditions('database');">DataBase</li>
-                        <li class="layoutDropDownList" onclick="addConditions('table');">Tables</li>
-                        <li class="layoutDropDownList" onclick="addConditions('connection');">Connection</li>
+    <div class="col-sm-12 layoutContent" style="background-color:white;">
+        <div class="col-sm-12" style="display:none;">
+            <div class="dropdown" style="cursor:pointer;width: auto;display: inline-block;">
+                <div class="layoutDropDownToggle" data-toggle="dropdown">Add</div>
+                <div class="dropdown-menu">
+                    <ul style="padding:0px;list-style-type:none;">
+                        <li class="layoutDropDownList">Table</li>
+                        <li class="layoutDropDownList">Database</li>
                     </ul>
                 </div>
             </div>
-            <div class="FL" style="width:100%;" id="columnUpdates">
-                <div class="FL layoutFlows" id="columnsListDIV" style="width: 400px;margin: 0px 20px 0px 20px;">      
-                    <div class="FL layoutFlowsHeading" style="text-align:center;">                            
-                        Column Name <input type="text" style="width:120px;" id="newColumnName"/>                                                
-                    </div>                                                     
-                    <div class="FL layoutFlowsContent">                            
-                        <div class="FL" style="width:50%;">                           
-                            <div class="FL" style="width:100%;">
-                                Values
-                            </div>
-                            <div class="FL" style="width:100%;">
-                                <div class="FL layoutFlowsContent">
-                                    <div class="FL" style="width:100%;">
-                                        <textarea style="width:100px;" id="oldColumnsTextID" onkeydown="addValuesInConditionKey(event,'oldcolumns')"></textarea>
-                                        <input type="button" value="Add" onclick="addValuesInCondition('oldcolumns')" />
-                                    </div>
-                                    <div class="FL layoutDynamicList" id="oldColumnsContentID">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>                                                     
-                        <div class="FL" style="width:50%;">  
-                            <div class="FL" style="width:100%;">
-                                New Values
-                            </div>
-                            <div class="FL" style="width:100%;">
-                                <div class="FL layoutFlowsContent">
-                                    <div class="FL" style="width:100%;">
-                                        <textarea style="width:100px;" id="newColumnsTextID"  onkeydown="addValuesInConditionKey(event,'newcolumns')"></textarea>
-                                        <input type="button" value="Add" onclick="addValuesInCondition('newcolumns')" />
-                                    </div>
-                                    <div class="FL layoutDynamicList" id="newColumnsContentID">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>                                              
-                    </div>                                                 
+        </div>
+        <div class="col-sm-12">
+            <div class="col-sm-8" style="padding:10px;">
+                <div class="col-sm-7 layoutFlexBoxs">
+                    <div class="col-sm-12 nopadding layoutFlexBoxOver">
+                        <table class="layoutTableTable">
+                            <thead>
+                                <tr>
+                                    <td class="layoutTableCell" style="width:5%;"></td>
+                                    <td class="layoutTableCell layoutSelectCell" ng-repeat="col in dynamicColumnsHead" ng-class="col.classes?col.classes:''"  ng-dblclick="editHeadFunctionCall($index,col.headingID,'column',$event)" ng-mousedown="editMouseDownHeadFunctionCall($index,col.headingID,'column',$event)" ng-style="{'width':(((100-5)/dynamicColumnsHead.length)+'%')}">
+                                        <div class="layoutFullCellDivText" ng-bind="col.headingText?col.headingText:''" ng-hide="col.edit" style="padding:3px;"></div>
+                                        <div ng-show="col.edit" class="layoutFullCellDiv">
+                                            <textarea id="columnHeadEditInput{{$index}}" class="layoutFullCellText" ng-blur="editBlurHeadFunctionCall($index,col,'column')" ng-model="col.headingText" ng-keypress="editKeyPressHeadFunctionCall($index,col.headingID,'column',$event)" ng-change="editChangeHeadFunctionCall($index,col.headingID,'column',$event)">
+                                            </textarea>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr ng-repeat="row in dynamicColumnsRow">
+                                    <td class="layoutTableCell" ng-bind="($index + 1)"></td>
+                                    <td class="layoutTableCell layoutSelectCell" ng-repeat="col in dynamicColumnsHead" ng-class="row[col.headingID]?row[col.headingID].classes:''"  ng-dblclick="editColFunctionCall($parent.$index,col.headingID,'column',$event)" ng-mousedown="editMouseDownFunctionCall($parent.$index,col.headingID,'column',$event)">
+                                        <div class="layoutFullCellDivText" ng-bind="row[col.headingID]?row[col.headingID].value:''" ng-hide="row[col.headingID].edit" style="padding:3px;"></div>
+                                        <div ng-show="row[col.headingID].edit" class="layoutFullCellDiv">
+                                            <textarea id="columnEditInput{{$parent.$index}}_{{col.headingID}}" class="layoutFullCellText" ng-blur="editBlurColFunctionCall($parent.$index,col.headingID,'column')" ng-model="row[col.headingID].value" ng-keypress="editKeyPressColFunctionCall($parent.$index,col.headingID,'column',$event)" ng-change="editChangeColFunctionCall($parent.$index,col.headingID,'column',$event)">
+                                            </textarea>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div class="col-sm-4 layoutFlexBoxs">
+                    <div class="col-sm-12 nopadding layoutFlexBoxOver">
+                        <table class="layoutTableTable">
+                            <thead>
+                                <tr>
+                                    <td class="layoutTableCell" style="width:5%;"></td>
+                                    <td class="layoutTableCell layoutSelectCell" ng-repeat="col in dynamicRowsHead" ng-class="col.classes?col.classes:''"  ng-dblclick="editHeadFunctionCall($index,col.headingID,'row',$event)" ng-mousedown="editMouseDownHeadFunctionCall($index,col.headingID,'row',$event)" ng-style="{'width':(((100-5)/dynamicRowsHead.length)+'%')}">
+                                        <div class="layoutFullCellDivText" ng-bind="col.headingText?col.headingText:''" ng-hide="col.edit" style="padding:3px;"></div>
+                                        <div ng-show="col.edit" class="layoutFullCellDiv">
+                                            <textarea id="rowHeadEditInput{{$index}}" class="layoutFullCellText" ng-blur="editBlurHeadFunctionCall($index,col,'row')" ng-model="col.headingText" ng-keypress="editKeyPressHeadFunctionCall($index,col.headingID,'row',$event)" ng-change="editChangeHeadFunctionCall($index,col.headingID,'row',$event)">
+                                            </textarea>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr ng-repeat="row in dynamicRowsRow">
+                                    <td class="layoutTableCell" ng-bind="($index + 1)"></td>
+                                    <td class="layoutTableCell layoutSelectCell" ng-repeat="col in dynamicRowsHead" ng-class="row[col.headingID]?row[col.headingID].classes:''" ng-dblclick="editColFunctionCall($parent.$index,col.headingID,'row',$event)" ng-mousedown="editMouseDownFunctionCall($parent.$index,col.headingID,'row',$event)">
+                                        <div class="layoutFullCellDivText" ng-bind="row[col.headingID]?row[col.headingID].value:''" ng-hide="row[col.headingID].edit" style="padding:3px;"></div>
+                                        <div ng-show="row[col.headingID].edit" class="layoutFullCellDiv">
+                                            <textarea id="rowEditInput{{$parent.$index}}_{{col.headingID}}" class="layoutFullCellText" ng-blur="editBlurColFunctionCall($parent.$index,col.headingID,'row')" ng-model="row[col.headingID].value" ng-keypress="editKeyPressColFunctionCall($parent.$index,col.headingID,'row',$event)">
+                                            </textarea>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
                 </div>
             </div>
-            <div class="FL" style="width:100%;">
-                <div class="FL">
-                    Query <input type="button" onclick="generateQueries()" value="Generate" />
+            <div class="col-sm-4">
+                <div class="col-sm-12">
+                    <div class="col-sm-1 np" style="width:auto;float:left;">
+                        <div style="display:inline-block;">
+                            <button class="btn btn-primary" ng-click="generateOutput()">Generate</button>
+                        </div>
+                    </div>
+                    <div class="col-sm-1 np" style="width:auto;float:right;">
+                        <div style="display:inline-block;">
+                            <button class="btn btn-primary" ng-click="downloadContent()"><span class="glyphicon glyphicon-download"></span></button>
+                        </div>
+                        <div style="display:inline-block;">
+                            <button class="btn btn-primary" ng-click="copyContent()"><span class="glyphicon glyphicon-copy"></span></button>
+                        </div>
+                    </div>
                 </div>
-                <div class="FL" style="width:100%;">
-                    <textarea style="width:500px;height:100px;" id="queriesTextAreaID"></textarea>
+                <div class="col-sm-12">
+                    <textarea id="outputTextArea" style="width:100%;min-height:300px;"></textarea>
                 </div>
             </div>
+        </div>
+    </div>
+    <div class="col-sm-12 layoutFooter" style="padding:20px 40px 20px 40px;">
+        <div class="col-sm-12" style="text-align:right;">
+            <!-- Start of SimpleHitCounter Code -->
+            <div style="display:inline-block;text-align:center;">
+                <img src="http://simplehitcounter.com/hit.php?uid=2154186&f=16777215&b=255" border="0" height="18" width="83" alt="Counts">
+            </div>
+            <!-- End of SimpleHitCounter Code -->
+            <span id="VersionContainer">V: 1.02</span>
+            <span >Time: </span>
+            <span id="footerTime"></span>
+            <script>
+                timeChange();
+                function timeChange() {
+                    var d = new Date();
+                    $("#footerTime").html(d.getHours() + ":" + d.getMinutes() + ":" + d.getSeconds());
+                    setTimeout(timeChange, 1000);
+                }
+            </script>
         </div>
     </div>
 </body>

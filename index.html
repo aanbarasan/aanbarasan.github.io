@@ -2,30 +2,71 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title>Scriptag</title>
+    <link href="Plugins/Bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="Plugins/Bootstrap/css/bootstrap-theme.min.css" rel="stylesheet" />
     <link href="Components/CSS/LayoutProperties.css" rel="stylesheet" />
     <script src="Plugins/Jquery/jquery.min.js"></script>
     <script src="Components/JS/indexScript.js"></script>
 </head>
 <body class="layoutBody">
-    <div class="FL layoutFixedHeader">
-        <div class="FL layoutTitle">
-            <a href="#">Scriptag</a>
+    <div class="col-sm-12 layoutFixedHeader">
+        <div class="col-sm-2 layoutTitle">
+            <a href="">Scriptag</a>
         </div>
-        <div class="FL layoutTaps layoutHeaderFont" style="float:right;">
-            <a href="/contacts">Contacts</a>
+        <div class="col-sm-2 layoutTaps">
+            <a href="">About</a>
         </div>
     </div>
-    <div class="FL layoutHomeHeader">
-        Scriptag
+    <div class="col-sm-12 layoutContent">
+        <div class="col-sm-12 layoutHomeHeader">
+            Scriptag
+        </div>
+        <div class="col-sm-12 layoutTilesContainer">
+            <div class="col-sm-4 col-sm-offset-1 layoutContentTiles">
+                <div class="col-sm-12 layoutContentTilesTitle">
+                    <a href="queryBuilder">Query Builder</a>
+                </div>
+                <div class="col-sm-12 layoutContentTilesContent">
+                    Query Builer is a tool used to build queries based on constraints. In first column update only available in this method. 
+                    In two containers are present in that. First container has columns want to change from old columns to new column.
+                    Second container has table name.
+                </div>
+            </div>
+            <div class="col-sm-4 col-sm-offset-2 layoutContentTiles">
+                <div class="col-sm-12 layoutContentTilesTitle">
+                    <a href="">Contact Us</a>
+                </div>
+                <div class="col-sm-12 layoutContentTilesContent">
+                    We are developing lightweight javascript tools based on the users requires.
+                    If you have any suggestions send mail or contact us from our Facebook account or Google Plus Account.
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="FL layoutContent">
-        <div class="FL layoutContentTiles">
-            <div class="FL layoutContentTilesTitle">
-                <a href="/queryBuilder">Query Builder</a>
+    <div class="col-sm-12 layoutFooter" style="padding:20px 40px 20px 40px;">
+        <div class="col-sm-12" style="color:white;">
+            <h2>About Us</h2>
+            <ul>
+                <li>Email ID: scriptagdesign@gmail.com</li>
+            </ul>
+        </div>
+        <div class="col-sm-12" style="text-align:right;">
+            <!-- Start of SimpleHitCounter Code -->
+            <div style="display:inline-block;text-align:center;">
+                <img src="http://simplehitcounter.com/hit.php?uid=2154186&f=16777215&b=255" border="0" height="18" width="83" alt="Counts">
             </div>
-            <div class="FL layoutContentTilesContent">
-                Query Builer is a tool used to build queries dynamicaly as you want
-            </div>
+            <!-- End of SimpleHitCounter Code -->
+            <span id="VersionContainer">V: 1.02</span>
+            <span >Time: </span>
+            <span id="footerTime"></span>
+            <script>
+                timeChange();
+                function timeChange() {
+                    var d = new Date();
+                    $("#footerTime").html(d.getHours() + ":" + d.getMinutes() + ":" + d.getSeconds());
+                    setTimeout(timeChange, 1000);
+                }
+            </script>
         </div>
     </div>
 </body>
