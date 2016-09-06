@@ -26,7 +26,8 @@
         .layoutFlexBoxs .layoutFlexBoxOver {
            background-color: white;
            padding: 0px;
-           height:500px;
+           min-height:400px;
+           max-height:500px;
            overflow:auto;
         }
         .layoutTableTable {
@@ -43,6 +44,7 @@
             -webkit-user-select: none;
             width:100%;
             height:30px;
+            
         }
         .layoutFullCellText {
             user-select:initial;
@@ -58,6 +60,7 @@
             border-color: rgb(208, 208, 208);
             color:gray;
             cursor:default;
+            min-width: 30px;
         }
         .layoutSelectCell {
         }
@@ -73,6 +76,21 @@
         .layoutSelectCell.SL {
             border-left-width:3px;
         }
+        .headerIcon {
+            font-size: 40px;
+            cursor: pointer;
+            margin: 2px;
+        }
+        textarea.headingTextArea {
+            text-align:left;
+            height:60px;
+            width:200px;
+            margin:5px;
+            font-size: 14px;
+            font-weight: bold;
+            letter-spacing: 1px;
+            word-break: break-all;
+        }
     </style>
 </head>
 <body class="layoutBody" ng-controller="QueryBuilderCtrl" ng-keydown="editKeyPressInBodyFunctionCall($event)" ng-mousedown="editMouseDownInBodyFunctionCall($event)">
@@ -85,23 +103,28 @@
         </div>
     </div>
     <div class="col-sm-12 layoutContent" style="background-color:white;">
-        <div class="col-sm-12" style="display:none;">
-            <div class="dropdown" style="cursor:pointer;width: auto;display: inline-block;">
-                <div class="layoutDropDownToggle" data-toggle="dropdown">Add</div>
-                <div class="dropdown-menu">
-                    <ul style="padding:0px;list-style-type:none;">
-                        <li class="layoutDropDownList">Table</li>
-                        <li class="layoutDropDownList">Database</li>
-                    </ul>
-                </div>
+        <div class="col-sm-12">
+            <div class="col-sm-2">
+                <i class="glyphicon glyphicon-cog headerIcon" ng-click="showSettings()" style="display:none;"></i>
+                <i class="glyphicon glyphicon-plus headerIcon" ng-click="addColumnHeader()"></i>
             </div>
         </div>
         <div class="col-sm-12">
-            <div class="col-sm-8" style="padding:10px;">
+            <div class="col-sm-8" style="padding:0px 10px;">
+                <div class="col-sm-12 np">
+                    <div style="display:inline-block;" ng-repeat="col in dynamicColumnsHead">
+                        <textarea class="form-control headingTextArea" ng-model="col.updateContents">
+                        </textarea>
+                    </div>
+                    <div style="display:inline-block;width:30%;">
+                        <textarea class="form-control headingTextArea" ng-model="newColumnsDataContents">
+                        </textarea>
+                    </div>
+                </div>
                 <div class="col-sm-7 layoutFlexBoxs">
                     <div class="col-sm-12 nopadding layoutFlexBoxOver">
                         <table class="layoutTableTable">
-                            <thead>
+                            <thead style="display:none;">
                                 <tr>
                                     <td class="layoutTableCell" style="width:5%;"></td>
                                     <td class="layoutTableCell layoutSelectCell" ng-repeat="col in dynamicColumnsHead" ng-class="col.classes?col.classes:''"  ng-dblclick="editHeadFunctionCall($index,col.headingID,'column',$event)" ng-mousedown="editMouseDownHeadFunctionCall($index,col.headingID,'column',$event)" ng-style="{'width':(((100-5)/dynamicColumnsHead.length)+'%')}">
@@ -115,8 +138,8 @@
                             </thead>
                             <tbody>
                                 <tr ng-repeat="row in dynamicColumnsRow">
-                                    <td class="layoutTableCell" ng-bind="($index + 1)"></td>
-                                    <td class="layoutTableCell layoutSelectCell" ng-repeat="col in dynamicColumnsHead" ng-class="row[col.headingID]?row[col.headingID].classes:''"  ng-dblclick="editColFunctionCall($parent.$index,col.headingID,'column',$event)" ng-mousedown="editMouseDownFunctionCall($parent.$index,col.headingID,'column',$event)">
+                                    <td class="layoutTableCell" ng-bind="($index + 1)" style="width:5%;"></td>
+                                    <td class="layoutTableCell layoutSelectCell" ng-repeat="col in dynamicColumnsHead" ng-class="row[col.headingID]?row[col.headingID].classes:''"  ng-dblclick="editColFunctionCall($parent.$index,col.headingID,'column',$event)" ng-mousedown="editMouseDownFunctionCall($parent.$index,col.headingID,'column',$event)" ng-style="{'width':(((100-5)/dynamicColumnsHead.length)+'%')}">
                                         <div class="layoutFullCellDivText" ng-bind="row[col.headingID]?row[col.headingID].value:''" ng-hide="row[col.headingID].edit" style="padding:3px;"></div>
                                         <div ng-show="row[col.headingID].edit" class="layoutFullCellDiv">
                                             <textarea id="columnEditInput{{$parent.$index}}_{{col.headingID}}" class="layoutFullCellText" ng-blur="editBlurColFunctionCall($parent.$index,col.headingID,'column')" ng-model="row[col.headingID].value" ng-keypress="editKeyPressColFunctionCall($parent.$index,col.headingID,'column',$event)" ng-change="editChangeColFunctionCall($parent.$index,col.headingID,'column',$event)">
@@ -200,6 +223,18 @@
                     setTimeout(timeChange, 1000);
                 }
             </script>
+        </div>
+    </div>
+    <div class="modal" id="popupModalContent">
+        <div class="modal-dialog" style="width: 80%;">
+            <div class="modal-content">
+                <div class="modal-body">
+                    
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
         </div>
     </div>
 </body>

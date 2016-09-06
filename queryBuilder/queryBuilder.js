@@ -2,11 +2,13 @@
 
 app.controller("QueryBuilderCtrl", function ($scope) {
     window.$scope = $scope;
-    $scope.dynamicColumnsHead = [{ headingID: "old_col", headingText: "Old_Column", replace_data: "<<Before_Column>>", replace_head: "<<Before_Column_Name>>" }, { headingID: "new_col", headingText: "New_Column", replace_data: "<<After_Column>>", replace_head: "<<After_Column_Name>>" }];
-    $scope.dynamicColumnsRow = [];
-    $scope.dynamicRowsHead = [{ headingID: "table", headingText: "Table Name",replace_data:"<<Table_Name>>" }]
+    $scope.dynamicColumnsHead = [{ headingID: "old_col", headingText: "Old_Column", replace_data: "<<Before_Column>>", replace_head: "<<Before_Column_Name>>", updateContents: "UPDATE Table_Name SET ColumnName='" },
+                        { headingID: "new_col", headingText: "New_Column", replace_data: "<<After_Column>>", replace_head: "<<After_Column_Name>>", updateContents: "' WHERE ColumnName='" }];
+    $scope.dynamicColumnsRow = [{}, {}, {}, {}, {}, {}, {}, {}, {}];
+    $scope.dynamicRowsHead = [{ headingID: "table", headingText: "Table_Name",replace_data:"<<Table_Name>>" }]
     $scope.dynamicRowsRow = [];
     $scope.editEnable = false;
+    $scope.newColumnsDataContents = "';";
 
     $scope.mapp = {
         row: { head: $scope.dynamicRowsHead, data: $scope.dynamicRowsRow },
@@ -18,6 +20,11 @@ app.controller("QueryBuilderCtrl", function ($scope) {
     }
     for (var i = 0; i < 1; i++) {
         $scope.mapp.column.data.push({ table: { value: '', edit: false } });
+    }
+
+    $scope.addColumnHeader = function () {
+        $scope.mapp.column.head.push({ headingID: "new_Column_header" + ($scope.mapp.column.head.length), headingText: "New Columns" + $scope.mapp.column.head.length, updateContents: $scope.newColumnsDataContents });
+        $scope.newColumnsDataContents = "";
     }
 
     $scope.editHeadFunctionCall = function (ind, type, core, eve) {
@@ -357,18 +364,7 @@ app.controller("QueryBuilderCtrl", function ($scope) {
         var query = "UPDATE <<Table_Name>> SET <<After_Column_Name>>='<<After_Column>>' WHERE <<Before_Column_Name>>='<<Before_Column>>';";
         var queries = [];
 
-        for (var row_data_i = 0; row_data_i < $scope.mapp.row.data.length; row_data_i++) {
-            var rowEmptyCheck = false;
-            for (var row_head_i = 0; row_head_i < $scope.mapp.row.head.length; row_head_i++) {
-                if ($scope.mapp.row.data[row_data_i][$scope.mapp.row.head[row_head_i].headingID]) {
-                    if ($scope.mapp.row.data[row_data_i][$scope.mapp.row.head[row_head_i].headingID].value && $scope.mapp.row.data[row_data_i][$scope.mapp.row.head[row_head_i].headingID].value != undefined && $scope.mapp.row.data[row_data_i][$scope.mapp.row.head[row_head_i].headingID].value != "") {
-                        rowEmptyCheck = true;
-                    }
-                }
-            }
-            if (rowEmptyCheck == false) {
-                continue;
-            }
+        for (var row_data_i = 0; row_data_i < $scope.mapp.row.data.length || $scope.mapp.row.data.length==0; row_data_i++) {
             for (var col_data_i = 0; col_data_i < $scope.mapp.column.data.length; col_data_i++) {
                 var colEmptyCheck = false;
                 for (var col_head_i = 0; col_head_i < $scope.mapp.column.head.length; col_head_i++) {
@@ -381,30 +377,84 @@ app.controller("QueryBuilderCtrl", function ($scope) {
                 if (colEmptyCheck == false) {
                     continue;
                 }
-                var str = query;
+                var str = "";
+                for (var col_head_i = 0; col_head_i < $scope.mapp.column.head.length; col_head_i++) {
+                    str = str + $scope.mapp.column.head[col_head_i].updateContents;
+                    if ($scope.mapp.column.data[col_data_i][$scope.mapp.column.head[col_head_i].headingID] && $scope.mapp.column.data[col_data_i][$scope.mapp.column.head[col_head_i].headingID].value) {
+                        str = str.replace($scope.mapp.column.head[col_head_i].replace_data, $scope.mapp.column.data[col_data_i][$scope.mapp.column.head[col_head_i].headingID].value.trim());
+                        str = str + $scope.mapp.column.data[col_data_i][$scope.mapp.column.head[col_head_i].headingID].value.trim();
+                    }
+                }
+                str = str + $scope.newColumnsDataContents;
+
                 for (var row_head_i = 0; row_head_i < $scope.mapp.row.head.length; row_head_i++) {
                     if ($scope.mapp.row.data[row_data_i][$scope.mapp.row.head[row_head_i].headingID] && $scope.mapp.row.data[row_data_i][$scope.mapp.row.head[row_head_i].headingID].value) {
-                        str = str.replace($scope.mapp.row.head[row_head_i].replace_data, $scope.mapp.row.data[row_data_i][$scope.mapp.row.head[row_head_i].headingID].value);
+                        str = str.replace($scope.mapp.row.head[row_head_i].replace_data, $scope.mapp.row.data[row_data_i][$scope.mapp.row.head[row_head_i].headingID].value.trim());
                     }
                     else {
                         str = str.replace($scope.mapp.row.head[row_head_i].replace_data, '');
                     }
                 }
-                for (var col_head_i = 0; col_head_i < $scope.mapp.column.head.length; col_head_i++) {
-                    if ($scope.mapp.column.data[col_data_i][$scope.mapp.column.head[col_head_i].headingID] && $scope.mapp.column.data[col_data_i][$scope.mapp.column.head[col_head_i].headingID].value) {
-                        str = str.replace($scope.mapp.column.head[col_head_i].replace_data, $scope.mapp.column.data[col_data_i][$scope.mapp.column.head[col_head_i].headingID].value);
-                    }
-                    else {
-                        str = str.replace($scope.mapp.column.head[col_head_i].replace_data, '');
-                    }
-                    str = str.replace($scope.mapp.column.head[col_head_i].replace_head, $scope.mapp.column.head[col_head_i].headingText);
-                }
                 queries.push(str);
             }
         }
         $("#outputTextArea").val(queries.join("\n"));
-
     }
 
+    //$scope.generateOutput = function () {
+    //    var query = "UPDATE <<Table_Name>> SET <<After_Column_Name>>='<<After_Column>>' WHERE <<Before_Column_Name>>='<<Before_Column>>';";
+    //    var queries = [];
+
+    //    for (var row_data_i = 0; row_data_i < $scope.mapp.row.data.length; row_data_i++) {
+    //        var rowEmptyCheck = false;
+    //        for (var row_head_i = 0; row_head_i < $scope.mapp.row.head.length; row_head_i++) {
+    //            if ($scope.mapp.row.data[row_data_i][$scope.mapp.row.head[row_head_i].headingID]) {
+    //                if ($scope.mapp.row.data[row_data_i][$scope.mapp.row.head[row_head_i].headingID].value && $scope.mapp.row.data[row_data_i][$scope.mapp.row.head[row_head_i].headingID].value != undefined && $scope.mapp.row.data[row_data_i][$scope.mapp.row.head[row_head_i].headingID].value != "") {
+    //                    rowEmptyCheck = true;
+    //                }
+    //            }
+    //        }
+    //        if (rowEmptyCheck == false) {
+    //            continue;
+    //        }
+    //        for (var col_data_i = 0; col_data_i < $scope.mapp.column.data.length; col_data_i++) {
+    //            var colEmptyCheck = false;
+    //            for (var col_head_i = 0; col_head_i < $scope.mapp.column.head.length; col_head_i++) {
+    //                if ($scope.mapp.column.data[col_data_i][$scope.mapp.column.head[col_head_i].headingID]) {
+    //                    if ($scope.mapp.column.data[col_data_i][$scope.mapp.column.head[col_head_i].headingID].value && $scope.mapp.column.data[col_data_i][$scope.mapp.column.head[col_head_i].headingID].value != undefined && $scope.mapp.column.data[col_data_i][$scope.mapp.column.head[col_head_i].headingID].value != "") {
+    //                        colEmptyCheck = true;
+    //                    }
+    //                }
+    //            }
+    //            if (colEmptyCheck == false) {
+    //                continue;
+    //            }
+    //            var str = query;
+    //            for (var row_head_i = 0; row_head_i < $scope.mapp.row.head.length; row_head_i++) {
+    //                if ($scope.mapp.row.data[row_data_i][$scope.mapp.row.head[row_head_i].headingID] && $scope.mapp.row.data[row_data_i][$scope.mapp.row.head[row_head_i].headingID].value) {
+    //                    str = str.replace($scope.mapp.row.head[row_head_i].replace_data, $scope.mapp.row.data[row_data_i][$scope.mapp.row.head[row_head_i].headingID].value.trim());
+    //                }
+    //                else {
+    //                    str = str.replace($scope.mapp.row.head[row_head_i].replace_data, '');
+    //                }
+    //            }
+    //            for (var col_head_i = 0; col_head_i < $scope.mapp.column.head.length; col_head_i++) {
+    //                if ($scope.mapp.column.data[col_data_i][$scope.mapp.column.head[col_head_i].headingID] && $scope.mapp.column.data[col_data_i][$scope.mapp.column.head[col_head_i].headingID].value) {
+    //                    str = str.replace($scope.mapp.column.head[col_head_i].replace_data, $scope.mapp.column.data[col_data_i][$scope.mapp.column.head[col_head_i].headingID].value.trim());
+    //                }
+    //                else {
+    //                    str = str.replace($scope.mapp.column.head[col_head_i].replace_data, '');
+    //                }
+    //                str = str.replace($scope.mapp.column.head[col_head_i].replace_head, $scope.mapp.column.head[col_head_i].headingText.trim());
+    //            }
+    //            queries.push(str);
+    //        }
+    //    }
+    //    $("#outputTextArea").val(queries.join("\n"));
+    //}
+
+    $scope.showSettings = function () {
+        $("#popupModalContent").modal("show");
+    }
 
 });
