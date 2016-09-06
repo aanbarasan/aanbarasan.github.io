@@ -36,6 +36,11 @@
     padding: 100px 0px 100px 0px;
     width:100%;
 }
+@media (max-width:500px) {
+    .layoutHomeHeader {
+        font-size:70px;
+    }
+}
 .layoutFooter {
     padding:5px;
 }
