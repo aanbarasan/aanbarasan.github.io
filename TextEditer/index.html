@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+    <title>Query Builder</title>
+    <link href="../Plugins/Bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="../Plugins/Bootstrap/css/bootstrap-theme.min.css" rel="stylesheet" />
+    <link href="../Components/CSS/LayoutProperties.css" rel="stylesheet" />
+    <script src="../Plugins/Jquery/jquery.min.js"></script>
+    <script src="../Plugins/Bootstrap/js/bootstrap.min.js"></script>
+    <script src="../Components/JS/commanFunctions.js"></script>
+    <script src="plugin/TextEditer.js"></script>
+    <script src="functionality.js"></script>
+    <style>
+    </style>
+</head>
+<body class="layoutBody">
+    <div class="col-sm-12 layoutFixedHeader" >
+        <div class="col-sm-2 layoutTitle">
+            <a href="../">Scriptag</a>
+        </div>
+        <div class="col-sm-2 layoutTaps">
+            <a href="../">About</a>
+        </div>
+    </div>
+    <div class="col-sm-12 layoutContent" style="background-color:white;">
+        <div id="textareaViusalize" style="width:100%;height:500px;"></div>
+    </div>
+    <div class="col-sm-12 layoutFooter" style="padding:20px 40px 20px 40px;">
+        <div class="col-sm-12" style="text-align:right;">
+            <!-- Start of SimpleHitCounter Code -->
+            <div style="display:inline-block;text-align:center;">
+                <img src="http://simplehitcounter.com/hit.php?uid=2154186&f=16777215&b=255" border="0" height="18" width="83" alt="Counts">
+            </div>
+            <!-- End of SimpleHitCounter Code -->
+            <span id="VersionContainer">V: 1.02</span>
+            <span >Time: </span>
+            <span id="footerTime"></span>
+            <script>
+                timeChange();
+                function timeChange() {
+                    var d = new Date();
+                    $("#footerTime").html(d.getHours() + ":" + d.getMinutes() + ":" + d.getSeconds());
+                    setTimeout(timeChange, 1000);
+                }
+            </script>
+        </div>
+    </div>
+</body>
+</html>

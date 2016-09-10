@@ -21,17 +21,18 @@
             padding: 10px;
             border: 1px solid rgb(218, 218, 218);
             background-color: rgb(218, 218, 218);
-            margin: 3px;
+            /*margin: 3px;*/
         }
         .layoutFlexBoxs .layoutFlexBoxOver {
            background-color: white;
-           padding: 0px;
+           padding: 3px;
            min-height:400px;
            max-height:500px;
            overflow:auto;
         }
         .layoutTableTable {
             width:100%;
+            background-color: white;
         }
         .layoutFullCellDiv {
             user-select:none;
@@ -91,6 +92,30 @@
             letter-spacing: 1px;
             word-break: break-all;
         }
+        .settingConditions {
+            margin:15px;
+        }
+        .columnsHeadTextContainer {
+            position: relative;
+        }
+        .columnsHeadTextContainer>button {
+            background-color:transparent;
+            border: 0px;
+            position: absolute;
+            top: 6px;
+            right: 6px;
+            height: 18px;
+            width: 15px;
+            vertical-align: middle;
+            -webkit-appearance: initial;
+            padding: 0px;
+            line-height: initial;
+            font-size: initial;
+            font-weight: initial;
+            font-family: initial;
+            z-index:2;
+            outline: none;
+        }
     </style>
 </head>
 <body class="layoutBody" ng-controller="QueryBuilderCtrl" ng-keydown="editKeyPressInBodyFunctionCall($event)" ng-mousedown="editMouseDownInBodyFunctionCall($event)">
@@ -105,25 +130,27 @@
     <div class="col-sm-12 layoutContent" style="background-color:white;">
         <div class="col-sm-12">
             <div class="col-sm-2">
-                <i class="glyphicon glyphicon-cog headerIcon" ng-click="showSettings()" style="display:none;"></i>
-                <i class="glyphicon glyphicon-plus headerIcon" ng-click="addColumnHeader()"></i>
+                <i class="glyphicon glyphicon-cog headerIcon" ng-click="showSettings()"></i>
+                <i class="glyphicon glyphicon-plus headerIcon" ng-click="addColumnHeader('column')"></i>
+                <i class="glyphicon glyphicon-plus headerIcon" ng-click="addColumnHeader('row')"></i>
             </div>
         </div>
-        <div class="col-sm-12">
+        <div class="col-sm-12 fade" id="fadeEffectContainer">
             <div class="col-sm-8" style="padding:0px 10px;">
                 <div class="col-sm-12 np">
-                    <div style="display:inline-block;" ng-repeat="col in dynamicColumnsHead">
-                        <textarea class="form-control headingTextArea" ng-model="col.updateContents">
+                    <div style="display:inline-block;" ng-repeat="col in dynamicColumnsHead" class="columnsHeadTextContainer">
+                        <textarea class="form-control headingTextArea" ng-model="col.updateContents" ng-change="storeColumnsHeaderInLocal()">
                         </textarea>
+                        <button ng-click="removeHeaderText($index)">&times;</button>
                     </div>
-                    <div style="display:inline-block;width:30%;">
-                        <textarea class="form-control headingTextArea" ng-model="newColumnsDataContents">
+                    <div style="display:inline-block;">
+                        <textarea class="form-control headingTextArea" ng-model="newColumnsDataContents" ng-change="storeColumnsHeaderInLocal()">
                         </textarea>
                     </div>
                 </div>
-                <div class="col-sm-7 layoutFlexBoxs">
+                <div class="layoutFlexBoxs" ng-class="useMultipleQueryGen?'col-sm-8':'col-sm-12'">
                     <div class="col-sm-12 nopadding layoutFlexBoxOver">
-                        <table class="layoutTableTable">
+                        <table class="layoutTableTable" ng-if="dynamicColumnsHead.length>0">
                             <thead style="display:none;">
                                 <tr>
                                     <td class="layoutTableCell" style="width:5%;"></td>
@@ -151,7 +178,7 @@
                         </table>
                     </div>
                 </div>
-                <div class="col-sm-4 layoutFlexBoxs">
+                <div class="col-sm-4 layoutFlexBoxs" ng-show="useMultipleQueryGen">
                     <div class="col-sm-12 nopadding layoutFlexBoxOver">
                         <table class="layoutTableTable">
                             <thead>
@@ -180,7 +207,6 @@
                             </tbody>
                         </table>
                     </div>
-
                 </div>
             </div>
             <div class="col-sm-4">
@@ -200,7 +226,7 @@
                     </div>
                 </div>
                 <div class="col-sm-12">
-                    <textarea id="outputTextArea" style="width:100%;min-height:300px;"></textarea>
+                    <textarea id="outputTextArea" style="width:100%;min-height:450px;"></textarea>
                 </div>
             </div>
         </div>
@@ -225,11 +251,30 @@
             </script>
         </div>
     </div>
-    <div class="modal" id="popupModalContent">
+    <div class="modal fade in" id="popupModalContent">
         <div class="modal-dialog" style="width: 80%;">
             <div class="modal-content">
+                <div class="modal-header">
+                    <h3>Settings</h3>
+                </div>
                 <div class="modal-body">
-                    
+                    <h4>Editer Settings</h4>
+                    <div class="settingConditions">
+                        <label><input type="checkbox" ng-model="singleClickEnabled" ng-change="storeInLocal('singleClickEnabledLocal','singleClickEnabled')"/> Use Single Click to Edit Content</label> 
+                    </div>
+                    <div class="settingConditions">
+                        <label><input type="checkbox" ng-model="enterToNextTab" ng-change="storeInLocal('enterToNextTabLocal','enterToNextTab')"/> When Enter To Next Tab</label> 
+                    </div>
+                    <div class="settingConditions">
+                        <label><input type="checkbox" ng-model="useMultipleQueryGen" ng-change="storeInLocal('useMultipleQueryGenLocal','useMultipleQueryGen')"/> Use Multiple Query Genration</label> 
+                    </div>
+                    <h4>Cache Settings</h4>
+                    <div class="settingConditions">
+                        <button class="btn btn-warning" onclick="clearThisPageLocalStorage();reloadPage();">Clear Cache and Reload</button>
+                    </div>
+                    <div class="settingConditions">
+                        <label><input type="checkbox" ng-model="maintainCacheEnabled" ng-change="changeMaintainChange()"/> Maintain Cache</label> 
+                    </div>
                 </div>
                 <div class="modal-footer">
                     <button class="btn btn-default" data-dismiss="modal">Close</button>

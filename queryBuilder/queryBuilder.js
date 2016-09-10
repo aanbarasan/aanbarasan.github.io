@@ -2,13 +2,78 @@
 
 app.controller("QueryBuilderCtrl", function ($scope) {
     window.$scope = $scope;
-    $scope.dynamicColumnsHead = [{ headingID: "old_col", headingText: "Old_Column", replace_data: "<<Before_Column>>", replace_head: "<<Before_Column_Name>>", updateContents: "UPDATE Table_Name SET ColumnName='" },
-                        { headingID: "new_col", headingText: "New_Column", replace_data: "<<After_Column>>", replace_head: "<<After_Column_Name>>", updateContents: "' WHERE ColumnName='" }];
+    //Conditions Cache
+    $scope.maintainCacheEnabled = true;
+    $scope.singleClickEnabled = false;
+    $scope.enterToNextTab = false;
+    $scope.useMultipleQueryGen = false;
+    $scope.dynamicColumnsHead = [{ headingID: "old_col", headingText: "Old_Column", replace_data: "<<Before_Column>>", replace_head: "<<Before_Column_Name>>", updateContents: "UPDATE Table_Name SET ColumnName='" },{ headingID: "new_col", headingText: "New_Column", replace_data: "<<After_Column>>", replace_head: "<<After_Column_Name>>", updateContents: "' WHERE ColumnName='" }];
+    $scope.newColumnsDataContents = "';";
+    //End Conditions Cache
+    //Check LocalStorage
+    
+    if (localStorage) {
+        if (localStorage.maintainCacheEnabledLocal != undefined && localStorage.maintainCacheEnabledLocal != "") {
+            $scope.maintainCacheEnabled = checkBoolean(localStorage.maintainCacheEnabledLocal);
+        }
+        if ($scope.maintainCacheEnabled) {
+            if (localStorage.singleClickEnabledLocal != undefined && localStorage.singleClickEnabledLocal != "") {
+                $scope.singleClickEnabled = checkBoolean(localStorage.singleClickEnabledLocal);
+            }
+            if (localStorage.enterToNextTabLocal != undefined && localStorage.enterToNextTabLocal != "") {
+                $scope.enterToNextTab = checkBoolean(localStorage.enterToNextTabLocal);
+            }
+            if (localStorage.useMultipleQueryGenLocal != undefined && localStorage.useMultipleQueryGenLocal != "") {
+                $scope.useMultipleQueryGen = checkBoolean(localStorage.useMultipleQueryGenLocal);
+            }
+            if (localStorage.dynamicColumnsHeadLocal != undefined && localStorage.dynamicColumnsHeadLocal != "") {
+                try {
+                    $scope.dynamicColumnsHead = JSON.parse(localStorage.dynamicColumnsHeadLocal);
+                }
+                catch (e) {
+                    $scope.dynamicColumnsHead = [{ headingID: "old_col", headingText: "Old_Column", replace_data: "<<Before_Column>>", replace_head: "<<Before_Column_Name>>", updateContents: "UPDATE Table_Name SET ColumnName='" },{ headingID: "new_col", headingText: "New_Column", replace_data: "<<After_Column>>", replace_head: "<<After_Column_Name>>", updateContents: "' WHERE ColumnName='" }];
+                }
+            }
+            if (localStorage.newColumnsDataContentsLocal != undefined && localStorage.newColumnsDataContentsLocal != "undefinedDatatypescrtag") {
+                $scope.newColumnsDataContents = localStorage.newColumnsDataContentsLocal;
+            }
+        }
+    }
+    //End Check LocalStorage
+    //Change In Local
+    $scope.storeInLocal = function (loc, ang) {
+        if ($scope.maintainCacheEnabled) {
+            localStorage[loc] = $scope[ang].toString();
+        }
+    }
+    $scope.changeMaintainChange = function () {
+        localStorage.maintainCacheEnabledLocal = $scope.maintainCacheEnabled.toString();
+        if ($scope.maintainCacheEnabled == false) {
+            clearThisPageLocalStorage();
+            localStorage.maintainCacheEnabledLocal = "false";
+        }
+    }
+    $scope.storeColumnsHeaderInLocal = function () {
+        if ($scope.maintainCacheEnabled) {
+            var objStr = JSON.stringify($scope.mapp.column.head);
+            var obj = JSON.parse(objStr);
+            for (var i = 0; i < obj.length; i++) {
+                obj[i].$$hashKey = undefined;
+            }
+            localStorage.dynamicColumnsHeadLocal = JSON.stringify(obj);
+            localStorage.newColumnsDataContentsLocal = $scope.newColumnsDataContents;
+        }
+    }
+    //End Change In Local
+
+    setTimeout(function () {
+        $("#fadeEffectContainer").addClass("in");
+    }, 1000);
+
     $scope.dynamicColumnsRow = [{}, {}, {}, {}, {}, {}, {}, {}, {}];
     $scope.dynamicRowsHead = [{ headingID: "table", headingText: "Table_Name",replace_data:"<<Table_Name>>" }]
     $scope.dynamicRowsRow = [];
     $scope.editEnable = false;
-    $scope.newColumnsDataContents = "';";
 
     $scope.mapp = {
         row: { head: $scope.dynamicRowsHead, data: $scope.dynamicRowsRow },
@@ -22,9 +87,15 @@ app.controller("QueryBuilderCtrl", function ($scope) {
         $scope.mapp.column.data.push({ table: { value: '', edit: false } });
     }
 
-    $scope.addColumnHeader = function () {
-        $scope.mapp.column.head.push({ headingID: "new_Column_header" + ($scope.mapp.column.head.length), headingText: "New Columns" + $scope.mapp.column.head.length, updateContents: $scope.newColumnsDataContents });
+    $scope.addColumnHeader = function (core) {
+        $scope.mapp[core].head.push({ headingID: "new_Column_header" + ($scope.mapp.column.head.length), headingText: "New"+core+"" + $scope.mapp[core].head.length, updateContents: $scope.newColumnsDataContents });
         $scope.newColumnsDataContents = "";
+        $scope.storeColumnsHeaderInLocal();
+    }
+    
+    $scope.removeHeaderText = function (ind) {
+        $scope.mapp.column.head.splice(ind, 1);
+        $scope.storeColumnsHeaderInLocal();
     }
 
     $scope.editHeadFunctionCall = function (ind, type, core, eve) {
@@ -157,24 +228,72 @@ app.controller("QueryBuilderCtrl", function ($scope) {
             $scope.mapp[core].data[ind][type].edit = false;
             setTimeout(function () {
                 $scope.editEnable = true;
-                if ($scope.mapp[core].data[ind + 1]) {
+                if ($scope.enterToNextTab == false) {
+                    if ($scope.mapp[core].data[ind + 1]) {
+                    }
+                    else {
+                        $scope.mapp[core].data.push({});
+                    }
+                    if ($scope.mapp[core].data[ind + 1][type]) {
+                    }
+                    else {
+                        $scope.mapp[core].data[ind + 1][type] = {};
+                    }
+                    $scope.mapp[core].data[ind + 1][type].classes = "ST SR SB SL";
+                    $scope.mapp[core].data[ind + 1][type].edit = true;
+                    $scope.cellSelected = true;
+                    $scope.selectedCellObj.ind = ind + 1;
+                    $scope.selectedCellObj.col = type;
+                    $scope.selectedCellObj.core = core;
+                    $scope.$apply();
+                    $("#" + core + "EditInput" + (ind + 1) + "_" + type).focus();
                 }
                 else {
-                    $scope.mapp[core].data.push({});
+                    for (var i = 0; i < $scope.mapp[core].head.length; i++) {
+                        if ($scope.mapp[core].head[i].headingID == type) {
+                            if (i < $scope.mapp[core].head.length - 1) {
+                                if ($scope.mapp[core].data[ind]) {
+                                }
+                                else {
+                                    $scope.mapp[core].data.push({});
+                                }
+                                if ($scope.mapp[core].data[ind][$scope.mapp[core].head[i+1].headingID]) {
+                                }
+                                else {
+                                    $scope.mapp[core].data[ind][$scope.mapp[core].head[i + 1].headingID] = {};
+                                }
+                                $scope.mapp[core].data[ind][$scope.mapp[core].head[i + 1].headingID].classes = "ST SR SB SL";
+                                $scope.mapp[core].data[ind][$scope.mapp[core].head[i + 1].headingID].edit = true;
+                                $scope.cellSelected = true;
+                                $scope.selectedCellObj.ind = ind;
+                                $scope.selectedCellObj.col = $scope.mapp[core].head[i + 1].headingID;
+                                $scope.selectedCellObj.core = core;
+                                $scope.$apply();
+                                $("#" + core + "EditInput" + (ind) + "_" + $scope.mapp[core].head[i + 1].headingID).focus();
+                            }
+                            else {
+                                if ($scope.mapp[core].data[ind+1]) {
+                                }
+                                else {
+                                    $scope.mapp[core].data.push({});
+                                }
+                                if ($scope.mapp[core].data[ind+1][$scope.mapp[core].head[0].headingID]) {
+                                }
+                                else {
+                                    $scope.mapp[core].data[ind+1][$scope.mapp[core].head[0].headingID] = {};
+                                }
+                                $scope.mapp[core].data[ind+1][$scope.mapp[core].head[0].headingID].classes = "ST SR SB SL";
+                                $scope.mapp[core].data[ind+1][$scope.mapp[core].head[0].headingID].edit = true;
+                                $scope.cellSelected = true;
+                                $scope.selectedCellObj.ind = ind+1;
+                                $scope.selectedCellObj.col = $scope.mapp[core].head[0].headingID;
+                                $scope.selectedCellObj.core = core;
+                                $scope.$apply();
+                                $("#" + core + "EditInput" + (ind+1) + "_" + $scope.mapp[core].head[0].headingID).focus();
+                            }
+                        }
+                    }
                 }
-                if ($scope.mapp[core].data[ind + 1][type]) {
-                }
-                else {
-                    $scope.mapp[core].data[ind + 1][type] = {};
-                }
-                $scope.mapp[core].data[ind + 1][type].classes = "ST SR SB SL";
-                $scope.mapp[core].data[ind + 1][type].edit = true;
-                $scope.cellSelected = true;
-                $scope.selectedCellObj.ind = ind + 1;
-                $scope.selectedCellObj.col = type;
-                $scope.selectedCellObj.core = core;
-                $scope.$apply();
-                $("#" + core + "EditInput" + (ind + 1) + "_" + type).focus();
             }, 10);
         }
     }
@@ -318,6 +437,9 @@ app.controller("QueryBuilderCtrl", function ($scope) {
             $scope.mapp[core].data[ind][type] = {};
         }
         $scope.mapp[core].data[ind][type].classes = "ST SR SB SL";
+        if ($scope.singleClickEnabled == true) {
+            $scope.editColFunctionCall(ind, type, core, eve);
+        }
     }
 
     $scope.clearAllEditCells = function () {
@@ -361,10 +483,9 @@ app.controller("QueryBuilderCtrl", function ($scope) {
     }
 
     $scope.generateOutput = function () {
-        var query = "UPDATE <<Table_Name>> SET <<After_Column_Name>>='<<After_Column>>' WHERE <<Before_Column_Name>>='<<Before_Column>>';";
         var queries = [];
-
-        for (var row_data_i = 0; row_data_i < $scope.mapp.row.data.length || $scope.mapp.row.data.length==0; row_data_i++) {
+        var disableAfterOneTime = true;
+        for (var row_data_i = 0; (row_data_i < $scope.mapp.row.data.length || $scope.mapp.row.data.length == 0) && (disableAfterOneTime) ; row_data_i++) {
             for (var col_data_i = 0; col_data_i < $scope.mapp.column.data.length; col_data_i++) {
                 var colEmptyCheck = false;
                 for (var col_head_i = 0; col_head_i < $scope.mapp.column.head.length; col_head_i++) {
@@ -386,14 +507,18 @@ app.controller("QueryBuilderCtrl", function ($scope) {
                     }
                 }
                 str = str + $scope.newColumnsDataContents;
-
-                for (var row_head_i = 0; row_head_i < $scope.mapp.row.head.length; row_head_i++) {
-                    if ($scope.mapp.row.data[row_data_i][$scope.mapp.row.head[row_head_i].headingID] && $scope.mapp.row.data[row_data_i][$scope.mapp.row.head[row_head_i].headingID].value) {
-                        str = str.replace($scope.mapp.row.head[row_head_i].replace_data, $scope.mapp.row.data[row_data_i][$scope.mapp.row.head[row_head_i].headingID].value.trim());
+                if ($scope.useMultipleQueryGen == true) {
+                    for (var row_head_i = 0; row_head_i < $scope.mapp.row.head.length; row_head_i++) {
+                        if ($scope.mapp.row.data[row_data_i][$scope.mapp.row.head[row_head_i].headingID] && $scope.mapp.row.data[row_data_i][$scope.mapp.row.head[row_head_i].headingID].value) {
+                            str = str.replace($scope.mapp.row.head[row_head_i].headingText, $scope.mapp.row.data[row_data_i][$scope.mapp.row.head[row_head_i].headingID].value.trim());
+                        }
+                        else {
+                            str = str.replace($scope.mapp.row.head[row_head_i].headingText, '');
+                        }
                     }
-                    else {
-                        str = str.replace($scope.mapp.row.head[row_head_i].replace_data, '');
-                    }
+                }
+                else {
+                    disableAfterOneTime = false;
                 }
                 queries.push(str);
             }
@@ -401,60 +526,8 @@ app.controller("QueryBuilderCtrl", function ($scope) {
         $("#outputTextArea").val(queries.join("\n"));
     }
 
-    //$scope.generateOutput = function () {
-    //    var query = "UPDATE <<Table_Name>> SET <<After_Column_Name>>='<<After_Column>>' WHERE <<Before_Column_Name>>='<<Before_Column>>';";
-    //    var queries = [];
-
-    //    for (var row_data_i = 0; row_data_i < $scope.mapp.row.data.length; row_data_i++) {
-    //        var rowEmptyCheck = false;
-    //        for (var row_head_i = 0; row_head_i < $scope.mapp.row.head.length; row_head_i++) {
-    //            if ($scope.mapp.row.data[row_data_i][$scope.mapp.row.head[row_head_i].headingID]) {
-    //                if ($scope.mapp.row.data[row_data_i][$scope.mapp.row.head[row_head_i].headingID].value && $scope.mapp.row.data[row_data_i][$scope.mapp.row.head[row_head_i].headingID].value != undefined && $scope.mapp.row.data[row_data_i][$scope.mapp.row.head[row_head_i].headingID].value != "") {
-    //                    rowEmptyCheck = true;
-    //                }
-    //            }
-    //        }
-    //        if (rowEmptyCheck == false) {
-    //            continue;
-    //        }
-    //        for (var col_data_i = 0; col_data_i < $scope.mapp.column.data.length; col_data_i++) {
-    //            var colEmptyCheck = false;
-    //            for (var col_head_i = 0; col_head_i < $scope.mapp.column.head.length; col_head_i++) {
-    //                if ($scope.mapp.column.data[col_data_i][$scope.mapp.column.head[col_head_i].headingID]) {
-    //                    if ($scope.mapp.column.data[col_data_i][$scope.mapp.column.head[col_head_i].headingID].value && $scope.mapp.column.data[col_data_i][$scope.mapp.column.head[col_head_i].headingID].value != undefined && $scope.mapp.column.data[col_data_i][$scope.mapp.column.head[col_head_i].headingID].value != "") {
-    //                        colEmptyCheck = true;
-    //                    }
-    //                }
-    //            }
-    //            if (colEmptyCheck == false) {
-    //                continue;
-    //            }
-    //            var str = query;
-    //            for (var row_head_i = 0; row_head_i < $scope.mapp.row.head.length; row_head_i++) {
-    //                if ($scope.mapp.row.data[row_data_i][$scope.mapp.row.head[row_head_i].headingID] && $scope.mapp.row.data[row_data_i][$scope.mapp.row.head[row_head_i].headingID].value) {
-    //                    str = str.replace($scope.mapp.row.head[row_head_i].replace_data, $scope.mapp.row.data[row_data_i][$scope.mapp.row.head[row_head_i].headingID].value.trim());
-    //                }
-    //                else {
-    //                    str = str.replace($scope.mapp.row.head[row_head_i].replace_data, '');
-    //                }
-    //            }
-    //            for (var col_head_i = 0; col_head_i < $scope.mapp.column.head.length; col_head_i++) {
-    //                if ($scope.mapp.column.data[col_data_i][$scope.mapp.column.head[col_head_i].headingID] && $scope.mapp.column.data[col_data_i][$scope.mapp.column.head[col_head_i].headingID].value) {
-    //                    str = str.replace($scope.mapp.column.head[col_head_i].replace_data, $scope.mapp.column.data[col_data_i][$scope.mapp.column.head[col_head_i].headingID].value.trim());
-    //                }
-    //                else {
-    //                    str = str.replace($scope.mapp.column.head[col_head_i].replace_data, '');
-    //                }
-    //                str = str.replace($scope.mapp.column.head[col_head_i].replace_head, $scope.mapp.column.head[col_head_i].headingText.trim());
-    //            }
-    //            queries.push(str);
-    //        }
-    //    }
-    //    $("#outputTextArea").val(queries.join("\n"));
-    //}
 
     $scope.showSettings = function () {
         $("#popupModalContent").modal("show");
     }
-
 });
