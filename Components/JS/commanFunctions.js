@@ -13,6 +13,7 @@ function clearThisPageLocalStorage() {
     localStorage.dynamicColumnsHeadLocal = "";
     localStorage.maintainCacheEnabledLocal = "";
     localStorage.newColumnsDataContentsLocal = "undefinedDatatypescrtag";
+    localStorage.CommonBackColorContentsLocal = "undefinedDatatypescrtag";
 }
 function reloadPage() {
     window.location.reload();

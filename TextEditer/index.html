@@ -24,7 +24,21 @@
         </div>
     </div>
     <div class="col-sm-12 layoutContent" style="background-color:white;">
-        <div id="textareaViusalize" style="width:100%;height:500px;"></div>
+        <h3>Text Editor</h3>
+        <textarea id="simpleTextArea" style="height:100px;width:1000px;max-width:100%:">
+            var option = {};
+            option.color = "Red";
+            option.objects = [{ textArray: ["var", "for"], condition: "Contains", color: "green" },{ textArray: ["(", ")"], condition: "Contains", color: "violet" },
+                              { textArray: ["new", "varchar"], condition: "Equals", color: "blue" }    ];
+            $("#simpleArea").TextEditer(option);
+            $("#simpleArea").TextEditer("updateContent", "var data = new Boolean('true');\nvar data = new object();");
+        </textarea>
+        <div style="padding:10px;">
+            <button class="btn btn-primary" onclick="runResult()">Run</button>
+        </div>
+        <div style="padding:15px;">
+            <div id="simpleArea" style="width:100%;height:500px;"></div>
+        </div>
     </div>
     <div class="col-sm-12 layoutFooter" style="padding:20px 40px 20px 40px;">
         <div class="col-sm-12" style="text-align:right;">

@@ -7,7 +7,9 @@ app.controller("QueryBuilderCtrl", function ($scope) {
     $scope.singleClickEnabled = false;
     $scope.enterToNextTab = false;
     $scope.useMultipleQueryGen = false;
-    $scope.dynamicColumnsHead = [{ headingID: "old_col", headingText: "Old_Column", replace_data: "<<Before_Column>>", replace_head: "<<Before_Column_Name>>", updateContents: "UPDATE Table_Name SET ColumnName='" },{ headingID: "new_col", headingText: "New_Column", replace_data: "<<After_Column>>", replace_head: "<<After_Column_Name>>", updateContents: "' WHERE ColumnName='" }];
+    $scope.columnsColors = ["rgb(240, 240, 240)", "white"];
+    $scope.CommonBackColor = $scope.columnsColors[0];
+    $scope.dynamicColumnsHead = [{ headingID: "old_col", headingText: "Old_Column", replace_data: "<<Before_Column>>", replace_head: "<<Before_Column_Name>>", updateContents: "UPDATE Table_Name SET ColumnName='", BackColor: $scope.columnsColors[0] }, { headingID: "new_col", headingText: "New_Column", replace_data: "<<After_Column>>", replace_head: "<<After_Column_Name>>", updateContents: "' WHERE ColumnName='", BackColor: $scope.columnsColors[1] }];
     $scope.newColumnsDataContents = "';";
     //End Conditions Cache
     //Check LocalStorage
@@ -37,6 +39,9 @@ app.controller("QueryBuilderCtrl", function ($scope) {
             if (localStorage.newColumnsDataContentsLocal != undefined && localStorage.newColumnsDataContentsLocal != "undefinedDatatypescrtag") {
                 $scope.newColumnsDataContents = localStorage.newColumnsDataContentsLocal;
             }
+            if (localStorage.CommonBackColorContentsLocal != undefined && localStorage.CommonBackColorContentsLocal != "undefinedDatatypescrtag") {
+                $scope.CommonBackColor = localStorage.CommonBackColorContentsLocal;
+            }
         }
     }
     //End Check LocalStorage
@@ -55,6 +60,11 @@ app.controller("QueryBuilderCtrl", function ($scope) {
     }
     $scope.storeColumnsHeaderInLocal = function () {
         if ($scope.maintainCacheEnabled) {
+            for (var i = 0; i < $scope.mapp.column.head.length; i++) {
+                var color = $scope.columnsColors[(i) % ($scope.columnsColors.length)];
+                $scope.mapp.column.head[i].BackColor = color;
+            }
+            $scope.CommonBackColor = $scope.columnsColors[($scope.mapp.column.head.length) % ($scope.columnsColors.length)];
             var objStr = JSON.stringify($scope.mapp.column.head);
             var obj = JSON.parse(objStr);
             for (var i = 0; i < obj.length; i++) {
@@ -62,6 +72,7 @@ app.controller("QueryBuilderCtrl", function ($scope) {
             }
             localStorage.dynamicColumnsHeadLocal = JSON.stringify(obj);
             localStorage.newColumnsDataContentsLocal = $scope.newColumnsDataContents;
+            localStorage.CommonBackColorContentsLocal = $scope.CommonBackColor;
         }
     }
     //End Change In Local
@@ -88,8 +99,14 @@ app.controller("QueryBuilderCtrl", function ($scope) {
     }
 
     $scope.addColumnHeader = function (core) {
-        $scope.mapp[core].head.push({ headingID: "new_Column_header" + ($scope.mapp.column.head.length), headingText: "New"+core+"" + $scope.mapp[core].head.length, updateContents: $scope.newColumnsDataContents });
-        $scope.newColumnsDataContents = "";
+        var cond = "";
+        if (core == "column") {
+            cond = $scope.newColumnsDataContents + "";
+        }
+        $scope.mapp[core].head.push({ headingID: "new_Column_header" + ($scope.mapp[core].head.length), headingText: "New" + core + "" + $scope.mapp[core].head.length, updateContents: cond });
+        if (core == "column") {
+            $scope.newColumnsDataContents = "";
+        }
         $scope.storeColumnsHeaderInLocal();
     }
     
@@ -463,23 +480,32 @@ app.controller("QueryBuilderCtrl", function ($scope) {
 
     var textfile = null;
     $scope.downloadContent = function () {
-        var hrf = document.createElement('a');
-        var txt = $("#outputTextArea").val();
-        var dow = new Blob([txt], { type: "text/plain" });
-
-        if (textfile != null) {
-            window.URL.revokeObjectURL(textfile);
-        }
-        textfile=window.URL.createObjectURL(dow);
-        hrf.href = textfile;
-        hrf.download = "query.txt";
-        hrf.click();
+        $("#downloadContentButton").popover({ animation: true, content: "Downloading", placement: 'bottom', trigger: 'manual' });
+        $("#downloadContentButton").popover('show');
+        setTimeout(function () {
+            var hrf = document.createElement('a');
+            var txt = $("#outputTextArea").val();
+            var dow = new Blob([txt], { type: "text/plain" });
+            if (textfile != null) {
+                window.URL.revokeObjectURL(textfile);
+            }
+            textfile = window.URL.createObjectURL(dow);
+            hrf.href = textfile;
+            hrf.download = "query.txt";
+            hrf.click();
+            $("#downloadContentButton").popover('hide');
+        }, 100);
     }
 
     $scope.copyContent = function () {
         var a = document.getElementById("outputTextArea");
         a.select();
         document.execCommand('copy');
+        $("#copyContentButton").popover({ animation: true, content: "Copied", placement: 'left', trigger: 'manual' });
+        $("#copyContentButton").popover('show');
+        setTimeout(function () {
+            $("#copyContentButton").popover('hide');
+        }, 1000);
     }
 
     $scope.generateOutput = function () {
