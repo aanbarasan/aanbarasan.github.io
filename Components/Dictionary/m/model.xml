@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>model</Word>
+  <Definitions>
+    <Definition>
+      <Word>model</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>MODEL
+     
+        &lt;language&gt; A {Pascal}-like language with extensions for
+        large-scale system programming and interface with {Fortran}
+        applications.  MODEL includes {generic procedures}, and a
+        "static" {macro}-like approach to {data abstraction}.  It
+        produces {P-code} and was used to implement the {DEMOS}
+        {operating system} on the {Cray-1}.
+     
+        ["A Manual for the MODEL Programming Language", J.B. Morris,
+        Los Alamos 1976].
+     
+        (1996-05-29)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>model</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>model
+     
+        &lt;simulation&gt; A description of observed behaviour, simplified
+        by ignoring certain details.  Models allow complex {systems}
+        to be understood and their behaviour predicted within the scope
+        of the model, but may give incorrect descriptions and
+        predictions for situations outside the realm of their intended
+        use.  A model may be used as the basis for {simulation}.
+     
+        Note: British spelling: "modelling", US: "modeling".
+     
+        (1996-05-29)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>model</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Model \Mod"el\, n. [F. mod[`e]le, It. modello, fr. (assumed) L.
+   modellus, fr. modulus a small measure, dim. of modus. See
+   {Mode}, and cf. {Module}.]
+   1. A miniature representation of a thing, with the several
+      parts in due proportion; sometimes, a facsimile of the
+      same size; as, a [frac1x100] scale model of the B-52
+      bomber.
+      [1913 Webster]
+
+            In charts, in maps, and eke in models made.
+                                                  --Gascoigne.
+      [1913 Webster]
+
+            I had my father's signet in my purse,
+            Which was the model of that Danish seal. --Shak.
+      [1913 Webster]
+
+            You have the models of several ancient temples,
+            though the temples and the gods are perished.
+                                                  --Addison.
+      [1913 Webster]
+
+   2. Something intended to serve, or that may serve, as a
+      pattern of something to be made; a material representation
+      or embodiment of an ideal; sometimes, a drawing; a plan;
+      as, the clay model of a sculpture; the inventor's model of
+      a machine.
+      [1913 Webster]
+
+            [The application for a patent] must be accompanied
+            by a full description of the invention, with
+            drawings and a model where the case admits of it.
+                                                  --Am. Cyc.
+      [1913 Webster]
+
+            When we mean to build
+            We first survey the plot, then draw the model.
+                                                  --Shak.
+      [1913 Webster]
+
+   3. Anything which serves, or may serve, as an example for
+      imitation; as, a government formed on the model of the
+      American constitution; a model of eloquence, virtue, or
+      behavior.
+      [1913 Webster]
+
+   4. That by which a thing is to be measured; standard.
+      [1913 Webster]
+
+            He that despairs measures Providence by his own
+            little, contracted model.             --South.
+      [1913 Webster]
+
+   5. Any copy, or resemblance, more or less exact.
+      [1913 Webster]
+
+            Thou seest thy wretched brother die,
+            Who was the model of thy father's life. --Shak.
+      [1913 Webster]
+
+   6. A person who poses as a pattern for an artist; as, the
+      artist used his daughter as a model for an Indian maiden.
+      [1913 Webster +PJC]
+
+   7. A person who is employed to wear clothing for the purpose
+      of advertising or display, or who poses with a product for
+      the same purpose; a mannequin[1]; as, a fashion model.
+
+   Syn: mannequin[1].
+        [PJC]
+
+              A professional model.               --H. James.
+        [1913 Webster]
+
+   8. A particular version or design of an object that is made
+      in multiple versions; as, the 1993 model of the Honda
+      Accord; the latest model of the HP laserjet printer. For
+      many manufactured products, the model name is encoded as
+      part of the
+
+   {model number}.
+
+   Syn: modification[2].
+        [PJC]
+
+   9. An abstract and often simplified conceptual representation
+      of the workings of a system of objects in the real world,
+      which often includes mathematical or logical objects and
+      relations representing the objects and relations in the
+      real-world system, and constructed for the purpose of
+      explaining the workings of the system or predicting its
+      behavior under hypothetical conditions; as, the
+      administration's model of the United States economy
+      predicts budget surpluses for the next fifteen years;
+      different models of the universe assume different values
+      for the cosmological constant; models of proton structure
+      have grown progressively more complex in the past century.
+      [PJC]
+
+   {Working model}, a model of a machine which can do on a small
+      scale the work which the machine itself does, or is
+      expected to do.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>model</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Model \Mod"el\, a.
+   Suitable to be taken as a model or pattern; as, a model
+   house; a model husband.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>model</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Model \Mod"el\, v. t. [imp. &amp; p. p. {Modeled}or {Modelled}; p.
+   pr. &amp; vb. n. {Modeling} or {Modelling}.] [Cf. F. modeler, It.
+   modellare.]
+   To plan or form after a pattern; to form in model; to form a
+   model or pattern for; to shape; to mold; to fashion; as, to
+   model a house or a government; to model an edifice according
+   to the plan delineated.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>model</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Model \Mod"el\, v. i. (Fine Arts)
+   To make a copy or a pattern; to design or imitate forms; as,
+   to model in wax.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>model</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>model
+     adj : worthy of imitation; "exemplary behavior"; "model citizens"
+           [syn: {exemplary}, {model(a)}]
+     n 1: a simplified description of a complex entity or process;
+          "the computer program was based on a model of the
+          circulatory and respiratory systems" [syn: {theoretical
+          account}, {framework}]
+     2: a type of product; "his car was an old model"
+     3: a person who poses for a photographer or painter or
+        sculptor; "the president didn't have time to be a model so
+        the artist worked from photos" [syn: {poser}]
+     4: representation of something (sometimes on a smaller scale)
+        [syn: {simulation}]
+     5: something to be imitated; "an exemplar of success"; "a model
+        of clarity"; "he is the very model of a modern major
+        general" [syn: {exemplar}, {example}, {good example}]
+     6: someone worthy of imitation; "every child needs a role
+        model" [syn: {role model}]
+     7: a representative form or pattern; "I profited from his
+        example" [syn: {example}]
+     8: a woman who wears clothes to display fashions; "she was too
+        fat to be a mannequin" [syn: {mannequin}, {manikin}, {mannikin},
+         {manakin}, {fashion model}]
+     9: the act of representing something (usually on a smaller
+        scale) [syn: {modelling}, {modeling}]
+     v 1: plan or create according to a model or models [syn: {pattern}]
+     2: form in clay, wax, etc; "model a head with clay" [syn: {mold},
+         {mould}]
+     3: assume a posture as for artistic purposes; "We don't know
+        the woman who posed for Leonardo so often" [syn: {pose}, {sit},
+         {posture}]
+     4: display (clothes) as a mannequin; "model the latest fashion"
+     5: create a representation or model of; "The pilots are trained
+        in conditions simulating high-altitude flights" [syn: {simulate}]
+     6: construct a model of; "model an airplane" [syn: {mock up}]
+     [also: {modelling}, {modelled}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

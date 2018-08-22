@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>molecular</Word>
+  <Definitions>
+    <Definition>
+      <Word>molecular</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Molecular \Mo*lec"u*lar\, a. [Cf. F. mol['e]culare. See
+   {Molecule}.] (Phys. &amp; Chem.)
+   Pertaining to, connected with, produced by, or consisting of,
+   molecules; as, molecular forces; molecular groups of atoms,
+   etc.
+   [1913 Webster]
+
+   {Molecular attraction} (Phys.), attraction acting between the
+      molecules of bodies, and at insensible distances.
+
+   {Molecular weight} (Chem.), the weight of a molecule of any
+      gas or vapor as compared with the hydrogen atom having
+      weight of 1 as a standard; the sum of the atomic weights
+      of the constituents of a molecule; thus, the molecular
+      weight of water ({H2O}) is 18. For more precise
+      measurements, the weight of the carbon isotope carbon-12
+      is used as the standard, that isotope having the value of
+      12.000. In this systen, now used almost universally, the
+      hydrogen atom has a weight of 1.0079.
+      [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>molecular</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>molecular
+     adj 1: relating to or produced by or consisting of molecules;
+            "molecular structure"; "molecular oxygen"; "molecular
+            weight is the sum of all the atoms in a molecul"
+     2: relating to simple or elementary organization; "proceed by
+        more and more detailed analysis to the molecular facts of
+        perception"--G.A. Miller [syn: {molecular(a)}] [ant: {molar(a)}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

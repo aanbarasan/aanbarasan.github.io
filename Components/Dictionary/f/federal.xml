@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>federal</Word>
+  <Definitions>
+    <Definition>
+      <Word>federal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Federal \Fed"er*al\, a. [L. foedus league, treaty, compact; akin
+   to fides faith: cf. F. f['e]d['e]ral. see {Faith}.]
+   1. Pertaining to a league or treaty; derived from an
+      agreement or covenant between parties, especially between
+      nations; constituted by a compact between parties, usually
+      governments or their representatives.
+      [1913 Webster]
+
+            The Romans compelled them, contrary to all federal
+            right, . . . to part with Sardinia.   --Grew.
+      [1913 Webster]
+
+   2. Specifically:
+      (a) Composed of states or districts which retain only a
+          subordinate and limited sovereignty, as the Union of
+          the United States, or the Sonderbund of Switzerland.
+      (b) Consisting or pertaining to such a government; as, the
+          Federal Constitution; a Federal officer.
+      (c) Friendly or devoted to such a government; as, the
+          Federal party. see {Federalist}.
+          [1913 Webster]
+
+   {Federal Congress}. See under {Congress}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>federal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Federal \Fed"er*al\, n.
+   See {Federalist}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>federal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>federal
+     adj 1: national; especially in reference to the government of the
+            United States as distinct from that of its member
+            units; "the Federal Bureau of Investigation"; "federal
+            courts"; "the federal highway program"; "federal
+            property"
+     2: of or relating to the central government of a federation; "a
+        federal district is one set aside as the seat of the
+        national government"
+     3: being of or having to do with the northern United States and
+        those loyal to the Union during the Civil War; "Union
+        soldiers"; "Federal forces"; "a Federal infantryman" [syn:
+         {Union}]
+     4: characterized by or constituting a form of government in
+        which power is divided between one central and several
+        regional authorities; "a federal system like that of the
+        United States"; "federal governments often evolved out of
+        confederatons" [ant: {unitary}]
+     n 1: a member of the Union Army during the American Civil War
+          [syn: {Federal soldier}, {Union soldier}]
+     2: any federal law-enforcement officer [syn: {Fed}, {federal
+        official}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>log</Word>
+  <Definitions>
+    <Definition>
+      <Word>log</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Log
+   the smallest measure for liquids used by the Hebrews (Lev.
+   14:10, 12, 15, 21, 24), called in the Vulgate sextarius. It is
+   the Hebrew unit of measure of capacity, and is equal to the
+   contents of six ordinary hen's eggs=the twelfth part of a him,
+   or nearly a pint.
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>log</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>{log}
+     
+        ["{log}: A Logic Programming Language with Finite Sets", A
+        Dovier et al, Proc 8th Intl Conf Logic Prog, June 1991,
+        pp.111-124].
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>log</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Log \Log\, n. [Heb. l[=o]g.]
+   A Hebrew measure of liquids, containing 2.37 gills. --W. H.
+   Ward.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>log</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Log \Log\, n. [Icel. l[=a]g a felled tree, log; akin to E. lie.
+   See {Lie} to lie prostrate.]
+   1. A bulky piece of wood which has not been shaped by hewing
+      or sawing.
+      [1913 Webster]
+
+   2. [Prob. the same word as in sense 1; cf. LG. log, lock,
+      Dan. log, Sw. logg.] (Naut.) An apparatus for measuring
+      the rate of a ship's motion through the water.
+      [1913 Webster]
+
+   Note: The common log consists of the log-chip, or logship,
+         often exclusively called the log, and the log line, the
+         former being commonly a thin wooden quadrant of five or
+         six inches radius, loaded with lead on the arc to make
+         it float with the point up. It is attached to the log
+         line by cords from each corner. This line is divided
+         into equal spaces, called knots, each bearing the same
+         proportion to a mile that half a minute does to an
+         hour. The line is wound on a reel which is so held as
+         to let it run off freely. When the log is thrown, the
+         log-chip is kept by the water from being drawn forward,
+         and the speed of the ship is shown by the number of
+         knots run out in half a minute. There are improved
+         logs, consisting of a piece of mechanism which, being
+         towed astern, shows the distance actually gone through
+         by the ship, by means of the revolutions of a fly,
+         which are registered on a dial plate.
+         [1913 Webster]
+
+   3. Hence: The record of the rate of speed of a ship or
+      airplane, and of the course of its progress for the
+      duration of a voyage; also, the full nautical record of a
+      ship's cruise or voyage; a log slate; a log book.
+      [1913 Webster +PJC]
+
+   4. Hence, generally: A record and tabulated statement of the
+      person(s) operating, operations performed, resources
+      consumed, and the work done by any machine, device, or
+      system.
+      [1913 Webster +PJC]
+
+   5. (Mining) A weight or block near the free end of a hoisting
+      rope to prevent it from being drawn through the sheave.
+      [1913 Webster]
+
+   6. (computers) A record of activities performed within a
+      program, or changes in a database or file on a computer,
+      and typically kept as a file in the computer.
+      [PJC]
+
+   {Log board} (Naut.), a board consisting of two parts shutting
+      together like a book, with columns in which are entered
+      the direction of the wind, course of the ship, etc.,
+      during each hour of the day and night. These entries are
+      transferred to the log book. A folding slate is now used
+      instead.
+
+   {Log book}, or {Logbook} (Naut.),
+      (a) a book in which is entered the daily progress of a
+          ship at sea, as indicated by the log, with notes on
+          the weather and incidents of the voyage; the contents
+          of the log board.
+      (b) a book in which a log[4] is recorded.
+
+   {Log cabin}, {Log house}, a cabin or house made of logs.
+
+   {Log canoe}, a canoe made by shaping and hollowing out a
+      single log; a dugout canoe.
+
+   {Log glass} (Naut.), a small sandglass used to time the
+      running out of the log line.
+
+   {Log line} (Naut.), a line or cord about a hundred and fifty
+      fathoms long, fastened to the log-chip. See Note under 2d
+      {Log}, n., 2.
+
+   {Log perch} (Zo["o]l.), an ethiostomoid fish, or darter
+      ({Percina caprodes}); -- called also {hogfish} and
+      {rockfish}.
+
+   {Log reel} (Naut.), the reel on which the log line is wound.
+      
+
+   {Log slate}. (Naut.) See {Log board} (above).
+
+   {Rough log} (Naut.), a first draught of a record of the
+      cruise or voyage.
+
+   {Smooth log} (Naut.), a clean copy of the rough log. In the
+      case of naval vessels this copy is forwarded to the proper
+      officer of the government.
+
+   {To heave the log} (Naut.), to cast the log-chip into the
+      water; also, the whole process of ascertaining a vessel's
+      speed by the log.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>log</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Log \Log\, v. t. [imp. &amp; p. p. {Logged}; p. pr. &amp; vb. n.
+   {Logging}.]
+   1. (Naut.), To enter in a ship's log book; as, to log the
+      miles run. --J. F. Cooper.
+      [1913 Webster]
+
+   2. To record any event in a logbook, especially an event
+      relating to the operation of a machine or device.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>log</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Log \Log\, v. i.
+   1. To engage in the business of cutting or transporting logs
+      for timber; to get out logs. [U.S.]
+      [1913 Webster]
+
+   2. To move to and fro; to rock. [Obs.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>log</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>log
+     n 1: a segment of the trunk of a tree when stripped of branches
+     2: large log at the back of a hearth fire [syn: {backlog}]
+     3: the exponent required to produce a given number [syn: {logarithm}]
+     4: a written record of messages sent or received; "they kept a
+        log of all transmission by the radio station"; "an email
+        log"
+     5: a written record of events on a voyage (of a ship or plane)
+     6: measuring instrument that consists of a float that trails
+        from a ship by a knotted line in order to measure the
+        ship's speed through the water
+     v 1: enter into a log, as on ships and planes
+     2: cut lumber, as in woods and forests [syn: {lumber}]
+     [also: {logging}, {logged}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

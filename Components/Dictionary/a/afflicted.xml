@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>afflicted</Word>
+  <Definitions>
+    <Definition>
+      <Word>afflicted</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Afflict \Af*flict"\, v. t. [imp. &amp; p. p. {Afflicted}; p. pr. &amp;
+   vb. n. {Afflicting}.] [L. afflictus, p. p. of affigere to
+   cast down, deject; ad + fligere to strike: cf. OF. aflit,
+   afflict, p. p. Cf. {Flagellate}.]
+   1. To strike or cast down; to overthrow. [Obs.]
+      ``Reassembling our afflicted powers.'' --Milton.
+      [1913 Webster]
+
+   2. To inflict some great injury or hurt upon, causing
+      continued pain or mental distress; to trouble grievously;
+      to torment.
+      [1913 Webster]
+
+            They did set over them taskmasters to afflict them
+            with their burdens.                   --Exod. i. 11.
+      [1913 Webster]
+
+            That which was the worst now least afflicts me.
+                                                  --Milton.
+      [1913 Webster]
+
+   3. To make low or humble. [Obs.] --Spenser.
+      [1913 Webster]
+
+            Men are apt to prefer a prosperous error before an
+            afflicted truth.                      --Jer. Taylor.
+      [1913 Webster]
+
+   Syn: To trouble; grieve; pain; distress; harass; torment;
+        wound; hurt.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>afflicted</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>afflicted
+     adj 1: grievously affected especially by disease [syn: {stricken}]
+     2: mentally or physically unfit [syn: {impaired}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

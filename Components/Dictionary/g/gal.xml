@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>gal</Word>
+  <Definitions>
+    <Definition>
+      <Word>gal</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>GAL
+     
+        &lt;hardware&gt; {Generic Array Logic}.
+     
+        (1995-12-09)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gal</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>GAL
+     Generic Array celL / Logic
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>gal
+     n 1: United States liquid unit equal to 4 quarts or 3.785 liters
+          [syn: {gallon}]
+     2: a unit of gravitational acceleration equal to one centimeter
+        per second per second (named after Galileo)
+     3: alliterative term for girl (or woman)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

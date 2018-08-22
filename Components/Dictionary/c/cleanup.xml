@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cleanup</Word>
+  <Definitions>
+    <Definition>
+      <Word>cleanup</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>clean up
+     v 1: put (things or places) in order; "Tidy up your room!" [syn:
+          {tidy}, {tidy up}, {neaten}, {straighten}, {straighten
+          out}, {square away}]
+     2: make a big profit; often in a short period of time; "The
+        investor really cleaned up when the stock market went up"
+     3: dispose of; "settle the bills"
+     4: make oneself clean, presentable or neat; "Clean up before
+        you go to the party"
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cleanup</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cleanup
+     n 1: a very large profit [syn: {killing}]
+     2: (baseball) the fourth position in the batting order (usually
+        filled by the best batter on the team) [syn: {cleanup
+        position}, {cleanup spot}]
+     3: the act of making something clean; "he gave his shoes a good
+        cleaning" [syn: {cleaning}, {cleansing}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

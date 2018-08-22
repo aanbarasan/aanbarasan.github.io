@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>robin</Word>
+  <Definitions>
+    <Definition>
+      <Word>robin</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Robin \Rob"in\, n. [Properly a pet name for Robert, originally
+   meaning, famebright; F., fron OHG. Roudperht; ruod (in comp.;
+   akin to AS. hr?? glory, fame, Goth. hr?peigs victorius) +
+   beraht bright. See {Bright}, {Hob} a clown.] (Zo["o]l.)
+   (a) A small European singing bird ({Erythacus rubecula}),
+       having a reddish breast; -- called also {robin
+       redbreast}, {robinet}, and {ruddock}.
+   (b) An American singing bird ({Merula migratoria}), having
+       the breast chestnut, or dull red. The upper parts are
+       olive-gray, the head and tail blackish. Called also
+       {robin redbreast}, and {migratory thrush}.
+   (c) Any one of several species of Australian warblers of the
+       genera {Petroica}, {Melanadrays}, and allied genera; as,
+       the scarlet-breasted robin ({Petroica mullticolor}).
+   (d) Any one of several Asiatic birds; as, the Indian robins.
+       See {Indian robin}, below.
+       [1913 Webster]
+
+   {Beach robin} (Zo["o]l.), the robin snipe, or knot. See
+      {Knot}.
+
+   {Blue-throated robin}. (Zo["o]l.) See {Bluethroat}.
+
+   {Canada robin} (Zo["o]l.), the cedar bird.
+
+   {Golden robin} (Zo["o]l.), the Baltimore oriole.
+
+   {Ground robin} (Zo["o]l.), the chewink.
+
+   {Indian robin} (Zo["o]l.), any one of several species of
+      Asiatic saxoline birds of the genera {Thamnobia} and
+      {Pratincola}. They are mostly black, usually with some
+      white on the wings.
+
+   {Magrie robin} (Zo["o]l.), an Asiatic singing bird ({Corsycus
+      saularis}), having the back, head, neck, and breast black
+      glossed with blue, the wings black, and the belly white.
+      
+
+   {Ragged robin}. (Bot.) See under {Ragged}.
+
+   {Robin accentor} (Zo["o]l.), a small Asiatic singing bird
+      ({Accentor rubeculoides}), somewhat resembling the
+      European robin.
+
+   {Robin redbreast}. (Zo["o]l.)
+   (a) The European robin.
+   (b) The American robin.
+   (c) The American bluebird.
+
+   {Robin snipe}. (Zo["o]l.)
+   (a) The red-breasted snipe, or dowitcher.
+   (b) The red-breasted sandpiper, or knot.
+
+   {Robin's plantain}. (Bot.) See under {Plantain}.
+
+   {Sea robin}. (Zo["o]l.)
+   (a) Any one of several species of American gurnards of the
+       genus {Prionotus}. They are excellent food fishes. Called
+       also {wingfish}. The name is also applied to a European
+       gurnard.
+   (b) The red-breasted merganser, or sheldrake. [Local, U.S.]
+       
+
+   {Water robin} (Zo["o]l.), a redstart ({Ruticulla
+      fuliginosa}), native of India.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>robin</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>robin
+     n 1: small Old World songbird with a reddish breast [syn: {redbreast},
+           {robin redbreast}, {Old World robin}, {Erithacus
+          rubecola}]
+     2: large American thrush having a rust-red breast and abdomen
+        [syn: {American robin}, {Turdus migratorius}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

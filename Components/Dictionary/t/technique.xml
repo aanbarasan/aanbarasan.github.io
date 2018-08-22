@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>technique</Word>
+  <Definitions>
+    <Definition>
+      <Word>technique</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Technique \Tech`nique"\, n. [F.]
+   1. The method or manner of performance in any art; -- also
+      called {technic}.
+      [1913 Webster]
+
+   2. The body of technical methods and procedures used in a
+      science or craft.
+      [PJC]
+
+   3. the detailed movements used for executing an artistic
+      performance; technical skill; artistic execution; as, a
+      pianist's fingering technique.
+      [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>technique</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>technique
+     n 1: a practical method or art applied to some particular task
+     2: skillfulness in the command of fundamentals deriving from
+        practice and familiarity; "practice greatly improves
+        proficiency" [syn: {proficiency}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

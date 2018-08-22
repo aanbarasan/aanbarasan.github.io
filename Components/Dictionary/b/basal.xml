@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>basal</Word>
+  <Definitions>
+    <Definition>
+      <Word>basal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Basal \Ba"sal\, a.
+   Relating to, or forming, the base.
+   [1913 Webster]
+
+   {Basal cleavage}. See under {Cleavage}.
+
+   {Basal plane} (Crystallog.), a plane parallel to the lateral
+      or horizontal axis.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>basal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>basal
+     adj 1: especially of leaves; located at the base of a plant or
+            stem; especially arising directly from the root or
+            rootstock or a root-like stem; "basal placentation";
+            "radical leaves" [syn: {radical}] [ant: {cauline}]
+     2: serving as or forming a base; "the painter applied a base
+        coat followed by two finishing coats" [syn: {base}]
+     3: of primary importance; "basic truths" [syn: {basic}, {primary}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ambivalent</Word>
+  <Definitions>
+    <Definition>
+      <Word>ambivalent</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>ambivalent \ambivalent\ adj.
+   1. 1 undecided as to whether or not to take a proposed course
+      of action; having feelings both for and against the
+      proposed action.
+
+   Syn: on the fence(predicate), suspensive, uncertain
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ambivalent</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ambivalent
+     adj 1: characterized by a mixture of opposite feelings or
+            attitudes; "she felt ambivalent about his proposal";
+            "an ambivalent position on rent control"
+     2: uncertain or unable to decide about what course to follow;
+        "was ambivalent about having children"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

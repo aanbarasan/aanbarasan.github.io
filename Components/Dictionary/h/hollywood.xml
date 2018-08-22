@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hollywood</Word>
+  <Definitions>
+    <Definition>
+      <Word>hollywood</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Hollywood, AL (town, FIPS 35632)
+  Location: 34.71688 N, 85.96571 W
+  Population (1990): 916 (355 housing units)
+  Area: 23.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 35752
+Hollywood, FL (city, FIPS 32000)
+  Location: 26.02982 N, 80.16476 W
+  Population (1990): 121697 (63303 housing units)
+  Area: 70.6 sq km (land), 8.9 sq km (water)
+  Zip code(s): 33019, 33020, 33021, 33025, 33026, 33027, 33028
+Hollywood, MD
+  Zip code(s): 20636
+Hollywood, SC (town, FIPS 34495)
+  Location: 32.75164 N, 80.20121 W
+  Population (1990): 2094 (752 housing units)
+  Area: 44.9 sq km (land), 3.1 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hollywood</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Hollywood
+     adj 1: of or relating to the film industry in the United States; "a
+            Hollywood actor"
+     2: flashy and vulgar; "young white women dressed Hollywood
+        style"; "Hollywood philandering"
+     n 1: the film industry of the United States
+     2: a flashy vulgar tone or atmosphere believed to be
+        characteristic of the American film industry; "some people
+        in publishing think of theirs as a glamorous medium so
+        they copy the glitter of Hollywood"
+     3: a district of Los Angeles long associated with the American
+        film industry
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

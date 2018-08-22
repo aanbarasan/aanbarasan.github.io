@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>assessment</Word>
+  <Definitions>
+    <Definition>
+      <Word>assessment</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Assessment \As*sess"ment\, n. [LL. assessamentum.]
+   1. The act of assessing; the act of determining an amount to
+      be paid; as, an assessment of damages, or of taxes; an
+      assessment of the members of a club.
+      [1913 Webster]
+
+   2. A valuation of property or profits of business, for the
+      purpose of taxation; such valuation and an adjudging of
+      the proper sum to be levied on the property; as, an
+      assessment of property or an assessment on property.
+      [1913 Webster]
+
+   Note: An assessment is a valuation made by authorized persons
+         according to their discretion, as opposed to a sum
+         certain or determined by law. It is a valuation of the
+         property of those who are to pay the tax, for the
+         purpose of fixing the proportion which each man shall
+         pay. --Blackstone. Burrill.
+         [1913 Webster]
+
+   3. The specific sum levied or assessed.
+      [1913 Webster]
+
+   4. An apportionment of a subscription for stock into
+      successive installments; also, one of these installments
+      (in England termed a ``call''). [U. S.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>assessment</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>assessment
+     n 1: the classification of someone or something with respect to
+          its worth [syn: {appraisal}]
+     2: an amount determined as payable; "the assessment for repairs
+        outraged the club's membership"
+     3: the market value set on assets
+     4: the act of judging or assessing a person or situation or
+        event; "they criticized my judgment of the contestants"
+        [syn: {judgment}, {judgement}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

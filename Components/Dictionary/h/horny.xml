@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>horny</Word>
+  <Definitions>
+    <Definition>
+      <Word>horny</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Horny \Horn"y\, a. [Compar. {Hornier}; superl. {Horniest}.]
+   1. Having horns or hornlike projections. --Gay.
+      [1913 Webster]
+
+   2. Composed or made of horn, or of a substance resembling
+      horn; of the nature of horn. ``The horny . . . coat of the
+      eye.'' --Ray.
+      [1913 Webster]
+
+   3. Hard; callous. ``His horny fist.'' --Dryden.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>horny</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>horny
+     adj 1: feeling great sexual desire; "feeling horny" [syn: {aroused},
+             {randy}, {ruttish}, {turned on(p)}]
+     2: having horns or hornlike projections; "horny coral"; "horny
+        (or horned) frog"
+     3: made of horn (or of a substance resembling horn) [syn: {corneous},
+         {hornlike}]
+     [also: {horniest}, {hornier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

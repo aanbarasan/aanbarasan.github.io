@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>news</Word>
+  <Definitions>
+    <Definition>
+      <Word>news</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>news
+     
+        See {netnews}.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>news</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>NeWS
+     
+        /nee'wis/, /n[y]oo'is/ or /n[y]ooz/ {Network extensible Window
+        System}.
+     
+        Many hackers insist on the two-syllable pronunciations above
+        as a way of distinguishing NeWS from {news} (the {netnews}
+        software).
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>news</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>News \News\ (n[=u]z), n [From New; cf. F. nounelles. News is
+   plural in form, but is commonly used with a singular verb.]
+   1. A report of recent occurrences; information of something
+      that has lately taken place, or of something before
+      unknown; fresh tidings; recent intelligence.
+      [1913 Webster]
+
+            Evil news rides post, while good news baits.
+                                                  --Milton.
+      [1913 Webster]
+
+   2. Something strange or newly happened.
+      [1913 Webster]
+
+            It is no news for the weak and poor to be a prey to
+            the strong and rich.                  --L'Estrange.
+      [1913 Webster]
+
+   3. A bearer of news; a courier; a newspaper. [Obs.]
+      [1913 Webster]
+
+            There cometh a news thither with his horse. --Pepys.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>news</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>NeWS /nee'wis/, /n[y]oo'is/ or /n[y]ooz/ n. [acronym; the `Network
+   Window System'] The road not taken in window systems, an elegant
+   {{PostScript}}-based environment that would almost certainly have won
+   the standards war with {X} if it hadn't been {proprietary} to Sun
+   Microsystems. There is a lesson here that too many software vendors
+   haven't yet heeded. Many hackers insist on the two-syllable
+   pronunciations above as a way of distinguishing NeWS from Usenet news
+   (the {netnews} software).
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>news</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>NEWS
+     Netware Early Warning System (Novell, Netware)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>news</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>NEWS
+     Networked Extensible Windowing System (Sun), "NeWS"
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>news</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>news
+     n 1: new information about specific and timely events; "they
+          awaited news of the outcome" [syn: {intelligence}, {tidings},
+           {word}]
+     2: new information of any kind; "it was news to me"
+     3: a program devoted to news; "we watch the 7 o'clock news
+        every night" [syn: {news program}, {news show}]
+     4: information reported in a newspaper or news magazine; "the
+        news of my death was greatly exaggerated"
+     5: the quality of being sufficiently interesting to be reported
+        in news bulletins; "the judge conceded the newsworthiness
+        of the trial"; "he is no longer news in the fashion world"
+        [syn: {newsworthiness}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

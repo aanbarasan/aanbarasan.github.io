@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sooner</Word>
+  <Definitions>
+    <Definition>
+      <Word>sooner</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sooner \Soon"er\, n.
+   In the western United States, one who settles on government
+   land before it is legally open to settlement in order to gain
+   the prior claim that the law gives to the first settler when
+   the land is opened to settlement; hence, any one who does a
+   thing prematurely or anticipates another in acting in order
+   to gain an unfair advantage.
+   [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sooner</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sooner
+     adv 1: comparatives of `soon' or `early'; "Come a little sooner, if
+            you can"; "came earlier than I expected" [syn: {earlier}]
+     2: more readily or willingly; "clean it well, preferably with
+        warm water"; "I'd rather be in Philadelphia"; "I'd sooner
+        die than give up" [syn: {preferably}, {rather}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

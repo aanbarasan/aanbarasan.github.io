@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>alamo</Word>
+  <Definitions>
+    <Definition>
+      <Word>alamo</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Alamo, CA (CDP, FIPS 618)
+  Location: 37.85707 N, 121.99863 W
+  Population (1990): 12277 (4337 housing units)
+  Area: 48.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 94507
+Alamo, GA (city, FIPS 996)
+  Location: 32.14597 N, 82.77990 W
+  Population (1990): 855 (373 housing units)
+  Area: 4.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 30411
+Alamo, IN (town, FIPS 784)
+  Location: 39.98367 N, 87.05507 W
+  Population (1990): 112 (51 housing units)
+  Area: 0.1 sq km (land), 0.0 sq km (water)
+Alamo, ND (city, FIPS 940)
+  Location: 48.58203 N, 103.46704 W
+  Population (1990): 69 (46 housing units)
+  Area: 1.4 sq km (land), 0.1 sq km (water)
+Alamo, NM
+  Zip code(s): 87825
+Alamo, NV
+  Zip code(s): 89001
+Alamo, TN (town, FIPS 440)
+  Location: 35.78263 N, 89.11573 W
+  Population (1990): 2426 (1049 housing units)
+  Area: 5.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 38001
+Alamo, TX (city, FIPS 1576)
+  Location: 26.18860 N, 98.11852 W
+  Population (1990): 8210 (3940 housing units)
+  Area: 7.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 78516
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>alamo</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Alamo
+     n : the mission in San Antonio where in 1836 Mexican forces
+         under Santa Anna besieged and massacred American rebels
+         who were fighting to make Texas independent of Mexico
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

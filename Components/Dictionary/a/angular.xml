@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>angular</Word>
+  <Definitions>
+    <Definition>
+      <Word>angular</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Angular \An"gu*lar\, n. (Anat.)
+   A bone in the base of the lower jaw of many birds, reptiles,
+   and fishes.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>angular</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Angular \An"gu*lar\, a. [L. angularis, fr. angulus angle,
+   corner. See {Angle}.]
+   1. Relating to an angle or to angles; having an angle or
+      angles; forming an angle or corner; sharp-cornered;
+      pointed; as, an angular figure.
+      [1913 Webster]
+
+   2. Measured by an angle; as, angular distance.
+      [1913 Webster]
+
+   3. Fig.: Lean; lank; raw-boned; ungraceful; sharp and stiff
+      in character; as, remarkably angular in his habits and
+      appearance; an angular female.
+      [1913 Webster]
+
+   {Angular aperture}, {Angular distance}. See {Aperture},
+      {Distance}.
+
+   {Angular motion}, the motion of a body about a fixed point or
+      fixed axis, as of a planet or pendulum. It is equal to the
+      angle passed over at the point or axis by a line drawn to
+      the body.
+
+   {Angular point}, the point at which the sides of the angle
+      meet; the vertex.
+
+   {Angular velocity}, the ratio of anuglar motion to the time
+      employed in describing.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>angular</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>angular
+     adj 1: measured by an angle or by the rate of change of an angle;
+            "angular momentum"
+     2: having angles or an angular shape [syn: {angulate}] [ant: {rounded}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

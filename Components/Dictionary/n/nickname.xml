@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nickname</Word>
+  <Definitions>
+    <Definition>
+      <Word>nickname</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Nickname \Nick"name`\, v. t. [imp. &amp; p. p. {Nicknamed}; p. pr. &amp;
+   vb. n. {Nicknaming}.]
+   To give a nickname to; to call by a nickname.
+   [1913 Webster]
+
+         You nickname virtue; vice you should have spoke.
+                                                  --Shak.
+   [1913 Webster]
+
+         I altogether disclaim what has been nicknamed the
+         doctrine of finality.                    --Macaulay.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nickname</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>nickname \nick"name`\, n. [OE. ekename surname, hence, a
+   nickname, an ekename being understood as a nekename,
+   influenced also by E. nick, v. See {Eke}, and {Name}.]
+   A name given in affectionate familiarity, sportive
+   familiarity, contempt, or derision; a familiar or an
+   opprobrious appellation; as, Nicholas's nickname is Nick.
+   [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nickname</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nickname
+     n 1: a familiar name  for a person (often a shortened version of
+          a person's given name); "Joe's mother would not use his
+          nickname and always called him Joseph"; "Henry's
+          nickname was Slim" [syn: {moniker}, {cognomen}, {sobriquet},
+           {soubriquet}]
+     2: a descriptive name for a place or thing; "the nickname for
+        the U.S. Constitution is `Old Ironsides'"
+     v : give a nickname to [syn: {dub}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

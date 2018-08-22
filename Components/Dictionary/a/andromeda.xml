@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>andromeda</Word>
+  <Definitions>
+    <Definition>
+      <Word>andromeda</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Andromeda \An*drom"e*da\, n. [L., fr. Gr. ?, the daughter of
+   Cepheus and Cassiopeia. When bound to a rock and exposed to a
+   sea monster, she was delivered by Perseus.]
+   1. (Astron.) A northern constellation, supposed to represent
+      the mythical Andromeda.
+      [1913 Webster]
+
+   2. (bot.) A genus of ericaceous flowering plants of northern
+      climates, of which the original species was found growing
+      on a rock surrounded by water.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>andromeda</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>andromeda
+     n 1: broad-leaved evergreen Asiatic shrub with glossy leaves and
+          drooping clusters of white flowers [syn: {Japanese
+          andromeda}, {lily-of-the-valley tree}, {Pieris japonica}]
+     2: any of several shrubs of the genus Andromeda having leathery
+        leaves and clusters of small flowers
+     3: a constellation in the northern hemisphere between
+        Cassiopeia and Pegasus; contains the Andromeda Galaxy
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

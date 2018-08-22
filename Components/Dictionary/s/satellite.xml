@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>satellite</Word>
+  <Definitions>
+    <Definition>
+      <Word>satellite</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Satellite \Sat"el*lite\, n. [F., fr. L. satelles, -itis, an
+   attendant.]
+   1. An attendant attached to a prince or other powerful
+      person; hence, an obsequious dependent. ``The satellites
+      of power.'' --I. Disraeli.
+      [1913 Webster]
+
+   2. (Astron.) A secondary planet which revolves about another
+      planet; as, the moon is a satellite of the earth. See
+      {Solar system}, under {Solar}.
+      [1913 Webster]
+
+   {Satellite moth} (Zo["o]l.), a handsome European noctuid moth
+      ({Scopelosoma satellitia}).
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>satellite</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Satellite \Sat"el*lite\, a. (Anat.)
+   Situated near; accompanying; as, the satellite veins, those
+   which accompany the arteries.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>satellite</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>satellite
+     adj : surrounding and dominated by a central authority or power;
+           "a city and its satellite communities"
+     n 1: man-made equipment that orbits around the earth or the moon
+          [syn: {artificial satellite}, {orbiter}]
+     2: a person who follows or serves another [syn: {planet}]
+     3: any celestial body orbiting around a planet or star
+     v : broadcast or disseminate via satellite
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

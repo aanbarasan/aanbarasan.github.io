@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>my</Word>
+  <Definitions>
+    <Definition>
+      <Word>my</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>my
+     
+        &lt;networking&gt; The {country code} for Malaysia.
+     
+        (1999-01-27)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>my</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>My \My\ (m[imac]), a. &amp; poss. pron. [OE. mi, fr. min. See
+   {Mine}, and cf., for loss of n, {A}, a., {An}, a.]
+   Of or belonging to me; -- used always attributively; as, my
+   body; my book; -- mine is used in the predicate; as, the book
+   is mine. See {Mine}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

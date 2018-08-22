@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>escape</Word>
+  <Definitions>
+    <Definition>
+      <Word>escape</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>ESCAPE
+     
+        &lt;language&gt; An early system on the {IBM 650}.
+     
+        [Listed in CACM 2(5):16 (May 1959)].
+     
+        (1995-01-05)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>escape</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>escape
+     
+        &lt;character&gt; (ESC) {ASCII} character 27.
+     
+        When sent by the user, escape is often used to abort execution
+        or data entry.  When sent by the computer it often starts an
+        {escape sequence}.
+     
+        (1997-11-27)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>escape</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Escape \Es*cape"\, v. i.
+   1. To flee, and become secure from danger; -- often followed
+      by from or out of.
+      [1913 Webster]
+
+            Haste, for thy life escape, nor look behind??
+                                                  --Keble.
+      [1913 Webster]
+
+   2. To get clear from danger or evil of any form; to be passed
+      without harm.
+      [1913 Webster]
+
+            Such heretics . . . would have been thought
+            fortunate, if they escaped with life. --Macaulay.
+      [1913 Webster]
+
+   3. To get free from that which confines or holds; -- used of
+      persons or things; as, to escape from prison, from arrest,
+      or from slavery; gas escapes from the pipes; electricity
+      escapes from its conductors.
+      [1913 Webster]
+
+            To escape out of these meshes.        --Thackeray.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>escape</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Escape \Es*cape"\, n.
+   1. The act of fleeing from danger, of evading harm, or of
+      avoiding notice; deliverance from injury or any evil;
+      flight; as, an escape in battle; a narrow escape; also,
+      the means of escape; as, a fire escape.
+      [1913 Webster]
+
+            I would hasten my escape from the windy storm. --Ps.
+                                                  lv. 8.
+      [1913 Webster]
+
+   2. That which escapes attention or restraint; a mistake; an
+      oversight; also, transgression. [Obs.]
+      [1913 Webster]
+
+            I should have been more accurate, and corrected all
+            those former escapes.                 --Burton.
+      [1913 Webster]
+
+   3. A sally. ``Thousand escapes of wit.'' --Shak.
+      [1913 Webster]
+
+   4. (Law) The unlawful permission, by a jailer or other
+      custodian, of a prisoner's departure from custody.
+      [1913 Webster]
+
+   5. (Bot.) A plant which has escaped from cultivation.
+      [Webster 1913 Suppl.]
+
+   Note: Escape is technically distinguishable from prison
+         breach, which is the unlawful departure of the prisoner
+         from custody, escape being the permission of the
+         departure by the custodian, either by connivance or
+         negligence. The term escape, however, is applied by
+         some of the old authorities to a departure from custody
+         by stratagem, or without force. --Wharton.
+         [1913 Webster]
+
+   5. (Arch.) An apophyge.
+      [1913 Webster]
+
+   6. Leakage or outflow, as of steam or a liquid.
+      [1913 Webster]
+
+   7. (Elec.) Leakage or loss of currents from the conducting
+      wires, caused by defective insulation.
+      [1913 Webster]
+
+   {Escape pipe} (Steam Boilers), a pipe for carrying away steam
+      that escapes through a safety valve.
+
+   {Escape valve} (Steam Engine), a relief valve; a safety
+      valve. See under {Relief}, and {Safety}.
+
+   {Escape wheel} (Horol.), the wheel of an escapement.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>escape</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Escape \Es*cape"\, v. t. [imp. &amp; p. p. {Escaped}; p. pr. &amp; vb.
+   n. {Escaping}.] [OE. escapen, eschapen, OF. escaper,
+   eschaper, F. echapper, fr. LL. ex cappa out of one's cape or
+   cloak; hence, to slip out of one's cape and escape. See 3d
+   {Cape}, and cf. {Scape}, v.]
+   1. To flee from and avoid; to be saved or exempt from; to
+      shun; to obtain security from; as, to escape danger.
+      ``Sailors that escaped the wreck.'' --Shak.
+      [1913 Webster]
+
+   2. To avoid the notice of; to pass unobserved by; to evade;
+      as, the fact escaped our attention.
+      [1913 Webster]
+
+            They escaped the search of the enemy. --Ludlow.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>escape</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>escape
+     n 1: the act of escaping physically; "he made his escape from the
+          mental hospital"; "the canary escaped from its cage";
+          "his flight was an indication of his guilt" [syn: {flight}]
+     2: an inclination to retreat from unpleasant realities through
+        diversion or fantasy; "romantic novels were her escape
+        from the stress of daily life"; "his alcohol problem was a
+        form of escapism" [syn: {escapism}]
+     3: the unwanted discharge of a fluid from some container; "they
+        tried to stop the escape of gas from the damaged pipe";
+        "he had to clean up the leak" [syn: {leak}, {leakage}, {outflow}]
+     4: a valve in a container in which pressure can build up (as a
+        steam boiler); it opens automatically when the pressure
+        reaches a dangerous level [syn: {safety valve}, {relief
+        valve}, {escape valve}, {escape cock}]
+     5: nonperformance of something distasteful (as by deceit or
+        trickery) that you are supposed to do; "his evasion of his
+        clear duty was reprehensible"; "that escape from the
+        consequences is possible but unattractive" [syn: {evasion},
+         {dodging}]
+     6: an avoidance of danger or difficulty; "that was a narrow
+        escape"
+     7: a means or way of escaping; "hard work was his escape from
+        worry"; "they installed a second hatch as an escape";
+        "their escape route"
+     8: a plant originally cultivated but now growing wild
+     v 1: run away from confinement; "The convicted murderer escaped
+          from a high security prison" [syn: {get away}, {break
+          loose}]
+     2: fail to experience; "Fortunately, I missed the hurricane"
+        [syn: {miss}]
+     3: escape potentially unpleasant consequences; get away with a
+        forbidden action; "She gets away with murder!"; "I
+        couldn't get out from under these responsibilities" [syn:
+        {get off}, {get away}, {get by}, {get out}]
+     4: be incomprehensible to; escape understanding by; "What you
+        are seeing in him eludes me" [syn: {elude}]
+     5: issue or leak, as from a small opening; "Gas escaped into
+        the bedroom"
+     6: remove oneself from a familiar environment, usually for
+        pleasure or diversion; "We escaped to our summer house for
+        a few days"; "The president of the company never manages
+        to get away during the summer" [syn: {get away}]
+     7: flee; take to one's heels; cut and run; "If you see this
+        man, run!"; "The burglars escaped before the police showed
+        up" [syn: {run}, {scarper}, {turn tail}, {lam}, {run away},
+         {hightail it}, {bunk}, {head for the hills}, {take to the
+        woods}, {fly the coop}, {break away}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

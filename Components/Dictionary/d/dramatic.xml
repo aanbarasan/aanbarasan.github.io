@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dramatic</Word>
+  <Definitions>
+    <Definition>
+      <Word>dramatic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dramatic \Dra*mat"ic\ (dr[.a]*m[a^]t"[i^]k), Dramatical
+\Dra*mat"ic*al\ (dr[.a]*m[a^]t"[i^]*kal), a. [Gr. dramatiko`s,
+   fr. dra^ma: cf. F. dramatique.]
+   Of or pertaining to the drama; as, dramatic arts. [WordNet
+   sense 3]
+   [1913 Webster]
+
+   2. suitable to or characteristic of or having the qualities
+      of, a drama; theatrical; as, a dramatic entrance in a
+      swirling cape; a dramatic rescue at sea. Opposite of
+      {undramatic}. [WordNet sense 1] [Narrower terms:
+      {melodramatic}; {awe-inspiring, spectacular}]
+      [WordNet 1.5]
+
+            The emperor . . . performed his part with much
+            dramatic effect.                      --Motley.
+      [1913 Webster]
+
+   3. striking in appearance or effect; vivid; having a
+      thrilling effect; as, a dramatic sunset; a dramatic pause.
+      [WordNet sense 2]
+
+   Syn: spectacular, striking.
+        [WordNet 1.5]
+
+   4. (Music) marked by power and expressiveness and a
+      histrionic or theatrical style; -- of a singer or singing
+      voice; as, a dramatic tenor; a dramatic soprano.
+      Contrasted to {lyric}. [WordNet sense 4]
+      [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dramatic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dramatic
+     adj 1: suitable to or characteristic of drama; "a dramatic entrance
+            in a swirling cape"; "a dramatic rescue at sea" [ant:
+            {undramatic}]
+     2: sensational in appearance or thrilling in effect; "a
+        dramatic sunset"; "a dramatic pause"; "a spectacular
+        display of northern lights"; "it was a spectacular play";
+        "his striking good looks always created a sensation" [syn:
+         {spectacular}, {striking}]
+     3: pertaining to or characteristic of drama; "dramatic arts"
+     4: used of a singer or singing voice that is marked by power
+        and expressiveness and a histrionic or theatrical style;
+        "a dramatic tenor"; "a dramatic soprano" [ant: {lyric}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

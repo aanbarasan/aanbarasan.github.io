@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>claustrophobic</Word>
+  <Definitions>
+    <Definition>
+      <Word>claustrophobic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>confined \confined\ adj.
+   1. having movement restricted to within a certain area; --
+      usually a building. Opposite of {unconfined}.
+
+   Note: [Narrower terms: {claustrophobic}; {close, confining};
+         {homebound, housebound, shut-in}; {in
+         childbed(prenominal)}; {pent, shut up(predicate)};
+         {snowbound}; {weather-bound}; {stormbound,
+         storm-bound}]
+         [WordNet 1.5]
+
+   2. deprived of liberty; especially placed under arrest or
+      restraint.
+      [WordNet 1.5]
+
+   3. having movement restricted to within an enclosed outdoor
+      area; -- of animals.
+
+   Syn: fenced in, penned.
+        [WordNet 1.5]
+
+   4. (Med.) not invading healthy tissue.
+      [WordNet 1.5]
+
+   5. held prisoner.
+
+   Syn: captive, imprisoned, jailed.
+        [WordNet 1.5]
+
+   6. having movement or progress restricted to a certain area;
+      as, an outbreak of the plague confined to one quarter of
+      the city; wildfires confined to within the canyon.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>claustrophobic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>claustrophobic
+     adj 1: uncomfortably closed or hemmed in; "a claustrophobic little
+            room"
+     2: suffering from claustrophobia; abnormally afraid of
+        closed-in places
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>closely</Word>
+  <Definitions>
+    <Definition>
+      <Word>closely</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Closely \Close"ly\, adv.
+   1. In a close manner.
+      [1913 Webster]
+
+   2. Secretly; privately. [Obs.]
+      [1913 Webster]
+
+            That nought she did but wayle, and often steepe
+            Her dainty couch with tears which
+            closely she did weepe.                --Spenser.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>closely</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>closely
+     adv 1: in a close relation or position in time or space; "the
+            onsets were closely timed"; "houses set closely
+            together"; "was closely involved in monitoring daily
+            progress"
+     2: in a close manner; "the two phenomena are intimately
+        connected"; "the person most nearly concerned" [syn: {intimately},
+         {nearly}]
+     3: in an attentive manner; "he remained close on his guard"
+        [syn: {close}, {tight}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

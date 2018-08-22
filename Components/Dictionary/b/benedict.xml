@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>benedict</Word>
+  <Definitions>
+    <Definition>
+      <Word>benedict</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Benedict, KS (city, FIPS 6000)
+  Location: 37.62470 N, 95.74190 W
+  Population (1990): 16 (11 housing units)
+  Area: 0.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 66714
+Benedict, ND (city, FIPS 5980)
+  Location: 47.83054 N, 101.08373 W
+  Population (1990): 52 (30 housing units)
+  Area: 0.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 58716
+Benedict, NE (village, FIPS 4195)
+  Location: 41.00662 N, 97.60678 W
+  Population (1990): 230 (95 housing units)
+  Area: 0.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 68316
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>benedict</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Benedict \Ben"e*dict\, Benedick \Ben"e*dick\, n. [From Benedick,
+   one of the characters in Shakespeare's play of ``Much Ado
+   about Nothing.'']
+   A married man, or a man newly married.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>benedict</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Benedict \Ben"e*dict\, a. [L. benedictus, p. p. of benedicere to
+   bless. See {Benison}, and cf. {Bennet}.]
+   Having mild and salubrious qualities. [Obs.] --Bacon.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>benedict</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Benedict
+     n 1: United States anthropologist (1887-1948) [syn: {Ruth
+          Benedict}, {Ruth Fulton}]
+     2: Italian monk who founded the Benedictine order about 540
+        (480-547) [syn: {Saint Benedict}, {St. Benedict}]
+     3: a newly married man (especially one who has long been a
+        bachelor) [syn: {benedick}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>chaucer</Word>
+  <Definitions>
+    <Definition>
+      <Word>chaucer</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Chaucer
+     n : English poet remembered as author of the Canterbury Tales
+         (1340-1400) [syn: {Geoffrey Chaucer}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

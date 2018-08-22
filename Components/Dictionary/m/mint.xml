@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mint</Word>
+  <Definitions>
+    <Definition>
+      <Word>mint</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Mint
+   (Gr. heduosmon, i.e., "having a sweet smell"), one of the garden
+   herbs of which the Pharisees paid tithes (Matt. 23:23; Luke
+   11:42). It belongs to the labiate family of plants. The species
+   most common in Syria is the Mentha sylvestris, the wild mint,
+   which grows much larger than the garden mint (M. sativa). It was
+   much used in domestic economy as a condiment, and also as a
+   medicine. The paying of tithes of mint was in accordance with
+   the Mosiac law (Deut. 14:22), but the error of the Pharisees lay
+   in their being more careful about this little matter of the mint
+   than about weightier matters.
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mint</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>MiNT
+     
+        &lt;operating system&gt; (MinT is not TOS - a {recursive acronym}) A
+        freeware, {open source operating system} for the {Atari ST}
+        range of computers.  MiNT was originally based on a {port} of
+        {BSD} to {Atari ST} computers by Eric R. Smith.  MiNT gave the
+        Atari access to BSD's many network applications.  A short
+        (1992-94) romance between MiNT and {Atari} Corp., who decided
+        to convert the system to the {MultiTOS} {kernel}, produced a
+        unique TOS/Unix hybrid, which provides simultaneous access to
+        both {GEM} and BSD application libraries.
+     
+        Since MiNT is MultiTOS's kernel, it has kept all the features
+        described above and, if an {AES} replacement is installed, it
+        can show you a new face of MultiTOS.  Unlike MultiTOS however,
+        MiNT is based on a different {file system}, that is faster and
+        more flexible than TOS's.  Furthermore, thanks to the network
+        support, MiNT allows an Atari to be an {Internet} {server}
+        that can still run GEM and TOS applications!  This has won
+        MiNT many devotees ("MiNTquisitors"), making it the main
+        competitor for {ASH}'s {MagiC}.
+     
+        Unlike {Linux}, MiNT can run on a {Motorola 68000} with no
+        {FPU}.  It needs at least 4 MB of RAM, more to run multiuser
+        or to run GEM applications at the same time.
+     
+        {(http://www.orient.uw.edu.pl/~conradus/docs/mint.html)}.
+     
+        (1999-07-20)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mint</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>MINT
+     
+        {Mint Is Not TRAC}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mint</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mint \Mint\, n. [AS. mynet money, coin, fr. L. moneta the mint,
+   coined money, fr. Moneta, a surname of Juno, in whose at Rome
+   money was coined; akin to monere to warn, admonish, AS.
+   manian, and to E. mind. See {Mind}, and cf. {Money},
+   {Monition}.]
+   1. A place where money is coined by public authority.
+      [1913 Webster]
+
+   2. Hence: Any place regarded as a source of unlimited supply;
+      the supply itself.
+      [1913 Webster]
+
+            A mint of phrases in his brain.       --Shak.
+      [1913 Webster]
+
+   3. Specifically: A large quantity of money; as, to make a
+      mint in stock trading.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mint</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mint \Mint\ (m[i^]nt), n. [AS. minte, fr. L. mentha, Gr. mi`nqa,
+   mi`nqh.] (Bot.)
+   The name of several aromatic labiate plants, mostly of the
+   genus {Mentha}, yielding odoriferous essential oils by
+   distillation. See {Mentha}.
+   [1913 Webster]
+
+   Note:
+
+   {Corn mint} is {Mentha arvensis}.
+
+   {Horsemint} is {Mentha sylvestris}, and in the United States
+      {Monarda punctata}, which differs from the true mints in
+      several respects.
+
+   {Mountain mint} is any species of the related genus
+      {Pycnanthemum}, common in North America.
+
+   {Peppermint} is {Mentha piperita}.
+
+   {Spearmint} is {Mentha viridis}.
+
+   {Water mint} is {Mentha aquatica}.
+      [1913 Webster]
+
+   {Mint camphor}. (Chem.) See {Menthol}.
+
+   {Mint julep}. See {Julep}.
+
+   {Mint sauce}, a sauce flavored with spearmint, for meats.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mint</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mint \Mint\, v. t. [imp. &amp; p. p. {Minted}; p. pr. &amp; vb. n.
+   {Minting}.] [AS. mynetian.]
+   [1913 Webster]
+   1. To make by stamping, as money; to coin; to make and stamp
+      into money.
+      [1913 Webster]
+
+   2. To invent; to forge; to fabricate; to fashion.
+      [1913 Webster]
+
+            Titles . . . of such natures as may be easily
+            minted.                               --Bacon.
+      [1913 Webster]
+
+   {Minting mill}, a coining press.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mint</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>mint \mint\, a.
+   Like new; in brand-new condition; unworn, as a coin recently
+   made at a mint[1]; as, he had a '53 Cadillac in mint
+   condition.
+   [PJC]
+
+   2. Specifically: (Numismatics) Uncirculated; in the same
+      condition as when it was freshly coined at the mint[1].
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mint</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>MINT
+     Multimedia-kommunikation aif Integrierten Netzen und Terminals
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mint</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>MINT
+     Mint is Not TOS (Atari), "MiNT"
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mint</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mint
+     adj : as if new; "in mint condition" [syn: {mint(a)}]
+     n 1: (often followed by `of') a large number or amount or extent;
+          "a batch of letters"; "a deal of trouble"; "a lot of
+          money"; "he made a mint on the stock market"; "it must
+          have cost plenty" [syn: {batch}, {deal}, {flock}, {good
+          deal}, {great deal}, {hatful}, {heap}, {lot}, {mass}, {mess},
+           {mickle}, {muckle}, {peck}, {pile}, {plenty}, {pot}, {quite
+          a little}, {raft}, {sight}, {slew}, {spate}, {stack}, {tidy
+          sum}, {wad}, {whole lot}, {whole slew}]
+     2: any north temperate plant of the genus Mentha with aromatic
+        leaves and small mauve flowers
+     3: the leaves of a mint plant used fresh or candied
+     4: a candy that is flavored with a mint oil [syn: {mint candy}]
+     5: a plant where money is coined by authority of the government
+     v : form by stamping, punching, or printing; "strike coins";
+         "strike a medal" [syn: {coin}, {strike}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

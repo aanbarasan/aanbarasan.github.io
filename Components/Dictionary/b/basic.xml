@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>basic</Word>
+  <Definitions>
+    <Definition>
+      <Word>basic</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>BASIC
+     
+        &lt;language&gt; Beginner's All-purpose Symbolic Instruction Code.
+        A simple language oroginally designed for ease of programming
+        by students and beginners.
+     
+        BASIC exists in many dialects, and is popular on
+        {microcomputers} with sound and graphics support.  Most micro
+        versions are {interactive} and {interpreted}.
+     
+        BASIC has become the leading cause of brain-damage in
+        proto-hackers.  This is another case (like {Pascal}) of the
+        cascading lossage that happens when a language deliberately
+        designed as an educational toy gets taken too seriously.  A
+        novice can write short BASIC programs (on the order of 10-20
+        lines) very easily; writing anything longer is (a) very
+        painful, and (b) encourages bad habits that will make it
+        harder to use more powerful languages well.  This wouldn't be
+        so bad if historical accidents hadn't made BASIC so common on
+        low-end micros.  As it is, it ruins thousands of potential
+        wizards a year.
+     
+        Originally, all references to code, both {GOTO} and GOSUB
+        (subroutine call) referred to the destination by its line
+        number.  This allowed for very simple editing in the days
+        before {text editors} were considered essential.  Just typing
+        the line number deleted the line and to edit a line you just
+        typed the new line with the same number.  Programs were
+        typically numbered in steps of ten to allow for insertions.
+        Later versions, such as {BASIC V}, allow {GOTO}-less
+        {structured programming} with named {procedures} and
+        {functions}, IF-THEN-ELSE-ENDIF constructs and {WHILE} loops
+        etc.
+     
+        Early BASICs had no graphic operations except with graphic
+        characters.  In the 1970s BASIC {interpreters} became standard
+        features in {mainframes} and {minicomputers}.  Some versions
+        included {matrix} operations as language {primitives}.
+     
+        A {public domain} {interpreter} for a mixture of {DEC}'s
+        {MU-Basic} and {Microsoft Basic} is {here
+        (ftp://oak.oakland.edu/pub/Unix-c/languages/basic/basic.tar-z)}.
+        A {yacc} {parser} and {interpreter} were in the
+        comp.sources.unix archives volume 2.
+     
+        See also {ANSI Minimal BASIC}, {bournebasic}, {bwBASIC},
+        {ubasic}, {Visual Basic}.
+     
+        [{Jargon File}]
+     
+        (1995-03-15)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>basic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>BASIC \BASIC\ n.
+   1. (Computers) [Beginner's All-purpose Symbolic Iruction C.]
+      an artificial computer language with a relatively
+      simplified instruction set.
+
+   Note: Writing a program in BASIC or other higher computer
+         languages is simpler than writing in assembly language.
+         See also {programming language}, {FORTRAN}.
+         [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>basic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Basic \Ba"sic\, a.
+   1. (Chem.)
+      (a) Relating to a base; performing the office of a base in
+          a salt.
+      (b) Having the base in excess, or the amount of the base
+          atomically greater than that of the acid, or exceeding
+          in proportion that of the related neutral salt.
+      (c) Apparently alkaline, as certain normal salts which
+          exhibit alkaline reactions with test paper.
+          [1913 Webster]
+
+   2. (Min.) Said of crystalline rocks which contain a
+      relatively low percentage of silica, as basalt.
+      [1913 Webster]
+
+   {Basic salt} (Chem.), a salt formed from a base or hydroxide
+      by the partial replacement of its hydrogen by a negative
+      or acid element or radical.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>basic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>higher programming language \higher programming language\ n.
+   (Computers)
+   a computer programming language with an instruction set
+   allowing one instruction to code for several assembly
+   language instructions.
+
+   Note: The aggregation of several assembly-language
+         instructions into one instruction allows much greater
+         efficiency in writing computer programs. Most programs
+         are now written in some higher programming language,
+         such as {BASIC}, {FORTRAN}, {COBOL}, {C}, {C++}, or
+         {JAVA}.
+         [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>basic</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>BASIC /bay'-sic/ n. A programming language, originally designed for
+   Dartmouth's experimental timesharing system in the early 1960s, which
+   for many years was the leading cause of brain damage in proto-hackers.
+   Edsger W. Dijkstra observed in "Selected Writings on Computing: A
+   Personal Perspective" that "It is practically impossible to teach good
+   programming style to students that have had prior exposure to BASIC: as
+   potential programmers they are mentally mutilated beyond hope of
+   regeneration." This is another case (like {Pascal}) of the cascading
+   {lossage} that happens when a language deliberately designed as an
+   educational toy gets taken too seriously. A novice can write short BASIC
+   programs (on the order of 10-20 lines) very easily; writing anything
+   longer (a) is very painful, and (b) encourages bad habits that will make
+   it harder to use more powerful languages well. This wouldn't be so bad
+   if historical accidents hadn't made BASIC so common on low-end micros in
+   the 1980s. As it is, it probably ruined tens of thousands of potential
+   wizards.
+
+   [1995: Some languages called `BASIC' aren't quite this nasty any more,
+   having acquired Pascal- and C-like procedures and control structures and
+   shed their line numbers. --ESR]
+
+   BASIC stands for "Beginner's All-purpose Symbolic Instruction Code".
+   Earlier versions of this entry claiming this was a later {backronym}
+   were incorrect.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>basic</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>BASIC
+     Beginner's All-purpose Symbolic Instruction Code
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>basic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>basic
+     adj 1: pertaining to or constituting a base or basis; "a basic
+            fact"; "the basic ingredients"; "basic changes in
+            public opinion occur because of changes in priorities"
+            [ant: {incidental}]
+     2: reduced to the simplest and most significant form possible
+        without loss of generality; "a basic story line"; "a
+        canonical syllable pattern" [syn: {canonic}, {canonical}]
+     3: of primary importance; "basic truths" [syn: {basal}, {primary}]
+     4: serving as a base or starting point; "a basic course in
+        Russian"; "basic training for raw recruits"; "a set of
+        basic tools"; "an introductory art course" [syn: {introductory}]
+     5: of or denoting or of the nature of or containing a base
+     n 1: a popular programming language that is relatively easy to
+          learn; an acronym for beginner's all-purpose symbolic
+          instruction code; no longer in general use
+     2: (usually plural) a necessary commodity for which demand is
+        constant [syn: {staple}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

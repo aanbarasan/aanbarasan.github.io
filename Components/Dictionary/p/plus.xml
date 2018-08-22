@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>plus</Word>
+  <Definitions>
+    <Definition>
+      <Word>plus</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>PLUS
+     
+        Late 60's.  Machine-oriented systems language used internally
+        by Univac.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>plus</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>plus
+     
+        +
+     
+        Common: {ITU-T}: plus; add.  Rare: cross; {INTERCAL}:
+        intersection.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>plus</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Plus \Plus\, a. [L., more; akin to Gr. ?, ?, and E. full. See
+   {Full}, a., and cf. {Pi[`u]}, {Pleonasm}.]
+   [1913 Webster]
+   1. (Math.) More, required to be added; positive, as
+      distinguished from negative; -- opposed to {minus}.
+      [1913 Webster]
+
+   2. Hence, in a literary sense, additional; real; actual.
+      [1913 Webster]
+
+            Success goes invariably with a certain plus or
+            positive power.                       --Emerson.
+      [1913 Webster]
+
+   {Plus sign} (Math.), the sign (+) which denotes addition, or
+      a positive quantity.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>plus</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>plus
+     adj 1: on the positive side or higher end of a scale; "a plus
+            value"; "temperature of plus 5 degrees"; "a grade of C
+            plus" [ant: {minus}]
+     2: involving advantage or good; "a plus (or positive) factor"
+        [syn: {positive}]
+     n 1: a useful or valuable quality [syn: {asset}] [ant: {liability}]
+     2: the arithmetic operation of summing; calculating the sum of
+        two or more numbers; "the summation of four and three
+        gives seven"; "four plus three equals seven" [syn: {summation},
+         {addition}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

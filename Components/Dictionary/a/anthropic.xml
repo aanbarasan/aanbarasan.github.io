@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>anthropic</Word>
+  <Definitions>
+    <Definition>
+      <Word>anthropic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Anthropic \An*throp"ic\, Anthropical \An*throp"ic*al\, a. [Gr.
+   ?, fr. ? man.] (Zo["o]l.)
+   1. Like or related to man; human. [R.] --Owen.
+      [1913 Webster]
+
+   2. relating to the period of mankind's existence
+      [WordNet 1.5] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>anthropic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>anthropic
+     adj : relating to mankind or the period of mankind's existence
+           [syn: {anthropical}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

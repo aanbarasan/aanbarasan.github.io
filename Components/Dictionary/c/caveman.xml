@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>caveman</Word>
+  <Definitions>
+    <Definition>
+      <Word>caveman</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cave man
+     n : someone who dwells in a cave [syn: {caveman}, {cave dweller},
+          {troglodyte}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>caveman</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>caveman
+     n : someone who dwells in a cave [syn: {cave man}, {cave dweller},
+          {troglodyte}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

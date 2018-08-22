@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bandwagon</Word>
+  <Definitions>
+    <Definition>
+      <Word>bandwagon</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>bandwagon \bandwagon\ n.
+   1. A popular trend that attracts growing support. ``when they
+      saw how things were going everybody jumped on the
+      bandwagon.''
+      [WordNet 1.5]
+
+   2. A large ornate wagon for carrying a musical band. ``the
+      bandwagon led the circus parade''
+      [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bandwagon</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bandwagon
+     n 1: a popular trend that attracts growing support; "when they
+          saw how things were going everybody jumped on the
+          bandwagon"
+     2: a large ornate wagon for carrying a musical band; "the gaudy
+        bandwagon led the circus parade"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>equals</Word>
+  <Definitions>
+    <Definition>
+      <Word>equals</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>equals
+     
+        &lt;character&gt; "=", {ASCII} character 61.
+     
+        Common names: {ITU-T}: equals; gets; takes.  Rare:
+        quadrathorpe; {INTERCAL}: half-mesh.
+     
+        Equals is used in many languages as the {assignment} operator
+        though earlier languages used ":=" ("becomes equal to") to
+        avoid upsetting mathematicians with statements such as "x =
+        x+1".  It is also used in compounds such as "&lt;=", "&gt;=", "==",
+        "/=", "!=" for various comparison operators and in {C}'s "+=",
+        "*=" etc. which mimic the {primitive} operations of
+        {two-address code}.
+     
+        (1995-03-29)
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

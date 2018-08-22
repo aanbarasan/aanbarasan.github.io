@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>aided</Word>
+  <Definitions>
+    <Definition>
+      <Word>aided</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Aid \Aid\, v. t. [imp. &amp; p. p. {Aided}; p. pr. &amp; vb. n.
+   {Aiding}.] [F. aider, OF. aidier, fr. L. adjutare to help,
+   freq. of adjuvare to help; ad + juvare to help. Cf.
+   {Adjutant}.]
+   To support, either by furnishing strength or means in
+   co["o]peration to effect a purpose, or to prevent or to
+   remove evil; to help; to assist.
+   [1913 Webster]
+
+         You speedy helpers . . .
+         Appear and aid me in this enterprise.    --Shak.
+   [1913 Webster]
+
+   Syn: To help; assist; support; sustain; succor; relieve;
+        befriend; co["o]perate; promote. See {Help}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>aided</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>aided
+     adj : having help; often used as a combining form [syn: {assisted}]
+           [ant: {unassisted}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

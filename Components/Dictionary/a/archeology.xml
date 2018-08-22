@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>archeology</Word>
+  <Definitions>
+    <Definition>
+      <Word>archeology</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Archeology \Ar`che*ol"o*gy\, n., Archeological
+\Ar`che*o*log`ic*al\, a.
+   the branch of anthropology that studies prehistoric people
+   and their cultures. Same as {Arch[ae]ology}, etc.
+
+   Syn: archaeology, Arch[ae]ology
+        [1913 Webster + WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>archeology</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>archeology
+     n : the branch of anthropology that studies prehistoric people
+         and their cultures [syn: {archaeology}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

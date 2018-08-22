@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>boards</Word>
+  <Definitions>
+    <Definition>
+      <Word>boards</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>boards \boards\ n.
+   1. the boarding that surrounds an ice hockey rink.
+      [WordNet 1.5]
+
+   2. the stage; as, to walk the boards, i.e. to act on stage.
+      [PJC]
+
+   3. board examinations (in a profession, as in medicine); --
+      an informal contraction; as, to take the boards; he
+      flunked the boards.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>boards</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>boards
+     n : the boarding that surrounds an ice hockey rink
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

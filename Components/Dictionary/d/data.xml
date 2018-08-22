@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>data</Word>
+  <Definitions>
+    <Definition>
+      <Word>data</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>data
+     
+        &lt;data, data processing, jargon&gt; /day't*/ (Or "raw data")
+        Numbers, {characters}, {images}, or other method of recording,
+        in a form which can be assessed by a human or (especially)
+        input into a {computer}, stored and {processed} there, or
+        transmitted on some {digital channel}.  Computers nearly
+        always represent data in {binary}.
+     
+        Data on its own has no meaning, only when interpreted by some
+        kind of {data processing system} does it take on meaning and
+        become {information}.
+     
+        People or computers can find patterns in data to perceive
+        information, and information can be used to enhance
+        {knowledge}.  Since knowledge is prerequisite to wisdom, we
+        always want more data and information.  But, as modern
+        societies verge on {information overload}, we especially need
+        better ways to find patterns.
+     
+        1234567.89 is data.
+     
+        "Your bank balance has jumped 8087% to $1234567.89" is
+        information.
+     
+        "Nobody owes me that much money" is knowledge.
+     
+        "I'd better talk to the bank before I spend it, because of
+        what has happened to other people" is wisdom.
+     
+        (1999-04-30)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>data</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Data \Da"ta\, n. pl. [L. pl. of datum.]
+   1. See {Datum}.
+      [1913 Webster]
+
+   2. a collection of facts, observations, or other information
+      related to a particular question or problem; as, the
+      historical data show that the budget deficit is only a
+      small factor in determining interest rates.
+
+   Note: The term in this sense is used especially in reference
+         to experimental observations collected in the course of
+         a controlled scientific investigation.
+         [PJC]
+
+   3. (Computers) information, most commonly in the form of a
+      series of binary digits, stored on a physical storage
+      medium for manipulation by a computer program. It is
+      contrasted with the {program} which is a series of
+      instructions used by the central processing unit of a
+      computer to manipulate the data. In some conputers data
+      and execuatble programs are stored in separate locations.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>data</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Datum \Da"tum\, n.; pl. {Data}. [L. See 2d {Date}.]
+   1. Something given or admitted; a fact or principle granted;
+      that upon which an inference or an argument is based; --
+      used chiefly in the plural.
+      [1913 Webster]
+
+            Any writer, therefore, who . . . furnishes us with
+            data sufficient to determine the time in which he
+            wrote.                                --Priestley.
+      [1913 Webster]
+
+   2. a single piece of information; a fact; especially a piece
+      of information obtained by observation or experiment; --
+      used mostly in the plural.
+      [PJC]
+
+   3. pl. (Math.) The quantities or relations which are assumed
+      to be given in any problem.
+      [1913 Webster]
+
+   4. (Surveying) a point, line, or level surface used as a
+      reference in measuring elevations. --RHUD
+      [PJC]
+
+   {Datum line} (Surv.), the horizontal or base line, from which
+      the heights of points are reckoned or measured, as in the
+      plan of a railway, etc.
+      [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>data</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>data
+     See {datum}
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>data</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>data
+     n : a collection of facts from which conclusions may be drawn;
+         "statistical data" [syn: {information}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>data</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>datum
+     n : an item of factual information derived from measurement or
+         research [syn: {data point}]
+     [also: {data} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

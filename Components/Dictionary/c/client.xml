@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>client</Word>
+  <Definitions>
+    <Definition>
+      <Word>client</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>client
+     
+        &lt;programming&gt; A computer system or process that requests a
+        service of another computer system or process (a "{server}")
+        using some kind of {protocol} and accepts the server's
+        responses.  A client is part of a {client-server} software
+        architecture.
+     
+        For example, a {workstation} requesting the contents of a file
+        from a {file server} is a client of the file server.
+     
+        (1997-10-27)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>client</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Client \Cli"ent\, n. [L. cliens, -emtis, for cluens, one who
+   hears (in relation to his protector), a client, fr. L. cluere
+   to be named or called; akin to Gr. ? to hear, Skr. [,c]ry,
+   and E. loud: cf. F. client. See {Loud}.]
+   1. (Rom. Antiq.) A citizen who put himself under the
+      protection of a man of distinction and influence, who was
+      called his patron.
+      [1913 Webster]
+
+   2. A dependent; one under the protection of another.
+      [1913 Webster]
+
+            I do think they are your friends and clients,
+            And fearful to disturb you.           --B. Jonson.
+      [1913 Webster]
+
+   3. (Law) One who consults a legal adviser, or submits his
+      cause to his management.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>client</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>client
+     n 1: a person who seeks the advice of a lawyer
+     2: someone who pays for goods or services [syn: {customer}]
+     3: (computer science) any computer that is hooked up to a
+        computer network [syn: {node}, {guest}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

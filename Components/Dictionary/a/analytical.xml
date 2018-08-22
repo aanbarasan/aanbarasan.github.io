@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>analytical</Word>
+  <Definitions>
+    <Definition>
+      <Word>analytical</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>analytical \analytical\ adj.
+   1. of or pertaining to analysis (definition 2).
+      [WordNet 1.5]
+
+   2. (Logic) of a proposition; necessarily true independent of
+      fact or experience, such as ``all spinsters are
+      unmarried''. Opposite of {synthetic}. Also See: {a
+      priori}, {deductive, {logical}.
+      [WordNet 1.5]
+
+   3. 1 exercising or involving careful analytical evaluations;
+      as, analytic reasoning; an analytical discussion.
+
+   Syn: appraising(prenominal), evaluative.
+        [WordNet 1.5]
+
+   4. capable of or given to analyzing; -- of people. an
+      analytical mind
+      [WordNet 1.5]
+
+   {Analytical geometry} or {co["o]rdinate geometry}. See under
+      {Geometry}.
+
+   {Analytic language}, a noninflectional language or one not
+      characterized by grammatical endings.
+
+   {Analytical table} (Nat. Hist.), a table in which the
+      characteristics of the species or other groups are
+      arranged so as to facilitate the determination of their
+      names.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>analytical</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Analytic \An`a*lyt"ic\, Analytical \An`a*lyt"ic*al\, a. [Gr. ?:
+   cf. F. analytique. See {Analysis}.]
+   Of or pertaining to analysis; resolving into elements or
+   constituent parts; as, an analytical experiment; -- opposed
+   to {synthetic}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>analytical</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>analytical
+     adj 1: using or skilled in using analysis (i.e., separating a
+            whole--intellectual or substantial--into its elemental
+            parts or basic principles); "an analytic experiment";
+            "an analytic approach"; "a keenly analytic man";
+            "analytical reasoning"; "an analytical mind" [syn: {analytic}]
+            [ant: {synthetic}]
+     2: of a proposition that is necessarily true independent of
+        fact or experience; "`all spinsters are unmarried' is an
+        analytic proposition" [syn: {analytic}] [ant: {synthetic}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

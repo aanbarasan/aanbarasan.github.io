@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>childlike</Word>
+  <Definitions>
+    <Definition>
+      <Word>childlike</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Childlike \Child"like`\ (ch[imac]ld"l[imac]k`), a.
+   Resembling a child, or that which belongs to children;
+   becoming a child; meek; submissive; dutiful. ``Childlike
+   obedience.'' --Hooker.
+   [1913 Webster]
+
+   Note: Childlike, as applied to persons grown up, is commonly
+         in a good sense; as, childlike grace or simplicity;
+         childlike modesty.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>childlike</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>childlike
+     adj 1: befitting a young child; "childlike charm" [syn: {childly}]
+     2: exhibiting childlike simplicity and credulity; "childlike
+        trust"; "dewy-eyed innocence"; "simple courtesy" [syn: {wide-eyed},
+         {dewy-eyed}, {simple}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

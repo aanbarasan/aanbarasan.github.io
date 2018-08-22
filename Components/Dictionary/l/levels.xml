@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>levels</Word>
+  <Definitions>
+    <Definition>
+      <Word>levels</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Levels, WV
+  Zip code(s): 25431
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

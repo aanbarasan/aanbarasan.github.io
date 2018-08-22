@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>insecure</Word>
+  <Definitions>
+    <Definition>
+      <Word>insecure</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Insecure \In`se*cure"\, a.
+   1. Not secure; not confident of safety or permanence;
+      distrustful; suspicious; apprehensive of danger or loss.
+      [1913 Webster]
+
+            With sorrow and insecure apprehensions. --Jer.
+                                                  Taylor.
+      [1913 Webster]
+
+   2. Not effectually guarded, protected, or sustained; unsafe;
+      unstable; exposed to danger or loss. --Bp. Hurg.
+      [1913 Webster]
+
+            The trade with Egypt was exceedingly insecure and
+            precarious.                           --Mickle.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>insecure</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>insecure
+     adj 1: not firm or firmly fixed; likely to fail or give way; "the
+            hinge is insecure" [ant: {secure}]
+     2: lacking in security or safety; "his fortune was increasingly
+        insecure"; "an insecure future" [syn: {unsafe}] [ant: {secure}]
+     3: lacking self-confidence or assurance; "an insecure person
+        lacking mental stability" [ant: {secure}]
+     4: not safe from attack [syn: {unsafe}]
+     5: not financially safe or secure; "a bad investment"; "high
+        risk investments"; "anything that promises to pay too much
+        can't help being risky"; "speculative business
+        enterprises" [syn: {bad}, {risky}, {high-risk}, {speculative}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

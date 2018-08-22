@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>homework</Word>
+  <Definitions>
+    <Definition>
+      <Word>homework</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>homework \homework\ n.
+   1. preparatory school work done outside school (especially at
+      home).
+
+   Syn: prep, preparation.
+        [WordNet 1.5]
+
+   2. Hence: [fig.] Studies or other preparatory work done prior
+      to some activity; -- usually used of preparations for
+      activities of significance or consequence for the
+      performer; as, the candidate didn't do her homework well
+      and was outclassed in the debate.
+      [PJC]
+
+   3. Paid work done at home, especially piecework.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>homework</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>homework
+     n : preparatory school work done outside school (especially at
+         home) [syn: {prep}, {preparation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

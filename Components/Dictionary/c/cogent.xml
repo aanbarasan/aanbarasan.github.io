@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cogent</Word>
+  <Definitions>
+    <Definition>
+      <Word>cogent</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>COGENT
+     
+        COmpiler and GENeralized Translator.
+     
+        A {compiler} writing language with pattern-directed string and
+        list processing features, for {CDC 3600} and {CDC} 3800.  A
+        program consists of {production}s defining a {context-free}
+        language, plus analysis and synthesis function generators.
+     
+        ["COGENT Programming Manual", J.C. Reynolds, ANL-7022, Argonne,
+        Mar 1965].
+     
+        [Sammet 1969, p.638].
+     
+        ["An Introduction to the COGENT System", J.C. Reynolds, Proc
+        ACM 20th Natl Conf, 1965].
+     
+        (1994-12-23)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cogent</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cogent \Co"gent\, a. [L. cogens, p. pr. of cogere to drive
+   together, to force; co- + agere to drive. See {Agent}, a.,
+   and cf. {Coact} to force, {Coagulate}, p. a.]
+   1. Compelling, in a physical sense; powerful. [Obs.]
+      [1913 Webster]
+
+            The cogent force of nature.           --Prior.
+      [1913 Webster]
+
+   2. Having the power to compel conviction or move the will;
+      constraining; conclusive; forcible; powerful; not easily
+      reasisted.
+      [1913 Webster]
+
+            No better nor more cogent reason.     --Dr. H. More.
+      [1913 Webster]
+
+            Proofs of the most cogent description. --Tyndall.
+      [1913 Webster]
+
+            The tongue whose strains were cogent as commands,
+            Revered at home, and felt in foreign lands.
+                                                  --Cowper.
+
+   Syn: Forcible; powerful; potent; urgent; strong; persuasive;
+        convincing; conclusive; influential.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cogent</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cogent
+     adj 1: having the power to influence or convince; "a cogent
+            analysis of the problem"; "potent arguments" [syn: {potent},
+             {powerful}]
+     2: powerfully persuasive; "a cogent argument"; "a telling
+        presentation"; "a weighty argument" [syn: {telling}, {weighty}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

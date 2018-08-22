@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>based</Word>
+  <Definitions>
+    <Definition>
+      <Word>based</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Base \Base\ (b[=a]s), v. t. [imp. &amp; p. p. {Based} (b[=a]sd); p.
+   pr. &amp; vb. n. {Basing}.] [From {Base}, n.]
+   To put on a base or basis; to lay the foundation of; to
+   found, as an argument or conclusion; -- used with on or upon.
+   --Bacon.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>based</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Based \Based\ (b[=a]sd), p. p. &amp; a.
+   1. Having a base, or having as a base; supported; as,
+      broad-based.
+      [1913 Webster]
+
+   2. [See {Base}, n., 18-21.] Wearing, or protected by, bases.
+      [Obs.] ``Based in lawny velvet.'' --E. Hall.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>based</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>based
+     adj 1: being derived from (usually followed by `on' or `upon'); "a
+            film based on a best-selling novel"
+     2: having a base; "firmly based ice"
+     3: having a basis; often used as combining terms; "a soundly
+        based argument"; "well-founded suspicions" [syn: {founded}]
+     4: having a base of operations; "a company based in Atlanta"
+        [syn: {based(p)}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>september</Word>
+  <Definitions>
+    <Definition>
+      <Word>september</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>September \Sep*tem"ber\, n. [L., fr. septem seven, as being the
+   seventh month of the Roman year, which began with March: cf.
+   F. septembre. See {Seven}.]
+   The ninth month of the year, containing thurty days.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>september</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>September
+     n : the month following August and preceding October [syn: {Sep},
+          {Sept}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

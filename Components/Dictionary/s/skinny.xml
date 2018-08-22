@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>skinny</Word>
+  <Definitions>
+    <Definition>
+      <Word>skinny</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Skinny \Skin"ny\, a.
+   Consisting, or chiefly consisting, of skin; wanting flesh.
+   ``Her skinny lips.'' --Shak.
+   [1913 Webster]
+
+         He holds him with a skinny hand.         --Coleridge.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>skinny</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>skinny
+     adj : having unattractive thinness; "a child with skinny freckled
+           legs"; "a long scrawny neck" [syn: {scraggy}, {scrawny},
+            {underweight}, {weedy}]
+     n : confidential information about a topic or person; "he wanted
+         the inside skinny on the new partner"
+     [also: {skinniest}, {skinnier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

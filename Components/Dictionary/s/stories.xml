@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>stories</Word>
+  <Definitions>
+    <Definition>
+      <Word>stories</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Story \Sto"ry\, n.; pl. {Stories}. [OF. estor['e], estor['e]e,
+   built, erected, p. p. of estorer to build, restore, to store.
+   See {Store}, v. t.]
+   A set of rooms on the same floor or level; a floor, or the
+   space between two floors. Also, a horizontal division of a
+   building's exterior considered architecturally, which need
+   not correspond exactly with the stories within. [Written also
+   {storey}.]
+   [1913 Webster]
+
+   Note: A story comprehends the distance from one floor to
+         another; as, a story of nine or ten feet elevation. The
+         spaces between floors are numbered in order, from below
+         upward; as, the lower, second, or third story; a house
+         of one story, of two stories, of five stories.
+         [1913 Webster]
+
+   {Story post} (Arch.), a vertical post used to support a floor
+      or superincumbent wall.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

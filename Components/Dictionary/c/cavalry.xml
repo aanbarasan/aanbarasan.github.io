@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cavalry</Word>
+  <Definitions>
+    <Definition>
+      <Word>cavalry</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cavalry \Cav"al*ry\, n. [F. cavalerie, fr. It. cavalleria. See
+   {Cavalier}, and cf. {chivalry}.] (Mil.)
+   That part of military force which serves on horseback.
+   [1913 Webster]
+
+   Note: {Heavy cavalry} and {light cavalry} are so
+         distinguished by the character of their armament, and
+         by the size of the men and horses.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cavalry</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cavalry
+     n 1: troops trained to fight on horseback; "500 horse led the
+          attack" [syn: {horse cavalry}, {horse}]
+     2: a highly mobile army unit
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

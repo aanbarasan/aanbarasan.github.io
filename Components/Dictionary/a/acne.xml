@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>acne</Word>
+  <Definitions>
+    <Definition>
+      <Word>acne</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Acne \Ac"ne\, n. [NL., prob. a corruption of Gr. ?] (Med.)
+   A pustular affection of the skin, due to changes in the
+   sebaceous glands.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>acne</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>acne
+     n : an inflammatory disease involving the sebaceous glands of
+         the skin; characterized by papules or pustules or
+         comedones
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sacred</Word>
+  <Definitions>
+    <Definition>
+      <Word>sacred</Word>
+      <Dictionary>
+        <Id>devils</Id>
+        <Name>THE DEVIL'S DICTIONARY ((C)1911 Released April 15 1993)</Name>
+      </Dictionary>
+      <WordDefinition>SACRED, adj.  Dedicated to some religious purpose; having a divine
+character; inspiring solemn thoughts or emotions; as, the Dalai Lama
+of Thibet; the Moogum of M'bwango; the temple of Apes in Ceylon; the
+Cow in India; the Crocodile, the Cat and the Onion of ancient Egypt;
+the Mufti of Moosh; the hair of the dog that bit Noah, etc.
+
+    All things are either sacred or profane.
+    The former to ecclesiasts bring gain;
+    The latter to the devil appertain.
+                                                       Dumbo Omohundro
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sacred</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>sacred
+     
+        &lt;jargon&gt; Reserved for exclusive use by something.  The term
+        might mean only writable by whatever it is sacred to.
+     
+        For example, "Register 7 is sacred to the interrupt handler"
+        would mean that if any other code changed the contents of
+        register 7, dire consequences would ensue.
+     
+        [{Jargon File}]
+     
+        (2002-12-30)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sacred</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sacred \Sa"cred\, a. [Originally p. p. of OE. sacren to
+   consecrate, F. sacrer, fr. L. sacrare, fr. sacer sacred,
+   holy, cursed. Cf. {Consecrate}, {Execrate}, {Saint},
+   {Sexton}.]
+   1. Set apart by solemn religious ceremony; especially, in a
+      good sense, made holy; set apart to religious use;
+      consecrated; not profane or common; as, a sacred place; a
+      sacred day; sacred service.
+      [1913 Webster]
+
+   2. Relating to religion, or to the services of religion; not
+      secular; religious; as, sacred history.
+      [1913 Webster]
+
+            Smit with the love of sacred song.    --Milton.
+      [1913 Webster]
+
+   3. Designated or exalted by a divine sanction; possessing the
+      highest title to obedience, honor, reverence, or
+      veneration; entitled to extreme reverence; venerable.
+      [1913 Webster]
+
+            Such neighbor nearness to our sacred [royal] blood
+            Should nothing privilege him.         --Shak.
+      [1913 Webster]
+
+            Poet and saint to thee alone were given,
+            The two most sacred names of earth and heaven.
+                                                  --Cowley.
+      [1913 Webster]
+
+   4. Hence, not to be profaned or violated; inviolable.
+      [1913 Webster]
+
+            Secrets of marriage still are sacred held. --Dryden.
+      [1913 Webster]
+
+   5. Consecrated; dedicated; devoted; -- with to.
+      [1913 Webster]
+
+            A temple, sacred to the queen of love. --Dryden.
+      [1913 Webster]
+
+   6. Solemnly devoted, in a bad sense, as to evil, vengeance,
+      curse, or the like; accursed; baleful. [Archaic]
+      [1913 Webster]
+
+            But, to destruction sacred and devote. --Milton.
+      [1913 Webster]
+
+   {Society of the Sacred Heart} (R.C. Ch.), a religious order
+      of women, founded in France in 1800, and approved in 1826.
+      It was introduced into America in 1817. The members of the
+      order devote themselves to the higher branches of female
+      education.
+
+   {Sacred baboon}. (Zo["o]l.) See {Hamadryas}.
+
+   {Sacred bean} (Bot.), a seed of the Oriental lotus ({Nelumbo
+      speciosa} or {Nelumbium speciosum}), a plant resembling a
+      water lily; also, the plant itself. See {Lotus}.
+
+   {Sacred beetle} (Zo["o]l.) See {Scarab}.
+
+   {Sacred canon}. See {Canon}, n., 3.
+
+   {Sacred fish} (Zo["o]l.), any one of numerous species of
+      fresh-water African fishes of the family {Mormyrid[ae]}.
+      Several large species inhabit the Nile and were considered
+      sacred by the ancient Egyptians; especially {Mormyrus
+      oxyrhynchus}.
+
+   {Sacred ibis}. See {Ibis}.
+
+   {Sacred monkey}. (Zo["o]l.)
+      (a) Any Asiatic monkey of the genus {Semnopithecus},
+          regarded as sacred by the Hindoos; especially, the
+          entellus. See {Entellus}.
+      (b) The sacred baboon. See {Hamadryas}.
+      (c) The bhunder, or rhesus monkey.
+
+   {Sacred place} (Civil Law), the place where a deceased person
+      is buried.
+      [1913 Webster]
+
+   Syn: Holy; divine; hallowed; consecrated; dedicated; devoted;
+        religious; venerable; reverend.
+        [1913 Webster] -- {Sa"cred*ly}, adv. -- {Sa"cred*ness},
+        n.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sacred</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>sacred adj. Reserved for the exclusive use of something (an extension
+   of the standard meaning). Often means that anyone may look at the sacred
+   object, but clobbering it will screw whatever it is sacred to. The
+   comment "Register 7 is sacred to the interrupt handler" appearing in a
+   program would be interpreted by a hacker to mean that if any _other_
+   part of the program changes the contents of register 7, dire
+   consequences are likely to ensue.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sacred</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sacred
+     adj 1: concerned with religion or religious purposes; "sacred
+            texts"; "sacred rites"; "sacred music" [ant: {profane}]
+     2: worthy of respect or dedication; "saw motherhood as woman's
+        sacred calling"
+     3: made or declared or believed to be holy; devoted to a deity
+        or some religious ceremony or use; "a consecrated chursh";
+        "the sacred mosque"; "sacred elephants"; "sacred bread and
+        wine"; "sanctified wine" [syn: {consecrated}, {sanctified}]
+     4: worthy of religious veneration; "the sacred name of Jesus";
+        "Jerusalem's hallowed soil" [syn: {hallowed}]
+     5: (often followed by `to') devoted exclusively to a single use
+        or purpose or person; "a fund sacred to charity"; "a
+        morning hour sacred to study"; "a private office sacred to
+        the President"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

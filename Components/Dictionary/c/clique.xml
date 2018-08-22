@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>clique</Word>
+  <Definitions>
+    <Definition>
+      <Word>clique</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>clique
+     
+        &lt;mathematics&gt; A {maximal} {totally connected} {subgraph}.
+        Given a {graph} with {nodes} N, a clique C is a {subset} of N
+        where every node in C is directly connected to every other
+        node in C (i.e. C is totally connected), and C contains all
+        such nodes (C is maximal).  In other words, a clique contains
+        all, and only, those nodes which are directly connected to all
+        other nodes in the clique.
+     
+        [Is this correct?]
+     
+        (1996-09-22)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>clique</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Clique \Clique\ (kl[=e]k), n. [F., fr. OF. cliquer to click. See
+   {Click}, v. i.]
+   A narrow circle of persons associated by common interests or
+   for the accomplishment of a common purpose; -- generally used
+   in a bad sense.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>clique</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Clique \Clique\, v. i.
+   To To associate together in a clannish way; to act with
+   others secretly to gain a desired end; to plot; -- used with
+   together.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>clique</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>clique
+     n : an exclusive circle of people with a common purpose [syn: {coterie},
+          {ingroup}, {inner circle}, {pack}, {camp}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

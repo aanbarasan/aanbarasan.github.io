@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>collectible</Word>
+  <Definitions>
+    <Definition>
+      <Word>collectible</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Collectible \Col*lect"i*ble\, a.
+   Capable of being collected.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>collectible</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>collectible
+     adj : subject to or requiring payment especially as specified; "a
+           collectible bill"; "a note payable on demand"; "a check
+           payable to John Doe" [syn: {collectable}, {payable}]
+     n : things considered to be worth collecting (not necessarily
+         valuable or antique) [syn: {collectable}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

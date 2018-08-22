@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hotel</Word>
+  <Definitions>
+    <Definition>
+      <Word>hotel</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hotel \Ho*tel"\, n. [F. h[^o]tel, OF. hostel. See {Hostel}.]
+   1. A house for entertaining strangers or travelers; an inn or
+      public house, of the better class.
+      [1913 Webster]
+
+   2. In France, the mansion or town residence of a person of
+      rank or wealth.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hotel</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hotel
+     n : a building where travelers can pay for lodging and meals and
+         other services
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

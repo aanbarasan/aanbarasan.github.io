@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>six</Word>
+  <Definitions>
+    <Definition>
+      <Word>six</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Six \Six\, a. [AS. six, seox, siex; akin to OFries. sex, D. zes,
+   OS. &amp; OHG. sehs, G. sechs, Icel., Sw., &amp; Dan. sex, Goth.
+   sa['i]hs, Lith. szeszi, Russ. sheste, Gael. &amp; Ir. se, W.
+   chwech, L. sex, Gr. ??, Per. shesh, Skr. shash. [root]304.
+   Cf. {Hexagon}, {Hexameter}, {Samite}, {Senary}, {Sextant},
+   {Sice}.]
+   One more than five; twice three; as, six yards.
+   [1913 Webster]
+
+   {Six Nations} (Ethnol.), a confederation of North American
+      Indians formed by the union of the Tuscaroras and the Five
+      Nations.
+
+   {Six points circle}. (Geom.) See {Nine points circle}, under
+      {Nine}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>six</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Six \Six\, n.
+   1. The number greater by a unit than five; the sum of three
+      and three; six units or objects.
+      [1913 Webster]
+
+   2. A symbol representing six units, as 6, vi., or VI.
+      [1913 Webster]
+
+   {To be at six and seven} or {To be at sixes and sevens},
+      (a) to be in disorder. --Bacon. --Shak. --Swift.
+      (b) to be in a dispute or disagreement; -- often used with
+          with.
+          [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>six</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>six
+     adj : denoting a quantity consisting of six items or units [syn: {6},
+            {vi}, {half dozen}, {half a dozen}]
+     n : the cardinal number that is the sum of five and one [syn: {6},
+          {VI}, {sixer}, {sise}, {Captain Hicks}, {half a dozen},
+         {sextet}, {sestet}, {sextuplet}, {hexad}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

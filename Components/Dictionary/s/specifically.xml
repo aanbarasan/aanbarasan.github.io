@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>specifically</Word>
+  <Definitions>
+    <Definition>
+      <Word>specifically</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Specifically \Spe*cif"ic*al*ly\, adv.
+   In a specific manner.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>specifically</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>specifically
+     adv : in distinction from others; "a program specifically for
+           teenagers"; "he is interested specifically in poisonous
+           snakes" [ant: {generally}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

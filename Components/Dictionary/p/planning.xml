@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>planning</Word>
+  <Definitions>
+    <Definition>
+      <Word>planning</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Plan \Plan\, v. t. [imp. &amp; p. p. {Planned}; p. pr. &amp; vb. n.
+   {Planning}.]
+   1. To form a delineation of; to draught; to represent, as by
+      a diagram.
+      [1913 Webster]
+
+   2. To scheme; to devise; to contrive; to form in design; as,
+      to plan the conquest of a country.
+      [1913 Webster]
+
+            Even in penance, planning sins anew.  --Goldsmith.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>planning</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>plan
+     n 1: a series of steps to be carried out or goals to be
+          accomplished; "they drew up a six-step plan"; "they
+          discussed plans for a new bond issue" [syn: {program}, {programme}]
+     2: an arrangement scheme; "the awkward design of the keyboard
+        made operation difficult"; "it was an excellent design for
+        living"; "a plan for seating guests" [syn: {design}]
+     3: scale drawing of a structure; "the plans for City Hall were
+        on file" [syn: {architectural plan}]
+     v 1: have the will and intention to carry out some action; "He
+          plans to be in graduate school next year"; "The rebels
+          had planned turmoil and confusion" [syn: {be after}]
+     2: make plans for something; "He is planning a trip with his
+        family"
+     3: make or work out a plan for; devise; "They contrived to
+        murder their boss"; "design a new sales strategy"; "plan
+        an attack" [syn: {project}, {contrive}, {design}]
+     4: make a design of; plan out in systematic, often graphic
+        form; "design a better mousetrap"; "plan the new wing of
+        the museum" [syn: {design}]
+     [also: {planning}, {planned}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>planning</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>planning
+     n 1: an act of formulating a program for a definite course of
+          action; "the planning was more fun than the trip itself"
+     2: the act or process of drawing up plans or layouts for some
+        project or enterprise
+     3: the cognitive process of thinking about what you will do in
+        the event of something happening; "his planning for
+        retirement was hindered by several uncertainties" [syn: {preparation},
+         {provision}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>planning</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>planning
+     See {plan}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

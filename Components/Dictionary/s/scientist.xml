@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>scientist</Word>
+  <Definitions>
+    <Definition>
+      <Word>scientist</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Scientist \Sci"en*tist\, n.
+   One learned in science; a scientific investigator; one
+   devoted to scientific study; a savant. [Recent]
+   [1913 Webster]
+
+   Note: Twenty years ago I ventured to propose one [a name for
+         the class of men who give their lives to scientific
+         study] which has been slowly finding its way to general
+         adoption; and the word scientist, though scarcely
+         euphonious, has gradually assumed its place in our
+         vocabulary. --B. A. Gould (Address, 1869).
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>scientist</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Researcher \Re*search"er\ (-[~e]r), n.
+   One who conducts research. In the field of scientific
+   research, also called an {investigator} or {scientist}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>scientist</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>scientist
+     n : a person with advanced knowledge of one of more sciences
+         [syn: {man of science}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

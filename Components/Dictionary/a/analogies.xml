@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>analogies</Word>
+  <Definitions>
+    <Definition>
+      <Word>analogies</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Analogy \A*nal"o*gy\, n.; pl. {Analogies}. [L. analogia, Gr. ?,
+   fr. ?: cf. F. analogie. See {Analogous}.]
+   1. A resemblance of relations; an agreement or likeness
+      between things in some circumstances or effects, when the
+      things are otherwise entirely different. Thus, learning
+      enlightens the mind, because it is to the mind what light
+      is to the eye, enabling it to discover things before
+      hidden.
+      [1913 Webster]
+
+   Note: Followed by between, to, or with; as, there is an
+         analogy between these objects, or one thing has an
+         analogy to or with another.
+         [1913 Webster]
+
+   Note: Analogy is very commonly used to denote similarity or
+         essential resemblance; but its specific meaning is a
+         similarity of relations, and in this consists the
+         difference between the argument from example and that
+         from analogy. In the former, we argue from the mere
+         similarity of two things; in the latter, from the
+         similarity of their relations. --Karslake.
+         [1913 Webster]
+
+   2. (Biol.) A relation or correspondence in function, between
+      organs or parts which are decidedly different.
+      [1913 Webster]
+
+   3. (Geom.) Proportion; equality of ratios.
+      [1913 Webster]
+
+   4. (Gram.) Conformity of words to the genius, structure, or
+      general rules of a language; similarity of origin,
+      inflection, or principle of pronunciation, and the like,
+      as opposed to {anomaly}. --Johnson.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

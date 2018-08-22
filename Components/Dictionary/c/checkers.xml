@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>checkers</Word>
+  <Definitions>
+    <Definition>
+      <Word>checkers</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Draughts \Draughts\, n. pl.
+   A game, now more commonly called {checkers}. See {Checkers}.
+   [1913 Webster]
+
+   Note: {Polish draughts} is sometimes played with 40 pieces on
+         a board divided into 100 squares. --Am. Cyc.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>checkers</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Checkers \Check"ers\ (ch[e^]k"[~e]rz), n. pl. [See {Checher},
+   v.]
+   A game, called also {draughts}, played on a checkerboard by
+   two persons, each having twelve men (counters or checkers)
+   which are moved diagonally. The game is ended when either of
+   the players has lost all his men, or can not move them.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>checkers</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>checkers
+     n : a checkerboard game for two players who each have 12 pieces;
+         the object is to jump over and so capture the opponent's
+         pieces [syn: {draughts}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

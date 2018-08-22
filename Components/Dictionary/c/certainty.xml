@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>certainty</Word>
+  <Definitions>
+    <Definition>
+      <Word>certainty</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Certainty \Cer"tain*ty\, n.; pl. {Certainties}. [OF.
+   certainet['e].]
+   1. The quality, state, or condition, of being certain.
+      [1913 Webster]
+
+            The certainty of punishment is the truest security
+            against crimes. --Fisher Ames.
+      [1913 Webster]
+
+   2. A fact or truth unquestionable established.
+      [1913 Webster]
+
+            Certainties are uninteresting and sating. --Landor.
+      [1913 Webster]
+
+   3. (Law) Clearness; freedom from ambiguity; lucidity.
+      [1913 Webster]
+
+   {Of a certainty}, certainly.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>certainty</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>certainty
+     n 1: the state of being certain; "his certainty reassured the
+          others" [ant: {doubt}]
+     2: something that is certain; "his victory is a certainty"
+        [syn: {sure thing}, {foregone conclusion}] [ant: {uncertainty}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

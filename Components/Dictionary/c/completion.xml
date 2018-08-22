@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>completion</Word>
+  <Definitions>
+    <Definition>
+      <Word>completion</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Completion \Com*ple"tion\, n. [L. completio a filling, a
+   fulfillment.]
+   1. The act or process of making complete; the getting through
+      to the end; as, the completion of an undertaking, an
+      education, a service.
+      [1913 Webster]
+
+            The completion of some repairs.       --Prescott.
+      [1913 Webster]
+
+   2. State of being complete; fulfillment; accomplishment;
+      realization.
+      [1913 Webster]
+
+            Predictions receiving their completion in Christ.
+                                                  --South.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>completion</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>completion
+     n 1: (American football) a successful forward pass in football
+          [syn: {pass completion}]
+     2: a concluding action [syn: {culmination}, {closing}, {windup},
+         {mop up}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

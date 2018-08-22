@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>chicago</Word>
+  <Definitions>
+    <Definition>
+      <Word>chicago</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Chicago
+     
+        {Windows 95}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chicago</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Chicago, IL (city, FIPS 14000)
+  Location: 41.83705 N, 87.68497 W
+  Population (1990): 2783726 (1133039 housing units)
+  Area: 588.5 sq km (land), 17.7 sq km (water)
+  Zip code(s): 60601, 60602, 60603, 60604, 60605, 60606, 60607, 60608, 60609, 60610, 60611, 60612, 60613, 60614, 60615, 60616, 60617, 60618, 60619, 60620, 60621, 60622, 60623, 60624, 60625, 60626, 60628, 60629, 60630, 60631, 60632, 60636, 60637, 60639, 60640, 60641, 60644, 60647, 60648, 60649, 60651, 60652, 60653, 60654, 60657, 60660, 60661
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chicago</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Chicago
+     n 1: largest city in Illinois; a bustling Great Lakes port that
+          extends 26 miles along the southwestern shoreline of
+          Lake Michigan [syn: {Windy City}]
+     2: a gambling card game in which chips are placed on the ace
+        and king and queen and jack of separate suits (taken from
+        a separate deck); a player plays the lowest card of a suit
+        in his hand and successively higher cards are played until
+        the sequence stops; the player who plays a card matching
+        one in the layout wins all the chips on that card [syn: {Michigan},
+         {Newmarket}, {boodle}, {stops}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>teacher</Word>
+  <Definitions>
+    <Definition>
+      <Word>teacher</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Teacher \Teach"er\, n.
+   1. One who teaches or instructs; one whose business or
+      occupation is to instruct others; an instructor; a tutor.
+      [1913 Webster]
+
+   2. One who instructs others in religion; a preacher; a
+      minister of the gospel; sometimes, one who preaches
+      without regular ordination.
+      [1913 Webster]
+
+            The teachers in all the churches assembled. --Sir W.
+                                                  Raleigh.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>teacher</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>teacher
+     n 1: a person whose occupation is teaching [syn: {instructor}]
+     2: a personified abstraction that teaches; "books were his
+        teachers"; "experience is a demanding teacher"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

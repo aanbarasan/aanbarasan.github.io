@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sisters</Word>
+  <Definitions>
+    <Definition>
+      <Word>sisters</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Sisters, OR (city, FIPS 67950)
+  Location: 44.29099 N, 121.54818 W
+  Population (1990): 679 (354 housing units)
+  Area: 2.1 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

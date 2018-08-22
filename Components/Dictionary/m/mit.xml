@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mit</Word>
+  <Definitions>
+    <Definition>
+      <Word>mit</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>MIT
+     
+        {Massachusetts Institute of Technology}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mit</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>MIT
+     Massachusetts Institute of Technology (org., USA)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mit</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>MIT
+     Management Information Tree
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mit</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>MIT
+     n : an engineering university in Cambridge [syn: {Massachusetts
+         Institute of Technology}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

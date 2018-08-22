@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>quest</Word>
+  <Definitions>
+    <Definition>
+      <Word>quest</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Quest
+     
+        1. A language designed for its simple denotational semantics.
+        "The Denotational Semantics of Programming Languages",
+        R. Tennent, CACM 19(8):437-453 (Aug 1976).
+     
+        2. QUantifiers and SubTypes.  Language with a sophisticated
+        type system.  Just as types classify values, "kinds" classify
+        types and type operators.  Explicit universal and existential
+        quantification over types, type operators, and subtypes.
+        Subtyping is defined inductively on all type constructions,
+        including higher-order functions and abstract types.
+        User-definable higher-order type operators.
+     
+        "Typeful Programming", Luca Cardelli &lt;luca@src.dec.com&gt;, RR
+        45, DEC SRC 1989.
+     
+        Implemented in Modula-3.
+     
+        {(ftp://gatekeeper.dec.com/pub/DEC/Quest/quest12A.tar.Z)}.
+     
+        3. &lt;tool, text&gt; A {multimedia} {authoring} system.  Quest has
+        been available for {MS-DOS} for some time.  Version 3.5 for
+        {Microsoft Windows} was released around March 1995.  It
+        features an {Authorware}-style {flowchart} system with an
+        {ANSI-C} {script language}.
+     
+        (1995-04-02)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>quest</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Quest \Quest\, v. t. [Cf. OF. quester, F. qu[^e]ter. See
+   {Quest}, n.]
+   To search for; to examine. [R.] --Sir T. Herbert.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>quest</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Quest \Quest\, v. i.
+   To go on a quest; to make a search; to go in pursuit; to beg.
+   [R.]
+   [1913 Webster]
+
+         If his questing had been unsuccessful, he appeased the
+         rage of hunger with some scraps of broken meat.
+                                                  --Macaulay.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>quest</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Quest \Quest\, n. [OF. queste, F. qu[^e]te, fr. L. quaerere,
+   quaesitum, to seek for, to ask. Cf. {Query}, {Question}.]
+   1. The act of seeking, or looking after anything; attempt to
+      find or obtain; search; pursuit; as, to rove in quest of
+      game, of a lost child, of property, etc.
+      [1913 Webster]
+
+            Upon an hard adventure yet in quest.  --Spenser.
+      [1913 Webster]
+
+            Cease your quest of love.             --Shak.
+      [1913 Webster]
+
+            There ended was his quest, there ceased his care.
+                                                  --Milton.
+      [1913 Webster]
+
+   2. Request; desire; solicitation.
+      [1913 Webster]
+
+            Gad not abroad at every quest and call
+            Of an untrained hope or passion.      --Herbert.
+      [1913 Webster]
+
+   3. Those who make search or inquiry, taken collectively.
+      [1913 Webster]
+
+            The senate hath sent about three several quests to
+            search you out.                       --Shak.
+      [1913 Webster]
+
+   4. Inquest; jury of inquest.
+      [1913 Webster]
+
+            What lawful quest have given their verdict ? --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>quest</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>quest
+     n 1: a search for an alternative that meets cognitive criteria;
+          "the pursuit of love"; "life is more than the pursuance
+          of fame"; "a quest for wealth" [syn: {pursuit}, {pursuance}]
+     2: the act of searching for something; "a quest for diamonds"
+        [syn: {seeking}]
+     v 1: make a search (for); "Things that die with their eyes open
+          and questing"; "The animal came questing through the
+          forest"
+     2: search the trail of (game); "The dog went off and quested"
+     3: bark with prolonged noises, of dogs [syn: {bay}]
+     4: seek alms, as for religious purposes
+     5: express the need or desire for; ask for; "She requested an
+        extra bed in her room"; "She called for room service"
+        [syn: {request}, {bespeak}, {call for}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

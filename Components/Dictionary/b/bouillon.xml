@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bouillon</Word>
+  <Definitions>
+    <Definition>
+      <Word>bouillon</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bouillon \Bou`illon"\, n. [F., fr. bouillir to boil.]
+   1. A nutritious liquid food made by boiling beef, or other
+      meat, in water; a clear soup or broth.
+      [1913 Webster]
+
+   2. (Far.) An excrescence on a horse's frush or frog.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bouillon</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bouillon
+     n : a clear seasoned broth
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

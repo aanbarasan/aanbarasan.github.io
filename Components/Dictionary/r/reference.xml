@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>reference</Word>
+  <Definitions>
+    <Definition>
+      <Word>reference</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>reference
+     
+        {pointer}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>reference</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Reference \Ref"er*ence\ (r?f"?r-ens), n. [See {Refer}.]
+   1. The act of referring, or the state of being referred; as,
+      reference to a chart for guidance.
+      [1913 Webster]
+
+   2. That which refers to something; a specific direction of
+      the attention; as, a reference in a text-book.
+      [1913 Webster]
+
+   3. Relation; regard; respect.
+      [1913 Webster]
+
+            Something that hath a reference to my state. --Shak.
+      [1913 Webster]
+
+   4. One who, or that which, is referred to. Specifically;
+      (a) One of whom inquires can be made as to the integrity,
+          capacity, and the like, of another.
+      (b) A work, or a passage in a work, to which one is
+          referred.
+          [1913 Webster]
+
+   5. (Law)
+      (a) The act of submitting a matter in dispute to the
+          judgment of one or more persons for decision.
+      (b) (Equity) The process of sending any matter, for
+          inquiry in a cause, to a master or other officer, in
+          order that he may ascertain facts and report to the
+          court.
+          [1913 Webster]
+
+   6. Appeal. [R.] ``Make your full reference.'' --Shak.
+      [1913 Webster]
+
+   {Reference Bible}, a Bible in which brief explanations, and
+      references to parallel passages, are printed in the margin
+      of the text.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>reference</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>reference
+     n 1: a remark that calls attention to something or someone; "she
+          made frequent mention of her promotion"; "there was no
+          mention of it"; "the speaker made several references to
+          his wife" [syn: {mention}]
+     2: a short note recognizing a source of information or of a
+        quoted passage; "the student's essay failed to list
+        several important citations"; "the acknowledgments are
+        usually printed at the front of a book"; "the article
+        includes mention of similar clinical cases" [syn: {citation},
+         {acknowledgment}, {credit}, {mention}, {quotation}]
+     3: an indicator that orients you generally; "it is used as a
+        reference for comparing the heating and the electrical
+        energy involved" [syn: {reference point}, {point of
+        reference}]
+     4: a book to which you can refer for authoritative facts; "he
+        contributed articles to the basic reference work on that
+        topic" [syn: {reference book}, {reference work}, {book of
+        facts}]
+     5: a formal recommendation by a former employer to a potential
+        future employer describing the person's qualifications and
+        dependability; "requests for character references are all
+        to often answered evasively" [syn: {character}, {character
+        reference}]
+     6: the most direct or specific meaning of a word or expression;
+        the class of objects that an expression refers to; "the
+        extension of `satellite of Mars' is the set containing
+        only Demos and Phobos" [syn: {denotation}, {extension}]
+     7: the act of referring or consulting; "reference to an
+        encyclopedia produced the answer" [syn: {consultation}]
+     8: a publication (or a passage from a publication) that is
+        referred to; "he carried an armful of references back to
+        his desk"; "he spent hours looking for the source of that
+        quotation" [syn: {source}]
+     9: the relation between a word or phrase and the object or idea
+        it refers to; "he argued that reference is a consequence
+        of conditioned reflexes"
+     v : refer to; "he referenced his colleagues' work" [syn: {cite}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

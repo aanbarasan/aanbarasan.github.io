@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>brokenhearted</Word>
+  <Definitions>
+    <Definition>
+      <Word>brokenhearted</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Broken-hearted \Bro"ken-heart`ed\, a.
+   Having the spirits depressed or crushed by grief or despair.
+   [1913 Webster]
+
+         She left her husband almost broken-hearted. --Macaulay.
+   [1913 Webster]
+
+   Syn: Disconsolable; heart-broken; inconsolable; comfortless;
+        woe-begone; forlorn.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>brokenhearted</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>brokenhearted
+     adj : full of sorrow [syn: {heartbroken}, {heartsick}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

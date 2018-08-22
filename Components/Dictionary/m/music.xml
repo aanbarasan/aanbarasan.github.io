@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>music</Word>
+  <Definitions>
+    <Definition>
+      <Word>music</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Music
+   Jubal was the inventor of musical instruments (Gen. 4:21). The
+   Hebrews were much given to the cultivation of music. Their whole
+   history and literature afford abundant evidence of this. After
+   the Deluge, the first mention of music is in the account of
+   Laban's interview with Jacob (Gen. 31:27). After their triumphal
+   passage of the Red Sea, Moses and the children of Israel sang
+   their song of deliverance (Ex. 15).
+   
+     But the period of Samuel, David, and Solomon was the golden
+   age of Hebrew music, as it was of Hebrew poetry. Music was now
+   for the first time systematically cultivated. It was an
+   essential part of training in the schools of the prophets (1
+   Sam. 10:5; 19:19-24; 2 Kings 3:15; 1 Chr. 25:6). There now arose
+   also a class of professional singers (2 Sam. 19:35; Eccl. 2:8).
+   The temple, however, was the great school of music. In the
+   conducting of its services large bands of trained singers and
+   players on instruments were constantly employed (2 Sam. 6:5; 1
+   Chr. 15; 16; 23;5; 25:1-6).
+   
+     In private life also music seems to have held an important
+   place among the Hebrews (Eccl. 2:8; Amos 6:4-6; Isa. 5:11, 12;
+   24:8, 9; Ps. 137; Jer. 48:33; Luke 15:25).
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>music</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Music
+     
+        &lt;language, music&gt; A series of languages for musical sound
+        synthesis from {Bell Labs}, 1960's.  Versions: Music I through
+        Music V.
+     
+        ["An Acoustical Compiler for Music and Psychological Stimuli",
+        M.V. Mathews, Bell Sys Tech J 40 (1961)].
+     
+        [{Jargon File}]
+     
+        (1999-06-04)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>music</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Music \Mu"sic\, n. [F. musique, fr. L. musica, Gr. ? (sc. ?),
+   any art over which the Muses presided, especially music,
+   lyric poetry set and sung to music, fr. ? belonging to Muses
+   or fine arts, fr. ? Muse.]
+   1. The science and the art of tones, or musical sounds, i.
+      e., sounds of higher or lower pitch, begotten of uniform
+      and synchronous vibrations, as of a string at various
+      degrees of tension; the science of harmonical tones which
+      treats of the principles of harmony, or the properties,
+      dependences, and relations of tones to each other; the art
+      of combining tones in a manner to please the ear.
+      [1913 Webster]
+
+   Note: Not all sounds are tones. Sounds may be unmusical and
+         yet please the ear. Music deals with tones, and with no
+         other sounds. See {Tone}.
+         [1913 Webster]
+
+   2.
+      (a) Melody; a rhythmical and otherwise agreeable
+          succession of tones.
+      (b) Harmony; an accordant combination of simultaneous
+          tones.
+          [1913 Webster]
+
+   3. The written and printed notation of a musical composition;
+      the score.
+      [1913 Webster]
+
+   4. Love of music; capacity of enjoying music.
+      [1913 Webster]
+
+            The man that hath no music in himself
+            Nor is not moved with concord of sweet sounds,
+            Is fit for treasons, stratagems, and spoils. --Shak.
+      [1913 Webster]
+
+   5. (Zo["o]l.) A more or less musical sound made by many of
+      the lower animals. See {Stridulation}.
+      [1913 Webster]
+
+   {Magic music}, a game in which a person is guided in finding
+      a hidden article, or in doing a specific art required, by
+      music which is made more loud or rapid as he approaches
+      success, and slower as he recedes. --Tennyson.
+
+   {Music box}. See {Musical box}, under {Musical}.
+
+   {Music hall}, a place for public musical entertainments.
+
+   {Music loft}, a gallery for musicians, as in a dancing room
+      or a church.
+
+   {Music of the spheres}, the harmony supposed to be produced
+      by the accordant movement of the celestial spheres.
+
+   {Music paper}, paper ruled with the musical staff, for the
+      use of composers and copyists.
+
+   {Music pen}, a pen for ruling at one time the five lines of
+      the musical staff.
+
+   {Music shell} (Zo["o]l.), a handsomely colored marine
+      gastropod shell ({Voluta musica}) found in the East
+      Indies; -- so called because the color markings often
+      resemble printed music. Sometimes applied to other shells
+      similarly marked.
+
+   {To face the music}, to meet any disagreeable necessity, such
+      as a reprimand for an error or misdeed, without flinching.
+      [Colloq. or Slang]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>music</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>music n. A common extracurricular interest of hackers (compare
+   {{science-fiction fandom}}, {{oriental food}}; see also {filk}). Hackish
+   folklore has long claimed that musical and programming abilities are
+   closely related, and there has been at least one large-scale statistical
+   study that supports this. Hackers, as a rule, like music and often
+   develop musical appreciation in unusual and interesting directions. Folk
+   music is very big in hacker circles; so is electronic music, and the
+   sort of elaborate instrumental jazz/rock that used to be called
+   `progressive' and isn't recorded much any more. The hacker's musical
+   range tends to be wide; many can listen with equal appreciation to (say)
+   Talking Heads, Yes, Gentle Giant, Pat Metheny, Scott Joplin, Tangerine
+   Dream, Dream Theater, King Sunny Ade, The Pretenders, Screaming Trees,
+   or the Brandenburg Concerti. It is also apparently true that hackerdom
+   includes a much higher concentration of talented amateur musicians than
+   one would expect from a similar-sized control group of {mundane} types.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>music</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>music
+     n 1: an artistic form of auditory communication incorporating
+          instrumental or vocal tones in a structured and
+          continuous manner
+     2: any agreeable (pleasing and harmonious) sounds; "he fell
+        asleep to the music of the wind chimes" [syn: {euphony}]
+     3: musical activity (singing or whistling etc.); "his music was
+        his central interest"
+     4: (music) the sounds produced by singers or musical
+        instruments (or reproductions of such sounds)
+     5: punishment for one's actions; "you have to face the music";
+        "take your medicine" [syn: {medicine}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

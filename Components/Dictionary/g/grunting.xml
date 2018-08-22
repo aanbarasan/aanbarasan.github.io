@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>grunting</Word>
+  <Definitions>
+    <Definition>
+      <Word>grunting</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Grunt \Grunt\ (gr[u^]nt), v. t. [imp. &amp; p. p. {Grunted}; p. pr.
+   &amp; vb. n. {Grunting}.] [OE. grunten; akin to As. grunian, G.
+   grunzen, Dan. grynte, Sw. grymta; all prob. of imitative; or
+   perh. akin to E. groan.]
+   To make a deep, short noise, as a hog; to utter a short groan
+   or a deep guttural sound.
+   [1913 Webster]
+
+         Who would fardels bear,
+         To grunt and sweat under a weary life.   --Shak.
+   [1913 Webster]
+
+   {Grunting ox} (Zo["o]l.), the yak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>grunting</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>grunting
+     adj : making short inarticulate guttural sounds as of effort
+           expended; "ferries grunting on the river"; "grunting
+           boxers"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>charade</Word>
+  <Definitions>
+    <Definition>
+      <Word>charade</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Charade \Cha*rade"\, n. [F. charade, cf. Pr. charrada long chat,
+   It ciarlare to chat, whence E. charlatan.]
+   A verbal or acted enigma based upon a word which has two or
+   more significant syllables or parts, each of which, as well
+   as the word itself, is to be guessed from the descriptions or
+   representations.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>charade</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>charade
+     n 1: a composition that imitates somebody's style in a humorous
+          way [syn: {parody}, {lampoon}, {spoof}, {sendup}, {mockery},
+           {takeoff}, {burlesque}, {travesty}, {pasquinade}, {put-on}]
+     2: a word acted out in an episode of the game of charades
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

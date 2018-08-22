@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>acquiring</Word>
+  <Definitions>
+    <Definition>
+      <Word>acquiring</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Acquire \Ac*quire"\, v. t. [imp. &amp; p. p. {Acquired}; p. pr. &amp;
+   vb. n. {Acquiring}.] [L. acquirere, acquisitum; ad + quarere
+   to seek for. In OE. was a verb aqueren, fr. the same, through
+   OF. aquerre. See {Quest}..]
+   To gain, usually by one's own exertions; to get as one's own;
+   as, to acquire a title, riches, knowledge, skill, good or bad
+   habits.
+   [1913 Webster]
+
+         No virtue is acquired in an instant, but step by step.
+                                                  --Barrow.
+   [1913 Webster]
+
+         Descent is the title whereby a man, on the death of his
+         ancestor, acquires his estate, by right of
+         representation, as his heir at law.      --Blackstone.
+   [1913 Webster]
+
+   Syn: To obtain; gain; attain; procure; win; earn; secure. See
+        {Obtain}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>acquiring</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>acquiring
+     n : the act of acquiring something; "I envied his talent for
+         acquiring"; "he's much more interested in the getting
+         than in the giving" [syn: {getting}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

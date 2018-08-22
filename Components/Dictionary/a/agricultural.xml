@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>agricultural</Word>
+  <Definitions>
+    <Definition>
+      <Word>agricultural</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Agricultural \Ag`ri*cul"tur*al\, a.
+   Of or pertaining to agriculture; connected with, or engaged
+   in, tillage; as, the agricultural class; agricultural
+   implements, wages, etc. -- {Ag`ri*cul"tur*al*ly}, adv.
+   [1913 Webster]
+
+   {Agricultural ant} (Zo["o]l.), a species of ant which gathers
+      and stores seeds of grasses, for food. The remarkable
+      species ({Myrmica barbata}) found in Texas clears circular
+      areas and carefully cultivates its favorite grain, known
+      as ant rice.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>agricultural</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>agricultural
+     adj 1: relating to or used in or promoting agriculture or farming;
+            "agricultural engineering"; "modern agricultural (or
+            farming) methods"; "agricultural (or farm) equipment";
+            "an agricultural college"
+     2: relating to rural matters; "an agrarian (or agricultural)
+        society"; "farming communities" [syn: {agrarian}, {farming(a)}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

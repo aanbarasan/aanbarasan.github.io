@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>poster</Word>
+  <Definitions>
+    <Definition>
+      <Word>poster</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Poster \Post"er\, n.
+   1. A large bill or placard intended to be posted in public
+      places.
+      [1913 Webster]
+
+   2. One who posts bills; a billposter.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>poster</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Poster \Post"er\, n.
+   1. One who posts, or travels expeditiously; a courier.
+      ``Posters of the sea and land.'' --Shak.
+      [1913 Webster]
+
+   2. A post horse. ``Posters at full gallop.'' --C. Lever.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>poster</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>poster
+     n 1: a sign posted in a public place as an advertisement; "a
+          poster advertised the coming attractions" [syn: {posting},
+           {placard}, {notice}, {bill}, {card}]
+     2: someone who pastes up bills or placards on walls or
+        billboards [syn: {bill poster}, {bill sticker}]
+     3: a horse kept at an inn or post house for use by mail
+        carriers or for rent to travelers [syn: {post horse}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pew</Word>
+  <Definitions>
+    <Definition>
+      <Word>pew</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pew \Pew\, n. [OE. pewe, OF. puie parapet, balustrade, balcony,
+   fr. L. podium an elevated place, a jutty, balcony, a parapet
+   or balcony in the circus, where the emperor and other
+   distinguished persons sat, Gr. ?, dim. of ?, ?, foot; --
+   hence the Latin sense of a raised place (orig. as a rest or
+   support for the foot). See {Foot}, and cf. {Podium}, {Poy}.]
+   1. One of the compartments in a church which are separated by
+      low partitions, and have long seats upon which several
+      persons may sit; -- sometimes called {slip}. Pews were
+      originally made square, but are now usually long and
+      narrow.
+      [1913 Webster]
+
+   2. Any structure shaped like a church pew, as a stall,
+      formerly used by money lenders, etc.; a box in theater; a
+      pen; a sheepfold. [Obs.] --Pepys. Milton.
+      [1913 Webster]
+
+   {Pew opener}, an usher in a church. [Eng.] --Dickens.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pew</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pew \Pew\, v. t.
+   To furnish with pews. [R.] --Ash.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pew</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pew
+     n : long bench with backs; used in church by the congregation
+         [syn: {church bench}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

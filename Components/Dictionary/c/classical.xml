@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>classical</Word>
+  <Definitions>
+    <Definition>
+      <Word>classical</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Classic \Clas"sic\ (kl[a^]s"s[i^]k), Classical \Clas"sic*al\, a.
+   [L. classicus relating to the classes of the Roman people,
+   and especially to the frist class; hence, of the first rank,
+   superior, from classis class: cf. F. classique. See {Class},
+   n.]
+   1. Of or relating to the first class or rank, especially in
+      literature or art.
+      [1913 Webster]
+
+            Give, as thy last memorial to the age,
+            One classic drama, and reform the stage. --Byron.
+      [1913 Webster]
+
+            Mr. Greaves may justly be reckoned a classical
+            author on this subject [Roman weights and coins].
+                                                  --Arbuthnot.
+      [1913 Webster]
+
+   2. Of or pertaining to the ancient Greeks and Romans, esp. to
+      Greek or Roman authors of the highest rank, or of the
+      period when their best literature was produced; of or
+      pertaining to places inhabited by the ancient Greeks and
+      Romans, or rendered famous by their deeds.
+      [1913 Webster]
+
+            Though throned midst Latium's classic plains. --Mrs.
+                                                  Hemans.
+      [1913 Webster]
+
+            The epithet classical, as applied to ancient
+            authors, is determined less by the purity of their
+            style than by the period at which they wrote.
+                                                  --Brande &amp; C.
+      [1913 Webster]
+
+            He [Atterbury] directed the classical studies of the
+            undergraduates of his college.        --Macaulay.
+      [1913 Webster]
+
+   3. Conforming to the best authority in literature and art;
+      chaste; pure; refined; as, a classical style.
+      [1913 Webster]
+
+            Classical, provincial, and national synods.
+                                                  --Macaulay.
+      [1913 Webster]
+
+   {Classicals orders}. (Arch.) See under {Order}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>classical</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>classical
+     adj 1: of or characteristic of a form or system felt to be of first
+            significance before modern times [ant: {nonclassical}]
+     2: of recognized authority or excellence; "the definitive work
+        on Greece"; "classical methods of navigation" [syn: {authoritative},
+         {definitive}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

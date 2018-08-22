@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>abundant</Word>
+  <Definitions>
+    <Definition>
+      <Word>abundant</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Abundant \A*bun"dant\, a. [OE. (h)abundant, aboundant, F.
+   abondant, fr. L. abudans, p. pr. of abundare. See {Abound}.]
+   Fully sufficient; plentiful; in copious supply; -- followed
+   by in, rarely by with. ``Abundant in goodness and truth.''
+   --Exod. xxxiv. 6.
+   [1913 Webster]
+
+   {Abundant number} (Math.), a number, the sum of whose aliquot
+      parts exceeds the number itself. Thus, 1, 2, 3, 4, 6, the
+      aliquot parts of 12, make the number 16. This is opposed
+      to a {deficient} number, as 14, whose aliquot parts are 1,
+      2, 7, the sum of which is 10; and to a {perfect} number,
+      which is equal to the sum of its aliquot parts, as 6,
+      whose aliquot parts are 1, 2., 3.
+      [1913 Webster]
+
+   Syn: Ample; plentiful; copious; plenteous; exuberant;
+        overflowing; rich; teeming; profuse; bountiful; liberal.
+        See {Ample}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>abundant</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>abundant
+     adj : present in great quantity; "an abundant supply of water"
+           [ant: {scarce}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

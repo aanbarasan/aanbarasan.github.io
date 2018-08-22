@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>classes</Word>
+  <Definitions>
+    <Definition>
+      <Word>classes</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Classis \Clas"sis\, n.; pl. {Classes}. [L. See {Class}, n.]
+   1. A class or order; sort; kind. [Obs.]
+      [1913 Webster]
+
+            His opinion of that classis of men.   --Clarendon.
+      [1913 Webster]
+
+   2. (Eccl.) An ecclesiastical body or judicatory in certain
+      churches, as the Reformed Dutch. It is intermediate
+      between the consistory and the synod, and corresponds to
+      the presbytery in the Presbyterian church.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

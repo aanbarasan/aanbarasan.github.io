@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>algebraically</Word>
+  <Definitions>
+    <Definition>
+      <Word>algebraically</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Algebraically \Al`ge*bra"ic*al*ly\, adv.
+   By algebraic process.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>algebraically</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>algebraically
+     adv : in an algebraic manner; "algebraically determined"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

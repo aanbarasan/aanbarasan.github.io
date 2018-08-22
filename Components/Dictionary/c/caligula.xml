@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>caligula</Word>
+  <Definitions>
+    <Definition>
+      <Word>caligula</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Caligula
+     n : Roman Emperor who succeeded Tiberius and whose uncontrolled
+         passions resulted in manifest insanity; noted for his
+         cruelty and tyranny; was assassinated (12-41) [syn: {Gaius},
+          {Gaius Caesar}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

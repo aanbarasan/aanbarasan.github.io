@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>constantly</Word>
+  <Definitions>
+    <Definition>
+      <Word>constantly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Constantly \Con"stant*ly\, adv.
+   With constancy; steadily; continually; perseveringly; without
+   cessation; uniformly.
+   [1913 Webster]
+
+         But she constantly affirmed that it was even so.
+                                                  --Acts. xii.
+                                                  15.
+   [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>constantly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>constantly
+     adv 1: seemingly uninterrupted; "constantly bullied by his big
+            brother"; "was perpetually answering the doorbell"
+            [syn: {perpetually}]
+     2: without variation or change; "constantly kind and gracious"
+     3: without interruption; "the world is constantly changing"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

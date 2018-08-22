@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>poisoning</Word>
+  <Definitions>
+    <Definition>
+      <Word>poisoning</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Poison \Poi"son\, v. t. [imp. &amp; p. p. {Poisoned}; p. pr. &amp; vb.
+   n. {Poisoning}.] [Cf. OF. poisonner, F. empoissoner, L.
+   potionare to give to drink. See {Poison}, n.]
+   [1913 Webster]
+   1. To put poison upon or into; to infect with poison; as, to
+      poison an arrow; to poison food or drink. ``The
+      ingredients of our poisoned chalice.'' --Shak.
+      [1913 Webster]
+
+   2. To injure or kill by poison; to administer poison to.
+      [1913 Webster]
+
+            If you poison us, do we not die ?     --Shak.
+      [1913 Webster]
+
+   3. To taint; to corrupt; to vitiate; as, vice poisons
+      happiness; slander poisoned his mind.
+      [1913 Webster]
+
+            Whispering tongues can poison truth.  --Coleridge.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>poisoning</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>poisoning
+     n 1: the physiological state produced by a poison or other toxic
+          substance [syn: {toxic condition}, {intoxication}]
+     2: the act of giving poison to a person or animal with the
+        intent to kill
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

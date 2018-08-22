@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>doc</Word>
+  <Definitions>
+    <Definition>
+      <Word>doc</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Doc
+     
+        {Directed Oc}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>doc</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>doc
+     
+        /dok/ Common spoken and written shorthand for "documentation".
+        Often used in the plural "docs" and in the construction "doc
+        file" (i.e. documentation available on-line).
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>doc</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>doc /dok/ n. Common spoken and written shorthand for `documentation'.
+   Often used in the plural `docs' and in the construction `doc file'
+   (i.e., documentation available on-line).
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>doc</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>DOC
+     De.Org.CCC (Usenet, CCC)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>doc</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>doc
+     n 1: a licensed medical practitioner; "I felt so bad I went to
+          see my doctor" [syn: {doctor}, {physician}, {MD}, {Dr.},
+           {medico}]
+     2: the United States federal department that promotes and
+        administers domestic and foreign trade (including
+        management of the census and the patent office); created
+        in 1913 [syn: {Department of Commerce}, {Commerce
+        Department}, {Commerce}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>curie</Word>
+  <Definitions>
+    <Definition>
+      <Word>curie</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Curie
+     n 1: French chemist (born in Poland) who won two Nobel Prizes;
+          one (with her husband and Henri Becquerel) for research
+          on radioactivity and another for her discovery of radium
+          and polonium (1867-1934) [syn: {Marie Curie}, {Madame
+          Curie}, {Marya Sklodowska}]
+     2: French physicist; husband of Marie Curie (1859-1906) [syn: {Pierre
+        Curie}]
+     3: a unit of radioactivity equal to the amount of a radioactive
+        isotope that decays at the rate of 37,000,000,000
+        disintegrations per second [syn: {Ci}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

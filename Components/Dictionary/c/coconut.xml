@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>coconut</Word>
+  <Definitions>
+    <Definition>
+      <Word>coconut</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>coconut \co"co*nut\, Cocoanut
+\Co"coa*nut`\(k[=o]"k[-o]*n[u^]t`), n.
+   1. the edible white meat of a coconut[3]; often shredded for
+      use in e.g. cakes and curries.
+
+   Syn: coconut meat.
+        [WordNet 1.5]
+
+   2. the {cocoa palm}.
+
+   Syn: coconut palm, coco palm, coco, cocoa palm, coconut tree,
+        Cocos nucifera.
+        [WordNet 1.5]
+
+   3. The large, hard-shelled oval nut of the cocoa palm. It has
+      a fibrous husk containing a thick white fibrous meat much
+      used as food, in confections, and in making oil. It has a
+      central cavity filled (when fresh) with an agreeable milky
+      liquid.
+      [1913 Webster + WordNet 1.5] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>coconut</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>coconut
+     n 1: the edible white meat a coconut; often shredded for use in
+          e.g. cakes and curries [syn: {coconut meat}]
+     2: large hard-shelled oval nut with a fibrous husk containing
+        thick white meat surrounding a central cavity filled (when
+        fresh) with fluid or milk [syn: {cocoanut}]
+     3: tall palm tree bearing coconuts as fruits; widely planted
+        throughout the tropics [syn: {coconut palm}, {coco palm},
+        {coco}, {cocoa palm}, {coconut tree}, {Cocos nucifera}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

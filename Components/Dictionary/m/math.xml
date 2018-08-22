@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>math</Word>
+  <Definitions>
+    <Definition>
+      <Word>math</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Math \Math\ (m[a^]th), n. [AS. m[=ae][eth]; akin to m[=a]wan to
+   mow, G. mahd math. See {Mow} to cut (grass).]
+   A mowing, or that which is gathered by mowing; -- chiefly
+   used in composition; as, an aftermath. [Obs.]
+   [1913 Webster]
+
+         The first mowing thereof, for the king's use, is wont
+         to be sooner than the common math.       --Bp. Hall.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>math</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>math
+     n : a science (or group of related sciences) dealing with the
+         logic of quantity and shape and arrangement [syn: {mathematics},
+          {maths}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

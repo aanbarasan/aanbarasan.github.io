@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>attractiveness</Word>
+  <Definitions>
+    <Definition>
+      <Word>attractiveness</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Attractive \At*tract"ive\, a. [Cf. F. attractif.]
+   1. Having the power or quality of attracting or drawing; as,
+      the attractive force of bodies. --Sir I. Newton.
+      [1913 Webster]
+
+   2. Attracting or drawing by moral influence or pleasurable
+      emotion; alluring; inviting; pleasing. ``Attractive
+      graces.'' --Milton. ``Attractive eyes.'' --Thackeray.
+      [1913 Webster]
+
+            Flowers of a livid yellow, or fleshy color, are most
+            attractive to flies.                  --Lubbock.
+      [1913 Webster] -- {At*tract"ive*ly}, adv. --
+      {At*tract"ive*ness}, n.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>attractiveness</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>attractiveness
+     n 1: the quality of arousing interest; being attractive or
+          something that attracts; "her personality held a strange
+          attraction for him" [syn: {attraction}]
+     2: a beauty that appeals to the senses [ant: {unattractiveness}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

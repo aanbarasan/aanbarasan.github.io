@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bravery</Word>
+  <Definitions>
+    <Definition>
+      <Word>bravery</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Bravery
+   (Isa. 3:18), an old English word meaning comeliness or beauty.
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bravery</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bravery \Brav"er*y\, n. [Cf. F. braverie.]
+   1. The quality of being brave; fearless; intrepidity.
+      [1913 Webster]
+
+            Remember, sir, my liege, . . .
+            The natural bravery of your isle.     --Shak.
+      [1913 Webster]
+
+   2. The act of braving; defiance; bravado. [Obs.]
+      [1913 Webster]
+
+            Reform, then, without bravery or scandal of former
+            times and persons.                    --Bacon.
+      [1913 Webster]
+
+   3. Splendor; magnificence; showy appearance; ostentation;
+      fine dress.
+      [1913 Webster]
+
+            With scarfs and fans and double change of bravery.
+                                                  --Shak.
+      [1913 Webster]
+
+            Like a stately ship . . .
+            With all her bravery on, and tackle trim. --Milton.
+      [1913 Webster]
+
+   4. A showy person; a fine gentleman; a beau. [Obs.]
+      [1913 Webster]
+
+            A man that is the bravery of his age. --Beau. &amp; Fl.
+      [1913 Webster]
+
+   Syn: Courage; heroism; interpidity; gallantry; valor;
+        fearlessness; dauntlessness; hardihood; manfulness. See
+        {Courage}, and {Heroism}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bravery</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bravery
+     n 1: a quality of spirit that enables you to face danger of pain
+          without showing fear [syn: {courage}, {courageousness}]
+          [ant: {cowardice}]
+     2: feeling no fear [syn: {fearlessness}] [ant: {fear}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

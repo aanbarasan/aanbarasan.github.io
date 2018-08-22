@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>princeton</Word>
+  <Definitions>
+    <Definition>
+      <Word>princeton</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Princeton, AL
+  Zip code(s): 35766
+Princeton, CA
+  Zip code(s): 95970
+Princeton, FL (CDP, FIPS 58975)
+  Location: 25.53973 N, 80.39870 W
+  Population (1990): 7073 (2220 housing units)
+  Area: 19.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 33032
+Princeton, IA (city, FIPS 64740)
+  Location: 41.67110 N, 90.35950 W
+  Population (1990): 806 (320 housing units)
+  Area: 6.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 52768
+Princeton, ID
+  Zip code(s): 83857
+Princeton, IL (city, FIPS 61899)
+  Location: 41.37844 N, 89.46683 W
+  Population (1990): 7197 (3208 housing units)
+  Area: 9.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 61356
+Princeton, IN (city, FIPS 62046)
+  Location: 38.35568 N, 87.56921 W
+  Population (1990): 8127 (3734 housing units)
+  Area: 9.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 47670
+Princeton, KS (city, FIPS 57725)
+  Location: 38.48861 N, 95.27250 W
+  Population (1990): 275 (109 housing units)
+  Area: 0.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 66078
+Princeton, KY (city, FIPS 63138)
+  Location: 37.10702 N, 87.88469 W
+  Population (1990): 6940 (3168 housing units)
+  Area: 22.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 42445
+Princeton, LA
+  Zip code(s): 71067
+Princeton, MA
+  Zip code(s): 01541
+Princeton, ME
+  Zip code(s): 04668
+Princeton, MI
+  Zip code(s): 49841
+Princeton, MN (city, FIPS 52522)
+  Location: 45.57056 N, 93.59084 W
+  Population (1990): 3719 (1510 housing units)
+  Area: 9.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 55371
+Princeton, MO (city, FIPS 59942)
+  Location: 40.39714 N, 93.58810 W
+  Population (1990): 1021 (596 housing units)
+  Area: 4.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 64673
+Princeton, NC (town, FIPS 53820)
+  Location: 35.46551 N, 78.16035 W
+  Population (1990): 1181 (537 housing units)
+  Area: 1.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 27569
+Princeton, NJ (borough, FIPS 60900)
+  Location: 40.35025 N, 74.65945 W
+  Population (1990): 12016 (3514 housing units)
+  Area: 4.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 08540, 08542
+Princeton, TX (city, FIPS 59576)
+  Location: 33.18514 N, 96.50413 W
+  Population (1990): 2321 (1013 housing units)
+  Area: 10.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 75407
+Princeton, WI (city, FIPS 65600)
+  Location: 43.85225 N, 89.12946 W
+  Population (1990): 1458 (656 housing units)
+  Area: 4.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 54968
+Princeton, WV (city, FIPS 65692)
+  Location: 37.36864 N, 81.09623 W
+  Population (1990): 7043 (3630 housing units)
+  Area: 7.7 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>princeton</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Princeton
+     n 1: a university town in central New Jersey
+     2: a university in New Jersey [syn: {Princeton University}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

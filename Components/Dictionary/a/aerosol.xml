@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>aerosol</Word>
+  <Definitions>
+    <Definition>
+      <Word>aerosol</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>aerosol
+     n 1: a cloud of solid or liquid particles in a gas
+     2: a dispenser that forces a liquid out as a fine spray when a
+        button is pressed [syn: {aerosol container}, {aerosol can},
+         {aerosol bomb}, {spray can}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

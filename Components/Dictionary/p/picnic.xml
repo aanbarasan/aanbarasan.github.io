@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>picnic</Word>
+  <Definitions>
+    <Definition>
+      <Word>picnic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Picnic \Pic"nic\, n. [Cf. F. piquenique. See {Pick}, v., and cf.
+   {Knickknack}.]
+   Formerly, an entertainment at which each person contributed
+   some dish to a common table; now, an excursion or pleasure
+   party in which the members partake of a collation or repast
+   (usually in the open air, and from food carried by
+   themselves).
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>picnic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Picnic \Pic"nic\, v. i. [imp. &amp; p. p. {Picnicked}; p. pr. &amp; vb.
+   n. {Picnicking}.]
+   To go on a picnic, or pleasure excursion; to eat in public
+   fashion.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>picnic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>picnic
+     n 1: a day devoted to an outdoor social gathering [syn: {field
+          day}, {outing}]
+     2: any undertaking that is easy to do; "marketing this product
+        will be no picnic" [syn: {cinch}, {breeze}, {snap}, {duck
+        soup}, {child's play}, {pushover}, {walkover}, {piece of
+        cake}]
+     3: any informal meal eaten outside or on an excursion
+     v : eat alfresco, in the open air; "We picnicked near the lake
+         on this gorgeous Sunday"
+     [also: {picnicking}, {picnicked}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

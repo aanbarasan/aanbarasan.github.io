@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>braille</Word>
+  <Definitions>
+    <Definition>
+      <Word>braille</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>braille
+     
+        &lt;human language&gt; /breyl/ (Often capitalised) A class of
+        {writing systems}, intended for use by blind and low-vision
+        users, which express {glyphs} as raised dots.  Currently
+        employed braille standards use eight dots per cell, where a
+        cell is a glyph-space two dots across by four dots high; most
+        glyphs use only the top six dots.
+     
+        Braille was developed by Louis Braille (pronounced /looy
+        bray/) in France in the 1820s.  Braille systems for most
+        languages can be fairly trivially converted to and from the
+        usual script.
+     
+        Braille has several totally coincidental parallels with
+        digital computing: it is {binary}, it is based on groups of
+        eight bits/dots and its development began in the 1820s, at the
+        same time {Charles Babbage} proposed the {Difference Engine}.
+     
+        Computers output Braille on {braille displays} and {braille
+        printers} for hard copy.
+     
+        {British Royal National Institute for the Blind
+        (http://www.rnib.org.uk/wesupply/fctsheet/braille.htm)}.
+     
+        (1998-10-19)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>braille</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Braille \Braille\, n.
+   A system of printing or writing for the blind in which the
+   characters and numerals are represented by patterns of raised
+   tangible points or dots. It was invented by Louis Braille, a
+   French teacher of the blind.
+   [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>braille</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>braille \braille\ v.
+   1. to transcribe in Braille.
+      [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>braille</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Braille
+     n 1: French educator who lost his sight at the age of three and
+          who invented a system of writing and printing for
+          sightless people (1809-152) [syn: {Louis Braille}]
+     2: a point system of writing in which patterns of raised dots
+        represent letters and numerals
+     v : transcribe in Braille
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

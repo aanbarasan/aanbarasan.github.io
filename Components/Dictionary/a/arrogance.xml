@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>arrogance</Word>
+  <Definitions>
+    <Definition>
+      <Word>arrogance</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Arrogance \Ar"ro*gance\, n. [F., fr. L. arrogantia, fr.
+   arrogans. See {Arrogant}.]
+   The act or habit of arrogating, or making undue claims in an
+   overbearing manner; that species of pride which consists in
+   exorbitant claims of rank, dignity, estimation, or power, or
+   which exalts the worth or importance of the person to an
+   undue degree; proud contempt of others; lordliness;
+   haughtiness; self-assumption; presumption.
+   [1913 Webster]
+
+         I hate not you for her proud arrogance.  --Shak.
+   [1913 Webster]
+
+   Syn: Haughtiness; hauteur; assumption; lordliness;
+        presumption; pride; disdain; insolence; conceit;
+        conceitedness. See {Haughtiness}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>arrogance</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>arrogance
+     n : overbearing pride evidenced by a superior manner toward
+         inferiors [syn: {haughtiness}, {hauteur}, {highhandedness},
+          {lordliness}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

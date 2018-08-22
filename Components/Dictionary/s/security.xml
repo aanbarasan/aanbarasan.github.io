@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>security</Word>
+  <Definitions>
+    <Definition>
+      <Word>security</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Security \Se*cu"ri*ty\, n.; pl. {Securities}. [L. securitas: cf.
+   F. s['e]curit['e]. See {Secure}, and cf. {Surety}.]
+   1. The condition or quality of being secure; secureness.
+      Specifically:
+      (a) Freedom from apprehension, anxiety, or care;
+          confidence of power or safety; hence, assurance;
+          certainty.
+          [1913 Webster]
+
+                His trembling hand had lost the ease,
+                Which marks security to please.   --Sir W.
+                                                  Scott.
+          [1913 Webster]
+      (b) Hence, carelessness; negligence; heedlessness.
+          [1913 Webster]
+
+                He means, my lord, that we are too remiss,
+                Whilst Bolingbroke, through our security,
+                Grows strong and great in substance and in
+                power.                            --Shak.
+          [1913 Webster]
+      (c) Freedom from risk; safety.
+          [1913 Webster]
+
+                Give up yourself merely to chance and hazard,
+                From firm security.               --Shak.
+          [1913 Webster]
+
+                Some . . . alleged that we should have no
+                security for our trade.           --Swift.
+          [1913 Webster]
+
+   2. That which secures or makes safe; protection; guard;
+      defense. Specifically:
+      (a) Something given, deposited, or pledged, to make
+          certain the fulfillment of an obligation, the
+          performance of a contract, the payment of a debt, or
+          the like; surety; pledge.
+          [1913 Webster]
+
+                Those who lent him money lent it on no security
+                but his bare word.                --Macaulay.
+          [1913 Webster]
+      (b) One who becomes surety for another, or engages himself
+          for the performance of another's obligation.
+          [1913 Webster]
+
+   3. An evidence of debt or of property, as a bond, a
+      certificate of stock, etc.; as, government securities.
+      [1913 Webster]
+
+   Syn: Protection; defense; guard; shelter; safety; certainty;
+        ease; assurance; carelessness; confidence; surety;
+        pledge; bail.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>security</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>security
+     n 1: the state of being free from danger or injury; "we support
+          the armed services in the name of national security"
+          [ant: {insecurity}]
+     2: a formal declaration that documents a fact of relevance to
+        finance and investment; the holder has a right to receive
+        interest or dividends; "he held several valuable
+        securities" [syn: {certificate}]
+     3: a department responsible for the security of the
+        institution's property and workers; "the head of security
+        was a former policeman" [syn: {security department}]
+     4: measures taken as a precaution against theft or espionage or
+        sabotage etc.; "military security has been stepped up
+        since the recent uprising" [syn: {security measures}]
+     5: defense against financial failure; financial independence;
+        "his pension gave him security in his old age"; "insurance
+        provided protection against loss of wages due to illness"
+        [syn: {protection}]
+     6: freedom from anxiety or fear; "the watch dog gave her a
+        feeling of security"
+     7: an electrical device that sets off an alarm when someone
+        tries to break in [syn: {security system}, {security
+        measures}]
+     8: property that your creditor can claim in case you default on
+        your obligation; "bankers are reluctant to lend without
+        good security" [syn: {surety}]
+     9: a guarantee that an obligation will be met [syn: {surety}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

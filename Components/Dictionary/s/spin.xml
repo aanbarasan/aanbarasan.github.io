@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>spin</Word>
+  <Definitions>
+    <Definition>
+      <Word>spin</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>spin
+     
+        Equivalent to {buzz}.  More common among {C} and {Unix}
+        programmers.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>spin</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Spin \Spin\, n.
+   1. The act of spinning; as, the spin of a top; a spin a
+      bicycle. [Colloq.]
+      [1913 Webster]
+
+   2. (Kinematics) Velocity of rotation about some specified
+      axis.
+      [1913 Webster]
+
+   3. (Politics) an interpretation of an event which is
+      favorable to the interpreter or to the person s/he
+      supports. A person whose task is to provide such
+      interpretations for public relations purposes is called a
+      {spin doctor}.
+      [PJC]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>spin</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Spin \Spin\ (sp[i^]n), v. t. [imp. &amp; p. p. {Spun}(Archaic imp.
+   {Span}); p. pr. &amp; vb. n. {Spinning}.] [AS. spinnan; akin to
+   D. &amp; G. spinnen, Icel. &amp; Sw. spinna, Dan. spinde, Goth.
+   spinnan, and probably to E. span. [root]170. Cf. {Span}, v.
+   t., {Spider}.]
+   1. To draw out, and twist into threads, either by the hand or
+      machinery; as, to spin wool, cotton, or flax; to spin
+      goat's hair; to produce by drawing out and twisting a
+      fibrous material.
+      [1913 Webster]
+
+            All the yarn she [Penelope] spun in Ulysses' absence
+            did but fill Ithaca full of moths.    --Shak.
+      [1913 Webster]
+
+   2. To draw out tediously; to form by a slow process, or by
+      degrees; to extend to a great length; -- with out; as, to
+      spin out large volumes on a subject.
+      [1913 Webster]
+
+            Do you mean that story is tediously spun out?
+                                                  --Sheridan.
+      [1913 Webster]
+
+   3. To protract; to spend by delays; as, to spin out the day
+      in idleness.
+      [1913 Webster]
+
+            By one delay after another they spin out their whole
+            lives.                                --L'Estrange.
+      [1913 Webster]
+
+   4. To cause to turn round rapidly; to whirl; to twirl; as, to
+      spin a top.
+      [1913 Webster]
+
+   5. To form (a web, a cocoon, silk, or the like) from threads
+      produced by the extrusion of a viscid, transparent liquid,
+      which hardens on coming into contact with the air; -- said
+      of the spider, the silkworm, etc.
+      [1913 Webster]
+
+   6. (Mech.) To shape, as malleable sheet metal, into a hollow
+      form, by bending or buckling it by pressing against it
+      with a smooth hand tool or roller while the metal
+      revolves, as in a lathe.
+      [1913 Webster]
+
+   {To spin a yarn} (Naut.), to tell a story, esp. a long or
+      fabulous tale.
+
+   {To spin hay} (Mil.), to twist it into ropes for convenient
+      carriage on an expedition.
+
+   {To spin street yarn}, to gad about gossiping. [Collog.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>spin</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Spin \Spin\, v. i.
+   1. To practice spinning; to work at drawing and twisting
+      threads; to make yarn or thread from fiber; as, the woman
+      knows how to spin; a machine or jenny spins with great
+      exactness.
+      [1913 Webster]
+
+            They neither know to spin, nor care to toll.
+                                                  --Prior.
+      [1913 Webster]
+
+   2. To move round rapidly; to whirl; to revolve, as a top or a
+      spindle, about its axis.
+      [1913 Webster]
+
+            Round about him spun the landscape,
+            Sky and forest reeled together.       --Longfellow.
+      [1913 Webster]
+
+            With a whirligig of jubilant mosquitoes spinning
+            about each head.                      --G. W. Cable.
+      [1913 Webster]
+
+   3. To stream or issue in a thread or a small current or jet;
+      as, blood spinsfrom a vein. --Shak.
+      [1913 Webster]
+
+   4. To move swifty; as, to spin along the road in a carriage,
+      on a bicycle, etc. [Colloq.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>spin</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>spin vi. Equivalent to {buzz}. More common among C and Unix
+   programmers. See the discussion of `spinlock' under {busy-wait}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>spin</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>SPIN
+     Sponsored Programs Information Network
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>spin</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>spin
+     n 1: a swift whirling motion (usually of a missile)
+     2: the act of rotating rapidly; "he gave the crank a spin"; "it
+        broke off after much twisting" [syn: {twirl}, {twist}, {twisting},
+         {whirl}]
+     3: a short drive in a car; "he took the new car for a spin"
+     4: rapid descent of an aircraft in a steep spiral [syn: {tailspin}]
+     5: a distinctive interpretation (especially as used by
+        politicians to sway public opinion); "the campaign put a
+        favorable spin on the story"
+     v 1: revolve quickly and repeatedly around one's own axis; "The
+          dervishes whirl around and around without getting dizzy"
+          [syn: {spin around}, {whirl}, {reel}, {gyrate}]
+     2: stream in jets, of liquids; "The creek spun its course
+        through the woods"
+     3: cause to spin; "spin a coin" [syn: {whirl}, {birl}, {twirl}]
+     4: make up a story; "spin a yarn"
+     5: form a web by making a thread; "spiders spin a fine web"
+     6: work natural fibers into a thread; "spin silk"
+     7: twist and turn so as to give an intended interpretation;
+        "The President's spokesmen had to spin the story to make
+        it less embarrasing"
+     8: prolong or extend; "spin out a visit" [syn: {spin out}]
+     [also: {spun}, {spinning}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

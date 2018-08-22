@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>item</Word>
+  <Definitions>
+    <Definition>
+      <Word>item</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Item \I"tem\, v. t. [imp. &amp; p. p. {Itemed}; p. pr. &amp; vb. n.
+   {Iteming}.]
+   To make a note or memorandum of.
+   [1913 Webster]
+
+         I have itemed it in my memory.           --Addison.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>item</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>item \i"tem\, adv. [L. See {Iterate}.]
+   Also; as an additional article.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>item</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>item \i"tem\, n. [From {Item}, adv.]
+   [1913 Webster]
+   1. An article; a separate particular in an account; as, the
+      items in a bill; he picked up four items at the drug
+      store.
+      [1913 Webster +PJC]
+
+   2. A hint; an innuendo. [Obs.]
+      [1913 Webster]
+
+            A secret item was given to some of the bishops . . .
+            to absent themselves.                 --Fuller.
+      [1913 Webster]
+
+   3. A short article in a newspaper; a paragraph; as, an item
+      concerning the weather.
+      [1913 Webster]
+
+   4. A topic or piece of information having the salacious
+      character of gossip, especially a romantic relation
+      between two people; as, I hear that the boss and his new
+      secretary are an item.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>item</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>item
+     n 1: a distinct part that can be specified separately in a group
+          of things that could be enumerated on a list; "he
+          noticed an item in the New York Times"; "she had several
+          items on her shopping list"; "the main point on the
+          agenda was taken up first" [syn: {point}]
+     2: a whole individual unit; especially when included in a list
+        or collection; "they reduced the price on many items"
+     3: a small part that can be considered separately from the
+        whole; "it was perfect in all details" [syn: {detail}, {particular}]
+     4: an isolated fact that is considered separately from the
+        whole; "several of the details are similar"; "a point of
+        information" [syn: {detail}, {point}]
+     5: an individual instance of a type of symbol; "the word`error'
+        contains three tokens of `r'" [syn: {token}]
+     adv : (used when listing or enumerating items) also; "a length of
+           chain, item a hook"-Philip Guedalla
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

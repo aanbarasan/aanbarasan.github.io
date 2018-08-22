@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ranch</Word>
+  <Definitions>
+    <Definition>
+      <Word>ranch</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ranch \Ranch\ (r[a^]nch), v. t. [Written also {raunch}.] [Cf.
+   {Wrench}.]
+   To wrench; to tear; to sprain; to injure by violent straining
+   or contortion. [R.] --Dryden. ``Hasting to raunch the arrow
+   out.'' --Spenser.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ranch</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ranch \Ranch\, n. [See {Rancho}.]
+   A tract of land used for grazing and the rearing of horses,
+   cattle, or sheep. See {Rancho}, 2. [Western U. S.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ranch</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ranch
+     n : farm consisting of a large tract of land along with
+         facilities needed to raise livestock (especially cattle)
+         [syn: {spread}, {cattle ranch}, {cattle farm}]
+     v : manage or run a ranch; "Her husband is ranching in Arizona"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

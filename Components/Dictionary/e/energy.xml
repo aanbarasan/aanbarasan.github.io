@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>energy</Word>
+  <Definitions>
+    <Definition>
+      <Word>energy</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Energy, IL (village, FIPS 24166)
+  Location: 37.77537 N, 89.02575 W
+  Population (1990): 1106 (408 housing units)
+  Area: 3.3 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>energy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Energy \En"er*gy\, n.; pl. {Energies}. [F. ['e]nergie, LL.
+   energia, fr. Gr.?, fr. ? active; ? in + ? work. See {In}, and
+   {Work}.]
+   1. Internal or inherent power; capacity of acting, operating,
+      or producing an effect, whether exerted or not; as, men
+      possessing energies may suffer them to lie inactive.
+      [1913 Webster]
+
+            The great energies of nature are known to us only by
+            their effects.                        --Paley.
+      [1913 Webster]
+
+   2. Power efficiently and forcibly exerted; vigorous or
+      effectual operation; as, the energy of a magistrate.
+      [1913 Webster]
+
+   3. Strength of expression; force of utterance; power to
+      impress the mind and arouse the feelings; life; spirit; --
+      said of speech, language, words, style; as, a style full
+      of energy.
+      [1913 Webster]
+
+   4. (Physics) Capacity for performing work.
+      [1913 Webster]
+
+   Note: The kinetic energy of a body is the energy it has in
+         virtue of being in motion. It is measured by one half
+         of the product of the mass of each element of the body
+         multiplied by the square of the velocity of the
+         element, relative to some given body or point. The
+         available kinetic energy of a material system
+         unconnected with any other system is that energy which
+         is due to the motions of the parts of the system
+         relative to its center of mass. The potential energy of
+         a body or system is that energy which is not kinetic;
+         -- energy due to configuration. Kinetic energy is
+         sometimes called actual energy. Kinetic energy is
+         exemplified in the vis viva of moving bodies, in heat,
+         electric currents, etc.; potential energy, in a bent
+         spring, or a body suspended a given distance above the
+         earth and acted on by gravity.
+         [1913 Webster]
+
+   {Accumulation}, {Conservation}, {Correlation}, &amp; {Degradation
+   of energy}, etc. (Physics) See under {Accumulation},
+      {Conservation}, {Correlation}, etc.
+
+   Syn: Force; power; potency; vigor; strength; spirit;
+        efficiency; resolution.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>energy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>energy
+     n 1: (physics) the capacity of a physical system to do work; the
+          units of energy are joules or ergs; "energy can take a
+          wide variety of forms"
+     2: an exertion of force; "he plays tennis with great energy"
+        [syn: {vigor}, {vigour}]
+     3: enterprising or ambitious drive; "Europeans often laugh at
+        American energy" [syn: {push}, {get-up-and-go}]
+     4: an imaginative lively style (especially style of writing);
+        "his writing conveys great energy" [syn: {vigor}, {vigour},
+         {vim}]
+     5: a healthy capacity for vigorous activity; "jogging works off
+        my excess energy"; "he seemed full of vim and vigor" [syn:
+         {vim}, {vitality}]
+     6: the federal department responsible for maintaining a
+        national energy policy of the United States; created in
+        1977 [syn: {Department of Energy}, {Energy Department}, {DOE}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

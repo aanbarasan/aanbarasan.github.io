@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>arrangement</Word>
+  <Definitions>
+    <Definition>
+      <Word>arrangement</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Arrangement \Ar*range"ment\, n. [Cf. F. arrangement.]
+   1. The act of arranging or putting in an orderly condition;
+      the state of being arranged or put in order; disposition
+      in suitable form.
+      [1913 Webster]
+
+   2. The manner or result of arranging; system of parts
+      disposed in due order; regular and systematic
+      classification; as, arrangement of one's dress; the
+      Linn[ae]an arrangement of plants.
+      [1913 Webster]
+
+   3. Preparatory proceeding or measure; preparation; as, we
+      have made arrangement for receiving company.
+      [1913 Webster]
+
+   4. Settlement; adjustment by agreement; as, the parties have
+      made an arrangement between themselves concerning their
+      disputes; a satisfactory arrangement.
+      [1913 Webster]
+
+   5. (Mus.)
+      (a) The adaptation of a composition to voices or
+          instruments for which it was not originally written.
+      (b) A piece so adapted; a transcription; as, a pianoforte
+          arrangement of Beethoven's symphonies; an orchestral
+          arrangement of a song, an opera, or the like.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>arrangement</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>arrangement
+     n 1: the thing arranged or agreed to; "they made arrangements to
+          meet in Chicago" [syn: {agreement}]
+     2: an orderly grouping (of things or persons) considered as a
+        unit; the result of arranging; "a flower arrangement"
+     3: an organized structure for arranging or classifying; "he
+        changed the arrangement of the topics"; "the facts were
+        familiar but it was in the organization of them that he
+        was original"; "he tried to understand their system of
+        classification" [syn: {organization}, {organisation}, {system}]
+     4: the spatial property of the way in which something is
+        placed; "the arrangement of the furniture"; "the placement
+        of the chairs" [syn: {placement}]
+     5: a piece of music that has been adapted for performance by a
+        particular set of voices or instruments [syn: {musical
+        arrangement}]
+     6: the act of arranging and adapting a piece of music [syn: {arranging},
+         {transcription}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>brea</Word>
+  <Definitions>
+    <Definition>
+      <Word>brea</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Brea, CA (city, FIPS 8100)
+  Location: 33.92357 N, 117.86721 W
+  Population (1990): 32873 (12648 housing units)
+  Area: 25.9 sq km (land), 0.5 sq km (water)
+  Zip code(s): 92621
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

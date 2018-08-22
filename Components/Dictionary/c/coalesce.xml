@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>coalesce</Word>
+  <Definitions>
+    <Definition>
+      <Word>coalesce</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Coalesce \Co`a*lesce"\, v. i. [imp. &amp; p. p. {Coalesced}; p. pr.
+   &amp; vb. n. {Coalescing}.] [L. coalescere, coalitium; co- +
+   alescere to grow up, incho. fr. alere to nourish. See
+   {Aliment}, n.]
+   1. To grow together; to unite by growth into one body; as,
+      the parts separated by a wound coalesce.
+      [1913 Webster]
+
+   2. To unite in one body or product; to combine into one body
+      or community; as, vapors coalesce.
+      [1913 Webster]
+
+            The Jews were incapable of coalescing with other
+            nations.                              --Campbell.
+      [1913 Webster]
+
+            Certain combinations of ideas that, once coalescing,
+            could not be shaken loose.            --De Quincey.
+
+   Syn: See {Add}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>coalesce</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>coalesce
+     v 1: mix together different elements; "The colors blend well"
+          [syn: {blend}, {flux}, {mix}, {conflate}, {commingle}, {immix},
+           {fuse}, {meld}, {combine}, {merge}]
+     2: fuse or cause to grow together
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

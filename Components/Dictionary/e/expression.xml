@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>expression</Word>
+  <Definitions>
+    <Definition>
+      <Word>expression</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>expression
+     
+        &lt;programming&gt; Any piece of program code in a {high-level
+        language} which, when (if) its execution terminates, returns a
+        value.  In most programming languages, expressions consist of
+        constants, variables, operators, functions, and {parentheses}.
+        The operators and functions may be built-in or user defined.
+        Languages differ on how expressions of different {types} may
+        be combined - with some combination of explicit {casts} and
+        implicit {coercions}.
+     
+        The {syntax} of expressions generally follows conventional
+        mathematical notation, though some languages such as {Lisp} or
+        {Forth} have their own idiosyncratic syntax.
+     
+        (2001-05-14)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>expression</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Expression \Ex*pres"sion\ ([e^]ks*pr[e^]sh"[u^]n), n. [L.
+   expressio: cf. F. expression.]
+   1. The act of expressing; the act of forcing out by pressure;
+      as, the expression of juices or oils; also, of extorting
+      or eliciting; as, a forcible expression of truth.
+      [1913 Webster]
+
+   2. The act of declaring or signifying; declaration;
+      utterance; as, an expression of the public will.
+      [1913 Webster]
+
+            With this tone of philosophy were mingled
+            expressions of sympathy.              --Prescott.
+      [1913 Webster]
+
+   3. Lively or vivid representation of meaning, sentiment, or
+      feeling, etc.; significant and impressive indication,
+      whether by language, appearance, or gesture; that manner
+      or style which gives life and suggestive force to ideas
+      and sentiments; as, he reads with expression; her
+      performance on the piano has expression.
+      [1913 Webster]
+
+            The imitators of Shakespeare, fixing their attention
+            on his wonderful power of expression, have directed
+            their imitation to this.              --M. Arnold.
+      [1913 Webster]
+
+   4. That which is expressed by a countenance, a posture, a
+      work of art, etc.; look, as indicative of thought or
+      feeling. ``The expression of an eye.'' --Tennyson.
+      [1913 Webster]
+
+            It still wore the majesty of expression so
+            conspicuous in his portraits by the inimitable
+            pencil of Titian.                     --Prescott.
+      [1913 Webster]
+
+   5. A form of words in which an idea or sentiment is conveyed;
+      a mode of speech; a phrase; as, a common expression; an
+      odd expression.
+      [1913 Webster]
+
+   6. (Math.) The representation of any quantity or relation by
+      appropriate characters or symbols, usually in a specific
+      order.
+      [1913 Webster +PJC]
+
+   7. (Genetics) the production of products by a gene that cause
+      the appearance of the corresponding protein or phenotype;
+      -- of a gene or of an organism with a specific gene; as,
+      the expression the beta-galactosidase positive phenotype,
+      [PJC]
+
+   8. (Computers) a combination of characters linked by
+      operators, occurring as part of the code of a computer
+      program, which must be evaluated according to the rules of
+      the computer language in order to produce a resulting
+      value.
+      [PJC]
+
+   Note: In most programming languages, (a + b) is an expression
+         indicating simple arithmetic addition, if the variables
+         a and b are real numbers. Many other types of operation
+         may be used in programs, and each set of symbols
+         indicating an operation is an expression in that
+         program.
+         [PJC]
+
+   {Past expression}, {Beyond expression}, beyond the power of
+      description. ``Beyond expression bright.'' --Milton.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>expression</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>expression
+     n 1: the expression on a person's face; "a sad expression"; "a
+          look of triumph"; "an angry face" [syn: {look}, {aspect},
+           {facial expression}, {face}]
+     2: expression without words; "tears are an expression of
+        grief"; "the pulse is a reflection of the heart's
+        condition" [syn: {manifestation}, {reflection}, {reflexion}]
+     3: the communication (in speech or writing) of your beliefs or
+        opinions; "expressions of good will"; "he helped me find
+        expression for my ideas"
+     4: a word or phrase that particular people use in particular
+        situations; "pardon the expression" [syn: {saying}, {locution}]
+     5: the style of expressing yourself; "he suggested a better
+        formulation"; "his manner of expression showed how much he
+        cared" [syn: {formulation}]
+     6: a group of symbols that make a mathematical statement [syn:
+        {formula}]
+     7: (genetics) the process of expressing a gene
+     8: a group of words that form a constituent of a sentence and
+        are considered as a single unit; "I concluded from his
+        awkward constructions that he was a foreigner" [syn: {construction},
+         {grammatical construction}] [ant: {misconstruction}]
+     9: the act of forcing something out by squeezing or pressing;
+        "the expression of milk from her breast"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

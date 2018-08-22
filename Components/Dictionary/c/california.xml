@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>california</Word>
+  <Definitions>
+    <Definition>
+      <Word>california</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>California, KY (city, FIPS 11872)
+  Location: 38.91965 N, 84.26262 W
+  Population (1990): 130 (43 housing units)
+  Area: 0.6 sq km (land), 0.9 sq km (water)
+  Zip code(s): 41007
+California, MD (CDP, FIPS 12150)
+  Location: 38.29615 N, 76.49616 W
+  Population (1990): 7626 (2907 housing units)
+  Area: 33.4 sq km (land), 4.9 sq km (water)
+  Zip code(s): 20619
+California, MO (city, FIPS 10468)
+  Location: 38.63157 N, 92.56678 W
+  Population (1990): 3465 (1562 housing units)
+  Area: 6.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 65018
+California, PA (borough, FIPS 10768)
+  Location: 40.06625 N, 79.91078 W
+  Population (1990): 5748 (2038 housing units)
+  Area: 28.6 sq km (land), 0.5 sq km (water)
+  Zip code(s): 15419
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>california</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>California
+     n : a state in the western United States on the Pacific; the 3rd
+         largest state; known for earthquakes [syn: {Golden State},
+          {CA}, {Calif.}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

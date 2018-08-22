@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ascii</Word>
+  <Definitions>
+    <Definition>
+      <Word>ascii</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>ASCII
+     
+        {American Standard Code for Information Interchange}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ascii</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ascii \As"ci*i\, Ascians \As"cians\, n. pl. [L. ascii, pl. of
+   ascius, Gr. ? without shadow; 'a priv. + ? shadow.]
+   Persons who, at certain times of the year, have no shadow at
+   noon; -- applied to the inhabitants of the torrid zone, who
+   have, twice a year, a vertical sun.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ascii</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>ASCII \ASCII\ n. [Acronym: American Standard Code for
+   Information Interchange.](Computers)
+   1. the American Standard Code for Information Interchange, a
+      code consisting of a set of 128 7-bit combinations used in
+      digital computers internally, for display purposes, and
+      for exchanging data between computers. It is very widely
+      used, but because of the limited number of characters
+      encoded must be supplemented or replaced by other codes
+      for encoding special symbols or words in languages other
+      than English. Also used attributively; -- as, an ASCII
+      file.
+
+   Syn: American Standard Code for Information Interchange.
+        [PJC] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ascii</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>ASCII /as'kee/ n. [originally an acronym (American Standard Code for
+   Information Interchange) but now merely conventional] The predominant
+   character set encoding of present-day computers. The standard version
+   uses 7 bits for each character, whereas most earlier codes (including
+   early drafts of ASCII prior to June 1961) used fewer. This change
+   allowed the inclusion of lowercase letters -- a major {win} -- but it
+   did not provide for accented letters or any other letterforms not used
+   in English (such as the German sharp-S or the ae-ligature which is a
+   letter in, for example, Norwegian). It could be worse, though. It could
+   be much worse. See {{EBCDIC}} to understand how. A history of ASCII and
+   its ancestors is at `http://www.wps.com/texts/codes/index.html'.
+
+   Computers are much pickier and less flexible about spelling than
+   humans; thus, hackers need to be very precise when talking about
+   characters, and have developed a considerable amount of verbal shorthand
+   for them. Every character has one or more names -- some formal, some
+   concise, some silly. Common jargon names for ASCII characters are
+   collected here. See also individual entries for {bang}, {excl}, {open},
+   {ques}, {semi}, {shriek}, {splat}, {twiddle}, and {Yu-Shiang Whole
+   Fish}.
+
+   This list derives from revision 2.3 of the Usenet ASCII pronunciation
+   guide. Single characters are listed in ASCII order; character pairs are
+   sorted in by first member. For each character, common names are given in
+   rough order of popularity, followed by names that are reported but
+   rarely seen; official ANSI/CCITT names are surrounded by brokets: &lt;&gt;.
+   Square brackets mark the particularly silly names introduced by
+   {INTERCAL}. The abbreviations "l/r" and "o/c" stand for left/right and
+   "open/close" respectively. Ordinary parentheticals provide some usage
+   information.
+
+   !
+  Common: {bang}; pling; excl; not; shriek; ball-bat; &lt;exclamation
+  mark&gt;.  Rare: factorial; exclam; smash; cuss; boing; yell; wow;
+  hey; wham; eureka; [spark-spot]; soldier, control.
+  
+   "
+  Common: double quote; quote.  Rare: literal mark; double-glitch;
+  &lt;quotation marks&gt;; &lt;dieresis&gt;; dirk; [rabbit-ears]; double prime.
+  
+   #
+  Common: number sign; pound; pound sign; hash; sharp; {crunch}; hex;
+  [mesh].  Rare: grid; crosshatch; octothorpe; flash; &lt;square&gt;,
+  pig-pen; tictactoe; scratchmark; thud; thump; {splat}.
+  
+   $
+  Common: dollar; &lt;dollar sign&gt;.  Rare: currency symbol; buck; cash;
+  string (from BASIC); escape (when used as the echo of ASCII ESC);
+  ding; cache; [big money].
+  
+   %
+  Common: percent; &lt;percent sign&gt;; mod; grapes.  Rare:
+  [double-oh-seven].
+  
+   &amp;
+  Common: &lt;ampersand&gt;; amp; amper; and, and sign.  Rare: address
+  (from C); reference (from C++); andpersand; bitand; background
+  (from `sh(1)'); pretzel.  [INTERCAL called this `ampersand'; what
+  could be sillier?]
+  
+   '
+  Common: single quote; quote; &lt;apostrophe&gt;.  Rare: prime; glitch;
+  tick; irk; pop; [spark]; &lt;closing single quotation mark&gt;; &lt;acute
+  accent&gt;.
+  
+   ( )
+
+  Common: l/r paren; l/r parenthesis; left/right; open/close;
+  paren/thesis; o/c paren; o/c parenthesis; l/r parenthesis; l/r
+  banana.  Rare: so/already; lparen/rparen; &lt;opening/closing
+  parenthesis&gt;; o/c round bracket, l/r round bracket, [wax/wane];
+  parenthisey/unparenthisey; l/r ear.
+  
+   *
+  Common: star; [{splat}]; &lt;asterisk&gt;.  Rare: wildcard; gear; dingle;
+  mult; spider; aster; times; twinkle; glob (see {glob}); {Nathan
+  Hale}.
+  
+   +
+  Common: &lt;plus&gt;; add.  Rare: cross; [intersection].
+  
+   ,
+  Common: &lt;comma&gt;.  Rare: &lt;cedilla&gt;; [tail].
+  
+   -
+  Common: dash; &lt;hyphen&gt;; &lt;minus&gt;.  Rare: [worm]; option; dak;
+  bithorpe.
+  
+   .
+  Common: dot; point; &lt;period&gt;; &lt;decimal point&gt;.  Rare: radix point;
+  full stop; [spot].
+  
+   /
+  Common: slash; stroke; &lt;slant&gt;; forward slash.  Rare: diagonal;
+  solidus; over; slak; virgule; [slat].
+  
+:
+  Common: &lt;colon&gt;.  Rare: dots; [two-spot].
+  
+   ;
+  Common: &lt;semicolon&gt;; semi.  Rare: weenie; [hybrid], pit-thwong.
+  
+   &lt; &gt;
+
+  Common: &lt;less/greater than&gt;; bra/ket; l/r angle; l/r angle
+  bracket; l/r broket.  Rare: from/{into, towards}; read from/write
+  to; suck/blow; comes-from/gozinta; in/out; crunch/zap (all from
+  UNIX); tic/tac; [angle/right angle].
+  
+   =
+  Common: &lt;equals&gt;; gets; takes.  Rare: quadrathorpe; [half-mesh].
+  
+   ?
+  Common: query; &lt;question mark&gt;; {ques}.  Rare: quiz; whatmark;
+  [what]; wildchar; huh; hook; buttonhook; hunchback.
+  
+   @
+  Common: at sign; at; strudel.  Rare: each; vortex; whorl;
+  [whirlpool]; cyclone; snail; ape; cat; rose; cabbage; &lt;commercial
+  at&gt;.
+  
+   V
+  Rare: [book].
+  
+   [ ]
+
+  Common: l/r square bracket; l/r bracket; &lt;opening/closing
+  bracket&gt;; bracket/unbracket.  Rare: square/unsquare; [U turn/U
+  turn back].
+  
+   \
+  Common: backslash, hack, whack; escape (from C/UNIX); reverse
+  slash; slosh; backslant; backwhack.  Rare: bash; &lt;reverse slant&gt;;
+  reversed virgule; [backslat].
+  
+   ^
+  Common: hat; control; uparrow; caret; &lt;circumflex&gt;.  Rare: xor
+  sign, chevron; [shark (or shark-fin)]; to the (`to the power of');
+  fang; pointer (in Pascal).
+  
+   _
+  Common: &lt;underline&gt;; underscore; underbar; under.  Rare: score;
+  backarrow; skid; [flatworm].
+  
+   `
+  Common: backquote; left quote; left single quote; open quote;
+  &lt;grave accent&gt;; grave.  Rare: backprime; [backspark];
+  unapostrophe; birk; blugle; back tick; back glitch; push; &lt;opening
+  single quotation mark&gt;; quasiquote.
+  
+   { }
+
+  Common: o/c brace; l/r brace; l/r squiggly; l/r squiggly
+  bracket/brace; l/r curly bracket/brace; &lt;opening/closing brace&gt;.
+  Rare: brace/unbrace; curly/uncurly; leftit/rytit; l/r squirrelly;
+  [embrace/bracelet].  A balanced pair of these may be called
+  `curlies'.
+  
+   |
+  Common: bar; or; or-bar; v-bar; pipe; vertical bar.  Rare:
+  &lt;vertical line&gt;; gozinta; thru; pipesinta (last three from UNIX);
+  [spike].
+  
+   ~
+  Common: &lt;tilde&gt;; squiggle; {twiddle}; not.  Rare: approx; wiggle;
+  swung dash; enyay; [sqiggle (sic)].
+  
+   The pronunciation of `#' as `pound' is common in the U.S. but a bad
+   idea; {{Commonwealth Hackish}} has its own, rather more apposite use of
+   `pound sign' (confusingly, on British keyboards the pound graphic
+   happens to replace `#'; thus Britishers sometimes call `#' on a
+   U.S.-ASCII keyboard `pound', compounding the American error). The U.S.
+   usage derives from an old-fashioned commercial practice of using a `#'
+   suffix to tag pound weights on bills of lading. The character is usually
+   pronounced `hash' outside the U.S. There are more culture wars over the
+   correct pronunciation of this character than any other, which has led to
+   the {ha ha only serious} suggestion that it be pronounced `shibboleth'
+   (see Judges 12:6 in an Old Testament or Tanakh).
+
+   The `uparrow' name for circumflex and `leftarrow' name for underline
+   are historical relics from archaic ASCII (the 1963 version), which had
+   these graphics in those character positions rather than the modern
+   punctuation characters.
+
+   The `swung dash' or `approximation' sign is not quite the same as
+   tilde in typeset material but the ASCII tilde serves for both (compare
+   {angle brackets}).
+
+   Some other common usages cause odd overlaps. The `#', `$', `&gt;', and
+   `&amp;' characters, for example, are all pronounced "hex" in different
+   communities because various assemblers use them as a prefix tag for
+   hexadecimal constants (in particular, `#' in many assembler-programming
+   cultures, `$' in the 6502 world, `&gt;' at Texas Instruments, and `&amp;' on
+   the BBC Micro, Sinclair, and some Z80 machines). See also {splat}.
+
+   The inability of ASCII text to correctly represent any of the world's
+   other major languages makes the designers' choice of 7 bits look more
+   and more like a serious {misfeature} as the use of international
+   networks continues to increase (see {software rot}). Hardware and
+   software from the U.S. still tends to embody the assumption that ASCII
+   is the universal character set and that characters have 7 bits; this is
+   a major irritant to people who want to use a character set suited to
+   their own languages. Perversely, though, efforts to solve this problem
+   by proliferating `national' character sets produce an evolutionary
+   pressure to use a _smaller_ subset common to all those in use.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ascii</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>ASCII
+     American Standard Code of Information Interchange
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ascii</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ASCII
+     n : (computer science) a code for information exchange between
+         computers made by different companies; a string of 7
+         binary digits represents each character; used in most
+         microcomputers [syn: {American Standard Code for
+         Information Interchange}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

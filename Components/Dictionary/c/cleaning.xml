@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cleaning</Word>
+  <Definitions>
+    <Definition>
+      <Word>cleaning</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Clean \Clean\ (kl[=e]n), v. t. [imp. &amp; p. p. {Cleaned}
+   (kl[=e]nd); p. pr. &amp; vb. n. {Cleaning}.] [See {Clean}, a.,
+   and cf. {Cleanse}.]
+   To render clean; to free from whatever is foul, offensive, or
+   extraneous; to purify; to cleanse.
+   [1913 Webster]
+
+   {To clean out}, to exhaust; to empty; to get away from (one)
+      all his money. [Colloq.] --De Quincey.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cleaning</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cleaning \Clean"ing\, n.
+   1. The act of making clean.
+      [1913 Webster]
+
+   2. The afterbirth of cows, ewes, etc. --Gardner.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cleaning</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cleaning
+     n : the act of making something clean; "he gave his shoes a good
+         cleaning" [syn: {cleansing}, {cleanup}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

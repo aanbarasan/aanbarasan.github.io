@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>forth</Word>
+  <Definitions>
+    <Definition>
+      <Word>forth</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>FORTH
+     
+        1. &lt;language&gt; An interactive extensible language using
+        {postfix syntax} and a data stack, developed by Charles
+        H. Moore in the 1960s.  FORTH is highly user-configurable and
+        there are many different implementations, the following
+        description is of a typical default configuration.
+     
+        Forth programs are structured as lists of "words" - FORTH's
+        term which encompasses language keywords, primitives and
+        user-defined {subroutines}.  Forth takes the idea of
+        subroutines to an extreme - nearly everything is a subroutine.
+        A word is any string of characters except the separator which
+        defaults to space.  Numbers are treated specially.  Words are
+        read one at a time from the input stream and either executed
+        immediately ("interpretive execution") or compiled as part of
+        the definition of a new word.
+     
+        The sequential nature of list execution and the implicit use
+        of the data stack (numbers appearing in the lists are pushed
+        to the stack as they are encountered) imply postfix syntax.
+        Although postfix notation is initially difficult, experienced
+        users find it simple and efficient.
+     
+        Words appearing in executable lists may be "{primitives}"
+        (simple {assembly language} operations), names of previously
+        compiled procedures or other special words.  A procedure
+        definition is introduced by ":" and ended with ";" and is
+        compiled as it is read.
+     
+        Most Forth dialects include the source language structures
+        BEGIN-AGAIN, BEGIN-WHILE-REPEAT, BEGIN-UNTIL, DO-LOOP, and
+        IF-ELSE-THEN, and others can be added by the user.  These are
+        "compiling structures" which may only occur in a procedure
+        definition.
+     
+        FORTH can include in-line {assembly language} between "CODE"
+        and "ENDCODE" or similar constructs.  Forth primitives are
+        written entirely in {assembly language}, secondaries contain a
+        mixture.  In fact code in-lining is the basis of compilation
+        in some implementations.
+     
+        Once assembled, primitives are used exactly like other words.
+        A significant difference in behaviour can arise, however, from
+        the fact that primitives end with a jump to "NEXT", the entry
+        point of some code called the sequencer, whereas
+        non-primitives end with the address of the "EXIT" primitive.
+        The EXIT code includes the scheduler in some {multi-tasking}
+        systems so a process can be {deschedule}d after executing a
+        non-primitive, but not after a primitive.
+     
+        Forth implementations differ widely.  Implementation
+        techniques include {threaded code}, dedicated Forth
+        processors, {macros} at various levels, or interpreters
+        written in another language such as {C}.  Some implementations
+        provide {real-time} response, user-defined data structures,
+        {multitasking}, {floating-point} arithmetic, and/or {virtual
+        memory}.
+     
+        Some Forth systems support virtual memory without specific
+        hardware support like {MMU}s.  However, Forth virtual memory
+        is usually only a sort of extended data space and does not
+        usually support executable code.
+     
+        FORTH does not distinguish between {operating system} calls
+        and the language.  Commands relating to I/O, {file systems}
+        and {virtual memory} are part of the same language as the
+        words for arithmetic, memory access, loops, IF statements, and
+        the user's application.
+     
+        Many Forth systems provide user-declared "vocabularies" which
+        allow the same word to have different meanings in different
+        contexts.  Within one vocabulary, re-defining a word causes
+        the previous definition to be hidden from the interpreter (and
+        therefore the compiler), but not from previous definitions.
+     
+        FORTH was first used to guide the telescope at NRAO, Kitt
+        Peak.  Moore considered it to be a {fourth-generation
+        language} but his {operating system} wouldn't let him use six
+        letters in a program name, so FOURTH became FORTH.
+     
+        Versions include fig-FORTH, FORTH 79 and FORTH 83.
+     
+        {FAQs
+        (http://www.complang.tuwien.ac.at/forth/faq/faq-general-2.html)}.
+        {ANS Forth standard, dpANS6
+        (http://www.taygeta.com/forth/dpans.html)}.
+     
+        FORTH Interest Group, Box 1105, San Carlos CA 94070.
+     
+        See also {51forth}, {F68K}, {cforth}, {E-Forth}, {FORML},
+        {TILE Forth}.
+     
+        [Leo Brodie, "Starting Forth"].
+     
+        [Leo Brodie, "Thinking Forth"].
+     
+        [Jack Woehr, "Forth, the New Model"].
+     
+        [R.G. Loeliger, "Threaded Interpretive Languages"].
+     
+        2. {FOundation for Research and Technology - Hellas}.
+     
+        (1997-04-16)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>forth</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Forth \Forth\, prep.
+   Forth from; out of. [Archaic]
+   [1913 Webster]
+
+         Some forth their cabins peep.            --Donne.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>forth</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Forth \Forth\, v.[AS. for[eth], fr. for akin to D. voort, G.
+   fort [root]78. See {Fore}, {For}, and cf. {Afford},
+   {Further}, adv.]
+   1. Forward; onward in time, place, or order; in advance from
+      a given point; on to end; as, from that day forth; one,
+      two, three, and so forth.
+      [1913 Webster]
+
+            Lucas was Paul's companion, at the leastway from the
+            sixteenth of the Acts forth.          --Tyndale.
+      [1913 Webster]
+
+            From this time forth, I never will speak word.
+                                                  --Shak.
+      [1913 Webster]
+
+            I repeated the Ave Maria; the inquisitor bad me say
+            forth; I said I was taught no more.   --Strype.
+      [1913 Webster]
+
+   2. Out, as from a state of concealment, retirement,
+      confinement, nondevelopment, or the like; out into notice
+      or view; as, the plants in spring put forth leaves.
+      [1913 Webster]
+
+            When winter past, and summer scarce begun,
+            Invites them forth to labor in the sun. --Dryden.
+      [1913 Webster]
+
+   3. Beyond a (certain) boundary; away; abroad; out.
+      [1913 Webster]
+
+            I have no mind of feasting forth to-night. --Shak.
+      [1913 Webster]
+
+   4. Throughly; from beginning to end. [Obs.] --Shak.
+      [1913 Webster]
+
+   {And so forth}, {Back and forth}, {From forth}. See under
+      {And}, {Back}, and {From}.
+
+   {Forth of}, {Forth from}, out of. [Obs.] --Shak.
+
+   {To bring forth}. See under {Bring}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>forth</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Forth \Forth\, n. [OE., a ford. ? 78. See {Frith}.]
+   A way; a passage or ford. [Obs.] --Todd.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>forth</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>forth
+     adv 1: from a particular thing or place or position (`forth' is
+            obsolete); "ran away from the lion"; "wanted to get
+            away from there"; "sent the children away to boarding
+            school"; "the teacher waved the children away from the
+            dead animal"; "went off to school"; "they drove off";
+            "go forth and preach" [syn: {away}, {off}]
+     2: forward in time or order or degree; "from that time forth";
+        "from the sixth century onward" [syn: {forward}, {onward}]
+     3: out into view; "came forth from the crowd"; "put my ideas
+        forth"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

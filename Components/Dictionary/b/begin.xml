@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>begin</Word>
+  <Definitions>
+    <Definition>
+      <Word>begin</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>@Begin
+     
+        &lt;text&gt; The {Scribe} equivalent of {\begin}.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>begin</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>\begin
+     
+        &lt;text, chat&gt; The {LaTeX} command used with \end to delimit an
+        environment within which the text is formatted in a certain
+        way.  E.g. \begin{table}...\end{table}.
+     
+        Used humorously in writing to indicate a context or to remark
+        on the surrounded text.  For example:
+     
+         \begin{flame}
+         Predicate logic is the only good programming
+         language.  Anyone who would use anything else
+         is an idiot.  Also, all computers should be
+         tredecimal instead of binary.
+         \end{flame}
+     
+        {Scribe} users at {CMU} and elsewhere used to use @Begin/@End
+        in an identical way (LaTeX was built to resemble Scribe).  On
+        {Usenet}, this construct would more frequently be rendered as
+        "&lt;FLAME ON&gt;" and "&lt;FLAME OFF&gt;" (a la {HTML}), or "#ifdef
+        FLAME" and "#endif FLAME" (a la {C preprocessor}).
+     
+        (1998-09-21)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>begin</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Begin \Be*gin"\, v. t.
+   1. To enter on; to commence.
+      [1913 Webster]
+
+            Ye nymphs of Solyma ! begin the song. --Pope.
+      [1913 Webster]
+
+   2. To trace or lay the foundation of; to make or place a
+      beginning of.
+      [1913 Webster]
+
+            The apostle begins our knowledge in the creatures,
+            which leads us to the knowledge of God. --Locke.
+      [1913 Webster]
+
+   Syn: To commence; originate; set about; start.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>begin</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Begin \Be*gin"\, v. i. [imp. &amp; p. p. {Began}, {Begun}; p. pr. &amp;
+   vb. n. {Beginning}.] [AS. beginnan (akin to OS. biginnan, D.
+   &amp; G. beginnen, OHG. biginnan, Goth., du-ginnan, Sw. begynna,
+   Dan. begynde); pref. be- + an assumed ginnan. [root]31. See
+   {Gin} to begin.]
+   1. To have or commence an independent or first existence; to
+      take rise; to commence.
+      [1913 Webster]
+
+            Vast chain of being! which from God began. --Pope.
+      [1913 Webster]
+
+   2. To do the first act or the first part of an action; to
+      enter upon or commence something new, as a new form or
+      state of being, or course of action; to take the first
+      step; to start. ``Tears began to flow.'' --Dryden.
+      [1913 Webster]
+
+            When I begin, I will also make an end. --1 Sam. iii.
+                                                  12.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>begin</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Begin \Be*gin"\, n.
+   Beginning. [Poetic &amp; Obs.] --Spenser.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>begin</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Begin
+     n : Israeli statesman (born in Russia) who (as prime minister of
+         Israel) negotiated a peace treaty with Anwar Sadat (then
+         the president of Egypt) (1913-1992) [syn: {Menachem Begin}]
+     v 1: take the first step or steps in carrying out an action; "We
+          began working at dawn"; "Who will start?"; "Get working
+          as soon as the sun rises!"; "The first tourists began to
+          arrive in Cambodia"; "He began early in the day"; "Let's
+          get down to work now" [syn: {get down}, {get}, {start
+          out}, {start}, {set about}, {set out}, {commence}] [ant:
+           {end}]
+     2: have a beginning, in a temporal, spatial, or evaluative
+        sense; "The DMZ begins right over the hill"; "The second
+        movement begins after the Allegro"; "Prices for these
+        homes start at $250,000" [syn: {start}] [ant: {end}]
+     3: set in motion, cause to start; "The U.S. started a war in
+        the Middle East"; "The Iraqis began hostilities"; "begin a
+        new chapter in your life" [syn: {lead off}, {start}, {commence}]
+        [ant: {end}]
+     4: begin to speak or say; "Now listen, friends," he began
+     5: be the first item or point, constitute the beginning or
+        start, come first in a series; "The number 'one' begins
+        the sequence"; "A terrible murder begins the novel"; "The
+        convocation ceremoney officially begins the semester"
+     6: have a beginning, of a temporal event; "WWII began in 1939
+        when Hitler marched into Poland"; "The company's Asia tour
+        begins next month"
+     7: have a beginning characterized in some specified way; "The
+        novel begins with a murder"; "My property begins with the
+        three maple trees"; "Her day begins with a work-out"; "The
+        semester begins with a convocation ceremony" [syn: {start}]
+     8: begin an event that is implied and limited by the nature or
+        inherent function of the direct object; "begin a cigar";
+        "She started the soup while it was still hot"; "We started
+        physics in 10th grade" [syn: {start}]
+     9: achieve or accomplish in the least degree, usually used in
+        the negative; "This economic measure doesn't even begin to
+        deal with the problem of inflation"; "You cannot even
+        begin to understand the problem we had to deal with during
+        the war"
+     10: begin to speak, understand, read, and write a language; "She
+         began Russian at an early age"; "We started French in
+         fourth grade"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

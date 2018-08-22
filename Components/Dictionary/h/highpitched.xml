@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>highpitched</Word>
+  <Definitions>
+    <Definition>
+      <Word>highpitched</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>high-pitched \high-pitched\ adj.
+   1. high in pitch or frequency; -- used of sounds and voices.
+      Opposite of {low}. [Narrower terms: {adenoidal, pinched,
+      nasal}; {altissimo}; {alto}; {countertenor, alto};
+      {falsetto}; {peaky, spiky}; {piping}; {shrill, sharp};
+      {screaky, screechy, squeaking, squeaky, squealing};
+      {soprano, treble}; {sopranino}; {tenor}]
+
+   Syn: high.
+        [WordNet 1.5]
+
+   2. set at a sharp or high angle or slant; as, a high-pitched
+      roof.
+
+   Syn: steeply pitched, steep.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>highpitched</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>high-pitched
+     adj 1: used of sounds and voices; high in pitch or frequency [syn:
+            {high}] [ant: {low}]
+     2: set at a sharp or high angle or slant; "a high-pitched roof"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

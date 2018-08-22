@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bespectacled</Word>
+  <Definitions>
+    <Definition>
+      <Word>bespectacled</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bespectacled
+     adj : wearing, or having the face adorned with, eyeglasses or an
+           eyeglass; "a bespectacled grandmother"; "the monocled
+           gentleman" [syn: {monocled}, {spectacled}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>delightful</Word>
+  <Definitions>
+    <Definition>
+      <Word>delightful</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Delightful \De*light"ful\, a.
+   Highly pleasing; affording great pleasure and satisfaction.
+   ``Delightful bowers.'' --Spenser. ``Delightful fruit.''
+   --Milton.
+
+   Syn: Delicious; charming. See {Delicious}. --
+        {De*light"ful*ly}, adv. -- {De*light"ful*ness}, n.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>delightful</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>delightful
+     adj : greatly pleasing or entertaining; "a delightful surprise";
+           "the comedy was delightful"; "a delicious joke" [syn: {delicious}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

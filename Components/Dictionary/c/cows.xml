@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cows</Word>
+  <Definitions>
+    <Definition>
+      <Word>cows</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cow \Cow\, n.; pl. {Cows} (kouz); old pl. {Kine} (k[imac]n).
+   [OE. cu, cou, AS. c[=u]; akin to D. koe, G. kuh, OHG. kuo,
+   Icel. k[=y]r, Dan. &amp; Sw. ko, L. bos ox, cow, Gr. boy^s, Skr.
+   g[=o]. [root]223. Cf. {Beef}, {Bovine}, {Bucolic}, {Butter},
+   {Nylghau}.]
+   [1913 Webster]
+   1. The mature female of bovine animals.
+      [1913 Webster]
+
+   2. The female of certain large mammals, as whales, seals,
+      etc.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cows</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>cows \cows\ n. pl. [pl. of cow.]
+   domesticated bovine animals as a group regardless of sex or
+   age; as, wait till the cows come home.
+
+   Syn: cattle, kine, oxen, Bos taurus.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cows</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cows
+     n : domesticated bovine animals as a group regardless of sex or
+         age; "so many head of cattle"; "wait till the cows come
+         home"; "seven thin and ill-favored kine"- Bible; "a team
+         of oxen" [syn: {cattle}, {kine}, {oxen}, {Bos taurus}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

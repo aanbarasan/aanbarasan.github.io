@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>collecting</Word>
+  <Definitions>
+    <Definition>
+      <Word>collecting</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Collect \Col*lect"\ (k[o^]l*l[e^]kt"), v. t. [imp. &amp; p. p.
+   {Collected}; p. pr. &amp; vb. n. {Collecting}.] [L. collecrus, p.
+   p. of collerige to bind together; col- + legere to gather:
+   cf. OF. collecter. See {Legend}, and cf. {Coil}, v. t.,
+   {Cull}, v. t.]
+   1. To gather into one body or place; to assemble or bring
+      together; to obtain by gathering.
+      [1913 Webster]
+
+            A band of men
+            Collected choicely from each country. --Shak.
+      [1913 Webster]
+
+            'Tis memory alone that enriches the mind, by
+            preserving what our labor and industry daily
+            collect.                              --Watts.
+      [1913 Webster]
+
+   2. To demand and obtain payment of, as an account, or other
+      indebtedness; as, to collect taxes.
+      [1913 Webster]
+
+   3. To infer from observed facts; to conclude from premises.
+      [Archaic.] --Shak.
+      [1913 Webster]
+
+            Which sequence, I conceive, is very ill collected.
+                                                  --Locke.
+      [1913 Webster]
+
+   {To collect one's self}, to recover from surprise,
+      embarrassment, or fear; to regain self-control.
+
+   Syn: To gather; assemble; congregate; muster; accumulate;
+        garner; aggregate; amass; infer; deduce.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>collecting</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>collecting
+     n : the act of gathering something together [syn: {collection},
+         {assembling}, {aggregation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

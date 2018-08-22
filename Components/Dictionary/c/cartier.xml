@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cartier</Word>
+  <Definitions>
+    <Definition>
+      <Word>cartier</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Cartier
+     n : French explorer who explored the St. Lawrence river and laid
+         claim to the region for France (1491-1557) [syn: {Jacques
+         Cartier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

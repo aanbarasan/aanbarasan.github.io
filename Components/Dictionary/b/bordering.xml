@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bordering</Word>
+  <Definitions>
+    <Definition>
+      <Word>bordering</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Border \Bor"der\, v. i. [imp. &amp; p. p. {Bordered}; p. pr. &amp; vb.
+   n. {Bordering}.]
+   1. To touch at the edge or boundary; to be contiguous or
+      adjacent; -- with on or upon as, Connecticut borders on
+      Massachusetts.
+      [1913 Webster]
+
+   2. To approach; to come near to; to verge.
+      [1913 Webster]
+
+            Wit which borders upon profaneness deserves to be
+            branded as folly.                     --Abp.
+                                                  Tillotson.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

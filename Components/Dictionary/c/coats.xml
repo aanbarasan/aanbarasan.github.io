@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>coats</Word>
+  <Definitions>
+    <Definition>
+      <Word>coats</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Coats, KS (city, FIPS 14525)
+  Location: 37.51090 N, 98.82438 W
+  Population (1990): 127 (72 housing units)
+  Area: 0.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 67028
+Coats, NC (town, FIPS 13360)
+  Location: 35.40622 N, 78.66876 W
+  Population (1990): 1493 (688 housing units)
+  Area: 3.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 27521
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

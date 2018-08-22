@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>atlantis</Word>
+  <Definitions>
+    <Definition>
+      <Word>atlantis</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Atlantis, FL (city, FIPS 2500)
+  Location: 26.59618 N, 80.10188 W
+  Population (1990): 1653 (1067 housing units)
+  Area: 3.5 sq km (land), 0.1 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>atlantis</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Atlantis
+     n : according to legend, an island in the Atlantic Ocean that
+         Plato said was swallowed by an earthquake
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

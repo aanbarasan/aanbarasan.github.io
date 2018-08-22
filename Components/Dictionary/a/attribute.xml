@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>attribute</Word>
+  <Definitions>
+    <Definition>
+      <Word>attribute</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>attribute
+     
+        &lt;data&gt; A named value or relationship that exists for some or
+        all {instances} of some {entity} and is directly associated
+        with that instance.
+     
+        Examples include the {href} attribute of an {HTML} {anchor}
+        element, the columns of a database table considered as
+        attributes of each row, and the {members} ({properties} and
+        {methods} of an {object} in {OOP}.  This contrasts with the
+        contents of some kind of container (e.g. an array), which are
+        typically not named.  The contents of an {associative array},
+        though they might be considered to be named by their key
+        values, are not normally thought of as attributes.
+     
+        (2001-02-04)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>attribute</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Attribute \At*trib"ute\ ([a^]t"tr[i^]*b[=u]t), v. t. [imp. &amp; p.
+   p. {Attributed}; p. pr. &amp; vb. n. {Attributing}.] [L.
+   attributus, p. p. of attribuere; ad + tribuere to bestow. See
+   {Tribute}.]
+   To ascribe; to consider (something) as due or appropriate
+   (to); to refer, as an effect to a cause; to impute; to
+   assign; to consider as belonging (to).
+   [1913 Webster]
+
+         We attribute nothing to God that hath any repugnancy or
+         contradiction in it.                     --Abp.
+                                                  Tillotson.
+   [1913 Webster]
+
+         The merit of service is seldom attributed to the true
+         and exact performer.                     --Shak.
+   [1913 Webster]
+
+   Syn: See {Ascribe}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>attribute</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Attribute \At"tri*bute\, n. [L. attributum.]
+   1. That which is attributed; a quality which is considered as
+      belonging to, or inherent in, a person or thing; an
+      essential or necessary property or characteristic.
+      [1913 Webster]
+
+            But mercy is above this sceptered away; . . .
+            It is an attribute to God himself.    --Shak.
+      [1913 Webster]
+
+   2. Reputation. [Poetic]                        --Shak.
+      [1913 Webster]
+
+   3. (Paint. &amp; Sculp.) A conventional symbol of office,
+      character, or identity, added to any particular figure;
+      as, a club is the attribute of Hercules.
+      [1913 Webster]
+
+   4. (Gram.) Quality, etc., denoted by an attributive; an
+      attributive adjunct or adjective.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>attribute</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>attribute
+     n 1: a construct whereby objects or individuals can be
+          distinguished; "self-confidence is not an endearing
+          property" [syn: {property}, {dimension}]
+     2: an abstraction belonging to or characteristic of an entity
+     v 1: attribute or credit to; "We attributed this quotation to
+          Shakespeare"; "People impute great cleverness to cats"
+          [syn: {impute}, {ascribe}, {assign}]
+     2: decide as to where something belongs in a scheme; "The
+        biologist assigned the mushroom to the proper class" [syn:
+         {assign}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

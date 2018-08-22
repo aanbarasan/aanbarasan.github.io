@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cliff</Word>
+  <Definitions>
+    <Definition>
+      <Word>cliff</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cliff \Cliff\ (kl[i^]f), n. [AS. clif, cloef; akin to OS. klif,
+   D. klif, klip, Icel. klif, Dan. &amp; G. klippe, Sw. klippa;
+   perh. orig. a climbing place. See {Climb}.]
+   A high, steep rock; a precipice.
+   [1913 Webster]
+
+   {Cliff swallow} (Zo["o]l.), a North American swallow
+      ({Petrochelidon lunifrons}), which builds its nest against
+      cliffs; the {eaves swallow}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cliff</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cliff \Cliff\, n. (Mus.)
+   See {Clef}. [Obs.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cliff</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cliff
+     n : a steep high face of rock; "he stood on a high cliff
+         overlooking the town"; "a steep drop" [syn: {drop}, {drop-off}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

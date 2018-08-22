@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>calibration</Word>
+  <Definitions>
+    <Definition>
+      <Word>calibration</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Calibration \Cal`ibra"*tion\, n.
+   The process of estimating the caliber a tube, as of a
+   thermometer tube, in order to graduate it to a scale of
+   degrees; also, more generally, the determination of the true
+   value of the spaces in any graduated instrument.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>calibration</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>calibration
+     n : the act of checking or adjusting (by comparison with a
+         standard) the accuracy of a measuring instrument; "the
+         thermometer needed calibration" [syn: {standardization},
+         {standardisation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

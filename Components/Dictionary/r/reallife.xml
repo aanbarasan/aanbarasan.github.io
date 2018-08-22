@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>reallife</Word>
+  <Definitions>
+    <Definition>
+      <Word>reallife</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>real life
+     n : the practical world as opposed to the academic world; "a
+         good consultant must have a lot of experience in the real
+         world" [syn: {real world}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

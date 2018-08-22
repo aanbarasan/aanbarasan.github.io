@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>message</Word>
+  <Definitions>
+    <Definition>
+      <Word>message</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>message
+     
+        In {object-oriented programming} sending a message to an
+        {object} (to invoke a {method}) is equivalent to calling a
+        {procedure} in traditional programming languages, except that
+        the actual code executed may only be selected at run time
+        depending on the {class} of the object.  Thus, in response to
+        the message "drawSelf", the method code invoked would be
+        different if the target object were a circle or a square.
+     
+        (1995-02-16)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>message</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Message \Mes"sage\, v. t.
+   To bear as a message. [Obs.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>message</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Message \Mes"sage\, n. [OE., fr. OF. message, fr. LL.
+   missaticus. See 1st {Message}.]
+   A messenger. [Obs.] --Chaucer.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>message</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Message \Mes"sage\ (?; 48), n. [F., fr. LL. missaticum, fr. L.
+   mittere, missum, to send. See {Mission}, and cf.
+   {Messenger}.]
+   1. Any notice, word, or communication, written or verbal,
+      sent from one person to another.
+      [1913 Webster]
+
+            Ehud said, I have a message from God unto thee.
+                                                  --Judg. iii.
+                                                  20.
+      [1913 Webster]
+
+   2. Hence, specifically, an official communication, not made
+      in person, but delivered by a messenger; as, the
+      President's message.
+      [1913 Webster]
+
+   {Message shell}. See {Shell}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>message</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>message
+     n 1: a communication (usually brief) that is written or spoken or
+          signaled; "he sent a three-word message"
+     2: what a communication that is about something is about [syn:
+        {content}, {subject matter}, {substance}]
+     v 1: send a message to; "She messaged the committee"
+     2: send as a message; "She messaged the final report by fax"
+     3: send a message; "There is no messaging service at this
+        company"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>panicked</Word>
+  <Definitions>
+    <Definition>
+      <Word>panicked</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>panic
+     n 1: an overwhelming feeling of fear and anxiety [syn: {terror}]
+     2: sudden mass fear and anxiety over anticipated events; "panic
+        in the stock market"; "a war scare"; "a bomb scare led
+        them to evacuate the building" [syn: {scare}]
+     v 1: be overcome by a sudden fear; "The students panicked when
+          told that final exams were less than a week away"
+     2: cause sudden fear in or fill with sudden panic; "The mere
+        thought of an isolation cell panicked the prisoners"
+     [also: {panicking}, {panicked}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>panicked</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>panicked
+     adj : thrown into a state of intense fear or desperation; "became
+           panicky as the snow deepened"; "felt panicked before
+           each exam"; "trying to keep back the panic-stricken
+           crowd"; "the terrified horse bolted" [syn: {panicky}, {panic-stricken},
+            {panic-struck}, {terrified}, {frightened}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>panicked</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>panicked
+     See {panic}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

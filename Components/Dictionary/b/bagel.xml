@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bagel</Word>
+  <Definitions>
+    <Definition>
+      <Word>bagel</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>bagel \ba"gel\ (b[=a]"g'l), n. [Yiddish beygl, prob. fr. dial.
+   G. Beugel. --RHUD]
+   a glazed leavened doughnut-shaped roll with a hard crust.
+
+   Note: A similar roll in Russia is called a bublik.
+         [WordNet 1.5 +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bagel</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>BAGEL
+     Bay Area GNU Enthusiasts League (GNU, org., user group)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bagel</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bagel
+     n : (Yiddish) glazed yeast-raised doughnut-shaped roll with hard
+         crust [syn: {beigel}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

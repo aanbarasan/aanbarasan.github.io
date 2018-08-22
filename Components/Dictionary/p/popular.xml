@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>popular</Word>
+  <Definitions>
+    <Definition>
+      <Word>popular</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Popular \Pop"u*lar\, a. [L. popularis, fr. populus people: cf.
+   F. populaire. See {People}.]
+   1. Of or pertaining to the common people, or to the whole
+      body of the people, as distinguished from a select
+      portion; as, the popular voice; popular elections.
+      ``Popular states.'' --Bacon. ``So the popular vote
+      inclines.'' --Milton.
+      [1913 Webster]
+
+            The men commonly held in popular estimation are
+            greatest at a distance.               --J. H.
+                                                  Newman.
+      [1913 Webster]
+
+   2. Suitable to common people; easy to be comprehended; not
+      abstruse; familiar; plain.
+      [1913 Webster]
+
+            Homilies are plain popular instructions. --Hooker.
+      [1913 Webster]
+
+   3. Adapted to the means of the common people; possessed or
+      obtainable by the many; hence, cheap; common; ordinary;
+      inferior; as, popular prices; popular amusements.
+      [1913 Webster]
+
+            The smallest figs, called popular figs, . . . are,
+            of all others, the basest and of least account.
+                                                  --Holland.
+      [1913 Webster]
+
+   4. Beloved or approved by the people; pleasing to people in
+      general, or to many people; as, a popular preacher; a
+      popular law; a popular administration.
+      [1913 Webster]
+
+   5. Devoted to the common people; studious of the favor of the
+      populace. [R.]
+      [1913 Webster]
+
+            Such popular humanity is treason.     --Addison.
+      [1913 Webster]
+
+   6. Prevailing among the people; epidemic; as, a popular
+      disease. [Obs.] --Johnson.
+      [1913 Webster]
+
+   {Popular action} (Law), an action in which any person may sue
+      for penalty imposed by statute. --Blackstone.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>popular</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>popular
+     adj 1: regarded with great favor, approval, or affection especially
+            by the general public; "a popular tourist attraction";
+            "a popular girl"; "cabbage patch dolls are no longer
+            popular" [ant: {unpopular}]
+     2: carried on by or for the people (or citizens) at large; "the
+        popular vote"; "popular representation"; "institutions of
+        popular government"
+     3: representing or appealing to or adapted for the benefit of
+        the people at large; "democratic art forms"; "a democratic
+        or popular movement"; "popular thought"; "popular
+        science"; "popular fiction" [syn: {democratic}]
+     4: comprehensible to the general public; "written for the
+        popular press in plain nontechnical language" [syn: {plain}]
+     5: (of music or art) new and of general appeal (especially
+        among young people) [syn: {pop}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

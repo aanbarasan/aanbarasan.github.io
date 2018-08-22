@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>biochemistry</Word>
+  <Definitions>
+    <Definition>
+      <Word>biochemistry</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Biochemistry \Bi`o*chem"is*try\, n. [Gr. bi`os life + E.
+   chemistry.] (Biol.)
+   The chemistry of living organisms; the chemistry of the
+   processes incidental to, and characteristic of, life.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>biochemistry</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>biochemistry
+     n : the organic chemistry of compounds and processes occuring in
+         organisms; the effort to understand biology within the
+         context of chemistry
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

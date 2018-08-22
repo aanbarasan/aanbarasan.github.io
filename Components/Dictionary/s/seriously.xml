@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>seriously</Word>
+  <Definitions>
+    <Definition>
+      <Word>seriously</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Serious \Se"ri*ous\, a. [L. serius: cf. F. s['e]rieux, LL.
+   seriosus.]
+   1. Grave in manner or disposition; earnest; thoughtful;
+      solemn; not light, gay, or volatile.
+      [1913 Webster]
+
+            He is always serious, yet there is about his manner
+            a graceful ease.                      --Macaulay.
+      [1913 Webster]
+
+   2. Really intending what is said; being in earnest; not
+      jesting or deceiving. --Beaconsfield.
+      [1913 Webster]
+
+   3. Important; weighty; not trifling; grave.
+      [1913 Webster]
+
+            The holy Scriptures bring to our ears the most
+            serious things in the world.          --Young.
+      [1913 Webster]
+
+   4. Hence, giving rise to apprehension; attended with danger;
+      as, a serious injury.
+      [1913 Webster]
+
+   Syn: Grave; solemn; earnest; sedate; important; weighty. See
+        {Grave}.
+        [1913 Webster] -- {Se"ri*ous*ly}, adv. --
+        {Se"ri*ous*ness}, n.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>seriously</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>seriously
+     adv 1: in a serious manner; "talking earnestly with his son"; "she
+            started studying snakes in earnest"; "a play dealing
+            seriously with the question of divorce" [syn: {earnestly},
+             {in earnest}]
+     2: to a severe or serious degree; "fingers so badly frozen they
+        had to be amputated"; "badly injured"; "a severely
+        impaired heart"; "is gravely ill"; "was seriously ill"
+        [syn: {badly}, {severely}, {gravely}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

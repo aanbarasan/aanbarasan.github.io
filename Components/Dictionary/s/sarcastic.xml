@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sarcastic</Word>
+  <Definitions>
+    <Definition>
+      <Word>sarcastic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sarcastic \Sar*cas"tic\, Sarcastical \Sar*cas"tic*al\, a.
+   Expressing, or expressed by, sarcasm; characterized by, or of
+   the nature of, sarcasm; given to the use of sarcasm; bitterly
+   satirical; scornfully severe; taunting.
+   [1913 Webster]
+
+         What a fierce and sarcastic reprehension would this
+         have drawn from the friendship of the world! --South.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sarcastic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sarcastic
+     adj : expressing or expressive of ridicule that wounds [ant: {unsarcastic}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

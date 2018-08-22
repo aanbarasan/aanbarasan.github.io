@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>beef</Word>
+  <Definitions>
+    <Definition>
+      <Word>beef</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Beef \Beef\ (b[=e]f), a.
+   Of, pertaining to, or resembling, beef.
+   [1913 Webster]
+
+   {Beef tea}, essence of beef, or strong beef broth.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>beef</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Beef \Beef\ (b[=e]f), n. [OE. boef, befe, beef, OF. boef, buef,
+   F. b[oe]ef, fr. L. bos, bovis, ox; akin to Gr. boy^s, Skr.
+   g[=o] cow, and E. cow. See 2d {Cow}.]
+   1. An animal of the genus {Bos}, especially the common
+      species, {Bos taurus}, including the bull, cow, and ox, in
+      their full grown state; esp., an ox or cow fattened for
+      food.
+
+   Note: [In this, which is the original sense, the word has a
+         plural, beeves (b[=e]vz).]
+         [1913 Webster]
+
+               A herd of beeves, fair oxen and fair kine.
+                                                  --Milton.
+         [1913 Webster]
+
+   2. The flesh of an ox, or cow, or of any adult bovine animal,
+      when slaughtered for food.
+
+   Note: [In this sense, the word has no plural.] ``Great meals
+         of beef.'' --Shak.
+         [1913 Webster]
+
+   3. Applied colloquially to human flesh.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>beef</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>beef
+     n 1: cattle that are reared for their meat [syn: {beef cattle}]
+     2: meat from an adult domestic bovine [syn: {boeuf}]
+     3: informal terms for objecting; "I have a gripe about the
+        service here" [syn: {gripe}, {kick}, {bitch}, {squawk}]
+     v : complain; "What was he hollering about?" [syn: {gripe}, {grouse},
+          {crab}, {squawk}, {bellyache}, {holler}]
+     [also: {beeves} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

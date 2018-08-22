@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>alcoholism</Word>
+  <Definitions>
+    <Definition>
+      <Word>alcoholism</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Alcoholism \Al"co*hol*ism\, n. [Cf. F. alcoolisme.] (Med.)
+   A diseased condition of the system, brought about by the
+   continued use of alcoholic liquors.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>alcoholism</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>alcoholism
+     n 1: Habitual intoxication; prolonged and excessive intake of
+          alcoholic drinks leading to a breakdown in health and an
+          addiction to alcohol such that abrupt deprivation leads
+          to severe withdrawal symptoms [syn: {alcohol addiction},
+           {inebriation}, {drunkenness}]
+     2: an intense persistent desire to drink alcoholic beverages to
+        excess [syn: {dipsomania}, {potomania}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

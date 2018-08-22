@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>browsing</Word>
+  <Definitions>
+    <Definition>
+      <Word>browsing</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Browse \Browse\, v. t. [imp. &amp; p. p. {Browsed} (brouzd); p. pr.
+   &amp; vb. n. {Browsing}.] [For broust, OF. brouster, bruster, F.
+   brouter. See {Browse}, n., and cf. {Brut}.]
+   1. To eat or nibble off, as the tender branches of trees,
+      shrubs, etc.; -- said of cattle, sheep, deer, and some
+      other animals.
+      [1913 Webster]
+
+            Yes, like the stag, when snow the plasture sheets,
+            The barks of trees thou browsedst.    --Shak.
+      [1913 Webster]
+
+   2. To feed on, as pasture; to pasture on; to graze.
+      [1913 Webster]
+
+            Fields . . . browsed by deep-uddered kine.
+                                                  --Tennyson.
+      [1913 Webster]
+
+   3. To look casually through (a book, books, or a set of
+      documents), reading those parts which arouse one's
+      interest. Contrasted with {scan}, in which one typically
+      is searching for something specific.
+      [PJC]
+
+   3. (Computers) To look at a series of electronic documents on
+      a computer screen by means of a {browser[2]}.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>browsing</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Browsing \Brows"ing\, n.
+   Browse; also, a place abounding with shrubs where animals may
+   browse.
+   [1913 Webster]
+
+         Browsings for the deer.                  --Howell.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>browsing</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>browsing
+     n 1: reading superficially or at random [syn: {browse}]
+     2: the act of feeding by continual nibbling [syn: {browse}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

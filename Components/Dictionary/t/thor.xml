@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>thor</Word>
+  <Definitions>
+    <Definition>
+      <Word>thor</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Thor, IA (city, FIPS 77790)
+  Location: 42.68872 N, 94.04999 W
+  Population (1990): 205 (89 housing units)
+  Area: 2.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 50591
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>thor</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Thor \Thor\, n. [Icel. [thorn][=o]rs. Cf. {Thursday}.] (Scand.
+   Myth.)
+   The god of thunder, and son of Odin.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>thor</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Thor
+     n : (Norse mythology) god of thunder and rain and farming;
+         pictured as wielding a hammer emblematic of the
+         thunderbolt; identified with Teutonic Donar
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

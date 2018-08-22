@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>delhi</Word>
+  <Definitions>
+    <Definition>
+      <Word>delhi</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Delhi, CA (CDP, FIPS 18464)
+  Location: 37.43413 N, 120.77692 W
+  Population (1990): 3280 (952 housing units)
+  Area: 4.9 sq km (land), 0.0 sq km (water)
+  Zip code(s): 95315
+Delhi, CO
+  Zip code(s): 81059
+Delhi, IA (city, FIPS 19675)
+  Location: 42.43001 N, 91.33150 W
+  Population (1990): 485 (216 housing units)
+  Area: 2.5 sq km (land), 0.1 sq km (water)
+  Zip code(s): 52223
+Delhi, LA (town, FIPS 20190)
+  Location: 32.45640 N, 91.48922 W
+  Population (1990): 3169 (1226 housing units)
+  Area: 5.5 sq km (land), 0.2 sq km (water)
+Delhi, MN (city, FIPS 15544)
+  Location: 44.59818 N, 95.21303 W
+  Population (1990): 69 (41 housing units)
+  Area: 2.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 56283
+Delhi, NY (village, FIPS 20126)
+  Location: 42.27995 N, 74.91451 W
+  Population (1990): 3064 (755 housing units)
+  Area: 8.2 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>delhi</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Delhi
+     n : a city in north central India [syn: {Old Delhi}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

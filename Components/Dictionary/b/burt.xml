@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>burt</Word>
+  <Definitions>
+    <Definition>
+      <Word>burt</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Burt, IA (city, FIPS 9685)
+  Location: 43.19917 N, 94.22137 W
+  Population (1990): 575 (235 housing units)
+  Area: 1.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 50522
+Burt, MI (CDP, FIPS 12000)
+  Location: 43.23679 N, 83.90627 W
+  Population (1990): 1169 (386 housing units)
+  Area: 11.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 48417
+Burt, ND
+  Zip code(s): 58646
+Burt, NY
+  Zip code(s): 14028
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>burt</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Birt \Birt\ (b[~e]rt), n. [OE. byrte; cf. F. bertonneau. Cf.
+   {Bret}, {Burt}.] (Zo["o]l.)
+   A fish of the turbot kind; the brill. [Written also {burt},
+   {bret}, or {brut}.] [Prov. Eng.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>burt</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Burt \Burt\ (b[^u]rt), n. (Zo["o]l.)
+   See {Birt}. [Prov. Eng.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>burt</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Burt
+     n : English psychologist whose studies of twins were later said
+         to have used fabricated data (1883-1971) [syn: {Cyril
+         Burt}, {Cyril Lodowic Burt}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

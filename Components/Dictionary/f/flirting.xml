@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>flirting</Word>
+  <Definitions>
+    <Definition>
+      <Word>flirting</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Flirt \Flirt\, v. t. [imp. &amp; p. p. {Flirted}; p. pr. &amp; vb. n.
+   {Flirting}.] [Cf. AS. fleard trifle, folly, fleardian to
+   trifle.]
+   1. To throw with a jerk or quick effort; to fling suddenly;
+      as, they flirt water in each other's faces; he flirted a
+      glove, or a handkerchief.
+      [1913 Webster]
+
+   2. To toss or throw about; to move playfully to and fro; as,
+      to flirt a fan.
+      [1913 Webster]
+
+   3. To jeer at; to treat with contempt; to mock. [Obs.]
+      [1913 Webster]
+
+            I am ashamed; I am scorned; I am flirted. --Beau. &amp;
+                                                  Fl.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flirting</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>flirting
+     n : playful behavior intended to arouse sexual interest [syn: {flirt},
+          {flirtation}, {coquetry}, {dalliance}, {toying}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hobbit</Word>
+  <Definitions>
+    <Definition>
+      <Word>hobbit</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Hobbit
+     
+        A {Scheme} to {C} compiler by Tanel Tammet
+        &lt;tammet@cs.chalmers.se&gt;.  Hobbit attempts to retain most of
+        the original Scheme program structure, making the output C
+        program readable and modifiable.  Hobbit is written in Scheme
+        and is able to self-compile.  Hobbit release 1 works together
+        with the {scm} release scm4b3.  Future releases of scm and
+        hobbit will be coordinated.
+     
+        Current version: release 2.
+     
+        {(ftp://altdorf.ai.mit.edu/archive/scm/hobbit2.tar.Z)}.
+     
+        (1993/04/25)
+     
+        2. The non-{ITS} name of &lt;vad@ai.mit.edu&gt; (*Hobbit*), master of
+        lasers.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hobbit</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>hobbit
+     
+        High order bit.  The most significant bit (of a byte).  Also
+        known as the {meta bit} or {high bit}.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hobbit</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>hobbit n. 1. [rare] The High Order BIT of a byte; same as the {meta
+   bit} or {high bit}. 2. The non-ITS name of &lt;vad@ai.mit.edu&gt; (*Hobbit*),
+   master of lasers.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hobbit</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hobbit
+     n : an imaginary being similar to a person but smaller and with
+         hairy feet; invented by J.R.R. Tolkien
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

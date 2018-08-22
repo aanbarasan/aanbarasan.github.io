@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dork</Word>
+  <Definitions>
+    <Definition>
+      <Word>dork</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>dork \dork\ (d[^o]rk), n.
+   1. a person who is stupid, socially inept, or ridiculous; --
+      always used disparagingly. [slang.]
+
+   Syn: nerd; jerk. [PJC]
+
+   2. the penis. [vulgar slang]
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dork</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dork
+     n : a dull stupid fatuous person [syn: {jerk}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

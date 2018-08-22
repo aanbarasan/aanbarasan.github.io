@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>saved</Word>
+  <Definitions>
+    <Definition>
+      <Word>saved</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Save \Save\, v. t. [imp. &amp; p. p. {Saved}; p. pr. &amp; vb. n.
+   {Saving}.] [OE. saven, sauven, salven, OF. salver, sauver, F.
+   sauver, L. salvare, fr. salvus saved, safe. See {Safe}, a.]
+   1. To make safe; to procure the safety of; to preserve from
+      injury, destruction, or evil of any kind; to rescue from
+      impending danger; as, to save a house from the flames.
+      [1913 Webster]
+
+            God save all this fair company.       --Chaucer.
+      [1913 Webster]
+
+            He cried, saying, Lord, save me.      --Matt. xiv.
+                                                  30.
+      [1913 Webster]
+
+            Thou hast . . . quitted all to save
+            A world from utter loss.              --Milton.
+      [1913 Webster]
+
+   2. (Theol.) Specifically, to deliver from sin and its
+      penalty; to rescue from a state of condemnation and
+      spiritual death, and bring into a state of spiritual life.
+      [1913 Webster]
+
+            Christ Jesus came into the world to save sinners.
+                                                  --1 Tim. i.
+                                                  15.
+      [1913 Webster]
+
+   3. To keep from being spent or lost; to secure from waste or
+      expenditure; to lay up; to reserve.
+      [1913 Webster]
+
+            Now save a nation, and now save a groat. --Pope.
+      [1913 Webster]
+
+   4. To rescue from something undesirable or hurtful; to
+      prevent from doing something; to spare.
+      [1913 Webster]
+
+            I'll save you
+            That labor, sir. All's now done.      --Shak.
+      [1913 Webster]
+
+   5. To hinder from doing, suffering, or happening; to obviate
+      the necessity of; to prevent; to spare.
+      [1913 Webster]
+
+            Will you not speak to save a lady's blush? --Dryden.
+      [1913 Webster]
+
+   6. To hold possession or use of; to escape loss of.
+      [1913 Webster]
+
+            Just saving the tide, and putting in a stock of
+            merit.                                --Swift.
+      [1913 Webster]
+
+   {To save appearances}, to preserve a decent outside; to avoid
+      exposure of a discreditable state of things.
+      [1913 Webster]
+
+   Syn: To preserve; rescue; deliver; protect; spare; reserve;
+        prevent.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>saved</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>saved
+     adj 1: rescued; especially from the power and consequences of sin;
+            "a saved soul" [ant: {lost}]
+     2: guarded from injury or destruction [syn: {protected}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

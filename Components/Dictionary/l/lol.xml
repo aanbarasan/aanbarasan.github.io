@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lol</Word>
+  <Definitions>
+    <Definition>
+      <Word>lol</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>LOL
+     
+        &lt;chat&gt; "laughing out loud", or "lots of love" or "luck".
+     
+        (2003-07-29)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lol</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>LOL
+     Laughing Out Loud (telecommunication-slang, Usenet, IRC)
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

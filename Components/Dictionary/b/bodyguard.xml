@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bodyguard</Word>
+  <Definitions>
+    <Definition>
+      <Word>bodyguard</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bodyguard \Bod"y*guard`\, n.
+   1. A guard or group of guards to protect or defend the
+      person; a lifeguard.
+      [1913 Webster]
+
+   2. Retinue; attendance; following. --Bp. Porteus.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bodyguard</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>body guard
+     v : accompany and protect from physical harm
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bodyguard</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bodyguard
+     n 1: someone who escorts and protects a prominent person [syn: {escort}]
+     2: a group of men who escort and protect some important person
+        [syn: {guard}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

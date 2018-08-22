@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mocha</Word>
+  <Definitions>
+    <Definition>
+      <Word>mocha</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mocha \Mo"cha\, n.
+   1. A seaport town of Yemen, on the Red Sea, also spelled
+      {Mukha}.
+      [1913 Webster]
+
+   2. A variety of coffee originally brought from Mocha.
+      [1913 Webster]
+
+   3. An Abyssinian weight, equivalent to a Troy grain.
+      [1913 Webster]
+
+   4. A flavoring made from an infusion of coffee or of a
+      combination of coffee with chocolate or cocoa.
+      [PJC]
+
+   5. A color of a deep chocolate brown.
+      [PJC]
+
+   {Mocha stone} (Min.), moss agate.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mocha</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mocha
+     n 1: soft suede glove leather from goatskin
+     2: flavoring made from mixed coffee and chocolate
+     3: superior dark coffee made from beans from Arabia
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

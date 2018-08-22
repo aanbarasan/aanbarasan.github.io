@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cervix</Word>
+  <Definitions>
+    <Definition>
+      <Word>cervix</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cervix \Cer"vix\, n.; pl. E. {Cervixes}, L. {Cervices}. [L.]
+   (Anat.)
+   The neck; also, the necklike portion of any part, as of the
+   womb. See Illust. of {Bird}.
+   [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cervix</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cervix
+     n 1: the part of an organism that connects the head to the rest
+          of the body; "he admired her long graceful neck" [syn: {neck}]
+     2: necklike opening to the uterus [syn: {uterine cervix}, {cervix
+        uteri}]
+     [also: {cervices} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

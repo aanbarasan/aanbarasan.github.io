@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>afghan</Word>
+  <Definitions>
+    <Definition>
+      <Word>afghan</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Afghan \Af"ghan\, a.
+   Of or pertaining to Afghanistan.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>afghan</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Afghan \Af"ghan\, n.
+   1. A native of Afghanistan.
+      [1913 Webster]
+
+   2. A kind of worsted blanket or wrap.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>afghan</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Afghan
+     adj : of or relating to or characteristic of Afghanistan or its
+           people [syn: {Afghani}, {Afghanistani}]
+     n 1: a blanket knitted or crocheted in strips or squares;
+          sometimes used as a shawl
+     2: a native or inhabitant of Afghanistan [syn: {Afghanistani}]
+     3: an Iranian language spoken in Afghanistan and Pakistan; the
+        official language of Afghanistan [syn: {Pashto}, {Pashtu},
+         {Paxto}, {Afghani}]
+     4: a coat made of sheepskin [syn: {sheepskin coat}]
+     5: tall graceful breed of hound with a long silky coat; native
+        to the Near East [syn: {Afghan hound}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

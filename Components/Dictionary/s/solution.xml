@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>solution</Word>
+  <Definitions>
+    <Definition>
+      <Word>solution</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>solution
+     
+        &lt;jargon&gt; A {marketroid} term for something he wants to sell
+        you without bothering you with the often dizzying distinctions
+        between {hardware}, {software}, {services}, {applications},
+        {file formats}, companies, brand names and {operating
+        systems}.
+     
+        "{Flash} is a perfect image-streaming solution."  "What is
+        it?"  "Um...  about a thousand dollars."
+     
+        See also: {technology}.
+     
+        (1998-07-07)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>solution</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Solution \So*lu"tion\ (s[-o]*l[=u]"sh[u^]n), n. [OE. solucion,
+   OF. solucion, F. solution, fr. L. solutio, fr. solvere,
+   solutum, to loosen, dissolve. See {Solve}.]
+   1. The act of separating the parts of any body, or the
+      condition of undergoing a separation of parts; disruption;
+      breach.
+      [1913 Webster]
+
+            In all bodies there is an appetite of union and
+            evitation of solution of continuity.  --Bacon.
+      [1913 Webster]
+
+   2. The act of solving, or the state of being solved; the
+      disentanglement of any intricate problem or difficult
+      question; explanation; clearing up; -- used especially in
+      mathematics, either of the process of solving an equation
+      or problem, or the result of the process.
+      [1913 Webster]
+
+   3. The state of being dissolved or disintegrated; resolution;
+      disintegration.
+      [1913 Webster]
+
+            It is unquestionably an enterprise of more promise
+            to assail the nations in their hour of faintness and
+            solution, than at a time when magnificent and
+            seductive systems of worship were at their height of
+            energy and splendor.                  --I. Taylor.
+      [1913 Webster]
+
+   4. (Chem.Phys.) The act or process by which a body (whether
+      solid, liquid, or gaseous) is absorbed into a liquid, and,
+      remaining or becoming fluid, is diffused throughout the
+      solvent; also, the product resulting from such absorption.
+      [1913 Webster]
+
+   Note: When a solvent will not take in any more of a substance
+         the solution is said to be saturated. Solution is of
+         two kinds; viz.: (a) {Mechanical solution}, in which no
+         marked chemical change takes place, and in which, in
+         the case of solids, the dissolved body can be regained
+         by evaporation, as in the solution of salt or sugar in
+         water. (b) {Chemical solution}, in which there is
+         involved a decided chemical change, as when limestone
+         or zinc undergoes solution in hydrochloric acid.
+         {Mechanical solution} is regarded as a form of
+         molecular or atomic attraction, and is probably
+         occasioned by the formation of certain very weak and
+         unstable compounds which are easily dissociated and
+         pass into new and similar compounds.
+         [1913 Webster]
+
+   Note: This word is not used in chemistry or mineralogy for
+         fusion, or the melting of bodies by the heat of fire.
+         [1913 Webster]
+
+   5. Release; deliverance; discharge. [Obs.] --Barrow.
+      [1913 Webster]
+
+   6. (Med.)
+      (a) The termination of a disease; resolution.
+      (b) A crisis.
+      (c) A liquid medicine or preparation (usually aqueous) in
+          which the solid ingredients are wholly soluble. --U.
+          S. Disp.
+          [1913 Webster]
+
+   {Fehling's solution} (Chem.), a standardized solution of
+      cupric hydrate in sodium potassium tartrate, used as a
+      means of determining the reducing power of certain sugars
+      and sirups by the amount of red cuprous oxide thrown down.
+      
+
+   {Heavy solution} (Min.), a liquid of high density, as a
+      solution of mercuric iodide in potassium iodide (called
+      the {Sonstadt solution} or {Thoulet solution}) having a
+      maximum specific gravity of 3.2, or of borotungstate of
+      cadium ({Klein solution}, specific gravity 3.6), and the
+      like. Such solutions are much used in determining the
+      specific gravities of minerals, and in separating them
+      when mechanically mixed as in a pulverized rock.
+
+   {Nessler's solution}. See {Nesslerize}.
+
+   {Solution of continuity}, the separation of connection, or of
+      connected substances or parts; -- applied, in surgery, to
+      a fracture, laceration, or the like. ``As in the natural
+      body a wound, or solution of continuity, is worse than a
+      corrupt humor, so in the spiritual.'' --Bacon.
+
+   {Standardized solution} (Chem.), a solution which is used as
+      a reagent, and is of a known and standard strength;
+      specifically, a normal solution, containing in each cubic
+      centimeter as many milligrams of the element in question
+      as the number representing its atomic weight; thus, a
+      normal solution of silver nitrate would contain 107.7 mgr.
+      of silver in each cubic centimeter.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>solution</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>solution
+     n 1: a homogeneous mixture of two or more substances; frequently
+          (but not necessarily) a liquid solution; "he used a
+          solution of peroxide and water"
+     2: a statement that solves a problem or explains how to solve
+        the problem; "they were trying to find a peaceful
+        solution"; "the answers were in the back of the book"; "he
+        computed the result to four decimal places" [syn: {answer},
+         {result}, {resolution}, {solvent}]
+     3: a method for solving a problem; "the easy solution is to
+        look it up in the handbook"
+     4: the set of values that give a true statement when
+        substituted into an equation [syn: {root}]
+     5: the successful action of solving a problem; "the solution
+        took three hours"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

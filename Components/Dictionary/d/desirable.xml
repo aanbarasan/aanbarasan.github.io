@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>desirable</Word>
+  <Definitions>
+    <Definition>
+      <Word>desirable</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Desirable \De*sir"a*ble\, a. [F. d['e]sirable, fr. L.
+   desiderabilis. See {Desire}, v. t.]
+   Worthy of desire or longing; fitted to excite desire or a
+   wish to possess; pleasing; agreeable.
+   [1913 Webster]
+
+         All of them desirable young men.         --Ezek. xxiii.
+                                                  12.
+   [1913 Webster]
+
+         As things desirable excite
+         Desire, and objects move the appetite.   --Blackmore.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>desirable</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>desirable
+     adj 1: worth having or seeking or achieving; "a desirable job";
+            "computer with many desirable features"; "a desirable
+            outcome" [ant: {undesirable}]
+     2: worthy of being chosen especially as a spouse; "the parents
+        found the girl suitable for their son" [syn: {suitable}, {worthy}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

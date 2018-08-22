@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mutual</Word>
+  <Definitions>
+    <Definition>
+      <Word>mutual</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Mutual, OH (village, FIPS 53480)
+  Location: 40.07906 N, 83.63735 W
+  Population (1990): 126 (54 housing units)
+  Area: 0.4 sq km (land), 0.0 sq km (water)
+Mutual, OK (town, FIPS 50150)
+  Location: 36.22978 N, 99.16733 W
+  Population (1990): 68 (43 housing units)
+  Area: 0.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 73853
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mutual</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mutual \Mu"tu*al\, a. [F. mutuel, L. mutuus, orig., exchanged,
+   borrowed, lent; akin to mutare to change. See {Mutable}.]
+   1. Reciprocally acting or related; reciprocally receiving and
+      giving; reciprocally given and received; reciprocal;
+      interchanged; as, a mutual love, advantage, assistance,
+      aversion, etc.
+      [1913 Webster]
+
+            Conspiracy and mutual promise.        --Sir T. More.
+      [1913 Webster]
+
+            Happy in our mutual help,
+            And mutual love.                      --Milton.
+      [1913 Webster]
+
+            A certain shyness on such subjects, which was mutual
+            between the sisters.                  --G. Eliot.
+      [1913 Webster]
+
+   2. Possessed, experienced, or done by two or more persons or
+      things at the same time; common; joint; as, mutual
+      happiness; a mutual effort. --Burke.
+      [1913 Webster]
+
+            A vast accession of misery and woe from the mutual
+            weeping, and wailing, and gnashing of teeth.
+                                                  --Bentley.
+      [1913 Webster]
+
+   Note: This use of mutual as synonymous with common is
+         inconsistent with the idea of interchange, or
+         reciprocal relation, which properly belongs to it; but
+         the word has been so used by many writers of high
+         authority. The present tendency is toward a careful
+         discrimination.
+         [1913 Webster]
+
+               Mutual, as Johnson will tell us, means something
+               reciprocal, a giving and taking. How could people
+               have mutual ancestors?             --P. Harrison.
+         [1913 Webster]
+
+   {Mutual insurance}, agreement among a number of persons to
+      insure each other against loss, as by fire, death, or
+      accident.
+
+   {Mutual insurance company}, one which does a business of
+      insurance on the mutual principle, the policy holders
+      sharing losses and profits pro rata.
+      [1913 Webster]
+
+   Syn: Reciprocal; interchanged; common.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mutual</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mutual
+     adj 1: common to or shared by two or more parties; "a common
+            friend"; "the mutual interests of management and
+            labor" [syn: {common}]
+     2: concerning each of two or more persons or things; especially
+        given or done in return; "reciprocal aid"; "reciprocal
+        trade"; "mutual respect"; "reciprocal privileges at other
+        clubs" [syn: {reciprocal}] [ant: {nonreciprocal}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

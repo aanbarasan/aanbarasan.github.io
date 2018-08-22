@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>communication</Word>
+  <Definitions>
+    <Definition>
+      <Word>communication</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Communication \Com*mu`ni*ca"tion\
+   (k[o^]m*m[=u]`n[i^]*k[=a]"sh[u^]n), n. [L. communicatio.]
+   1. The act or fact of communicating; as, communication of
+      smallpox; communication of a secret.
+      [1913 Webster]
+
+   2. Intercourse by words, letters, or messages; interchange of
+      thoughts or opinions, by conference or other means;
+      conference; correspondence.
+      [1913 Webster]
+
+            Argument . . . and friendly communication. --Shak.
+      [1913 Webster]
+
+   3. Association; company.
+      [1913 Webster]
+
+            Evil communications corrupt good manners. --1 Cor.
+                                                  xv. 33.
+      [1913 Webster]
+
+   4. Means of communicating; means of passing from place to
+      place; a connecting passage; connection.
+      [1913 Webster]
+
+            The Euxine Sea is conveniently situated for trade,
+            by the communication it has both with Asia and
+            Europe.                               --Arbuthnot.
+      [1913 Webster]
+
+   5. That which is communicated or imparted; intelligence;
+      news; a verbal or written message.
+      [1913 Webster]
+
+   6. Participation in the Lord's supper. --Bp. Pearson.
+      [1913 Webster]
+
+   7. (Rhet.) A trope, by which a speaker assumes that his
+      hearer is a partner in his sentiments, and says we,
+      instead of I or you. --Beattie.
+
+   Syn: Correspondence; conference; intercourse.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>communication</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>communication
+     n 1: the activity of communicating; the activity of conveying
+          information; "they could not act without official
+          communication from Moscow" [syn: {communicating}]
+     2: something that is communicated by or to or between people or
+        groups
+     3: a connection allowing access between persons or places; "how
+        many lines of communication can there be among four
+        people?"; "a secret passageway provided communication
+        between the two rooms"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>phrase</Word>
+  <Definitions>
+    <Definition>
+      <Word>phrase</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Phrase \Phrase\, n. [F., fr. L. phrasis diction, phraseology,
+   Gr. ?, fr. ? to speak.]
+   1. A brief expression, sometimes a single word, but usually
+      two or more words forming an expression by themselves, or
+      being a portion of a sentence; as, an adverbial phrase.
+      [1913 Webster]
+
+            ``Convey'' the wise it call. ``Steal!'' foh! a fico
+            for the phrase.                       --Shak.
+      [1913 Webster]
+
+   2. A short, pithy expression; especially, one which is often
+      employed; a peculiar or idiomatic turn of speech; as, to
+      err is human.
+      [1913 Webster]
+
+   3. A mode or form of speech; the manner or style in which any
+      one expreses himself; diction; expression. ``Phrases of
+      the hearth.'' --Tennyson.
+      [1913 Webster]
+
+            Thou speak'st
+            In better phrase and matter than thou didst. --Shak.
+      [1913 Webster]
+
+   4. (Mus.) A short clause or portion of a period.
+      [1913 Webster]
+
+   Note: A composition consists first of sentences, or periods;
+         these are subdivided into sections, and these into
+         phrases.
+         [1913 Webster]
+
+   {Phrase book}, a book of idiomatic phrases. --J. S. Blackie.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>phrase</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Phrase \Phrase\, v. t. [imp. &amp; p. p. {Phrased}; p. pr. &amp; vb. n.
+   {Phrasing}.] [Cf. F. phraser.]
+   To express in words, or in peculiar words; to call; to style.
+   ``These suns -- for so they phrase 'em.'' --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>phrase</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Phrase \Phrase\, v. i.
+   1. To use proper or fine phrases. [R.]
+      [1913 Webster]
+
+   2. (Mus.) To group notes into phrases; as, he phrases well.
+      See {Phrase}, n., 4.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>phrase</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>phrase
+     n 1: an expression forming a grammatical constituent of a
+          sentence but not containing a finite verb
+     2: a short musical passage [syn: {musical phrase}]
+     3: an expression whose meanings cannot be inferred from the
+        meanings of the words that make it up [syn: {idiom}, {idiomatic
+        expression}, {phrasal idiom}, {set phrase}]
+     v : put into words or an expression; "He formulated his concerns
+         to the board of trustees" [syn: {give voice}, {formulate},
+          {word}, {articulate}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

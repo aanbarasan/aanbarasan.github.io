@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>merely</Word>
+  <Definitions>
+    <Definition>
+      <Word>merely</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Merely \Mere"ly\, adv.
+   1. Purely; unmixedly; absolutely.
+      [1913 Webster]
+
+            Ulysses was to force forth his access,
+            Though merely naked.                  --Chapman.
+      [1913 Webster]
+
+   2. Not otherwise than; simply; barely; only.
+      [1913 Webster]
+
+            Prize not your life for other ends
+            Than merely to oblige your friends.   --Swift.
+      [1913 Webster]
+
+   Syn: Solely; simply; purely; barely; scarcely.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>merely</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>merely
+     adv : and nothing more; "I was merely asking"; "it is simply a
+           matter of time"; "just a scratch"; "he was only a
+           child"; "hopes that last but a moment" [syn: {simply},
+           {just}, {only}, {but}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

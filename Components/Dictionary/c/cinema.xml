@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cinema</Word>
+  <Definitions>
+    <Definition>
+      <Word>cinema</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>cinema \cinema\ n.
+   1. the art of creating motion pictures; as, this story would
+      be good cinema; -- often used in the phrase {the cinema}.
+
+   Syn: the film.
+        [WordNet 1.5 +PJC]
+
+   2. a theater where motion pictures are shown.
+
+   Syn: movie theater, movie theatre, movie house, picture
+        palace.
+        [WordNet 1.5]
+
+   3. same as {motion picture}. [Chiefly Brit.]
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cinema</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cinema
+     n 1: a medium that disseminates moving pictures; "theater pieces
+          transferred to celluloid"; "this story would be good
+          cinema"; "film coverage of sporting events" [syn: {film},
+           {celluloid}]
+     2: a theater where films are shown [syn: {movie theater}, {movie
+        theatre}, {movie house}, {picture palace}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>brawny</Word>
+  <Definitions>
+    <Definition>
+      <Word>brawny</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Brawny \Brawn"y\, a.
+   Having large, strong muscles; muscular; fleshy; strong.
+   ``Brawny limbs.'' --W. Irving.
+   [1913 Webster]
+
+   Syn: Muscular; fleshy; strong; bulky; sinewy; athletic;
+        stalwart; powerful; robust.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>brawny</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>brawny
+     adj : (of a person) possessing physical strength and weight;
+           rugged and powerful; "a hefty athlete"; "a muscular
+           boxer"; "powerful arms" [syn: {hefty}, {muscular}, {powerful},
+            {sinewy}]
+     [also: {brawniest}, {brawnier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

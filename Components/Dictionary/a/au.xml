@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>au</Word>
+  <Definitions>
+    <Definition>
+      <Word>au</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>au
+     
+        1. &lt;networking&gt; The two character {country code} for Australia
+        used in {Internet} {domain names}.
+     
+        2. &lt;filename extension&gt; {audio}.
+     
+        (1995-02-15)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>au</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>au \a.u.\ n.
+   1. (Astron.) the unit of length equal to the mean distance of
+      the Earth from the sun, about 93 million miles (150
+      million kiometers); -- used almost exclusively in
+      astronomy, or to describe astronomical distances.
+
+   Syn: astronomical unit, AU, A.U.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>au</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>AU
+     Access Unit
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>au</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Au
+     n 1: a soft yellow malleable ductile (trivalent and univalent)
+          metallic element; occurs mainly as nuggets in rocks and
+          alluvial deposits; does not react with most chemicals
+          but is attacked by chlorine and aqua regia [syn: {gold},
+           {atomic number 79}]
+     2: a unit of length used for distances within the solar system;
+        equal to the mean distance between the Earth and the Sun
+        (approximately 93 million miles or 150 million kilometers)
+        [syn: {Astronomical Unit}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

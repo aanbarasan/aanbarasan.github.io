@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>brightness</Word>
+  <Definitions>
+    <Definition>
+      <Word>brightness</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>brightness
+     
+        &lt;graphics&gt; (Or "tone", "luminance", "value", "luminosity",
+        "lightness") The coordinate in the {HSB} {colour model} that
+        determines the total amount of light in the colour.  Zero
+        brightness is black and 100% is white, intermediate values are
+        "light" or "dark" colours.
+     
+        The other coordinates are {hue} and {saturation}.
+     
+        (1999-07-05)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>brightness</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Brightness \Bright"ness\, n. [AS. beorhines. See {Bright}.]
+   1. The quality or state of being bright; splendor; luster;
+      brilliancy; clearness.
+      [1913 Webster]
+
+            A sudden brightness in his face appear. --Crabbe.
+      [1913 Webster]
+
+   2. Acuteness (of the faculties); sharpness 9wit.
+      [1913 Webster]
+
+            The brightness of his parts . . . distinguished him.
+                                                  --Prior.
+      [1913 Webster]
+
+   Syn: Splendor; luster; radiance; resplendence; brilliancy;
+        effulgence; glory; clearness.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>brightness</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>brightness
+     n 1: the location of a visual perception along the black-to-white
+          continuum [ant: {dullness}]
+     2: intelligence as manifested in being quick and witty [syn: {cleverness},
+         {smartness}]
+     3: the quality of being luminous; emitting or reflecting light;
+        "its luminosity is measured relative to that of our sun"
+        [syn: {luminosity}, {brightness level}, {luminance}, {luminousness},
+         {light}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

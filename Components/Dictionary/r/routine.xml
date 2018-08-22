@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>routine</Word>
+  <Definitions>
+    <Definition>
+      <Word>routine</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>routine
+     
+        {subroutine}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>routine</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Routine \Rou*tine"\, n. [F., fr. route a path, way, road. See
+   {Route}, {Rote}repetition.]
+   1. A round of business, amusement, or pleasure, daily or
+      frequently pursued; especially, a course of business or
+      offical duties regularly or frequently returning.
+      [1913 Webster]
+
+   2. Any regular course of action or procedure rigidly adhered
+      to by the mere force of habit.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>routine</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>routine
+     adj 1: occurring at fixed times or predictable intervals; "made her
+            routine trip to the store"
+     2: found in the ordinary course of events; "a placid everyday
+        scene"; "it was a routine day"; "there's nothing quite
+        like a real...train conductor to add color to a quotidian
+        commute"- Anita Diamant [syn: {everyday}, {mundane}, {quotidian},
+         {unremarkable}, {workaday}]
+     n 1: an unvarying or habitual method of procedure [syn: {modus
+          operandi}]
+     2: a short theatrical performance that is part of a longer
+        program; "he did his act three times every evening"; "she
+        had a catchy little routine"; "it was one of the best
+        numbers he ever did" [syn: {act}, {number}, {turn}, {bit}]
+     3: a set sequence of steps, part of larger computer program
+        [syn: {subroutine}, {subprogram}, {procedure}, {function}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

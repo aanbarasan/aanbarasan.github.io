@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>billy</Word>
+  <Definitions>
+    <Definition>
+      <Word>billy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Billy \Bil"ly\, n.
+   1. A club; esp., a policeman's club. Also called {billy club}
+      [1913 Webster +PJC]
+
+   2. (Wool Manuf.) A slubbing or roving machine.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>billy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>billy
+     n 1: a short stout club used primarily by policemen [syn: {truncheon},
+           {nightstick}, {billystick}, {billy club}]
+     2: male goat [syn: {billy goat}, {he-goat}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

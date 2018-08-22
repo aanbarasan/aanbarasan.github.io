@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>friday</Word>
+  <Definitions>
+    <Definition>
+      <Word>friday</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Friday \Fri"day\, n. [AS. friged[ae]g, fr. Frigu, the gooddes of
+   marriage; friqu love + d[ae]g day; cf. Icel. Frigg name of a
+   goddess, the wife of Odin or Wodan, OHG. Fr[=i]atag, Icel.
+   Frj[=a]dagr. AS. frigu is prob. from the root of E. friend,
+   free. See {Free}, and {Day}.]
+   The sixth day of the week, following Thursday and preceding
+   Saturday.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>friday</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Friday
+     n : the sixth day of the week; the fifth working day [syn: {Fri}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

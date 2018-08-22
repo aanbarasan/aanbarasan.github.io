@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>com</Word>
+  <Definitions>
+    <Definition>
+      <Word>com</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>COM
+     
+        1. &lt;programming&gt; {Component Object Model}.
+     
+        2. &lt;storage&gt; {Computer Output on Microfilm}.
+     
+        (1999-06-12)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>com</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>com
+     
+        &lt;networking&gt; ("commercial") The {top-level domain} typically
+        for American companies, although it sees heavy use for
+        international companies and {vanity domains} of all types,
+        whether in the US or not.
+     
+        (1999-01-26)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>com</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Com- \Com-\
+   A prefix from the Latin preposition cum, signifying with,
+   together, in conjunction, very, etc. It is used in the form
+   com- before b, m, p, and sometimes f, and by assimilation
+   becomes col- before l, cor- before r, and con- before any
+   consonant except b, h, l, m, p, r, and w. Before a vowel com-
+   becomes co-; also before h, w, and sometimes before other
+   consonants.
+   [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>com</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>COM
+     Component Object Model (OLE, OLE2, OCX, ActiveX, MS)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>com</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>COM
+     Computer Output on Microfilm
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>com</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>COM
+     Continuation of Message
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

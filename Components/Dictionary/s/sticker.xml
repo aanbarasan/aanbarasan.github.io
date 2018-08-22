@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sticker</Word>
+  <Definitions>
+    <Definition>
+      <Word>sticker</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sticker \Stick"er\, n.
+   1. One who, or that which, sticks; as, a bill sticker.
+      [1913 Webster]
+
+   2. That which causes one to stick; that which puzzles or
+      poses. [Colloq.] --Tackeray.
+      [1913 Webster]
+
+   3. (Mus.) In the organ, a small wooden rod which connects (in
+      part) a key and a pallet, so as to communicate motion by
+      pushing.
+      [1913 Webster]
+
+   4. Same as {Paster}, 2. [Political Cant, U.S.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sticker</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sticker
+     n 1: a sharp-pointed tip on a stem or leaf [syn: {spine}, {thorn},
+           {prickle}, {pricker}]
+     2: an adhesive label [syn: {gummed label}, {paster}]
+     3: a particularly difficult or baffling question or problem
+        [syn: {poser}, {stumper}, {toughie}]
+     4: a short knife with a pointed blade used for piercing or
+        stabbing [syn: {dagger}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

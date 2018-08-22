@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>handle</Word>
+  <Definitions>
+    <Definition>
+      <Word>handle</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>handle
+     
+        1. &lt;jargon&gt; (From Citizen's Band amateur radio slang) An
+        electronic pseudonym or "nom de guerre" intended to conceal
+        the user's true identity.  Network and BBS handles function as
+        the same sort of simultaneous concealment and display one
+        finds on CB.
+     
+        Use of grandiose handles is characteristic of {cracker}s,
+        {weenie}s, {spod}s, and other lower forms of network life;
+        true hackers travel on their own reputations rather than
+        invented legendry.
+     
+        Compare {nick}.
+     
+        2. &lt;programming&gt; (Macintosh) A pointer to a pointer to
+        dynamically-allocated memory.  The extra level of indirection
+        allows on-the-fly memory compaction (to cut down on
+        {fragmentation}) or garbage collection of unused resources,
+        with minimal impact on the (possibly multiple) parts of the
+        larger program containing references to the allocated memory.
+     
+        Compare {snap} (to snap a handle would defeat its purpose).
+        See also {aliasing bug}, {dangling pointer}.
+     
+        [{Jargon File}]
+     
+        (1995-02-28)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>handle</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Handle \Han"dle\ (h[a^]n"d'l), v. t. [imp. &amp; p. p. {Handled}
+   (-d'ld); p. pr. &amp; vb. n. {Handling} (-dl[i^]ng).] [OE.
+   handlen, AS. handlian; akin to D. handelen to trade, G.
+   handeln. See {Hand}.]
+   1. To touch; to feel with the hand; to use or hold with the
+      hand.
+      [1913 Webster]
+
+            Handle me, and see; for a spirit hath not flesh.
+                                                  --Luke xxiv.
+                                                  39.
+      [1913 Webster]
+
+            About his altar, handling holy things. --Milton.
+      [1913 Webster]
+
+   2. To manage in using, as a spade or a musket; to wield;
+      often, to manage skillfully.
+      [1913 Webster]
+
+            That fellow handles his bow like a crowkeeper.
+                                                  --Shak.
+      [1913 Webster]
+
+   3. To accustom to the hand; to work upon, or take care of,
+      with the hands.
+      [1913 Webster]
+
+            The hardness of the winters forces the breeders to
+            house and handle their colts six months every year.
+                                                  --Sir W.
+                                                  Temple.
+      [1913 Webster]
+
+   4. To receive and transfer; to have pass through one's hands;
+      hence, to buy and sell; as, a merchant handles a variety
+      of goods, or a large stock.
+      [1913 Webster]
+
+   5. To deal with; to make a business of.
+      [1913 Webster]
+
+            They that handle the law knew me not. --Jer. ii. 8.
+      [1913 Webster]
+
+   6. To treat; to use, well or ill.
+      [1913 Webster]
+
+            How wert thou handled being prisoner? --Shak.
+      [1913 Webster]
+
+   7. To manage; to control; to practice skill upon.
+      [1913 Webster]
+
+            You shall see how I will handle her.  --Shak.
+      [1913 Webster]
+
+   8. To use or manage in writing or speaking; to treat, as a
+      theme, an argument, or an objection.
+      [1913 Webster]
+
+            We will handle what persons are apt to envy others.
+                                                  --Bacon.
+      [1913 Webster]
+
+   {To handle without gloves}. See under {Glove}. [Colloq.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>handle</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Handle \Han"dle\ (h[a^]n"d'l), v. i.
+   To use the hands.
+   [1913 Webster]
+
+         They have hands, but they handle not.    --Ps. cxv. 7.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>handle</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Handle \Han"dle\, n. [AS. handle. See {Hand}.]
+   1. That part of vessels, instruments, etc., which is held in
+      the hand when used or moved, as the haft of a sword, the
+      knob of a door, the bail of a kettle, etc.
+      [1913 Webster]
+
+   2. That of which use is made; the instrument for effecting a
+      purpose; a tool. --South.
+      [1913 Webster]
+
+   {To give a handle}, to furnish an occasion or means.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>handle</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>handle n. 1. [from CB slang] An electronic pseudonym; a `nom de guerre'
+   intended to conceal the user's true identity. Network and BBS handles
+   function as the same sort of simultaneous concealment and display one
+   finds on Citizen's Band radio, from which the term was adopted. Use of
+   grandiose handles is characteristic of {warez d00dz}, {cracker}s,
+   {weenie}s, {spod}s, and other lower forms of network life; true hackers
+   travel on their own reputations rather than invented legendry. Compare
+   {nick}, {screen name}. 2. A {magic cookie}, often in the form of a
+   numeric index into some array somewhere, through which you can
+   manipulate an object like a file or window. The form `file handle' is
+   especially common. 3. [Mac] A pointer to a pointer to
+   dynamically-allocated memory; the extra level of indirection allows
+   on-the-fly memory compaction (to cut down on fragmentation) or aging out
+   of unused resources, with minimal impact on the (possibly multiple)
+   parts of the larger program containing references to the allocated
+   memory. Compare {snap} (to snap a handle would defeat its purpose); see
+   also {aliasing bug}, {dangling pointer}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>handle</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>handle
+     n : the appendage to an object that is designed to be held in
+         order to use or move it; "he grabbed the hammer by the
+         handle"; "it was an old briefcase but it still had a good
+         grip" [syn: {grip}, {handgrip}, {hold}]
+     v 1: be in charge of, act on, or dispose of; "I can deal with
+          this crew of workers"; "This blender can't handle nuts";
+          "She managed her parents' affairs after they got too
+          old" [syn: {manage}, {deal}, {care}]
+     2: interact in a certain way; "Do right by her"; "Treat him
+        with caution, please"; "Handle the press reporters gently"
+        [syn: {treat}, {do by}]
+     3: deal with verbally or in some form of artistic expression;
+        "This book deals with incest"; "The course covered all of
+        Western Civilization"; "The new book treats the history of
+        China" [syn: {cover}, {treat}, {plow}, {deal}, {address}]
+     4: touch, lift, or hold with the hands; "Don't handle the
+        merchandise" [syn: {palm}]
+     5: handle effectively; "The burglar wielded an axe" [syn: {wield}]
+     6: show and train; "The prize-winning poodle was handled by
+        Mrs. Priscilla Prescott"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

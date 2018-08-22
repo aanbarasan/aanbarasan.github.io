@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>att</Word>
+  <Definitions>
+    <Definition>
+      <Word>att</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>AT&amp;T
+     
+        {American Telephone and Telegraph, Inc.}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>att</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>ATT
+     American Telephone and Telegraph, "AT&amp;T"
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

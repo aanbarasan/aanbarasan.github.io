@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>feature</Word>
+  <Definitions>
+    <Definition>
+      <Word>feature</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>feature
+     
+        &lt;jargon&gt; 1. A good property or behaviour (as of a program).
+        Whether it was intended or not is immaterial.
+     
+        2. An intended property or behaviour (as of a program).
+        Whether it is good or not is immaterial (but if bad, it is
+        also a {misfeature}).
+     
+        3. A surprising property or behaviour; in particular, one that
+        is purposely inconsistent because it works better that way -
+        such an inconsistency is therefore a {feature} and not a
+        {bug}.  This kind of feature is sometimes called a {miswart}.
+     
+        4. A property or behaviour that is gratuitous or unnecessary,
+        though perhaps also impressive or cute.  For example, one
+        feature of {Common LISP}'s "format" function is the ability to
+        print numbers in two different Roman-numeral formats (see
+        {bells, whistles, and gongs}).
+     
+        5. A property or behaviour that was put in to help someone
+        else but that happens to be in your way.
+     
+        6. A bug that has been documented.  To call something a
+        feature sometimes means the author of the program did not
+        consider the particular case, and that the program responded
+        in a way that was unexpected but not strictly incorrect.  A
+        standard joke is that a bug can be turned into a {feature}
+        simply by documenting it (then theoretically no one can
+        complain about it because it's in the manual), or even by
+        simply declaring it to be good.  "That's not a bug, that's a
+        feature!" is a common catch-phrase.  Apparently there is a
+        Volkswagen Beetle in San Francisco whose license plate reads
+        "FEATURE".
+     
+        See also {feetch feetch}, {creeping featurism}, {wart}, {green
+        lightning}.
+     
+        The relationship among bugs, features, misfeatures, warts and
+        miswarts might be clarified by the following hypothetical
+        exchange between two hackers on an airliner:
+     
+        A: "This seat doesn't recline."
+     
+        B: "That's not a bug, that's a feature.  There is an emergency
+        exit door built around the window behind you, and the route
+        has to be kept clear."
+     
+        A: "Oh.  Then it's a misfeature; they should have increased
+        the spacing between rows here."
+     
+        B: "Yes.  But if they'd increased spacing in only one section
+        it would have been a wart - they would've had to make
+        nonstandard-length ceiling panels to fit over the displaced
+        seats."
+     
+        A: "A miswart, actually.  If they increased spacing throughout
+        they'd lose several rows and a chunk out of the profit margin.
+        So unequal spacing would actually be the Right Thing."
+     
+        B: "Indeed."
+     
+        "Undocumented feature" is a common euphemism for a {bug}.
+     
+        7. An attribute or function of a {class} in {Eiffel}.
+     
+        [{Jargon File}]
+     
+        (1995-10-22)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>feature</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Feature \Fea"ture\ (?; 135), n. [OE. feture form, shape,
+   feature, OF. faiture fashion, make, fr. L. factura a making,
+   formation, fr. facere, factum, to make. See {Feat}, {Fact},
+   and cf. {Facture}.]
+   1. The make, form, or outward appearance of a person; the
+      whole turn or style of the body; esp., good appearance.
+      [1913 Webster]
+
+            What needeth it his feature to descrive? --Chaucer.
+      [1913 Webster]
+
+            Cheated of feature by dissembling nature. --Shak.
+      [1913 Webster]
+
+   2. The make, cast, or appearance of the human face, and
+      especially of any single part of the face; a lineament.
+      (pl.) The face, the countenance.
+      [1913 Webster]
+
+            It is for homely features to keep home. --Milton.
+      [1913 Webster]
+
+   3. The cast or structure of anything, or of any part of a
+      thing, as of a landscape, a picture, a treaty, or an
+      essay; any marked peculiarity or characteristic; as, one
+      of the features of the landscape.
+      [1913 Webster]
+
+            And to her service bind each living creature
+            Through secret understanding of their feature.
+                                                  --Spenser.
+      [1913 Webster]
+
+   4. A form; a shape. [R.]
+      [1913 Webster]
+
+            So scented the grim feature, and upturned
+            His nostril wide into the murky air.  --Milton.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>feature</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>feature n. 1. [common] A good property or behavior (as of a program).
+   Whether it was intended or not is immaterial. 2. [common] An intended
+   property or behavior (as of a program). Whether it is good or not is
+   immaterial (but if bad, it is also a {misfeature}). 3. A surprising
+   property or behavior; in particular, one that is purposely inconsistent
+   because it works better that way -- such an inconsistency is therefore a
+   {feature} and not a {bug}. This kind of feature is sometimes called a
+   {miswart}; see that entry for a classic example. 4. A property or
+   behavior that is gratuitous or unnecessary, though perhaps also
+   impressive or cute. For example, one feature of Common LISP's `format'
+   function is the ability to print numbers in two different Roman-numeral
+   formats (see {bells whistles and gongs}). 5. A property or behavior that
+   was put in to help someone else but that happens to be in your way. 6.
+   [common] A bug that has been documented. To call something a feature
+   sometimes means the author of the program did not consider the
+   particular case, and that the program responded in a way that was
+   unexpected but not strictly incorrect. A standard joke is that a bug can
+   be turned into a {feature} simply by documenting it (then theoretically
+   no one can complain about it because it's in the manual), or even by
+   simply declaring it to be good. "That's not a bug, that's a feature!" is
+   a common catchphrase. See also {feetch feetch}, {creeping featurism},
+   {wart}, {green lightning}.
+
+   The relationship among bugs, features, misfeatures, warts, and
+   miswarts might be clarified by the following hypothetical exchange
+   between two hackers on an airliner:
+
+   A: "This seat doesn't recline."
+
+   B: "That's not a bug, that's a feature. There is an emergency exit
+   door built around the window behind you, and the route has to be kept
+   clear."
+
+   A: "Oh. Then it's a misfeature; they should have increased the spacing
+   between rows here."
+
+   B: "Yes. But if they'd increased spacing in only one section it would
+   have been a wart -- they would've had to make nonstandard-length ceiling
+   panels to fit over the displaced seats."
+
+   A: "A miswart, actually. If they increased spacing throughout they'd
+   lose several rows and a chunk out of the profit margin. So unequal
+   spacing would actually be the Right Thing."
+
+   B: "Indeed."
+
+   `Undocumented feature' is a common, allegedly humorous euphemism for a
+   {bug}. There's a related joke that is sometimes referred to as the
+   "one-question geek test". You say to someone "I saw a Volkswagen Beetle
+   today with a vanity license plate that read FEATURE". If he/she laughs,
+   he/she is a {geek}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>feature</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>feature
+     n 1: a prominent aspect of something; "the map showed roads and
+          other features"; "generosity is one of his best
+          characteristics" [syn: {characteristic}]
+     2: the characteristic parts of a person's face: eyes and nose
+        and mouth and chin; "an expression of pleasure crossed his
+        features"; "his lineaments were very regular" [syn: {lineament}]
+     3: the principal (full-length) film in a program at a movie
+        theater; "the feature tonight is `Casablanca'" [syn: {feature
+        film}]
+     4: a special or prominent article in a newspaper or magazine;
+        "they ran a feature on retirement planning" [syn: {feature
+        article}]
+     5: an article of merchandise that is displayed or advertised
+        more than other articles
+     v 1: have as a feature; "This restaurant features the most famous
+          chefs in France" [syn: {have}] [ant: {miss}]
+     2: wear or display in an ostentatious or proud manner; "she was
+        sporting a new hat" [syn: {sport}, {boast}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

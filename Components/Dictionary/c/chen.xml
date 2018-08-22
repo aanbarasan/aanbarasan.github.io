@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>chen</Word>
+  <Definitions>
+    <Definition>
+      <Word>chen</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Chen
+     
+        {Peter Chen}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chen</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Chen \Chen\ n.
+   a wild goose having white adult plumage.
+
+   Syn: subgenus Chen.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chen</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Chen
+     n : wild goose having white adult plumage [syn: {subgenus Chen}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

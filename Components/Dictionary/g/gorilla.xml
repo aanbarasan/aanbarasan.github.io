@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>gorilla</Word>
+  <Definitions>
+    <Definition>
+      <Word>gorilla</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gorilla \Go*ril"la\, n. [An African word; found in a Greek
+   translation of a treatise in Punic by Hanno, a Carthaginian.]
+   (Zo["o]l.)
+   A large, arboreal, anthropoid ape of West Africa. It is
+   larger than a man, and is remarkable for its massive skeleton
+   and powerful muscles, which give it enormous strength. In
+   some respects its anatomy, more than that of any other ape,
+   except the chimpanzee, resembles that of man.
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gorilla</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>gorilla
+     n : largest anthropoid ape; terrestrial and vegetarian; of
+         forests of central west Africa [syn: {Gorilla gorilla}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

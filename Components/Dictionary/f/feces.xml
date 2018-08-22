@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>feces</Word>
+  <Definitions>
+    <Definition>
+      <Word>feces</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Faeces \F[ae]"ces\, n. pl. [L. faex, pl. faeces, dregs.]
+   Excrement; ordure; also, settlings; sediment after infusion
+   or distillation. [Written also {feces}.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>feces</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Feces \Fe"ces\, n. pl.
+   dregs; sediment; excrement. See {F[AE]ces}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>feces</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>feces
+     n : solid excretory product evacuated from the bowels [syn: {fecal
+         matter}, {faecal matter}, {faeces}, {BM}, {stool}, {ordure},
+          {dejection}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

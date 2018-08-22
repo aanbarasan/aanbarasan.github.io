@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>goodness</Word>
+  <Definitions>
+    <Definition>
+      <Word>goodness</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Goodness
+   in man is not a mere passive quality, but the deliberate
+   preference of right to wrong, the firm and persistent resistance
+   of all moral evil, and the choosing and following of all moral
+   good.
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>goodness</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Goodness \Good"ness\, n. [AS. g[=o]dnes.]
+   The quality of being good in any of its various senses;
+   excellence; virtue; kindness; benevolence; as, the goodness
+   of timber, of a soil, of food; goodness of character, of
+   disposition, of conduct, etc.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>goodness</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>goodness
+     n 1: that which is good or valuable or useful; "weigh the good
+          against the bad"; "among the highest goods of all are
+          happiness and self-realization" [syn: {good}] [ant: {bad},
+           {bad}]
+     2: moral excellence or admirableness; "there is much good to be
+        found in people" [syn: {good}] [ant: {evil}, {evil}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

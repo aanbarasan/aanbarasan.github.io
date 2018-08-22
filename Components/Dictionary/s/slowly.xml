@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>slowly</Word>
+  <Definitions>
+    <Definition>
+      <Word>slowly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Slowly \Slow"ly\, adv.
+   In a slow manner; moderately; not rapidly; not early; not
+   rashly; not readly; tardly.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>slowly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>slowly
+     adv 1: without speed (`slow' is sometimes used informally for
+            `slowly'); "he spoke slowly"; "go easy here--the road
+            is slippery"; "glaciers move tardily"; "please go slow
+            so I can see the sights" [syn: {slow}, {easy}, {tardily}]
+            [ant: {quickly}]
+     2: in music; "Play this lento, please" [syn: {lento}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

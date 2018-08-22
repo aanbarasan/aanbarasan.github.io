@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>caesar</Word>
+  <Definitions>
+    <Definition>
+      <Word>caesar</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Caesar
+   the title assumed by the Roman emperors after Julius Caesar. In
+   the New Testament this title is given to various emperors as
+   sovereigns of Judaea without their accompanying distinctive
+   proper names (John 19:15; Acts 17:7). The Jews paid tribute to
+   Caesar (Matt. 22:17), and all Roman citizens had the right of
+   appeal to him (Acts 25:11). The Caesars referred to in the New
+   Testament are Augustus (Luke 2:1), Tiberius (3:1; 20:22),
+   Claudius (Acts 11:28), and Nero (Acts 25:8; Phil. 4:22).
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>caesar</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Caesar \C[ae]"sar\, n. [L.]
+   A Roman emperor, as being the successor of Augustus C[ae]sar.
+   Hence, a kaiser, or emperor of Germany, or any emperor or
+   powerful ruler. See {Kaiser}, {Kesar}.
+   [1913 Webster]
+
+         Malborough anticipated the day when he would be
+         servilely flattered and courted by C[ae]sar on one side
+         and by Louis the Great on the other.     --Macaulay.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>caesar</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Caesar
+     n 1: conqueror of Gaul and master of Italy (100-44 BC) [syn: {Julius
+          Caesar}, {Gaius Julius Caesar}]
+     2: United States comedian who pioneered comdey television shows
+        (born 1922) [syn: {Sid Caesar}, {Sidney Caesar}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

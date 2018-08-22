@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bongos</Word>
+  <Definitions>
+    <Definition>
+      <Word>bongos</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bongo \Bon"go\ (b[o^][ng]"g[=o]), n.; pl. {bongos} or {bongo}.
+   one of a pair of attached small drums, each tuned to a
+   different pitch, played by striking with the hands.
+   [PJC]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

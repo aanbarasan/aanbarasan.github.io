@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>alan</Word>
+  <Definitions>
+    <Definition>
+      <Word>alan</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Alan \A*lan"\ ([.a]*l[.a]n"), n. [OF. alan, alant; cf. Sp.
+   alano.]
+   A wolfhound. [Obs.] --Chaucer.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>alan</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>ALAN
+     Audio Local Area Network (audio), "A-LAN"
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

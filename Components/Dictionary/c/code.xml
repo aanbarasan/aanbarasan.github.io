@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>code</Word>
+  <Definitions>
+    <Definition>
+      <Word>code</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>code
+     
+        &lt;software&gt; Instructions for a computer in some programming
+        language, often {machine language}.  The word "code" is often
+        used to distinguish instructions from {data} (e.g. "The code
+        is marked 'read-only'") whereas "{software}" is used in
+        contrast with "{hardware}" and may consist of more than just
+        code.
+     
+        (2000-04-08)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>code</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Code \Code\ (k[=o]d), n. [F., fr. L. codex, caudex, the stock or
+   stem of a tree, a board or tablet of wood smeared over with
+   wax, on which the ancients originally wrote; hence, a book, a
+   writing.]
+   1. A body of law, sanctioned by legislation, in which the
+      rules of law to be specifically applied by the courts are
+      set forth in systematic form; a compilation of laws by
+      public authority; a digest.
+      [1913 Webster]
+
+   Note: The collection of laws made by the order of Justinian
+         is sometimes called, by way of eminence. ``The Code''
+         --Wharton.
+         [1913 Webster]
+
+   2. Any system of rules or regulations relating to one
+      subject; as, the medical code, a system of rules for the
+      regulation of the professional conduct of physicians; the
+      naval code, a system of rules for making communications at
+      sea means of signals.
+      [1913 Webster]
+
+   {Code civil} or {Code Napoleon}, a code enacted in France in
+      1803 and 1804, embodying the law of rights of persons and
+      of property generally. --Abbot.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>code</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>code n. The stuff that software writers write, either in source form or
+   after translation by a compiler or assembler. Often used in opposition
+   to "data", which is the stuff that code operates on. This is a mass
+   noun, as in "How much code does it take to do a {bubble sort}?", or "The
+   code is loaded at the high end of RAM." Anyone referring to software as
+   "the software codes" is probably a {newbie} or a {suit}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>code</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>CODE
+     Client/server Open Development Environment (Powersoft)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>code</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>CODE
+     COlor Depth Enhancement (ATI)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>code</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>code
+     n 1: a set of rules or principles or laws (especially written
+          ones) [syn: {codification}]
+     2: a coding system used for transmitting messages requiring
+        brevity or secrecy
+     3: (computer science) the symbolic arrangement of data or
+        instructions in a computer program or the set of such
+        instructions [syn: {computer code}]
+     v 1: attach a code to; "Code the pieces with numbers so that you
+          can identify them later"
+     2: convert ordinary language into code; "We should encode the
+        message for security reasons" [syn: {encode}, {encipher},
+        {cipher}, {cypher}, {encrypt}, {inscribe}, {write in code}]
+        [ant: {decode}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

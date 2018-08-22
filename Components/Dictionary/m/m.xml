@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>m</Word>
+  <Definitions>
+    <Definition>
+      <Word>m</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>M
+     
+        1. Alternative name for {MUMPS}.
+     
+        2. A {C}-like language from {Silicon Compiler Systems} for
+        multilevel {hardware description}.  It is currently available
+        in the {GDT} package from {Mentor Graphics}.
+     
+        [{Jargon File}]
+     
+        (1994-10-26)
+     
+        3. &lt;unit&gt; The abbreviated for of {mega-}.
+     
+        (1995-01-10)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>m</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>M \M\ ([e^]m).
+   1. M, the thirteenth letter of the English alphabet, is a
+      vocal consonant, and from the manner of its formation, is
+      called the labio-nasal consonant. See Guide to
+      Pronunciation, [sect][sect] 178-180, 242.
+      [1913 Webster]
+
+   Note: The letter M came into English from the Greek, through
+         the Latin, the form of the Greek letter being further
+         derived from the Ph[oe]nician, and ultimately, it is
+         believed, from the Egyptian. Etymologically M is
+         related to n, in lime, linden; emmet, ant; also to b.
+         [1913 Webster] M is readily followed by b and p. the
+         position of the lips in the formation of both letters
+         being the same. The relation of b and m is the same as
+         that of d and t to n. and that of g and k to ng.
+         [1913 Webster]
+
+   2. As a numeral, M stands for one thousand, both in English
+      and Latin.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>m</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>M \M\, n.
+   1. (Print.) A quadrat, the face or top of which is a perfect
+      square; also, the size of such a square in any given size
+      of type, used as the unit of measurement for that type:
+      500 m's of pica would be a piece of matter whose length
+      and breadth in pica m's multiplied together produce that
+      number. [Written also {em}.]
+      [1913 Webster]
+
+   2. (law) A brand or stigma, having the shape of an M,
+      formerly impressed on one convicted of manslaughter and
+      admitted to the benefit of clergy.
+      [1913 Webster]
+
+   {M roof} (Arch.), a kind of roof formed by the junction of
+      two common roofs with a valley between them, so that the
+      section resembles the letter M.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>m</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>M pref. (on units) suff. (on numbers) [SI] See {{quantifiers}}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>m</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>M$ Common net abbreviation for Microsoft, everybody's least favorite
+   monopoly.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>m</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>m
+     adj : denoting a quantity consisting of 1,000 items or units [syn:
+            {thousand}, {a thousand}, {one thousand}, {1000}, {k}]
+     n 1: the basic unit of length adopted under the Systeme
+          International d'Unites (approximately 1.094 yards) [syn:
+           {meter}, {metre}]
+     2: concentration measured by the number of moles of solute per
+        liter of solvent [syn: {molarity}, {molar concentration}]
+     3: the cardinal number that is the product of 10 and 100 [syn:
+        {thousand}, {one thousand}, {1000}, {K}, {chiliad}, {G}, {grand},
+         {thou}, {yard}]
+     4: the 13th letter of the Roman alphabet
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

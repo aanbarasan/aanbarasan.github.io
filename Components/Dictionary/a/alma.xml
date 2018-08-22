@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>alma</Word>
+  <Definitions>
+    <Definition>
+      <Word>alma</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Alma, AR (city, FIPS 970)
+  Location: 35.48994 N, 94.22285 W
+  Population (1990): 2959 (1221 housing units)
+  Area: 10.2 sq km (land), 0.5 sq km (water)
+  Zip code(s): 72921
+Alma, CO (town, FIPS 1530)
+  Location: 39.28577 N, 106.06471 W
+  Population (1990): 148 (150 housing units)
+  Area: 0.9 sq km (land), 0.0 sq km (water)
+Alma, GA (city, FIPS 1612)
+  Location: 31.54337 N, 82.47625 W
+  Population (1990): 3663 (1573 housing units)
+  Area: 14.5 sq km (land), 0.2 sq km (water)
+  Zip code(s): 31510
+Alma, IL (village, FIPS 919)
+  Location: 38.72295 N, 88.91013 W
+  Population (1990): 388 (179 housing units)
+  Area: 2.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 62807
+Alma, KS (city, FIPS 1350)
+  Location: 39.01449 N, 96.28858 W
+  Population (1990): 871 (359 housing units)
+  Area: 1.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 66401
+Alma, MI (city, FIPS 1540)
+  Location: 43.37941 N, 84.65485 W
+  Population (1990): 9034 (3307 housing units)
+  Area: 13.9 sq km (land), 0.3 sq km (water)
+  Zip code(s): 48801
+Alma, MO (city, FIPS 802)
+  Location: 39.09583 N, 93.54801 W
+  Population (1990): 446 (187 housing units)
+  Area: 0.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 64001
+Alma, NE (city, FIPS 975)
+  Location: 40.10170 N, 99.36223 W
+  Population (1990): 1226 (612 housing units)
+  Area: 2.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 68920
+Alma, NY
+  Zip code(s): 14708
+Alma, TX (town, FIPS 2044)
+  Location: 32.28535 N, 96.54471 W
+  Population (1990): 205 (96 housing units)
+  Area: 12.6 sq km (land), 0.0 sq km (water)
+Alma, WI (city, FIPS 1225)
+  Location: 44.33099 N, 91.92216 W
+  Population (1990): 790 (396 housing units)
+  Area: 15.0 sq km (land), 5.0 sq km (water)
+  Zip code(s): 54610
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>alma</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Alma \Al"ma\, Almah \Al"mah\, n.
+   Same as {Alme}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

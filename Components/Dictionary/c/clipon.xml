@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>clipon</Word>
+  <Definitions>
+    <Definition>
+      <Word>clipon</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>clip-on \clip-on\ adj.
+   having a clip as the means of attachment; as, clip-on
+   earrings; a clip-on bow tie.
+   [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>clipon</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>clip-on
+     adj : attachable by a clip; "clip-on earrings"; "a clip-on bow
+           tie"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

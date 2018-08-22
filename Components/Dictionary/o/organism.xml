@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>organism</Word>
+  <Definitions>
+    <Definition>
+      <Word>organism</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Organism \Or"gan*ism\, n. [Cf. F. organisme.]
+   1. Organic structure; organization. ``The advantageous
+      organism of the eye.'' --Grew.
+      [1913 Webster]
+
+   2. (Biol.) An organized being; a living body, either
+      vegetable or animal, composed of different organs or parts
+      with functions which are separate, but mutually dependent,
+      and essential to the life of the individual.
+      [1913 Webster]
+
+   Note: Some of the lower forms of life are so simple in
+         structure as to be without organs, but are still called
+         organisms, since they have different parts analogous in
+         functions to the organs of higher plants and animals.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>organism</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>organism
+     n 1: a living thing that has (or can develop) the ability to act
+          or function independently [syn: {being}]
+     2: a system considered analogous in structure or function to a
+        living body; "the social organism"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

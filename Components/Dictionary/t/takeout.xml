@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>takeout</Word>
+  <Definitions>
+    <Definition>
+      <Word>takeout</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>take out
+     v 1: cause to leave; "The teacher took the children out of the
+          classroom" [syn: {move out}, {remove}]
+     2: remove from its packing; "unpack the presents" [syn: {unpack}]
+        [ant: {pack}]
+     3: take out or remove; "take out the chicken after adding the
+        vegetables" [syn: {take away}] [ant: {add}]
+     4: obtain by legal of official process; "take our a license";
+        "take out a patent"
+     5: make a date; "Has he asked you out yet?" [syn: {ask out}, {invite
+        out}]
+     6: remove something from a container or an enclosed space
+     7: purchase prepared food to be eaten at home [syn: {buy food}]
+     8: remove (a commodity) from (a supply source); "She drew
+        $2,000 from the account"; "The doctors drew medical
+        supplies from the hospital's emergency bank" [syn: {withdraw},
+         {draw}, {draw off}] [ant: {deposit}]
+     9: bring, take, or pull out of a container or from under a
+        cover; "draw a weapon"; "pull out a gun"; "The mugger
+        pulled a knife on his victim" [syn: {draw}, {pull}, {pull
+        out}, {get out}]
+     10: take liquid out of a container or well; "She drew water from
+         the barrel" [syn: {draw}]
+     11: draw or pull out, usually with some force or effort; also
+         used in an abstract sense; "pull weeds"; "extract a bad
+         tooth"; "take out a splinter"; "extract information from
+         the telegram" [syn: {extract}, {pull out}, {pull}, {pull
+         up}, {draw out}]
+     12: buy and consume food from a restaurant or establishment that
+         sells prepared food; "We'll take out pizza, since I am
+         too tired to cook" [syn: {take away}]
+     13: take out of a literary work in order to cite or copy [syn: {excerpt},
+          {extract}]
+     14: prevent from being included or considered or accepted; "The
+         bad results were excluded from the report"; "Leave off
+         the top piece" [syn: {exclude}, {except}, {leave out}, {leave
+         off}, {omit}] [ant: {include}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>takeout</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>takeout
+     adj : of or involving food to be taken and eaten off the premises;
+           "takeout pizza"; "the takeout counter"; "`take-away' is
+           chiefly British" [syn: {take-away}]
+     n 1: prepared food that is intended to be eaten off of the
+          premises; "in England they call takeout food `takeaway'"
+          [syn: {takeout food}, {takeaway}]
+     2: (bridge) a bid that asks your partner to bid another suit
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

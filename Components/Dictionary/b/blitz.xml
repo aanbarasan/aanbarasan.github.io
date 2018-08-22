@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>blitz</Word>
+  <Definitions>
+    <Definition>
+      <Word>blitz</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>blitz \blitz\ n.
+   1. (football) a quick move by defensive players toward the
+      passer on the offensive team, as soon as the ball is
+      snapped; -- it is used when the defensive teams assumes
+      that a pass will be attempted, and risks allowing
+      substantial gains by the offensive team if other plays are
+      in fact planned.
+
+   Syn: safety linebacker blitzing.
+        [WordNet 1.5 +PJC]
+
+   2. a rapid and violent military attack with intensive aerial
+      bombardment. Same as {blitzkrieg}
+      [WordNet 1.5]
+
+   3. any vigorous and intensive attack, bombardment, or
+      assault, literally or figuratively; as, they used a blitz
+      of television commercials to launch their new product; the
+      German blitz on London.
+      [WordNet 1.5 +PJC]
+
+   3. same as {blitz chess}.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>blitz</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>blitz
+     n 1: (American football) defensive players try to break through
+          the offensive line [syn: {safety blitz}, {linebacker
+          blitzing}]
+     2: a rapid and violent military attack with intensive aerial
+        bombardment
+     v : attack suddenly and without warning; "Hitler blitzed Poland"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

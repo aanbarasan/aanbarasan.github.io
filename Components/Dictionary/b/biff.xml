@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>biff</Word>
+  <Definitions>
+    <Definition>
+      <Word>biff</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>biff
+     
+        /bif/ To notify someone of incoming mail.  From the {BSD}
+        utility "biff(1)", which was in turn named after a friendly
+        golden Labrador who used to chase frisbees in the halls at UCB
+        while {4.2BSD} was in development (it had a well-known habit
+        of barking whenever the mailman came).  No relation to {BIFF}.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>biff</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>BIFF
+     
+        /bif/ (Or "B1FF", from {Usenet}) The most famous {pseudo}, and
+        the prototypical {newbie}.  Articles from BIFF are
+        characterised by all uppercase letters sprinkled liberally
+        with bangs, typos, "cute" misspellings (EVRY BUDY LUVS GOOD
+        OLD BIFF CUZ HE'S A K00L DOOD AN HE RITES REEL AWESUM THINGZ
+        IN CAPITULL LETTRS LIKE THIS!!!), use (and often misuse) of
+        fragments of {chat} abbreviations, a long {sig block}
+        (sometimes even a {doubled sig}), and unbounded naivete.  BIFF
+        posts articles using his elder brother's VIC-20.  BIFF's
+        location is a mystery, as his articles appear to come from a
+        variety of sites.  However, {BITNET} seems to be the most
+        frequent origin.  The theory that BIFF is a denizen of BITNET
+        is supported by BIFF's (unfortunately invalid) {electronic
+        mail address}: &lt;BIFF@BIT.NET&gt;.
+     
+        [1993: Now It Can Be Told!  My spies inform me that BIFF was
+        originally created by Joe Talmadge &lt;jat@cup.hp.com&gt;, also the
+        author of the infamous and much-plagiarised "Flamer's Bible".
+        The BIFF filter he wrote was later passed to Richard Sexton,
+        who posted BIFFisms much more widely.  Versions have since
+        been posted for the amusement of the net at large. - ESR]
+     
+        [{Jargon File}]
+     
+        (1997-09-22)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>biff</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>biff /bif/ vt. To notify someone of incoming mail. From the BSD utility
+   `biff(1)', which was in turn named after a friendly dog who used to
+   chase frisbees in the halls at UCB while 4.2BSD was in development.
+   There was a legend that it had a habit of barking whenever the mailman
+   came, but the author of `biff' says this is not true. No relation to
+   {B1FF}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>biff</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>biff
+     n : (boxing) a blow with the fist; "I gave him a clout on his
+         nose" [syn: {punch}, {clout}, {poke}, {lick}]
+     v : strike, usually with the fist; "The pedestrians pummeled the
+         demonstrators" [syn: {pummel}, {pommel}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

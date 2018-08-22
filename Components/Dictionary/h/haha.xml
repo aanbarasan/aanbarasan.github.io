@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>haha</Word>
+  <Definitions>
+    <Definition>
+      <Word>haha</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ha-ha \Ha-ha"\ (h[aum]*h[aum]"), n. [See {Haw-haw}.]
+   A sunk fence; a fence, wall, or ditch, not visible till one
+   is close upon it. [Written also {haw-haw}.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>haha</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ha-ha
+     n 1: a loud laugh that sounds like a horse neighing [syn: {hee-haw},
+           {horselaugh}, {haw-haw}]
+     2: a ditch with one side being a retaining wall; used to divide
+        lands without defacing the landscape [syn: {sunk fence}, {haw-haw}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

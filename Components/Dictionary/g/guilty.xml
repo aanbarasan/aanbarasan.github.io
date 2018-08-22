@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>guilty</Word>
+  <Definitions>
+    <Definition>
+      <Word>guilty</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Guilty \Guilt"y\, a. [Compar. {Gultier}; superl. {Guiltiest}.]
+   [AS. gyltig liable. See {Guilt}.]
+   1. Having incurred guilt; criminal; morally delinquent;
+      wicked; chargeable with, or responsible for, something
+      censurable; justly exposed to penalty; -- used with of,
+      and usually followed by the crime, sometimes by the
+      punishment; as, guilty of murder.
+      [1913 Webster]
+
+            They answered and said, He is guilty of death.
+                                                  --Matt. xxvi.
+                                                  66.
+      [1913 Webster]
+
+            Nor he, nor you, were guilty of the strife.
+                                                  --Dryden.
+      [1913 Webster]
+
+   2. Evincing or indicating guilt; involving guilt; as, a
+      guilty look; a guilty act; a guilty feeling.
+      [1913 Webster]
+
+   3. Conscious; cognizant. [Obs.] --B. Jonson.
+      [1913 Webster]
+
+   4. Condemned to payment. [Obs. &amp; R.] --Dryden.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>guilty</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>guilty
+     adj 1: responsible for or chargeable with a reprehensible act; or
+            marked by guilt; "guilty of murder"; "the guilty
+            person"; "secret guilty deeds"; "a guilty conscience";
+            "guilty behavior" [ant: {innocent}]
+     2: showing a sense of guilt; "a guilty look"; "the hangdog and
+        shamefaced air of the retreating enemy"- Eric Linklater
+        [syn: {hangdog}, {shamefaced}, {shamed}]
+     [also: {guiltiest}, {guiltier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>locate</Word>
+  <Definitions>
+    <Definition>
+      <Word>locate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Locate \Lo"cate\, v. t. [imp. &amp; p. p. {Located}; p. pr. &amp; vb. n.
+   {Locating}.] [L. locatus, p. p. of locare to place, fr. locus
+   place. See {Local}.]
+   1. To place; to set in a particular spot or position.
+      [1913 Webster]
+
+            The captives and emigrants whom he brought with him
+            were located in the trans-Tiberine quarter. --B. F.
+                                                  Westcott.
+      [1913 Webster]
+
+   2. To designate the site or place of; to define the limits
+      of; as, to locate a public building; to locate a mining
+      claim; to locate (the land granted by) a land warrant.
+      [1913 Webster]
+
+            That part of the body in which the sense of touch is
+            located.                              --H. Spencer.
+      [1913 Webster]
+
+   3. To discover the location or site of; as, to locate the
+      source of a radio transmission; to locate a leak; to
+      locate the malfunction in a system.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>locate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Locate \Lo"cate\, v. i.
+   To place one's self; to take up one's residence; to settle;
+   as, to locate in Seattle. [Colloq.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>locate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>locate
+     v 1: discover the location of; determine the place of; find by
+          searching or examining; "Can you locate your cousins in
+          the Midwest?"; "My search turned up nothing" [syn: {turn
+          up}]
+     2: determine or indicate the place, site, or limits of, as if
+        by an instrument or by a survey; "Our sense of sight
+        enables us to locate objects in space"; "Locate the
+        boundaries of the property" [syn: {situate}]
+     3: assign a location to; "The company located some of their
+        agents in Los Angeles" [syn: {place}, {site}]
+     4: take up residence and become established; "The immigrants
+        settled in the Midwest" [syn: {settle}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

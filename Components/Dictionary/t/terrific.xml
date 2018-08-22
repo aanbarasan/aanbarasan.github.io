@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>terrific</Word>
+  <Definitions>
+    <Definition>
+      <Word>terrific</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Terrific \Ter*rif"ic\, a. [L. terrificus; fr. terrere to
+   frighten + facere to make. See {Terror}, and {Fact}.]
+   Causing terror; adapted to excite great fear or dread;
+   terrible; as, a terrific form; a terrific sight.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>terrific</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>terrific
+     adj 1: very great or intense; "a terrific noise"; "a terrific
+            thunderstorm storm"; "fought a terrific battle"
+     2: extraordinarily good; used especially as intensifiers; "a
+        fantastic trip to the Orient"; "the film was fantastic!";
+        "a howling success"; "a marvelous collection of rare
+        books"; "had a rattling conversation about politics"; "a
+        tremendous achievement" [syn: {fantastic}, {howling(a)}, {marvelous},
+         {marvellous}, {rattling(a)}, {tremendous}, {wonderful}, {wondrous}]
+     3: causing extreme terror; "a terrifying wail" [syn: {terrifying}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

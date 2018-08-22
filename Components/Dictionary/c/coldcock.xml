@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>coldcock</Word>
+  <Definitions>
+    <Definition>
+      <Word>coldcock</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>coldcock \coldcock\ v. t.
+   to to knock to the ground with force.
+
+   Syn: deck, dump, knock down, floor.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>coldcock</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>coldcock
+     v : knock down with force; "He decked his opponent" [syn: {deck},
+          {dump}, {knock down}, {floor}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

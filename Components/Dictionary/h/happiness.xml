@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>happiness</Word>
+  <Definitions>
+    <Definition>
+      <Word>happiness</Word>
+      <Dictionary>
+        <Id>devils</Id>
+        <Name>THE DEVIL'S DICTIONARY ((C)1911 Released April 15 1993)</Name>
+      </Dictionary>
+      <WordDefinition>HAPPINESS, n.  An agreeable sensation arising from contemplating the
+misery of another.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>happiness</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Happiness \Hap"pi*ness\, n. [From {Happy}.]
+   1. Good luck; good fortune; prosperity.
+      [1913 Webster]
+
+            All happiness bechance to thee in Milan! --Shak.
+      [1913 Webster]
+
+   2. An agreeable feeling or condition of the soul arising from
+      good fortune or propitious happening of any kind; the
+      possession of those circumstances or that state of being
+      which is attended with enjoyment; the state of being
+      happy; contentment; joyful satisfaction; felicity;
+      blessedness.
+      [1913 Webster]
+
+   3. Fortuitous elegance; unstudied grace; -- used especially
+      of language.
+      [1913 Webster]
+
+            Some beauties yet no precepts can declare,
+            For there's a happiness, as well as care. --Pope.
+
+   Syn: {Happiness}, {Felicity}, {Blessedness}, {Bliss}.
+
+   Usage: Happiness is generic, and is applied to almost every
+          kind of enjoyment except that of the animal appetites;
+          felicity is a more formal word, and is used more
+          sparingly in the same general sense, but with elevated
+          associations; blessedness is applied to the most
+          refined enjoyment arising from the purest social,
+          benevolent, and religious affections; bliss denotes
+          still more exalted delight, and is applied more
+          appropriately to the joy anticipated in heaven.
+          [1913 Webster]
+
+                O happiness! our being's end and aim! --Pope.
+          [1913 Webster]
+
+                Others in virtue place felicity,
+                But virtue joined with riches and long life;
+                In corporal pleasures he, and careless ease.
+                                                  --Milton.
+          [1913 Webster]
+
+                His overthrow heaped happiness upon him;
+                For then, and not till then, he felt himself,
+                And found the blessedness of being little.
+                                                  --Shak.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>happiness</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>happiness
+     n 1: state of well-being characterized by emotions ranging from
+          contentment to intense joy [syn: {felicity}] [ant: {unhappiness}]
+     2: emotions experienced when in a state of well-being [ant: {sadness}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

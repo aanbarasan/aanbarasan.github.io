@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>blanket</Word>
+  <Definitions>
+    <Definition>
+      <Word>blanket</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Blanket, TX (town, FIPS 8596)
+  Location: 31.82427 N, 98.78993 W
+  Population (1990): 381 (177 housing units)
+  Area: 1.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 76432
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>blanket</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Blanket \Blan"ket\, n. [F. blanchet, OF. also blanket, a woolen
+   waistcoat or shirt, the blanket of a printing press; prop.
+   white woolen stuff, dim. of blanc white; blanquette a kind of
+   white pear, fr. blanc white. See {Blank}, a.]
+   1. A heavy, loosely woven fabric, usually of wool, and having
+      a nap, used in bed clothing; also, a similar fabric used
+      as a robe; or any fabric used as a cover for a horse.
+      [1913 Webster]
+
+   2. (Print.) A piece of rubber, felt, or woolen cloth, used in
+      the tympan to make it soft and elastic.
+      [1913 Webster]
+
+   3. A streak or layer of blubber in whales.
+      [1913 Webster]
+
+   Note: The use of blankets formerly as curtains in theaters
+         explains the following figure of Shakespeare. --Nares.
+         [1913 Webster]
+
+               Nor heaven peep through the blanket of the dark
+               To cry, ``Hold, hold!''            --Shak.
+         [1913 Webster]
+
+   {Blanket sheet}, a newspaper of folio size.
+
+   {A wet blanket}, anything which damps, chills, dispirits, or
+      discour?ges.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>blanket</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Blanket \Blan"ket\, v. t. [imp. &amp; p. p. {Blanketed}; p. pr. &amp;
+   vb. n. {Blanketing}.]
+   1. To cover with a blanket.
+      [1913 Webster]
+
+            I'll . . . blanket my loins.          --Shak.
+      [1913 Webster]
+
+   2. To toss in a blanket by way of punishment.
+      [1913 Webster]
+
+            We'll have our men blanket 'em i' the hall. --B.
+                                                  Jonson.
+      [1913 Webster]
+
+   3. To take the wind out of the sails of (another vessel) by
+      sailing to windward of her.
+      [1913 Webster]
+
+   {Blanket cattle}. See {Belted cattle}, under {Belted}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>blanket</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>blanket
+     adj : broad in scope or content; "across-the-board pay increases";
+           "an all-embracing definition"; "blanket sanctions
+           against human-rights violators"; "an invention with
+           broad applications"; "a panoptic study of Soviet
+           nationality"- T.G.Winner; "granted him wide powers"
+           [syn: {across-the-board}, {all-embracing}, {all-encompassing},
+            {all-inclusive}, {blanket(a)}, {broad}, {encompassing},
+            {panoptic}, {wide}]
+     n 1: bedding that keeps a person warm in bed; "he pulled the
+          covers over his head and went to sleep" [syn: {cover}]
+     2: anything that covers; "there was a blanket of snow" [syn: {mantle}]
+     3: a layer of lead surrounding the highly reactive core of a
+        nuclear reactor
+     v 1: cover as if with a blanket; "snow blanketed the fields"
+     2: form a blanket-like cover (over)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

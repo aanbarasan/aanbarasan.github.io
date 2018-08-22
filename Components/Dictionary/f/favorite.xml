@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>favorite</Word>
+  <Definitions>
+    <Definition>
+      <Word>favorite</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Favorite \Fa"vor*ite\, a.
+   Regarded with particular affection, esteem, or preference;
+   as, a favorite walk; a favorite child. ``His favorite
+   argument.'' --Macaulay.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>favorite</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Favorite \Fa"vor*ite\, n. [OF. favorit favored, F. favori, fem.
+   favorite, p. p. of OF. favorir, cf. It. favorito, frm.
+   favorita, fr. favorire to favor. See {Favor}.]
+   1. A person or thing regarded with peculiar favor; one
+      treated with partiality; one preferred above others;
+      especially, one unduly loved, trusted, and enriched with
+      favors by a person of high rank or authority.
+      [1913 Webster]
+
+            Committing to a wicked favorite
+            All public cares.                     --Milton.
+      [1913 Webster]
+
+   2. pl. Short curls dangling over the temples; -- fashionable
+      in the reign of Charles II. [Obs.] --Farquhar.
+      [1913 Webster]
+
+   3. (Sporting) The competitor (as a horse in a race) that is
+      judged most likely to win; the competitor standing highest
+      in the betting.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>favorite</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>favorite
+     adj 1: appealing to the general public; "a favorite tourist
+            attraction" [syn: {favourite}]
+     2: preferred above all others and treated with partiality; "the
+        favored child" [syn: {favored}, {favorite(a)}, {favourite(a)},
+         {pet}, {preferred}]
+     n 1: something regarded with special favor or liking; "that book
+          is one of my favorites" [syn: {favourite}]
+     2: a special loved one [syn: {darling}, {favourite}, {pet}, {dearie},
+         {deary}, {ducky}]
+     3: a competitor thought likely to win [syn: {front-runner}, {favourite}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

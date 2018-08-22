@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>restroom</Word>
+  <Definitions>
+    <Definition>
+      <Word>restroom</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>restroom
+     n : a toilet that is available to the public [syn: {public
+         toilet}, {comfort station}, {public convenience}, {convenience},
+          {public lavatory}, {toilet facility}, {wash room}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

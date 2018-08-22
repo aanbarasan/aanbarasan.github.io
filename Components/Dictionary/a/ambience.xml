@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ambience</Word>
+  <Definitions>
+    <Definition>
+      <Word>ambience</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ambience
+     n 1: a particular environment or surrounding influence; "there
+          was an atmosphere of excitement" [syn: {atmosphere}, {ambiance}]
+     2: the atmosphere of an environment [syn: {ambiance}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

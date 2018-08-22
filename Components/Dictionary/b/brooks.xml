@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>brooks</Word>
+  <Definitions>
+    <Definition>
+      <Word>brooks</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Brooks, CA
+  Zip code(s): 95606
+Brooks, GA (town, FIPS 11056)
+  Location: 33.29499 N, 84.45919 W
+  Population (1990): 328 (124 housing units)
+  Area: 10.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 30205
+Brooks, KY (CDP, FIPS 9964)
+  Location: 38.06818 N, 85.71688 W
+  Population (1990): 2464 (850 housing units)
+  Area: 13.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 40109
+Brooks, ME
+  Zip code(s): 04921
+Brooks, MN (city, FIPS 8038)
+  Location: 47.81705 N, 96.00113 W
+  Population (1990): 158 (67 housing units)
+  Area: 3.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 56715
+Brooks, OR
+  Zip code(s): 97305
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>brooks</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Brooks
+     n : United States literary critic and historian (1886-1963)
+         [syn: {Van Wyck Brooks}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

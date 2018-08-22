@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>phone</Word>
+  <Definitions>
+    <Definition>
+      <Word>phone</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Phone \Phone\, n. (Phonetics)
+   a speech sound.
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>phone</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Phone \Phone\, n. &amp; v. t.
+   Colloq. for {Telephone}.
+   [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>phone</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>phone
+     n 1: electronic equipment that converts sound into electrical
+          signals that can be transmitted over distances and then
+          converts received signals back into sounds; "I talked to
+          him on the telephone" [syn: {telephone}, {telephone set}]
+     2: (phonetics) an individual sound unit of speech without
+        concern as to whether or not it is a phoneme of some
+        language [syn: {speech sound}, {sound}]
+     3: electro-acoustic transducer for converting electric signals
+        into sounds; it is held over or inserted into the ear; "it
+        was not the typing but the earphones that she disliked"
+        [syn: {earphone}, {earpiece}, {headphone}]
+     v : get or try to get into communication (with someone) by
+         telephone; "I tried to call you all night"; "Take two
+         aspirin and call me in the morning" [syn: {call}, {telephone},
+          {call up}, {ring}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

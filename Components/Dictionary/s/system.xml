@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>system</Word>
+  <Definitions>
+    <Definition>
+      <Word>system</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>system
+     
+        1. The {supervisor} program or {operating system} on a
+        computer.
+     
+        2. The entire computer system, including input/output devices,
+        the {supervisor} program or {operating system} and possibly
+        other {software}.
+     
+        3. Any large program.
+     
+        4. Any method or {algorithm}.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>system</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>System \Sys"tem\, n. [L. systema, Gr. ?, fr. ? to place
+   together; sy`n with + ? to place: cf. F. syst[`e]me. See
+   {Stand}.]
+   1. An assemblage of objects arranged in regular
+      subordination, or after some distinct method, usually
+      logical or scientific; a complete whole of objects related
+      by some common law, principle, or end; a complete
+      exhibition of essential principles or facts, arranged in a
+      rational dependence or connection; a regular union of
+      principles or parts forming one entire thing; as, a system
+      of philosophy; a system of government; a system of
+      divinity; a system of botany or chemistry; a military
+      system; the solar system.
+      [1913 Webster]
+
+            The best way to learn any science, is to begin with
+            a regular system, or a short and plain scheme of
+            that science well drawn up into a narrow compass.
+                                                  --I. Watts.
+      [1913 Webster]
+
+   2. Hence, the whole scheme of created things regarded as
+      forming one complete plan of whole; the universe. ``The
+      great system of the world.'' --Boyle.
+      [1913 Webster]
+
+   3. Regular method or order; formal arrangement; plan; as, to
+      have a system in one's business.
+      [1913 Webster]
+
+   4. (Mus.) The collection of staves which form a full score.
+      See {Score}, n.
+      [1913 Webster]
+
+   5. (Biol.) An assemblage of parts or organs, either in animal
+      or plant, essential to the performance of some particular
+      function or functions which as a rule are of greater
+      complexity than those manifested by a single organ; as,
+      the capillary system, the muscular system, the digestive
+      system, etc.; hence, the whole body as a functional unity.
+      [1913 Webster]
+
+   6. (Zo["o]l.) One of the stellate or irregular clusters of
+      intimately united zooids which are imbedded in, or
+      scattered over, the surface of the common tissue of many
+      compound ascidians.
+      [1913 Webster]
+
+   {Block system}, {Conservative system}, etc. See under
+      {Block}, {Conservative}, etc.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>system</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>system n. 1. The supervisor program or OS on a computer. 2. The entire
+   computer system, including input/output devices, the supervisor program
+   or OS, and possibly other software. 3. Any large-scale program. 4. Any
+   method or algorithm. 5. `System hacker': one who hacks the system (in
+   senses 1 and 2 only; for sense 3 one mentions the particular program:
+   e.g., `LISP hacker')
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>system</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>system
+     n 1: a group of independent but interrelated elements comprising
+          a unified whole; "a vast system of production and
+          distribution and consumption keep the country going"
+          [syn: {scheme}]
+     2: instrumentality that combines interrelated interacting
+        artifacts designed to work as a coherent entity; "he
+        bought a new stereo system"; "the system consists of a
+        motor and a small computer"
+     3: a complex of methods or rules governing behavior; "they have
+        to operate under a system they oppose"; "that language has
+        a complex system for indicating gender" [syn: {system of
+        rules}]
+     4: a procedure or process for obtaining an objective; "they had
+        to devise a system that did not depend on cooperation"
+     5: a group of physiologically or anatomically related organs or
+        parts; "the body has a system of organs for digestion"
+     6: an organized structure for arranging or classifying; "he
+        changed the arrangement of the topics"; "the facts were
+        familiar but it was in the organization of them that he
+        was original"; "he tried to understand their system of
+        classification" [syn: {arrangement}, {organization}, {organisation}]
+     7: (physical chemistry) a sample of matter in which substances
+        in different phases are in equilibrium; "in a static
+        system oil cannot be replaced by water on a surface"; "a
+        system generating hydrogen peroxide"
+     8: the living body considered as made up of interdependent
+        components forming a unified whole; "exercise helped him
+        get the alcohol out of his system"
+     9: an ordered manner; orderliness by virtue of being methodical
+        and well organized; "his compulsive organization was not
+        an endearing quality"; "we can't do it unless we establish
+        some system around here" [syn: {organization}, {organisation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

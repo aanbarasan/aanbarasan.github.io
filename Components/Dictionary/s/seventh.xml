@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>seventh</Word>
+  <Definitions>
+    <Definition>
+      <Word>seventh</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Seventh \Sev"enth\, a. [From {Seven}: cf. AS. seofo[eth]a.]
+   1. Next in order after the sixth;; coming after six others.
+      [1913 Webster]
+
+            On the seventh day, God ended his work which he had
+            made; and he rested on the seventh day from all his
+            work which he had made.               --Gen. ii. 2.
+      [1913 Webster]
+
+   2. Constituting or being one of seven equal parts into which
+      anything is divided; as, the seventh part.
+      [1913 Webster]
+
+   {Seventh day}, the seventh day of the week; Saturday.
+
+   {Seventh-day Baptists}. See under {Baptist}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>seventh</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Seventh \Sev"enth\, n.
+   1. One next in order after the sixth; one coming after six
+      others.
+      [1913 Webster]
+
+   2. The quotient of a unit divided by seven; one of seven
+      equal parts into which anything is divided.
+      [1913 Webster]
+
+   3. (Mus.)
+      (a) An interval embracing seven diatonic degrees of the
+          scale.
+      (b) A chord which includes the interval of a seventh
+          whether major, minor, or diminished.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>seventh</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>seventh
+     adj : coming next after the sixth and just before the eighth in
+           position [syn: {7th}]
+     n 1: position seven in a countable series of things
+     2: a seventh part [syn: {one-seventh}]
+     3: the musical interval between one note and another seven
+        notes away from it
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

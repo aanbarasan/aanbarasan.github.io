@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bifocals</Word>
+  <Definitions>
+    <Definition>
+      <Word>bifocals</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bifocals \Bi"fo`cals\, n. pl. [Pref. bi-+ focal.]
+   eyeglasses whose lenses have two foci, allowing the wearer to
+   see both far and nearby objects clearly. The lenses are
+   partitioned horizontally, the upper and lower parts having
+   different focal lengths.
+   [PJC]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

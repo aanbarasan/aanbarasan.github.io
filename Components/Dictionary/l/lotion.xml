@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lotion</Word>
+  <Definitions>
+    <Definition>
+      <Word>lotion</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lotion \Lo"tion\, n. [L. lotio, fr. lavare, lotum, to wash: cf.
+   F. lotion. See {Lave} to wash.]
+   1. A washing, especially of the skin for the purpose of
+      rendering it fair.
+      [1913 Webster]
+
+   2. A liquid preparation for bathing the skin, or an injured
+      or diseased part, either for a medicinal purpose, or for
+      improving its appearance.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lotion</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>lotion
+     n 1: any of various cosmetic preparations that are applied to the
+          skin
+     2: liquid preparation having a soothing or antiseptic or
+        medicinal action when applied to the skin; "a lotion for
+        dry skin" [syn: {application}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

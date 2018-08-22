@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sadly</Word>
+  <Definitions>
+    <Definition>
+      <Word>sadly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sadly \Sad"ly\, adv.
+   1. Wearily; heavily; firmly. [Obs.]
+      [1913 Webster]
+
+            In go the spears full sadly in arest. --Chaucer.
+      [1913 Webster]
+
+   2. Seriously; soberly; gravely. [Obs.]
+      [1913 Webster]
+
+            To tell thee sadly, shepherd, without blame
+            Or our neglect, we lost her as we came. --Milton.
+      [1913 Webster]
+
+   3. Grievously; deeply; sorrowfully; miserably. ``He sadly
+      suffers in their grief.'' --Dryden.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sadly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sadly
+     adv 1: in an unfortunate way; "sadly he died before he could see
+            his grandchild" [syn: {unhappily}] [ant: {happily}]
+     2: with sadness; in a sad manner; "`She died last night,' he
+        said sadly"
+     3: in an unfortunate or deplorable manner; "he was sadly
+        neglected"; "it was woefully inadequate" [syn: {deplorably},
+         {lamentably}, {woefully}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

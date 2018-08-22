@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>accumulator</Word>
+  <Definitions>
+    <Definition>
+      <Word>accumulator</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>accumulator
+     
+        &lt;processor&gt; In a {central processing unit}, a {register} in
+        which intermediate results are stored.  Without an
+        accumulator, it would be necessary to write the result of each
+        calculation (addition, multiplication, {shift}, etc.) to {main
+        memory} and read them back.  Access to main memory is slower
+        than access to the accumulator which usually has direct paths
+        to and from the {arithmetic and logic unit} (ALU).
+     
+        The {canonical} example is summing a list of numbers.  The
+        accumulator is set to zero initially, each number in turn is
+        added to the value in the accumulator and only when all
+        numbers have been added is the result written to main memory.
+     
+        Modern CPUs usually have many registers, all or many of which
+        can be used as accumulators.  For this reason, the term
+        "accumulator" is somewhat archaic.  Use of it as a synonym for
+        "register" is a fairly reliable indication that the user has
+        been around for quite a while and/or that the architecture
+        under discussion is quite old.  The term in full is almost
+        never used of microprocessor registers, for example, though
+        symbolic names for arithmetic registers beginning in "A"
+        derive from historical use of the term "accumulator" (and not,
+        actually, from "arithmetic").  Confusingly, though, an "A"
+        register name prefix may also stand for "address", as for
+        example on the {Motorola} {680x0} family.
+     
+        2. &lt;programming&gt; A register, memory location or variable being
+        used for arithmetic or logic (as opposed to addressing or a
+        loop index), especially one being used to accumulate a sum or
+        count of many items.  This use is in context of a particular
+        routine or stretch of code.  "The FOOBAZ routine uses A3 as an
+        accumulator."
+     
+        [{Jargon File}]
+     
+        (1999-04-20)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>accumulator</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Accumulator \Ac*cu"mu*la`tor\, n. [L.]
+   1. One who, or that which, accumulates, collects, or amasses.
+      [1913 Webster]
+
+   2. (Mech.) An apparatus by means of which energy or power can
+      be stored, such as the cylinder or tank for storing water
+      for hydraulic elevators, the secondary or storage battery
+      used for accumulating the energy of electrical charges,
+      etc.
+      [1913 Webster]
+
+   3. A system of elastic springs for relieving the strain upon
+      a rope, as in deep-sea dredging.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>accumulator</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>accumulator n. obs. 1. Archaic term for a register. On-line use of it
+   as a synonym for `register' is a fairly reliable indication that the
+   user has been around for quite a while and/or that the architecture
+   under discussion is quite old. The term in full is almost never used of
+   microprocessor registers, for example, though symbolic names for
+   arithmetic registers beginning in `A' derive from historical use of the
+   term `accumulator' (and not, actually, from `arithmetic'). Confusingly,
+   though, an `A' register name prefix may also stand for `address', as for
+   example on the Motorola 680x0 family. 2. A register being used for
+   arithmetic or logic (as opposed to addressing or a loop index),
+   especially one being used to accumulate a sum or count of many items.
+   This use is in context of a particular routine or stretch of code. "The
+   FOOBAZ routine uses A3 as an accumulator." 3. One's in-basket (esp.
+   among old-timers who might use sense 1). "You want this reviewed? Sure,
+   just put it in the accumulator." (See {stack}.)
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>accumulator</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>accumulator
+     n 1: a person who is employed to collect payments (as for rent or
+          taxes) [syn: {collector}, {gatherer}]
+     2: a voltaic battery that stores electric charge [syn: {storage
+        battery}]
+     3: (computer science) a register that has a built-in adder that
+        adds an input number to the contents of the accumulator
+        [syn: {accumulator register}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>coined</Word>
+  <Definitions>
+    <Definition>
+      <Word>coined</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Coin \Coin\, v. t. [imp. &amp; p. p. {Coined} (koind); p. pr. &amp; vb.
+   n. {Coining}.]
+   1. To make of a definite fineness, and convert into coins, as
+      a mass of metal; to mint; to manufacture; as, to coin
+      silver dollars; to coin a medal.
+      [1913 Webster]
+
+   2. To make or fabricate; to invent; to originate; as, to coin
+      a word.
+      [1913 Webster]
+
+            Some tale, some new pretense, he daily coined,
+            To soothe his sister and delude her mind. --Dryden.
+      [1913 Webster]
+
+   3. To acquire rapidly, as money; to make.
+      [1913 Webster]
+
+            Tenants cannot coin rent just at quarter day.
+                                                  --Locke.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

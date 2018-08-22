@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>collector</Word>
+  <Definitions>
+    <Definition>
+      <Word>collector</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Collector \Col*lect"or\, n. [LL. collector one who collects: cf.
+   F. collecteur.]
+   1. One who collects things which are separate; esp., one who
+      makes a business or practice of collecting works of art,
+      objects in natural history, etc.; as, a collector of
+      coins.
+      [1913 Webster]
+
+            I digress into Soho to explore a bookstall. Methinks
+            I have been thirty years a collector. --Lamb.
+      [1913 Webster]
+
+   2. A compiler of books; one who collects scattered passages
+      and puts them together in one book.
+      [1913 Webster]
+
+            Volumes without the collector's own reflections.
+                                                  --Addison.
+      [1913 Webster]
+
+   3. (Com.) An officer appointed and commissioned to collect
+      and receive customs, duties, taxes, or toll.
+      [1913 Webster]
+
+            A great part of this is now embezzled . . . by
+            collectors, and other officers.       --Sir W.
+                                                  Temple.
+      [1913 Webster]
+
+   4. One authorized to collect debts.
+      [1913 Webster]
+
+   5. A bachelor of arts in Oxford, formerly appointed to
+      superintend some scholastic proceedings in Lent. --Todd.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>collector</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>collector
+     n 1: a person who collects things [syn: {aggregator}]
+     2: a person who is employed to collect payments (as for rent or
+        taxes) [syn: {gatherer}, {accumulator}]
+     3: a crater that has collected cosmic material hitting the
+        earth
+     4: the electrode in a transistor through which a primary flow
+        of carriers leaves the region between the electrodes
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

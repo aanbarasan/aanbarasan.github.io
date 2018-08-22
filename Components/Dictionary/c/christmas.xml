@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>christmas</Word>
+  <Definitions>
+    <Definition>
+      <Word>christmas</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Christmas, FL
+  Zip code(s): 32709
+Christmas, MI
+  Zip code(s): 49862
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>christmas</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Christmas \Christ"mas\, n. [Christ + mass.]
+   An annual church festival (December 25) and in some States a
+   legal holiday, in memory of the birth of Christ, often
+   celebrated by a particular church service, and also by
+   special gifts, greetings, and hospitality.
+   [1913 Webster]
+
+   {Christmas box}.
+   (a) A box in which presents are deposited at Christmas.
+   (b) A present or small gratuity given to young people and
+       servants at Christmas; a Christmas gift.
+
+   {Christmas carol}, a carol sung at, or suitable for,
+      Christmas.
+
+   {Christmas day}. Same as {Christmas}.
+
+   {Christmas eve}, the evening before Christmas.
+
+   {Christmas fern} (Bot.), an evergreen North American fern
+      ({Aspidium acrostichoides}), which is much used for
+      decoration in winter.
+
+   {Christmas flower}, {Christmas rose}, the black hellebore, a
+      poisonous plant of the buttercup family, which in Southern
+      Europe often produces beautiful roselike flowers
+      midwinter.
+
+   {Christmas tree}, a small evergreen tree, set up indoors, to
+      be decorated with bonbons, presents, etc., and illuminated
+      on Christmas eve.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>christmas</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Christmas
+     n 1: period extending from Dec. 24 to Jan. 6 [syn: {Christmastide},
+           {Christmastime}, {Yule}, {Yuletide}, {Noel}]
+     2: a Christian holiday celebrating the birth of Christ; a
+        quarter day in England, Wales, and Ireland [syn: {Christmas
+        Day}, {Xmas}, {Dec 25}]
+     v : spend Christmas; "We were christmassing in New York"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

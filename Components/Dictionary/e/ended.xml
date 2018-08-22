@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ended</Word>
+  <Definitions>
+    <Definition>
+      <Word>ended</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>End \End\, v. t. [imp. &amp; p. p. {Ended}; p. pr. &amp; vb. n.
+   {Ending}.]
+   1. To bring to an end or conclusion; to finish; to close; to
+      terminate; as, to end a speech. ``I shall end this
+      strife.'' --Shak.
+      [1913 Webster]
+
+            On the seventh day God ended his work. --Gen. ii. 2.
+      [1913 Webster]
+
+   2. To form or be at the end of; as, the letter k ends the
+      word back.
+      [1913 Webster]
+
+   3. To destroy; to put to death. ``This sword hath ended
+      him.'' --Shak.
+      [1913 Webster]
+
+   {To end up}, to lift or tilt, so as to set on end; as, to end
+      up a hogshead.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ended</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ended
+     adj : having come or been brought to a conclusion; "the harvesting
+           was complete"; "the affair is over, ended, finished";
+           "the abruptly terminated interview" [syn: {complete}, {concluded},
+            {over(p)}, {all over}, {terminated}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

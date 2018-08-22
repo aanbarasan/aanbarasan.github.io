@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cohabitation</Word>
+  <Definitions>
+    <Definition>
+      <Word>cohabitation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cohabitation \Co*hab"i*ta"tion\, n. [L. cohabitatio.]
+   1. The act or state of dwelling together, or in the same
+      place with another. --Feltham.
+      [1913 Webster]
+
+   2. (Law) The living together of a man and woman in supposed
+      sexual relationship.
+      [1913 Webster]
+
+            That the duty of cohabitation is released by the
+            cruelty of one of the parties is admitted. --Lord
+                                                  Stowell.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cohabitation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cohabitation
+     n : living together (as spouses) [syn: {living together}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

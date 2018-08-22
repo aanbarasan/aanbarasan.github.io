@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>homo</Word>
+  <Definitions>
+    <Definition>
+      <Word>homo</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Homo- \Ho"mo-\
+   A combining form from Gr. "omo`s, one and the same, common,
+   joint.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>homo</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>homo
+     n 1: someone who practices homosexuality; having a sexual
+          attraction to persons of the same sex [syn: {homosexual},
+           {gay}]
+     2: any living or extinct member of the family Hominidae [syn: {man},
+         {human being}, {human}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

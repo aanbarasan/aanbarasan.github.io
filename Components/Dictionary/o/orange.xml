@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>orange</Word>
+  <Definitions>
+    <Definition>
+      <Word>orange</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Orange, CA (city, FIPS 53980)
+  Location: 33.80525 N, 117.82400 W
+  Population (1990): 110658 (38018 housing units)
+  Area: 60.4 sq km (land), 1.0 sq km (water)
+  Zip code(s): 92665, 92666, 92668, 92669
+Orange, CT (CDP, FIPS 57670)
+  Location: 41.27945 N, 73.02587 W
+  Population (1990): 12830 (4544 housing units)
+  Area: 44.5 sq km (land), 0.6 sq km (water)
+  Zip code(s): 06477
+Orange, MA (CDP, FIPS 51230)
+  Location: 42.59424 N, 72.30426 W
+  Population (1990): 3791 (1516 housing units)
+  Area: 11.2 sq km (land), 0.0 sq km (water)
+Orange, NJ (CDP, FIPS 55020)
+  Location: 40.76820 N, 74.23644 W
+  Population (1990): 29925 (12318 housing units)
+  Area: 5.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 07050
+Orange, OH (village, FIPS 58604)
+  Location: 41.43850 N, 81.47204 W
+  Population (1990): 2810 (1047 housing units)
+  Area: 9.4 sq km (land), 0.0 sq km (water)
+Orange, TX (city, FIPS 54132)
+  Location: 30.10392 N, 93.75818 W
+  Population (1990): 19381 (8532 housing units)
+  Area: 55.5 sq km (land), 4.2 sq km (water)
+Orange, VA (town, FIPS 59496)
+  Location: 38.24698 N, 78.11139 W
+  Population (1990): 2582 (1063 housing units)
+  Area: 2.8 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>orange</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>orange \or"ange\, a.
+   Of or pertaining to an orange; of the color of an orange;
+   reddish yellow; as, an orange ribbon.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>orange</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Orange \Or"ange\ ([o^]r"[e^]nj), n. [F.; cf. It. arancia,
+   arancio, LL. arangia, Sp. naranjia, Pg. laranja; all fr. Ar.
+   n[=a]ranj, Per. n[=a]ranj, n[=a]rang; cf. Skr. n[=a]ranga
+   orange tree. The o- in F. orange is due to confusion with or
+   gold, L. aurum, because the orange resembles gold in color.]
+   [1913 Webster]
+   1. The fruit of a tree of the genus {Citrus} ({Citrus
+      Aurantium}). It is usually round, and consists of pulpy
+      carpels, commonly ten in number, inclosed in a leathery
+      rind, which is easily separable, and is reddish yellow
+      when ripe.
+      [1913 Webster]
+
+   Note: There are numerous varieties of oranges; as, the
+         {bitter orange}, which is supposed to be the original
+         stock; the {navel orange}, which has the rudiment of a
+         second orange imbedded in the top of the fruit; the
+         {blood orange}, with a reddish juice; and the {horned
+         orange}, in which the carpels are partly separated.
+         [1913 Webster]
+
+   2. (Bot.) The tree that bears oranges; the orange tree.
+      [1913 Webster]
+
+   3. The color of an orange; reddish yellow.
+      [1913 Webster]
+
+   {Mandarin orange}. See {Mandarin}.
+
+   {Mock orange} (Bot.), any species of shrubs of the genus
+      {Philadelphus}, which have whitish and often fragrant
+      blossoms.
+
+   {Native orange}, or {Orange thorn} (Bot.), an Australian
+      shrub ({Citriobatus parviflorus}); also, its edible yellow
+      berries.
+
+   {Orange bird} (Zo["o]l.), a tanager of Jamaica ({Tanagra
+      zena}); -- so called from its bright orange breast.
+
+   {Orange cowry} (Zo["o]l.), a large, handsome cowry
+      ({Cypr[ae]a aurantia}), highly valued by collectors of
+      shells on account of its rarity.
+
+   {Orange grass} (Bot.), an inconspicuous annual American plant
+      ({Hypericum Sarothra}), having minute, deep yellow
+      flowers.
+
+   {Orange oil} (Chem.), an oily, terpenelike substance obtained
+      from orange rind, and distinct from neroli oil, which is
+      obtained from the flowers.
+
+   {Orange pekoe}, a kind of black tea.
+
+   {Orange pippin}, an orange-colored apple with acid flavor.
+
+   {Quito orange}, the orangelike fruit of a shrubby species of
+      nightshade ({Solanum Quitoense}), native in Quito.
+
+   {Orange scale} (Zo["o]l.) any species of scale insects which
+      infests orange trees; especially, the purple scale
+      ({Mytilaspis citricola}), the long scale ({Mytilaspis
+      Gloveri}), and the red scale ({Aspidiotus Aurantii}).
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>orange</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>orange
+     adj : similar to the color of a ripe orange [syn: {orangish}]
+     n 1: round yellow to orange fruit of any of several citrus trees
+     2: any of a range of colors between red and yellow [syn: {orangeness}]
+     3: any citrus tree bearing oranges [syn: {orange tree}]
+     4: any pigment producing the orange color
+     5: a river in South Africa that flows generally westward to the
+        Atlantic Ocean [syn: {Orange River}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

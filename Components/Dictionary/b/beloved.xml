@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>beloved</Word>
+  <Definitions>
+    <Definition>
+      <Word>beloved</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Beloved \Be*lov"ed\, n.
+   One greatly loved.
+   [1913 Webster]
+
+         My beloved is mine, and I am his.        --Cant. ii.
+                                                  16.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>beloved</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Belove \Be*love"\, v. t. [imp. &amp; p. p. {Beloved}.] [OE.
+   bilufien. See pref. {Be-}, and {Love}, v. t.]
+   To love. [Obs.] --Wodroephe.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>beloved</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Beloved \Be*loved"\, p. p. &amp; a.
+   Greatly loved; dear to the heart.
+   [1913 Webster]
+
+         Antony, so well beloved of C[ae]sar.     --Shak.
+   [1913 Webster]
+
+         This is my beloved Son.                  --Matt. iii.
+                                                  17.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>beloved</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>beloved
+     adj : dearly loved [syn: {darling}, {dear}]
+     n : a beloved person; used as terms of endearment [syn: {dear},
+         {dearest}, {loved one}, {honey}, {love}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

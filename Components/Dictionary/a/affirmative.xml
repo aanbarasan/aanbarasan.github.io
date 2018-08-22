@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>affirmative</Word>
+  <Definitions>
+    <Definition>
+      <Word>affirmative</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Affirmative \Af*firm"a*tive\, a. [L. affirmativus: cf. F.
+   affirmatif.]
+   1. Confirmative; ratifying; as, an act affirmative of common
+      law.
+      [1913 Webster]
+
+   2. That affirms; asserting that the fact is so; declaratory
+      of what exists; answering ``yes'' to a question; --
+      opposed to {negative}; as, an affirmative answer; an
+      affirmative vote.
+      [1913 Webster]
+
+   3. Positive; dogmatic. [Obs.] --J. Taylor.
+      [1913 Webster]
+
+            Lysicles was a little by the affirmative air of
+            Crito.                                --Berkeley.
+      [1913 Webster]
+
+   4. (logic) Expressing the agreement of the two terms of a
+      proposition.
+      [1913 Webster]
+
+   5. (Alg.) Positive; -- a term applied to quantities which are
+      to be added, and opposed to {negative}, or such as are to
+      be subtracted.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>affirmative</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Affirmative \Af*firm"a*tive\, n.
+   1. That which affirms as opposed to that which denies; an
+      affirmative proposition; that side of question which
+      affirms or maintains the proposition stated; -- opposed to
+      {negative}; as, there were forty votes in the affirmative,
+      and ten in the negative.
+      [1913 Webster]
+
+            Whether there are such beings or not, 't is
+            sufficient for my purpose that many have believed
+            the affirmative.                      --Dryden.
+      [1913 Webster]
+
+   2. A word or phrase expressing affirmation or assent; as,
+      yes, that is so, etc.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>affirmative</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>affirmative
+     adj 1: affirming or giving assent; "an affirmative decision";
+            "affirmative votes"; "an affirmative nod"; "an
+            affirmatory gesture" [syn: {affirmatory}] [ant: {negative}]
+     2: expecting the best; "an affirmative outlook" [syn: {optimistic}]
+     3: supporting a policy or attitude etc; "an affirmative
+        argument" [syn: {favoring}]
+     n : a reply of affirmation; "he answered in the affirmative"
+         [ant: {negative}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>astronomer</Word>
+  <Definitions>
+    <Definition>
+      <Word>astronomer</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Astronomer \As*tron"o*mer\, n. [See {Astronomy}.]
+   1. An astrologer. [Obs.] --Shak.
+      [1913 Webster]
+
+   2. One who is versed in astronomy; one who has a knowledge of
+      the laws of the heavenly orbs, or the principles by which
+      their motions are regulated, with their various phenomena.
+      [1913 Webster]
+
+            An undevout astronomer is mad.        --Young.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>astronomer</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>astronomer
+     n : a physicist who studies astronomy [syn: {uranologist}, {stargazer}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

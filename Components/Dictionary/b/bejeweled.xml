@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bejeweled</Word>
+  <Definitions>
+    <Definition>
+      <Word>bejeweled</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bejewel \Be*jew"el\, v. t. [imp. &amp; p. p. {Bejeweled} or
+   {Bejewelled}; p. pr. &amp; vb. n. {Bejeweling} or {Bejewelling}.]
+   To ornament with a jewel or with jewels; to spangle.
+   ``Bejeweled hands.'' --Thackeray.
+   [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bejeweled</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bejeweled
+     adj : covered with beads or jewels or sequins [syn: {beaded}, {beady},
+            {bejewelled}, {bespangled}, {gemmed}, {jeweled}, {jewelled},
+            {sequined}, {spangled}, {spangly}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

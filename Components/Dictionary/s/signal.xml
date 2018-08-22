@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>signal</Word>
+  <Definitions>
+    <Definition>
+      <Word>signal</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>SIGNAL
+     
+        &lt;language&gt; A synchronous language by Le Guernic et al of
+        {INRIA}.
+     
+        ["SIGNAL - A Data Flow-Oriented Language for Signal
+        Processing," P. le Guernic, IEEE Trans Acoustics Speech &amp;
+        Signal Proc, ASSP-34(2):362-1986-04-374].
+     
+        (1996-12-10)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>signal</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>signal
+     
+        &lt;operating system&gt; A predefined message sent between two
+        {Unix} {processes} or from the {kernel} to a process.  Signals
+        communicate the occurrence of unexpected external events such
+        as the forced termination of a process by the user.  Each
+        signal has a unique number associated with it and each process
+        has a signal handler set for each signal.  Signals can be sent
+        using the {kill} {system call}.
+     
+        (1996-12-10)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>signal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Signal \Sig"nal\, n. [F., fr. LL. signale, fr. L. signum. See
+   {Sign}, n.]
+   1. A sign made for the purpose of giving notice to a person
+      of some occurence, command, or danger; also, a sign,
+      event, or watchword, which has been agreed upon as the
+      occasion of concerted action.
+      [1913 Webster]
+
+            All obeyed
+            The wonted signal and superior voice
+            Of this great potentate.              --Milton.
+      [1913 Webster]
+
+   2. A token; an indication; a foreshadowing; a sign.
+      [1913 Webster]
+
+            The weary sun . . .
+            Gives signal of a goodly day to-morrow. --Shak.
+      [1913 Webster]
+
+            There was not the least signal of the calamity to be
+            seen.                                 --De Foc.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>signal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Signal \Sig"nal\, v. t. [imp. &amp; p. p. {Signaled or Signalled};
+   p. pr. &amp; vb. n. {Signaling} or {Signalling}.]
+   1. To communicate by signals; as, to signal orders.
+      [1913 Webster]
+
+   2. To notify by a signals; to make a signal or signals to;
+      as, to signal a fleet to anchor. --M. Arnold.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>signal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Signal \Sig"nal\, a. [From signal, n.: cf. F. signal['e].]
+   1. Noticeable; distinguished from what is ordinary; eminent;
+      remarkable; memorable; as, a signal exploit; a signal
+      service; a signal act of benevolence.
+      [1913 Webster]
+
+            As signal now in low, dejected state
+            As erst in highest, behold him where he lies.
+                                                  --Milton.
+      [1913 Webster]
+
+   2. Of or pertaining to signals, or the use of signals in
+      conveying information; as, a signal flag or officer.
+      [1913 Webster]
+
+   {The signal service}, a bureau of the government (in the
+      United States connected with the War Department) organized
+      to collect from the whole country simultaneous raports of
+      local meteorological conditions, upon comparison of which
+      at the central office, predictions concerning the weather
+      are telegraphed to various sections, where they are made
+      known by signals publicly displayed.
+
+   {Signal station}, the place where a signal is displayed;
+      specifically, an observation office of the signal service.
+      [1913 Webster]
+
+   Syn: Eminent; remarkable; memorable; extraordinary; notable;
+        conspicuous.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>signal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>signal
+     adj : notably out of the ordinary; "the year saw one signal
+           triumph for the Labour party"
+     n 1: any communication that encodes a message; "signals from the
+          boat suddenly stopped" [syn: {signaling}, {sign}]
+     2: any incitement to action; "he awaited the signal to start";
+        "the victory was a signal for wild celebration"
+     3: an electric quantity (voltage or current or field strength)
+        whose modulation represents coded information about the
+        source from which it comes
+     v 1: communicate silently and non-verbally by signals or signs;
+          "He signed his disapproval with a dismissive hand
+          gesture"; "The diner signaled the waiters to bring the
+          menu" [syn: {sign}, {signalize}, {signalise}]
+     2: be a signal for or a symptom of; "These symptoms indicate a
+        serious illness"; "Her behavior points to a severe
+        neurosis"; "The economic indicators signal that the euro
+        is undervalued" [syn: {bespeak}, {betoken}, {indicate}, {point}]
+     [also: {signalling}, {signalled}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>colossal</Word>
+  <Definitions>
+    <Definition>
+      <Word>colossal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Colossal \Co*los"sal\, a. [Cf. F. colossal, L. colosseus. See
+   {Colossus}.]
+   1. Of enormous size; gigantic; huge; as, a colossal statue.
+      ``A colossal stride.'' --Motley.
+      [1913 Webster]
+
+   2. (Sculpture &amp; Painting) Of a size larger than heroic. See
+      {Heroic}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>colossal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>colossal
+     adj : so great in size or force or extent as to elicit awe;
+           "colossal crumbling ruins of an ancient temple"; "has a
+           colossal nerve"; "a prodigious storm"; "a stupendous
+           field of grass"; "stupendous demand" [syn: {prodigious},
+            {stupendous}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

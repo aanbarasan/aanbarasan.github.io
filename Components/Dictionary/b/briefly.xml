@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>briefly</Word>
+  <Definitions>
+    <Definition>
+      <Word>briefly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Briefly \Brief"ly\ (br[=e]f"l[y^]), adv.
+   Concisely; in few words.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>briefly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>briefly
+     adv 1: for a short time; "she visited him briefly"; "was briefly
+            associated with IBM"
+     2: in a concise manner; in a few words; "the history is summed
+        up concisely in this book"; "she replied briefly";
+        "briefly, we have a problem"; "to put it shortly" [syn: {concisely},
+         {shortly}, {in brief}, {in short}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>blacktie</Word>
+  <Definitions>
+    <Definition>
+      <Word>blacktie</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>black-tie \black-tie\ adj.
+   requiring semiformal evening clothes, e. g. a black bowtie
+   and a tuxedo or dinner jacket for men, and a formal dress for
+   women; contrasted with {white-tie}, for a fully formal
+   occasion, and with {informal}, and {casual}. a black-tie
+   dinner
+
+   Syn: semi-formal, semiformal.
+        [WordNet 1.5 +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>blacktie</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>black tie
+     n 1: semiformal evening dress for men [syn: {dinner jacket}, {tux},
+           {tuxedo}]
+     2: a black bow tie worn with a dinner jacket
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>blacktie</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>black-tie
+     adj : moderately formal; requiring a dinner jacket; "he wore
+           semiformal attire"; "a black-tie dinner" [syn: {semiformal},
+            {semi-formal}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>internet</Word>
+  <Definitions>
+    <Definition>
+      <Word>internet</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Internet
+     
+        &lt;networking&gt; (Note: capital "I").  The Internet is the largest
+        {internet} (with a small "i") in the world.  It is a three
+        level {hierarchy} composed of {backbone networks}, {mid-level
+        networks}, and {stub networks}.  These include commercial
+        (.com or .co), university (.ac or .edu) and other research
+        networks (.org, .net) and military (.mil) networks and span
+        many different physical networks around the world with various
+        {protocols}, chiefly the {Internet Protocol}.
+     
+        Until the advent of the {World-Wide Web} in 1990, the Internet
+        was almost entirely unknown outside universities and corporate
+        research departments and was accessed mostly via {command
+        line} interfaces such as {telnet} and {FTP}.  Since then it
+        has grown to become an almost-ubiquitous aspect of modern
+        information systems, becoming highly commercial and a widely
+        accepted medium for all sort of customer relations such as
+        advertising, brand building, and online sales and services.
+        Its original spirit of cooperation and freedom have, to a
+        great extent, survived this explosive transformation with the
+        result that the vast majority of information available on the
+        Internet is free of charge.
+     
+        While the web (primarily in the form of {HTML} and {HTTP}) is
+        the best known aspect of the Internet, there are many other
+        {protocols} in use, supporting applications such as
+        {electronic mail}, {Usenet}, {chat}, {remote login}, and {file
+        transfer}.
+     
+        There were 20,242 unique commercial domains registered with
+        {InterNIC} in September 1994, 10% more than in August 1994.
+        In 1996 there were over 100 {Internet access providers} in the
+        US and a few in the UK (e.g. the {BBC Networking Club},
+        {Demon}, {PIPEX}).
+     
+        There are several bodies associated with the running of the
+        Internet, including the {Internet Architecture Board}, the
+        {Internet Assigned Numbers Authority}, the {Internet
+        Engineering and Planning Group}, {Internet Engineering
+        Steering Group}, and the {Internet Society}.
+     
+        See also {NYsernet}, {EUNet}.
+     
+        {The Internet Index (http://www.openmarket.com/intindex)} -
+        statistics about the Internet.
+     
+        (2000-02-21)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>internet</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>internet
+     
+        &lt;networking&gt; (Note: not capitalised) Any set of networks
+        interconnected with {routers}.  The {Internet} is the biggest
+        example of an internet.
+     
+        (1996-09-17)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>internet</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>internet \in"ter*net\ ([i^]n"t[~e]r*n[e^]t), n.
+   A large network[3] of numerous computers connected through a
+   number of major nodes of high-speed computers having
+   high-speed communications channels between the major nodes,
+   and numerous minor nodes allowing electronic communication
+   among millions of computers around the world; -- usually
+   referred to as {the internet}. It is the basis for the
+   {World-Wide Web}.
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>internet</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>Internet n.The mother of all networks. First incarnated beginning in
+   1969 as the ARPANET, a U.S. Department of Defense research testbed.
+   Though it has been widely believed that the goal was to develop a
+   network architecture for military command-and-control that could survive
+   disruptions up to and including nuclear war, this is a myth; in fact,
+   ARPANET was conceived from the start as a way to get most economical use
+   out of then-scarce large-computer resources.
+
+   As originally imagined, ARPANET's major use would have been to support
+   what is now called remote login and more sophisticated forms of
+   distributed computing, but the infant technology of electronic mail
+   quickly grew to dominate actual usage. Universities, research labs and
+   defense contractors early discovered the Internet's potential as a
+   medium of communication between _humans_ and linked up in steadily
+   increasing numbers, connecting together a quirky mix of academics,
+   techies, hippies, SF fans, hackers, and anarchists. The roots of this
+   lexicon lie in those early years.
+
+   Over the next quarter-century the Internet evolved in many ways. The
+   typical machine/OS combination moved from {DEC} {PDP-10}s and {PDP-20}s,
+   running {TOPS-10} and {TOPS-20}, to PDP-11s and VAXes and Suns running
+   {Unix}, and in the 1990s to Unix on Intel microcomputers. The Internet's
+   protocols grew more capable, most notably in the move from NCP/IP to
+   {TCP/IP} in 1982 and the implementation of Domain Name Service in 1983.
+   It was around this time that people began referring to the collection of
+   interconnected networks with ARPANET at its core as "the Internet".
+
+   The ARPANET had a fairly strict set of participation guidelines -
+   connected institutions had to be involved with a DOD-related research
+   project. By the mid-80s, many of the organizations clamoring to join
+   didn't fit this profile. In 1986, the National Science Foundation built
+   NSFnet to open up access to its five regional supercomputing centers;
+   NSFnet became the backbone of the Internet, replacing the original
+   ARPANET pipes (which were formally shut down in 1990). Between 1990 and
+   late 1994 the pieces of NSFnet were sold to major telecommunications
+   companies until the Internet backbone had gone completely commercial.
+
+   That year, 1994, was also the year the mainstream culture discovered
+   the Internet. Once again, the {killer app} was not the anticipated one -
+   rather, what caught the public imagination was the hypertext and
+   multimedia features of the World Wide Web. Subsequently the Internet has
+   seen off its only serious challenger (the OSI protocol stack favored by
+   European telecoms monopolies) and is in the process of absorbing into
+   itself many of the proprietary networks built during the second wave of
+   wide-area networking after 1980. By 1996 it had become a commonplace
+   even in mainstream media to predict that a globally-extended Internet
+   would become the key unifying communications technology of the next
+   century. See also {the network} and {Internet address}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>internet</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Internet
+     n : a computer network consisting of a worldwide network of
+         computer networks that use the TCP/IP network protocols
+         to facilitate data transmission and exchange [syn: {Net},
+          {cyberspace}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

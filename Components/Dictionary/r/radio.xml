@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>radio</Word>
+  <Definitions>
+    <Definition>
+      <Word>radio</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Radio- \Ra"di*o-\ (r[=a]"d[i^]*[-o]-), a.
+   1. Of or pertaining to, or employing, or operated by, radiant
+      energy, specifically that of electromagnetic waves with
+      frequencies between those of infrared radiation and
+      X-rays; hence, pertaining to, or employed in, broadcast
+      radio or television, microwaves, radiotelephones, etc.;
+      as, radio waves.
+      [Webster 1913 Suppl. +PJC]
+
+   2. of or pertaining to broadcast radio; as, a radio program.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>radio</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Radio- \Ra"di*o-\ (r[=a]"d[i^]*[-o]-).
+   A combining form indicating connection with, or relation to,
+   a radius or ray; specifically (Anat.), with the radius of the
+   forearm; as, radio-ulnar, radio-muscular, radio-carpal.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>radio</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>electronic device \electronic device\ n.
+   a device depending on the principles of electronics and using
+   the manipulation of electron flow for its operation.
+   [PJC]
+
+   Note: Numerous electronic devices are in daily use, among
+         them the {television}, {radio}, {computer}, {robot},
+         {transmitter}, {receiver}, {VCR}, {CD player}, etc.
+         [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>radio</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>radio
+     adj : indicating radiation or radioactivity; "radiochemistry"
+     n 1: medium for communication [syn: {radiocommunication}, {wireless}]
+     2: an electronic receiver that detects and demodulates and
+        amplifies transmitted signals [syn: {radio receiver}, {receiving
+        set}, {radio set}, {tuner}, {wireless}]
+     3: a communication system based on broadcasting electromagnetic
+        waves [syn: {wireless}]
+     v : transmit messages via radio waves; "he radioed for help"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

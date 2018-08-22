@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>babinski</Word>
+  <Definitions>
+    <Definition>
+      <Word>babinski</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Babinski
+     n : extension upward of the toes when the sole of the foot is
+         stroked firmly on the outer side from the heel to the
+         front; normal in infants under the age of two years but a
+         sign of brain or spinal cord injury in older persons
+         [syn: {Babinski reflex}, {Babinski sign}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

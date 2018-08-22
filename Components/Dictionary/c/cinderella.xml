@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cinderella</Word>
+  <Definitions>
+    <Definition>
+      <Word>cinderella</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Cinderella
+     n 1: a woman whose merits were not been recognized but who then
+          achieves sudden success and recognition
+     2: a fictional young girl who is saved from her stepmother and
+        stepsisters by her fairy godmother and a handsome prince
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hokum</Word>
+  <Definitions>
+    <Definition>
+      <Word>hokum</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hokum
+     n : a message that seems to convey no meaning [syn: {nonsense},
+         {bunk}, {nonsensicality}, {meaninglessness}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>juicy</Word>
+  <Definitions>
+    <Definition>
+      <Word>juicy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Juicy \Jui"cy\, a. [Compar. {Juicier}; superl. {Juiciest}.]
+   1. A bounding with juice; succulent. --Bacon.
+      [1913 Webster]
+
+   2. Very profitable, or presenting the prospect of much
+      profit; as, a juicy job; a juicy sales contract; a juicy
+      customer ripe for the plucking. [Colloq.]
+      [PJC]
+
+   3. Very interesting, especially due to scandalous or
+      salacious nature; -- of information; as, juicy gossip.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>juicy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>juicy
+     adj 1: full of juice [ant: {juiceless}]
+     2: having strong sexual appeal; "juicy barmaids"; "a red-hot
+        mama"; "a voluptuous woman" [syn: {luscious}, {red-hot}, {voluptuous}]
+     3: lucrative; "a juicy contract"; "a nice fat job" [syn: {fat}]
+     4: suggestive of sexual impropriety; "a blue movie"; "blue
+        jokes"; "he skips asterisks and gives you the gamy
+        details"; "a juicy scandal"; "a naughty wink"; "naughty
+        words"; "racy anecdotes"; "a risque story"; "spicy gossip"
+        [syn: {blue}, {gamy}, {gamey}, {naughty}, {racy}, {risque},
+         {spicy}]
+     [also: {juiciest}, {juicier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

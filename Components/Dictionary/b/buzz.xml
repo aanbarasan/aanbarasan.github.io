@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>buzz</Word>
+  <Definitions>
+    <Definition>
+      <Word>buzz</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>buzz
+     
+        1. Of a program, to run with no indication of progress and
+        perhaps without guarantee of ever finishing; especially said
+        of programs thought to be executing a {tight loop} of code.  A
+        program that is buzzing appears to be {catatonic}, but never
+        gets out of catatonia, while a buzzing loop may eventually end
+        of its own accord.  "The program buzzes for about 10 seconds
+        trying to sort all the names into order."  See {spin}; see
+        also {grovel}.
+     
+        2. [ETA Systems] To test a wire or printed circuit trace for
+        continuity by applying an AC rather than DC signal.  Some wire
+        faults will pass DC tests but fail a buzz test.
+     
+        3. To process an {array} or list in sequence, doing the same
+        thing to each element.  "This loop buzzes through the tz array
+        looking for a terminator type."
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>buzz</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Buzz \Buzz\ (b[u^]z), v. i. [imp. &amp; p. p. {Buzzed} (b[u^]zd); p.
+   pr. &amp; vb. n. {Buzzing}.] [An onomatop[oe]ia.]
+   To make a low, continuous, humming or sibilant sound, like
+   that made by bees with their wings. Hence: To utter a
+   murmuring sound; to speak with a low, humming voice.
+   [1913 Webster]
+
+         Like a wasp is buzzed, and stung him.    --Longfellow.
+   [1913 Webster]
+
+         However these disturbers of our peace
+         Buzz in the people's ears.               --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>buzz</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Buzz \Buzz\, v. t.
+   1. To sound forth by buzzing. --Shak.
+      [1913 Webster]
+
+   2. To whisper; to communicate, as tales, in an under tone; to
+      spread, as report, by whispers, or secretly.
+      [1913 Webster]
+
+            I will buzz abroad such prophecies
+            That Edward shall be fearful of his life. --Shak.
+      [1913 Webster]
+
+   3. To talk to incessantly or confidentially in a low humming
+      voice. [Colloq.]
+      [1913 Webster]
+
+   4. (Phonetics) To sound with a ``buzz''. --H. Sweet.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>buzz</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Buzz \Buzz\, n.
+   1. A continuous, humming noise, as of bees; a confused
+      murmur, as of general conversation in low tones, or of a
+      general expression of surprise or approbation. ``The
+      constant buzz of a fly.'' --Macaulay.
+      [1913 Webster]
+
+            I found the whole room in a buzz of politics.
+                                                  --Addison.
+      [1913 Webster]
+
+            There is a buzz all around regarding the sermon.
+                                                  --Thackeray.
+      [1913 Webster]
+
+   2. A whisper; a report spread secretly or cautiously.
+      [1913 Webster]
+
+            There's a certain buzz
+            Of a stolen marriage.                 --Massinger.
+      [1913 Webster]
+
+   3. (Phonetics) The audible friction of voice consonants. --H.
+      Sweet.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>buzz</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>buzz vi. 1. Of a program, to run with no indication of progress and
+   perhaps without guarantee of ever finishing; esp. said of programs
+   thought to be executing tight loops of code. A program that is buzzing
+   appears to be {catatonic}, but never gets out of catatonia, while a
+   buzzing loop may eventually end of its own accord. "The program buzzes
+   for about 10 seconds trying to sort all the names into order." See
+   {spin}; see also {grovel}. 2. [ETA Systems] To test a wire or printed
+   circuit trace for continuity, esp. by applying an AC rather than DC
+   signal. Some wire faults will pass DC tests but fail an AC buzz test. 3.
+   To process an array or list in sequence, doing the same thing to each
+   element. "This loop buzzes through the tz array looking for a terminator
+   type."
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>buzz</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>buzz
+     n 1: sound of rapid vibration; "the buzz of a bumble bee" [syn: {bombilation},
+           {bombination}]
+     2: a confusion of activity and gossip; "the buzz of excitement
+        was so great that a formal denial was issued"
+     v 1: make a buzzing sound; "bees were buzzing around the hive"
+          [syn: {bombinate}, {bombilate}]
+     2: fly low; "Planes buzzed the crowds in the square"
+     3: be noisy with activity; "This office is buzzing with
+        activity" [syn: {hum}, {seethe}]
+     4: call with a buzzer; "he buzzed the servant"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

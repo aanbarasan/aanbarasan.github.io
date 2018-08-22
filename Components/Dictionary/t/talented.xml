@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>talented</Word>
+  <Definitions>
+    <Definition>
+      <Word>talented</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Talented \Tal"ent*ed\, a.
+   Furnished with talents; possessing skill or talent; mentally
+   gifted. --Abp. Abbot (1663).
+   [1913 Webster]
+
+   Note: This word has been strongly objected to by Coleridge
+         and some other critics, but, as it would seem, upon not
+         very good grounds, as the use of talent or talents to
+         signify mental ability, although at first merely
+         metaphorical, is now fully established, and talented,
+         as a formative, is just as analogical and legitimate as
+         gifted, bigoted, moneyed, landed, lilied, honeyed, and
+         numerous other adjectives having a participal form, but
+         derived directly from nouns and not from verbs.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>talented</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>talented
+     adj : showing a natural aptitude for something [syn: {gifted}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

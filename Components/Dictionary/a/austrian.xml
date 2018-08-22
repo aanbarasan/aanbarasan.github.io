@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>austrian</Word>
+  <Definitions>
+    <Definition>
+      <Word>austrian</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Austrian \Aus"tri*an\, a.
+   Of or pertaining to Austria, or to its inhabitants. -- n. A
+   native or an inhabitant of Austria.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>austrian</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Austrian
+     adj : of or relating to Austria or its people or culture;
+           "Austrian music"
+     n : a native or inhabitant of Austria
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

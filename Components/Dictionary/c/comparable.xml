@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>comparable</Word>
+  <Definitions>
+    <Definition>
+      <Word>comparable</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Comparable \Com"pa*ra*ble\, a. [L. comparabilis: cf. F.
+   comparable.]
+   Capable of being compared; worthy of comparison.
+   [1913 Webster]
+
+         There is no blessing of life comparable to the
+         enjoyment of a discreet and virtuous friend. --Addison.
+   -- {Com"pa*ra*ble*ness}, n. -- {Com"pa*ra*bly}, adv.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>comparable</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>comparable
+     adj 1: able to be compared or worthy of comparison [ant: {incomparable}]
+     2: conforming in every respect; "boxes with corresponding
+        dimensions"; "the like period of the preceding year" [syn:
+         {corresponding}, {like}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

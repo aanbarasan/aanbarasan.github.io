@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>basis</Word>
+  <Definitions>
+    <Definition>
+      <Word>basis</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Basis \Ba"sis\ (b[=a]"s[i^]s), n.; pl. {Bases} (b[=a]"s[=e]z).
+   [L. basis, Gr. ba`sis. See {Base}, n.]
+   1. The foundation of anything; that on which a thing rests.
+      --Dryden.
+      [1913 Webster]
+
+   2. The pedestal of a column, pillar, or statue. [Obs.]
+      [1913 Webster]
+
+            If no basis bear my rising name.      --Pope.
+      [1913 Webster]
+
+   3. The groundwork; the first or fundamental principle; that
+      which supports.
+      [1913 Webster]
+
+            The basis of public credit is good faith. --A.
+                                                  Hamilton.
+      [1913 Webster]
+
+   4. The principal component part of a thing.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>basis</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>basis
+     n 1: a relation that provides the foundation for something; "they
+          were on a friendly footing"; "he worked on an interim
+          basis" [syn: {footing}, {ground}]
+     2: the fundamental assumptions from which something is begun or
+        developed or calculated or explained; "the whole argument
+        rested on a basis of conjecture" [syn: {base}, {foundation},
+         {fundament}, {groundwork}, {cornerstone}]
+     3: the most important or necessary part of something; "the
+        basis of this drink is orange juice" [syn: {base}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

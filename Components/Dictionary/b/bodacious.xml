@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bodacious</Word>
+  <Definitions>
+    <Definition>
+      <Word>bodacious</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bodacious
+     adj 1: incorrigible; "a bodacious gossip"
+     2: unrestrained by convention or propriety; "an audacious trick
+        to pull"; "a barefaced hypocrite"; "the most bodacious
+        display of tourism this side of Anaheim"- Los Angeles
+        Times; "bold-faced lies"; "brazen arrogance"; "the modern
+        world with its quick material successes and insolent
+        belief in the boundless possibilities of progress"-
+        Bertrand Russell [syn: {audacious}, {barefaced}, {bold-faced},
+         {brassy}, {brazen}, {brazen-faced}, {insolent}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

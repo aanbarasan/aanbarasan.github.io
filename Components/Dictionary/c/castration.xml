@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>castration</Word>
+  <Definitions>
+    <Definition>
+      <Word>castration</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Castration \Cas*tra"tion\, n. [L. castratio; cf. F. castration.]
+   The act of castrating.
+   [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>castration</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>castration
+     n 1: neutering a male animal by removing the testicles [syn: {emasculation}]
+     2: surgical removal of the testes or ovaries (usually to
+        inhibit hormone secretion in cases of breast cancer in
+        women or prostate cancer in men); "bilateral castration
+        results in sterilization"
+     3: the deletion of objectionable parts from a literary work
+        [syn: {expurgation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>apnea</Word>
+  <Definitions>
+    <Definition>
+      <Word>apnea</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>apnea \apnea\ n.
+   1. transient cessation of respiration. [Also spelled
+      {apnoea}.]
+      [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>apnea</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Apnoea \Ap*n[oe]"a\, n. [NL., fr. Gr. 'a priv. + ?, ?, breath, ?
+   to breathe, blow.] (Med.)
+   Partial privation or suspension of breath; suffocation; same
+   as {{apnea}}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>apnea</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>apnea
+     n : transient cessation of respiration
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

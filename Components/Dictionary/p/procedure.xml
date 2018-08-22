@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>procedure</Word>
+  <Definitions>
+    <Definition>
+      <Word>procedure</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>procedure
+     
+        {subroutine}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>procedure</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Procedure \Pro*ce"dure\, n. [F. proc['e]dure. See {Proceed}.]
+   1. The act or manner of proceeding or moving forward;
+      progress; process; operation; conduct. ``The true
+      procedure of conscience.'' --South.
+      [1913 Webster]
+
+   2. A step taken; an act performed; a proceeding; the steps
+      taken in an action or other legal proceeding. ``Gracious
+      procedures.'' --I. Taylor.
+      [1913 Webster]
+
+   3. That which results; issue; product. [Obs.] --Bacon.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>procedure</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>procedure
+     n 1: a particular course of action intended to achieve a result;
+          "the procedure of obtaining a driver's license"; "it was
+          a process of trial and error" [syn: {process}]
+     2: a process or series of acts especially of a practical or
+        mechanical nature involved in a particular form of work;
+        "the operations in building a house"; "certain machine
+        tool operations" [syn: {operation}]
+     3: a set sequence of steps, part of larger computer program
+        [syn: {routine}, {subroutine}, {subprogram}, {function}]
+     4: a mode of conducting legal and parliamentary proceedings
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

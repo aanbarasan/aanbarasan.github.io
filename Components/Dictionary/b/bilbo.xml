@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bilbo</Word>
+  <Definitions>
+    <Definition>
+      <Word>bilbo</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bilbo \Bil"bo\, n.; pl. {Bilboes}.
+   1. A rapier; a sword; so named from Bilbao, in Spain. --Shak.
+      [1913 Webster]
+
+   2. pl. A long bar or bolt of iron with sliding shackles, and
+      a lock at the end, to confine the feet of prisoners or
+      offenders, esp. on board of ships.
+      [1913 Webster]
+
+            Methought I lay
+            Worse than the mutines in the bilboes. --Shak.
+      [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

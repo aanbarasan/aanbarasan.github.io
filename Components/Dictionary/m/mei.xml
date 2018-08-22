@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mei</Word>
+  <Definitions>
+    <Definition>
+      <Word>mei</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Mei
+     
+        &lt;library&gt; A set of {class libraries} by Atsushi Aoki
+        &lt;aoki@sra.co.jp&gt; and others for {Objectworks Smalltalk}
+        Release 4.1.  Mei includes: Grapher Library for drawing
+        diagrams; Meta Grapher Library (grapher to develop grapher);
+        Drawing tools and painting tools (structured diagram editors
+        and drawing editors); {GUI builder}; {Lisp} {interpreter};
+        {Prolog} interpreter; Pluggable gauges; Extended browser;
+        (package, history, recover, etc.)
+     
+        Mei is available under {General Public License} and requires
+        Objectworks Smalltalk Release 4.1.
+     
+        Current version: 0.50, as of 1993-01-20.
+     
+        {Home
+        (http://www.sra.co.jp/people/aoki/htmls/FreeSoftwareForSmalltalk.html)}.
+     
+        E-mail: Watanabe Katsuhiro &lt;katsu@sran14.sra.co.jp&gt;
+     
+        (1999-12-08)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mei</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>MEI
+     Matsushita Electronics Incorporated (manufacturer, Japan)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mei</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mei
+     n : Japanese ornamental tree with fragrant white or pink
+         blossoms and small yellow fruits [syn: {Japanese apricot},
+          {Prunus mume}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

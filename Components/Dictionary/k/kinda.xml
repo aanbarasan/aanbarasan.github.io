@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>kinda</Word>
+  <Definitions>
+    <Definition>
+      <Word>kinda</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>kinda
+     adv : to some (great or small) extent; "it was rather cold"; "the
+           party was rather nice"; "the knife is rather dull"; "I
+           rather regret that I cannot attend"; "He's rather good
+           at playing the cello"; "he is kind of shy" [syn: {rather},
+            {kind of}, {sort of}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

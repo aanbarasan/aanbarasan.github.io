@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>anthropology</Word>
+  <Definitions>
+    <Definition>
+      <Word>anthropology</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Anthropology \An`thro*pol"o*gy\, n. [Gr. ? man + -logy.]
+   1. The science of the structure and functions of the human
+      body.
+      [1913 Webster]
+
+   2. The science of man, including the study of the ditribution
+      of physical and cultural attributes in relation to man's
+      origin, location, history, and environment; -- sometimes
+      used in a limited sense to mean the study of man as an
+      object of natural history, or as an animal.
+      [1913 Webster +PJC]
+
+   3. That manner of expression by which the inspired writers
+      attribute human parts and passions to God. See also
+      {anthropopathite}, {anthropopathism}, {anthropomorphist}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>anthropology</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>anthropology
+     n : the social science that studies the origins and social
+         relationships of human beings
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

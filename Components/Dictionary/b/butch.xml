@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>butch</Word>
+  <Definitions>
+    <Definition>
+      <Word>butch</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>butch \butch\ n.
+   a lesbian who is noticeably masculine.
+
+   Syn: dyke.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>butch</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>butch \butch\ (b[.u]ch), adj.
+   1. markedly masculine in appearance or manner; -- used of
+      men.
+
+   Syn: macho.
+        [WordNet 1.5]
+
+   2. same as {lesbian}. [pejorative]
+      [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>butch</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>butch
+     adj 1: used of men; markedly masculine in appearance or manner
+            [syn: {macho}]
+     2: pejorative synonym for lesbian
+     n : offensive terms for a lesbian who is noticeably masculine
+         [syn: {dike}, {dyke}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

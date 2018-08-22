@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>concession</Word>
+  <Definitions>
+    <Definition>
+      <Word>concession</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Concession \Con*ces"sion\, n. [L. concessio, fr. concedere: cf.
+   F. concession. See {Concede}.]
+   1. The act of conceding or yielding; usually implying a
+      demand, claim, or request, and thus distinguished from
+      giving, which is voluntary or spontaneous.
+      [1913 Webster]
+
+            By mutual concession the business was adjusted.
+                                                  --Hallam.
+      [1913 Webster]
+
+   2. A thing yielded; an acknowledgment or admission; a boon; a
+      grant; esp. a grant by government of a privilege or right
+      to do something; as, a concession to build a canal.
+      [1913 Webster]
+
+            This is therefore a concession, that he doth . . .
+            believe the Scriptures to be sufficiently plain.
+                                                  --Sharp.
+      [1913 Webster]
+
+            When a lover becomes satisfied by small compliances
+            without further pursuits, then expect to find
+            popular assemblies content with small concessions.
+                                                  --Swift.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>concession</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>concession
+     n 1: a contract granting the right to operate a subsidiary
+          business; "he got the beer concession at the ball park"
+          [syn: {grant}]
+     2: the act of conceding or yielding [syn: {conceding}, {yielding}]
+     3: a point conceded or yielded; "they won all the concessions
+        they asked for"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>particularly</Word>
+  <Definitions>
+    <Definition>
+      <Word>particularly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Particularly \Par*tic"u*lar*ly\, adv.
+   1. In a particular manner; expressly; with a specific
+      reference or interest; in particular; distinctly.
+      [1913 Webster]
+
+   2. In an especial manner; especially; in a high degree; as, a
+      particularly fortunate man; a particularly bad failure.
+      [1913 Webster]
+
+            The exact propriety of Virgil I particularly
+            regarded as a great part of his character. --Dryden.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>particularly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>particularly
+     adv 1: to a distinctly greater extent or degree than is common; "he
+            was particularly fussy about spelling"; "a
+            particularly gruesome attack"; "under peculiarly
+            tragic circumstances"; "an especially (or specially)
+            cautious approach to the danger" [syn: {peculiarly}, {especially},
+             {specially}]
+     2: specifically or especially distinguished from others; "loves
+        Bach, particularly his partitas"; "recommended one book in
+        particular"; "trace major population movements for the
+        Pueblo groups in particular" [syn: {in particular}]
+     3: uniquely or characteristically; "these peculiarly cinematic
+        elements"; "a peculiarly French phenomenon"; "everyone has
+        a moment in history which belongs particularly to him"-
+        John Knowles [syn: {peculiarly}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

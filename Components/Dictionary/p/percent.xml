@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>percent</Word>
+  <Definitions>
+    <Definition>
+      <Word>percent</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>percent
+     
+        %
+     
+        Common: {ITU-T}: percent sign; mod; grapes.  {INTERCAL}:
+        double-oh-seven.
+     
+        (1995-03-06)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>percent</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Per \Per\, prep. [L. Cf. {Far}, {For-}, {Pardon}, and cf. {Par},
+   prep.]
+   Through; by means of; through the agency of; by; for; for
+   each; as, per annum; per capita, by heads, or according to
+   individuals; per curiam, by the court; per se, by itself, of
+   itself. Per is also sometimes used with English words.
+   [1913 Webster]
+
+   {Per annum}, by the year; in each successive year; annually.
+      
+
+   {Per cent}, {Per centum}, by the hundred; in the hundred; --
+      used esp. of proportions of ingredients, rate or amount of
+      interest, and the like; commonly used in the shortened
+      form per cent.
+
+   {Per diem}, by the day. [For other phrases from the Latin,
+      see Quotations, Phrases, etc., from Foreign Languages, in
+      the Supplement.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>percent</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>percent
+     n : a proportion multiplied by 100 [syn: {percentage}, {per
+         centum}, {pct}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

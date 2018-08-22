@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>chilly</Word>
+  <Definitions>
+    <Definition>
+      <Word>chilly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Chilly \Chill"y\, a.
+   Moderately cold; cold and raw or damp so as to cause
+   shivering; causing or feeling a disagreeable sensation of
+   cold, or a shivering.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chilly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>chilly
+     adj 1: uncomfortably cool; "a chill wind"; "chilly weather" [syn: {chill}]
+     2: not characterized by emotion; "a female form in marble--a
+        chilly but ideal medium for depicting abstract
+        virtues"-C.W.Cunningham
+     3: lacking warmth of feeling; "a chilly greeting"; "an
+        unfriendly manner" [syn: {unfriendly}]
+     n : very hot and finely tapering pepper of special pungency
+         [syn: {chili}, {chili pepper}, {chilli}, {chile}]
+     [also: {chilliest}, {chillier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

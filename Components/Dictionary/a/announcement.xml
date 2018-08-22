@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>announcement</Word>
+  <Definitions>
+    <Definition>
+      <Word>announcement</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Announcement \An*nounce"ment\, n.
+   The act of announcing, or giving notice; that which
+   announces; proclamation; publication.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>announcement</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>announcement
+     n 1: a formal public statement; "the government made an
+          announcement about changes in the drug war"; "a
+          declaration of independence" [syn: {proclamation}, {annunciation},
+           {declaration}]
+     2: a public statement about something that is happening or
+        going to happen; "the announcement appeared in the local
+        newspaper"; "the promulgation was written in English"
+        [syn: {promulgation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

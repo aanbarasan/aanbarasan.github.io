@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bergson</Word>
+  <Definitions>
+    <Definition>
+      <Word>bergson</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Bergson
+     n : French philosopher who proposed elan vital as the cause of
+         evolution and development (1859-1941) [syn: {Henri
+         Bergson}, {Henri Louis Bergson}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

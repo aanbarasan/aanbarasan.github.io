@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bomb</Word>
+  <Definitions>
+    <Definition>
+      <Word>bomb</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>bomb
+     
+        1. &lt;software&gt; General synonym for {crash} except that it is
+        not used as a noun.  Especially used of software or {OS}
+        failures.  "Don't run Empire with less than 32K stack, it'll
+        bomb".
+     
+        2. &lt;operating system&gt; {Atari ST} and {Macintosh} equivalents
+        of a {Unix} "{panic}" or {Amiga} {guru}, in which {icon}s of
+        little black-powder bombs or mushroom clouds are displayed,
+        indicating that the system has died.  On the {Macintosh}, this
+        may be accompanied by a decimal (or occasionally
+        {hexadecimal}) number indicating what went wrong, similar to
+        the {Amiga} {guru meditation} number.  {MS-DOS} computers tend
+        to {lock up} in this situation.
+     
+        3. &lt;software&gt; A piece of code embedded in a program that
+        remains dormant until it is triggered.  Logic bombs are
+        triggered by an event whereas time bombs are triggered either
+        after a set amount of time has elapsed, or when a specific
+        date is reached.
+     
+        [{Jargon File}]
+     
+        (1996-12-08)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bomb</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bomb \Bomb\, n. [F. bombe bombshell, fr. L. bombus a humming or
+   buzzing noise, Gr. ?.]
+   [1913 Webster]
+   1. A great noise; a hollow sound. [Obs.]
+      [1913 Webster]
+
+            A pillar of iron . . . which if you had struck,
+            would make . . . a great bomb in the chamber
+            beneath.                              --Bacon.
+      [1913 Webster]
+
+   2. (Mil.) A shell; esp. a spherical shell, like those fired
+      from mortars. See {Shell}.
+      [1913 Webster]
+
+   3. A bomb ketch.
+      [1913 Webster]
+
+   {Bomb chest} (Mil.), a chest filled with bombs, or only with
+      gunpowder, placed under ground, to cause destruction by
+      its explosion.
+
+   {Bomb ketch}, {Bomb vessel} (Naut.), a small ketch or vessel,
+      very strongly built, on which mortars are mounted to be
+      used in naval bombardments; -- called also {mortar
+      vessel}.
+
+   {Bomb lance}, a lance or harpoon with an explosive head, used
+      in whale fishing.
+
+   {Volcanic bomb}, a mass of lava of a spherical or pear shape.
+      ``I noticed volcanic bombs.'' --Darwin.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bomb</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bomb \Bomb\, v. t.
+   To bombard. [Obs.] --Prior.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bomb</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bomb \Bomb\, v. i. [Cf. {Boom}.]
+   To sound; to boom; to make a humming or buzzing sound. [Obs.]
+   --B. Jonson.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bomb</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>bomb 1. v. General synonym for {crash} (sense 1) except that it is not
+   used as a noun; esp. used of software or OS failures. "Don't run Empire
+   with less than 32K stack, it'll bomb." 2. n.,v. Atari ST and Macintosh
+   equivalents of a Unix `panic' or Amiga {guru meditation}, in which icons
+   of little black-powder bombs or mushroom clouds are displayed,
+   indicating that the system has died. On the Mac, this may be accompanied
+   by a decimal (or occasionally hexadecimal) number indicating what went
+   wrong, similar to the Amiga {guru meditation} number. {{MS-DOS}}
+   machines tend to get {locked up} in this situation.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bomb</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bomb
+     n 1: an explosive device fused to denote under specific
+          conditions
+     2: strong sealed vessel for measuring heat of combustion [syn:
+        {bomb calorimeter}]
+     3: an event that fails badly or is totally ineffectual; "the
+        first experiment was a real turkey"; "the meeting was a
+        dud as far as new business was concerned" [syn: {turkey},
+        {dud}]
+     v 1: throw bombs at or attack with bombs; "The Americans bombed
+          Dresden" [syn: {bombard}]
+     2: fail to get a passing grade; "She studied hard but failed
+        nevertheless"; "Did I fail the test?" [syn: {fail}, {flunk},
+         {flush it}] [ant: {pass}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

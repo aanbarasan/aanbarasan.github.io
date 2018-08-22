@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>capsule</Word>
+  <Definitions>
+    <Definition>
+      <Word>capsule</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Capsule \Cap"sule\ (k[a^]p"s[=u]l), n. [L. capsula a little box
+   or chest, fr. capsa chest, case, fr. capere to take, contain:
+   cf. F. capsule.]
+   1. (Bot.) a dry fruit or pod which is made up of several
+      parts or carpels, and opens to discharge the seeds, as,
+      the capsule of the poppy, the flax, the lily, etc.
+      [1913 Webster]
+
+   2. (Chem.)
+      (a) A small saucer of clay for roasting or melting samples
+          of ores, etc.; a scorifier.
+      (b) a small, shallow, evaporating dish, usually of
+          porcelain.
+          [1913 Webster]
+
+   3. (Med.) A small cylindrical or spherical gelatinous
+      envelope in which nauseous or acrid doses are inclosed to
+      be swallowed.
+      [1913 Webster]
+
+   4. (Anat.) A membranous sac containing fluid, or investing an
+      organ or joint; as, the capsule of the lens of the eye.
+      Also, a capsulelike organ.
+      [1913 Webster]
+
+   5. A metallic seal or cover for closing a bottle.
+      [1913 Webster]
+
+   6. A small cup or shell, as of metal, for a percussion cap,
+      cartridge, etc.
+      [1913 Webster]
+
+   {Atrabiliary capsule}. See under {Atrabiliary}.
+
+   {Glisson's capsule}, a membranous envelope, entering the
+      liver along with the portal vessels and insheathing the
+      latter in their course through the organ.
+
+   {Suprarenal capsule}, a ductless gland secreting epinephrine,
+      norepinephrine, and steroid hormones, on the upper end of
+      each kidney. It is also called the {adrenal gland},
+      {glandula suprarenalis}, {suprarenal gland}, {epinephros},
+      {atrabiliary capsule}, and {adrenal capsule}.
+      [1913 Webster +PJC] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>capsule</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>capsule
+     n 1: a small container
+     2: a pill in the form of a small rounded gelatinous container
+        with medicine inside
+     3: a dry dehiscent seed vessel or the spore-containing
+        structure of e.g. mosses
+     4: a shortened version of a written work [syn: {condensation},
+        {abridgement}, {abridgment}]
+     5: a structure that encloses a body part
+     6: a spacecraft designed to transport people and support human
+        life in outer space [syn: {space capsule}]
+     7: a pilot's seat in an airplane that can be forcibly ejected
+        in the case of an emergency; then the pilot descends by
+        parachute [syn: {ejection seat}, {ejector seat}]
+     v 1: enclose in a capsule [syn: {capsulate}, {capsulize}, {capsulise}]
+     2: put in a short or concise form; reduce in volume; "capsulize
+        the news" [syn: {encapsulate}, {capsulize}, {capsulise}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

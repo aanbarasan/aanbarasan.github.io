@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>embarrassment</Word>
+  <Definitions>
+    <Definition>
+      <Word>embarrassment</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Embarrassment \Em*bar"rass*ment\, n. [F. embarrassement.]
+   1. A state of being embarrassed; perplexity; impediment to
+      freedom of action; entanglement; hindrance; confusion or
+      discomposure of mind, as from not knowing what to do or to
+      say; disconcertedness.
+      [1913 Webster]
+
+            The embarrassment which inexperienced minds have
+            often to express themselves upon paper. --W. Irving.
+      [1913 Webster]
+
+            The embarrassments tom commerce growing out of the
+            late regulations.                     --Bancroft.
+      [1913 Webster]
+
+   2. Difficulty or perplexity arising from the want of money to
+      pay debts.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>embarrassment</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>embarrassment
+     n 1: the shame you feel when your inadequacy or guilt is made
+          public
+     2: the state of being embarrassed (usually by some financial
+        inadequacy); "he is currently suffering financial
+        embarrassments"
+     3: some event that causes someone to be embarrassed; "the
+        outcome of the vote was an embarrassment for the liberals"
+        [ant: {disembarrassment}]
+     4: extreme excess; "an embarrassment of riches" [syn: {overplus},
+         {plethora}, {superfluity}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

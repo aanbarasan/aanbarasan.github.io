@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>robot</Word>
+  <Definitions>
+    <Definition>
+      <Word>robot</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>robot
+     
+        1. &lt;robotics&gt; A mechanical device for performing a task which
+        might otherwise be done by a human, e.g. spraying paint on
+        cars.
+     
+        See also {cybernetics}.
+     
+        2. &lt;chat&gt; An {IRC} or {MUD} user who is actually a program.
+        On IRC, typically the robot provides some useful service.
+        Examples are {NickServ}, which tries to prevent random users
+        from adopting {nick}s already claimed by others, and MsgServ,
+        which allows one to send {asynchronous} messages to be
+        delivered when the recipient signs on.  Also common are
+        "annoybots", such as KissServ, which perform no useful
+        function except to send cute messages to other people.
+        Service robots are less common on {MUD}s; but some others,
+        such as the "Julia" robot active in 1990--91, have been
+        remarkably impressive {Turing test} experiments, able to pass
+        as human for as long as ten or fifteen minutes of
+        conversation.
+     
+        3. &lt;World-Wide Web&gt; {spider}.
+     
+        [{Jargon File}]
+     
+        (1996-03-23)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>robot</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>electronic device \electronic device\ n.
+   a device depending on the principles of electronics and using
+   the manipulation of electron flow for its operation.
+   [PJC]
+
+   Note: Numerous electronic devices are in daily use, among
+         them the {television}, {radio}, {computer}, {robot},
+         {transmitter}, {receiver}, {VCR}, {CD player}, etc.
+         [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>robot</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>robot n. See {bot}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>robot</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>robot
+     n : a mechanism that can move automatically [syn: {automaton}, {golem}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

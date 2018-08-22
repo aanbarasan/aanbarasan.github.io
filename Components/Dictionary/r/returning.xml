@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>returning</Word>
+  <Definitions>
+    <Definition>
+      <Word>returning</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Return \Re*turn"\, v. i. [imp. &amp; p. p. {Returned}; p. pr. &amp; vb.
+   n. {Returning}.] [OE. returnen, retournen, F. retourner;
+   pref. re- re- + tourner to turn. See {Turn}.]
+   1. To turn back; to go or come again to the same place or
+      condition. ``Return to your father's house.'' --Chaucer.
+      [1913 Webster]
+
+            On their embattled ranks the waves return. --Milton.
+      [1913 Webster]
+
+            If they returned out of bondage, it must be into a
+            state of freedom.                     --Locke.
+      [1913 Webster]
+
+            Dust thou art, and unto dust shalt thou return.
+                                                  --Gen. iii.
+                                                  19.
+      [1913 Webster]
+
+   2. To come back, or begin again, after an interval, regular
+      or irregular; to appear again.
+      [1913 Webster]
+
+            With the year
+            Seasons return; but not me returns
+            Day or the sweet approach of even or morn. --Milton.
+      [1913 Webster]
+
+   3. To speak in answer; to reply; to respond.
+      [1913 Webster]
+
+            He said, and thus the queen of heaven returned.
+                                                  --Pope.
+      [1913 Webster]
+
+   4. To revert; to pass back into possession.
+      [1913 Webster]
+
+            And Jeroboam said in his heart, Now shall the
+            kingdom return to the house of David. --1Kings xii.
+                                                  26.
+      [1913 Webster]
+
+   5. To go back in thought, narration, or argument. ``But to
+      return to my story.'' --Fielding.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>returning</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>returning
+     adj 1: tending to return to an earlier state [syn: {reverting}]
+     2: tending to be turned back [syn: {returning(a)}, {reversive}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

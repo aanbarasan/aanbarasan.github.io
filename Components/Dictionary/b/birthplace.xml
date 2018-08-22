@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>birthplace</Word>
+  <Definitions>
+    <Definition>
+      <Word>birthplace</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Birthplace \Birth"place`\, n.
+   The town, city, or country, where a person is born; place of
+   origin or birth, in its more general sense. ``The birthplace
+   of valor.'' --Burns.
+   [1913 Webster] birth rate,
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>birthplace</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>birthplace
+     n 1: the place where someone was born [syn: {place of birth}]
+     2: where something originated or was nurtured in its early
+        existence; "the birthplace of civilization" [syn: {cradle},
+         {place of origin}, {provenance}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

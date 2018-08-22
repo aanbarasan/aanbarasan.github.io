@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>abducted</Word>
+  <Definitions>
+    <Definition>
+      <Word>abducted</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Abduct \Ab*duct"\, v. t. [imp. &amp; p. p. {Abducted}; p. pr. &amp; vb.
+   n. {Abducting}.] [L. abductus, p. p. of abducere. See
+   {Abduce}.]
+   1. To take away surreptitiously by force; to carry away (a
+      human being) wrongfully and usually by violence; to
+      kidnap.
+      [1913 Webster]
+
+   2. To draw away, as a limb or other part, from its ordinary
+      position.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>abducted</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>abducted
+     adj : (of persons) seized and detained unlawfully, often for
+           ransom; "the father restored the kidnapped (or
+           abducted) child to the mother" [syn: {kidnapped}, {kidnaped}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

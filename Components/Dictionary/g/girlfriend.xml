@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>girlfriend</Word>
+  <Definitions>
+    <Definition>
+      <Word>girlfriend</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>girlfriend \girl"friend`\ n.
+   1. any female friend; as, Mary and her girlfriend organized
+      the party. [WordNet sense 1]
+      [WordNet 1.5]
+
+   2. a girl or young woman with whom a man is romantically
+      involved; as, his girlfriend kicked him out. [WordNet
+      sense 2]
+
+   Syn: girl, lady friend.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>girlfriend</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>girlfriend
+     n 1: any female friend; "Mary and her girlfriend organized the
+          party"
+     2: a girl or young woman with whom a man is romantically
+        involved; "his girlfriend kicked him out" [syn: {girl}, {lady
+        friend}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>regardless</Word>
+  <Definitions>
+    <Definition>
+      <Word>regardless</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Regardless \Re*gard"less\, a.
+   1. Having no regard; heedless; careless; as, regardless of
+      life, consequences, dignity.
+      [1913 Webster]
+
+            Regardless of the bliss wherein he sat. --Milton.
+      [1913 Webster]
+
+   2. Not regarded; slighted. [R.] --Spectator.
+      [1913 Webster]
+
+   Syn: Heedless; negligent; careless; indifferent; unconcerned;
+        inattentive; unobservant; neglectful.
+        [1913 Webster] -- {Re*gard"less*ly}, adv. --
+        {Re*gard"less*ness}, n.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>regardless</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>regardless
+     adj : (usually followed by `of') without due thought or
+           consideration; "careless of the consequences"; "the
+           proverbial grasshopper--thoughtless of tomorrow";
+           "crushing the blooms with regardless tread" [syn: {careless(p)},
+            {thoughtless(p)}]
+     adv : in spite of everything; without regard to drawbacks; "he
+           carried on regardless of the difficulties" [syn: {irrespective},
+            {disregardless}, {no matter}, {disregarding}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

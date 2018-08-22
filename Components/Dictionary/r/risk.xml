@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>risk</Word>
+  <Definitions>
+    <Definition>
+      <Word>risk</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Risk \Risk\, v. t. [imp. &amp; p. p. {Risked}; p. pr. &amp; vb. n.
+   {Risking}.] [CF. F. risquer. See {Risk}, n.]
+   1. To expose to risk, hazard, or peril; to venture; as, to
+      risk goods on board of a ship; to risk one's person in
+      battle; to risk one's fame by a publication.
+      [1913 Webster]
+
+   2. To incur the risk or danger of; as, to risk a battle.
+      [1913 Webster]
+
+   Syn: To hazard; peril; endanger; jeopard.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>risk</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Risk \Risk\, n. [F. risque; cf. It. risco, risico, rischio, Pg.
+   risco, Sp. riesgo, and also Sp. risco a steep rock; all
+   probably fr. L. resceare to cut off; pref. re- re- + secare
+   to cut; -- the word having been probably first used among
+   sailors. See {Section}.]
+   1. Hazard; danger; peril; exposure to loss, injury, or
+      destruction.
+      [1913 Webster]
+
+            The imminent and constant risk of assassination, a
+            risk which has shaken very strong nerves.
+                                                  --Macaulay.
+      [1913 Webster]
+
+   2. (Com.) Hazard of loss; liabillity to loss in property.
+      [1913 Webster]
+
+   {To run a risk}, to incur hazard; to encounter danger.
+      [1913 Webster]
+
+   Syn: Danger; hazard; peril; jeopardy; exposure. See {Danger}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>risk</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>risk
+     n 1: a source of danger; a possibility of incurring loss or
+          misfortune; "drinking alcohol is a health hazard" [syn:
+          {hazard}, {jeopardy}, {peril}]
+     2: a venture undertaken without regard to possible loss or
+        injury; "he saw the rewards but not the risks of crime";
+        "there was a danger he would do the wrong thing" [syn: {peril},
+         {danger}]
+     3: the probability of becoming infected given that exposure to
+        an infectious agent has occurred [syn: {risk of infection}]
+     4: the probability of being exposed to an infectious agent
+        [syn: {risk of exposure}]
+     v 1: expose to a chance of loss or damage; "We risked losing a
+          lot of money in this venture"; "Why risk your life?"
+          [syn: {put on the line}, {lay on the line}]
+     2: take a risk in the hope of a favorable outcome; "When you
+        buy these stocks you are gambling" [syn: {gamble}, {chance},
+         {hazard}, {take chances}, {adventure}, {run a risk}, {take
+        a chance}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

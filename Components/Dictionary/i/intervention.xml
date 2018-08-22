@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>intervention</Word>
+  <Definitions>
+    <Definition>
+      <Word>intervention</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Intervention \In`ter*ven"tion\, n. [L. interventio an
+   interposition: cf. F. intervention.]
+   [1913 Webster]
+   1. The act of intervening; interposition.
+      [1913 Webster]
+
+            Sound is shut out by the intervention of that lax
+            membrane.                             --Holder.
+      [1913 Webster]
+
+   2. Any interference that may affect the interests of others;
+      especially, of one or more states with the affairs of
+      another; -- the intervention of one state in the affairs
+      of another is typically unwelcome by the state being
+      intervened in, but some cases of mediation between states
+      may be called intervention. Opposed to {nonintervention}.
+      [1913 Webster +PJC]
+
+            Let us decide our quarrels at home, without the
+            intervention, of any foreign power.   --Sir W.
+                                                  Temple.
+      [1913 Webster]
+
+   3. (Civil Law) The act by which a third person, to protect
+      his own interest, interposes and becomes a party to a suit
+      pending between other parties.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>intervention</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>intervention
+     n 1: the act of intervening (as to mediate a dispute) [syn: {intercession}]
+     2: a policy of intervening in the affairs of other countries
+        [syn: {interference}] [ant: {nonintervention}, {nonintervention}]
+     3: (law) a proceeding that permits a person to enter into a
+        lawsuit already in progress; admission of person not an
+        original party to the suit so that person can protect some
+        right or interest that is allegedly affected by the
+        proceedings; "the purpose of intervention is to prevent
+        unnecessary duplication of lawsuits"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>solve</Word>
+  <Definitions>
+    <Definition>
+      <Word>solve</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Solve
+     
+        Parallel object-oriented language.  "Message Pattern
+        Specifications: A New Technique for Handling Errors in
+        Parallel Object- Oriented Systems", J.A. Purchase et al,
+        SIGPLAN Notices 25(10):116-125 (OOPSLA/ECOOP '90) (Oct 1990).
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>solve</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Solve \Solve\ (s[o^]lv), v. t. [imp. &amp; p. p. {Solved}
+   (s[o^]lvd); p. pr. &amp; vb. n. {Solving}.] [L. solvere, solutum;
+   from a prefix so- expressing separation (cf. {Sober}) + luere
+   to loosen; cf. OF. soldre, soudre. See {Loose}, and cf.
+   {Absolve}.]
+   To explain; to resolve; to unfold; to clear up (what is
+   obscure or difficult to be understood); to work out to a
+   result or conclusion; as, to solve a doubt; to solve
+   difficulties; to solve a problem.
+   [1913 Webster]
+
+         True piety would effectually solve such scruples.
+                                                  --South.
+   [1913 Webster]
+
+         God shall solve the dark decrees of fate. --Tickell.
+   [1913 Webster]
+
+   Syn: To explain; resolve; unfold; clear up.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>solve</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Solve \Solve\, n.
+   A solution; an explanation. [Obs.] --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>solve</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>solve
+     v 1: find the solution to (a problem or question) or understand
+          the meaning of; "did you solve the problem?"; "Work out
+          your problems with the boss"; "this unpleasant situation
+          isn't going to work itself out"; "did you get it?"; "Did
+          you get my meaning?"; "He could not work the math
+          problem" [syn: {work out}, {figure out}, {puzzle out}, {lick},
+           {work}]
+     2: find the solution; "solve an equation"; "solve for x" [syn:
+        {resolve}]
+     3: settle, as of a debt; "clear a debt"; "solve an old debt"
+        [syn: {clear}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

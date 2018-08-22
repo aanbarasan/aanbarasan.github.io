@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>conductor</Word>
+  <Definitions>
+    <Definition>
+      <Word>conductor</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Conductor \Con*duct"or\ (k[o^]n*d[u^]k"t[~e]r), n. [LL., a
+   carrier, transporter, L., a lessee.]
+   1. One who, or that which, conducts; a leader; a commander; a
+      guide; a manager; a director.
+      [1913 Webster]
+
+            Zeal, the blind conductor of the will. --Dryden.
+      [1913 Webster]
+
+   2. One in charge of a public conveyance, as of a railroad
+      train or a street car. [U. S.]
+      [1913 Webster]
+
+   3. (Mus.) The leader or director of an orchestra or chorus.
+      [1913 Webster]
+
+   4. (Physics) A substance or body capable of being a medium
+      for the transmission of certain forces, esp. heat or
+      electricity; specifically, a lightning rod.
+      [1913 Webster]
+
+   5. (Surg.) A grooved sound or staff used for directing
+      instruments, as lithontriptic forceps, etc.; a director.
+      [1913 Webster]
+
+   6. (Arch.) Same as {Leader}.
+      [1913 Webster]
+
+   {Prime conductor} (Elec.), the largest conductor of an
+      electrical machine, serving to collect, accumulate, or
+      retain the electricity.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>conductor</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>conductor
+     n 1: the person who leads a musical group [syn: {music director},
+           {director}]
+     2: a device designed to transmit electricity, heat, etc.
+     3: a substance that readily conducts e.g. electricity and heat
+        [ant: {insulator}]
+     4: the person who collects fares on a public conveyance
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>beep</Word>
+  <Definitions>
+    <Definition>
+      <Word>beep</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>beep
+     
+        {bell}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>beep</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>beep n.,v. Syn. {feep}. This term is techspeak under MS-DOS and OS/2,
+   and seems to be generally preferred among micro hobbyists.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>beep</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>BEEP
+     Blocks Extensible Exchange Protocol (RFC 3080)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>beep</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>beep
+     n : a short high tone produced as a signal or warning [syn: {bleep}]
+     v 1: make a loud noise; "The horns of the taxis blared" [syn: {honk},
+           {blare}, {claxon}, {toot}]
+     2: call, summon, or alert with a beeper
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

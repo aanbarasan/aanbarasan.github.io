@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>acute</Word>
+  <Definitions>
+    <Definition>
+      <Word>acute</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Acute \A*cute"\, v. t.
+   To give an acute sound to; as, he acutes his rising
+   inflection too much. [R.] --Walker.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>acute</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Acute \A*cute"\, a. [L. acutus, p. p. of acuere to sharpen, fr.
+   a root ak to be sharp. Cf. {Ague}, {Cute}, {Edge}.]
+   1. Sharp at the end; ending in a sharp point; pointed; --
+      opposed to {blunt} or {obtuse}; as, an acute angle; an
+      acute leaf.
+      [1913 Webster]
+
+   2. Having nice discernment; perceiving or using minute
+      distinctions; penetrating; clever; shrewd; -- opposed to
+      {dull} or {stupid}; as, an acute observer; acute remarks,
+      or reasoning.
+      [1913 Webster]
+
+   3. Having nice or quick sensibility; susceptible to slight
+      impressions; acting keenly on the senses; sharp; keen;
+      intense; as, a man of acute eyesight, hearing, or feeling;
+      acute pain or pleasure.
+      [1913 Webster]
+
+   4. High, or shrill, in respect to some other sound; --
+      opposed to {grave} or {low}; as, an acute tone or accent.
+      [1913 Webster]
+
+   5. (Med.) Attended with symptoms of some degree of severity,
+      and coming speedily to a crisis; -- opposed to {chronic};
+      as, an acute disease.
+      [1913 Webster]
+
+   {Acute angle} (Geom.), an angle less than a right angle.
+      [1913 Webster]
+
+   Syn: Subtile; ingenious; sharp; keen; penetrating; sagacious;
+        sharp-witted; shrewd; discerning; discriminating. See
+        {Subtile}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>acute</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>acute
+     adj 1: having or experiencing a rapid onset and short but severe
+            course; "acute appendicitis"; "the acute phase of the
+            illness"; "acute patients" [ant: {chronic}]
+     2: extremely sharp or intense; "acute pain"; "felt acute
+        annoyance"; "intense itching and burning" [syn: {intense}]
+     3: having or demonstrating ability to recognize or draw fine
+        distinctions; "an acute observer of politics and
+        politicians"; "incisive comments"; "icy knifelike
+        reasoning"; "as sharp and incisive as the stroke of a
+        fang"; "penetrating insight"; "frequent penetrative
+        observations" [syn: {discriminating}, {incisive}, {keen},
+        {knifelike}, {penetrating}, {penetrative}, {piercing}, {sharp}]
+     4: of an angle; less than 90 degrees [ant: {obtuse}]
+     5: ending in a sharp point [syn: {acuate}, {sharp}, {needlelike}]
+     6: of critical importance and consequence; "an acute (or
+        critical) lack of research funds"
+     n : a mark (') placed above a vowel to indicate pronunciation
+         [syn: {acute accent}, {ague}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

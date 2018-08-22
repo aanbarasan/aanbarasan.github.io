@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>suited</Word>
+  <Definitions>
+    <Definition>
+      <Word>suited</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Suit \Suit\, v. t. [imp. &amp; p. p. {Suited}; p. pr. &amp; vb. n.
+   {Suiting}.]
+   1. To fit; to adapt; to make proper or suitable; as, to suit
+      the action to the word. --Shak.
+      [1913 Webster]
+
+   2. To be fitted to; to accord with; to become; to befit.
+      [1913 Webster]
+
+            Ill suits his cloth the praise of railing well.
+                                                  --Dryden.
+      [1913 Webster]
+
+            Raise her notes to that sublime degree
+            Which suits song of piety and thee.   --Prior.
+      [1913 Webster]
+
+   3. To dress; to clothe. [Obs.]
+      [1913 Webster]
+
+            So went he suited to his watery tomb. --Shak.
+      [1913 Webster]
+
+   4. To please; to make content; as, he is well suited with his
+      place; to suit one's taste.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>suited</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>suited
+     adj 1: meant or adapted for an occasion or use; "a tractor suitable
+            (or fit) for heavy duty"; "not an appropriate (or fit)
+            time for flippancy" [syn: {appropriate}, {suitable}]
+     2: outfitted or supplied with clothing; "recruits suited in
+        green"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

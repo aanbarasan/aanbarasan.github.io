@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>carefree</Word>
+  <Definitions>
+    <Definition>
+      <Word>carefree</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Carefree, AZ (town, FIPS 10180)
+  Location: 33.82242 N, 111.91844 W
+  Population (1990): 1666 (1301 housing units)
+  Area: 23.1 sq km (land), 0.0 sq km (water)
+Carefree, IN (town, FIPS 10242)
+  Location: 38.24327 N, 86.35789 W
+  Population (1990): 26 (8 housing units)
+  Area: 2.3 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>carefree</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>carefree \care"free`\ (k[^a]r"fr[=e]`), adj.
+   1. Free of trouble and worry and care; as, the carefree joys
+      of childhood; carefree millionaires, untroubled
+      financially.
+
+   Syn: happy, lighthearted, unworried.
+        [WordNet 1.5]
+
+   2. nonchalant in a cheerful manner.
+
+   Syn: breezy, airy.
+        [WordNet 1.5]
+
+   3. cheerfully irresponsible; as, carefree with his money.
+      Opposite of {careful}.
+
+   Syn: devil-may-care, happy-go-lucky, harum-scarum, slaphappy.
+        [WordNet 1.5]
+
+   4. same as {unconcerned}. Opposite of {concerned}.
+
+   Syn: blithe.
+        [WordNet 1.5 +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>carefree</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>carefree
+     adj 1: free of trouble and worry and care; "the carefree joys of
+            childhood"; "carefree millionaires, untroubled
+            financially" [syn: {unworried}]
+     2: cheerfully irresponsible; "carefree with his money";
+        "freewheeling urban youths"; "had a harum-scarum youth"
+        [syn: {devil-may-care}, {freewheeling}, {happy-go-lucky},
+        {harum-scarum}, {slaphappy}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

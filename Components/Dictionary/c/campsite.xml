@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>campsite</Word>
+  <Definitions>
+    <Definition>
+      <Word>campsite</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>campsite
+     n : a site where people on holiday can pitch a tent [syn: {campground},
+          {camping site}, {camping ground}, {bivouac}, {encampment},
+          {camping area}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

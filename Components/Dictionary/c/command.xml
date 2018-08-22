@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>command</Word>
+  <Definitions>
+    <Definition>
+      <Word>command</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>command
+     
+        &lt;operating system&gt; A character string which tells a program to
+        perform a specific action.  Most commands take {arguments}
+        which either modify the action performed or supply it with
+        input.  Commands may be typed by the user or read from a file
+        by a {command interpreter}.  It is also common to refer to
+        menu items as commands.
+     
+        (1997-06-21)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>command</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Command \Com*mand"\ (?; 61), v. t. [imp. &amp; p. p. {Commanded}; p.
+   pr. &amp; vb. n. {Commanding}.] [OE. comaunden, commanden, OF.
+   comander, F. commander, fr. L. com- + mandare to commit to,
+   to command. Cf. {Commend}, {Mandate}.]
+   1. To order with authority; to lay injunction upon; to
+      direct; to bid; to charge.
+      [1913 Webster]
+
+            We are commanded to forgive our enemies, but you
+            never read that we are commanded to forgive our
+            friends.                              --Bacon.
+      [1913 Webster]
+
+            Go to your mistress:
+            Say, I command her come to me.        --Shak.
+      [1913 Webster]
+
+   2. To exercise direct authority over; to have control of; to
+      have at one's disposal; to lead.
+      [1913 Webster]
+
+            Monmouth commanded the English auxiliaries.
+                                                  --Macaulay.
+      [1913 Webster]
+
+            Such aid as I can spare you shall command. --Shak.
+      [1913 Webster]
+
+   3. To have within a sphere of control, influence, access, or
+      vision; to dominate by position; to guard; to overlook.
+      [1913 Webster]
+
+            Bridges commanded by a fortified house. --Motley.
+      [1913 Webster]
+
+            Up to the eastern tower,
+            Whose height commands as subject all the vale.
+                                                  --Shak.
+      [1913 Webster]
+
+            One side commands a view of the finest garden.
+                                                  --Addison.
+      [1913 Webster]
+
+   4. To have power or influence of the nature of authority
+      over; to obtain as if by ordering; to receive as a due; to
+      challenge; to claim; as, justice commands the respect and
+      affections of the people; the best goods command the best
+      price.
+      [1913 Webster]
+
+            'Tis not in mortals to command success. --Addison.
+      [1913 Webster]
+
+   5. To direct to come; to bestow. [Obs.]
+      [1913 Webster]
+
+            I will command my blessing upon you.  --Lev. xxv.
+                                                  21.
+
+   Syn: To bid; order; direct; dictate; charge; govern; rule;
+        overlook.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>command</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Command \Com*mand"\, n.
+   1. An authoritative order requiring obedience; a mandate; an
+      injunction.
+      [1913 Webster]
+
+            Awaiting what command their mighty chief
+            Had to impose.                        --Milton.
+      [1913 Webster]
+
+   2. The possession or exercise of authority.
+      [1913 Webster]
+
+            Command and force may often create, but can never
+            cure, an aversion.                    --Locke.
+      [1913 Webster]
+
+   3. Authority; power or right of control; leadership; as, the
+      forces under his command.
+      [1913 Webster]
+
+   4. Power to dominate, command, or overlook by means of
+      position; scope of vision; survey.
+      [1913 Webster]
+
+            The steepy stand
+            Which overlooks the vale with wide command.
+                                                  --Dryden.
+      [1913 Webster]
+
+   5. Control; power over something; sway; influence; as, to
+      have command over one's temper or voice; the fort has
+      command of the bridge.
+      [1913 Webster]
+
+            He assumed an absolute command over his readers.
+                                                  --Dryden.
+      [1913 Webster]
+
+   6. A body of troops, or any naval or military force or post,
+      or the whole territory under the authority or control of a
+      particular officer.
+      [1913 Webster]
+
+   {Word of command} (Mil.), a word or phrase of definite and
+      established meaning, used in directing the movements of
+      soldiers; as, {aim}; {fire}; {shoulder arms}, etc.
+
+   Syn: Control; sway; power; authority; rule; dominion;
+        sovereignty; mandate; order; injunction; charge; behest.
+        See {Direction}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>command</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Command \Com*mand"\, v. i.
+   1. To have or to exercise direct authority; to govern; to
+      sway; to influence; to give an order or orders.
+      [1913 Webster]
+
+            And reigned, commanding in his monarchy. --Shak.
+      [1913 Webster]
+
+            For the king had so commanded concerning [Haman].
+                                                  --Esth. iii.
+                                                  2.
+      [1913 Webster]
+
+   2. To have a view, as from a superior position.
+      [1913 Webster]
+
+            Far and wide his eye commands.        --Milton.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>command</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>command
+     n 1: an authoritative direction or instruction to do something
+          [syn: {bid}, {bidding}, {dictation}]
+     2: a military unit or region under the control of a single
+        officer
+     3: the power or authority to command; "an admiral in command"
+     4: availability for use; "the materials at the command of the
+        potters grew"
+     5: a position of highest authority; "the corporation has just
+        undergone a change in command"
+     6: great skillfulness and knowledge of some subject or
+        activity; "a good command of French" [syn: {control}, {mastery}]
+     7: (computer science) a line of code written as part of a
+        computer program [syn: {instruction}, {statement}, {program
+        line}]
+     v 1: be in command of; "The general commanded a huge army"
+     2: make someone do something [syn: {require}, {compel}]
+     3: demand as one's due; "This speaker commands a high fee";
+        "The author commands a fair hearing from his readers"
+     4: look down on; "The villa dominates the town" [syn: {dominate},
+         {overlook}, {overtop}]
+     5: exercise authoritative control or power over; "control the
+        budget"; "Command the military forces" [syn: {control}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

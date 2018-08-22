@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>festival</Word>
+  <Definitions>
+    <Definition>
+      <Word>festival</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Festival \Fes"ti*val\, a. [OF. festival, fr. L. festivum festive
+   jollity, fr. festivus festive, gay. See {Festive}.]
+   Pertaining to a fest; festive; festal; appropriate to a
+   festival; joyous; mirthful.
+   [1913 Webster]
+
+         I cannot woo in festival terms.          --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>festival</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Festi-val \Fes"ti-val\, n.
+   A time of feasting or celebration; an anniversary day of joy,
+   civil or religious.
+   [1913 Webster]
+
+         The morning trumpets festival proclaimed. --Milton.
+
+   Syn: Feast; banquet; carousal. See {Feast}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>festival</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>festival
+     n 1: a day or period of time set aside for feasting and
+          celebration
+     2: an organized series of acts and performances (usually in one
+        place); "a drama festival" [syn: {fete}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

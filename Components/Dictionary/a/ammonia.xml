@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ammonia</Word>
+  <Definitions>
+    <Definition>
+      <Word>ammonia</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ammonia \Am*mo"ni*a\, n. [From sal ammoniac, which was first
+   obtaining near the temple of Jupiter Ammon, by burning
+   camel's dung. See {Ammoniac}.] (Chem.)
+   A gaseous compound of hydrogen and nitrogen, {NH3}, with a
+   pungent smell and taste: -- often called {volatile alkali},
+   and {spirits of hartshorn}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ammonia</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ammonia
+     n 1: a pungent gas compounded of nitrogen and hydrogen (NH3)
+     2: a water solution of ammonia [syn: {ammonia water}, {ammonium
+        hydroxide}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

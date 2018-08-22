@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>broadband</Word>
+  <Definitions>
+    <Definition>
+      <Word>broadband</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>broadband
+     
+        &lt;communications&gt; A transmission medium capable of supporting a
+        wide range of frequencies, typically from audio up to video
+        frequencies.  It can carry multiple signals by dividing the
+        total capacity of the medium into multiple, independent
+        bandwidth channels, where each channel operates only on a
+        specific range of frequencies.
+     
+        See also {baseband}.
+     
+        (1995-05-09)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>broadband</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>broadband
+     adj 1: of or relating to or being a communications network in which
+            the bandwidth can be divided and shared by multiple
+            simultaneous signals (as for voice or data or video)
+     2: responding to or operating at a wide band of frequencies; "a
+        broadband antenna" [syn: {wideband}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

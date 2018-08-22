@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>beater</Word>
+  <Definitions>
+    <Definition>
+      <Word>beater</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Beater \Beat"er\ (b[=e]t"[~e]r), n.
+   1. One who, or that which, beats.
+      [1913 Webster]
+
+   2. A person who beats up game for the hunters. --Black.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>beater</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>beater
+     n 1: a worker who rouses wild game from under cover for a hunter
+     2: an implement for beating
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

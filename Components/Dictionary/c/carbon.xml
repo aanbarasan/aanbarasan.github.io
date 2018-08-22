@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>carbon</Word>
+  <Definitions>
+    <Definition>
+      <Word>carbon</Word>
+      <Dictionary>
+        <Id>elements</Id>
+        <Name>Elements database 20001107</Name>
+      </Dictionary>
+      <WordDefinition>carbon
+Symbol: C
+Atomic number: 6
+Atomic weight: 12.01115
+Carbon is a member of group 14 of the periodic table. It has three
+allotropic forms of it, diamonds, graphite and fullerite. Carbon-14
+is commonly used in radioactive dating. Carbon occurs in all organic life
+and is the basis of organic chemistry. Carbon has the interesting chemical
+property of being able to bond with itself, and a wide variety of other
+elements.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>carbon</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Carbon, IA (city, FIPS 10585)
+  Location: 41.04926 N, 94.82351 W
+  Population (1990): 60 (36 housing units)
+  Area: 1.8 sq km (land), 0.0 sq km (water)
+Carbon, IN (town, FIPS 10198)
+  Location: 39.59893 N, 87.10750 W
+  Population (1990): 350 (147 housing units)
+  Area: 0.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 47837
+Carbon, TX (town, FIPS 12736)
+  Location: 32.26858 N, 98.82671 W
+  Population (1990): 255 (150 housing units)
+  Area: 2.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 76435
+Carbon, WV
+  Zip code(s): 25122
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>carbon</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Carbon \Car"bon\ (k[aum]r"b[o^]n), n. [F. carbone, fr. L. carbo
+   coal; cf. Skr. [,c]r[=a] to cook.] (Chem.)
+   1. An elementary substance, not metallic in its nature, which
+      is present in all organic compounds. Atomic weight 11.97.
+      Symbol C. it is combustible, and forms the base of
+      lampblack and charcoal, and enters largely into mineral
+      coals. In its pure crystallized state it constitutes the
+      diamond, the hardest of known substances, occuring in
+      monometric crystals like the octahedron, etc. Another
+      modification is graphite, or blacklead, and in this it is
+      soft, and occurs in hexagonal prisms or tables. When
+      united with oxygen it forms carbon dioxide, commonly
+      called carbonic acid, or carbonic oxide, according to the
+      proportions of the oxygen; when united with hydrogen, it
+      forms various compounds called hydrocarbons. Compare
+      {Diamond}, and {Graphite}.
+      [1913 Webster]
+
+   2. (Elec.) A carbon rod or pencil used in an arc lamp; also,
+      a plate or piece of carbon used as one of the elements of
+      a voltaic battery.
+      [Webster 1913 Suppl.]
+
+   3. a sheet of carbon paper.
+      [PJC]
+
+   4. a carbon copy.
+      [PJC]
+
+   {Carbon compounds}, {Compounds of carbon} (Chem.), those
+      compounds consisting largely of carbon, commonly produced
+      by animals and plants, and hence called organic compounds,
+      though their synthesis may be effected in many cases in
+      the laboratory.
+      [1913 Webster]
+
+            The formation of the compounds of carbon is not
+            dependent upon the life process.      --I. Remsen
+
+   {carbon copy}, originally, a copy of a document made by use
+      of a {carbon paper}, but now used generally to refer to
+      any copy of a document made by a mechanical process, such
+      as xerographic copying.
+
+   {Carbon dioxide}, {Carbon monoxide}. (Chem.) See under
+      {Carbonic}.
+
+   {Carbon light} (Elec.), an extremely brilliant electric light
+      produced by passing a galvanic current through two carbon
+      points kept constantly with their apexes neary in contact.
+      
+
+   {Carbon point} (Elec.), a small cylinder or bit of gas carbon
+      moved forward by clockwork so that, as it is burned away
+      by the electric current, it shall constantly maintain its
+      proper relation to the opposing point.
+
+   {Carbon paper}, a thin type of paper coated with a
+      dark-colored waxy substance which can be transferred to
+      another sheet of paper underneath it by pressing on the
+      carbon paper. It is used by placing a sheet between two
+      sheets of ordinary writing paper, and then writing or
+      typing on the top sheet, by which process a copy of the
+      writing or typing is transferred to the second sheet
+      below, making a copy without the need for writing or
+      typing a second time. Multiple sheets may be used, with a
+      carbon paper placed above each plain paper to which an
+      impression is to be transferred. In 1997 such paper was
+      still used, particularly to make multiple copies of
+      filled-in purchase invoice forms, but in most applications
+      this technique has been superseded by the more faithful
+      xerographic reproduction and computerized printing
+      processes.
+
+   {Carbon tissue}, paper coated with gelatine and pigment, used
+      in the autotype process of photography. --Abney.
+
+   {Gas carbon}, a compact variety of carbon obtained as an
+      incrustation on the interior of gas retorts, and used for
+      the manufacture of the carbon rods of pencils for the
+      voltaic, arc, and for the plates of voltaic batteries,
+      etc.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>carbon</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>carbon
+     n 1: an abundant nonmetallic tetravalent element occurring in
+          three allotropic forms: amorphous carbon and graphite
+          and diamond; occurs in all organic compounds [syn: {C},
+          {atomic number 6}]
+     2: a thin paper coated on one side with a dark waxy substance
+        (often containing carbon); used to transfer characters
+        from the original to an under sheet of paper [syn: {carbon
+        paper}]
+     3: a copy made with carbon paper [syn: {carbon copy}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pottery</Word>
+  <Definitions>
+    <Definition>
+      <Word>pottery</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Pottery
+   the art of, was early practised among all nations. Various
+   materials seem to have been employed by the potter. Earthenware
+   is mentioned in connection with the history of Melchizedek (Gen.
+   14:18), of Abraham (18:4-8), of Rebekah (27:14), of Rachel
+   (29:2, 3, 8, 10). The potter's wheel is mentioned by Jeremiah
+   (18:3). See also 1 Chr. 4:23; Ps. 2:9; Isa. 45:9; 64:8; Jer.
+   19:1; Lam. 4:2; Zech. 11:13; Rom. 9:21.
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pottery</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pottery \Pot"ter*y\, n.; pl. {Potteries}. [F. poterie, fr. pot.
+   See {Pot}.]
+   1. The vessels or ware made by potters; earthenware, glazed
+      and baked.
+      [1913 Webster]
+
+   2. The place where earthen vessels are made.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pottery</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pottery
+     n 1: ceramic ware made from clay and baked in a kiln [syn: {clayware}]
+     2: the craft of making earthenware
+     3: a workshop where clayware is made
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

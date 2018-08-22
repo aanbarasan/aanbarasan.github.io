@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>infinite</Word>
+  <Definitions>
+    <Definition>
+      <Word>infinite</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>infinite
+     
+        &lt;mathematics&gt; 1. Bigger than any {natural number}.  There are
+        various formal set definitions in {set theory}: a set X is
+        infinite if
+     
+        (i) There is a bijection between X and a proper subset of X.
+     
+        (ii) There is an injection from the set N of natural numbers
+        to X.
+     
+        (iii) There is an injection from each natural number n to X.
+     
+        These definitions are not necessarily equivalent unless we
+        accept the {Axiom of Choice}.
+     
+        2. The length of a line extended indefinitely.
+     
+        See also {infinite loop}, {infinite set}.
+     
+        [{Jargon File}]
+     
+        (1995-03-29)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>infinite</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Infinite \In"fi*nite\, a. [L. infinitus: cf. F. infini. See
+   {In-} not, and {Finite}.]
+   [1913 Webster]
+   1. Unlimited or boundless, in time or space; as, infinite
+      duration or distance.
+      [1913 Webster]
+
+            Whatever is finite, as finite, will admit of no
+            comparative relation with infinity; for whatever is
+            less than infinite is still infinitely distant from
+            infinity; and lower than infinite distance the
+            lowest or least can not sink.         --H. Brooke.
+      [1913 Webster]
+
+   2. Without limit in power, capacity, knowledge, or
+      excellence; boundless; immeasurably or inconceivably
+      great; perfect; as, the infinite wisdom and goodness of
+      God; -- opposed to {finite}.
+      [1913 Webster]
+
+            Great is our Lord, and of great power; his
+            understanding is infinite.            --Ps. cxlvii.
+                                                  5.
+      [1913 Webster]
+
+            O God, how infinite thou art!         --I. Watts.
+      [1913 Webster]
+
+   3. Indefinitely large or extensive; great; vast; immense;
+      gigantic; prodigious.
+      [1913 Webster]
+
+            Infinite riches in a little room.     --Marlowe.
+      [1913 Webster]
+
+            Which infinite calamity shall cause
+            To human life.                        --Milton.
+      [1913 Webster]
+
+   4. (Math.) Greater than any assignable quantity of the same
+      kind; -- said of certain quantities.
+      [1913 Webster]
+
+   5. (Mus.) Capable of endless repetition; -- said of certain
+      forms of the canon, called also {perpetual fugues}, so
+      constructed that their ends lead to their beginnings, and
+      the performance may be incessantly repeated. --Moore
+      (Encyc. of Music).
+
+   Syn: Boundless; immeasurable; illimitable; interminable;
+        limitless; unlimited; endless; eternal.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>infinite</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Infinite \In"fi*nite\, n.
+   1. That which is infinite; boundless space or duration;
+      infinity; boundlessness.
+      [1913 Webster]
+
+            Not till the weight is heaved from off the air, and
+            the thunders roll down the horizon, will the serene
+            light of God flow upon us, and the blue infinite
+            embrace us again.                     --J.
+                                                  Martineau.
+      [1913 Webster]
+
+   2. (Math.) An infinite quantity or magnitude.
+      [1913 Webster]
+
+   3. An infinity; an incalculable or very great number.
+      [1913 Webster]
+
+            Glittering chains, embroidered richly o'er
+            With infinite of pearls and finest gold. --Fanshawe.
+      [1913 Webster]
+
+   4. The Infinite Being; God; the Almighty.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>infinite</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>infinite adj. [common] Consisting of a large number of objects;
+   extreme. Used very loosely as in: "This program produces infinite
+   garbage." "He is an infinite loser." The word most likely to follow
+   `infinite', though, is {hair}. (It has been pointed out that fractals
+   are an excellent example of infinite hair.) These uses are abuses of the
+   word's mathematical meaning. The term `semi-infinite', denoting an
+   immoderately large amount of some resource, is also heard. "This
+   compiler is taking a semi-infinite amount of time to optimize my
+   program." See also {semi}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>infinite</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>infinite
+     adj 1: having no limits or boundaries in time or space or extent or
+            magnitude; "the infinite ingenuity of man"; "infinite
+            wealth" [ant: {finite}]
+     2: of verbs; having neither person nor number nor mood (as a
+        participle or gerund or infinitive); "infinite verb form"
+        [syn: {non-finite}] [ant: {finite}]
+     3: too numerous to be counted; "incalculable riches";
+        "countless hours"; "an infinite number of reasons";
+        "innumerable difficulties"; "the multitudinous seas";
+        "myriad stars"; "untold thousands" [syn: {countless}, {innumerable},
+         {innumerous}, {myriad(a)}, {multitudinous}, {numberless},
+         {uncounted}, {unnumberable}, {unnumbered}, {unnumerable}]
+     4: total and all-embracing; "God's infinite wisdom"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lactose</Word>
+  <Definitions>
+    <Definition>
+      <Word>lactose</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Galactose \Ga*lac"tose\, n. (Chem.)
+   A white, crystalline sugar, {C6H12O6}, isomeric with
+   dextrose, obtained by the decomposition of milk sugar, and
+   also from certain gums. When oxidized it forms mucic acid.
+   Called also {lactose} (though it is not lactose proper).
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lactose</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>lactose \lac"tose`\ (l[a^]k"t[=o]s`), n.
+   1. (Physiol. Chem.) The main sugar present in milk, called
+      also {sugar of milk} or {milk sugar}. When isolated pure
+      it is obtained crystalline; it is separable from the whey
+      by evaporation and crystallization. It is a disaccharide
+      with the formula {C12H22O11}, being chemically
+      4-([beta]-D-galactosido)-D-glucose. It has a slightly
+      sweet taste, is dextrorotary, and is much less soluble in
+      water than either cane sugar or glucose. Formerly called
+      {lactin}. When hydrolyzed it yields glucose and galactose.
+      In cells it may be hydrolyzed by the enzyme
+      [beta]-galactosidase.
+      [1913 Webster +PJC]
+
+   2. (Chem.) See {Galactose}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lactose</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>lactose
+     n : a sugar comprising one glucose molecule linked to a
+         galactose molecule; occurs only in milk; "cow's milk
+         contains about 4.7% lactose" [syn: {milk sugar}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

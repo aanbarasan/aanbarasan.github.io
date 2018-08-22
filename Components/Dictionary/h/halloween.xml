@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>halloween</Word>
+  <Definitions>
+    <Definition>
+      <Word>halloween</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Halloween \Hal`low*een"\ (h[a^]l`l[-o]*[=e]n"), n.
+   The evening preceding Allhallows or All Saints' Day (November
+   1); also the entire day, October 31. It is often marked by
+   parties or celebrations, and sometimes by pranks played by
+   young people. [Scot.] --Burns.
+
+   Syn: Hallowe'en, Allhallows Eve.
+        [1913 Webster + WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>halloween</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Hallowe'en
+     n : the evening before All Saints' Day; often devoted to pranks
+         played by young people [syn: {Halloween}, {Allhallows Eve}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>halloween</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Halloween
+     n : the evening before All Saints' Day; often devoted to pranks
+         played by young people [syn: {Hallowe'en}, {Allhallows
+         Eve}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

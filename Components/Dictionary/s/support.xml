@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>support</Word>
+  <Definitions>
+    <Definition>
+      <Word>support</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>support
+     
+        After-sale handholding; something many software vendors
+        promise but few deliver.  To hackers, most support people are
+        useless - because by the time a hacker calls support he or she
+        will usually know the software and the relevant manuals better
+        than the support people (sadly, this is *not* a joke or
+        exaggeration).  A hacker's idea of "support" is a t�te-�-t�te
+        or exchange of {electronic mail} with the software's designer.
+     
+        [{Jargon File}]
+     
+        (1995-02-15)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>support</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Support \Sup*port"\, v. t. [imp. &amp; p. p. {Supported}; p. pr. &amp;
+   vb. n. {Supporting}.] [F. supporter, L. supportare to carry
+   on, to convey, in LL., to support, sustain; sub under +
+   portare to carry. See {Port} demeanor.]
+   1. To bear by being under; to keep from falling; to uphold;
+      to sustain, in a literal or physical sense; to prop up; to
+      bear the weight of; as, a pillar supports a structure; an
+      abutment supports an arch; the trunk of a tree supports
+      the branches.
+      [1913 Webster]
+
+   2. To endure without being overcome, exhausted, or changed in
+      character; to sustain; as, to support pain, distress, or
+      misfortunes.
+      [1913 Webster]
+
+            This fierce demeanor and his insolence
+            The patience of a god could not support. --Dryden.
+      [1913 Webster]
+
+   3. To keep from failing or sinking; to solace under affictive
+      circumstances; to assist; to encourage; to defend; as, to
+      support the courage or spirits.
+      [1913 Webster]
+
+   4. To assume and carry successfully, as the part of an actor;
+      to represent or act; to sustain; as, to support the
+      character of King Lear.
+      [1913 Webster]
+
+   5. To furnish with the means of sustenance or livelihood; to
+      maintain; to provide for; as, to support a family; to
+      support the ministers of the gospel.
+      [1913 Webster]
+
+   6. To carry on; to enable to continue; to maintain; as, to
+      support a war or a contest; to support an argument or a
+      debate.
+      [1913 Webster]
+
+   7. To verify; to make good; to substantiate; to establish; to
+      sustain; as, the testimony is not sufficient to support
+      the charges; the evidence will not support the statements
+      or allegations.
+      [1913 Webster]
+
+            To urge such arguments, as though they were
+            sufficient to support and demonstrate a whole scheme
+            of moral philosophy.                  --J. Edwards.
+      [1913 Webster]
+
+   8. To vindicate; to maintain; to defend successfully; as, to
+      be able to support one's own cause.
+      [1913 Webster]
+
+   9. To uphold by aid or countenance; to aid; to help; to back
+      up; as, to support a friend or a party; to support the
+      present administration.
+      [1913 Webster]
+
+            Wherefore, bold pleasant,
+            Darest thou support a published traitor? --Shak.
+      [1913 Webster]
+
+   10. A attend as an honorary assistant; as, a chairman
+       supported by a vice chairman; O'Connell left the prison,
+       supported by his two sons.
+       [1913 Webster]
+
+   {Support arms} (Mil.), a command in the manual of arms in
+      responce to which the piece is held vertically at the
+      shoulder, with the hammer resting on the left forearm,
+      which is passed horizontally across the body in front;
+      also, the position assumed in response to this command.
+      [1913 Webster]
+
+   Syn: To maintain; endure; verify; substantiate; countenance;
+        patronize; help; back; second; succor; relieve; uphold;
+        encourage; favor; nurture; nourish; cherish; shield;
+        defend; protect; stay; assist; forward.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>support</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Support \Sup*port"\, n. [F.]
+   1. The act, state, or operation of supporting, upholding, or
+      sustaining.
+      [1913 Webster]
+
+   2. That which upholds, sustains, or keeps from falling, as a
+      prop, a pillar, or a foundation of any kind.
+      [1913 Webster]
+
+   3. That which maintains or preserves from being overcome,
+      falling, yielding, sinking, giving way, or the like;
+      subsistence; maintenance; assistance; re["e]nforcement;
+      as, he gave his family a good support, the support of
+      national credit; the assaulting column had the support of
+      a battery.
+      [1913 Webster]
+
+   {Points of support} (Arch.), the horizontal area of the
+      solids of a building, walls, piers, and the like, as
+      compared with the open or vacant spaces.
+
+   {Right of support} (Law), an easement or servitude by which
+      the owner of a house has a right to rest his timber on the
+      walls of his neighbor's house. --Kent.
+      [1913 Webster]
+
+   Syn: Stay; prop; maintenance; subsistence; assistance; favor;
+        countenance; encouragement; patronage; aid; help;
+        succor; nutriment; sustenance; food.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>support</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>support n. After-sale handholding; something many software vendors
+   promise but few deliver. To hackers, most support people are useless --
+   because by the time a hacker calls support he or she will usually know
+   the software and the relevant manuals better than the support people
+   (sadly, this is _not_ a joke or exaggeration). A hacker's idea of
+   `support' is a te^te-a`-te^te with the software's designer.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>support</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>support
+     n 1: the activity of providing for or maintaining by supplying
+          with money or necessities; "his support kept the family
+          together"; "they gave him emotional support during
+          difficult times"
+     2: aiding the cause or policy or interests of; "the president
+        no longer had the support of his own party"; "they
+        developed a scheme of mutual support"
+     3: something providing immaterial support or assistance to a
+        person or cause or interest; "the policy found little
+        public support"; "his faith was all the support he
+        needed"; "the team enjoyed the support of their fans"
+     4: a military operation (often involving new supplies of men
+        and materiel) to strengthen a military force or aid in the
+        performance of its mission; "they called for artillery
+        support" [syn: {reinforcement}, {reenforcement}]
+     5: documentary validation; "his documentation of the results
+        was excellent"; "the strongest support for this this view
+        is the work of Jones" [syn: {documentation}]
+     6: the financial means whereby one lives; "each child was
+        expected to pay for their keep"; "he applied to the state
+        for support"; "he could no longer earn his own livelihood"
+        [syn: {keep}, {livelihood}, {living}, {bread and butter},
+        {sustenance}]
+     7: supporting structure that holds up or provides a foundation;
+        "the statue stood on a marble support"
+     8: the act of bearing the weight of or strengthening; "he
+        leaned against the wall for support" [syn: {supporting}]
+     9: a subordinate musical part; provides background for more
+        important parts [syn: {accompaniment}, {musical
+        accompaniment}, {backup}]
+     10: any device that bears the weight of another thing; "there
+         was no place to attach supports for a shelf"
+     11: financial resources provided to make some project possible;
+         "the foundation provided support for the experiment"
+         [syn: {financial support}, {funding}, {backing}, {financial
+         backing}]
+     v 1: give moral or psychological support, aid, or courage to;
+          "She supported him during the illness"; "Her children
+          always backed her up" [syn: {back up}]
+     2: support materially or financially; "he does not support his
+        natural children"; "The scholarship supported me when I
+        was in college"
+     3: be behind; approve of; "He plumped for the Labor Party"; "I
+        backed Kennedy in 1960" [syn: {back}, {endorse}, {indorse},
+         {plump for}, {plunk for}]
+     4: be the physical support of; carry the weight of; "The beam
+        holds up the roof"; "He supported me with one hand while I
+        balanced on the beam"; "What's holding that mirror?" [syn:
+         {hold}, {sustain}, {hold up}]
+     5: establish or strengthen as with new evidence or facts; "his
+        story confirmed my doubts"; "The evidence supports the
+        defendant" [syn: {confirm}, {corroborate}, {sustain}, {substantiate},
+         {affirm}] [ant: {negate}]
+     6: adopt as a belief; "I subscribe to your view on abortion"
+        [syn: {subscribe}]
+     7: support with evidence or authority or make more certain or
+        confirm; "The stories and claims were born out by the
+        evidence" [syn: {corroborate}, {underpin}, {bear out}]
+     8: argue or speak in defense of; "She supported the motion to
+        strike" [syn: {defend}, {fend for}]
+     9: play a subordinate role to (another performer); "Olivier
+        supported Gielgud beautifully in the second act"
+     10: be a regular customer or client of; "We patronize this
+         store"; "Our sponsor kept our art studio going for as
+         long as he could" [syn: {patronize}, {patronise}, {patronage},
+          {keep going}]
+     11: put up with something or somebody unpleasant; "I cannot bear
+         his constant criticism"; "The new secretary had to endure
+         a lot of unprofessional remarks"; "he learned to tolerate
+         the heat"; "She stuck out two years in a miserable
+         marriage" [syn: {digest}, {endure}, {stick out}, {stomach},
+          {bear}, {stand}, {tolerate}, {brook}, {abide}, {suffer},
+          {put up}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>subject</Word>
+  <Definitions>
+    <Definition>
+      <Word>subject</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>subject
+     
+        &lt;programming&gt; In {subject-oriented programming}, a subject is
+        a collection of {classes} or class fragments whose {class
+        hierarchy} models its domain in its own, subjective way.  A
+        subject may be a complete application in itself, or it may be
+        an incomplete fragment that must be composed with other
+        subjects to produce a complete application.  Subject
+        composition combines class hierarchies to produce new subjects
+        that incorporate functionality from existing subjects.
+     
+        (1999-08-31)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>subject</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Subject \Sub*ject"\, a. [OE. suget, OF. souzget, sougit (in
+   which the first part is L. subtus below, fr. sub under),
+   subgiet, subject, F. sujet, from L. subjectus lying under,
+   subjected, p. p. of subjicere, subicere, to throw, lay,
+   place, or bring under; sub under + jacere to throw. See {Jet}
+   a shooting forth.]
+   1. Placed or situated under; lying below, or in a lower
+      situation. [Obs.] --Spenser.
+      [1913 Webster]
+
+   2. Placed under the power of another; specifically
+      (International Law), owing allegiance to a particular
+      sovereign or state; as, Jamaica is subject to Great
+      Britain.
+      [1913 Webster]
+
+            Esau was never subject to Jacob.      --Locke.
+      [1913 Webster]
+
+   3. Exposed; liable; prone; disposed; as, a country subject to
+      extreme heat; men subject to temptation.
+      [1913 Webster]
+
+            All human things are subject to decay. --Dryden.
+      [1913 Webster]
+
+   4. Obedient; submissive.
+      [1913 Webster]
+
+            Put them in mind to be subject to principalities.
+                                                  --Titus iii.
+                                                  1.
+      [1913 Webster]
+
+   Syn: Liable; subordinate; inferior; obnoxious; exposed. See
+        {Liable}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>subject</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Subject \Sub*ject"\, n. [From L. subjectus, through an old form
+   of F. sujet. See {Subject}, a.]
+   1. That which is placed under the authority, dominion,
+      control, or influence of something else.
+      [1913 Webster]
+
+   2. Specifically: One who is under the authority of a ruler
+      and is governed by his laws; one who owes allegiance to a
+      sovereign or a sovereign state; as, a subject of Queen
+      Victoria; a British subject; a subject of the United
+      States.
+      [1913 Webster]
+
+            Was never subject longed to be a king,
+            As I do long and wish to be a subject. --Shak.
+      [1913 Webster]
+
+            The subject must obey his prince, because God
+            commands it, human laws require it.   --Swift.
+      [1913 Webster]
+
+   Note: In international law, the term subject is convertible
+         with citizen.
+         [1913 Webster]
+
+   3. That which is subjected, or submitted to, any physical
+      operation or process; specifically (Anat.), a dead body
+      used for the purpose of dissection.
+      [1913 Webster]
+
+   4. That which is brought under thought or examination; that
+      which is taken up for discussion, or concerning which
+      anything is said or done. ``This subject for heroic
+      song.'' --Milton.
+      [1913 Webster]
+
+            Make choice of a subject, beautiful and noble, which
+            . . . shall afford an ample field of matter wherein
+            to expatiate.                         --Dryden.
+      [1913 Webster]
+
+            The unhappy subject of these quarrels. --Shak.
+      [1913 Webster]
+
+   5. The person who is treated of; the hero of a piece; the
+      chief character.
+      [1913 Webster]
+
+            Writers of particular lives . . . are apt to be
+            prejudiced in favor of their subject. --C.
+                                                  Middleton.
+      [1913 Webster]
+
+   6. (Logic &amp; Gram.) That of which anything is affirmed or
+      predicated; the theme of a proposition or discourse; that
+      which is spoken of; as, the nominative case is the subject
+      of the verb.
+      [1913 Webster]
+
+            The subject of a proposition is that concerning
+            which anything is affirmed or denied. --I. Watts.
+      [1913 Webster]
+
+   7. That in which any quality, attribute, or relation, whether
+      spiritual or material, inheres, or to which any of these
+      appertain; substance; substratum.
+      [1913 Webster]
+
+            That which manifests its qualities -- in other
+            words, that in which the appearing causes inhere,
+            that to which they belong -- is called their subject
+            or substance, or substratum.          --Sir W.
+                                                  Hamilton.
+      [1913 Webster]
+
+   8. Hence, that substance or being which is conscious of its
+      own operations; the mind; the thinking agent or principal;
+      the ego. Cf. {Object}, n., 2.
+      [1913 Webster]
+
+            The philosophers of mind have, in a manner, usurped
+            and appropriated this expression to themselves.
+            Accordingly, in their hands, the phrases conscious
+            or thinking subject, and subject, mean precisely the
+            same thing.                           --Sir W.
+                                                  Hamilton.
+      [1913 Webster]
+
+   9. (Mus.) The principal theme, or leading thought or phrase,
+      on which a composition or a movement is based.
+      [1913 Webster]
+
+            The earliest known form of subject is the
+            ecclesiastical cantus firmus, or plain song.
+                                                  --Rockstro.
+      [1913 Webster]
+
+   10. (Fine Arts) The incident, scene, figure, group, etc.,
+       which it is the aim of the artist to represent.
+       [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>subject</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Subject \Sub*ject"\, v. t. [imp. &amp; p. p. {Subjected}; p. pr. &amp;
+   vb. n. {Subjecting}.]
+   1. To bring under control, power, or dominion; to make
+      subject; to subordinate; to subdue.
+      [1913 Webster]
+
+            Firmness of mind that subjects every gratification
+            of sense to the rule of right reason. --C.
+                                                  Middleton.
+      [1913 Webster]
+
+            In one short view subjected to our eye,
+            Gods, emperors, heroes, sages, beauties, lie.
+                                                  --Pope.
+      [1913 Webster]
+
+            He is the most subjected, the most ?nslaved, who is
+            so in his understanding.              --Locke.
+      [1913 Webster]
+
+   2. To expose; to make obnoxious or liable; as, credulity
+      subjects a person to impositions.
+      [1913 Webster]
+
+   3. To submit; to make accountable.
+      [1913 Webster]
+
+            God is not bound to subject his ways of operation to
+            the scrutiny of our thoughts.         --Locke.
+      [1913 Webster]
+
+   4. To make subservient.
+      [1913 Webster]
+
+            Subjected to his service angel wings. --Milton.
+      [1913 Webster]
+
+   5. To cause to undergo; as, to subject a substance to a white
+      heat; to subject a person to a rigid test.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>subject</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>subject
+     adj 1: not exempt from tax; "the gift will be subject to taxation"
+            [syn: {subject(p)}]
+     2:  possibly accepting or permitting; "a passage capable of
+        misinterpretation"; "open to interpretation"; "an issue
+        open to question"; "the time is fixed by the director and
+        players and therefore subject to much variation" [syn: {capable},
+         {open}]
+     3: being under the power or sovereignty of another or others;
+        "subject peoples"; "a dependent prince" [syn: {dependent}]
+     n 1: the subject matter of a conversation or discussion; "he
+          didn't want to discuss that subject"; "it was a very
+          sensitive topic"; "his letters were always on the theme
+          of love" [syn: {topic}, {theme}]
+     2: some situation or event that is thought about; "he kept
+        drifting off the topic"; "he had been thinking about the
+        subject for several years"; "it is a matter for the
+        police" [syn: {topic}, {issue}, {matter}]
+     3: a branch of knowledge; "in what discipline is his
+        doctorate?"; "teachers should be well trained in their
+        subject"; "anthropology is the study of human beings"
+        [syn: {discipline}, {subject area}, {subject field}, {field},
+         {field of study}, {study}, {bailiwick}, {branch of
+        knowledge}]
+     4: something (a person or object or scene) selected by an
+        artist or photographer for graphic representation; "a
+        moving picture of a train is more dramatic than a still
+        picture of the same subject" [syn: {content}, {depicted
+        object}]
+     5: a person who is subjected to experimental or other
+        observational procedures; someone who is an object of
+        investigation; "the subjects for this investigation were
+        selected randomly"; "the cases that we studied were drawn
+        from two different communities" [syn: {case}, {guinea pig}]
+     6: a person who owes allegiance to that nation; "a monarch has
+        a duty to his subjects" [syn: {national}]
+     7: (grammar) one of the two main constituents of a sentence;
+        the grammatical constituent about which something is
+        predicated
+     8: (logic) the first term of a proposition
+     v 1: cause to experience or suffer or make liable or vulnerable
+          to; "He subjected me to his awful poetry"; "The sergeant
+          subjected the new recruits to many drills"; "People in
+          Chernobyl were subjected to radiation"
+     2: make accountable for; "He did not want to subject himself to
+        the judgments of his superiors"
+     3: make subservient; force to submit or subdue [syn: {subjugate}]
+     4: refer for judgment or consideration; "She submitted a
+        proposal to the agency" [syn: {submit}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>person</Word>
+  <Definitions>
+    <Definition>
+      <Word>person</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Person \Per"son\, n. [OE. persone, persoun, person, parson, OF.
+   persone, F. personne, L. persona a mask (used by actors), a
+   personage, part, a person, fr. personare to sound through;
+   per + sonare to sound. See {Per-}, and cf. {Parson}.]
+   1. A character or part, as in a play; a specific kind or
+      manifestation of individual character, whether in real
+      life, or in literary or dramatic representation; an
+      assumed character. [Archaic]
+      [1913 Webster]
+
+            His first appearance upon the stage in his new
+            person of a sycophant or juggler.     --Bacon.
+      [1913 Webster]
+
+            No man can long put on a person and act a part.
+                                                  --Jer. Taylor.
+      [1913 Webster]
+
+            To bear rule, which was thy part
+            And person, hadst thou known thyself aright.
+                                                  --Milton.
+      [1913 Webster]
+
+            How different is the same man from himself, as he
+            sustains the person of a magistrate and that of a
+            friend!                               --South.
+      [1913 Webster]
+
+   2. The bodily form of a human being; body; outward
+      appearance; as, of comely person.
+      [1913 Webster]
+
+            A fair persone, and strong, and young of age.
+                                                  --Chaucer.
+      [1913 Webster]
+
+            If it assume my noble father's person. --Shak.
+      [1913 Webster]
+
+            Love, sweetness, goodness, in her person shined.
+                                                  --Milton.
+      [1913 Webster]
+
+   3. A living, self-conscious being, as distinct from an animal
+      or a thing; a moral agent; a human being; a man, woman, or
+      child.
+      [1913 Webster]
+
+            Consider what person stands for; which, I think, is
+            a thinking, intelligent being, that has reason and
+            reflection.                           --Locke.
+      [1913 Webster]
+
+   4. A human being spoken of indefinitely; one; a man; as, any
+      person present.
+      [1913 Webster]
+
+   5. A parson; the parish priest. [Obs.] --Chaucer.
+      [1913 Webster]
+
+   6. (Theol.) Among Trinitarians, one of the three subdivisions
+      of the Godhead (the Father, the Son, and the Holy Ghost);
+      an hypostasis. ``Three persons and one God.'' --Bk. of
+      Com. Prayer.
+      [1913 Webster]
+
+   7. (Gram.) One of three relations or conditions (that of
+      speaking, that of being spoken to, and that of being
+      spoken of) pertaining to a noun or a pronoun, and thence
+      also to the verb of which it may be the subject.
+      [1913 Webster]
+
+   Note: A noun or pronoun, when representing the speaker, is
+         said to be in the first person; when representing what
+         is spoken to, in the second person; when representing
+         what is spoken of, in the third person.
+         [1913 Webster]
+
+   8. (Biol.) A shoot or bud of a plant; a polyp or zooid of the
+      compound Hydrozoa Anthozoa, etc.; also, an individual, in
+      the narrowest sense, among the higher animals. --Haeckel.
+      [1913 Webster]
+
+            True corms, composed of united person[ae] . . .
+            usually arise by gemmation, . . . yet in sponges and
+            corals occasionally by fusion of several originally
+            distinct persons.                     --Encyc. Brit.
+      [1913 Webster]
+
+   {Artificial person}, or {Fictitious person} (Law), a
+      corporation or body politic; -- this term is used in
+      contrast with {natural person}, a real human being. See
+      also {legal person}. --Blackstone.
+
+   {Legal person} (Law), an individual or group that is allowed
+      by law to take legal action, as plaintiff or defendent. It
+      may include natural persons as well as fictitious persons
+      (such as corporations).
+
+   {Natural person} (Law), a man, woman, or child, in
+      distinction from a corporation.
+
+   {In person}, by one's self; with bodily presence; not by
+      representative. ``The king himself in person is set
+      forth.'' --Shak.
+
+   {In the person of}, in the place of; acting for. --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>person</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Person \Per"son\, v. t.
+   To represent as a person; to personify; to impersonate.
+   [Obs.] --Milton.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>person</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>person
+     n 1: a human being; "there was too much for one person to do"
+          [syn: {individual}, {someone}, {somebody}, {mortal}, {human},
+           {soul}]
+     2: a person's body (usually including their clothing); "a
+        weapon was hidden on his person"
+     3: a grammatical category of pronouns and verb forms; "stop
+        talking about yourself in the third person"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

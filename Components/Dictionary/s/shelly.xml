@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>shelly</Word>
+  <Definitions>
+    <Definition>
+      <Word>shelly</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Shelly, MN (city, FIPS 59566)
+  Location: 47.45752 N, 96.82004 W
+  Population (1990): 225 (114 housing units)
+  Area: 0.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 56581
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>shelly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Shelly \Shell"y\, a.
+   Abounding with shells; consisting of shells, or of a shell.
+   ``The shelly shore.'' --Prior.
+   [1913 Webster]
+
+         Shrinks backward in his shelly cave.     --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

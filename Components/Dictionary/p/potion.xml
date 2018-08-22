@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>potion</Word>
+  <Definitions>
+    <Definition>
+      <Word>potion</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Potion \Po"tion\, n. [L. potio, from potare to drink: cf. F.
+   potion. See {Poison}.]
+   A draught; a dose; usually, a draught or dose of a liquid
+   medicine. --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>potion</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Potion \Po"tion\, v. t.
+   To drug. [Obs.] --Speed.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>potion</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>potion
+     n : a medicinal or magical or poisonous beverage
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

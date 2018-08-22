@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>archduchy</Word>
+  <Definitions>
+    <Definition>
+      <Word>archduchy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Archduchy \Arch`duch"y\, n.
+   The territory of an archduke or archduchess. --Ash.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>archduchy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>archduchy
+     n : the domain controlled by an archduke or archduchess
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

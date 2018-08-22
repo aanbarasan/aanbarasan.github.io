@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ceramic</Word>
+  <Definitions>
+    <Definition>
+      <Word>ceramic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ceramic \Ce*ram"ic\, a. [Gr. ?, fr. ? earthenware. Cf.
+   {Keramic}.]
+   Of or pertaining to pottery; relating to the art of making
+   earthenware; as, ceramic products; ceramic ornaments for
+   ceilings.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ceramic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ceramic
+     adj : of or relating to or made from a ceramic; "a ceramic dish"
+     n : an artifact made of hard brittle material produced from
+         nonmetallic minerals by firing at high temperatures
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

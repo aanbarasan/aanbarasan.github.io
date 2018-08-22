@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>colon</Word>
+  <Definitions>
+    <Definition>
+      <Word>colon</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>colon
+     
+        &lt;character&gt; ":".  {ASCII} character 58.  Common names:
+        {ITU-T}: colon.  Rare: dots; {INTERCAL}: two-spot.
+     
+        (1995-09-25)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>colon</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Colon, MI (village, FIPS 17360)
+  Location: 41.95902 N, 85.32347 W
+  Population (1990): 1224 (588 housing units)
+  Area: 3.6 sq km (land), 0.8 sq km (water)
+  Zip code(s): 49040
+Colon, NC
+  Zip code(s): 27330
+Colon, NE (village, FIPS 10005)
+  Location: 41.29776 N, 96.60645 W
+  Population (1990): 128 (54 housing units)
+  Area: 0.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 68018
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>colon</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Condor \Con"dor\ (k[o^]n"d[o^]r; in defs. 2 &amp; 3, k[-o]n"d[-o]r),
+   n. [Sp. condor, fr. Peruvian cuntur.]
+   1. (Zo["o]l.) A very large bird of the Vulture family
+      ({Sarcorhamphus gryphus}), found in the most elevated
+      parts of the Andes.
+      [1913 Webster]
+
+   2. (Zo["o]l.) The California vulture ({Gymnogyps
+      californianus}), also called {California condor}. [Local,
+      U. S.]
+
+   Note: In the late 20th century it is classed as an endangered
+         species. The California condor used to number in the
+         thousands and ranged along the entire west coast of the
+         United States. By 1982 only 21 to 24 individuals could
+         be identified in the wild. A breeding program was
+         instituted, and by 1996 over 50 birds were alive in
+         captivity. As of 1997, fewer than ten of the bred birds
+         had been reintroduced into the wild.
+         [Webster 1913 Suppl. +PJC]
+
+   3. A gold coin of Chile, bearing the figure of a condor, and
+      equal to twenty pesos. It contains 10.98356 grams of gold,
+      and is equivalent to about $7.29. Called also {colon}.
+      [Webster 1913 Suppl.]
+
+   4. A gold coin of Colombia equivalent to about $9.65. It is
+      no longer coined.
+      [Webster 1913 Suppl.] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>colon</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Colon \Co"lon\ (k[=o]"l[o^]n), n. [L. colon, colum, limb,
+   member, the largest of the intestines, fr. Gr. kw^lon, and in
+   sense of the intestine, ko`lon: cf. F. colon. Cf. {Colic}.]
+   1. (Anat.) That part of the large intestines which extends
+      from the c[ae]cum to the rectum.
+
+   Note: [See Illust. of {Digestion}.]
+         [1913 Webster]
+
+   2. (Gram.) A point or character, formed thus [:], used to
+      separate parts of a sentence that are complete in
+      themselves and nearly independent, often taking the place
+      of a conjunction.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>colon</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>colon
+     n 1: the part of the large intestine between the cecum and the
+          rectum; it extracts moisture from food residues before
+          they are excreted
+     2: the basic unit of money in El Salvador; equal to 100
+        centavos [syn: {El Salvadoran colon}]
+     3: the basic unit of money in Costa Rica; equal to 100 centimos
+        [syn: {Costa Rican colon}]
+     4: a port city at the Caribbean entrance to the Panama Canal
+        [syn: {Aspinwall}]
+     5: a punctuation mark (:) used after a word introducing a
+        series or an example or an explanation (or after the
+        salutation of a business letter)
+     [also: {colones} (pl), {cola} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

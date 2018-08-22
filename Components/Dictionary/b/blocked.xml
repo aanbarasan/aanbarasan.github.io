@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>blocked</Word>
+  <Definitions>
+    <Definition>
+      <Word>blocked</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Block \Block\ (bl[o^]k), v. t. [imp. &amp; p. p. {Blocked}
+   (bl[o^]kt); p. pr. &amp; vb. n. {Blocking}.] [Cf. F. bloquer, fr.
+   bloc block. See {Block}, n.]
+   1. To obstruct so as to prevent passage or progress; to
+      prevent passage from, through, or into, by obstructing the
+      way; -- used both of persons and things; -- often followed
+      by up; as, to block up a road or harbor; to block an
+      entrance.
+      [1913 Webster]
+
+            With moles . . . would block the port. --Rowe.
+      [1913 Webster]
+
+            A city . . . besieged and blocked about. --Milton.
+      [1913 Webster]
+
+   2. To secure or support by means of blocks; to secure, as two
+      boards at their angles of intersection, by pieces of wood
+      glued to each.
+      [1913 Webster]
+
+   3. To shape on, or stamp with, a block; as, to block a hat.
+      [1913 Webster]
+
+   4. to cause (any activity) to halt by creating an
+      obstruction; as, to block a nerve impulse; to block a
+      biochemical reaction with a drug.
+      [PJC]
+
+   {To block out}, to begin to reduce to shape; to mark out
+      roughly; to lay out; to outline; as, to block out a plan.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>blocked</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>blocked \blocked\ adj.
+   1. closed to traffic. Traffic was blocked by an overturned
+      tractor-trailor
+
+   Syn: out of use(predicate).
+        [WordNet 1.5]
+
+   2. at a complete standstill because of opposition of two
+      unrelenting forces or factions.
+
+   Syn: deadlocked, stalemated.
+        [WordNet 1.5]
+
+   3. unusable because of some obstruction.
+      [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>blocked</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>blocked
+     adj 1: closed to traffic; "the repaving results in many blocked
+            streets" [syn: {out of use(p)}]
+     2: completely obstructed or closed off; "the storm was
+        responsible for many blocked roads and bridges"; "the
+        drain was plugged" [syn: {plugged}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>theater</Word>
+  <Definitions>
+    <Definition>
+      <Word>theater</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Theater \The"a*ter\, Theatre \The"a*tre\, n. [F. th['e][^a]tre,
+   L. theatrum, Gr. ?, fr. ? to see, view; cf. Skr. dhy[=a] to
+   meditate, think. Cf. {Theory}.]
+   1. An edifice in which dramatic performances or spectacles
+      are exhibited for the amusement of spectators; anciently
+      uncovered, except the stage, but in modern times roofed.
+      [1913 Webster]
+
+   2. Any room adapted to the exhibition of any performances
+      before an assembly, as public lectures, scholastic
+      exercises, anatomical demonstrations, surgical operations,
+      etc.
+      [1913 Webster]
+
+   3. That which resembles a theater in form, use, or the like;
+      a place rising by steps or gradations, like the seats of a
+      theater. --Burns.
+      [1913 Webster]
+
+            Shade above shade, a woody theater
+            Of stateliest view.                   --Milton.
+      [1913 Webster]
+
+   4. A sphere or scheme of operation. [Obs.]
+      [1913 Webster]
+
+            For if a man can be partaker of God's theater, he
+            shall likewise be partaker of God's rest. --Bacon.
+      [1913 Webster]
+
+   5. A place or region where great events are enacted; as, the
+      theater of war.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>theater</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>theater
+     n 1: a building where theatrical performances or motion-picture
+          shows can be presented; "the house was full" [syn: {theatre},
+           {house}]
+     2: the art of writing and producing plays [syn: {dramaturgy}, {dramatic
+        art}, {dramatics}, {theatre}]
+     3: a region in which active military operations are in
+        progress; "the army was in the field awaiting action"; "he
+        served in the Vietnam theater for three years" [syn: {field},
+         {field of operations}, {theater of operations}, {theatre},
+         {theatre of operations}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

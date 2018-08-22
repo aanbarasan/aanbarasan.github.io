@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>metaphor</Word>
+  <Definitions>
+    <Definition>
+      <Word>metaphor</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>metaphor \met"a*phor`\ (m[e^]t"[.a]*f[^o]r` or
+   m[e^]t"[.a]*f[~e]r), n. [F. m['e]taphore, L. metaphora, fr.
+   Gr. metafora`, fr. metafe`rein to carry over, transfer; meta`
+   beyond, over + fe`rein to bring, bear.] (Rhet.)
+   The transference of the relation between one set of objects
+   to another set for the purpose of brief explanation; a
+   compressed simile; e. g., the ship plows the sea. --Abbott &amp;
+   Seeley. ``All the world's a stage.'' --Shak.
+   [1913 Webster]
+
+   Note: The statement, ``that man is a fox,'' is a metaphor;
+         but ``that man is like a fox,'' is a simile,
+         similitude, or comparison.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>metaphor</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>metaphor
+     n : a figure of speech in which an expression is used to refer
+         to something that it does not literally denote in order
+         to suggest a similarity
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

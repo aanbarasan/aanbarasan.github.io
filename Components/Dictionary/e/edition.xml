@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>edition</Word>
+  <Definitions>
+    <Definition>
+      <Word>edition</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Edition \E*di"tion\, n. [L. editio, fr. edere to publish; cf. F.
+   ['e]dition. See {Edit}.]
+   1. A literary work edited and published, as by a certain
+      editor or in a certain manner; as, a good edition of
+      Chaucer; Chalmers' edition of Shakespeare.
+      [1913 Webster]
+
+   2. The whole number of copies of a work printed and published
+      at one time; as, the first edition was soon sold.
+      [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>edition</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>edition
+     n 1: the form in which a text (especially a printed book) is
+          published
+     2: all of the identical copies of something offered to the
+        public at the same time; "the first edition appeared in
+        1920"; "it was too late for the morning edition"; "they
+        issued a limited edition of Bach recordings"
+     3: an issue of a newspaper; "he read it in yesterday's edition
+        of the Times"
+     4: something a little different from others of the same type;
+        "an experimental version of the night fighter"; "an emery
+        wheel is a modern variant of the grindstone"; "the boy is
+        a younger edition of his father" [syn: {version}, {variant},
+         {variation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

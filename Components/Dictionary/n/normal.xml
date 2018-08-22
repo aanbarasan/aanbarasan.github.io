@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>normal</Word>
+  <Definitions>
+    <Definition>
+      <Word>normal</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Normal, IL (town, FIPS 53234)
+  Location: 40.51737 N, 88.99941 W
+  Population (1990): 40023 (12300 housing units)
+  Area: 31.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 61761
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>normal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Normal \Nor"mal\ (n[^o]r"mal), n. [Cf. F. normale, ligne
+   normale. See {Normal}, a.]
+   1. (Geom.) Any perpendicular.
+      [1913 Webster]
+
+   2. (Geom.) A straight line or plane drawn from any point of a
+      curve or surface so as to be perpendicular to the curve or
+      surface at that point.
+      [1913 Webster]
+
+   Note: The term normal is also used to denote the distance
+         along the normal line from the curve to the axis of
+         abscissas or to the center of curvature.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>normal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Normal \Nor"mal\ (n[^o]r"mal), a. [L. normalis, fr. norma rule,
+   pattern, carpenter's square; prob. akin to noscere to know;
+   cf. Gr. gnw`rimos well known, gnw`mwn gnomon, also,
+   carpenter's square: cf. F. normal. See {Known}, and cf.
+   {Abnormal}, {Enormous}.]
+   [1913 Webster]
+   1. According to an established norm, rule, or principle;
+      conformed to a type, standard, or regular form; performing
+      the proper functions; not abnormal; regular; natural;
+      analogical.
+      [1913 Webster]
+
+            Deviations from the normal type.      --Hallam.
+      [1913 Webster]
+
+   2. (Geom.) According to a square or rule; perpendicular;
+      forming a right angle; as, a line normal to the base.
+      Specifically: Of or pertaining to a normal.
+      [1913 Webster]
+
+   3. (Chem.) Standard; original; exact; typical. Specifically:
+      (a) (Quantitative Analysis) Denoting a solution of such
+          strength that every cubic centimeter contains the same
+          number of milligrams of the element in question as the
+          number of its molecular weight.
+      (b) (Chem.) Denoting certain hypothetical compounds, as
+          acids from which the real acids are obtained by
+          dehydration; thus, normal sulphuric acid and normal
+          nitric acid are respectively {S(OH)6}, and {N(OH)5}.
+      (c) (Organ. Chem.) Denoting that series of hydrocarbons in
+          which no carbon atom is bound to more than two other
+          carbon atoms; as, normal pentane, hexane, etc. Cf.
+          {Iso-}.
+          [1913 Webster]
+
+   {Normal equations} (Method of Least Squares), a set of
+      equations of the first degree equal in number to the
+      number of unknown quantities, and derived from the
+      observations by a specified process. The solution of the
+      normal equations gives the most probable values of the
+      unknown quantities.
+
+   {Normal group} (Geol.), a group of rocks taken as a standard.
+      --Lyell.
+
+   {Normal place} (of a planet or comet) (Astron.), the apparent
+      place in the heavens of a planet or comet at a specified
+      time, the place having been determined by a considerable
+      number of observations, extending perhaps over many days,
+      and so combined that the accidental errors of observation
+      have largely balanced each other.
+
+   {Normal school}, a school whose methods of instruction are to
+      serve as a model for imitation; an institution for the
+      training of teachers.
+      [1913 Webster]
+
+   Syn: {Normal}, {Regular}, {Ordinary}.
+
+   Usage: Regular and ordinary are popular terms of well-known
+          signification; normal has now a more specific sense,
+          arising out of its use in science. A thing is normal,
+          or in its normal state, when strictly conformed to
+          those principles of its constitution which mark its
+          species or to the standard of a healthy and natural
+          condition. It is {abnormal} when it departs from those
+          principles.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>normal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>normal
+     adj 1: conforming with or constituting a norm or standard or level
+            or type or social norm; not abnormal; "serve wine at
+            normal room temperature"; "normal diplomatic
+            relations"; "normal working hours"; "normal word
+            order"; "normal curiosity"; "the normal course of
+            events" [ant: {abnormal}]
+     2: in accordance with scientific laws [ant: {paranormal}]
+     3: being approximately average or within certain limits in e.g.
+        intelligence and development; "a perfectly normal child";
+        "of normal intelligence"; "the most normal person I've
+        ever met" [ant: {abnormal}]
+     4: forming a right angle
+     n : something regarded as a normative example; "the convention
+         of not naming the main character"; "violence is the rule
+         not the exception"; "his formula for impressing visitors"
+         [syn: {convention}, {pattern}, {rule}, {formula}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ninth</Word>
+  <Definitions>
+    <Definition>
+      <Word>ninth</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ninth \Ninth\, a. [From {Nine}; cf. AS. nigo[eth]a.]
+   1. Following the eight and preceding the tenth; coming after
+      eight others.
+      [1913 Webster]
+
+   2. Constituting or being one of nine equal parts into which
+      anything is divided.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ninth</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ninth \Ninth\, n.
+   1. The quotient of one divided by nine; one of nine equal
+      parts of a thing; the next after the eighth.
+      [1913 Webster]
+
+   2. (Mus.)
+      (a) An interval containing an octave and a second.
+      (b) A chord of the dominant seventh with the ninth added.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ninth</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ninth
+     adj : coming next after the eighth and just before the tenth in
+           position [syn: {9th}]
+     n 1: position nine in a countable series of things; "going into
+          the ninth they were a run ahead"
+     2: a ninth part [syn: {one-ninth}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

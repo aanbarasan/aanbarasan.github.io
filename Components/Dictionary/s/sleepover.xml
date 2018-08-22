@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sleepover</Word>
+  <Definitions>
+    <Definition>
+      <Word>sleepover</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sleep over
+     v : stay overnight; "The boy's friends were allowed to sleep
+         over after the birthday party" [syn: {stay over}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sleepover</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sleepover
+     n : an occasion of spending a night away from home or having a
+         guest spend the night in your home (especially as a party
+         for children)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

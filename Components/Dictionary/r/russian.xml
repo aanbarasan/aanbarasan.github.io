@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>russian</Word>
+  <Definitions>
+    <Definition>
+      <Word>russian</Word>
+      <Dictionary>
+        <Id>devils</Id>
+        <Name>THE DEVIL'S DICTIONARY ((C)1911 Released April 15 1993)</Name>
+      </Dictionary>
+      <WordDefinition>RUSSIAN, n.  A person with a Caucasian body and a Mongolian soul.  A
+Tartar Emetic.
+
+
+                                  S
+
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>russian</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Russian \Rus"sian\ (r[u^]sh"an or r[udd]"shan; 277), a.
+   Of or pertaining to Russia, its inhabitants, or language. --
+   n. A native or inhabitant of Russia; the language of Russia.
+
+   {Russian bath}. See under {Bath}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>russian</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Russian
+     adj : of or pertaining to or characteristic of Russia or its
+           people or culture or language; "Russian dancing"
+     n 1: a native or inhabitant of Russia
+     2: the Slavic language that is the official language of Russia
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

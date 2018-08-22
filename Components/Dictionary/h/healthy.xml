@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>healthy</Word>
+  <Definitions>
+    <Definition>
+      <Word>healthy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Healthy \Health"y\ (-[y^]), a. [Compar. {Healthier}
+   (-[i^]*[~e]r); superl. {Healthiest}.]
+   1. Being in a state of health; enjoying health; hale; sound;
+      free from disease; as, a healthy child; a healthy plant.
+      [1913 Webster]
+
+            His mind was now in a firm and healthy state.
+                                                  --Macaulay.
+      [1913 Webster]
+
+   2. Evincing health; as, a healthy pulse; a healthy
+      complexion.
+      [1913 Webster]
+
+   3. Conducive to health; wholesome; salubrious; salutary; as,
+      a healthy exercise; a healthy climate.
+
+   Syn: Vigorous; sound; hale; salubrious; healthful; wholesome;
+        salutary.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>healthy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>healthy
+     adj 1: having or indicating good health in body or mind; free from
+            infirmity or disease; "a rosy healthy baby"; "staying
+            fit and healthy" [ant: {unhealthy}]
+     2: financially secure and functioning well; "a healthy economy"
+     3: promoting health; healthful; "a healthy diet"; "clean
+        healthy air"; "plenty of healthy sleep"; "healthy and
+        normal outlets for youthful energy"; "the salubrious
+        mountain air and water"- C.B.Davis; "carrots are good for
+        you" [syn: {salubrious}, {good for you(p)}]
+     4: physically and mentally sound or healthy; "felt relaxed and
+        fit after their holiday"; "keeps fit with diet and
+        exercise" [syn: {fit}] [ant: {unfit}]
+     5: exercising or showing good judgment; "healthy scepticism";
+        "a healthy fear of rattlesnakes"; "the healthy attitude of
+        French laws"; "healthy relations between labor and
+        management"; "an intelligent solution"; "a sound approach
+        to the problem"; "sound advice"; "no sound explanation for
+        his decision" [syn: {intelligent}, {levelheaded}, {sound}]
+     [also: {healthiest}, {healthier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

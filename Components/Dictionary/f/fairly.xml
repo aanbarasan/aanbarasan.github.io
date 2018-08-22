@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fairly</Word>
+  <Definitions>
+    <Definition>
+      <Word>fairly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fairly \Fair"ly\, adv.
+   1. In a fair manner; clearly; openly; plainly; fully;
+      distinctly; frankly.
+      [1913 Webster]
+
+            Even the nature of Mr. Dimmesdale's disease had
+            never fairly been revealed to him.    --Hawthorne.
+      [1913 Webster]
+
+   2. Favorably; auspiciously; commodiously; as, a town fairly
+      situated for foreign trade.
+      [1913 Webster]
+
+   3. Honestly; properly.
+      [1913 Webster]
+
+            Such means of comfort or even luxury, as lay fairly
+            within their grasp.                   --Hawthorne.
+      [1913 Webster]
+
+   4. Softly; quietly; gently. [Obs.] --Milton.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fairly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fairly
+     adv 1: to a moderately sufficient extent or degree; "the shoes are
+            priced reasonably"; "he is fairly clever with
+            computers"; "they lived comfortably within reason"
+            [syn: {reasonably}, {moderately}, {within reason}, {somewhat},
+             {middling}, {passably}] [ant: {unreasonably}, {unreasonably}]
+     2: in a fair evenhanded manner; "deal fairly with one another"
+        [syn: {fair}, {without favoring one party}, {without
+        favouring one party}, {evenhandedly}]
+     3: in conformity with the rules or laws and without fraud or
+        cheating; "they played fairly" [syn: {fair}, {clean}]
+        [ant: {unfairly}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

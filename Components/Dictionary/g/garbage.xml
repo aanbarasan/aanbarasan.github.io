@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>garbage</Word>
+  <Definitions>
+    <Definition>
+      <Word>garbage</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Garbage \Gar"bage\, v. t.
+   To strip of the bowels; to clean. ``Pilchards . . . are
+   garbaged.'' --Holland.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>garbage</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Garbage \Gar"bage\ (?; 48), n. [OE. also garbash, perh. orig.,
+   that which is purged or cleansed away; cf. OF. garber to make
+   fine, neat, OHG. garawan to make ready, prepare, akin to E.
+   garb dress; or perh. for garbleage, fr. garble; or cf. OF.
+   garbage tax on sheaves, E. garb sheaf.]
+   Offal, as the bowels of an animal or fish; refuse animal or
+   vegetable matter from a kitchen; hence, anything worthless,
+   disgusting, or loathsome. --Grainger.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>garbage</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>garbage
+     n 1: food that is discarded (as from a kitchen) [syn: {refuse}, {food
+          waste}, {scraps}]
+     2: a worthless message [syn: {drivel}]
+     3: a receptacle where garbage is discarded; "she tossed the
+        moldy bread into the garbage"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

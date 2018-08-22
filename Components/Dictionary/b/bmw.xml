@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bmw</Word>
+  <Definitions>
+    <Definition>
+      <Word>bmw</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>BMW \BMW\ n.
+   any automobile manufactured by the German firm BMW AG (from
+   the German Bayerische MotorWerke); -- sometimes referred to
+   colloquially as a {beemer}. [abbrev.]
+   [PJC]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

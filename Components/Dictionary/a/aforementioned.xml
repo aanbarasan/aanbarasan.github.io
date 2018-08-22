@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>aforementioned</Word>
+  <Definitions>
+    <Definition>
+      <Word>aforementioned</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Aforementioned \A*fore"men`tioned\, a.
+   Previously mentioned; before-mentioned. --Addison.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>aforementioned</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>aforementioned
+     adj : being the one previously mentioned or spoken of; "works of
+           all the aforementioned authors"; "said party has denied
+           the charges" [syn: {aforesaid(a)}, {aforementioned(a)},
+            {said(a)}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

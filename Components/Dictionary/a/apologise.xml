@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>apologise</Word>
+  <Definitions>
+    <Definition>
+      <Word>apologise</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>apologise \apologise\ v.
+   1. same as {apologize}.
+
+   Syn: apologize, excuse, justify, rationalize
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>apologise</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>apologise
+     v 1: defend, explain, clear away, or make excuses for by
+          reasoning; "rationalize the child's seemingly crazy
+          behavior"; "he rationalized his lack of success" [syn: {apologize},
+           {excuse}, {justify}, {rationalize}, {rationalise}]
+     2: acknowledge faults or shortcomings or failing; "I apologized
+        for being late"; "He apologized for the many typoes" [syn:
+         {apologize}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

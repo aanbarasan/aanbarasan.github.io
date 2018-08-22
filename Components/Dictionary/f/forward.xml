@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>forward</Word>
+  <Definitions>
+    <Definition>
+      <Word>forward</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>forward
+     
+        &lt;messaging&gt; (verb) To send (a copy of) an {electronic mail}
+        message that you have received on to one or more other
+        {addressees}.  Most e-mail systems can be configured to do
+        this automatically to all or certain messages, e.g. {Unix}
+        {sendmail} looks for a ".forward" file in the recipient's
+        {home directory}.
+     
+        A {mailing list} server (or "{mail exploder}") is designed to
+        forward messages automatically to lists of people.
+     
+        {Unix manual page}: aliases(5).
+     
+        (2000-03-22)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>forward</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Forward \For"ward\, a.
+   1. Near, or at the fore part; in advance of something else;
+      as, the forward gun in a ship, or the forward ship in a
+      fleet.
+      [1913 Webster]
+
+   2. Ready; prompt; strongly inclined; in an ill sense,
+      overready; too hasty.
+      [1913 Webster]
+
+            Only they would that we should remember the poor;
+            the same which I also was forward to do. --Gal. ii.
+                                                  10.
+      [1913 Webster]
+
+            Nor do we find him forward to be sounded. --Shak.
+      [1913 Webster]
+
+   3. Ardent; eager; earnest; in an ill sense, less reserved or
+      modest than is proper; bold; confident; as, the boy is too
+      forward for his years.
+      [1913 Webster]
+
+            I have known men disagreeably forward from their
+            shyness.                              --T. Arnold.
+      [1913 Webster]
+
+   4. Advanced beyond the usual degree; advanced for the season;
+      as, the grass is forward, or forward for the season; we
+      have a forward spring.
+      [1913 Webster]
+
+            The most forward bud
+            Is eaten by the canker ere it blow.   --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>forward</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Forward \For"ward\, v. t. [imp. &amp; p. p. {Forwarded}; p. pr. &amp;
+   vb. n. {Forwarding}.]
+   1. To help onward; to advance; to promote; to accelerate; to
+      quicken; to hasten; as, to forward the growth of a plant;
+      to forward one in improvement.
+      [1913 Webster]
+
+   2. To send forward; to send toward the place of destination;
+      to transmit; as, to forward a letter.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>forward</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Forward \For"ward\, n. [OE., fr. AS. foreweard; fore before +
+   weard a ward. See {Ward}, n.]
+   An agreement; a covenant; a promise. [Obs.]
+   [1913 Webster]
+
+         Tell us a tale anon, as forward is.      --Chaucer.
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>forward</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Forward \For"ward\, Forwards \For"wards\, adv. [AS. forweard,
+   foreweard; for, fore + -weardes; akin to G. vorw["a]rts. The
+   s is properly a genitive ending. See {For}, {Fore}, and
+   {-ward}, {-wards}.]
+   Toward a part or place before or in front; onward; in
+   advance; progressively; -- opposed to backward.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>forward</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>forward
+     adj 1: at or near or directed toward the front; "the forward
+            section of the aircraft"; "a forward plunge down the
+            stairs"; "forward motion" [ant: {backward}]
+     2: moving toward a position ahead; "forward motion"; "the
+        onward course of events" [syn: {onward}]
+     3: used of temperament or behavior; lacking restraint or
+        modesty; "a forward child badly in need of discipline"
+        [ant: {backward}]
+     4: of the transmission gear causing forward movement in a motor
+        vehicle; "in a forward gear" [ant: {reverse}]
+     5: moving forward [syn: {advancing}, {forward-moving}]
+     6: situated at or toward the front; "the fore cabins"; "the
+        forward part of the ship"
+     7: situated in the front; "the forward section of the aircraft"
+     n 1: the person who plays the position of forward on a basketball
+          team
+     2: a position on a basketball team
+     adv 1: at or to or toward the front; "he faced forward"; "step
+            forward"; "she practiced sewing backward as well as
+            frontward on her new sewing machine"; (`forrad' and
+            `forrard' are dialectal variations) [syn: {forwards},
+            {frontward}, {frontwards}, {forrad}, {forrard}] [ant:
+            {back}]
+     2: forward in time or order or degree; "from that time forth";
+        "from the sixth century onward" [syn: {forth}, {onward}]
+     3: toward the future; forward in time; "I like to look ahead in
+        imagination to what the future may bring"; "I look forward
+        to seeing you" [syn: {ahead}] [ant: {back}, {back}]
+     4: in a forward direction; "go ahead"; "the train moved ahead
+        slowly"; "the boat lurched ahead"; "moved onward into the
+        forest"; "they went slowly forward in the mud" [syn: {ahead},
+         {onward}, {onwards}, {forwards}, {forrader}]
+     5: near or toward the bow of a ship or cockpit of a plane; "the
+        captain went fore (or forward) to check the instruments"
+        [syn: {fore}] [ant: {aft}]
+     v : send or ship onward from an intermediate post or station in
+         transit; "forward my mail" [syn: {send on}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

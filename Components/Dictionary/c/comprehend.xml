@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>comprehend</Word>
+  <Definitions>
+    <Definition>
+      <Word>comprehend</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Comprehend \Com`pre*hend"\, v. t. [imp. &amp; p. p. {Comprehended};
+   p. pr. &amp; vb. n. {Comprehending}.] [L. comprehendere,
+   comprehensum; com- + prehendere to grasp, seize; prae before
+   + hendere (used only in comp.). See {Get}, and cf.
+   {Comprise}.]
+   1. To contain; to embrace; to include; as, the states
+      comprehended in the Austrian Empire.
+      [1913 Webster]
+
+            Who hath . . . comprehended the dust of the earth in
+            a measure.                            --Is. xl. 12.
+      [1913 Webster]
+
+   2. To take in or include by construction or implication; to
+      comprise; to imply.
+      [1913 Webster]
+
+            Comprehended all in this one word, Discretion.
+                                                  --Hobbes.
+      [1913 Webster]
+
+            And if there be any other commandment, it is briefly
+            comprehended in this saying.          --Rom. xiii.
+                                                  9.
+      [1913 Webster]
+
+   3. To take into the mind; to grasp with the understanding; to
+      apprehend the meaning of; to understand.
+      [1913 Webster]
+
+            At a loss to comprehend the question. --W. Irwing.
+      [1913 Webster]
+
+            Great things doeth he, which we can not comprehend.
+                                                  --Job. xxxvii.
+                                                  5.
+
+   Syn: To contain; include; embrace; comprise; inclose; grasp;
+        embody; involve; imply; apprehend; imagine; conceive;
+        understand. See {Apprehend}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>comprehend</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>comprehend
+     v 1: get the meaning of something; "Do you comprehend the meaning
+          of this letter?" [syn: {get the picture}, {savvy}, {dig},
+           {grasp}, {compass}, {apprehend}]
+     2: to become aware of through the senses; "I could perceive the
+        ship coming over the horizon" [syn: {perceive}]
+     3: include in scope; include as part of something broader; have
+        as one's sphere or territory; "This group encompasses a
+        wide range of people from different backgrounds"; "this
+        should cover everyone in the group" [syn: {embrace}, {encompass},
+         {cover}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

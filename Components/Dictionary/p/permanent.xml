@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>permanent</Word>
+  <Definitions>
+    <Definition>
+      <Word>permanent</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Permanent \Per"ma*nent\, a. [L. permanens, -entis, p. pr. of
+   permanere to stay or remain to the end, to last; per + manere
+   to remain: cf. F. permanent. See {Per-}, and {Mansion}.]
+   Continuing in the same state, or without any change that
+   destroys form or character; remaining unaltered or unremoved;
+   abiding; durable; fixed; stable; lasting; as, a permanent
+   impression.
+   [1913 Webster]
+
+         Eternity stands permanent and fixed.     --Dryden.
+   [1913 Webster]
+
+   {Permanent gases} (Chem. &amp; Physics), hydrogen, oxygen,
+      nitrogen, and carbon monoxide; -- also called
+      {incondensible gases} or {incoercible gases}, before their
+      liquefaction in 1877. The term is now archaic.
+
+   {Permanent way}, the roadbed and superstructure of a finished
+      railway; -- so called in distinction from the contractor's
+      {temporary way}.
+
+   {Permanent white} (Chem.), barium sulphate ({heavy spar}),
+      used as a white pigment or paint, in distinction from
+      {white lead}, which tarnishes and darkens from the
+      formation of the sulphide.
+      [1913 Webster]
+
+   Syn: Lasting; durable; constant. See {Lasting}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>permanent</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>permanent
+     adj 1: continuing or enduring without marked change in status or
+            condition or place; "permanent secretary to the
+            president"; "permanent address"; "literature of
+            permanent value" [syn: {lasting}] [ant: {impermanent}]
+     2: not capable of being reversed or returned to the original
+        condition; "permanent brain damage"
+     n : a series of waves in the hair made by applying heat and
+         chemicals [syn: {permanent wave}, {perm}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

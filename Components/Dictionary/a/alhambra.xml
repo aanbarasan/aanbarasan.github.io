@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>alhambra</Word>
+  <Definitions>
+    <Definition>
+      <Word>alhambra</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Alhambra, CA (city, FIPS 884)
+  Location: 34.08400 N, 118.13467 W
+  Population (1990): 82106 (29604 housing units)
+  Area: 19.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 91801, 91803
+Alhambra, IL (village, FIPS 737)
+  Location: 38.88755 N, 89.73500 W
+  Population (1990): 709 (226 housing units)
+  Area: 2.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 62001
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>alhambra</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Alhambra \Al*ham"bra\, n. [Ultimately fr. Ar. al the + hamr[=a]
+   red; i. e., the red (sc. house).]
+   The palace of the Moorish kings at Granada.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>alhambra</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Alhambra
+     n : a palace and fortress built in Granada by the Muslims in the
+         Middle Ages
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

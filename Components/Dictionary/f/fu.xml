@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fu</Word>
+  <Definitions>
+    <Definition>
+      <Word>fu</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fu \Fu\, n. [Chin.]
+   A department in China comprising several hsein; also, the
+   chief city of a department; -- often forming the last part of
+   a name; as, Paoting-fu.
+   [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fu</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>-fu [common; generalized from `kung-fu'] Combining form denoting expert
+   practice of a skill. "That's going to take some serious code-fu." First
+   sighted in connection with the GIMP's remote-scripting facility,
+   script-fu, in 1998.
+
+
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

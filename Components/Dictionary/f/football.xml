@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>football</Word>
+  <Definitions>
+    <Definition>
+      <Word>football</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>football \foot"ball`\, n.
+   An inflated ball to be kicked in sport, usually made in India
+   rubber, or a bladder incased in Leather. --Waller.
+   [1913 Webster]
+
+   Note: The American football is an oblate spheroid, with
+         pointed ends. In other countries, the football is the
+         same as a soccer ball. The games played with the two
+         different balls are different. In the United States,
+         the game played with a soccer ball is called soccer.
+         [PJC]
+
+   2. The game played with a football[1], by two opposing teams
+      of players moving the ball between goals at opposite ends
+      of a rectangular playing field. Outside the United States
+      football refers to soccer, and in England, also to rugby,
+      but in the United States the shape of the ball and the
+      rules of the game are different. --Arbuthnot.
+      [1913 Webster +PJC]
+
+   3. Soccer or rugby. [Brit.]
+      [PJC]
+
+   4. [fig.] Something which is treated in a rough manner,
+      usually as part of a dispute; as, a political football.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>football</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>football
+     n 1: any of various games played with a ball (round or oval) in
+          which two teams try to kick or carry or propel the ball
+          into each other's goal [syn: {football game}]
+     2: the inflated oblong ball used in playing American football
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

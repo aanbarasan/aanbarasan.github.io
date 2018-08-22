@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>booster</Word>
+  <Definitions>
+    <Definition>
+      <Word>booster</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Booster
+     
+        A {data-parallel} language.
+     
+        "The Booster Language", E. Paalvast, TR PL 89-ITI-B-18, Inst
+        voor Toegepaste Informatica TNO, Delft, 1989.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>booster</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Booster \Boost"er\ (b[=oo]st"[~e]r), n.
+   1. (Elec.) An instrument for regulating the electro-motive
+      force in an alternating-current circuit; -- so called
+      because used to ``boost'', or raise, the pressure in the
+      circuit.
+      [Webster 1913 Suppl.]
+
+   2. an enthusiastic supporter.
+      [PJC]
+
+   3. the first stage of a multistage rocket, providing all or
+      part of the driving force at lift-off and until the second
+      stage ignites, whether or not the booster stage is
+      detached after the fuel is spent. Also called {booster
+      rocket}. In some cases, a booster has been used to assist
+      the takeoff of airplanes.
+      [PJC]
+
+   4. (Med.) an immunizing medication given after an initial
+      immunizing treatment, to provide increased or extended
+      immunity. Also called {booster dose}. When in the form of
+      an injection, it may be called a {booster shot}.
+      [PJC]
+
+   5. any auxiliary device or part of a device to provide
+      increased power, force, or effectiveness, as with a
+      pumping device.
+      [PJC]
+
+   6. (Mil.) an explosive charge which is more powerful than a
+      primer, used in conjunction with a primer to assure
+      detonation of the main charge. Integrated blasting caps
+      containing separate compartments for primer and booster
+      are used as detonators for certain explosives.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>booster</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>booster
+     n 1: a person who backs a politician or a team etc.; "all their
+          supporters came out for the game"; "they are friends of
+          the library" [syn: {supporter}, {protagonist}, {champion},
+           {admirer}, {friend}]
+     2: someone who is an active supporter and advocate [syn: {promoter},
+         {plugger}]
+     3: a thief who steals goods that are in a store [syn: {shoplifter},
+         {lifter}]
+     4: the first stage of a multistage rocket [syn: {booster rocket},
+         {booster unit}, {multistage rocket}, {takeoff booster}, {takeoff
+        rocket}]
+     5: an additional dose that makes sure the first dose was
+        effective [syn: {booster dose}, {booster shot}, {recall
+        dose}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

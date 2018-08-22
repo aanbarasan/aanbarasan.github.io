@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>raccoon</Word>
+  <Definitions>
+    <Definition>
+      <Word>raccoon</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Raccoon \Rac*coon"\ (r[a^]k*k[=oo]n"), n. [F. raton, prop., a
+   little rat, fr. rat rat, perhaps of German origin. See
+   {Rat}.] (Zo["o]l.)
+   A North American nocturnal carnivore ({Procyon lotor}) allied
+   to the bears, but much smaller, and having a long, full tail,
+   banded with black and gray. Its body is gray, varied with
+   black and white. Called also {coon}, and {mapach}.
+   [1913 Webster]
+
+   {Raccoon dog} (Zo["o]l.), the tanate.
+
+   {Raccoon fox} (Zo["o]l.), the cacomixle.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>raccoon</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>raccoon
+     n 1: the fur of the North American racoon
+     2: an omnivorous nocturnal mammal native to North America and
+        Central America [syn: {racoon}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>chart</Word>
+  <Definitions>
+    <Definition>
+      <Word>chart</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Chart \Chart\ (ch[aum]rt; k[aum]rt Obs.), n. [A doublet of card:
+   cf. F. charte charter, carte card. See {Card}, and cf.
+   {Charter}.]
+   1. A sheet of paper, pasteboard, or the like, on which
+      information is exhibited, esp. when the information is
+      arranged in tabular form; as, an historical chart.
+      [1913 Webster]
+
+   2. A map; esp., a hydrographic or marine map; a map on which
+      is projected a portion of water and the land which it
+      surrounds, or by which it is surrounded, intended
+      especially for the use of seamen; as, the United States
+      Coast Survey charts; the English Admiralty charts.
+      [1913 Webster]
+
+   3. A written deed; a charter.
+      [1913 Webster]
+
+   {Globular chart}, a chart constructed on a globular
+      projection. See under {Globular}.
+
+   {Heliographic chart}, a map of the sun with its spots.
+
+   {Mercator's chart}, a chart constructed on the principle of
+      Mercator's projection. See {Projection}.
+
+   {Plane chart}, a representation of some part of the
+      superficies of the globe, in which its spherical form is
+      disregarded, the meridians being drawn parallel to each
+      other, and the parallels of latitude at equal distances.
+      
+
+   {Selenographic chart}, a map representing the surface of the
+      moon.
+
+   {Topographic chart}, a minute delineation of a limited place
+      or region.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chart</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Chart \Chart\, v. t. [imp. &amp; p. p. {Charted}.]
+   To lay down in a chart; to map; to delineate; as, to chart a
+   coast.
+   [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chart</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>chart
+     n 1: a visual display of information
+     2: a map designed to assist navigation by air or sea
+     v 1: make a chart of; "chart the territory"
+     2: plan in detail; "Bush is charting a course to destroy Saddam
+        Hussein"
+     3: represent by means of a graph; "chart the data" [syn: {graph}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

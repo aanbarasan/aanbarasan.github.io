@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>shared</Word>
+  <Definitions>
+    <Definition>
+      <Word>shared</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Share \Share\, v. t. [imp. &amp; p. p. {Shared}; p. pr. &amp; vb. n.
+   {Sharing}.]
+   1. To part among two or more; to distribute in portions; to
+      divide.
+      [1913 Webster]
+
+            Suppose I share my fortune equally between my
+            children and a stranger.              --Swift.
+      [1913 Webster]
+
+   2. To partake of, use, or experience, with others; to have a
+      portion of; to take and possess in common; as, to share a
+      shelter with another.
+      [1913 Webster]
+
+            While avarice and rapine share the land. --Milton.
+      [1913 Webster]
+
+   3. To cut; to shear; to cleave; to divide. [Obs.]
+      [1913 Webster]
+
+            The shared visage hangs on equal sides. --Dryden.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>shared</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>shared
+     adj 1: have in common; held or experienced in common; "two shared
+            valence electrons forming a bond between adjacent
+            nuclei"; "a shared interest in philately" [ant: {unshared}]
+     2: distributed in portions (often equal) on the basis of a plan
+        or purpose [syn: {divided}, {divided up}, {shared out}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

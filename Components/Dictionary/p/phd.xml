@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>phd</Word>
+  <Definitions>
+    <Definition>
+      <Word>phd</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Ph.D.
+     n : an American doctorate usually based on at least 3 years
+         graduate study and a dissertation; the highest degree
+         awarded by a graduate school [syn: {PhD}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>phd</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>PhD
+     n : an American doctorate usually based on at least 3 years
+         graduate study and a dissertation; the highest degree
+         awarded by a graduate school [syn: {Ph.D.}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

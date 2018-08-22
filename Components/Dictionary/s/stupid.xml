@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>stupid</Word>
+  <Definitions>
+    <Definition>
+      <Word>stupid</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Stupid \Stu"pid\, a. [L. stupidus, fr. stupere to be stupefied:
+   cf. F. stupide.]
+   1. Very dull; insensible; senseless; wanting in
+      understanding; heavy; sluggish; in a state of stupor; --
+      said of persons.
+      [1913 Webster]
+
+            O that men . . . should be so stupid grown . . .
+            As to forsake the living God!         --Milton.
+      [1913 Webster]
+
+            With wild surprise,
+            A moment stupid, motionless he stood. --Thomson.
+      [1913 Webster]
+
+   2. Resulting from, or evincing, stupidity; formed without
+      skill or genius; dull; heavy; -- said of things.
+      [1913 Webster]
+
+            Observe what loads of stupid rhymes
+            Oppress us in corrupted times.        --Swift.
+      [1913 Webster]
+
+   Syn: Simple; insensible; sluggish; senseless; doltish;
+        sottish; dull; heavy; clodpated. -- {Stu"pid*ly}, adv.
+        -- {Stu"pid*ness}, n.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stupid</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>stupid
+     adj 1: lacking or marked by lack of intellectual acuity [ant: {smart}]
+     2: in a state of mental numbness especially as resulting from
+        shock; "he had a dazed expression on his face"; "lay
+        semiconscious, stunned (or stupefied) by the blow"; "was
+        stupid from fatigue" [syn: {dazed}, {stunned}, {stupefied},
+         {stupid(p)}]
+     3: without much intelligence; "a dull job with lazy and
+        unintelligent co-workers" [syn: {unintelligent}] [ant: {intelligent}]
+     n : a person who is not very bright; "The economy, stupid!"
+         [syn: {stupid person}, {dullard}, {dolt}, {pudding head},
+          {pudden-head}, {poor fish}, {pillock}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

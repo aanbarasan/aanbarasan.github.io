@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>software</Word>
+  <Definitions>
+    <Definition>
+      <Word>software</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>software
+     
+        &lt;programming&gt; (Or "computer program", "program", "code") The
+        instructions executed by a computer, as opposed to the
+        physical device on which they run (the "{hardware}").
+     
+        The term was coined by the eminent statistician, {John Tukey}.
+     
+        Programs stored on {non-volatile storage} built from
+        {integrated circuits} (e.g. {ROM} or {PROM}) are usually
+        called {firmware}.
+     
+        Software can be split into two main types - {system software}
+        and application software or {application programs}.  System
+        software is any software required to support the production or
+        execution of application programs but which is not specific to
+        any particular application.  Examples of system software would
+        include the {operating system}, {compilers}, editors and
+        sorting programs.
+     
+        Examples of application programs would include an accounts
+        package or a {CAD} program.  Other broad classes of
+        application software include {real-time} software, {business
+        software}, scientific and engineering software, {embedded
+        software}, personal computer software and {artificial
+        intelligence} software.
+     
+        Software includes both {source code} written by humans and
+        executable {machine code} produced by {assemblers} or
+        {compilers}.  It does not usually include the data processed
+        by programs unless this is in a format such as {multimedia}
+        which depends on the use of computers for its presentation.
+        This distinction becomes unclear in cases such as {spread
+        sheets} which can contain both instructions (formulae and
+        {macros}) and data.  There are also various intermediate
+        compiled or {semi-compiled}, forms of software such as
+        {library} files and {byte-code}.
+     
+        Some claim that {documentation} (both paper and electronic) is
+        also software.  Others go further and define software to be
+        programs plus documentation though this does not correspond
+        with common usage.
+     
+        The noun "program" describes a single, complete and
+        more-or-less self-contained list of instructions, often stored
+        in a single {file}, whereas "code" and "software" are
+        uncountable nouns describing some number of instructions which
+        may constitute one or more programs or part thereof.  Most
+        programs, however, rely heavily on various kinds of {operating
+        system} software for their execution.  The nounds "code" and
+        "software" both refer to the same thing but "code" tends to
+        suggest an interest in the implementation details whereas
+        "software" is more of a user's term.
+     
+        (2002-07-21)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>software</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>software
+     n : (computer science) written programs or procedures or rules
+         and associated documentation pertaining to the operation
+         of a computer system and that are stored in read/write
+         memory; "the market for software is expected to expand"
+         [syn: {software system}, {software package}, {package}]
+         [ant: {hardware}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

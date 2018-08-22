@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>conditioner</Word>
+  <Definitions>
+    <Definition>
+      <Word>conditioner</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>conditioner \conditioner\ n.
+   1. exercise that conditions the body; as, farmwork can be a
+      good conditioner.
+      [WordNet 1.5]
+
+   2. a trainer of athletes.
+      [WordNet 1.5]
+
+   3. a substance used in washing (clothing or hair) to make
+      things softer.
+      [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>conditioner</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>conditioner
+     n 1: exercise that conditions the body; "farmwork can be a good
+          conditioner"
+     2: a trainer of athletes
+     3: a substance used in washing (clothing or hair) to make
+        things softer
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

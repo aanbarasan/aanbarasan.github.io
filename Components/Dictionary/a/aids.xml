@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>aids</Word>
+  <Definitions>
+    <Definition>
+      <Word>aids</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>AIDS
+     
+        &lt;jargon&gt; /aydz/ A* Infected Disk Syndrome ("A*" is a
+        {glob} pattern that matches, but is not limited to, {Apple
+        Computer}), this condition is quite often the result of
+        practicing unsafe {SEX}.
+     
+        See {virus}, {worm}, {Trojan horse}, {virgin}.
+     
+        [{Jargon File}]
+     
+        (1995-04-13)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>aids</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>AIDS /aydz/ n. Short for A* Infected Disk Syndrome (`A*' is a {glob}
+   pattern that matches, but is not limited to, Apple or Amiga), this
+   condition is quite often the result of practicing unsafe {SEX}. See
+   {virus}, {worm}, {Trojan horse}, {virgin}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>aids</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>AIDS
+     Automatic Installation and Diagnostic Service
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>aids</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>AIDS
+     n : a serious (often fatal) disease of the immune system
+         transmitted through blood products especially by sexual
+         contact or contaminated needles [syn: {acquired immune
+         deficiency syndrome}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

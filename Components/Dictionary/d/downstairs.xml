@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>downstairs</Word>
+  <Definitions>
+    <Definition>
+      <Word>downstairs</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>downstair \downstair\, downstairs \downstairs\adj.
+   on or of the lower floors of a building, especially the
+   ground floor; as, the downstairs (or downstair phone; the
+   house has no downstairs bathroom. Opposite of {upstairs}.
+   [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>downstairs</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>downstairs \down"stairs\, adv.
+   Down the stairs; to a lower floor; as, she headed downstairs
+   as soon as she heard the horn.
+   [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>downstairs</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>downstairs
+     adj : on or of lower floors of a building; "the downstairs (or
+           downstair) phone" [syn: {downstair}] [ant: {upstairs}]
+     adv : on a floor below; "the tenants live downstairs" [syn: {down
+           the stairs}, {on a lower floor}, {below}] [ant: {upstairs}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

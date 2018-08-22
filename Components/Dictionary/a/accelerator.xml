@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>accelerator</Word>
+  <Definitions>
+    <Definition>
+      <Word>accelerator</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>accelerator
+     
+        &lt;hardware&gt; Additional hardware to perform some function faster
+        than is possible in software running on the normal {CPU}.
+        Examples include {graphics accelerator}s and {floating-point
+        accelerator}s.
+     
+        (1994-11-08)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>accelerator</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Accelerator \Ac*cel"er*a`tor\, n.
+   One who, or that which, accelerates. Also as an adj.; as,
+   accelerator nerves.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>accelerator</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>accelerator
+     n 1: a pedal that controls the throttle valve; "he stepped on the
+          gas" [syn: {accelerator pedal}, {gas pedal}, {gas}, {throttle},
+           {gun}]
+     2: a valve that regulates the supply of fuel to the engine
+        [syn: {throttle}, {throttle valve}]
+     3: (chemistry) a substance that initiates or accelerates a
+        chemical reaction without itself being affected [syn: {catalyst}]
+        [ant: {anticatalyst}]
+     4: a scientific instrument that increases the kinetic energy of
+        charged particles [syn: {particle accelerator}, {atom
+        smasher}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

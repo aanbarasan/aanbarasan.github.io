@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>human</Word>
+  <Definitions>
+    <Definition>
+      <Word>human</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Human \Hu"man\, a. [L. humanus; akin to homo man: cf. F. humain.
+   See {Homage}, and cf. {Humane}, {Omber}.]
+   Belonging to man or mankind; having the qualities or
+   attributes of a man; of or pertaining to man or to the race
+   of man; as, a human voice; human shape; human nature; human
+   sacrifices.
+   [1913 Webster]
+
+         To err is human; to forgive, divine.     --Pope.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>human</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Human \Hu"man\, n.
+   A human being. [Colloq.]
+   [1913 Webster]
+
+         Sprung of humans that inhabit earth.     --Chapman.
+   [1913 Webster]
+
+         We humans often find ourselves in strange position.
+                                                  --Prof.
+                                                  Wilson.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>human</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>human
+     adj 1: characteristic of humanity; "human nature"
+     2: relating to a person; "the experiment was conducted on 6
+        monkeys and 2 human subjects"
+     3: having human form or attributes as opposed to those of
+        animals or divine beings; "human beings"; "the human
+        body"; "human kindness"; "human frailty" [ant: {nonhuman}]
+     n 1: a human being; "there was too much for one person to do"
+          [syn: {person}, {individual}, {someone}, {somebody}, {mortal},
+           {soul}]
+     2: any living or extinct member of the family Hominidae [syn: {homo},
+         {man}, {human being}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

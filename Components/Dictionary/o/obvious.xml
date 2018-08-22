@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>obvious</Word>
+  <Definitions>
+    <Definition>
+      <Word>obvious</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Obvious \Ob"vi*ous\, a. [L. obvius; ob (see {Ob-}) + via way.
+   See {Voyage}.]
+   1. Opposing; fronting. [Obs.]
+      [1913 Webster]
+
+            To the evil turn
+            My obvious breast.                    --Milton.
+      [1913 Webster]
+
+   2. Exposed; subject; open; liable. [Obs.] ``Obvious to
+      dispute.'' --Milton.
+      [1913 Webster]
+
+   3. Easily discovered, seen, or understood; readily perceived
+      by the eye or the intellect; plain; evident; apparent; as,
+      an obvious meaning; an obvious remark.
+      [1913 Webster]
+
+            Apart and easy to be known they lie,
+            Amidst the heap, and obvious to the eye. --Pope.
+      [1913 Webster]
+
+   Syn: Plain; clear; evident. See {Manifest}.
+        [1913 Webster] -- {Ob"vi*ous*ly}, adv. --
+        {Ob"vi*ous-ness}, n.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>obvious</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>obvious
+     adj 1: easily perceived or understood; "obvious errors" [ant: {unobvious}]
+     2: easily perceived by the senses or grasped by the mind; "a
+        perceptible sense of expectation in the court"; "an
+        obvious (or palpable) lie" [syn: {perceptible}]
+     3: obvious to the eye or mind; "a tower conspicuous at a great
+        distance"; "wore conspicuous neckties"; "made herself
+        conspicuous by her exhibitionistic preening" [syn: {conspicuous}]
+        [ant: {inconspicuous}]
+     4: obvious to the eye; "a visible change of expression" [syn: {visible}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

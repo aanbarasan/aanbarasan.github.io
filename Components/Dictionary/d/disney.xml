@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>disney</Word>
+  <Definitions>
+    <Definition>
+      <Word>disney</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Disney, OK (town, FIPS 20900)
+  Location: 36.47764 N, 95.02057 W
+  Population (1990): 257 (204 housing units)
+  Area: 3.3 sq km (land), 0.4 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>disney</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Disney
+     n : United States film maker who pioneered animated cartoons and
+         created such characters as Mickey Mouse and Donald Duck;
+         founded Disneyland (1901-1966) [syn: {Walt Disney}, {Walter
+         Elias Disney}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

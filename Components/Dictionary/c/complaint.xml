@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>complaint</Word>
+  <Definitions>
+    <Definition>
+      <Word>complaint</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Complaint \Com*plaint"\ (k[o^]m*pl[=a]nt"), n. [F. complainte.
+   See {Complain}.]
+   1. Expression of grief, regret, pain, censure, or resentment;
+      lamentation; murmuring; accusation; fault-finding.
+      [1913 Webster]
+
+            I poured out my complaint before him. --Ps. cxlii.
+                                                  2.
+      [1913 Webster]
+
+            Grievous complaints of you.           --Shak.
+      [1913 Webster]
+
+   2. Cause or subject of complaint or murmuring.
+      [1913 Webster]
+
+            The poverty of the clergy in England hath been the
+            complaint of all who wish well to the church.
+                                                  --Swift.
+      [1913 Webster]
+
+   3. An ailment or disease of the body.
+      [1913 Webster]
+
+            One in a complaint of his bowels.     --Arbuthnot.
+      [1913 Webster]
+
+   4. (Law) A formal allegation or charge against a party made
+      or presented to the appropriate court or officer, as for a
+      wrong done or a crime committed (in the latter case,
+      generally under oath); an information; accusation; the
+      initial bill in proceedings in equity.
+
+   Syn: Lamentation; murmuring; sorrow; grief; disease; illness;
+        disorder; malady; ailment.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>complaint</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>complaint
+     n 1: an often persistent bodily disorder or disease; a cause for
+          complaining [syn: {ailment}, {ill}]
+     2: (formerly) a loud cry (or repeated cries) of pain or rage or
+        sorrow
+     3: an expression of grievance or resentment
+     4: (civil law) the first pleading of the plaintiff setting out
+        the facts on which the claim for relief is based
+     5: (criminal law) a pleading describing some wrong or offense;
+        "he was arrested on a charge of larceny" [syn: {charge}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

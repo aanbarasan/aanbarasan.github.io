@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>analog</Word>
+  <Definitions>
+    <Definition>
+      <Word>analog</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>analog
+     
+        &lt;spelling&gt; American spelling of {analogue}.
+     
+        (1995-11-14)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>analog</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>analog
+     adj : of a circuit or device having an output that is proportional
+           to the input; "analogue device"; "linear amplifier"
+           [syn: {analogue}, {linear}] [ant: {digital}]
+     n : something having the property of being analogous to
+         something else [syn: {analogue}, {parallel}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

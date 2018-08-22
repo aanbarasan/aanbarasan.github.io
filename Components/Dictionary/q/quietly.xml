@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>quietly</Word>
+  <Definitions>
+    <Definition>
+      <Word>quietly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Quietly \Qui"et*ly\, adv.
+   1. In a quiet state or manner; without motion; in a state of
+      rest; as, to lie or sit quietly.
+      [1913 Webster]
+
+   2. Without tumult, alarm, dispute, or disturbance; peaceably;
+      as, to live quietly; to sleep quietly.
+      [1913 Webster]
+
+   3. Calmly, without agitation or violent emotion; patiently;
+      as, to submit quietly to unavoidable evils.
+      [1913 Webster]
+
+   4. Noiselessly; silently; without remark or violent movement;
+      in a manner to attract little or no observation; as, he
+      quietly left the room.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>quietly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>quietly
+     adv 1: with low volume; "speak softly but carry a big stick"; "she
+            spoke quietly to the child"; "the radio was playing
+            softly" [syn: {softly}] [ant: {loudly}]
+     2: with little or no sound; "the class was listening quietly
+        and intently"; "she was crying quietly" [ant: {noisily}]
+     3: with little or no activity or no agitation (`quiet' is a
+        nonstandard variant for `quietly'); "her hands rested
+        quietly in her lap"; "the rock star was quietly led out
+        the back door"; "sit here as quiet as you can" [syn: {quiet}]
+        [ant: {unquietly}]
+     4: in a restful manner; "the streets are restfully sunny and
+        still for the town is at mass" [syn: {restfully}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

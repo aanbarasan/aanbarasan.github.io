@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>joyce</Word>
+  <Definitions>
+    <Definition>
+      <Word>joyce</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Joyce
+     
+        A distributed language based on {Pascal} and {CSP}, by Per
+        Brinch Hansen.
+     
+        ["Joyce - A Programming Language for Distributed Systems", Per
+        Brinch Hansen, Soft Prac &amp; Exp 17(1):29-50 (Jan 1987)].
+     
+        (1994-12-06)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>joyce</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Joyce
+     n : influential Irish writer noted for his many innovations
+         (such as stream of consciousness writing) (1882-1941)
+         [syn: {James Joyce}, {James Augustine Aloysius Joyce}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

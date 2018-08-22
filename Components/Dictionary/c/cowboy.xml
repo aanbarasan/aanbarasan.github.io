@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cowboy</Word>
+  <Definitions>
+    <Definition>
+      <Word>cowboy</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>cowboy
+     
+        [Sun, from William Gibson's {cyberpunk} SF]  Synonym
+        for {hacker}.  It is reported that at Sun this word is often
+        said with reverence.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cowboy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cowboy \Cow"boy`\ (-boi`), n.
+   1. A cattle herder; a drover; specifically, one of an
+      adventurous class of herders and drovers on the plains of
+      the Western and Southwestern United States.
+      [1913 Webster]
+
+   2. One of the marauders who, in the Revolutionary War
+      infested the neutral ground between the American and
+      British lines, and committed depredations on the
+      Americans.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cowboy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>cowpoke \cowpoke\ n.
+   a hired hand who tends cattle and performs other duties on
+   horseback; -- an informal name for {cowboy}.
+
+   Syn: cowboy, cowpuncher, puncher, cowman, cattleman, cowhand,
+        cowherd.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cowboy</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>cowboy n. [Sun, from William Gibson's {cyberpunk} SF] Synonym for
+   {hacker}. It is reported that at Sun this word is often said with
+   reverence.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cowboy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cowboy
+     n 1: a hired hand who tends cattle and performs other duties on
+          horseback [syn: {cowpuncher}, {puncher}, {cowman}, {cattleman},
+           {cowpoke}, {cowhand}, {cowherd}]
+     2: a performer who gives exhibitions of riding and roping and
+        bulldogging [syn: {rodeo rider}]
+     3: someone who is reckless or irresponsible (especially in
+        driving vehicles)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

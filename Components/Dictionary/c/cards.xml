@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cards</Word>
+  <Definitions>
+    <Definition>
+      <Word>cards</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>CARDS
+     
+        Central Archive for Reusable Defense Software of the DoD.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cards</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>CARDS
+     Central Archive for Reusable Defense Software (mil., USA)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cards</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cards
+     n : a game played with playing cards [syn: {card game}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>applaud</Word>
+  <Definitions>
+    <Definition>
+      <Word>applaud</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Applaud \Ap*plaud"\, v. t. [imp. &amp; p. p. {Applauded}; p. pr. &amp;
+   vb. n. {Applauding}.] [L. applaudere; ad + plaudere to clash,
+   to clap the hands: cf. F. applaudir. Cf. {Explode}.]
+   1. To show approval of by clapping the hands, acclamation, or
+      other significant sign.
+      [1913 Webster]
+
+            I would applaud thee to the very echo,
+            That should applaud again.            --Shak.
+      [1913 Webster]
+
+   2. To praise by words; to express approbation of; to commend;
+      to approve.
+      [1913 Webster]
+
+            By the gods, I do applaud his courage. --Shak.
+      [1913 Webster]
+
+   Syn: To praise; extol; commend; cry up; magnify; approve. See
+        {Praise}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>applaud</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Applaud \Ap*plaud"\, v. i.
+   To express approbation loudly or significantly.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>applaud</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>applaud
+     v 1: clap one's hands or shout after performances to indicate
+          approval [syn: {clap}, {spat}, {acclaim}] [ant: {boo}]
+     2: express approval of; "I applaud your efforts"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

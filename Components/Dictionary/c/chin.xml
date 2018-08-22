@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>chin</Word>
+  <Definitions>
+    <Definition>
+      <Word>chin</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Chin \Chin\ (ch[i^]n), n. [AS. cin, akin to OS. kin, G kinn,
+   Icel. kinn, cheek, Dan. &amp; Sw. kind, L. {gena}, Gr. ?; cf.
+   Skr. hanu. [root]232.]
+   1. The lower extremity of the face below the mouth; the point
+      of the under jaw.
+      [1913 Webster]
+
+   2. (Zo["o]l.) The exterior or under surface embraced between
+      the branches of the lower jaw bone, in birds.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chin</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>chin
+     n 1: the protruding part of the lower jaw [syn: {mentum}]
+     2: Kamarupan languages spoken in western Burma and Bangladesh
+        and easternmost India [syn: {Kuki}, {Kuki-Chin}]
+     v : in gymnastics: raise oneself while hanging from one's hands
+         until one's chin is level with the support bar [syn: {chin
+         up}]
+     [also: {chinning}, {chinned}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

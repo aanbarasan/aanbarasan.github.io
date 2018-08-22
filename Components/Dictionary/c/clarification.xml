@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>clarification</Word>
+  <Definitions>
+    <Definition>
+      <Word>clarification</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Clarification \Clar`i*fi*ca"tion\, n. [Cf. F. clarification, L.
+   clarificatio glorification.]
+   1. The act or process of making clear or transparent, by
+      freeing visible impurities; as, the clarification of wine.
+      [1913 Webster]
+
+   2. The act of freeing from obscurities.
+      [1913 Webster]
+
+            The clarification of men's ideas.     --Whewell.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>clarification</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>clarification
+     n 1: an interpretation that removes obstacles to understanding;
+          "the professor's clarification helped her to understand
+          the textbook" [syn: {elucidation}, {illumination}]
+     2: the act of removing solid particles from a liquid [syn: {clearing}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>colloquial</Word>
+  <Definitions>
+    <Definition>
+      <Word>colloquial</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Colloquial \Col*lo"qui*al\, a. [See {Colloqui}.]
+   Pertaining to, or used in, conversation, esp. common and
+   familiar conversation; conversational; hence, unstudied;
+   informal; as, colloquial intercourse; colloquial phrases; a
+   colloquial style. -- {Col*lo"qui*al*ly}, adv.
+   [1913 Webster]
+
+         His [Johnson's] colloquial talents were, indeed, of the
+         highest order.                           --Macaulay.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>colloquial</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>colloquial
+     adj : characteristic of informal spoken language or conversation;
+           "wrote her letters in a colloquial style"; "the broken
+           syntax and casual enunciation of conversational
+           English" [syn: {conversational}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

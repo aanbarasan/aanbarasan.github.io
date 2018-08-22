@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>primary</Word>
+  <Definitions>
+    <Definition>
+      <Word>primary</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Primary \Pri"ma*ry\, a. [L. primarius, fr. primus first: cf. F.
+   primaire. See {Prime}, a., and cf. {Premier}, {Primero}.]
+   1. First in order of time or development or in intention;
+      primitive; fundamental; original.
+      [1913 Webster]
+
+            The church of Christ, in its primary institution.
+                                                  --Bp. Pearson.
+      [1913 Webster]
+
+            These I call original, or primary, qualities of
+            body.                                 --Locke.
+      [1913 Webster]
+
+   2. First in order, as being preparatory to something higher;
+      as, primary assemblies; primary schools.
+      [1913 Webster]
+
+   3. First in dignity or importance; chief; principal; as,
+      primary planets; a matter of primary importance.
+      [1913 Webster]
+
+   4. (Geol.) Earliest formed; fundamental.
+      [1913 Webster]
+
+   5. (Chem.) Illustrating, possessing, or characterized by,
+      some quality or property in the first degree; having
+      undergone the first stage of substitution or replacement.
+      [1913 Webster]
+
+   {Primary alcohol} (Organic Chem.), any alcohol which possess
+      the group {CH2.OH}, and can be oxidized so as to form a
+      corresponding aldehyde and acid having the same number of
+      carbon atoms; -- distinguished from {secondary &amp; tertiary
+      alcohols}.
+
+   {Primary amine} (Chem.), an amine containing the amido group,
+      or a derivative of ammonia in which only one atom of
+      hydrogen has been replaced by a basic radical; --
+      distinguished from {secondary &amp; tertiary amines}.
+
+   {Primary amputation} (Surg.), an amputation for injury
+      performed as soon as the shock due to the injury has
+      passed away, and before symptoms of inflammation
+      supervene.
+
+   {Primary axis} (Bot.), the main stalk which bears a whole
+      cluster of flowers.
+
+   {Primary colors}. See under {Color}.
+
+   {Primary meeting}, a meeting of citizens at which the first
+      steps are taken towards the nomination of candidates, etc.
+      See {Caucus}.
+
+   {Primary pinna} (Bot.), one of those portions of a compound
+      leaf or frond which branch off directly from the main
+      rhachis or stem, whether simple or compounded.
+
+   {Primary planets}. (Astron.) See the Note under {Planet}.
+
+   {Primary qualities of bodies}, such are essential to and
+      inseparable from them.
+
+   {Primary quills} (Zo["o]l.), the largest feathers of the wing
+      of a bird; primaries.
+
+   {Primary rocks} (Geol.), a term early used for rocks supposed
+      to have been first formed, being crystalline and
+      containing no organic remains, as granite, gneiss, etc.;
+      -- called also {primitive rocks}. The terms Secondary,
+      Tertiary, and Quaternary rocks have also been used in like
+      manner, but of these the last two only are now in use.
+
+   {Primary salt} (Chem.), a salt derived from a polybasic acid
+      in which only one acid hydrogen atom has been replaced by
+      a base or basic radical.
+
+   {Primary syphilis} (Med.), the initial stage of syphilis,
+      including the period from the development of the original
+      lesion or chancre to the first manifestation of symptoms
+      indicative of general constitutional infection.
+
+   {Primary union} (Surg.), union without suppuration; union by
+      the first intention.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>primary</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Primary \Pri"ma*ry\, n.; pl. {Primaries}.
+   1. That which stands first in order, rank, or importance; a
+      chief matter.
+      [1913 Webster]
+
+   2. A primary meeting; a caucus.
+      [1913 Webster]
+
+   3. (Zo["o]l.) One of the large feathers on the distal joint
+      of a bird's wing. See {Plumage}, and Illust. of {Bird}.
+      [1913 Webster]
+
+   4. (Astron.) A primary planet; the brighter component of a
+      double star. See under {Planet}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>primary</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>primary
+     adj 1: of first rank or importance or value; direct and immediate
+            rather than secondhand; "primary goals"; "a primary
+            effect"; "primary sources"; "a primary interest" [ant:
+             {secondary}]
+     2: not derived from or reducible to something else; basic; "a
+        primary instinct"
+     3: most important element; "the chief aim of living"; "the main
+        doors were of solid glass"; "the principal rivers of
+        America"; "the principal example"; "policemen were primary
+        targets" [syn: {chief(a)}, {main(a)}, {primary(a)}, {principal(a)}]
+     4: of or being the essential or basic part; "an elementary need
+        for love and nurturing" [syn: {elementary}]
+     5: of primary importance; "basic truths" [syn: {basal}, {basic}]
+     n 1: a preliminary election where delegates or nominees are
+          chosen [syn: {primary election}]
+     2: one of the main flight feathers projecting along the outer
+        edge of a bird's wing [syn: {primary feather}, {primary
+        quill}]
+     3: coil forming the part of an electrical circuit such that
+        changing current in it induces a current in a neighboring
+        circuit; "current through the primary coil induces current
+        in the secondary coil" [syn: {primary coil}, {primary
+        winding}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

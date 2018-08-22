@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>biologist</Word>
+  <Definitions>
+    <Definition>
+      <Word>biologist</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Biologist \Bi*ol"o*gist\, n.
+   A student of biology; one versed in the science of biology.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>biologist</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>biologist
+     n : (biology) a scientist who studies living organisms [syn: {life
+         scientist}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

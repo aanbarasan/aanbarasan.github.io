@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>thirsty</Word>
+  <Definitions>
+    <Definition>
+      <Word>thirsty</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Thirsty \Thirst"y\, a. [Compar. {Thirstier}; superl.
+   {Thirstiest}.] [AS. ?urstig. See {Thirst}, n.]
+   1. Feeling thirst; having a painful or distressing sensation
+      from want of drink; hence, having an eager desire.
+      [1913 Webster]
+
+            Give me, I pray thee, a little water to drink, for I
+            am thirsty.                           --Judges iv.
+                                                  19.
+      [1913 Webster]
+
+   2. Deficient in moisture; dry; parched.
+      [1913 Webster]
+
+            A dry and thirsty land, where no water is. --Ps.
+                                                  lxiii. 1.
+      [1913 Webster]
+
+            When in the sultry glebe I faint,
+            Or on the thirsty mountain pant.      --Addison.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>thirsty</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>thirsty
+     adj 1: needing moisture; "thirsty fields under a rainless sky"
+     2: feeling a need or desire to drink; "after playing hard the
+        children were thirsty" [ant: {hungry}]
+     3: (usually followed by `for') extremely desirous; "athirst for
+        knowledge"; "hungry for recognition"; "thirsty for
+        informaton" [syn: {athirst(p)}, {hungry(p)}, {thirsty(p)}]
+     4: able to take in large quantities of moisture; "thirsty
+        towels"
+     [also: {thirstiest}, {thirstier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

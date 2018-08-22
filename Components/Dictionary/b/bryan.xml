@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bryan</Word>
+  <Definitions>
+    <Definition>
+      <Word>bryan</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Bryan, OH (city, FIPS 9792)
+  Location: 41.47023 N, 84.54800 W
+  Population (1990): 8348 (3556 housing units)
+  Area: 10.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 43506
+Bryan, TX (city, FIPS 10912)
+  Location: 30.66855 N, 96.36521 W
+  Population (1990): 55002 (23007 housing units)
+  Area: 84.6 sq km (land), 0.2 sq km (water)
+  Zip code(s): 77801, 77802, 77803
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bryan</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Bryan
+     n 1: United States lawyer and politician who advocated free
+          silver and prosecuted John Scopes (1925) for teaching
+          evolution in a Tennessee high school (1860-1925) [syn: {William
+          Jennings Bryan}, {the Great Commoner}, {The Boy Orator
+          of the Platte}]
+     2: a town of east central Texas
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

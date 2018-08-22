@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>confident</Word>
+  <Definitions>
+    <Definition>
+      <Word>confident</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Confident \Con"fi*dent\, n.
+   See {Confidant}. --South. --Dryden.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>confident</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>confident
+     adj 1: having or marked by confidence or assurance; "a confident
+            speaker"; "a confident reply"; "his manner is more
+            confident these days"; "confident of fulfillment"
+            [ant: {unconfident}]
+     2: persuaded of; very sure; "were convinced that it would be to
+        their advantage to join"; "I am positive he is lying";
+        "was confident he would win" [syn: {convinced(p)}, {positive(p)},
+         {confident(p)}]
+     3: not liable to error in judgment or action; "most surefooted
+        of the statesmen who dealt with the depression"- Walter
+        Lippman; "demonstrates a surefooted storytelling talent"-
+        Michiko Kakutani [syn: {surefooted}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

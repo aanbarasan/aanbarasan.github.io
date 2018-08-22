@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>finger</Word>
+  <Definitions>
+    <Definition>
+      <Word>finger</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>finger
+     
+        &lt;tool&gt; A {Unix} program that displays information about a
+        particular user or all users logged on the system, or a remote
+        system.  Finger typically shows full name, last login time,
+        idle time, terminal line, and terminal location (where
+        applicable).  It may also display a {plan file} left by the
+        user (see also {Hacking X for Y}).  Some versions take a "-l"
+        (long) argument which yields more information.
+     
+        [{Jargon File}]
+     
+        (2002-10-06)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>finger</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Finger, TN (city, FIPS 26160)
+  Location: 35.35474 N, 88.61548 W
+  Population (1990): 279 (120 housing units)
+  Area: 3.9 sq km (land), 0.0 sq km (water)
+  Zip code(s): 38334
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>finger</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Finger \Fin"ger\ (f[i^][ng]"g[~e]r), n. [AS. finger; akin to D.
+   vinger, OS. &amp; OHG. fingar, G. finger, Icel. fingr, Sw. &amp; Dan.
+   finger, Goth. figgrs; of unknown origin; perh. akin to E.
+   fang.]
+   1. One of the five terminating members of the hand; a digit;
+      esp., one of the four extremities of the hand, other than
+      the thumb.
+      [1913 Webster]
+
+   2. Anything that does the work of a finger; as, the pointer
+      of a clock, watch, or other registering machine;
+      especially (Mech.) a small projecting rod, wire, or piece,
+      which is brought into contact with an object to effect,
+      direct, or restrain a motion.
+      [1913 Webster]
+
+   3. The breadth of a finger, or the fourth part of the hand; a
+      measure of nearly an inch; also, the length of finger, a
+      measure in domestic use in the United States, of about
+      four and a half inches or one eighth of a yard.
+      [1913 Webster]
+
+            A piece of steel three fingers thick. --Bp. Wilkins.
+      [1913 Webster]
+
+   4. Skill in the use of the fingers, as in playing upon a
+      musical instrument. [R.]
+      [1913 Webster]
+
+            She has a good finger.                --Busby.
+      [1913 Webster]
+
+   {Ear finger}, the little finger.
+
+   {Finger alphabet}. See {Dactylology}.
+
+   {Finger bar}, the horizontal bar, carrying slotted spikes, or
+      fingers, through which the vibratory knives of mowing and
+      reaping machines play.
+
+   {Finger board} (Mus.), the part of a stringed instrument
+      against which the fingers press the strings to vary the
+      tone; the keyboard of a piano, organ, etc.; manual.
+
+   {Finger bowl} {Finger glass}, a bowl or glass to hold water
+      for rinsing the fingers at table.
+
+   {Finger flower} (Bot.), the foxglove.
+
+   {Finger grass} (Bot.), a kind of grass ({Panicum sanguinale})
+      with slender radiating spikes; common crab grass. See
+      {Crab grass}, under {Crab}.
+
+   {Finger nut}, a fly nut or thumb nut.
+
+   {Finger plate}, a strip of metal, glass, etc., to protect a
+      painted or polished door from finger marks.
+
+   {Finger post}, a guide post bearing an index finger.
+
+   {Finger reading}, reading printed in relief so as to be
+      sensible to the touch; -- so made for the blind.
+
+   {Finger shell} (Zo["o]l.), a marine shell ({Pholas dactylus})
+      resembling a finger in form.
+
+   {Finger sponge} (Zo["o]l.), a sponge having finger-shaped
+      lobes, or branches.
+
+   {Finger stall}, a cover or shield for a finger.
+
+   {Finger steel}, a steel instrument for whetting a currier's
+      knife.
+      [1913 Webster]
+
+   {To burn one's fingers}. See under {Burn}.
+
+   {To have a finger in}, to be concerned in. [Colloq.]
+
+   {To have at one's fingers' ends}, to be thoroughly familiar
+      with. [Colloq.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>finger</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Finger \Fin"ger\, v. t. [imp. &amp; p. p. {Fingered}; p. pr. &amp; vb.
+   n. {Fingering}.]
+   1. To touch with the fingers; to handle; to meddle with.
+      [1913 Webster]
+
+            Let the papers lie;
+            You would be fingering them to anger me. --Shak.
+      [1913 Webster]
+
+   2. To touch lightly; to toy with.
+      [1913 Webster]
+
+   3. (Mus.)
+      (a) To perform on an instrument of music.
+      (b) To mark the notes of (a piece of music) so as to guide
+          the fingers in playing.
+          [1913 Webster]
+
+   4. To take thievishly; to pilfer; to purloin. --Shak.
+      [1913 Webster]
+
+   5. To execute, as any delicate work.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>finger</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Finger \Fin"ger\, v. i. (Mus.)
+   To use the fingers in playing on an instrument. --Busby.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>finger</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>finger [WAITS, via BSD Unix] 1. n. A program that displays information
+   about a particular user or all users logged on the system, or a remote
+   system. Typically shows full name, last login time, idle time, terminal
+   line, and terminal location (where applicable). May also display a {plan
+   file} left by the user (see also {Hacking X for Y}). 2. vt. To apply
+   finger to a username. 3. vt. By extension, to check a human's current
+   state by any means. "Foodp?" "T!" "OK, finger Lisa and see if she's
+   idle." 4. Any picture (composed of ASCII characters) depicting `the
+   finger'. Originally a humorous component of one's plan file to deter the
+   curious fingerer (sense 2), it has entered the arsenal of some
+   {flamer}s.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>finger</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>finger
+     n 1: any of the terminal members of the hand (sometimes excepting
+          the thumb); "her fingers were long and thin"
+     2: the length of breadth of a finger used as a linear measure
+        [syn: {fingerbreadth}, {finger's breadth}, {digit}]
+     3: the part of a glove that provides a covering for one of the
+        fingers
+     v 1: feel or handle with the fingers; "finger the binding of the
+          book" [syn: {thumb}]
+     2: examine by touch; "Feel this soft cloth!"; "The customer
+        fingered the sweater" [syn: {feel}]
+     3: search for on the computer; "I fingered my boss and found
+        that he is not logged on in the afternoons"
+     4: indicate the fingering for the playing of musical scores for
+        keyboard instruments
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

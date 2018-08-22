@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>alicia</Word>
+  <Definitions>
+    <Definition>
+      <Word>alicia</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Alicia, AR (town, FIPS 700)
+  Location: 35.89442 N, 91.08303 W
+  Population (1990): 157 (68 housing units)
+  Area: 0.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 72410
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

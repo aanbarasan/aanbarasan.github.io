@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sweater</Word>
+  <Definitions>
+    <Definition>
+      <Word>sweater</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sweater \Sweat"er\, n.
+   1. One who sweats.
+      [1913 Webster]
+
+   2. One who, or that which, causes to sweat; as:
+      (a) A sudorific.
+      (b) A woolen jacket or jersey worn by athletes.
+      (c) An employer who oppresses his workmen by paying low
+          wages. [Slang]
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sweater</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sweater
+     n 1: a crocheted or knitted garment covering the upper part of
+          the body
+     2: a person who perspires [syn: {perspirer}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hundred</Word>
+  <Definitions>
+    <Definition>
+      <Word>hundred</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Hundred, WV (town, FIPS 39340)
+  Location: 39.68411 N, 80.45752 W
+  Population (1990): 386 (202 housing units)
+  Area: 1.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 26575
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hundred</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hundred \Hun"dred\, a.
+   Ten times ten; five score; as, a hundred dollars.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hundred</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hundred \Hun"dred\ (h[u^]n"dr[e^]d), n. [OE. hundred, AS.
+   hundred a territorial division; hund hundred + a word akin to
+   Goth. ga-ra[thorn]jan to count, L. ratio reckoning, account;
+   akin to OS. hunderod, hund, D. hondred, G. hundert, OHG. also
+   hunt, Icel. hundra[eth], Dan. hundrede, Sw. hundra, hundrade,
+   Goth. hund, Lith. szimtas, Russ. sto, W. cant, Ir. cead, L.
+   centum, Gr. "ekato`s, Skr. [,c]ata. [root]309. Cf. {Cent},
+   {Century}, {Hecatomb}, {Quintal}, and {Reason}.]
+   1. The product of ten multiplied by ten, or the number of ten
+      times ten; a collection or sum, consisting of ten times
+      ten units or objects; five score. Also, a symbol
+      representing one hundred units, as 100 or C.
+      [1913 Webster]
+
+            With many hundreds treading on his heels. --Shak.
+      [1913 Webster]
+
+   Note: The word hundred, as well as thousand, million, etc.,
+         often takes a plural form. We may say hundreds, or many
+         hundreds, meaning individual objects or units, but with
+         an ordinal numeral adjective in constructions like five
+         hundreds, or eight hundreds, it is usually intended to
+         consider each hundred as a separate aggregate; as, ten
+         hundreds are one thousand.
+         [1913 Webster]
+
+   2. A division of a country in England, supposed to have
+      originally contained a hundred families, or freemen.
+      [1913 Webster]
+
+   {Hundred court}, a court held for all the inhabitants of a
+      hundred. [Eng.] --Blackstone.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hundred</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Barony \Bar"o*ny\, n.; pl. {Baronies}. [OF. baronie, F.
+   baronnie, LL. baronia. See {Baron}.]
+   1. The fee or domain of a baron; the lordship, dignity, or
+      rank of a baron.
+      [1913 Webster]
+
+   2. In Ireland, a territorial division, corresponding nearly
+      to the English {hundred}, and supposed to have been
+      originally the district of a native chief. There are 252
+      of these baronies. In Scotland, an extensive freehold. It
+      may be held by a commoner. --Brande &amp; C.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hundred</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hundred
+     adj : being ten more than ninety [syn: {a hundred}, {one hundred},
+            {100}, {c}]
+     n : ten 10s [syn: {100}, {C}, {century}, {one C}, {centred}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>junior</Word>
+  <Definitions>
+    <Definition>
+      <Word>junior</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Junior, WV (town, FIPS 42244)
+  Location: 38.97728 N, 79.95050 W
+  Population (1990): 542 (213 housing units)
+  Area: 0.8 sq km (land), 0.1 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>junior</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Junior \Jun"ior\, n.
+   1. A younger person.
+      [1913 Webster]
+
+            His junior she, by thirty years.      --Byron.
+      [1913 Webster]
+
+   2. Hence: One of a lower or later standing; specifically, in
+      American colleges and four-year high schools, one in the
+      third year of his course, one in the fourth or final year
+      being designated a {senior}; in some seminaries, one in
+      the first year, in others, one in the second year, of a
+      three years' course.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>junior</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Junior \Jun"ior\ (j[=u]n"y[~e]r; 277), a. [L. contr. fr.
+   juvenior, compar. of juvenis young. See {Juvenile}.]
+   [1913 Webster]
+   1. Less advanced in age than another; younger. Abbreviated
+      Jr.
+      [1913 Webster +PJC]
+
+   Note: Junior is applied to distinguish the younger of two
+         persons bearing the same name in the same family, and
+         is opposed to {senior or elder}. Commonly applied to a
+         son who has the same Christian name as his father.
+         [1913 Webster]
+
+   2. Lower in standing or in rank, or having entered later into
+      a position or office; as, a junior partner; junior
+      counsel; junior captain; the junior Senator from New York.
+      [1913 Webster]
+
+   3. Composed of juniors, whether younger or a lower standing;
+      as, the junior class; the junior baseball league; of or
+      pertaining to juniors or to a junior class. See {Junior},
+      n., 2.
+      [1913 Webster]
+
+   4. Belonging to a younger person, or an earlier time of life.
+      [1913 Webster]
+
+            Our first studies and junior endeavors. --Sir T.
+                                                  Browne.
+      [1913 Webster]
+
+   5. of or relating to the third year of a four-year term; --
+      used of the third or next to final year in a U. S. high
+      school or college. See {junior}[2], n..
+
+   Syn: third-year.
+        [WordNet 1.5 +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>junior</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>junior
+     adj 1: younger; lower in rank; shorter in length of tenure or
+            service [ant: {senior}]
+     2: used of the third or next to final year in United States
+        high school or college; "the junior class"; "a third-year
+        student" [syn: {junior(a)}, {third-year}, {next-to-last}]
+     3: including or intended for youthful persons; "a junior sports
+        league"; "junior fashions"
+     n 1: term of address for a disrespectful and annoying male; "look
+          here, junior, it's none of your business"
+     2: a third-year undergraduate
+     3: the younger of two men
+     4: a son who has the same first name as his father [syn: {Jr},
+        {Jnr}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

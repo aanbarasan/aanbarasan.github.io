@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cannibalism</Word>
+  <Definitions>
+    <Definition>
+      <Word>cannibalism</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cannibalism \Can"ni*bal*ism\, n. [Cf. F. cannibalisme.]
+   The act or practice of eating human flesh by mankind. Hence;
+   Murderous cruelty; barbarity. --Berke.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cannibalism</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cannibalism
+     n : the practice of eating the flesh of your own kind
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

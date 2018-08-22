@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bose</Word>
+  <Definitions>
+    <Definition>
+      <Word>bose</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Bose
+     n : Indian physicist who with Albert Einstein proposed
+         statistical laws based on the indistinguishability of
+         particles; led to the description of fundamental
+         particles that later came to be known as bosons [syn: {Satyendra
+         N. Bose}, {Satyendra Nath Bose}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

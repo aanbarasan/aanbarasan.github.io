@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>exotic</Word>
+  <Definitions>
+    <Definition>
+      <Word>exotic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Exotic \Ex*ot"ic\, a. [L. exoticus, Gr. ? fr. 'e`xw outside: cf.
+   F. exotique. See {Exoteric}.]
+   Introduced from a foreign country; not native; extraneous;
+   foreign; as, an exotic plant; an exotic term or word.
+   [1913 Webster]
+
+         Nothing was so splendid and exotic as the ambassador.
+                                                  --Evelyn.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>exotic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Exotic \Ex*ot"ic\, n.
+   Anything of foreign origin; something not of native growth,
+   as a plant, a word, a custom.
+   [1913 Webster]
+
+         Plants that are unknown to Italy, and such as the
+         gardeners call exotics.                  --Addison.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>exotic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>exotic
+     adj 1: being or from or characteristic of another place or part of
+            the world; "alien customs"; "exotic plants in a
+            greenhouse"; "exotic cuisine" [syn: {alien}]
+     2: strikingly strange or unusual; "an exotic hair style";
+        "protons, neutrons, electrons and all their exotic
+        variants"; "the exotic landscape of a dead planet"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

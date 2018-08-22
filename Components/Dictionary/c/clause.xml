@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>clause</Word>
+  <Definitions>
+    <Definition>
+      <Word>clause</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Clause \Clause\, n. [F. clause, LL. clausa, equiv. to L.
+   clausula clause, prop., close of ? rhetorical period, close,
+   fr. claudere to shut, to end. See {Close}.]
+   1. A separate portion of a written paper, paragraph, or
+      sentence; an article, stipulation, or proviso, in a legal
+      document.
+      [1913 Webster]
+
+            The usual attestation clause to a will. --Bouvier.
+      [1913 Webster]
+
+   2. (Gram.) A subordinate portion or a subdivision of a
+      sentence containing a subject and its predicate.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>clause</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Clause \Clause\, n. [Obs.]
+   See {Letters clause} or {Letters close}, under {Letter}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>clause</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>clause
+     n 1: (grammar) an expression including a subject and predicate
+          but not constituting a complete sentence
+     2: a separate section of a legal document (as a statute or
+        contract or will) [syn: {article}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

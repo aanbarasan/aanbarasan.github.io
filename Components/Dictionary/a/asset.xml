@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>asset</Word>
+  <Definitions>
+    <Definition>
+      <Word>asset</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>ASSET
+     
+        {Asset Source for Software Engineering Technology}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>asset</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Asset \As"set\, n.
+   Any article or separable part of one's assets.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>asset</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>asset
+     n : a useful or valuable quality [syn: {plus}] [ant: {liability}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

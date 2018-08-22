@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>necessary</Word>
+  <Definitions>
+    <Definition>
+      <Word>necessary</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Necessary \Nec"es*sa*ry\, n.; pl. {Necessaries}.
+   1. A thing that is necessary or indispensable to some
+      purpose; something that one can not do without; a
+      requisite; an essential; -- used chiefly in the plural;
+      as, the necessaries of life.
+      [1913 Webster]
+
+   2. A privy; a water-closet.
+      [1913 Webster]
+
+   3. pl. (Law) Such things, in respect to infants, lunatics,
+      and married women, as are requisite for support suitable
+      to station.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>necessary</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Necessary \Nec"es*sa*ry\, a. [L. necessarius, from necesse
+   unavoidable, necessary; of uncertain origin: cf. F.
+   n['e]cessaire.]
+   1. Such as must be; impossible to be otherwise; not to be
+      avoided; inevitable.
+      [1913 Webster]
+
+            Death, a necessary end,
+            Will come when it will come.          --Shak.
+      [1913 Webster]
+
+   2. Impossible to be otherwise, or to be dispensed with,
+      without preventing the attainment of a desired result;
+      indispensable; requisite; essential. ``'T is necessary he
+      should die.'' --Shak.
+      [1913 Webster]
+
+            A certain kind of temper is necessary to the
+            pleasure and quiet of our minds.      --Tillotson.
+      [1913 Webster]
+
+   3. Acting from necessity or compulsion; involuntary; --
+      opposed to {free}; as, whether man is a necessary or a
+      free agent is a question much discussed.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>necessary</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>necessary
+     adj 1: absolutely essential [ant: {unnecessary}]
+     2: unavoidably determined by prior circumstances; "the
+        necessary consequences of one's actions"
+     n : anything indispensable; "food and shelter are necessities of
+         life"; "the essentials of the good life"; "allow farmers
+         to buy their requirements under favorable conditions"; "a
+         place where the requisites of water fuel and fodder can
+         be obtained" [syn: {necessity}, {essential}, {requirement},
+          {requisite}] [ant: {inessential}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

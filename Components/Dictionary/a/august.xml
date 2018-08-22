@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>august</Word>
+  <Definitions>
+    <Definition>
+      <Word>august</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>August, CA (CDP, FIPS 3209)
+  Location: 37.97895 N, 121.26100 W
+  Population (1990): 6376 (2536 housing units)
+  Area: 3.4 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>august</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>August \Au*gust"\, a. [L. augustus; cf. augere to increase; in
+   the language of religion, to honor by offerings: cf. F.
+   auguste. See {Augment}.]
+   Of a quality inspiring mingled admiration and reverence;
+   having an aspect of solemn dignity or grandeur; sublime;
+   majestic; having exalted birth, character, state, or
+   authority. ``Forms august.'' --Pope. ``August in visage.''
+   --Dryden. ``To shed that august blood.'' --Macaulay.
+   [1913 Webster]
+
+         So beautiful and so august a spectacle.  --Burke.
+   [1913 Webster]
+
+         To mingle with a body so august.         --Byron.
+   [1913 Webster]
+
+   Syn: Grand; magnificent; majestic; solemn; awful; noble;
+        stately; dignified; imposing.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>august</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>August \Au"gust\, n. [L. Augustus. See note below, and {August},
+   a.]
+   The eighth month of the year, containing thirty-one days.
+   [1913 Webster]
+
+   Note: The old Roman name was Sextilis, the sixth month from
+         March, the month in which the primitive Romans, as well
+         as Jews, began the year. The name was changed to August
+         in honor of Augustus C[ae]sar, the first emperor of
+         Rome, on account of his victories, and his entering on
+         his first consulate in that month.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>august</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>august
+     adj 1: of or befitting a lord; "heir to a lordly fortune"; "of
+            august lineage" [syn: {grand}, {lordly}]
+     2: profoundly honored; "revered holy men" [syn: {revered}, {venerable}]
+     n : the month following July and preceding September [syn: {Aug}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

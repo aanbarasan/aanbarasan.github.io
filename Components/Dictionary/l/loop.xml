@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>loop</Word>
+  <Definitions>
+    <Definition>
+      <Word>loop</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Loop
+   a knotted "eye" of cord, corresponding to the "taches" or knobs
+   in the edges of the curtains of the tabernacle, for joining them
+   into a continuous circuit, fifty to a curtain (Ex. 26:4, 5, 10,
+   11).
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>loop</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>loop
+     
+        &lt;programming&gt; A sequence of {instructions} that the
+        {processor} repeats, either until some condition is met, or
+        indefinitely.
+     
+        In an {structured language} (e.g. {C}, {Pascal}, {BASIC}, or
+        {Fortran}), a loop is usually achieved with {for loop}, {while
+        loop} or {repeat loop} constructs.
+     
+        In other languages these constructs may be synthesised with a
+        {jump} ({assembly language}) or a {GOTO} (early Fortran or
+        BASIC).
+     
+        (1999-05-06)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>loop</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Loop, TX
+  Zip code(s): 79342
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>loop</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Loop \Loop\ (l[=oo]p), v. t. [imp. &amp; p. p. {Looped} (l[=oo]pt);
+   p. pr. &amp; vb. n. {Looping}.]
+   To make a loop of or in; to fasten with a loop or loops; --
+   often with up; as, to loop a string; to loop up a curtain.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>loop</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Loop \Loop\ (l[=oo]p), n. [G. luppe an iron lump. Cf.
+   {Looping}.] (Iron Works)
+   A mass of iron in a pasty condition gathered into a ball for
+   the tilt hammer or rolls. [Written also {loup}.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>loop</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Loop \Loop\, n. [Cf. Ir. &amp; Gael. lub loop, noose, fold, thong,
+   bend, lub to bend, incline.]
+   1. A fold or doubling of a thread, cord, rope, etc., through
+      which another thread, cord, etc., can be passed, or which
+      a hook can be hooked into; an eye, as of metal; a staple;
+      a noose; a bight.
+      [1913 Webster]
+
+            That the probation bear no hinge, nor loop
+            To hang a doubt on.                   --Shak.
+      [1913 Webster]
+
+   2. A small, narrow opening; a loophole.
+      [1913 Webster]
+
+            And stop all sight-holes, every loop from whence
+            The eye of Reason may pry in upon us. --Shak.
+      [1913 Webster]
+
+   3. A curve of any kind in the form of a loop.
+      [1913 Webster]
+
+   4. (Telegraphy) A wire forming part of a main circuit and
+      returning to the point from which it starts.
+      [1913 Webster]
+
+   5. (Acoustics) The portion of a vibrating string, air column,
+      etc., between two nodes; -- called also {ventral segment}.
+      [1913 Webster]
+
+   {Loop knot}, a single knot tied in a doubled cord, etc. so as
+      to leave a loop beyond the knot. See Illust. of {Knot}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>loop</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>loop
+     n 1: fastener consisting of a metal ring for lining a small hole
+          to permit the attachment of cords or lines [syn: {cringle},
+           {eyelet}, {grommet}, {grummet}]
+     2: anything with a round or oval shape (formed by a curve that
+        is closed and does not intersect itself)
+     3: (computer science) a single execution of a set of
+        instructions that are to be repeated; "the solution took
+        hundreds of iterations" [syn: {iteration}]
+     4: an inner circle of advisors (especially under President
+        Reagan); "he's no longer in the loop"
+     5: the basic pattern of the human fingerprint
+     6: a computer program that performs a series of instructions
+        repeatedly until some specified condition is satisfied
+     7: the topology of a network whose components are connected in
+        a loop [syn: {loop topology}]
+     8: an intrauterine device in the shape of a loop
+     9: a complete electrical circuit around which current flows or
+        a signal circulates [syn: {closed circuit}] [ant: {open
+        circuit}]
+     10: a flight maneuver; aircraft flies a complete circle in the
+         vertical plane [syn: {loop-the-loop}]
+     v 1: move in loops; "The bicycle looped around the tree"
+     2: make a loop in; "loop a rope" [syn: {intertwine}]
+     3: fly loops, perform a loop; "the stunt pilot looped his
+        plane"
+     4: wind around something in coils or loops [syn: {coil}, {curl}]
+        [ant: {uncoil}]
+     5: fasten or join with a loop; "He looped the watch through his
+        belt"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

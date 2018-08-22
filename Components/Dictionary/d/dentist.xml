@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dentist</Word>
+  <Definitions>
+    <Definition>
+      <Word>dentist</Word>
+      <Dictionary>
+        <Id>devils</Id>
+        <Name>THE DEVIL'S DICTIONARY ((C)1911 Released April 15 1993)</Name>
+      </Dictionary>
+      <WordDefinition>DENTIST, n.  A prestidigitator who, putting metal into your mouth,
+pulls coins out of your pocket.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dentist</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dentist \Den"tist\, n. [From L. dens, dentis, tooth: cf. F.
+   dentiste. See {Tooth}.]
+   One whose business it is to clean, extract, or repair natural
+   teeth, and to make and insert artificial ones; a dental
+   surgeon.
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dentist</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dentist
+     n : a person qualified to practice dentistry [syn: {tooth doctor},
+          {dental practitioner}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

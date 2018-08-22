@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>agoraphobia</Word>
+  <Definitions>
+    <Definition>
+      <Word>agoraphobia</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>agoraphobia
+     n : a morbid fear of open spaces (as fear of being caught alone
+         in some public place)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

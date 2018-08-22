@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>arrange</Word>
+  <Definitions>
+    <Definition>
+      <Word>arrange</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Arrange \Ar*range"\, v. t. [imp. &amp; p. p. {Arranged}; p. pr. &amp;
+   vb. n. {Arranging}.] [OE. arayngen, OF. arengier, F.
+   arranger, fr. a (L. ad) + OF. rengier, rangier, F. ranger.
+   See {Range}, v. t.]
+   1. To put in proper order; to dispose (persons, or parts) in
+      the manner intended, or best suited for the purpose; as,
+      troops arranged for battle.
+      [1913 Webster]
+
+            So [they] came to the market place, and there he
+            arranged his men in the streets.      --Berners.
+      [1913 Webster]
+
+            [They] were beginning to arrange their hampers.
+                                                  --Boswell.
+      [1913 Webster]
+
+            A mechanism previously arranged.      --Paley.
+      [1913 Webster]
+
+   2. To adjust or settle; to prepare; to determine; as, to
+      arrange the preliminaries of an undertaking.
+      [1913 Webster]
+
+   Syn: Adjust; adapt; range; dispose; classify.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>arrange</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>arrange
+     v 1: put into a proper or systematic order; "arrange the books on
+          the shelves in chronological order" [syn: {set up}]
+          [ant: {disarrange}]
+     2: make arrangements for; "Can you arrange a meeting with the
+        President?" [syn: {fix up}]
+     3: plan, organize, and carry out (an event) [syn: {stage}, {bring
+        about}]
+     4: set (printed matter) into a specific format; "Format this
+        letter so it can be printed out" [syn: {format}]
+     5: arrange attractively; "dress my hair for the wedding" [syn:
+        {dress}, {set}, {do}, {coif}, {coiffe}, {coiffure}]
+     6: adapt for performance in a different way; "set this poem to
+        music" [syn: {set}]
+     7: arrange thoughts, ideas, temporal events, etc.; "arrange my
+        schedule"; "set up one's life"; "I put these memories with
+        those of bygone times" [syn: {set up}, {put}, {order}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

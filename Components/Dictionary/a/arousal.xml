@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>arousal</Word>
+  <Definitions>
+    <Definition>
+      <Word>arousal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Arousal \A*rous"al\, n.
+   The act of arousing, or the state of being aroused.
+   [1913 Webster]
+
+         Whatever has associated itself with the arousal and
+         activity of our better nature.           --Hare.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>arousal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>arousal
+     n 1: the act of arousing; "the purpose of art is the arousal of
+          emotions" [syn: {rousing}]
+     2: a state of heightened physiological activity
+     3: awakening from sleep
+     4: mutual sexual stimulation prior to sexual intercourse [syn:
+        {foreplay}, {stimulation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

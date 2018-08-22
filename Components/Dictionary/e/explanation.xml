@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>explanation</Word>
+  <Definitions>
+    <Definition>
+      <Word>explanation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Explanation \Ex`pla*na"tion\, n. [L. explanatio: cf. OF.
+   esplanation.]
+   1. The act of explaining, expounding, or interpreting; the
+      act of clearing from obscurity and making intelligible;
+      as, the explanation of a passage in Scripture, or of a
+      contract or treaty.
+      [1913 Webster]
+
+   2. That which explains or makes clear; as, a satisfactory
+      explanation.
+      [1913 Webster]
+
+   3. The meaning attributed to anything by one who explains it;
+      definition; interpretation; sense.
+      [1913 Webster]
+
+            Different explanations [of the Trinity]. --Bp.
+                                                  Burnet.
+      [1913 Webster]
+
+   4. A mutual exposition of terms, meaning, or motives, with a
+      view to adjust a misunderstanding, and reconcile
+      differences; reconciliation; agreement; as, to come to an
+      explanation.
+
+   Syn: Definition; description; explication; exposition;
+        interpretation; detail. See {Definition}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>explanation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>explanation
+     n 1: a statement that makes something comprehensible by
+          describing the relevant structure or operation or
+          circumstances etc.; "the explanation was very simple";
+          "I expected a brief account" [syn: {account}]
+     2: thought that makes something comprehensible
+     3: the act of explaining; making something plain or
+        intelligible; "I heard his explanation of the accident"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

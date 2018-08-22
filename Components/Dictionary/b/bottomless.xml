@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bottomless</Word>
+  <Definitions>
+    <Definition>
+      <Word>bottomless</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bottomless \Bot"tom*less\, a.
+   Without a bottom; hence, fathomless; baseless; as, a
+   bottomless abyss. ``Bottomless speculations.'' --Burke.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bottomless</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bottomless
+     adj 1: extremely deep; "a bottomless pit"; "a bottomless lake"
+     2: having no bottom; "bottomless pajamas consisting simply of a
+        long top opening down the front" [ant: {bottomed}]
+     3: having no apparent limits or bounds; "a bottomless supply of
+        money"; "bottomless pockets"
+     4: unclothed especially below the waist or featuring such
+        nudeness; "bottomless dancers"; "a bottomless bar"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

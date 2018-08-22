@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>aggression</Word>
+  <Definitions>
+    <Definition>
+      <Word>aggression</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Aggression \Ag*gres"sion\, n. [L. aggressio, fr. aggredi: cf. F.
+   agression.]
+   The first attack, or act of hostility; the first act of
+   injury, or first act leading to a war or a controversy;
+   unprovoked attack; assault; as, a war of aggression.
+   ``Aggressions of power.'' --Hallam
+   [1913 Webster]
+
+   Syn: Attack; offense; intrusion; provocation.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>aggression</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>aggression
+     n 1: a disposition to behave aggressively
+     2: a feeling of hostility that arouses thoughts of attack [syn:
+         {aggressiveness}]
+     3: violent action that is hostile and usually unprovoked [syn:
+        {hostility}]
+     4: the act of initiating hostilities
+     5: deliberately unfriendly behavior
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

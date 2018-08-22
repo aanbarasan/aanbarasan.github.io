@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>auction</Word>
+  <Definitions>
+    <Definition>
+      <Word>auction</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Auction \Auc"tion\, v. t.
+   To sell by auction.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>auction</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Auction \Auc"tion\, n. [L. auctio an increasing, a public sale,
+   where the price was called out, and the article to be sold
+   was adjudged to the last increaser of the price, or the
+   highest bidder, fr. L. augere, auctum, to increase. See
+   {Augment}.]
+   1. A public sale of property to the highest bidder, esp. by a
+      person licensed and authorized for the purpose; a vendue.
+      [1913 Webster]
+
+   2. The things sold by auction or put up to auction.
+      [1913 Webster]
+
+            Ask you why Phryne the whole auction buys ? --Pope.
+      [1913 Webster]
+
+   Note: In the United States, the more prevalent expression has
+         been ``sales at auction,'' that is, by an increase of
+         bids (Lat. auctione). This latter form is preferable.
+         [1913 Webster]
+
+   {Dutch auction}, the public offer of property at a price
+      beyond its value, then gradually lowering the price, till
+      some one accepts it as purchaser. --P. Cyc.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>auction</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>auction
+     n 1: a variety of bridge in which tricks made in excess of the
+          contract are scored toward game; now generally
+          superseded by contract bridge [syn: {auction bridge}]
+     2: the public sale of something to the highest bidder [syn: {auction
+        sale}, {vendue}]
+     v : sell at an auction [syn: {auction off}, {auctioneer}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

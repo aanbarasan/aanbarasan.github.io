@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sharing</Word>
+  <Definitions>
+    <Definition>
+      <Word>sharing</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Share \Share\, v. t. [imp. &amp; p. p. {Shared}; p. pr. &amp; vb. n.
+   {Sharing}.]
+   1. To part among two or more; to distribute in portions; to
+      divide.
+      [1913 Webster]
+
+            Suppose I share my fortune equally between my
+            children and a stranger.              --Swift.
+      [1913 Webster]
+
+   2. To partake of, use, or experience, with others; to have a
+      portion of; to take and possess in common; as, to share a
+      shelter with another.
+      [1913 Webster]
+
+            While avarice and rapine share the land. --Milton.
+      [1913 Webster]
+
+   3. To cut; to shear; to cleave; to divide. [Obs.]
+      [1913 Webster]
+
+            The shared visage hangs on equal sides. --Dryden.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sharing</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sharing
+     adj 1: sharing equally with another or others
+     2: unselfishly willing to share with others; "a warm and
+        sharing friend"
+     n 1: having in common; "the sharing of electrons creates
+          molecules"
+     2: using or enjoying something jointly with others
+     3: sharing thoughts and feelings [syn: {communion}]
+     4: a distribution in shares [syn: {share-out}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

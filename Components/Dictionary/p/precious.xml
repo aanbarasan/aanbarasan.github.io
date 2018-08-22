@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>precious</Word>
+  <Definitions>
+    <Definition>
+      <Word>precious</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Precious \Pre"cious\, a. [OF. precious, precius, precios, F.
+   pr['e]cieux, L. pretiosus, fr. pretium price, worth, value.
+   See {Price}.]
+   1. Of great price; costly; as, a precious stone. ``The
+      precious bane.'' --Milton.
+      [1913 Webster]
+
+   2. Of great value or worth; very valuable; highly esteemed;
+      dear; beloved; as, precious recollections.
+      [1913 Webster]
+
+            She is more precious than rules.      --Prov. iii.
+                                                  15.
+      [1913 Webster]
+
+            Many things which are most precious are neglected
+            only because the value of them lieth hid. --Hooker.
+      [1913 Webster]
+
+   Note: Also used ironically; as, a precious rascal.
+         [1913 Webster]
+
+   3. Particular; fastidious; overnice; overrefined. Cf.
+      {Pr['e]cieuse}, {Preciosity}.
+      [1913 Webster]
+
+            Lest that precious folk be with me wroth. --Chaucer.
+      [1913 Webster]
+
+            Elaborate embroidery of precious language.
+                                                  --Saintsbury.
+      [Webster 1913 Suppl.]
+
+   {Precious metals}, the uncommon and highly valuable metals,
+      esp. gold and silver.
+
+   {Precious stones}, gems; jewels.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>precious</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>precious
+     adj 1: characterized by feeling or showing fond affection for; "a
+            cherished friend"; "children are precious"; "a
+            treasured heirloom"; "so good to feel wanted" [syn: {cherished},
+             {treasured}, {wanted}]
+     2: of high worth or cost; "diamonds, sapphires, rubies, and
+        emeralds are precious stones"
+     3: obviously contrived to charm; "an insufferably precious
+        performance"; "a child with intolerably cute mannerisms"
+        [syn: {cute}]
+     adv : extremely; "there is precious little time left" [syn: {preciously}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

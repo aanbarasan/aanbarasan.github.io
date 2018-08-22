@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>protect</Word>
+  <Definitions>
+    <Definition>
+      <Word>protect</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Protect \Pro*tect"\, v. t. [imp. &amp; p. p. {Protected}; p. pr. &amp;
+   vb. n. {Protecting}.] [L. protectus, p. p. of protegere,
+   literally, to cover in front; pro before + tegere to cover.
+   See {Tegument}.]
+   To cover or shield from danger or injury; to defend; to
+   guard; to preserve in safety; as, a father protects his
+   children.
+   [1913 Webster]
+
+         The gods of Greece protect you!          --Shak.
+   [1913 Webster]
+
+   Syn: To guard; shield; preserve. See {Defend}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>protect</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>protect
+     v 1: shield from danger, injury, destruction, or damage;
+          "Weatherbeater protects your roof from the rain"
+     2: use tariffs to favor domestic industry
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

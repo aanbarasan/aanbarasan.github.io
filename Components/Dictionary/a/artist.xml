@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>artist</Word>
+  <Definitions>
+    <Definition>
+      <Word>artist</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Artist \Art"ist\, n. [F. artiste, LL. artista, fr. L. ars. See
+   {Art}, n., and cf. {Artiste}.]
+   1. One who practices some mechanic art or craft; an artisan.
+      [Obs.]
+      [1913 Webster]
+
+            How to build ships, and dreadful ordnance cast,
+            Instruct the articles and reward their. --Waller.
+      [1913 Webster]
+
+   2. One who professes and practices an art in which science
+      and taste preside over the manual execution.
+      [1913 Webster]
+
+   Note: The term is particularly applied to painters,
+         sculptors, musicians, engravers, and architects.
+         --Elmes.
+         [1913 Webster]
+
+   3. One who shows trained skill or rare taste in any manual
+      art or occupation. --Pope.
+      [1913 Webster]
+
+   4. An artful person; a schemer. [Obs.]
+      [1913 Webster]
+
+   Syn: Artisan. See {Artisan}.
+        [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>artist</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>artist
+     n : a person whose creative work shows sensitivity and
+         imagination [syn: {creative person}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

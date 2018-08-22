@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>chatting</Word>
+  <Definitions>
+    <Definition>
+      <Word>chatting</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Chat \Chat\ (ch[a^]t), v. i. [imp. &amp; p. p. {Chatted}; p. pr. &amp;
+   vb. n. {Chatting}.] [From {Chatter}. [root]22.]
+   To talk in a light and familiar manner; to converse without
+   form or ceremony; to gossip. --Shak.
+   [1913 Webster]
+
+         To chat a while on their adventures.     --Dryden.
+
+   Syn: To talk; chatter; gossip; converse.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chatting</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>chatting
+     See {chat}
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chatting</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>chat
+     n 1: an informal conversation [syn: {confab}, {confabulation}, {schmooze},
+           {schmoose}]
+     2: birds having a chattering call [syn: {New World chat}]
+     3: songbirds having a chattering call [syn: {Old World chat}]
+     v : talk socially without exchanging too much information; "the
+         men were sitting in the cafe and shooting the breeze"
+         [syn: {chew the fat}, {shoot the breeze}, {confabulate},
+         {confab}, {chitchat}, {chatter}, {chaffer}, {natter}, {gossip},
+          {jaw}, {claver}, {visit}]
+     [also: {chatting}, {chatted}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

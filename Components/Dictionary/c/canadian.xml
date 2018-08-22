@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>canadian</Word>
+  <Definitions>
+    <Definition>
+      <Word>canadian</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Canadian, OK (town, FIPS 11450)
+  Location: 35.17263 N, 95.64887 W
+  Population (1990): 261 (122 housing units)
+  Area: 1.9 sq km (land), 0.0 sq km (water)
+  Zip code(s): 74425
+Canadian, TX (town, FIPS 12412)
+  Location: 35.91066 N, 100.38335 W
+  Population (1990): 2417 (1080 housing units)
+  Area: 3.2 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>canadian</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Canadian \Ca*na"di*an\, a.
+   Of or pertaining to Canada. -- n. A native or inhabitant of
+   Canada.
+   [1913 Webster]
+
+   {Canadian period} (Geol.), A subdivision of the American
+      Lower Silurian system embracing the calciferous, Quebec,
+      and Chazy epochs. This period immediately follows the
+      primordial or Cambrian period, and is by many geologists
+      regarded as the beginning of the Silurian age, See the
+      Diagram, under {Geology}.
+
+   {Canadian goose}, an erroneous variant of {Canada goose}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>canadian</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Canadian
+     adj : of or relating to Canada or its people
+     n 1: a native or inhabitant of Canada
+     2: a river rising in northeastern New Mexico and flowing
+        eastward across the Texas panhandle to become a tributary
+        of the Arkansas River in Oklahoma [syn: {Canadian River}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

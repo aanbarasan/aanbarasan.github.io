@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tested</Word>
+  <Definitions>
+    <Definition>
+      <Word>tested</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Test \Test\, v. t. [imp. &amp; p. p. {Tested}; p. pr. &amp; vb. n.
+   {Testing}.]
+   1. (Metal.) To refine, as gold or silver, in a test, or
+      cupel; to subject to cupellation.
+      [1913 Webster]
+
+   2. To put to the proof; to prove the truth, genuineness, or
+      quality of by experiment, or by some principle or
+      standard; to try; as, to test the soundness of a
+      principle; to test the validity of an argument.
+      [1913 Webster]
+
+            Experience is the surest standard by which to test
+            the real tendency of the existing constitution.
+                                                  --Washington.
+      [1913 Webster]
+
+   3. (Chem.) To examine or try, as by the use of some reagent;
+      as, to test a solution by litmus paper.
+      [1913 Webster]
+
+   4. To administer a test[8] to (someone) for the purpose of
+      ascertaining a person's knowledge or skill; especially, in
+      academic settings, to determine how well a student has
+      learned the subject matter of a course of instruction.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tested</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tested
+     adj 1: tested and proved useful or correct; "a tested method" [syn:
+             {tried}, {well-tried}]
+     2: tested and proved to be reliable [syn: {time-tested}, {tried},
+         {tried and true}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

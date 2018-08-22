@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>alibi</Word>
+  <Definitions>
+    <Definition>
+      <Word>alibi</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Alibi \Al"i*bi\, n. [L., elsewhere, at another place. See
+   {Alias}.] (Law)
+   The plea or mode of defense under which a person on trial for
+   a crime proves or attempts to prove that he was in another
+   place when the alleged act was committed; as, to set up an
+   alibi; to prove an alibi.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>alibi</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>alibi
+     n 1: (law) a defense by an accused person purporting to show that
+          he or she could not have committed the crime in question
+     2: a defense of some offensive behavior or some failure to keep
+        a promise etc.; "he kept finding excuses to stay"; "every
+        day he had a new alibi for not getting a job"; "his
+        transparent self-justification was unacceptable" [syn: {excuse},
+         {exculpation}, {self-justification}]
+     v : exonerate by means of an alibi
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

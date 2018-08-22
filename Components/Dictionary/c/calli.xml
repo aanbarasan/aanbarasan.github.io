@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>calli</Word>
+  <Definitions>
+    <Definition>
+      <Word>calli</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>calli
+     See {callus}
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>calli</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>callus
+     n 1: an area of skin that is thick or hard from continual
+          pressure or friction (as the sole of the foot) [syn: {callosity}]
+     2: bony tissue formed during the healing of a fractured bone
+     3: (botany) an isolated thickening of tissue, especially a
+        stiff protuberance on the lip of an orchid
+     v 1: cause a callus to form on; "The long march had callused his
+          feet"
+     2: form a callus or calluses; "His foot callused"
+     [also: {calli} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>creepy</Word>
+  <Definitions>
+    <Definition>
+      <Word>creepy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Creepy \Creep"y\ (kr[=e]p"[y^]), a.
+   Crawly; having or producing a sensation like that caused by
+   insects creeping on the skin. [Colloq.]
+   [1913 Webster]
+
+         One's whole blood grew curdling and creepy. --R.
+                                                  Browning.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>creepy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>creepy
+     adj 1: annoying and unpleasant; "some creepy kids were bothering
+            her"
+     2: causing a sensation as of things crawling on your skin; "a
+        creepy story"; "I had a creepy-crawly feeling" [syn: {creepy-crawly}]
+     [also: {creepiest}, {creepier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

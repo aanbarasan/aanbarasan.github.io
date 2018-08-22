@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>emily</Word>
+  <Definitions>
+    <Definition>
+      <Word>emily</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Emily, MN (city, FIPS 19286)
+  Location: 46.75688 N, 93.96152 W
+  Population (1990): 613 (757 housing units)
+  Area: 77.7 sq km (land), 15.8 sq km (water)
+  Zip code(s): 56447
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>baboon</Word>
+  <Definitions>
+    <Definition>
+      <Word>baboon</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Baboon \Bab*oon"\, n. [OE. babewin, baboin, fr. F. babouin, or
+   LL. babewynus. Of unknown origin; cf. D. baviaan, G. pavian,
+   baboon, F. babine lip of ape, dogs, etc., dial. G. b["a]ppe
+   mouth.] (Zo["o]l.)
+   One of the Old World Quadrumana, of the genera {Cynocephalus}
+   and {Papio}; the dog-faced ape. Baboons have dog-like muzzles
+   and large canine teeth, cheek pouches, a short tail, and
+   naked callosities on the buttocks. They are mostly African.
+   See {Mandrill}, and {Chacma}, and {Drill} an ape.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>baboon</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>baboon
+     n : large terrestrial monkeys having doglike muzzles
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

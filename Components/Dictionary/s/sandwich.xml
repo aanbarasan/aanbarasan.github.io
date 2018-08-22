@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sandwich</Word>
+  <Definitions>
+    <Definition>
+      <Word>sandwich</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Sandwich, IL (city, FIPS 67548)
+  Location: 41.64658 N, 88.62308 W
+  Population (1990): 5567 (2158 housing units)
+  Area: 6.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 60548
+Sandwich, MA (CDP, FIPS 59700)
+  Location: 41.75783 N, 70.49981 W
+  Population (1990): 2998 (1688 housing units)
+  Area: 9.4 sq km (land), 0.4 sq km (water)
+  Zip code(s): 02563
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sandwich</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sandwich \Sand"wich\ (?; 277), n. [Named from the Earl of
+   Sandwich.]
+
+   1. /Two pieces of bread and butter with a thin slice of meat,
+      cheese, or the like, between them.
+      [1913 Webster]
+
+   2. Any food composed of two pieces of bread with another food
+      in between.
+
+   3. Any object composed of two layers of one subtance on
+      either side of a second substance.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sandwich</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sandwich \Sand"wich\, v. t. [imp. &amp; p. p. {Sandwiched}; p. pr. &amp;
+   vb. n. {Sandwiching}.]
+   To make into a sandwich; also, figuratively, to insert
+   between portions of something dissimilar; to form of
+   alternate parts or things, or alternating layers of a
+   different nature; to interlard.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sandwich</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sandwich
+     n : two (or more) slices of bread with a filling between them
+     v 1: make into a sandwich
+     2: insert or squeeze tightly between two people or objects;
+        "She was sandwiched in her airplane seat between two fat
+        men"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

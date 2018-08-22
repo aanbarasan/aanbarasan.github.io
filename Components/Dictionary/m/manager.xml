@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>manager</Word>
+  <Definitions>
+    <Definition>
+      <Word>manager</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Manager \Man"a*ger\, n.
+   1. One who manages; a conductor or director; as, the manager
+      of a theater.
+      [1913 Webster]
+
+            A skillful manager of the rabble.     --South.
+      [1913 Webster]
+
+   2. A person who conducts business or household affairs with
+      economy and frugality; a good economist.
+      [1913 Webster]
+
+            A prince of great aspiring thoughts; in the main, a
+            manager of his treasure.              --Sir W.
+                                                  Temple.
+      [1913 Webster]
+
+   3. A contriver; an intriguer. --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>manager</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>manager
+     n 1: someone who controls resources and expenditures [syn: {director},
+           {managing director}]
+     2: (sports) someone in charge of training an athlete or a team
+        [syn: {coach}, {handler}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

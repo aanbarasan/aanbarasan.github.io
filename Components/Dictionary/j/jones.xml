@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>jones</Word>
+  <Definitions>
+    <Definition>
+      <Word>jones</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Jones, AL
+  Zip code(s): 36749
+Jones, LA
+  Zip code(s): 71250
+Jones, MI
+  Zip code(s): 49061
+Jones, OK (town, FIPS 38350)
+  Location: 35.56660 N, 97.29057 W
+  Population (1990): 2424 (935 housing units)
+  Area: 35.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 73049
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>jones</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Jones
+     n 1: United States labor leader (born in Ireland) who helped to
+          found the Industrial Workers of the World (1830-1930)
+          [syn: {Mother Jones}, {Mary Harris Jones}]
+     2: United States railroad engineer who died trying to stop his
+        train from crashing into another train; a friend wrote a
+        famous ballad describing the incident (1864-1900) [syn: {Casey
+        Jones}, {John Luther Jones}]
+     3: United States golfer (1902-1971) [syn: {Bobby Jones}, {Robert
+        Tyre Jones}]
+     4: American naval commander in the American Revolution
+        (1747-1792) [syn: {John Paul Jones}]
+     5: one of the first great English architects and a theater
+        designer (1573-1652) [syn: {Inigo Jones}]
+     6: English phonetician (1881-1967) [syn: {Daniel Jones}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

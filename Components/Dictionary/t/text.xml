@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>text</Word>
+  <Definitions>
+    <Definition>
+      <Word>text</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>text
+     
+        1. Executable code, especially a "pure code" portion shared
+        between multiple instances of a program running in a
+        {multitasking} {operating system}.
+     
+        Compare {English}.
+     
+        2. Textual material in the mainstream sense; data in ordinary
+        {ASCII} or {EBCDIC} representation (see {flat ASCII}).  "Those
+        are text files; you can review them using the editor."
+     
+        These two contradictory senses confuse hackers too.
+     
+        [{Jargon File}]
+     
+        (1995-03-16)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>text</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Text \Text\, v. t.
+   To write in large characters, as in text hand. [Obs.] --Beau.
+   &amp; Fl.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>text</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Text \Text\ (t[e^]kst), n. [F. texte, L. textus, texture,
+   structure, context, fr. texere, textum, to weave, construct,
+   compose; cf. Gr. te`ktwn carpenter, Skr. taksh to cut, carve,
+   make. Cf. {Context}, {Mantle}, n., {Pretext}, {Tissue},
+   {Toil} a snare.]
+   1. A discourse or composition on which a note or commentary
+      is written; the original words of an author, in
+      distinction from a paraphrase, annotation, or commentary.
+      --Chaucer.
+      [1913 Webster]
+
+   2. (O. Eng. Law) The four Gospels, by way of distinction or
+      eminence. [R.]
+      [1913 Webster]
+
+   3. A verse or passage of Scripture, especially one chosen as
+      the subject of a sermon, or in proof of a doctrine.
+      [1913 Webster]
+
+            How oft, when Paul has served us with a text,
+            Has Epictetus, Plato, Tully, preached! --Cowper.
+      [1913 Webster]
+
+   4. Hence, anything chosen as the subject of an argument,
+      literary composition, or the like; topic; theme.
+      [1913 Webster]
+
+   5. A style of writing in large characters; text-hand also, a
+      kind of type used in printing; as, German text.
+      [1913 Webster]
+
+   6. That part of a document (printed or electronic) comprising
+      the words, especially the main body of expository words,
+      in contrast to the illustrations, pictures, charts,
+      tables, or other formatted material which contain graphic
+      elements as a major component.
+      [PJC]
+
+   7. Any communication composed of words.
+      [PJC]
+
+   8. a textbook.
+      [PJC]
+
+   {Text blindness}. (Physiol.) See {Word blindness}, under
+      {Word}.
+
+   {Text letter}, a large or capital letter. [Obs.]
+
+   {Text pen}, a kind of metallic pen used in engrossing, or in
+      writing text-hand.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>text</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>text n. 1. [techspeak] Executable code, esp. a `pure code' portion
+   shared between multiple instances of a program running in a multitasking
+   OS. Compare {English}. 2. Textual material in the mainstream sense; data
+   in ordinary {{ASCII}} or {{EBCDIC}} representation (see {flat-ASCII}).
+   "Those are text files; you can review them using the editor." These two
+   contradictory senses confuse hackers, too.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>text</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>text
+     n 1: the words of something written; "there were more than a
+          thousand words of text"; "they handed out the printed
+          text of the mayor's speech"; "he wants to reconstruct
+          the original text" [syn: {textual matter}]
+     2: a passage from the Bible that is used as the subject of a
+        sermon; "the preacher chose a text from Psalms to
+        introduce his sermon"
+     3: a book prepared for use in schools or colleges; "his
+        economics textbook is in its tenth edition"; "the
+        professor wrote the text that he assigned students to buy"
+        [syn: {textbook}, {text edition}, {schoolbook}, {school
+        text}] [ant: {trade book}]
+     4: the main body of a written work (as distinct from
+        illustrations or footnotes etc.); "pictures made the text
+        easier to understand"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

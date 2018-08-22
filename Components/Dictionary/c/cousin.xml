@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cousin</Word>
+  <Definitions>
+    <Definition>
+      <Word>cousin</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cousin \Cous"in\, n.
+   Allied; akin. [Obs.] --Chaucer.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cousin</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cousin \Cous"in\ (k[u^]z"'n), n. [F. cousin, LL. cosinus,
+   cusinus, contr. from L. consobrinus the child of a mother's
+   sister, cousin; con- + sobrinus a cousin by the mother's
+   side, a form derived fr. soror (for sosor) sister. See
+   {Sister}, and cf. {Cozen}, {Coz}.]
+   1. One collaterally related more remotely than a brother or
+      sister; especially, the son or daughter of an uncle or
+      aunt.
+      [1913 Webster]
+
+   Note: The children of brothers and sisters are usually
+         denominated {first cousins}, or {cousins-german}. In
+         the second generation, they are called {second
+         cousins}. See {Cater-cousin}, and {Quater-cousin}.
+         [1913 Webster]
+
+               Thou art, great lord, my father's sister's son,
+               A cousin-german to great Priam's seed. --Shak.
+         [1913 Webster]
+
+   2. A title formerly given by a king to a nobleman,
+      particularly to those of the council. In English writs,
+      etc., issued by the crown, it signifies any earl.
+      [1913 Webster]
+
+            My noble lords and cousins, all, good morrow.
+                                                  --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cousin</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cousin
+     n : the child of your aunt or uncle [syn: {first cousin}, {cousin-german},
+          {full cousin}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

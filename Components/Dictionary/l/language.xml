@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>language</Word>
+  <Definitions>
+    <Definition>
+      <Word>language</Word>
+      <Dictionary>
+        <Id>devils</Id>
+        <Name>THE DEVIL'S DICTIONARY ((C)1911 Released April 15 1993)</Name>
+      </Dictionary>
+      <WordDefinition>LANGUAGE, n.  The music with which we charm the serpents guarding
+another's treasure.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>language</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>language
+     
+        1. &lt;language, programming&gt; {programming language}.
+     
+        2. &lt;human language&gt; {natural language}.
+     
+        (1998-09-07)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>language</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Language \Lan"guage\, n. [OE. langage, F. langage, fr. L. lingua
+   the tongue, hence speech, language; akin to E. tongue. See
+   {Tongue}, cf. {Lingual}.]
+   [1913 Webster]
+   1. Any means of conveying or communicating ideas;
+      specifically, human speech; the expression of ideas by the
+      voice; sounds, expressive of thought, articulated by the
+      organs of the throat and mouth.
+      [1913 Webster]
+
+   Note: Language consists in the oral utterance of sounds which
+         usage has made the representatives of ideas. When two
+         or more persons customarily annex the same sounds to
+         the same ideas, the expression of these sounds by one
+         person communicates his ideas to another. This is the
+         primary sense of language, the use of which is to
+         communicate the thoughts of one person to another
+         through the organs of hearing. Articulate sounds are
+         represented to the eye by letters, marks, or
+         characters, which form words.
+         [1913 Webster]
+
+   2. The expression of ideas by writing, or any other
+      instrumentality.
+      [1913 Webster]
+
+   3. The forms of speech, or the methods of expressing ideas,
+      peculiar to a particular nation.
+      [1913 Webster]
+
+   4. The characteristic mode of arranging words, peculiar to an
+      individual speaker or writer; manner of expression; style.
+      [1913 Webster]
+
+            Others for language all their care express. --Pope.
+      [1913 Webster]
+
+   5. The inarticulate sounds by which animals inferior to man
+      express their feelings or their wants.
+      [1913 Webster]
+
+   6. The suggestion, by objects, actions, or conditions, of
+      ideas associated therewith; as, the language of flowers.
+      [1913 Webster]
+
+            There was . . . language in their very gesture.
+                                                  --Shak.
+      [1913 Webster]
+
+   7. The vocabulary and phraseology belonging to an art or
+      department of knowledge; as, medical language; the
+      language of chemistry or theology.
+      [1913 Webster]
+
+   8. A race, as distinguished by its speech. [R.]
+      [1913 Webster]
+
+            All the people, the nations, and the languages, fell
+            down and worshiped the golden image.  --Dan. iii. 7.
+      [1913 Webster]
+
+   9. Any system of symbols created for the purpose of
+      communicating ideas, emotions, commands, etc., between
+      sentient agents.
+      [PJC]
+
+   10. Specifically: (computers) Any set of symbols and the
+       rules for combining them which are used to specify to a
+       computer the actions that it is to take; also referred to
+       as a {computer lanugage} or {programming language}; as,
+       JAVA is a new and flexible high-level language which has
+       achieved popularity very rapidly.
+       [PJC]
+
+   Note: Computer languages are classed a low-level if each
+         instruction specifies only one operation of the
+         computer, or high-level if each instruction may specify
+         a complex combination of operations. {Machine language}
+         and {assembly language} are low-level computer
+         languages. {FORTRAN}, {COBOL} and {C} are high-level
+         computer languages. Other computer languages, such as
+         JAVA, allow even more complex combinations of low-level
+         operations to be performed with a single command. Many
+         programs, such as databases, are supplied with special
+         languages adapted to manipulate the objects of concern
+         for that specific program. These are also high-level
+         languages.
+         [PJC]
+
+   {Language master}, a teacher of languages. [Obs.]
+
+   Syn: Speech; tongue; idiom; dialect; phraseology; diction;
+        discourse; conversation; talk.
+
+   Usage: {Language}, {Speech}, {Tongue}, {Idiom}, {Dialect}.
+          Language is generic, denoting, in its most extended
+          use, any mode of conveying ideas; speech is the
+          language of articulate sounds; tongue is the
+          Anglo-Saxon term for language, esp. for spoken
+          language; as, the English tongue. Idiom denotes the
+          forms of construction peculiar to a particular
+          language; dialects are varieties of expression which
+          spring up in different parts of a country among people
+          speaking substantially the same language.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>language</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Language \Lan"guage\, v. t. [imp. &amp; p. p. {Languaged}; p. pr. &amp;
+   vb. n. {Languaging}.]
+   To communicate by language; to express in language.
+   [1913 Webster]
+
+         Others were languaged in such doubtful expressions that
+         they have a double sense.                --Fuller.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>language</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>language
+     n 1: a systematic means of communicating by the use of sounds or
+          conventional symbols; "he taught foreign languages";
+          "the language introduced is standard throughout the
+          text"; "the speed with which a program can be executed
+          depends on the language in which it is written" [syn: {linguistic
+          communication}]
+     2: (language) communication by word of mouth; "his speech was
+        garbled"; "he uttered harsh language"; "he recorded the
+        spoken language of the streets" [syn: {speech}, {speech
+        communication}, {spoken communication}, {spoken language},
+         {voice communication}, {oral communication}]
+     3: a system of words used in a particular discipline; "legal
+        terminology"; "the language of sociology" [syn: {terminology},
+         {nomenclature}]
+     4: the cognitive processes involved in producing and
+        understanding linguistic communication; "he didn't have
+        the language to express his feelings" [syn: {linguistic
+        process}]
+     5: the mental faculty or power of vocal communication;
+        "language sets homo sapiens apart from all other animals"
+        [syn: {speech}]
+     6: the text of a popular song or musical-comedy number; "his
+        compositions always started with the lyrics"; "he wrote
+        both words and music"; "the song uses colloquial language"
+        [syn: {lyric}, {words}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

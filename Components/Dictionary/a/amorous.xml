@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>amorous</Word>
+  <Definitions>
+    <Definition>
+      <Word>amorous</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Amorous \Am"o*rous\, a. [OF. amoros, F. amoreux, LL. amorosus,
+   fr. L. amor love, fr. amare to love.]
+   1. Inclined to love; having a propensity to love, or to
+      sexual enjoyment; loving; fond; affectionate; as, an
+      amorous disposition.
+      [1913 Webster]
+
+   2. Affected with love; in love; enamored; -- usually with of;
+      formerly with on.
+      [1913 Webster]
+
+            Thy roses amorous of the moon.        --Keats.
+      [1913 Webster]
+
+            High nature amorous of the good.      --Tennyson.
+      [1913 Webster]
+
+            Sure my brother is amorous on Hero.   --Shak.
+      [1913 Webster]
+
+   3. Of or relating to, or produced by, love. ``Amorous
+      delight.'' --Milton. ``Amorous airs.'' --Waller.
+      [1913 Webster]
+
+   Syn: Loving; fond; tender; passionate; affectionate; devoted;
+        ardent.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>amorous</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>amorous
+     adj 1: inclined toward or displaying love; "feeling amorous" [syn:
+            {amative}]
+     2: expressive of or exciting sexual love or romance; "her
+        amatory affairs"; "amorous glances"; "a romantic
+        adventure"; "a romantic moonlight ride" [syn: {amatory}, {romantic}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

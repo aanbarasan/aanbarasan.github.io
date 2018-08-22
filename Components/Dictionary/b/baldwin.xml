@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>baldwin</Word>
+  <Definitions>
+    <Definition>
+      <Word>baldwin</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Baldwin, FL (town, FIPS 3250)
+  Location: 30.30440 N, 81.97520 W
+  Population (1990): 1450 (603 housing units)
+  Area: 5.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 32234
+Baldwin, GA (city, FIPS 4980)
+  Location: 34.49213 N, 83.55004 W
+  Population (1990): 1439 (577 housing units)
+  Area: 9.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 30511
+Baldwin, IA (city, FIPS 4330)
+  Location: 42.07357 N, 90.83900 W
+  Population (1990): 137 (61 housing units)
+  Area: 0.9 sq km (land), 0.0 sq km (water)
+  Zip code(s): 52207
+Baldwin, IL (village, FIPS 3454)
+  Location: 38.18372 N, 89.84456 W
+  Population (1990): 426 (177 housing units)
+  Area: 1.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 62217
+Baldwin, LA (town, FIPS 4020)
+  Location: 29.83345 N, 91.55374 W
+  Population (1990): 2379 (785 housing units)
+  Area: 2.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 70514
+Baldwin, MD
+  Zip code(s): 21013
+Baldwin, MI (village, FIPS 4940)
+  Location: 43.89758 N, 85.85236 W
+  Population (1990): 821 (408 housing units)
+  Area: 3.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 49304
+Baldwin, ND
+  Zip code(s): 58521
+Baldwin, NY (CDP, FIPS 4143)
+  Location: 40.66298 N, 73.61122 W
+  Population (1990): 22719 (7979 housing units)
+  Area: 7.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 11510
+Baldwin, PA (borough, FIPS 3928)
+  Location: 40.36321 N, 79.96615 W
+  Population (1990): 21923 (8917 housing units)
+  Area: 15.0 sq km (land), 0.4 sq km (water)
+Baldwin, WI (village, FIPS 4400)
+  Location: 44.96286 N, 92.37106 W
+  Population (1990): 2022 (822 housing units)
+  Area: 4.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 54002
+Baldwin, WV
+  Zip code(s): 26351
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>baldwin</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Baldwin \Bald"win\, n. (Bot.)
+   A kind of reddish, moderately acid, winter apple. [U.S.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>baldwin</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Baldwin
+     n 1: United States author who was an outspoken citic of racism
+          (1924-1987) [syn: {James Baldwin}, {James Arthur Baldwin}]
+     2: English statesman; member of the Conservative Party
+        (1867-1947) [syn: {Stanley Baldwin}, {1st Earl Baldwin of
+        Bewdley}]
+     3: an American eating apple with red or yellow and red skin
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>aboveground</Word>
+  <Definitions>
+    <Definition>
+      <Word>aboveground</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>aboveground
+     adj : on or above the surface of the ground; "aboveground nuclear
+           testing"; "surface instruments for detecting oil
+           deposits"; "surface transportation"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

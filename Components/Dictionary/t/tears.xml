@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tears</Word>
+  <Definitions>
+    <Definition>
+      <Word>tears</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tears
+     n : the process of shedding tears (usually accompanied by sobs
+         or other inarticulate sounds); "I hate to hear the crying
+         of a child"; "she was in tears" [syn: {crying}, {weeping}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

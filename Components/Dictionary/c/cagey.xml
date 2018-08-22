@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cagey</Word>
+  <Definitions>
+    <Definition>
+      <Word>cagey</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cagey
+     adj 1: showing self-interest and shrewdness in dealing with others;
+            "a cagey lawyer"; "too clever to be sound" [syn: {cagy},
+             {canny}, {clever}]
+     2: characterized by great cautious and wariness; "a cagey
+        avoidance of a definite answer"; "chary of the risks
+        involved"; "a chary investor" [syn: {cagy}, {chary}]
+     [also: {cagiest}, {cagier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

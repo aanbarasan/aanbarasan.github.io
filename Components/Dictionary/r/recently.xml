@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>recently</Word>
+  <Definitions>
+    <Definition>
+      <Word>recently</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Recently \Re"cent*ly\ (r[=e]"sent*l[y^]), adv.
+   Newly; lately; freshly; not long since; as, advices recently
+   received.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>recently</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>recently
+     adv 1: in the recent past; "he was in Paris recently"; "lately the
+            rules have been enforced"; "as late as yesterday she
+            was fine"; "feeling better of late"; "the spelling was
+            first affected, but latterly the meaning also" [syn: {late},
+             {lately}, {of late}, {latterly}]
+     2: very recently; "they are newly married"; "newly raised
+        objections"; "a newly arranged hairdo"; "grass new washed
+        by the rain"; "a freshly cleaned floor"; "we are fresh out
+        of tomatoes" [syn: {newly}, {freshly}, {fresh}, {new}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

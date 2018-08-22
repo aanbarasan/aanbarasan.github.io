@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>spicy</Word>
+  <Definitions>
+    <Definition>
+      <Word>spicy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Spicy \Spi"cy\, a. [Compar. {Spicier}; superl. {Spiciest}.]
+   [From {Spice}.]
+   1. Flavored with, or containing, spice or spices; fragrant;
+      aromatic; as, spicy breezes. ``The spicy nut-brown ale.''
+      --Milton.
+      [1913 Webster]
+
+            Led by new stars, and borne by spicy gales. --Pope.
+      [1913 Webster]
+
+   2. Producing, or abounding with, spices.
+      [1913 Webster]
+
+            In hot Ceylon spicy forests grew.     --Dryden.
+      [1913 Webster]
+
+   3. Fig.: Piquant; racy; as, a spicy debate.
+      [1913 Webster]
+
+   Syn: Aromatic; fragrant; smart; pungent; pointed; keen. See
+        {Racy}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>spicy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>spicy
+     adj 1: having an agreeably pungent taste [syn: {piquant}, {savory},
+             {savoury}, {zesty}]
+     2: suggestive of sexual impropriety; "a blue movie"; "blue
+        jokes"; "he skips asterisks and gives you the gamy
+        details"; "a juicy scandal"; "a naughty wink"; "naughty
+        words"; "racy anecdotes"; "a risque story"; "spicy gossip"
+        [syn: {blue}, {gamy}, {gamey}, {juicy}, {naughty}, {racy},
+         {risque}]
+     3: having a piquant burning taste of spices or peppers;
+        "gingery Chinese food"; "hot peppers"; "hot curry"; "corn
+        chips with peppery salsa"; "spicy tomato sauce" [syn: {gingery},
+         {hot}, {peppery}]
+     [also: {spiciest}, {spicier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

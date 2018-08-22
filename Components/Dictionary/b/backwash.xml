@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>backwash</Word>
+  <Definitions>
+    <Definition>
+      <Word>backwash</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>backwash \back"wash`\, n.
+   1. The flow of water propelled backward by the propeller,
+      paddle wheel, or oars of a boat.
+      [PJC]
+
+   2. (Aeron.) The backward flowing air within the wash of an
+      airplane, caused mostly by the engine.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>backwash</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>backwash \back"wash`\, v. t.
+   1. To clean the oil from (wool) after combing. --Ash.
+      [1913 Webster]
+
+   2. (Chem.) To clean (a filter, a chromatography column, a
+      water softener, etc.) by passing liquid through in the
+      reverse of the normal direction of flow. This procedure
+      dislodges particles which clog the pores of the filter or
+      column packing, removing them from the filter or column.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>backwash</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>backwash
+     n 1: the flow of air that is driven backwards by an aircraft
+          propeller [syn: {slipstream}, {airstream}, {race}, {wash}]
+     2: the consequences of an event (especially a catastrophic
+        event); "the aftermath of war"; "in the wake of the
+        accident no one knew how many had been injured" [syn: {aftermath},
+         {wake}]
+     3: the wave that spreads behind a boat as it moves forward;
+        "the motorboat's wake capsized the canoe" [syn: {wake}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

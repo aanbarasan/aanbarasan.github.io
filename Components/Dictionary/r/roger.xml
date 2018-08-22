@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>roger</Word>
+  <Definitions>
+    <Definition>
+      <Word>roger</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Roger \Rog"er\, n. [From a proper name Roger.]
+   A black flag with white skull and crossbones, formerly used
+   by pirates; -- called also {Jolly Roger} and {pirate flag}.
+   [Webster 1913 Suppl. +PJC]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

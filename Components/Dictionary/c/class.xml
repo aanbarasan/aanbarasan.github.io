@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>class</Word>
+  <Definitions>
+    <Definition>
+      <Word>class</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>class
+     
+        1. &lt;programming&gt; The prototype for an {object} in an
+        {object-oriented language}; analogous to a {derived type} in a
+        {procedural language}.  A class may also be considered to be a
+        set of objects which share a common structure and behaviour.
+        The structure of a class is determined by the {class
+        variables} which represent the {state} of an object of that
+        class and the behaviour is given by a set of {methods}
+        associated with the class.
+     
+        Classes are related in a {class hierarchy}.  One class may be
+        a specialisation (a "{subclass}") of another (one of its
+        "{superclasses}") or it may be composed of other classes or it
+        may use other classes in a {client-server} relationship.  A
+        class may be an {abstract class} or a {concrete class}.
+     
+        See also {signature}.
+     
+        2. &lt;programming&gt; See {type class}.
+     
+        3. &lt;networking&gt; One of three types of {Internet addresses}
+        distinguished by their most significant bits.
+     
+        3. &lt;language&gt; A language developed by the {Andrew Project}.
+        It was one of the first attempts to add {object-oriented}
+        features to {C}.
+     
+        (1995-05-01)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>class</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Class \Class\ (kl[.a]s), n. [F. classe, fr. L. classis class,
+   collection, fleet; akin to Gr. klh^sis a calling, kalei^n to
+   call, E. claim, haul.]
+   1. A group of individuals ranked together as possessing
+      common characteristics; as, the different classes of
+      society; the educated class; the lower classes.
+      [1913 Webster]
+
+   2. A number of students in a school or college, of the same
+      standing, or pursuing the same studies.
+      [1913 Webster]
+
+   3. A comprehensive division of animate or inanimate objects,
+      grouped together on account of their common
+      characteristics, in any classification in natural science,
+      and subdivided into orders, families, tribes, genera, etc.
+      [1913 Webster]
+
+   4. A set; a kind or description, species or variety.
+      [1913 Webster]
+
+            She had lost one class energies.      --Macaulay.
+      [1913 Webster]
+
+   5. (Methodist Church) One of the sections into which a church
+      or congregation is divided, and which is under the
+      supervision of a class leader.
+      [1913 Webster]
+
+   {Class of a curve} (Math.), the kind of a curve as expressed
+      by the number of tangents that can be drawn from any point
+      to the curve. A circle is of the second class.
+
+   {Class meeting} (Methodist Church), a meeting of a class
+      under the charge of a class leader, for counsel and
+      relegious instruction.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>class</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Class \Class\ (kl[.a]s), v. t. [imp. &amp; p. p. {Classed}
+   (kl[.a]st); p. pr. &amp; vb. n. {Classing}.] [Cf. F. classer. See
+   {Class}, n.]
+   1. To arrange in classes; to classify or refer to some class;
+      as, to class words or passages.
+      [1913 Webster]
+
+   Note: In scientific arrangement, to classify is used instead
+         of to class. --Dana.
+         [1913 Webster]
+
+   2. To divide into classes, as students; to form into, or
+      place in, a class or classes.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>class</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Class \Class\, v. i.
+   To be grouped or classed.
+   [1913 Webster]
+
+         The genus or family under which it classes. --Tatham.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>class</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Class \Class\ (kl[.a]s), a.
+   exhibiting refinement and high character; as, a class act.
+   Opposite of {low-class} [informal]
+
+   Syn: high-class. [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>class</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>CLASS
+     Centralized Local Area Selective Signaling
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>class</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>CLASS
+     Custom Local Area Signaling Service
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>class</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>class
+     n 1: people having the same social or economic status; "the
+          working class"; "an emerging professional class" [syn: {social
+          class}, {socio-economic class}]
+     2: a body of students who are taught together; "early morning
+        classes are always sleepy" [syn: {form}, {grade}]
+     3: education imparted in a series of lessons or class meetings;
+        "he took a course in basket weaving"; "flirting is not
+        unknown in college classes" [syn: {course}, {course of
+        study}, {course of instruction}]
+     4: a collection of things sharing a common attribute; "there
+        are two classes of detergents" [syn: {category}, {family}]
+     5: a body of students who graduate together; "the class of
+        '97"; "she was in my year at Hoehandle High" [syn: {year}]
+     6: a league ranked by quality; "he played baseball in class D
+        for two years"; "Princeton is in the NCAA Division 1-AA"
+        [syn: {division}]
+     7: elegance in dress or behavior; "she has a lot of class"
+     8: (biology) a taxonomic group containing one or more orders
+     v : arrange or order by classes or categories; "How would you
+         classify these pottery shards--are they prehistoric?"
+         [syn: {classify}, {sort}, {assort}, {sort out}, {separate}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

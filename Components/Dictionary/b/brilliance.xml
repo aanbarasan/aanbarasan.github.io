@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>brilliance</Word>
+  <Definitions>
+    <Definition>
+      <Word>brilliance</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>brilliance
+     n 1: great brightness; "a glare of sunlight"; "the flowers were a
+          blaze of color" [syn: {glare}, {blaze}]
+     2: the quality of being magnificent or splendid or grand [syn:
+        {magnificence}, {splendor}, {splendour}, {grandeur}, {grandness}]
+     3: unusual mental ability [syn: {genius}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

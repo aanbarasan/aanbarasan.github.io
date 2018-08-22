@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>blurry</Word>
+  <Definitions>
+    <Definition>
+      <Word>blurry</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Blurry \Blur"ry\ (bl[^u]r"r[y^]), a.
+   Full of blurs; blurred.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>blurry</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>blurry
+     adj : indistinct or hazy in outline; "a landscape of blurred
+           outlines"; "the trees were just blurry shapes" [syn: {bleary},
+            {blurred}, {foggy}, {fuzzy}, {hazy}, {muzzy}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

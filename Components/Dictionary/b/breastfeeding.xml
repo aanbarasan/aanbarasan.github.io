@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>breastfeeding</Word>
+  <Definitions>
+    <Definition>
+      <Word>breastfeeding</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>breast feeding
+     n : nourishing at the breast [syn: {nursing}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

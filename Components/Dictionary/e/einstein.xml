@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>einstein</Word>
+  <Definitions>
+    <Definition>
+      <Word>einstein</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Einstein
+     n 1: physicist born in Germany who formulated the special theory
+          of relativity and the general theory of relativity;
+          Einstein also proposed that light consists of discrete
+          quantized bundles of energy (later called photons)
+          (1879-1955) [syn: {Albert Einstein}]
+     2: someone who has exceptional intellectual ability and
+        originality; "Mozart was a child genius"; "he's smart but
+        he's no Einstein" [syn: {genius}, {mastermind}, {brain}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

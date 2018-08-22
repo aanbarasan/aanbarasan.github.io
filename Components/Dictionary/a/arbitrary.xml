@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>arbitrary</Word>
+  <Definitions>
+    <Definition>
+      <Word>arbitrary</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Arbitrary \Ar"bi*tra*ry\, a. [L. arbitrarius, fr. arbiter: cf.
+   F. arbitraire. See {Arbiter}.]
+   1. Depending on will or discretion; not governed by any fixed
+      rules; as, an arbitrary decision; an arbitrary punishment.
+      [1913 Webster]
+
+            It was wholly arbitrary in them to do so. --Jer.
+                                                  Taylor.
+      [1913 Webster]
+
+            Rank pretends to fix the value of every one, and is
+            the most arbitrary of all things.     --Landor.
+      [1913 Webster]
+
+   2. Exercised according to one's own will or caprice, and
+      therefore conveying a notion of a tendency to abuse the
+      possession of power.
+      [1913 Webster]
+
+            Arbitrary power is most easily established on the
+            ruins of liberty abused licentiousness.
+                                                  --Washington.
+      [1913 Webster]
+
+   3. Despotic; absolute in power; bound by no law; harsh and
+      unforbearing; tyrannical; as, an arbitrary prince or
+      government.                                 --Dryden.
+      [1913 Webster]
+
+   {Arbitrary constant}, {Arbitrary function} (Math.), a
+      quantity of function that is introduced into the solution
+      of a problem, and to which any value or form may at will
+      be given, so that the solution may be made to meet special
+      requirements.
+
+   {Arbitrary quantity} (Math.), one to which any value can be
+      assigned at pleasure.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>arbitrary</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>arbitrary
+     adj : based on or subject to individual discretion or preference
+           or sometimes impulse or caprice; "an arbitrary
+           decision"; "the arbitrary rule of a dictator"; "an
+           arbitrary penalty"; "of arbitrary size and shape"; "an
+           arbitrary choice"; "arbitrary division of the group
+           into halves" [ant: {nonarbitrary}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>clientele</Word>
+  <Definitions>
+    <Definition>
+      <Word>clientele</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Clientele \Cli`en*tele"\ (? or ?), n. [L. clientela: cf. F.
+   client[`e]le.]
+   1. The condition or position of a client; clientship. [Obs.]
+      --Bp. Hall.
+      [1913 Webster]
+
+   2. The clients or dependents of a nobleman of patron.
+      [1913 Webster]
+
+   3. The persons who make habitual use of the services of
+      another person; one's clients, collectively; as, the
+      clientele of a lawyer, doctor, notary, etc.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>clientele</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>clientele
+     n : customers collectively; "they have an upper class clientele"
+         [syn: {patronage}, {business}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>aneurysm</Word>
+  <Definitions>
+    <Definition>
+      <Word>aneurysm</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>aneurysm \aneurysm\ n.
+   1. a sac-like widening of a blood vessel.
+      [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>aneurysm</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Aneurism \An"eu*rism\, n. [Gr. ?, ?, a widening, an opening; ?
+   up + ? wide.] (Med.)
+   A soft, pulsating, hollow tumor, containing blood, arising
+   from the preternatural dilation or rupture of the coats of an
+   artery. [Written also {aneurysm}.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>aneurysm</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>aneurysm
+     n : a cardiovascular disease characterized by a sac-like
+         widening of an artery resulting from weakening of the
+         artery wall [syn: {aneurism}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

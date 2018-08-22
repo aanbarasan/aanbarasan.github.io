@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hawking</Word>
+  <Definitions>
+    <Definition>
+      <Word>hawking</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hawk \Hawk\ (h[add]k), v. i. [imp. &amp; p. p. {Hawked} (h[add]kt);
+   p. pr. &amp; vb. n. {Hawking}.]
+   1. To catch, or attempt to catch, birds by means of hawks
+      trained for the purpose, and let loose on the prey; to
+      practice falconry.
+      [1913 Webster]
+
+            A falconer Henry is, when Emma hawks. --Prior.
+      [1913 Webster]
+
+   2. To make an attack while on the wing; to soar and strike
+      like a hawk; -- generally with at; as, to hawk at flies.
+      --Dryden.
+      [1913 Webster]
+
+            A falcon, towering in her pride of place,
+            Was by a mousing owl hawked at and killed. --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hawking</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Hawking
+     n 1: English theoretical physicist (born in 1942) [syn: {Stephen
+          Hawking}, {Stephen William Hawking}]
+     2: the act of selling goods for a living [syn: {vending}, {peddling},
+         {vendition}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

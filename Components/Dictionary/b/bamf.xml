@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bamf</Word>
+  <Definitions>
+    <Definition>
+      <Word>bamf</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>bamf
+     
+        /bamf/ 1. [Old X-Men comics] Notional sound made by a person
+        or object teleporting in or out of the hearer's vicinity.
+        Often used in {virtual reality} (especially {MUD}) electronic
+        {fora} when a character wishes to make a dramatic entrance or
+        exit.
+     
+        2. The sound of magical transformation, used in virtual
+        reality {fora}.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bamf</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>bamf /bamf/ 1. [from X-Men comics; originally "bampf"] interj. Notional
+   sound made by a person or object teleporting in or out of the hearer's
+   vicinity. Often used in {virtual reality} (esp. {MUD}) electronic {fora}
+   when a character wishes to make a dramatic entrance or exit. 2. The
+   sound of magical transformation, used in virtual reality {fora} like
+   MUDs. 3. In MUD circles, "bamf" is also used to refer to the act by
+   which a MUD server sends a special notification to the MUD client to
+   switch its connection to another server ("I'll set up the old site to
+   just bamf people over to our new location."). 4. Used by MUDders on
+   occasion in a more general sense related to sense 3, to refer to
+   directing someone to another location or resource ("A user was asking
+   about some technobabble so I bamfed them to
+   `http://www.tuxedo.org/jargon/'".)
+
+
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

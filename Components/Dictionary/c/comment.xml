@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>comment</Word>
+  <Definitions>
+    <Definition>
+      <Word>comment</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>comment
+     
+        &lt;programming&gt; (Or "remark") Explanatory text embedded in
+        program {source} (or less often data) intended to help human
+        readers understand it.
+     
+        Code completely without comments is often hard to read, but
+        too heavily commented code isn't much better, especially if
+        the comments are not kept up-to-date with changes to the code.
+        Too much commenting may mean that the code is
+        over-complicated.  A good rule is to comment everything that
+        needs it but write code that doesn't need much of it.
+     
+        A particularly irksome form of over-commenting explains
+        exactly what each statement does, even when it is obvious to
+        any reasonably competant programmer, e.g.
+     
+        	/* Open the input file */
+        	infd = open(input_file, O_RDONLY);
+     
+        (1998-04-28)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>comment</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Comment \Com"ment\ (?; 277), v. i. [imp. &amp; p. p. {Commented}; p.
+   pr. &amp; vb. n. {Commenting}.] [F. commenter, L. commentari to
+   meditate upon, explain, v. intens. of comminisci, commentus,
+   to reflect upon, invent; com- + the root of meminisse to
+   remember, mens mind. See {Mind}.]
+   To make remarks, observations, or criticism; especially, to
+   write notes on the works of an author, with a view to
+   illustrate his meaning, or to explain particular passages; to
+   write annotations; -- often followed by on or upon.
+   [1913 Webster]
+
+         A physician to comment on your malady.   --Shak.
+   [1913 Webster]
+
+         Critics . . . proceed to comment on him. --Dryden.
+   [1913 Webster]
+
+         I must translate and comment.            --Pope.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>comment</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Comment \Com"ment\, v. t.
+   To comment on. [Archaic.] --Fuller.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>comment</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Comment \Com"ment\, n. [Cf. OF. comment.]
+   1. A remark, observation, or criticism; gossip; discourse;
+      talk.
+      [1913 Webster]
+
+            Their lavish comment when her name was named.
+                                                  --Tennyson.
+      [1913 Webster]
+
+   2. A note or observation intended to explain, illustrate, or
+      criticise the meaning of a writing, book, etc.;
+      explanation; annotation; exposition.
+      [1913 Webster]
+
+            All the volumes of philosophy,
+            With all their comments.              --Prior.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>comment</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>comment
+     n 1: a statement that expresses a personal opinion or belief;
+          "from time to time she contributed a personal comment on
+          his account" [syn: {remark}]
+     2: a written explanation or criticism or illustration that is
+        added to a book or other textual material; "he wrote an
+        extended comment on the proposal" [syn: {commentary}]
+     3: a report (often malicious) about the behavior of other
+        people; "the divorce caused much gossip" [syn: {gossip}, {scuttlebutt}]
+     v 1: make or write a comment on; "he commented the paper of his
+          colleague" [syn: {notice}, {remark}, {point out}]
+     2: explain or interpret something
+     3: provide interlinear explanations for words or phrases; "He
+        annotated on what his teacher had written" [syn: {gloss},
+        {annotate}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

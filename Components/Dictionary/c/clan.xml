@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>clan</Word>
+  <Definitions>
+    <Definition>
+      <Word>clan</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Clan \Clan\ (kl[a^]n), n. [Gael. clann offspring, descendants;
+   akin to Ir. clann, cland, offspring, tribe, family; perh.
+   from L. plania scion, slip, cutting. Cf. {Plant}, n.]
+   1. A tribe or collection of families, united under a
+      chieftain, regarded as having the same common ancestor,
+      and bearing the same surname; as, the clan of Macdonald.
+      ``I have marshaled my clan.'' --Campbell.
+      [1913 Webster]
+
+   2. A clique; a sect, society, or body of persons; esp., a
+      body of persons united by some common interest or pursuit;
+      -- sometimes used contemptuously.
+      [1913 Webster]
+
+            Partidge and the rest of his clan may hoot me.
+                                                  --Smolett.
+      [1913 Webster]
+
+            The whole clan of the enlightened among us. --Burke.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>clan</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>clan
+     n : group of people related by blood or marriage [syn: {kin}, {kin
+         group}, {kinship group}, {kindred}, {tribe}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

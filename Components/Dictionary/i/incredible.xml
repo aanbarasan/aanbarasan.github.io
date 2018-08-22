@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>incredible</Word>
+  <Definitions>
+    <Definition>
+      <Word>incredible</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Incredible \In*cred"i*ble\, a. [L. incredibilis: cf. OF.
+   incredible. See {In-} not, and {Credible}.]
+   Not credible; surpassing belief; too extraordinary and
+   improbable to admit of belief; unlikely; marvelous; fabulous.
+   [1913 Webster]
+
+         Why should it be thought a thing incredible with you,
+         that God should raise the dead?          --Acts xxvi.
+                                                  8.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>incredible</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>incredible
+     adj : beyond belief or understanding; "at incredible speed"; "the
+           book's plot is simply incredible" [syn: {unbelievable}]
+           [ant: {credible}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

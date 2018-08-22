@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>choir</Word>
+  <Definitions>
+    <Definition>
+      <Word>choir</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Choir \Choir\, n. [OE. quer, OF. cuer, F. ch[oe]ur, fr. L.
+   chorus a choral dance, chorus, choir, fr. Gr. ?, orig.
+   dancing place; prob. akin to ? inclosure, L. hortus garden,
+   and E. yard. See {Chorus}.]
+   1. A band or organized company of singers, especially in
+      church service. [Formerly written also {quire}.]
+      [1913 Webster]
+
+   2. That part of a church appropriated to the singers.
+      [1913 Webster]
+
+   3. (Arch.) The chancel.
+      [1913 Webster]
+
+   {Choir organ} (Mus.), one of the three or five distinct
+      organs included in the full organ, each separable from the
+      rest, but all controlled by one performer; a portion of
+      the full organ, complete in itself, and more practicable
+      for ordinary service and in the accompanying of the vocal
+      choir.
+
+   {Choir screen}, {Choir wall} (Arch.), a screen or low wall
+      separating the choir from the aisles.
+
+   {Choir service}, the service of singing performed by the
+      choir. --T. Warton.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>choir</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>choir
+     n 1: a chorus that sings as part of a religious ceremony
+     2: a family of similar musical instrument playing together
+        [syn: {consort}]
+     3: the area occupied by singers; the part of the chancel
+        between sanctuary and nave
+     v : sing in a choir [syn: {chorus}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

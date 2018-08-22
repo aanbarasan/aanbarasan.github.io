@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ab</Word>
+  <Definitions>
+    <Definition>
+      <Word>ab</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>A&amp;B
+     
+        &lt;communications&gt; A {bit signaling procedure} used in most {T1}
+        transmission facilities where one bit from every sixth frame
+        of each of 24 T1 {subchannels} is used for carrying
+        {supervisory signaling}.
+     
+        [What does it stand for?  Is this the same as "{bit
+        robbing}"?]
+     
+        (1997-05-05)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ab</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ab- \Ab-\ ([a^]b). [Latin prep., etymologically the same as E.
+   of, off. See {Of}.]
+   A prefix in many words of Latin origin. It signifies from,
+   away, separating, or departure, as in abduct, abstract,
+   abscond. See {A-}(6).
+   [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ab</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ab \Ab\ ([a^]b), n. [Of Syriac origin.]
+   The fifth month of the Jewish year according to the
+   ecclesiastical reckoning, the eleventh by the civil
+   computation, coinciding nearly with August. --W. Smith.
+   [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ab</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>AB
+     n 1: the blood group whose red cells carry both the A and B
+          antigens [syn: {type AB}, {group AB}]
+     2: a bachelor's degree in arts and sciences [syn: {Bachelor of
+        Arts}, {BA}, {Artium Baccalaurens}]
+     3: the eleventh month of the civil year; the fifth month of the
+        ecclesiastical year in the Jewish calendar (in July and
+        August) [syn: {Av}]
+     4: the muscles of the abdomen [syn: {abdominal}, {abdominal
+        muscle}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

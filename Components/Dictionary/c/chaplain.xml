@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>chaplain</Word>
+  <Definitions>
+    <Definition>
+      <Word>chaplain</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Chaplain \Chap"lain\, n. [F. chapelain, fr. LL. capellanus, fr.
+   capella. See {Chapel}.]
+   1. An ecclesiastic who has a chapel, or who performs
+      religious service in a chapel.
+      [1913 Webster]
+
+   2. A clergyman who is officially attached to the army or
+      navy, to some public institution, or to a family or court,
+      for the purpose of performing divine service.
+      [1913 Webster]
+
+   3. Any person (clergyman or layman) chosen to conduct
+      religious exercises for a society, etc.; as, a chaplain of
+      a Masonic or a temperance lodge.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chaplain</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>chaplain
+     n : a clergyman ministering to some institution
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

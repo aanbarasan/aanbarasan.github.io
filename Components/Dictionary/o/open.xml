@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>open</Word>
+  <Definitions>
+    <Definition>
+      <Word>open</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>open
+     
+        1. To prepare to read or write a file.  This usually involves
+        checking whether the file already exists and that the user has
+        the necessary authorisation to read or write it.  The result
+        of a successful open is usually some kind of {capability}
+        (e.g. a {Unix} {file descriptor}) - a token that the user
+        passes back to the system in order to access the file without
+        further checks and finally to close the file.
+     
+        2. Abbreviation for "open (or left) parenthesis" - used when
+        necessary to eliminate oral ambiguity.  To read aloud the LISP
+        form (DEFUN FOO (X) (PLUS X 1)) one might say: "Open defun
+        foo, open eks close, open, plus eks one, close close."
+     
+        3. Non-proprietary.  An open {standard} is one which can be
+        used without payment.
+     
+        [{Jargon File}]
+     
+        (1995-01-31)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>open</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Open \O"pen\, a. [AS. open; akin to D. open, OS. opan, G. offan,
+   Icel. opinn, Sw. ["o]ppen, Dan. aaben, and perh. to E. up.
+   Cf. {Up}, and {Ope}.]
+   1. Free of access; not shut up; not closed; affording
+      unobstructed ingress or egress; not impeding or preventing
+      passage; not locked up or covered over; -- applied to
+      passageways; as, an open door, window, road, etc.; also,
+      to inclosed structures or objects; as, open houses, boxes,
+      baskets, bottles, etc.; also, to means of communication or
+      approach by water or land; as, an open harbor or
+      roadstead.
+      [1913 Webster]
+
+            Through the gate,
+            Wide open and unguarded, Satan passed. --Milton
+      [1913 Webster]
+
+   Note: Also, figuratively, used of the ways of communication
+         of the mind, as by the senses; ready to hear, see,
+         etc.; as, to keep one's eyes and ears open.
+         [1913 Webster]
+
+               His ears are open unto their cry.  --Ps. xxxiv.
+                                                  15.
+         [1913 Webster]
+
+   2. Free to be used, enjoyed, visited, or the like; not
+      private; public; unrestricted in use; as, an open library,
+      museum, court, or other assembly; liable to the approach,
+      trespass, or attack of any one; unprotected; exposed.
+      [1913 Webster]
+
+            If Demetrius . . . have a matter against any man,
+            the law is open and there are deputies. --Acts xix.
+                                                  33.
+      [1913 Webster]
+
+            The service that I truly did his life,
+            Hath left me open to all injuries.    --Shak.
+      [1913 Webster]
+
+   3. Free or cleared of obstruction to progress or to view;
+      accessible; as, an open tract; the open sea.
+      [1913 Webster]
+
+   4. Not drawn together, closed, or contracted; extended;
+      expanded; as, an open hand; open arms; an open flower; an
+      open prospect.
+      [1913 Webster]
+
+            Each, with open arms, embraced her chosen knight.
+                                                  --Dryden.
+      [1913 Webster]
+
+   5. Hence:
+      (a) Without reserve or false pretense; sincere;
+          characterized by sincerity; unfeigned; frank; also,
+          generous; liberal; bounteous; -- applied to personal
+          appearance, or character, and to the expression of
+          thought and feeling, etc.
+          [1913 Webster]
+
+                With aspect open, shall erect his head. --Pope.
+          [1913 Webster]
+
+                The Moor is of a free and open nature. --Shak.
+          [1913 Webster]
+
+                The French are always open, familiar, and
+                talkative.                        --Addison.
+          [1913 Webster]
+      (b) Not concealed or secret; not hidden or disguised;
+          exposed to view or to knowledge; revealed; apparent;
+          as, open schemes or plans; open shame or guilt; open
+          source code.
+          [1913 Webster +PJC]
+
+                His thefts are too open.          --Shak.
+          [1913 Webster]
+
+                That I may find him, and with secret gaze
+                Or open admiration him behold.    --Milton.
+          [1913 Webster]
+
+   6. Not of a quality to prevent communication, as by closing
+      water ways, blocking roads, etc.; hence, not frosty or
+      inclement; mild; -- used of the weather or the climate;
+      as, an open season; an open winter. --Bacon.
+      [1913 Webster]
+
+   7. Not settled or adjusted; not decided or determined; not
+      closed or withdrawn from consideration; as, an open
+      account; an open question; to keep an offer or opportunity
+      open.
+      [1913 Webster]
+
+   8. Free; disengaged; unappropriated; as, to keep a day open
+      for any purpose; to be open for an engagement.
+      [1913 Webster]
+
+   9. (Phon.)
+      (a) Uttered with a relatively wide opening of the
+          articulating organs; -- said of vowels; as, the ["a]n
+          f["a]r is open as compared with the [=a] in s[=a]y.
+      (b) Uttered, as a consonant, with the oral passage simply
+          narrowed without closure, as in uttering s.
+          [1913 Webster]
+
+   10. (Mus.)
+       (a) Not closed or stopped with the finger; -- said of the
+           string of an instrument, as of a violin, when it is
+           allowed to vibrate throughout its whole length.
+       (b) Produced by an open string; as, an open tone.
+           [1913 Webster]
+
+   {The open air}, the air out of doors.
+
+   {Open chain}. (Chem.) See {Closed chain}, under {Chain}.
+
+   {Open circuit} (Elec.), a conducting circuit which is
+      incomplete, or interrupted at some point; -- opposed to an
+      uninterrupted, or {closed circuit}.
+
+   {Open communion}, communion in the Lord's supper not
+      restricted to persons who have been baptized by immersion.
+      Cf. {Close communion}, under {Close}, a.
+
+   {Open diapason} (Mus.), a certain stop in an organ, in which
+      the pipes or tubes are formed like the mouthpiece of a
+      flageolet at the end where the wind enters, and are open
+      at the other end.
+
+   {Open flank} (Fort.), the part of the flank covered by the
+      orillon.
+
+   {Open-front furnace} (Metal.), a blast furnace having a
+      forehearth.
+
+   {Open harmony} (Mus.), harmony the tones of which are widely
+      dispersed, or separated by wide intervals.
+
+   {Open hawse} (Naut.), a hawse in which the cables are
+      parallel or slightly divergent. Cf. {Foul hawse}, under
+      {Hawse}.
+
+   {Open hearth} (Metal.), the shallow hearth of a reverberatory
+      furnace.
+
+   {Open-hearth furnace}, a reverberatory furnace; esp., a kind
+      of reverberatory furnace in which the fuel is gas, used in
+      manufacturing steel.
+
+   {Open-hearth process} (Steel Manuf.), a process by which
+      melted cast iron is converted into steel by the addition
+      of wrought iron, or iron ore and manganese, and by
+      exposure to heat in an open-hearth furnace; -- also called
+      the {Siemens-Martin process}, from the inventors.
+
+   {Open-hearth steel}, steel made by an open-hearth process; --
+      also called {Siemens-Martin steel}.
+
+   {Open newel}. (Arch.) See {Hollow newel}, under {Hollow}.
+
+   {Open pipe} (Mus.), a pipe open at the top. It has a pitch
+      about an octave higher than a closed pipe of the same
+      length.
+
+   {Open-timber roof} (Arch.), a roof of which the
+      constructional parts, together with the under side of the
+      covering, or its lining, are treated ornamentally, and
+      left to form the ceiling of an apartment below, as in a
+      church, a public hall, and the like.
+
+   {Open vowel} or {Open consonant}. See {Open}, a., 9.
+      [1913 Webster]
+
+   Note: Open is used in many compounds, most of which are
+         self-explaining; as, open-breasted, open-minded.
+         [1913 Webster]
+
+   Syn: Unclosed; uncovered; unprotected; exposed; plain;
+        apparent; obvious; evident; public; unreserved; frank;
+        sincere; undissembling; artless. See {Candid}, and
+        {Ingenuous}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>open</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Open \O"pen\, n.
+   Open or unobstructed space; clear land, without trees or
+   obstructions; open ocean; open water. ``To sail into the
+   open.'' --Jowett (Thucyd.).
+   [1913 Webster]
+
+         Then we got into the open.               --W. Black.
+   [1913 Webster]
+
+   {In open}, {In th open}, in full view; without concealment;
+      openly. [Obs.] --Beau. &amp; Fl.
+      [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>open</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Open \O"pen\ v. t. [imp. &amp; p. p. {Opened}; p. pr. &amp; vb. n.
+   {Opening}.] [AS. openian. See {Open},a.]
+   1. To make or set open; to render free of access; to unclose;
+      to unbar; to unlock; to remove any fastening or covering
+      from; as, to open a door; to open a box; to open a room;
+      to open a letter.
+      [1913 Webster]
+
+            And all the windows of my heart
+            I open to the day.                    --Whittier.
+      [1913 Webster]
+
+   2. To spread; to expand; as, to open the hand.
+      [1913 Webster]
+
+   3. To disclose; to reveal; to interpret; to explain.
+      [1913 Webster]
+
+            The king opened himself to some of his council, that
+            he was sorry for the earl's death.    --Bacon.
+      [1913 Webster]
+
+            Unto thee have I opened my cause.     --Jer. xx. 12.
+      [1913 Webster]
+
+            While he opened to us the Scriptures. --Luke xxiv.
+                                                  32.
+      [1913 Webster]
+
+   4. To make known; to discover; also, to render available or
+      accessible for settlements, trade, etc.
+      [1913 Webster]
+
+            The English did adventure far for to open the North
+            parts of America.                     --Abp. Abbot.
+      [1913 Webster]
+
+   5. To enter upon; to begin; as, to open a discussion; to open
+      fire upon an enemy; to open trade, or correspondence; to
+      open an investigation; to open a case in court, or a
+      meeting.
+      [1913 Webster]
+
+   6. To loosen or make less compact; as, to open matted cotton
+      by separating the fibers.
+      [1913 Webster]
+
+   {To open one's mouth}, {to speak}.
+
+   {To open up}, to lay open; to discover; to disclose.
+      [1913 Webster]
+
+            Poetry that had opened up so many delightful views
+            into the character and condition of our ``bold
+            peasantry, their country's pride.''   --Prof.
+                                                  Wilson.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>open</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Open \O"pen\, v. i.
+   1. To unclose; to form a hole, breach, or gap; to be
+      unclosed; to be parted.
+      [1913 Webster]
+
+            The earth opened and swallowed up Dathan, and
+            covered the company of Abiram.        --Ps. cvi. 17.
+      [1913 Webster]
+
+   2. To expand; to spread out; to be disclosed; as, the harbor
+      opened to our view.
+      [1913 Webster]
+
+   3. To begin; to commence; as, the stock opened at par; the
+      battery opened upon the enemy.
+      [1913 Webster]
+
+   4. (Sporting) To bark on scent or view of the game.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>open</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Audience \Au"di*ence\, n. [F. audience, L. audientia, fr. audire
+   to hear. See {Audible}, a.]
+   1. The act of hearing; attention to sounds.
+      [1913 Webster]
+
+            Thou, therefore, give due audience, and attend.
+                                                  --Milton.
+      [1913 Webster]
+
+   2. Admittance to a hearing; a formal interview, esp. with a
+      sovereign or the head of a government, for conference or
+      the transaction of business.
+      [1913 Webster]
+
+            According to the fair play of the world,
+            Let me have audience: I am sent to speak. --Shak.
+      [1913 Webster]
+
+   3. An auditory; an assembly of hearers. Also applied by
+      authors to their readers.
+      [1913 Webster]
+
+            Fit audience find, though few.        --Milton.
+      [1913 Webster]
+
+            He drew his audience upward to the sky. --Dryden.
+      [1913 Webster]
+
+   {Court of audience}, or {Audience court} (Eng.), a court long
+      since disused, belonging to the Archbishop of Canterbury;
+      also, one belonging to the Archbishop of York. --Mozley &amp;
+      W.
+
+   {In general} (or {open}) {audience}, publicly.
+
+   {To give audience}, to listen; to admit to an interview.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>open</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>open n. Abbreviation for `open (or left) parenthesis' -- used when
+   necessary to eliminate oral ambiguity. To read aloud the LISP form
+   (DEFUN FOO (X) (PLUS X 1)) one might say: "Open defun foo, open eks
+   close, open, plus eks one, close close."
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>open</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>OPEN
+     Open Protocol Enhanced Networks
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>open</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>open
+     adj 1: affording unobstructed entrance and exit; not shut or
+            closed; "an open door"; "they left the door open"
+            [syn: {unfastened}] [ant: {shut}]
+     2: affording free passage or access; "open drains"; "the road
+        is open to traffic"; "open ranks" [ant: {closed}]
+     3: with no protection or shield; "the exposed northeast
+        frontier"; "open to the weather"; "an open wound" [syn: {exposed}]
+     4: open to or in view of all; "an open protest"; "an open
+        letter to the editor"
+     5: used of mouth or eyes; "keep your eyes open"; "his mouth
+        slightly opened" [syn: {opened}] [ant: {closed}]
+     6: not having been filled; "the job is still open"
+     7: accessible to all; "open season"; "an open economy"
+     8: not defended or capable of being defended; "an open city";
+        "open to attack" [syn: {assailable}, {undefendable}, {undefended}]
+     9: (of textures) full of small openings or gaps; "an open
+        texture"; "a loose weave" [syn: {loose}]
+     10: having no protecting cover or enclosure; "an open boat"; "an
+         open fire"; "open sports cars"
+     11: opened out; "an open newspaper"
+     12: of a set; containing points whose neighborhood consists of
+         other points of the same set, or being the complement of
+         an open set; of an interval; containing neither of its
+         end points [ant: {closed}]
+     13: not brought to a conclusion; subject to further thought; "an
+         open question"; "our position on this bill is still
+         undecided"; "our lawsuit is still undetermined" [syn: {undecided},
+          {undetermined}, {unresolved}]
+     14: not sealed or having been unsealed; "the letter was already
+         open"; "the opened package lay on the table" [syn: {opened}]
+     15: without undue constriction as from e.g. tenseness or
+         inhibition; "the clarity and resonance of an open tone";
+         "her natural and open response"
+     16: relatively empty of and unobstructed by fences or hedges or
+         headlands or shoals; "in open country"; "the open
+         countryside"; "open waters"; "on the open seas"
+     17: open and observable; not secret or hidden; "an overt lie";
+         "overt hostility"; "overt intelligence gathering" [syn: {overt}]
+         [ant: {covert}]
+     18: used of string or hole or pipe of instruments [syn: {unstopped}]
+         [ant: {stopped}]
+     19: not requiring union membership; "an open shop employs
+         nonunion workers" [syn: {open(a)}]
+     20:  possibly accepting or permitting; "a passage capable of
+         misinterpretation"; "open to interpretation"; "an issue
+         open to question"; "the time is fixed by the director and
+         players and therefore subject to much variation" [syn: {capable},
+          {subject}]
+     21: not secret; "open plans"; "an open ballot"
+     22: without any attempt at concealment; completely obvious;
+         "open disregard of the law"; "open family strife"; "open
+         hostility"; "a blatant appeal to vanity"; "a blazing
+         indiscretion" [syn: {blatant}, {blazing}, {conspicuous}]
+     23: affording free passage or view; "a clear view"; "a clear
+         path to victory" [syn: {clear}]
+     24: lax in enforcing laws; "an open town" [syn: {wide-open}, {lawless}]
+     25: openly straightforward and direct without reserve or
+         secretiveness; "his candid eyes"; "an open and trusting
+         nature"; "a heart-to-heart talk" [syn: {candid}, {heart-to-heart}]
+     26: sincere and free of reserve in expression; "Please be open
+         with me"
+     27: receptive to new ideas; "an open mind"; "open to new ideas"
+     28: ready for business; "the stores are open"
+     n 1: a clear or unobstructed space or expanse of land or water;
+          "finally broke out of the forest into the open" [syn: {clear}]
+     2: where the air is unconfined; "he wanted to get outdoors a
+        little"; "the concert was held in the open air"; "camping
+        in the open" [syn: {outdoors}, {out-of-doors}, {open air}]
+     3: a tournament in which both professionals and amateurs may
+        play
+     4: information that has become public; "all the reports were
+        out in the open"; "the facts had been brought to the
+        surface" [syn: {surface}]
+     v 1: cause to open or to become open; "Mary opened the car door"
+          [syn: {open up}] [ant: {close}]
+     2: start to operate or function or cause to start operating or
+        functioning; "open a business" [syn: {open up}] [ant: {close}]
+     3: become open; "The door opened" [syn: {open up}] [ant: {close}]
+     4: begin or set in action, of meetings, speeches, recitals,
+        etc.; "He opened the meeting with a long speech" [ant: {close}]
+     5: spread out or open from a closed or folded state; "open the
+        map"; "spread your arms" [syn: {unfold}, {spread}, {spread
+        out}] [ant: {fold}]
+     6: make available; "This opens up new possibilities" [syn: {open
+        up}]
+     7: become available; "an opportunity opened up" [syn: {open up}]
+     8: have an opening or passage or outlet; "The bedrooms open
+        into the hall"
+     9: make the opening move; "Kasparov opened with a standard
+        opening"
+     10: afford access to; "the door opens to the patio"; "The French
+         doors give onto a terrace" [syn: {afford}, {give}]
+     11: display the contents of a file or start an application as on
+         a computer [ant: {close}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

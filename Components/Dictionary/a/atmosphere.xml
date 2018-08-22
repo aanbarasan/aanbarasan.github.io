@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>atmosphere</Word>
+  <Definitions>
+    <Definition>
+      <Word>atmosphere</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Atmosphere \At"mos*phere\, n. [Gr. ? vapor (akin to Skr.
+   [=a]tman breath, soul, G. athem breath) + ? sphere: cf. F.
+   atmosph[`e]re. See {Sphere}.]
+   1. (Physics)
+      (a) The whole mass of a["e]riform fluid surrounding the
+          earth; -- applied also to the gaseous envelope of any
+          celestial orb, or other body; as, the atmosphere of
+          Mars.
+      (b) Any gaseous envelope or medium.
+          [1913 Webster]
+
+                An atmosphere of cold oxygen.     --Miller.
+          [1913 Webster]
+
+   2. A supposed medium around various bodies; as, electrical
+      atmosphere, a medium formerly supposed to surround
+      electrical bodies. --Franklin.
+      [1913 Webster]
+
+   3. The pressure or weight of the air at the sea level, on a
+      unit of surface, or about 14.7 lbs. to the sq. inch.
+      [1913 Webster]
+
+            Hydrogen was liquefied under a pressure of 650
+            atmospheres.                          --Lubbock.
+      [1913 Webster]
+
+   4. Any surrounding or pervading influence or condition.
+      [1913 Webster]
+
+            The chillest of social atmospheres.   --Hawthorne.
+      [1913 Webster]
+
+   5. The portion of air in any locality, or affected by a
+      special physical or sanitary condition; as, the atmosphere
+      of the room; a moist or noxious atmosphere.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>atmosphere</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>atmosphere
+     n 1: a particular environment or surrounding influence; "there
+          was an atmosphere of excitement" [syn: {ambiance}, {ambience}]
+     2: a unit of pressure: the pressure that will support a column
+        of mercury 760 mm high at sea level and 0 degrees
+        centigrade [syn: {standard atmosphere}, {atm}, {standard
+        pressure}]
+     3: the mass of air surrounding the Earth; "there was great heat
+        as the comet entered the atmosphere"; "it was exposed to
+        the air" [syn: {air}]
+     4: the weather or climate at some place; "the atmosphere was
+        thick with fog" [syn: {atmospheric state}]
+     5: the envelope of gases surrounding any celestial body
+     6: a distinctive but intangible quality surrounding a person or
+        thing; "an air of mystery"; "the house had a neglected
+        air"; "an atmosphere of defeat pervaded the candidate's
+        headquarters"; "the place had an aura of romance" [syn: {air},
+         {aura}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

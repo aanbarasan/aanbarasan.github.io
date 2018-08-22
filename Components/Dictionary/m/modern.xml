@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>modern</Word>
+  <Definitions>
+    <Definition>
+      <Word>modern</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Modern \Mod"ern\, a. [F. moderne, L. modernus; akin to modo just
+   now, orig. abl. of modus measure; hence, by measure, just
+   now. See {Mode}.]
+   1. Of or pertaining to the present time, or time not long
+      past; late; not ancient or remote in past time; of recent
+      period; as, modern days, ages, or time; modern authors;
+      modern fashions; modern taste; modern practice. --Bacon.
+      [1913 Webster]
+
+   2. New and common; trite; commonplace. [Obs.]
+      [1913 Webster]
+
+            We have our philosophical persons, to make modern
+            and familiar, things supernatural and causeless.
+                                                  --Shak.
+      [1913 Webster]
+
+   {Modern English}. See the Note under {English}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>modern</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Modern \Mod"ern\, n.
+   A person of modern times; -- opposed to {ancient}. --Pope.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>modern</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>modern
+     adj 1: belonging to the modern era; since the Middle Ages; "modern
+            art"; "modern furniture"; "modern history"; "totem
+            poles are modern rather than prehistoric" [ant: {nonmodern}]
+     2: relating to a recently developed fashion or style; "their
+        offices are in a modern skyscraper"; "tables in
+        modernistic designs"; [syn: {mod}, {modernistic}]
+     3: characteristic of present-day art and music and literature
+        and architecture
+     4: ahead of the times; "the advanced teaching methods"; "had
+        advanced views on the subject"; "a forward-looking
+        corporation"; "is British industry innovative enough?"
+        [syn: {advanced}, {forward-looking}, {innovative}]
+     5: used of a living language; being the current stage in its
+        development; "Modern English"; "New Hebrew is Israeli
+        Hebrew" [syn: {New}]
+     n 1: a contemporary person
+     2: a typeface (based on an 18th century design by Gianbattista
+        Bodoni) distinguished by regular shape and hairline serifs
+        and heavy downstrokes [syn: {modern font}, {Bodoni}, {Bodoni
+        font}] [ant: {old style}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

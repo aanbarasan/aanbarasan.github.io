@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bulletproof</Word>
+  <Definitions>
+    <Definition>
+      <Word>bulletproof</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>bulletproof
+     
+        Used of an algorithm or implementation considered extremely
+        {robust}; lossage-resistant; capable of correctly recovering
+        from any imaginable exception condition - a rare and valued
+        quality.  Synonym {armor-plated}.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bulletproof</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>bullet-proof \bul"let-proof`\, bulletproof \bul"let*proof`\, a.
+   1. Capable of resisting the force of a bullet; resistant to
+      penetration by a bullet; armored; as, a bulletproof vest;
+      a bulletproof window.
+      [1913 Webster +PJC]
+
+   2. designed so as to be resistant to abuse or misuse and
+      incapable of malfunction under normal use; as, a
+      bulletproof computer program.
+      [PJC]
+
+   3. so well thought out as to be resistant to criticism or
+      certain to succeed; as, a bulletproof plan.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bulletproof</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>bullet-proof \bul"let-proof`\, bulletproof \bul"let*proof`\, a.
+   1. Capable of resisting the force of a bullet; resistant to
+      penetration by a bullet; armored; as, a bulletproof vest;
+      a bulletproof window.
+      [1913 Webster +PJC]
+
+   2. designed so as to be resistant to abuse or misuse and
+      incapable of malfunction under normal use; as, a
+      bulletproof computer program.
+      [PJC]
+
+   3. so well thought out as to be resistant to criticism or
+      certain to succeed; as, a bulletproof plan.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bulletproof</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>bulletproof adj. Used of an algorithm or implementation considered
+   extremely {robust}; lossage-resistant; capable of correctly recovering
+   from any imaginable exception condition -- a rare and valued quality.
+   Implies that the programmer has thought of all possible errors, and
+   added {code} to protect against each one. Thus, in some cases, this can
+   imply code that is too heavyweight, due to excessive paranoia on the
+   part of the programmer. Syn. {armor-plated}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bulletproof</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bulletproof
+     adj 1: without flaws or loopholes; "an ironclad contract"; "a
+            watertight alibi"; "a bulletproof argument" [syn: {ironclad},
+             {unassailable}, {unshakable}, {watertight}]
+     2: not penetrable by bullets; "bulletproof glass"; "bulletproof
+        vest"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

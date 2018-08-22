@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>chick</Word>
+  <Definitions>
+    <Definition>
+      <Word>chick</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Chick \Chick\ (ch[i^]k), v. i. [OE. chykkyn, chyke, chicken.]
+   To sprout, as seed in the ground; to vegetate. --Chalmers.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chick</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Chick \Chick\, n.
+   1. A chicken.
+      [1913 Webster]
+
+   2. A child or young person; -- a term of endearment. --Shak.
+      [1913 Webster]
+
+   3. a young woman; -- often considered offensive. [slang]
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chick</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>chick
+     n 1: young bird especially of domestic fowl [syn: {biddy}]
+     2: informal terms for a (young) woman [syn: {dame}, {doll}, {wench},
+         {skirt}, {bird}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

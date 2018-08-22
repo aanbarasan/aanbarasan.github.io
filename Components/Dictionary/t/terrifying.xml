@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>terrifying</Word>
+  <Definitions>
+    <Definition>
+      <Word>terrifying</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Terrify \Ter"ri*fy\, v. t. [imp. &amp; p. p. {Terrified}; p. pr. &amp;
+   vb. n. {Terrifying}.] [L. terrere to frighten + -fy: cf. F.
+   terrifier, L. terrificare. See {Terrific}, and {-fy}.]
+   1. To make terrible. [Obs.]
+      [1913 Webster]
+
+            If the law, instead of aggravating and terrifying
+            sin, shall give out license, it foils itself.
+                                                  --Milton.
+      [1913 Webster]
+
+   2. To alarm or shock with fear; to frighten.
+      [1913 Webster]
+
+            When ye shall hear of wars . . . be not terrified.
+                                                  --Luke xxi. 9.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>terrifying</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>terrifying
+     adj : causing extreme terror; "a terrifying wail" [syn: {terrific}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

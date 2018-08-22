@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>americium</Word>
+  <Definitions>
+    <Definition>
+      <Word>americium</Word>
+      <Dictionary>
+        <Id>elements</Id>
+        <Name>Elements database 20001107</Name>
+      </Dictionary>
+      <WordDefinition>americium
+Symbol: Am
+Atomic number: 95
+Atomic weight: (243)
+Radioactive metallic transuranic element, belongs to the actinoids. Ten
+known isotopes. Am-243 is the most stable isotope, with a half-life of
+7.95*10^3 years. Discovered by Glenn T. Seaborg and associates in 1945, it
+was obtained by bombarding {uranium}-238 with alpha particles.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>americium</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>americium
+     n : a radioactive transuranic metallic element; discovered by
+         bombarding uranium with helium atoms [syn: {Am}, {atomic
+         number 95}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

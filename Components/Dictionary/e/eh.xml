@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>eh</Word>
+  <Definitions>
+    <Definition>
+      <Word>eh</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Eh
+     
+        /A/.  Software Portability Group, U Waterloo.  A typeless
+        language derived from (and similar to) B.  Provides guaranteed
+        order of evaluation for side effects in expressions.  Also
+        character indexing operators.
+     
+        See also {Zed}.
+     
+        ["Eh Reference Manual", R.S.C. Braga, RR CS-76-45, U Waterloo,
+        Nov 1976].
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>eh</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>eh
+     
+        &lt;networking&gt; The {country code} for Western Sahara.
+     
+        (1999-01-27)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>eh</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Eh \Eh\, interj. [OE. ei, ey.]
+   An expression of inquiry or slight surprise.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

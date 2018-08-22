@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>replace</Word>
+  <Definitions>
+    <Definition>
+      <Word>replace</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Replace \Re*place"\ (r?-pl?s"), v. t. [Pref. re- + place: cf. F.
+   replacer.]
+   1. To place again; to restore to a former place, position,
+      condition, or the like.
+      [1913 Webster]
+
+            The earl . . . was replaced in his government.
+                                                  --Bacon.
+      [1913 Webster]
+
+   2. To refund; to repay; to restore; as, to replace a sum of
+      money borrowed.
+      [1913 Webster]
+
+   3. To supply or substitute an equivalent for; as, to replace
+      a lost document.
+      [1913 Webster]
+
+            With Israel, religion replaced morality. --M.
+                                                  Arnold.
+      [1913 Webster]
+
+   4. To take the place of; to supply the want of; to fulfull
+      the end or office of.
+      [1913 Webster]
+
+            This duty of right intention does not replace or
+            supersede the duty of consideration.  --Whewell.
+      [1913 Webster]
+
+   5. To put in a new or different place.
+      [1913 Webster]
+
+   Note: The propriety of the use of replace instead of
+         displace, supersede, take the place of, as in the third
+         and fourth definitions, is often disputed on account of
+         etymological discrepancy; but the use has been
+         sanctioned by the practice of careful writers.
+         [1913 Webster]
+
+   {Replaced crystal} (Crystallog.), a crystal having one or
+      more planes in the place of its edges or angles.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>replace</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>replace
+     v 1: substitute a person or thing for (another that is broken or
+          inefficient or lost or no longer working or yielding
+          what is expected); "He replaced the old razor blade";
+          "We need to replace the secretary that left a month
+          ago"; "the insurance will replace the lost income";
+          "This antique vase can never be replaced"
+     2: take the place or move into the position of; "Smith replaced
+        Miller as CEO after Miller left"; "the computer has
+        supplanted the slide rule"; "Mary replaced Susan as the
+        team's captain and the highest-ranked player in the
+        school" [syn: {supplant}, {supersede}, {supervene upon}]
+     3: put in the place of another; switch seemingly equivalent
+        items; "the con artist replaced the original with a fake
+        Rembrandt"; "substitute regular milk with fat-free milk"
+        [syn: {substitute}]
+     4: put something back where it belongs; "replace the book on
+        the shelf after you have finished reading it"; "please put
+        the clean dishes back in the cabinet when you have washed
+        them" [syn: {put back}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

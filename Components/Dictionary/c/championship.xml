@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>championship</Word>
+  <Definitions>
+    <Definition>
+      <Word>championship</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Championship \Cham"pi*on*ship\, n.
+   State of being champion; leadership; supremacy.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>championship</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>championship
+     n 1: the status of being a champion; "he held the title for two
+          years" [syn: {title}]
+     2: the act of providing approval and support; "his vigorous
+        backing of the conservatives got him in trouble with
+        progressives" [syn: {backing}, {backup}, {patronage}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

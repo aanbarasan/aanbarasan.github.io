@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>adhesive</Word>
+  <Definitions>
+    <Definition>
+      <Word>adhesive</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Adhesive \Ad*he"sive\, a. [Cf. F. adh['e]sif.]
+   1. Sticky; tenacious, as glutinous substances.
+      [1913 Webster]
+
+   2. Apt or tending to adhere; clinging. --Thomson.
+      [1913 Webster]
+
+   {Adhesive attraction}. (Physics) See {Attraction}.
+
+   {Adhesive inflammation} (Surg.), that kind of inflammation
+      which terminates in the reunion of divided parts without
+      suppuration.
+
+   {Adhesive plaster}, a sticking; a plaster containing resin,
+      wax, litharge, and olive oil.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>adhesive</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>adhesive
+     adj : tending to adhere [ant: {nonadhesive}]
+     n : a substance that unites or bonds surfaces together [syn: {adhesive
+         material}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

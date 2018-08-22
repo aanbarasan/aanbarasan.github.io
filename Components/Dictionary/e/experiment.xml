@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>experiment</Word>
+  <Definitions>
+    <Definition>
+      <Word>experiment</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Experiment, GA (CDP, FIPS 28296)
+  Location: 33.27822 N, 84.27735 W
+  Population (1990): 3762 (1429 housing units)
+  Area: 7.9 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>experiment</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Experiment \Ex*per"i*ment\ ([e^]ks*p[e^]r"[i^]*ment), v. t.
+   [imp. &amp; p. p. {Experimented}; p. pr. &amp; vb. n.
+   {Experinenting}.]
+   To make experiment; to operate by test or trial; -- often
+   with on, upon, or in, referring to the subject of an
+   experiment; with, referring to the instrument; and by,
+   referring to the means; as, to experiment upon electricity;
+   he experimented in plowing with ponies, or by steam power.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>experiment</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Experiment \Ex*per"i*ment\, v. t.
+   To try; to know, perceive, or prove, by trial or experience.
+   [Obs.] --Sir T. Herbert.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>experiment</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Experiment \Ex*per"i*ment\, n. [L. experimentum, fr. experiri to
+   try: cf. OF. esperiment, experiment. See {Experience}.]
+   1. A trial or special observation, made to confirm or
+      disprove something uncertain; esp., one under controlled
+      conditions determined by the experimenter; an act or
+      operation undertaken in order to discover some unknown
+      principle or effect, or to test, establish, or illustrate
+      some hypothesis, theory, or known truth; practical test;
+      proof.
+      [1913 Webster]
+
+            A political experiment can not be made in a
+            laboratory, nor determined in a few hours. --J.
+                                                  Adams.
+      [1913 Webster]
+
+   2. Experience. [Obs.]
+      [1913 Webster]
+
+            Adam, by sad experiment I know
+            How little weight my words with thee can find.
+                                                  --Milton.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>experiment</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>experiment
+     n 1: the act of conducting a controlled test or investigation
+          [syn: {experimentation}]
+     2: the testing of an idea; "it was an experiment in living";
+        "not all experimentation is done in laboratories" [syn: {experimentation}]
+     3: a venture at something new or different; "as an experiment
+        he decided to grow a beard"
+     v 1: to conduct a test or investigation; "We are experimenting
+          with the new drug in order to fight this disease"
+     2: try something new, as in order to gain experience; "Students
+        experiment sexually"; "The composer experimented with a
+        new style" [syn: {try out}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

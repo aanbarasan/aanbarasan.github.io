@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rabbit</Word>
+  <Definitions>
+    <Definition>
+      <Word>rabbit</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rabbit \Rab"bit\ (r[a^]b"b[i^]t), n. [OE. rabet, akin to OD.
+   robbe, robbeken.] (Zo["o]l.)
+   Any of the smaller species of the genus Lepus, especially the
+   common European species ({Lepus cuniculus}), which is often
+   kept as a pet, and has been introduced into many countries.
+   It is remarkably prolific, and has become a pest in some
+   parts of Australia and New Zealand.
+   [1913 Webster]
+
+   Note: The common American rabbit ({Lepus sylvatica}) is
+         similar but smaller. See {Cottontail}, and {Jack
+         rabbit}, under 2d {Jack}. The larger species of Lepus
+         are commonly called hares. See {Hare}.
+         [1913 Webster]
+
+   {Angora rabbit} (Zo["o]l.), a variety of the domestic rabbit
+      having long, soft fur.
+
+   {Rabbit burrow}, a hole in the earth made by rabbits for
+      shelter and habitation.
+
+   {Rabbit fish}. (Zo["o]l.)
+   (a) The northern chim[ae]ra ({Chim[ae]ra monstrosa}).
+   (b) Any one of several species of plectognath fishes, as the
+       bur fish, and puffer. The term is also locally applied to
+       other fishes.
+
+   {Rabbits' ears}. (Bot.) See {Cyclamen}.
+
+   {Rabbit warren}, a piece of ground appropriated to the
+      breeding and preservation of rabbits. --Wright.
+
+   {Rock rabbit}.
+   (a) (Zo["o]l.) See {Daman}, and {Klipdas}.
+   (b) the {pika}.
+
+   {Welsh rabbit}, a dish of which the chief constituents are
+      melted cheese over toasted bread, flavored in various
+      ways, as with ale, beer, milk, or spices. The name is
+      popularly said to be a corruption of {Welsh rare bit}, but
+      it is probably merely a humorous designation; -- also
+      called {Welsh rarebit}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rabbit</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rabbit
+     n 1: any of various burrowing animals of the family Leporidae
+          having long ears and short tails; some domesticated and
+          raised for pets or food [syn: {coney}, {cony}]
+     2: the fur of a rabbit [syn: {lapin}]
+     3: flesh of any of various rabbits or hares (wild or
+        domesticated) eaten as food [syn: {hare}]
+     v : hunt rabbits
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

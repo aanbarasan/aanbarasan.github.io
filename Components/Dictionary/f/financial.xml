@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>financial</Word>
+  <Definitions>
+    <Definition>
+      <Word>financial</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Financial \Fi*nan"cial\, a.
+   Pertaining to finance. ``Our financial and commercial
+   system.'' --Macaulay.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>financial</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>financial
+     adj : involving financial matters; "fiscal responsibility" [syn: {fiscal}]
+           [ant: {nonfinancial}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

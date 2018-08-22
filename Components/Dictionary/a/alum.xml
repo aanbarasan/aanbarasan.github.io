@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>alum</Word>
+  <Definitions>
+    <Definition>
+      <Word>alum</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Alum \Al"um\, n. [OE. alum, alom, OF. alum, F. alun, fr. L.
+   alumen alum.] (Chem.)
+   A double sulphate formed of aluminium and some other element
+   (esp. an alkali metal) or of aluminium. It has twenty-four
+   molecules of water of crystallization.
+   [1913 Webster]
+
+   Note: Common alum is the double sulphate of aluminium and
+         potassium. It is white, transparent, very astringent,
+         and crystallizes easily in octahedrons. The term is
+         extended so as to include other double sulphates
+         similar to alum in formula.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>alum</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Alum \Al"um\, v. t.
+   To steep in, or otherwise impregnate with, a solution of
+   alum; to treat with alum. --Ure.
+   [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>alum</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>alum
+     n 1: a white crystalline double sulfate of aluminum: the ammonium
+          double sulfate of aluminum [syn: {ammonia alum}, {ammonium
+          alum}]
+     2: a white crystalline double sulfate of aluminum: the
+        potassium double sulfate of aluminum [syn: {potassium alum},
+         {potash alum}]
+     3: a person who has received a degree from a school (high
+        school or college or university) [syn: {alumnus}, {alumna},
+         {graduate}, {grad}]
+     4: a double sulphate of aluminum and potassium that is used as
+        an astringent (among other things)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

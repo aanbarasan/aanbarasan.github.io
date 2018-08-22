@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>oxnard</Word>
+  <Definitions>
+    <Definition>
+      <Word>oxnard</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Oxnard, CA (city, FIPS 54652)
+  Location: 34.19743 N, 119.21370 W
+  Population (1990): 142216 (41247 housing units)
+  Area: 63.3 sq km (land), 28.6 sq km (water)
+  Zip code(s): 93030, 93033, 93035
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

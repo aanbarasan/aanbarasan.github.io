@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>refrigerator</Word>
+  <Definitions>
+    <Definition>
+      <Word>refrigerator</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Refrigerator \Re*frig"er*a`tor\ (-?`t?r), n.
+   That which refrigerates or makes cold; that which keeps cool.
+   Specifically:
+   (a) A box or room for keeping food or other articles cool,
+       usually by means of ice.
+   (b) An apparatus for rapidly cooling heated liquids or
+       vapors, connected with a still, etc.
+       [1913 Webster]
+
+   {Refrigerator car} (Railroad), a freight car constructed as a
+      refrigerator, for the transportation of fresh meats, fish,
+      etc., in a temperature kept cool by ice.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>refrigerator</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Appliance \Ap*pli"ance\, n.
+   1. The act of applying; application.
+      [1913 Webster]
+
+   2. subservience; compliance. [Obs.] --Shak.
+      [1913 Webster]
+
+   3. A thing applied or used as a means to an end; an apparatus
+      or device; as, to use various appliances; a mechanical
+      appliance; a machine with its appliances.
+      [1913 Webster]
+
+   4. Specifically: An apparatus or device, usually powered
+      electrically, used in homes to perform domestic functions.
+      An appliance is often categorized as a major appliance or
+      a minor appliance by its cost. Common major appliances are
+      the {refrigerator}, {washing machine}, {clothes drier},
+      {oven}, and {dishwasher}. Some minor appliances are a
+      {toaster}, {vacuum cleaner} or {microwave oven}.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>refrigerator</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>refrigerator
+     n : white goods in which food can be stored at low temperatures
+         [syn: {icebox}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

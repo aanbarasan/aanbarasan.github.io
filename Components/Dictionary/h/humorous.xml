@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>humorous</Word>
+  <Definitions>
+    <Definition>
+      <Word>humorous</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Humorous \Hu"mor*ous\, a. [Cf. L. humorosus, umorosus, moist.
+   See {Humor}.]
+   1. Moist; humid; watery. [Obs.]
+      [1913 Webster]
+
+            All founts wells, all deeps humorous. --Chapman.
+      [1913 Webster]
+
+   2. Subject to be governed by humor or caprice; irregular;
+      capricious; whimsical. --Hawthorne.
+      [1913 Webster]
+
+            Rough as a storm and humorous as the wind. --Dryden.
+      [1913 Webster]
+
+   3. Full of humor; jocular; exciting laughter; playful; as, a
+      humorous story or author; a humorous aspect.
+
+   Syn: Jocose; facetious; witty; pleasant; merry.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>humorous</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>humorous
+     adj : full of or characterized by humor; "humorous stories";
+           "humorous cartoons"; "in a humorous vein" [syn: {humourous}]
+           [ant: {humorless}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>function</Word>
+  <Definitions>
+    <Definition>
+      <Word>function</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>function
+     
+        1. &lt;mathematics&gt; (Or "map", "mapping") If D and C are sets
+        (the domain and codomain) then a function f from D to C,
+        normally written "f : D -&gt; C" is a subset of D x C such that:
+     
+        1. For each d in D there exists some c in C such that (d,c) is
+        an element of f.  I.e. the function is defined for every
+        element of D.
+     
+        2. For each d in D, c1 and c2 in C, if both (d,c1) and (d,c2)
+        are elements of f then c1 = c2.  I.e. the function is uniquely
+        defined for every element of D.
+     
+        See also {image}, {inverse}, {partial function}.
+     
+        2. &lt;programming&gt; Computing usage derives from the mathematical
+        term but is much less strict.  In programming (except in
+        {functional programming}), a function may return different
+        values each time it is called with the same argument values
+        and may have {side effects}.
+     
+        A {procedure} is a function which returns no value but has
+        only {side-effects}.  The {C} language, for example, has no
+        procedures, only functions.  {ANSI C} even defines a {type},
+        {void}, for the result of a function that has no result.
+     
+        (1996-09-01)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>function</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fluent \Flu"ent\, n.
+   1. A current of water; a stream. [Obs.]
+      [1913 Webster]
+
+   2. [Cf. F. fluente.] (Math.) A variable quantity, considered
+      as increasing or diminishing; -- called, in the modern
+      calculus, the {function} or {integral}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>function</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Function \Func"tion\, n. [L. functio, fr. fungi to perform,
+   execute, akin to Skr. bhuj to enjoy, have the use of: cf. F.
+   fonction. Cf. {Defunct}.]
+   1. The act of executing or performing any duty, office, or
+      calling; performance. ``In the function of his public
+      calling.'' --Swift.
+      [1913 Webster]
+
+   2. (Physiol.) The appropriate action of any special organ or
+      part of an animal or vegetable organism; as, the function
+      of the heart or the limbs; the function of leaves, sap,
+      roots, etc.; life is the sum of the functions of the
+      various organs and parts of the body.
+      [1913 Webster]
+
+   3. The natural or assigned action of any power or faculty, as
+      of the soul, or of the intellect; the exertion of an
+      energy of some determinate kind.
+      [1913 Webster]
+
+            As the mind opens, and its functions spread. --Pope.
+      [1913 Webster]
+
+   4. The course of action which peculiarly pertains to any
+      public officer in church or state; the activity
+      appropriate to any business or profession.
+      [1913 Webster]
+
+            Tradesmen . . . going about their functions. --Shak.
+      [1913 Webster]
+
+            The malady which made him incapable of performing
+            his
+            regal functions.                      --Macaulay.
+      [1913 Webster]
+
+   5. (Math.) A quantity so connected with another quantity,
+      that if any alteration be made in the latter there will be
+      a consequent alteration in the former. Each quantity is
+      said to be a function of the other. Thus, the
+      circumference of a circle is a function of the diameter.
+      If x be a symbol to which different numerical values can
+      be assigned, such expressions as x^{2}, 3^{x}, Log. x, and
+      Sin. x, are all functions of x.
+      [1913 Webster]
+
+   6. (Eccl.) A religious ceremony, esp. one particularly
+      impressive and elaborate.
+
+            Every solemn `function' performed with the
+            requirements of the liturgy.          --Card.
+                                                  Wiseman.
+      [Webster 1913 Suppl.]
+
+   7. A public or social ceremony or gathering; a festivity or
+      entertainment, esp. one somewhat formal.
+
+            This function, which is our chief social event. --W.
+                                                  D. Howells.
+      [Webster 1913 Suppl.]
+
+   {Algebraic function}, a quantity whose connection with the
+      variable is expressed by an equation that involves only
+      the algebraic operations of addition, subtraction,
+      multiplication, division, raising to a given power, and
+      extracting a given root; -- opposed to transcendental
+      function.
+
+   {Arbitrary function}. See under {Arbitrary}.
+
+   {Calculus of functions}. See under {Calculus}.
+
+   {Carnot's function} (Thermo-dynamics), a relation between the
+      amount of heat given off by a source of heat, and the work
+      which can be done by it. It is approximately equal to the
+      mechanical equivalent of the thermal unit divided by the
+      number expressing the temperature in degrees of the air
+      thermometer, reckoned from its zero of expansion.
+
+   {Circular functions}. See {Inverse trigonometrical functions}
+      (below). -- Continuous function, a quantity that has no
+      interruption in the continuity of its real values, as the
+      variable changes between any specified limits.
+
+   {Discontinuous function}. See under {Discontinuous}.
+
+   {Elliptic functions}, a large and important class of
+      functions, so called because one of the forms expresses
+      the relation of the arc of an ellipse to the straight
+      lines connected therewith.
+
+   {Explicit function}, a quantity directly expressed in terms
+      of the independently varying quantity; thus, in the
+      equations y = 6x^{2}, y = 10 -x^{3}, the quantity y is an
+      explicit function of x.
+
+   {Implicit function}, a quantity whose relation to the
+      variable is expressed indirectly by an equation; thus, y
+      in the equation x^{2} + y^{2} = 100 is an implicit
+      function of x.
+
+   {Inverse trigonometrical functions}, or {Circular functions},
+      the lengths of arcs relative to the sines, tangents, etc.
+      Thus, AB is the arc whose sine is BD, and (if the length
+      of BD is x) is written sin ^{-1}x, and so of the other
+      lines. See {Trigonometrical function} (below). Other
+      transcendental functions are the exponential functions,
+      the elliptic functions, the gamma functions, the theta
+      functions, etc.
+
+   {One-valued function}, a quantity that has one, and only one,
+      value for each value of the variable. -- {Transcendental
+   functions}, a quantity whose connection with the variable
+      cannot be expressed by algebraic operations; thus, y in
+      the equation y = 10^{x} is a transcendental function of x.
+      See {Algebraic function} (above). -- {Trigonometrical
+   function}, a quantity whose relation to the variable is the
+      same as that of a certain straight line drawn in a circle
+      whose radius is unity, to the length of a corresponding
+      are of the circle. Let AB be an arc in a circle, whose
+      radius OA is unity let AC be a quadrant, and let OC, DB,
+      and AF be drawnpependicular to OA, and EB and CG parallel
+      to OA, and let OB be produced to G and F. E Then BD is the
+      sine of the arc AB; OD or EB is the cosine, AF is the
+      tangent, CG is the cotangent, OF is the secant OG is the
+      cosecant, AD is the versed sine, and CE is the coversed
+      sine of the are AB. If the length of AB be represented by
+      x (OA being unity) then the lengths of Functions. these
+      lines (OA being unity) are the trigonometrical functions
+      of x, and are written sin x, cos x, tan x (or tang x), cot
+      x, sec x, cosec x, versin x, coversin x. These quantities
+      are also considered as functions of the angle BOA.
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>function</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Function \Func"tion\ (f[u^][ng]k"sh[u^]n), Functionate
+\Func"tion*ate\, v. i.
+   To execute or perform a function; to transact one's regular
+   or appointed business.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>function</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>function
+     n 1: a mathematical relation such that each element of one set is
+          associated with at least one element of another set
+          [syn: {mathematical function}]
+     2: what something is used for; "the function of an auger is to
+        bore holes"; "ballet is beautiful but what use is it?"
+        [syn: {purpose}, {role}, {use}]
+     3: the actions and activities assigned to or required or
+        expected of a person or group; "the function of a
+        teacher"; "the government must do its part"; "play its
+        role" [syn: {office}, {part}, {role}]
+     4: a relation such that one thing is dependent on another;
+        "height is a function of age"; "price is a function of
+        supply and demand"
+     5: a formal or official social gathering or ceremony; "it was a
+        black-tie function"
+     6: a vaguely specified social event; "the party was quite an
+        affair"; "an occasion arranged to honor the president"; "a
+        seemingly endless round of social functions" [syn: {affair},
+         {occasion}, {social occasion}, {social function}]
+     7: a set sequence of steps, part of larger computer program
+        [syn: {routine}, {subroutine}, {subprogram}, {procedure}]
+     v 1: perform as expected when applied; "The washing machine won't
+          go unless it's plugged in"; "Does this old car still run
+          well?"; "This old radio doesn't work anymore" [syn: {work},
+           {operate}, {go}, {run}] [ant: {malfunction}]
+     2: serve a purpose, role, or function; "The tree stump serves
+        as a table"; "The female students served as a control
+        group"; "This table would serve very well"; "His freedom
+        served him well"; "The table functions as a desk" [syn: {serve}]
+     3: perform duties attached to a particular office or place or
+        function; "His wife officiated as his private secretary"
+        [syn: {officiate}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mattress</Word>
+  <Definitions>
+    <Definition>
+      <Word>mattress</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mattress \Mat"tress\, n. [OF. materas, F. matelas, LL.
+   matratium; cf. Sp. &amp; Pg. almadraque, Pr. almatrac; all from
+   Ar. ma[.t]rah a place where anything is thrown, what is
+   thrown under something, fr. [.t]araha to throw.]
+   [1913 Webster]
+   1. A large pad stuffed with hair, moss, or other suitable
+      soft material, and quilted or otherwise fastened, used as
+      or in a bed, to support the human body while lying down.
+      [Written also {matress}.]
+      [1913 Webster]
+
+   2. (Hydraulic Engin.) A mass of interwoven brush, poles,
+      etc., to protect a bank from being worn away by currents
+      or waves.
+      [1913 Webster]
+
+   {innerspring mattress} A variety of mattress[1] having
+      springs inside to provide a flexible support; it is
+      considered more comfortable than a stuffed mattress.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mattress</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mattress
+     n : a large thick pad filled with resilient material and often
+         incorporating coiled springs, used as a bed or part of a
+         bed
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

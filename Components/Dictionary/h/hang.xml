@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hang</Word>
+  <Definitions>
+    <Definition>
+      <Word>hang</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>hang
+     
+        1. To wait for an event that will never occur.  "The system is
+        hanging because it can't read from the crashed drive".  See
+        {wedged}, {hung}.
+     
+        2. To wait for some event to occur; to hang around until
+        something happens.  "The program displays a menu and then
+        hangs until you type a character."  Compare {block}.
+     
+        3. To attach a peripheral device, especially in the
+        construction "hang off": "We're going to hang another tape
+        drive off the file server."  Implies a device attached with
+        cables, rather than something that is strictly inside the
+        machine's chassis.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hang</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hang \Hang\, v. i.
+   1. To be suspended or fastened to some elevated point without
+      support from below; to dangle; to float; to rest; to
+      remain; to stay.
+      [1913 Webster]
+
+   2. To be fastened in such a manner as to allow of free motion
+      on the point or points of suspension.
+      [1913 Webster]
+
+   3. To die or be put to death by suspension from the neck.
+      [R.] ``Sir Balaam hangs.'' --Pope.
+      [1913 Webster]
+
+   4. To hold for support; to depend; to cling; -- usually with
+      on or upon; as, this question hangs on a single point.
+      ``Two infants hanging on her neck.'' --Peacham.
+      [1913 Webster]
+
+   5. To be, or be like, a suspended weight.
+      [1913 Webster]
+
+            Life hangs upon me, and becomes a burden. --Addison.
+      [1913 Webster]
+
+   6. To hover; to impend; to appear threateningly; -- usually
+      with over; as, evils hang over the country.
+      [1913 Webster]
+
+   7. To lean or incline; to incline downward.
+      [1913 Webster]
+
+            To decide which way hung the victory. --Milton.
+      [1913 Webster]
+
+            His neck obliquely o'er his shoulder hung. --Pope.
+      [1913 Webster]
+
+   8. To slope down; as, hanging grounds.
+      [1913 Webster]
+
+   9. To be undetermined or uncertain; to be in suspense; to
+      linger; to be delayed.
+      [1913 Webster]
+
+            A noble stroke he lifted high,
+            Which hung not, but so swift with tempest fell
+            On the proud crest of Satan.          --Milton.
+      [1913 Webster]
+
+   10. (Cricket, Tennis, etc.) Of a ball: To rebound
+       unexpectedly or unusually slowly, due to backward spin on
+       the ball or imperfections of ground.
+       [Webster 1913 Suppl.]
+
+   11. (Baseball) to fail to curve, break, or drop as intended;
+       -- said of pitches, such as curve balls or sliders.
+       [PJC]
+
+   12. (Computers) to cease to operate normally and remain
+       suspended in some state without performing useful work;
+       -- said of computer programs, computers, or individual
+       processes within a program; as, when using Windows 3.1,
+       my system would hang and need rebooting several times a
+       day.
+
+   Note: this situation could be caused by bugs within an
+         operating system or within a program, or
+         incompatibility between programs or between programs
+         and the hardware.
+         [PJC]
+
+   {To hang around}, to loiter idly about.
+
+   {To hang back}, to hesitate; to falter; to be reluctant. ``If
+      any one among you hangs back.'' --Jowett (Thucyd.).
+
+   {To hang by the eyelids}.
+       (a) To hang by a very slight hold or tenure.
+       (b) To be in an unfinished condition; to be left
+           incomplete.
+
+   {To hang in doubt}, to be in suspense.
+
+   {To hang on} (with the emphasis on the preposition), to keep
+      hold; to hold fast; to stick; to be persistent, as a
+      disease.
+
+   {To hang on the lips} {To hang on the words}, etc., to be
+      charmed by eloquence.
+
+   {To hang out}.
+       (a) To be hung out so as to be displayed; to project.
+       (b) To be unyielding; as, the juryman hangs out against
+           an agreement; to hold out. [Colloq.]
+       (c) to loiter or lounge around a particular place; as,
+           teenageers tend to hang out at the mall these days.
+           
+
+   {To hang over}.
+       (a) To project at the top.
+       (b) To impend over.
+
+   {To hang to}, to cling.
+
+   {To hang together}.
+       (a) To remain united; to stand by one another. ``We are
+           all of a piece; we hang together.'' --Dryden.
+       (b) To be self-consistent; as, the story does not hang
+           together. [Colloq.]
+
+   {To hang upon}.
+       (a) To regard with passionate affection.
+       (b) (Mil.) To hover around; as, to hang upon the flanks
+           of a retreating enemy.
+           [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hang</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hang \Hang\ (h[a^]ng), v. t. [imp. &amp; p. p. {Hanged} (h[a^]ngd)
+   or {Hung} (h[u^]ng); p. pr. &amp; vb. n. {Hanging}.
+
+   Usage: The use of hanged is preferable to that of hung, when
+          reference is had to death or execution by suspension,
+          and it is also more common.] [OE. hangen, hongien, v.
+          t. &amp; i., AS. hangian, v. i., fr. h[=o]n, v. t. (imp.
+          heng, p. p. hongen); akin to OS. hang[=o]n, v. i., D.
+          hangen, v. t. &amp; i., G. hangen, v. i, h["a]ngen, v. t.,
+          Icel. hanga, v. i., Goth. h[=a]han, v. t. (imp.
+          ha['i]hah), h[=a]han, v. i. (imp. hahaida), and perh.
+          to L. cunctari to delay. [root]37. ]
+   1. To suspend; to fasten to some elevated point without
+      support from below; -- often used with up or out; as, to
+      hang a coat on a hook; to hang up a sign; to hang out a
+      banner.
+      [1913 Webster]
+
+   2. To fasten in a manner which will allow of free motion upon
+      the point or points of suspension; -- said of a pendulum,
+      a swing, a door, gate, etc.
+      [1913 Webster]
+
+   3. To fit properly, as at a proper angle (a part of an
+      implement that is swung in using), as a scythe to its
+      snath, or an ax to its helve. [U. S.]
+      [1913 Webster]
+
+   4. To put to death by suspending by the neck; -- a form of
+      capital punishment; as, to hang a murderer.
+      [1913 Webster]
+
+   5. To cover, decorate, or furnish by hanging pictures,
+      trophies, drapery, and the like, or by covering with paper
+      hangings; -- said of a wall, a room, etc.
+      [1913 Webster]
+
+            Hung be the heavens with black.       --Shak.
+      [1913 Webster]
+
+            And hung thy holy roofs with savage spoils.
+                                                  --Dryden.
+      [1913 Webster]
+
+   6. To paste, as paper hangings, on the walls of a room.
+      [1913 Webster]
+
+   7. To hold or bear in a suspended or inclined manner or
+      position instead of erect; to droop; as, he hung his head
+      in shame.
+      [1913 Webster]
+
+            Cowslips wan that hang the pensive head. --Milton.
+      [1913 Webster]
+
+   8. To prevent from reaching a decision, esp. by refusing to
+      join in a verdict that must be unanimous; as, one
+      obstinate juror can hang a jury.
+      [Webster 1913 Suppl.]
+
+   {To hang down}, to let fall below the proper position; to
+      bend down; to decline; as, to hang down the head, or,
+      elliptically, to hang the head.
+
+   {To hang fire} (Mil.), to be slow in communicating fire
+      through the vent to the charge; as, the gun hangs fire;
+      hence, to hesitate, to hold back as if in suspense.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hang</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hang \Hang\, n.
+   1. The manner in which one part or thing hangs upon, or is
+      connected with, another; as, the hang of a scythe.
+      [1913 Webster]
+
+   2. Connection; arrangement; plan; as, the hang of a
+      discourse. [Colloq.]
+      [1913 Webster]
+
+   3. A sharp or steep declivity or slope. [Colloq.]
+      [1913 Webster]
+
+   {To get the hang of}, to learn the method or arrangement of;
+      hence, to become accustomed to. [Colloq.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hang</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>hang v. 1. [very common] To wait for an event that will never occur.
+   "The system is hanging because it can't read from the crashed drive".
+   See {wedged}, {hung}. 2. To wait for some event to occur; to hang around
+   until something happens. "The program displays a menu and then hangs
+   until you type a character." Compare {block}. 3. To attach a peripheral
+   device, esp. in the construction `hang off': "We're going to hang
+   another tape drive off the file server." Implies a device attached with
+   cables, rather than something that is strictly inside the machine's
+   chassis.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hang</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hang
+     n 1: a special way of doing something; "he had a bent for it";
+          "he had a special knack for getting into trouble"; "he
+          couldn't get the hang of it" [syn: {bent}, {knack}]
+     2: the way a garment hangs; "he adjusted the hang of his coat"
+     3: a gymnastic exercise performed on the rings or horizontal
+        bar or parallel bars when the gymnast's weight is
+        supported by the arms
+     v 1: be suspended or hanging; "The flag hung on the wall"
+     2: cause to be hanging or suspended; "Hang that picture on the
+        wall" [syn: {hang up}]
+     3: kill by hanging; "The murdered was hanged on Friday" [syn: {string
+        up}]
+     4: let drop or droop; "Hang one's head in shame"
+     5: fall or flow in a certain way; "This dress hangs well"; "Her
+        long black hair flowed down her back" [syn: {fall}, {flow}]
+     6: be menacing, burdensome, or oppressive; "This worry hangs on
+        my mind"; "The cloud of suspicion hangs over her"
+     7: give heed (to); "The children in the audience attended the
+        recital quietly"; "She hung on his every word"; "They
+        attended to everything he said" [syn: {attend}, {advert},
+        {pay heed}, {give ear}]
+     8: be suspended or poised; "Heavy fog hung over the valley"
+     9: hold on tightly or tenaciously; "hang on to your father's
+        hands"; "The child clung to his mother's apron" [syn: {cling}]
+     10: be exhibited; "Picasso hangs in this new wing of the museum"
+     11: prevent from reaching a verdict, of a jury
+     12: decorate or furnish with something suspended; "Hang
+         wallpaper"
+     13: be placed in position as by a hinge; "This cabinet door
+         doesn't hang right!"
+     14: place in position as by a hinge so as to allow free movement
+         in one direction; "hang a door"
+     15: of meat, in order to get a gamey taste; "hang the venison
+         for a few days"
+     [also: {hung}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

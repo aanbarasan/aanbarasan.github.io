@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tests</Word>
+  <Definitions>
+    <Definition>
+      <Word>tests</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Test \Test\, Testa \Tes"ta\, n.; pl. E. {Tests}, L. {Test[ae]}.
+   [L. testa a piece of burned clay, a broken piece of
+   earthenware, a shell. See {Test} a cupel.]
+   1. (Zo["o]l.) The external hard or firm covering of many
+      invertebrate animals.
+      [1913 Webster]
+
+   Note: The test of crustaceans and insects is composed largely
+         of chitin; in mollusks it is composed chiefly of
+         calcium carbonate, and is called the shell.
+         [1913 Webster]
+
+   2. (Bot.) The outer integument of a seed; the episperm, or
+      spermoderm.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

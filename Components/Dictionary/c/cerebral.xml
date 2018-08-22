@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cerebral</Word>
+  <Definitions>
+    <Definition>
+      <Word>cerebral</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cerebral \Cer"e*bral\, a. [L. cerebrum brain; akin to Gr. ka`ra
+   head: cf. F. c['e]r['e]bral. See {Cheer}.] (Anat.)
+   Of or pertaining to the cerebrum.
+   [1913 Webster]
+
+   {Cerebral apoplexy}. See under {Apoplexy}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cerebral</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cerebral \Cer"e*bral\, n. [A false translation of the Skr.
+   m[=u]rdhanya, lit., head-sounds.]
+   One of a class of lingual consonants in the East Indian
+   languages. See {Lingual}, n.
+   [1913 Webster]
+
+   Note: Prof. W. D. Whitney calls these letters linguals, and
+         this is their usual designation in the United States.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cerebral</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cerebral
+     adj 1: involving intelligence rather than emotions or instinct; "a
+            cerebral approach to the problem"; "cerebral drama"
+            [syn: {intellectual}] [ant: {emotional}]
+     2: of or relating to the cerebrum or brain; "cerebral
+        hemisphere"; "cerebral activity"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

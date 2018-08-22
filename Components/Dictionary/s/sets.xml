@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sets</Word>
+  <Definitions>
+    <Definition>
+      <Word>sets</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>SETS
+     
+        Set Equation Transformation System.
+     
+        Symbolic manipulation of Boolean equations.  "Efficient
+        Ordering of Set Expressions for Symbolic Expansion",
+        R.G. Worrell et al, J ACM 20(3):482-488 (Jul 1973).
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

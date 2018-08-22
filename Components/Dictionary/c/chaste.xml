@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>chaste</Word>
+  <Definitions>
+    <Definition>
+      <Word>chaste</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Chaste \Chaste\ (ch[=a]st), a. [F. chaste, from L. castus pure,
+   chaste; cf. Gr. kaqaro`s pure, Skr. [,c]udh to purify.]
+   [1913 Webster]
+   1. Pure from unlawful sexual intercourse; virtuous;
+      continent. ``As chaste as Diana.'' --Shak.
+      [1913 Webster]
+
+            Whose bed is undefiled and chaste pronounced.
+                                                  --Milton.
+      [1913 Webster]
+
+   2. Pure in thought and act; innocent; free from lewdness and
+      obscenity, or indecency in act or speech; modest; as, a
+      chaste mind; chaste eyes.
+      [1913 Webster]
+
+   3. Pure in design and expression; correct; free from
+      barbarisms or vulgarisms; refined; simple; as, a chaste
+      style in composition or art.
+      [1913 Webster]
+
+            That great model of chaste, lofty, and eloquence,
+            the Book of Common Prayer.            --Macaulay.
+      [1913 Webster]
+
+   4. Unmarried. [Obs.] --Chaucer.
+
+   Syn: Undefiled; pure; virtuous; continent; immaculate;
+        spotless.
+        [1913 Webster]
+
+   {Chaste tree}. Same as {Agnus castus}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chaste</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>chaste
+     adj 1: morally pure (especially not having experienced sexual
+            intercourse); "a holy woman innocent and chaste" [ant:
+             {unchaste}]
+     2: pure and simple in design or style; "a chaste border of
+        conventionalized flowers"
+     3: abstaining from unlawful sexual intercourse
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hungry</Word>
+  <Definitions>
+    <Definition>
+      <Word>hungry</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hungry \Hun"gry\, a. [Compar. {Hungrier}; superl. {Hungriest}.]
+   [AS. hungrid. See {Hunger}.]
+   1. Feeling hunger; having a keen appetite; feeling uneasiness
+      or distress from want of food; hence, having an eager
+      desire.
+      [1913 Webster]
+
+   2. Showing hunger or a craving desire; voracious.
+      [1913 Webster]
+
+            The cruel, hungry foam.               --C. Kingsley.
+      [1913 Webster]
+
+            Cassius has a lean and hungry look.   --Shak.
+      [1913 Webster]
+
+   3. Not rich or fertile; poor; barren; starved; as, a hungry
+      soil. ``The hungry beach.'' --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hungry</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hungry
+     adj 1: feeling hunger; feeling a need or desire to eat food; "a
+            world full of hungry people" [ant: {thirsty}]
+     2: (usually followed by `for') extremely desirous; "athirst for
+        knowledge"; "hungry for recognition"; "thirsty for
+        informaton" [syn: {athirst(p)}, {hungry(p)}, {thirsty(p)}]
+     [also: {hungriest}, {hungrier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

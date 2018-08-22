@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>circumstances</Word>
+  <Definitions>
+    <Definition>
+      <Word>circumstances</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>circumstances
+     n 1: your overall circumstances or condition in life (including
+          everything that happens to you); "whatever my fortune
+          may be"; "deserved a better fate"; "has a happy lot";
+          "the luck of the Irish"; "a victim of circumstances";
+          "success that was her portion" [syn: {fortune}, {destiny},
+           {fate}, {luck}, {lot}, {portion}]
+     2: the state (usually personal) with regard to wealth; "each
+        person was helped according to his circumstances"
+     3: a person's financial situation (good or bad); "he found
+        himself in straitened circumstances"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cautious</Word>
+  <Definitions>
+    <Definition>
+      <Word>cautious</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cautious \Cau"tious\, a. [Cf. L. cautus, fr. caver. See
+   {Caution}.]
+   Attentive to examine probable effects and consequences of
+   acts with a view to avoid danger or misfortune; prudent;
+   circumspect; wary; watchful; as, a cautious general.
+   [1913 Webster]
+
+         Cautious feeling for another's pain.     --Byron.
+   [1913 Webster]
+
+         Be swift to hear; but cautious of your tongue. --Watts.
+
+   Syn: Wary; watchful; vigilant; prudent; circumspect;
+        discreet; heedful; thoughtful; scrupulous; anxious;
+        careful.
+
+   Usage: {Cautious}, {Wary}, {Circumspect}. A man is cautious
+          who realizes the constant possibility of danger; one
+          may be wary, and yet bold and active; a man who is
+          circumspect habitually examines things on every side
+          in order to weigh and deliberate. It is necessary to
+          be cautious at all times; to be wary in cases of
+          extraordinary danger; to be circumspect in matters of
+          peculiar delicacy and difficulty.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cautious</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cautious
+     adj 1: showing careful forethought; "reserved and cautious; never
+            making swift decisions"; "a cautious driver" [ant: {incautious}]
+     2: avoiding excess; "a conservative estimate" [syn: {conservative}]
+     3: cautious in attitude and careful in actions; prudent; "a
+        cautious answer"; "very cautious about believing
+        everything she was told"
+     4: unwilling to take risks
+     n : people who are fearful and cautious; "whitewater rafting is
+         not for the timid" [syn: {timid}] [ant: {brave}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

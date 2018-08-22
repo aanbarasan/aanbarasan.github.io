@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>astronomical</Word>
+  <Definitions>
+    <Definition>
+      <Word>astronomical</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Astronomical \As`tro*nom"ic*al\ (-[i^]*kal), a. [L.
+   astronomicus, Gr. 'astronomiko`s: cf. F. astronomique.]
+   Of or pertaining to astronomy; in accordance with the methods
+   or principles of astronomy. -- {As`tro*nom"ic*al*ly}, adv.
+   [1913 Webster]
+
+   {Astronomical clock}. See under {Clock}.
+
+   {Astronomical day}. See under {Day}.
+
+   {Astronomical fractions}, {Astronomical numbers}. See under
+      {Sexagesimal}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>astronomical</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>astronomical
+     adj 1: relating or belonging to the science of astronomy;
+            "astronomic telescope" [syn: {astronomic}]
+     2: inconceivably large [syn: {astronomic}, {galactic}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

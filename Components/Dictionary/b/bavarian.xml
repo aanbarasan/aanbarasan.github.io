@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bavarian</Word>
+  <Definitions>
+    <Definition>
+      <Word>bavarian</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bavarian \Ba*va"ri*an\, a.
+   Of or pertaining to Bavaria. -- n. A native or an inhabitant
+   of Bavaria.
+   [1913 Webster]
+
+   {Bavarian cream}. See under {Cream}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bavarian</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Bavarian
+     adj : of or relating to or characteristic of Bavaria or its
+           people; "Bavarian beer"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

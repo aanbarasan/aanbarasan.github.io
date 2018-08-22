@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>spoiler</Word>
+  <Definitions>
+    <Definition>
+      <Word>spoiler</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>spoiler
+     
+        1. A remark which reveals important plot elements
+        from books or movies, thus denying the reader (of the article)
+        the proper suspense when reading the book or watching the
+        movie.
+     
+        2. Any remark which telegraphs the solution of a problem or
+        puzzle, thus denying the reader the pleasure of working out
+        the correct answer (see also {interesting}).  Either sense
+        readily forms compounds like "total spoiler", "quasi-spoiler"
+        and even "pseudo-spoiler".
+     
+        By convention, {Usenet} news articles which are spoilers in
+        either sense should contain the word "spoiler" in the Subject:
+        line, or guarantee via various tricks that the answer appears
+        only after several screens-full of warning, or conceal the
+        sensitive information via {rot13}, or some combination of
+        these techniques.
+     
+        [{Jargon File}]
+     
+        (1995-01-18)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>spoiler</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Spoiler \Spoil"er\ (spoil"[~e]r), n.
+   1. One who spoils; a plunderer; a pillager; a robber; a
+      despoiler.
+      [1913 Webster]
+
+   2. One who corrupts, mars, or renders useless.
+      [1913 Webster]
+
+   3. (Aeronautics) A device attached to the wing of an airplane
+      or other airfoil, which breaks the smooth flow of air
+      during flight and decreases the lift of the airfoil; --
+      used to control the attitude of the airplane during
+      banking or descent.
+      [PJC]
+
+   4. A device attached to a car to decrease lift and increase
+      traction, usually shaped as a flat surface and attached
+      above the rear of the car, and working on the same
+      principal as the aircraft spoiler[3].
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>spoiler</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>spoiler n. [Usenet] 1. A remark which reveals important plot elements
+   from books or movies, thus denying the reader (of the article) the
+   proper suspense when reading the book or watching the movie. 2. Any
+   remark which telegraphs the solution of a problem or puzzle, thus
+   denying the reader the pleasure of working out the correct answer (see
+   also {interesting}). Either sense readily forms compounds like `total
+   spoiler', `quasi-spoiler' and even `pseudo-spoiler'.
+
+   By convention, articles which are spoilers in either sense should
+   contain the word `spoiler' in the Subject: line, or guarantee via
+   various tricks that the answer appears only after several screens-full
+   of warning, or conceal the sensitive information via {rot13}, {spoiler
+   space} or some combination of these techniques.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>spoiler</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>spoiler
+     n 1: a candidate with no chance of winning but who may draw
+          enough votes to prevent one of the leading candidates
+          from winning
+     2: someone who takes spoils or plunder (as in war) [syn: {plunderer},
+         {pillager}, {looter}, {despoiler}, {raider}, {freebooter}]
+     3: someone who pampers or spoils by excessive indulgence [syn:
+        {pamperer}, {coddler}, {mollycoddler}]
+     4: an airfoil mounted on the rear of a car to reduce lift at
+        high speeds
+     5: a hinged airfoil on the upper surface of an aircraft wing
+        that is raised to reduce lift and increase drag
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

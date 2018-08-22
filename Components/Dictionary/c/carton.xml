@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>carton</Word>
+  <Definitions>
+    <Definition>
+      <Word>carton</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Carton \Car"ton\ (k[aum]r"t[o^]n), n. [F. See {Cartoon}.]
+   Pasteboard for paper boxes; also, a pasteboard box.
+   [1913 Webster]
+
+   {Carton pierre}, a species of papier-mach['e], imitating
+      stone or bronze sculpture. --Knight.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>carton</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>carton
+     n 1: the quantity contained in a carton [syn: {cartonful}]
+     2: a box made of cardboard; opens by flaps on top
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

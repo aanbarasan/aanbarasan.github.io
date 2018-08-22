@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bike</Word>
+  <Definitions>
+    <Definition>
+      <Word>bike</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bike \Bike\, n. [Ethymol. unknown.]
+   A nest of wild bees, wasps, or ants; a swarm. [Scot.] --Sir
+   W. Scott.
+   [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bike</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bike
+     n 1: a motor vehicle with two wheels and a strong frame [syn: {motorcycle}]
+     2: a wheeled vehicle that has two wheels and is moved by foot
+        pedals [syn: {bicycle}, {wheel}, {cycle}]
+     v : ride a bicycle [syn: {bicycle}, {cycle}, {pedal}, {wheel}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

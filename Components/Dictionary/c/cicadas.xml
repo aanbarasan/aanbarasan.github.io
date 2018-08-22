@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cicadas</Word>
+  <Definitions>
+    <Definition>
+      <Word>cicadas</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cicada \Ci*ca"da\ (s[i^]*k[=a]"d[.a]), n.; pl. E. {Cicadas}
+   (-d[.a]z), L. {Cicad[ae]} (-d[=e]). [L.] (Zo["o]l.)
+   Any species of the genus {Cicada} or of the family
+   {Cicadidae}. They are large hemipterous insects, with nearly
+   transparent wings. The male makes a shrill sound by peculiar
+   organs in the under side of the abdomen, consisting of a pair
+   of stretched membranes, acted upon by powerful muscles. A
+   noted American species ({Cicada septendecim}) is called the
+   {seventeen year locust}. Another common species is the
+   {dogday cicada}.
+
+   Syn: cicala. [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

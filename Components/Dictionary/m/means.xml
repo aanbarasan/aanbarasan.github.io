@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>means</Word>
+  <Definitions>
+    <Definition>
+      <Word>means</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Means, KY
+  Zip code(s): 40346
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>means</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>means
+     n 1: how a result is obtained or an end is achieved; "a means of
+          control"; "an example is the best agency of
+          instruction"; "the true way to success" [syn: {agency},
+          {way}]
+     2: instrumentality used to achieve an end
+     3: considerable capital (wealth or income); "he is a man of
+        means" [syn: {substance}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

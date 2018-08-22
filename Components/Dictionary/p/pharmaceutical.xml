@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pharmaceutical</Word>
+  <Definitions>
+    <Definition>
+      <Word>pharmaceutical</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pharmaceutic \Phar`ma*ceu"tic\ (f[aum]r`m[.a]*s[=u]"t[i^]k),
+Pharmaceutical \Phar`ma*ceu"tic*al\ (-t[i^]*kal), a. [L.
+   pharmaceuticus, Gr. farmakeytiko`s, fr. farmakey`ein: cf. F.
+   pharmaceutique. See {Pharmacy}.]
+   Of or pertaining to the knowledge or art of pharmacy, or to
+   the art of preparing medicines according to the rules or
+   formulas of pharmacy; as, pharmaceutical preparations. --
+   {Phar`ma*ceu"tic*al*ly}, adv.
+   [1913 Webster]
+
+   {Pharmaceutical chemistry}, that department of chemistry
+      which ascertains or regulates the composition of medicinal
+      substances.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pharmaceutical</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pharmaceutical
+     adj 1: of or relating to pharmacy or pharmacists; "the
+            pharmaceutical industry" [syn: {pharmaceutic}]
+     2: of or relating to drugs used in medical treatment
+     n : drug or medicine that is prepared or dispensed in pharmacies
+         and used in medical treatment
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

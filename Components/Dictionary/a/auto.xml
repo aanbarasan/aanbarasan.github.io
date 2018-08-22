@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>auto</Word>
+  <Definitions>
+    <Definition>
+      <Word>auto</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Auto, AS (village, FIPS 20100)
+  Location: 14.28161 S, 170.62682 W
+  Population (1990): 255 (33 housing units)
+  Area: 0.8 sq km (land), 0.3 sq km (water)
+Auto, WV
+  Zip code(s): 24917
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>auto</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>auto \au"to\, n. [Gr. ? self.]
+   An abbreviation of {automobile}.
+
+   Syn: car, automobile, machine, motorcar
+        [Webster 1913 Suppl. WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>auto</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>auto \au"to\, a.
+   of or pertaining to an automobile; as, an auto mechanic.
+   [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>auto</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>auto- \au"to-\ [Gr. ? self.]
+   1. A combining form, with the meaning of self, one's self,
+      one's own, itself, its own.
+      [1913 Webster]
+
+   2. a prefix with the meaning of self-moving, self-propelling;
+      as, an autocar, an autocarriage, an autotruck, etc., an
+      automobile car, carriage, truck, etc.
+      [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>auto</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Automobile \Au"to*mo*bile`\, n. [F.]
+   a self-propelled vehicle used for transporting passengers,
+   suitable for use on a street or roadway. Many diferent models
+   of automobiles have beenbuilt and sold commercially,
+   possessing varied features such as a retractable roof (in a
+   {convertible}), different braking systems, different
+   propulsion systems, and varied styling. Most models have four
+   wheels but some have been built with three wheels.
+   Automobiles are usually propelled by internal combustion
+   engines (using volatile inflammable liquids, as gasoline or
+   petrol, alcohol, naphtha, etc.), and sometimes by steam
+   engines, or electric motors. The power of the driving motor
+   varies from under 50 H. P. for earlier models to over 200 H.
+   P. larger models or high-performance sports or racing cars.
+   An automobile is commonly called a {car} or an {auto}, and
+   generally in British usage, {motor cars}.
+
+   Syn: car, auto, machine, motorcar.
+        [Webster 1913 Suppl. +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>auto</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>auto
+     n : 4-wheeled motor vehicle; usually propelled by an internal
+         combustion engine; "he needs a car to get to work" [syn:
+         {car}, {automobile}, {machine}, {motorcar}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

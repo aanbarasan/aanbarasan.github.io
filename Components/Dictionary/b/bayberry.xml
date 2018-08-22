@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bayberry</Word>
+  <Definitions>
+    <Definition>
+      <Word>bayberry</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Bayberry, NY
+  Zip code(s): 13090
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bayberry</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bayberry \Bay"ber*ry\, n. (Bot.)
+   (a) The fruit of the bay tree or {Laurus nobilis}.
+   (b) A tree of the West Indies related to the myrtle ({Pimenta
+       acris}).
+   (c) The fruit of {Myrica cerifera} (wax myrtle); the shrub
+       itself; -- called also {candleberry tree}.
+       [1913 Webster]
+
+   {Bayberry tallow}, a fragrant green wax obtained from the
+      bayberry or wax myrtle; -- called also {myrtle wax}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bayberry</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Candleberry tree \Can"dle*ber`ry tree\ (Bot.)
+   A shrub (the {Myrica cerifera}, or wax-bearing myrtle),
+   common in North America, the little nuts of which are covered
+   with a greenish white wax, which was formerly, used for
+   hardening candles; -- also called {bayberry tree},
+   {bayberry}, or {candleberry}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bayberry</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bayberry
+     n 1: West Indian tree; source of bay rum [syn: {bay-rum tree}, {Jamaica
+          bayberry}, {wild cinnamon}, {Pimenta acris}]
+     2: deciduous aromatic shrub of eastern North America with
+        gray-green wax-coated berries [syn: {candleberry}, {swamp
+        candleberry}, {waxberry}, {Myrica pensylvanica}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

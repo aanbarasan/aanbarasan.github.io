@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>accordingly</Word>
+  <Definitions>
+    <Definition>
+      <Word>accordingly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Accordingly \Ac*cord"ing*ly\, adv.
+   1. Agreeably; correspondingly; suitably; in a manner
+      conformable.
+      [1913 Webster]
+
+            Behold, and so proceed accordingly.   --Shak.
+      [1913 Webster]
+
+   2. In natural sequence; consequently; so.
+      [1913 Webster]
+
+   Syn: Consequently; therefore; wherefore; hence; so.
+
+   Usage: {Accordingly}, {Consequently}, indicate a connection
+          between two things, the latter of which is done on
+          account of the former. Accordingly marks the
+          connection as one of simple accordance or congruity,
+          leading naturally to the result which followed; as, he
+          was absent when I called, and I accordingly left my
+          card; our preparations were all finished, and we
+          accordingly set sail. Consequently all finished, and
+          we accordingly set sail. Consequently marks a closer
+          connection, that of logical or causal sequence; as,
+          the papers were not ready, and consequently could not
+          be signed.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>accordingly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>accordingly
+     adv 1: (sentence connectors) because of the reason given;
+            "consequently, he didn't do it"; "continued to have
+            severe headaches and accordingly returned to the
+            doctor" [syn: {consequently}]
+     2: in accordance with; "she acted accordingly"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

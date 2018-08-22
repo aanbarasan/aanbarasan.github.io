@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>important</Word>
+  <Definitions>
+    <Definition>
+      <Word>important</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Important \Im*por"tant\, a. [F. important. See {Import}, v. t.]
+   1. Full of, or burdened by, import; charged with great
+      interests; restless; anxious. [Obs.]
+      [1913 Webster]
+
+            Thou hast strength as much
+            As serves to execute a mind very important.
+                                                  --Chapman.
+      [1913 Webster]
+
+   2. Carrying or possessing weight or consequence; of valuable
+      content or bearing; significant; weighty.
+      [1913 Webster]
+
+            Things small as nothing . . .
+            He makes important.                   --Shak.
+      [1913 Webster]
+
+   3. Bearing on; forcible; driving. [Obs.]
+      [1913 Webster]
+
+            He fiercely at him flew,
+            And with important outrage him assailed. --Spenser.
+      [1913 Webster]
+
+   4. Importunate; pressing; urgent. [Obs.] --Shak.
+
+   Syn: Weighty; momentous; significant; essential; necessary;
+        considerable; influential; serious.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>important</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>important
+     adj 1: of great significance or value; "important people"; "the
+            important questions of the day" [syn: {of import}]
+            [ant: {unimportant}]
+     2: important in effect or meaning; "a significant change in tax
+        laws"; "a significant change in the Constitution"; "a
+        significant contribution"; "significant details";
+        "statistically significant" [syn: {significant}] [ant: {insignificant}]
+     3: of extreme importance; vital to the resolution of a crisis;
+        "a crucial moment in his career"; "a crucial election"; "a
+        crucial issue for women" [syn: {crucial}] [ant: {noncrucial}]
+     4: having authority or ascendancy or influence; "an important
+        official"; "the captain's authoritative manner" [syn: {authoritative}]
+     5: having or suggesting a consciousness of high position;
+        "recited the decree with an important air"; "took long
+        important strides in the direction of his office"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

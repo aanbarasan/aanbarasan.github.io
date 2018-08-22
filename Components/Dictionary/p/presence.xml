@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>presence</Word>
+  <Definitions>
+    <Definition>
+      <Word>presence</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Presence \Pres"ence\, n. [F. pr['e]sence, L. praesentia. See
+   {Present}.]
+   1. The state of being present, or of being within sight or
+      call, or at hand; -- opposed to absence.
+      [1913 Webster]
+
+   2. The place in which one is present; the part of space
+      within one's ken, call, influence, etc.; neighborhood
+      without the intervention of anything that forbids
+      intercourse.
+      [1913 Webster]
+
+            Wrath shell be no more
+            Thenceforth, but in thy presence joy entire.
+                                                  --Milton.
+      [1913 Webster]
+
+   3. Specifically, neighborhood to the person of one of
+      superior of exalted rank; also, presence chamber.
+      [1913 Webster]
+
+            In such a presence here to plead my thoughts.
+                                                  --Shak.
+      [1913 Webster]
+
+            An't please your grace, the two great cardinals.
+            Wait in the presence.                 --Shak.
+      [1913 Webster]
+
+   4. The whole of the personal qualities of an individual;
+      person; personality; especially, the person of a superior,
+      as a sovereign.
+      [1913 Webster]
+
+            The Sovran Presence thus replied.     --Milton.
+      [1913 Webster]
+
+   5. An assembly, especially of person of rank or nobility;
+      noble company.
+      [1913 Webster]
+
+            Odmar, of all this presence does contain,
+            Give her your wreath whom you esteem most fair.
+                                                  --Dryden.
+      [1913 Webster]
+
+   6. Port, mien; air; personal appearence. ``Rather dignity of
+      presence than beauty of aspect.'' --Bacon.
+      [1913 Webster]
+
+            A graceful presence bespeaks acceptance. -- Collier.
+      [1913 Webster]
+
+   {Presence chamber}, or {Presence room}, the room in which a
+      great personage receives company. --Addison. `` Chambers
+      of presence.'' --Bacon.
+
+   {Presence of mind}, that state of the mind in which all its
+      faculties are alert, prompt, and acting harmoniously in
+      obedience to the will, enabling one to reach, as it were
+      spontaneously or by intuition, just conclusions in sudden
+      emergencies.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>presence</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>presence
+     n 1: the state of being present; current existence; "he tested
+          for the presence of radon" [ant: {absence}]
+     2: the immediate proximity of someone or something; "she
+        blushed in his presence"; "he sensed the presence of
+        danger"; "he was well behaved in front of company" [syn: {front}]
+     3: an invisible spiritual being felt to be nearby
+     4: the impression that something is present; "he felt the
+        presence of an evil force"
+     5: dignified manner or conduct [syn: {bearing}, {comportment},
+        {mien}]
+     6: the act of being present [ant: {absence}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

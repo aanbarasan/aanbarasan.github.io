@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sort</Word>
+  <Definitions>
+    <Definition>
+      <Word>sort</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>sort
+     
+        1. &lt;application, algorithm&gt; To arrange a collection of items
+        in some specified order.  The items - {records} in a file or
+        data structures in memory - consist of one or more {fields} or
+        members.  One of these fields is designated as the "sort key"
+        which means the records will be ordered according to the value
+        of that field.  Sometimes a sequence of key fields is
+        specified such that if all earlier keys are equal then the
+        later keys will be compared.  Within each field some ordering
+        is imposed, e.g. ascending or descending numerical, {lexical
+        ordering}, or date.
+     
+        Sorting is the subject of a great deal of study since it is a
+        common operation which can consume a lot of computer time.
+        There are many well-known sorting {algorithms} with different
+        time and space behaviour and programming {complexity}.
+     
+        Examples are {quicksort}, {insertion sort}, {bubble sort},
+        {heap sort}, and {tree sort}.  These employ many different
+        data structures to store sorted data, such as {arrays},
+        {linked lists}, and {binary trees}.
+     
+        2. &lt;tool&gt; The {Unix} utility program for sorting lines of
+        files.
+     
+        {Unix manual page}: sort(1).
+     
+        (1997-02-12)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sort</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sort \Sort\, n. [F. sorl, L. sors, sortis. See {Sort} kind.]
+   Chance; lot; destiny. [Obs.]
+   [1913 Webster]
+
+         By aventure, or sort, or cas [chance].   --Chaucer.
+   [1913 Webster]
+
+         Let blockish Ajax draw
+         The sort to fight with Hector.           --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sort</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sort \Sort\, n. [F. sorie (cf. It. sorta, sorte), from L. sors,
+   sorti, a lot, part, probably akin to serere to connect. See
+   {Series}, and cf. {Assort}, {Consort}, {Resort}, {Sorcery},
+   {Sort} lot.]
+   1. A kind or species; any number or collection of individual
+      persons or things characterized by the same or like
+      qualities; a class or order; as, a sort of men; a sort of
+      horses; a sort of trees; a sort of poems.
+      [1913 Webster]
+
+   2. Manner; form of being or acting.
+      [1913 Webster]
+
+            Which for my part I covet to perform,
+            In sort as through the world I did proclaim.
+                                                  --Spenser.
+      [1913 Webster]
+
+            Flowers, in such sort worn, can neither be smelt nor
+            seen well by those that wear them.    --Hooker.
+      [1913 Webster]
+
+            I'll deceive you in another sort.     --Shak.
+      [1913 Webster]
+
+            To Adam in what sort
+            Shall I appear?                       --Milton.
+      [1913 Webster]
+
+            I shall not be wholly without praise, if in some
+            sort I have copied his style.         --Dryden.
+      [1913 Webster]
+
+   3. Condition above the vulgar; rank. [Obs.] --Shak.
+      [1913 Webster]
+
+   4. A chance group; a company of persons who happen to be
+      together; a troop; also, an assemblage of animals. [Obs.]
+      ``A sort of shepherds.'' --Spenser. ``A sort of steers.''
+      --Spenser. ``A sort of doves.'' --Dryden. ``A sort of
+      rogues.'' --Massinger.
+      [1913 Webster]
+
+            A boy, a child, and we a sort of us,
+            Vowed against his voyage.             --Chapman.
+      [1913 Webster]
+
+   5. A pair; a set; a suit. --Johnson.
+      [1913 Webster]
+
+   6. pl. (Print.) Letters, figures, points, marks, spaces, or
+      quadrats, belonging to a case, separately considered.
+      [1913 Webster]
+
+   {Out of sorts} (Print.), with some letters or sorts of type
+      deficient or exhausted in the case or font; hence,
+      colloquially, out of order; ill; vexed; disturbed.
+
+   {To run upon sorts} (Print.), to use or require a greater
+      number of some particular letters, figures, or marks than
+      the regular proportion, as, for example, in making an
+      index.
+      [1913 Webster]
+
+   Syn: Kind; species; rank; condition.
+
+   Usage: {Sort}, {Kind}. Kind originally denoted things of the
+          same family, or bound together by some natural
+          affinity; and hence, a class. Sort signifies that
+          which constitutes a particular lot of parcel, not
+          implying necessarily the idea of affinity, but of mere
+          assemblage. the two words are now used to a great
+          extent interchangeably, though sort (perhaps from its
+          original meaning of lot) sometimes carries with it a
+          slight tone of disparagement or contempt, as when we
+          say, that sort of people, that sort of language.
+          [1913 Webster]
+
+                As when the total kind
+                Of birds, in orderly array on wing,
+                Came summoned over Eden to receive
+                Their names of there.             --Milton.
+          [1913 Webster]
+
+                None of noble sort
+                Would so offend a virgin.         --Shak.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sort</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sort \Sort\, v. i.
+   1. To join or associate with others, esp. with others of the
+      same kind or species; to agree.
+      [1913 Webster]
+
+            Nor do metals only sort and herd with metals in the
+            earth, and minerals with minerals.    --Woodward.
+      [1913 Webster]
+
+            The illiberality of parents towards children makes
+            them base, and sort with any company. --Bacon.
+      [1913 Webster]
+
+   2. To suit; to fit; to be in accord; to harmonize.
+      [1913 Webster]
+
+            They are happy whose natures sort with their
+            vocations.                            --Bacon.
+      [1913 Webster]
+
+            Things sort not to my will.           --herbert.
+      [1913 Webster]
+
+            I can not tell you precisely how they sorted. --Sir
+                                                  W. Scott.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sort</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sort \Sort\, v. t. [imp. &amp; p. p. {Sorted}; p. pr. &amp; vb. n.
+   {Sorting}.]
+   1. To separate, and place in distinct classes or divisions,
+      as things having different qualities; as, to sort cloths
+      according to their colors; to sort wool or thread
+      according to its fineness.
+      [1913 Webster]
+
+            Rays which differ in refrangibility may be parted
+            and sorted from one another.          --Sir I.
+                                                  Newton.
+      [1913 Webster]
+
+   2. To reduce to order from a confused state. --Hooker.
+      [1913 Webster]
+
+   3. To conjoin; to put together in distribution; to class.
+      [1913 Webster]
+
+            Shellfish have been, by some of the ancients,
+            compared and sorted with insects.     --Bacon.
+      [1913 Webster]
+
+            She sorts things present with things past. --Sir J.
+                                                  Davies.
+      [1913 Webster]
+
+   4. To choose from a number; to select; to cull.
+      [1913 Webster]
+
+            That he may sort out a worthy spouse. --Chapman.
+      [1913 Webster]
+
+            I'll sort some other time to visit you. --Shak.
+      [1913 Webster]
+
+   5. To conform; to adapt; to accommodate. [R.]
+      [1913 Webster]
+
+            I pray thee, sort thy heart to patience. --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sort</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sort
+     n 1: a category of things distinguished by some common
+          characteristic or quality; "sculpture is a form of art";
+          "what kinds of desserts are there?" [syn: {kind}, {form},
+           {variety}]
+     2: an approximate definition or example; "she wore a sort of
+        magenta dress"; "she served a creamy sort of dessert
+        thing"
+     3: a person of a particular character or nature; "what sort of
+        person is he?"; "he's a good sort"
+     4: an operation that segregates items into groups according to
+        a specified criterion; "the bottleneck in mail delivery it
+        the process of sorting" [syn: {sorting}]
+     v 1: examine in order to test suitability; "screen these
+          samples"; "screen the job applicants" [syn: {screen}, {screen
+          out}, {sieve}]
+     2: arrange or order by classes or categories; "How would you
+        classify these pottery shards--are they prehistoric?"
+        [syn: {classify}, {class}, {assort}, {sort out}, {separate}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

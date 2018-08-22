@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cardiac</Word>
+  <Definitions>
+    <Definition>
+      <Word>cardiac</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cardiac \Car"di*ac\ n. (Med.)
+   A medicine which excites action in the stomach; a cardial.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cardiac</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cardiac \Car"di*ac\, a. [L. cardiacus, Gr. ?, fr. ? heart: cf.
+   F. cardiaque.]
+   1. (Anat.) Pertaining to, resembling, or hear the heart; as,
+      the cardiac arteries; the cardiac, or left, end of the
+      stomach.
+      [1913 Webster]
+
+   2. (Med.) Exciting action in the heart, through the medium of
+      the stomach; cordial; stimulant.
+      [1913 Webster]
+
+   {Cardiac passion} (Med.) cardialgia; heartburn. [Archaic]
+
+   {Cardiac wheel}. (Mach.) See {Heart wheel}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cardiac</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cardiac
+     adj : of or relating to the heart; "cardiac arrest"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

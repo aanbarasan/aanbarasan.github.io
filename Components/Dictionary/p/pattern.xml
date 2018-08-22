@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pattern</Word>
+  <Definitions>
+    <Definition>
+      <Word>pattern</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pattern \Pat"tern\, n. [OE. patron, F. patron, a patron, also, a
+   pattern. See {Patron}.]
+   1. Anything proposed for imitation; an archetype; an
+      exemplar; that which is to be, or is worthy to be, copied
+      or imitated; as, a pattern of a machine.
+      [1913 Webster]
+
+            I will be the pattern of all patience. --Shak.
+      [1913 Webster]
+
+   2. A part showing the figure or quality of the whole; a
+      specimen; a sample; an example; an instance.
+      [1913 Webster]
+
+            He compares the pattern with the whole piece.
+                                                  --Swift.
+      [1913 Webster]
+
+   3. Stuff sufficient for a garment; as, a dress pattern.
+      [1913 Webster]
+
+   4. Figure or style of decoration; design; as, wall paper of a
+      beautiful pattern.
+      [1913 Webster]
+
+   5. Something made after a model; a copy. --Shak.
+      [1913 Webster]
+
+            The patterns of things in the heavens. --Heb. ix.
+                                                  23.
+      [1913 Webster]
+
+   6. Anything cut or formed to serve as a guide to cutting or
+      forming objects; as, a dressmaker's pattern.
+      [1913 Webster]
+
+   7. (Founding) A full-sized model around which a mold of sand
+      is made, to receive the melted metal. It is usually made
+      of wood and in several parts, so as to be removed from the
+      mold without injuring it.
+      [1913 Webster]
+
+   8. a recognizable characteristic relationship or set of
+      relationships between the members of any set of objects or
+      actions, or the properties of the members; also, the set
+      having a definable relationship between its members.
+      [PJC]
+
+   Note: Various collections of objects or markings are spoken
+         of as a pattern. Thus: the distribution of bomb or
+         shell impacts on a target area, or of bullet holes in a
+         target; a set of traits or actions that appear to be
+         consistent throughout the members of a group or over
+         time within a group, as behavioral pattern, traffic
+         pattern, dress pattern; the wave pattern for a spoken
+         word; the pattern of intensities in a spectrum; a
+         grammatical pattern.
+         [PJC]
+
+   9. (Gun.) A diagram showing the distribution of the pellets
+      of a shotgun on a vertical target perpendicular to the
+      plane of fire.
+      [Webster 1913 Suppl.]
+
+   10. the recommended flight path for an airplane to follow as
+       it approaches an airport for a landing. Same as {landing
+       pattern}.
+       [PJC]
+
+   11. an image or diagram containing lines, usually horizontal,
+       vertical, and diagonal, sometimes of varying widths, used
+       to test the resolution of an optical instrument or the
+       accuracy of reproduction of image copying or transmission
+       equipment. Same as {test pattern}.
+       [PJC]
+
+   {pattern box}, {pattern chain}, or {pattern cylinder} (Figure
+      Weaving), devices, in a loom, for presenting several
+      shuttles to the picker in the proper succession for
+      forming the figure.
+
+   {Pattern card}.
+       (a) A set of samples on a card.
+       (b) (Weaving) One of the perforated cards in a Jacquard
+           apparatus.
+
+   {Pattern reader}, one who arranges textile patterns.
+
+   {Pattern wheel} (Horology), a count-wheel.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pattern</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pattern \Pat"tern\, v. t. [imp. &amp; p. p. {Patterned}; p. pr. &amp;
+   vb. n. {Patterning}.]
+   1. To make or design (anything) by, from, or after, something
+      that serves as a pattern; to copy; to model; to imitate.
+      --Milton.
+      [1913 Webster]
+
+            [A temple] patterned from that which Adam reared in
+            Paradise.                             --Sir T.
+                                                  Herbert.
+      [1913 Webster]
+
+   2. To serve as an example for; also, to parallel.
+      [1913 Webster]
+
+   {To pattern after}, to imitate; to follow.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pattern</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pattern
+     n 1: a perceptual structure; "the composition presents problems
+          for students of musical form"; "a visual pattern must
+          include not only objects but the spaces between them"
+          [syn: {form}, {shape}]
+     2: a customary way of operation or behavior; "it is their
+        practice to give annual raises"; "they changed their
+        dietary pattern" [syn: {practice}]
+     3: a decorative or artistic work; "the coach had a design on
+        the doors" [syn: {design}, {figure}]
+     4: something regarded as a normative example; "the convention
+        of not naming the main character"; "violence is the rule
+        not the exception"; "his formula for impressing visitors"
+        [syn: {convention}, {normal}, {rule}, {formula}]
+     5: a model considered worthy of imitation; "the American
+        constitution has provided a pattern for many republics"
+     6: something intended as a guide for making something else; "a
+        blueprint for a house"; "a pattern for a skirt" [syn: {blueprint},
+         {design}]
+     7: the path that is prescribed for an airplane that is
+        preparing to land at an airport; "the traffic patterns
+        around O'Hare are very crowded"; "they stayed in the
+        pattern until the fog lifted" [syn: {traffic pattern}, {approach
+        pattern}]
+     8: graphical representation (in polar or cartesian coordinates)
+        of the spatial distribution of radiation from an antenna
+        as a function of angle [syn: {radiation pattern}, {radiation
+        diagram}]
+     v 1: plan or create according to a model or models [syn: {model}]
+     2: form a pattern; "These sentences pattern like the ones we
+        studied before"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>luck</Word>
+  <Definitions>
+    <Definition>
+      <Word>luck</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Luck, WI (village, FIPS 46200)
+  Location: 45.57517 N, 92.46729 W
+  Population (1990): 1022 (501 housing units)
+  Area: 4.3 sq km (land), 1.5 sq km (water)
+  Zip code(s): 54853
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>luck</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Luck \Luck\, n. [Akin to D. luk, geluk, G. gl["u]ck, Icel.
+   lukka, Sw. lycka, Dan. lykke, and perh. to G. locken to
+   entice. Cf. 3d {Gleck}.]
+   That which happens to a person; an event, good or ill,
+   affecting one's interests or happiness, and which is deemed
+   casual; a course or series of such events regarded as
+   occurring by chance; chance; hap; fate; fortune; often, one's
+   habitual or characteristic fortune; as, good, bad, ill, or
+   hard luck. Luck is often used by itself to mean good luck;
+   as, luck is better than skill; a stroke of luck.
+   [1913 Webster]
+
+         If thou dost play with him at any game,
+         Thou art sure to lose; and of that natural luck,
+         He beats thee 'gainst the odds.          --Shak.
+   [1913 Webster]
+
+   {Luck penny}, a small sum given back for luck to one who pays
+      money. [Prov. Eng.]
+
+   {To be in luck}, to receive some good, or to meet with some
+      success, in an unexpected manner, or as the result of
+      circumstances beyond one's control; to be fortunate.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>luck</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>luck
+     n 1: your overall circumstances or condition in life (including
+          everything that happens to you); "whatever my fortune
+          may be"; "deserved a better fate"; "has a happy lot";
+          "the luck of the Irish"; "a victim of circumstances";
+          "success that was her portion" [syn: {fortune}, {destiny},
+           {fate}, {lot}, {circumstances}, {portion}]
+     2: an unknown and unpredictable phenomenon that causes an event
+        to result one way rather than another; "bad luck caused
+        his downfall"; "we ran into each other by pure chance"
+        [syn: {fortune}, {chance}, {hazard}]
+     3: an unknown and unpredictable phenomenon that leads to a
+        favorable outcome; "it was my good luck to be there";
+        "they say luck is a lady"; "it was as if fortune guided
+        his hand" [syn: {fortune}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

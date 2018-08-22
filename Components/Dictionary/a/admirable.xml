@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>admirable</Word>
+  <Definitions>
+    <Definition>
+      <Word>admirable</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Admirable \Ad"mi*ra*ble\, a. [L. admirabilis: cf. F. admirable.]
+   1. Fitted to excite wonder; wonderful; marvelous. [Obs.]
+      [1913 Webster]
+
+            In man there is nothing admirable but his ignorance
+            and weakness.                         --Jer. Taylor.
+      [1913 Webster]
+
+   2. Having qualities to excite wonder united with approbation;
+      deserving the highest praise; most excellent; -- used of
+      persons or things. ``An admirable machine.'' ``Admirable
+      fortitude.'' --Macaulay.
+      [1913 Webster]
+
+   Syn: Wonderful; marvelous; surprising; excellent; delightful;
+        praiseworthy.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>admirable</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>admirable
+     adj 1: deserving of the highest esteem or admiration; "an estimable
+            young professor"; "trains ran with admirable
+            precision"; "his taste was impeccable, his health
+            admirable"
+     2: inspiring admiration or approval; "among her many admirable
+        qualities are generosity and graciousness"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

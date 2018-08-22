@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cheering</Word>
+  <Definitions>
+    <Definition>
+      <Word>cheering</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cheer \Cheer\, v. t. [imp. &amp; p. p. {Cheered} (ch[=e]rd); p. pr.
+   &amp; vb. n. {cheering}.]
+   1. To cause to rejoice; to gladden; to make cheerful; --
+      often with up. --Cowpe.
+      [1913 Webster]
+
+   2. To infuse life, courage, animation, or hope, into; to
+      inspirit; to solace or comfort.
+      [1913 Webster]
+
+            The proud he tamed, the penitent he cheered.
+                                                  --Dryden.
+      [1913 Webster]
+
+   3. To salute or applaud with cheers; to urge on by cheers;
+      as, to cheer hounds in a chase.
+      [1913 Webster]
+
+   {To cheer ship}, to salute a passing ship by cheers of
+      sailors stationed in the rigging.
+
+   Syn: To gladden; encourage; inspirit; comfort; console;
+        enliven; refresh; exhilarate; animate; applaud.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cheering</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cheering
+     adj 1: providing freedom from worry [syn: {comforting}, {satisfying}]
+     2: bringing cheer or gladness; "cheering news"
+     n : encouragement in the form of cheers from spectators; "it's
+         all over but the shouting" [syn: {shouting}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

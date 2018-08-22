@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>allen</Word>
+  <Definitions>
+    <Definition>
+      <Word>allen</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Allen, AL
+  Zip code(s): 36419
+Allen, IL
+  Zip code(s): 62682
+Allen, KS (city, FIPS 1275)
+  Location: 38.65546 N, 96.16851 W
+  Population (1990): 191 (89 housing units)
+  Area: 0.7 sq km (land), 0.0 sq km (water)
+Allen, KY (city, FIPS 946)
+  Location: 37.61123 N, 82.72840 W
+  Population (1990): 229 (104 housing units)
+  Area: 0.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 41601
+Allen, MI (village, FIPS 1300)
+  Location: 41.95790 N, 84.76742 W
+  Population (1990): 201 (94 housing units)
+  Area: 0.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 49227
+Allen, NE (village, FIPS 870)
+  Location: 42.41456 N, 96.84281 W
+  Population (1990): 331 (157 housing units)
+  Area: 1.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 68710
+Allen, OK (town, FIPS 1400)
+  Location: 34.87832 N, 96.41404 W
+  Population (1990): 972 (437 housing units)
+  Area: 2.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 74825
+Allen, SD
+  Zip code(s): 57714
+Allen, TX (city, FIPS 1924)
+  Location: 33.10968 N, 96.66948 W
+  Population (1990): 18309 (6173 housing units)
+  Area: 49.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 75002
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>allen</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Allen
+     n 1: United States comedienne remembered as the confused but
+          imperturbable partner of her husband, George Burns
+          (1906-1964) [syn: {Gracie Allen}, {Grace Ethel Cecile
+          Rosalie Allen}, {Gracie}]
+     2: United States filmmaker and comic actor (1935-) [syn: {Woody
+        Allen}, {Allen Stewart Konigsberg}]
+     3: a soldier of the American Revolution whose troops helped
+        capture Fort Ticonderoga from the British (1738-1789)
+        [syn: {Ethan Allen}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

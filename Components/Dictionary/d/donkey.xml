@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>donkey</Word>
+  <Definitions>
+    <Definition>
+      <Word>donkey</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Donkey \Don"key\ (d[o^][ng]"k[y^]), n.; pl. {Donkeys}
+   (d[o^][ng]"k[i^]z). [Prob. dun, in allusion to the color of
+   the animal + a dim. termination.]
+   1. An ass; or (less frequently) a mule.
+      [1913 Webster]
+
+   2. A stupid or obstinate fellow; an ass.
+      [1913 Webster]
+
+   {Donkey engine}, a small auxiliary engine not used for
+      propelling, but for pumping water into the boilers,
+      raising heavy weights, and like purposes.
+
+   {Donkey pump}, a steam pump for feeding boilers,
+      extinguishing fire, etc.; -- usually an auxiliary.
+
+   {Donkey's eye} (Bot.), the large round seed of the {Mucuna
+      pruriens}, a tropical leguminous plant.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>donkey</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>donkey
+     n 1: the symbol of the Democratic Party; introduced in cartoons
+          by Thomas Nast in 1874
+     2: domestic beast of burden descended from the African wild
+        ass; patient but stubborn [syn: {domestic ass}, {Equus
+        asinus}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

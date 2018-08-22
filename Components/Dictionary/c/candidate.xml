@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>candidate</Word>
+  <Definitions>
+    <Definition>
+      <Word>candidate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Candidate \Can"di*date\, n. [L. Candidatus, n. (because
+   candidates for office in Rome were clothed in a white toga.)
+   fr. candidatus clothed in white, fr. candiduslittering,
+   white: cf. F. candidat.]
+   One who offers himself, or is put forward by others, as a
+   suitable person or an aspirant or contestant for an office,
+   privilege, or honor; as, a candidate for the office of
+   governor; a candidate for holy orders; a candidate for
+   scholastic honors.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>candidate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>candidate
+     n 1: a politician who is running for public office [syn: {campaigner},
+           {nominee}]
+     2: someone who is considered for something (for an office or
+        prize or honor etc.) [syn: {prospect}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

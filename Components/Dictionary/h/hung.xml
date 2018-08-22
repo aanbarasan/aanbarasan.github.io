@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hung</Word>
+  <Definitions>
+    <Definition>
+      <Word>hung</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>hung
+     
+        ["hung up"] Equivalent to {wedged}, but more common at Unix/C
+        sites.  Not generally used of people.  Synonym with {locked
+        up}, {wedged}; compare {hosed}.  See also {hang}.  A hung
+        state is distinguished from {crash}ed or {down}, where the
+        program or system is also unusable but because it is not
+        running rather than because it is waiting for something.
+        However, the recovery from both situations is often the same.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hung</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hang \Hang\ (h[a^]ng), v. t. [imp. &amp; p. p. {Hanged} (h[a^]ngd)
+   or {Hung} (h[u^]ng); p. pr. &amp; vb. n. {Hanging}.
+
+   Usage: The use of hanged is preferable to that of hung, when
+          reference is had to death or execution by suspension,
+          and it is also more common.] [OE. hangen, hongien, v.
+          t. &amp; i., AS. hangian, v. i., fr. h[=o]n, v. t. (imp.
+          heng, p. p. hongen); akin to OS. hang[=o]n, v. i., D.
+          hangen, v. t. &amp; i., G. hangen, v. i, h["a]ngen, v. t.,
+          Icel. hanga, v. i., Goth. h[=a]han, v. t. (imp.
+          ha['i]hah), h[=a]han, v. i. (imp. hahaida), and perh.
+          to L. cunctari to delay. [root]37. ]
+   1. To suspend; to fasten to some elevated point without
+      support from below; -- often used with up or out; as, to
+      hang a coat on a hook; to hang up a sign; to hang out a
+      banner.
+      [1913 Webster]
+
+   2. To fasten in a manner which will allow of free motion upon
+      the point or points of suspension; -- said of a pendulum,
+      a swing, a door, gate, etc.
+      [1913 Webster]
+
+   3. To fit properly, as at a proper angle (a part of an
+      implement that is swung in using), as a scythe to its
+      snath, or an ax to its helve. [U. S.]
+      [1913 Webster]
+
+   4. To put to death by suspending by the neck; -- a form of
+      capital punishment; as, to hang a murderer.
+      [1913 Webster]
+
+   5. To cover, decorate, or furnish by hanging pictures,
+      trophies, drapery, and the like, or by covering with paper
+      hangings; -- said of a wall, a room, etc.
+      [1913 Webster]
+
+            Hung be the heavens with black.       --Shak.
+      [1913 Webster]
+
+            And hung thy holy roofs with savage spoils.
+                                                  --Dryden.
+      [1913 Webster]
+
+   6. To paste, as paper hangings, on the walls of a room.
+      [1913 Webster]
+
+   7. To hold or bear in a suspended or inclined manner or
+      position instead of erect; to droop; as, he hung his head
+      in shame.
+      [1913 Webster]
+
+            Cowslips wan that hang the pensive head. --Milton.
+      [1913 Webster]
+
+   8. To prevent from reaching a decision, esp. by refusing to
+      join in a verdict that must be unanimous; as, one
+      obstinate juror can hang a jury.
+      [Webster 1913 Suppl.]
+
+   {To hang down}, to let fall below the proper position; to
+      bend down; to decline; as, to hang down the head, or,
+      elliptically, to hang the head.
+
+   {To hang fire} (Mil.), to be slow in communicating fire
+      through the vent to the charge; as, the gun hangs fire;
+      hence, to hesitate, to hold back as if in suspense.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hung</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hung \Hung\,
+   imp. &amp; p. p. of {Hang}.
+   [1913 Webster]
+
+   {Hung beef}, the fleshy part of beef slightly salted and hung
+      up to dry; dried beef.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hung</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>hung adj. [from `hung up'; common] Equivalent to {wedged}, but more
+   common at Unix/C sites. Not generally used of people. Syn. with {locked
+   up}, {wedged}; compare {hosed}. See also {hang}. A hung state is
+   distinguished from {crash}ed or {down}, where the program or system is
+   also unusable but because it is not running rather than because it is
+   waiting for something. However, the recovery from both situations is
+   often the same. It is also distinguished from the similar but more
+   drastic state {wedged} - hung software can be woken up with easy things
+   like interrupt keys, but wedged will need a kill -9 or even reboot.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hung</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hung
+     See {hang}
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hung</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hang
+     n 1: a special way of doing something; "he had a bent for it";
+          "he had a special knack for getting into trouble"; "he
+          couldn't get the hang of it" [syn: {bent}, {knack}]
+     2: the way a garment hangs; "he adjusted the hang of his coat"
+     3: a gymnastic exercise performed on the rings or horizontal
+        bar or parallel bars when the gymnast's weight is
+        supported by the arms
+     v 1: be suspended or hanging; "The flag hung on the wall"
+     2: cause to be hanging or suspended; "Hang that picture on the
+        wall" [syn: {hang up}]
+     3: kill by hanging; "The murdered was hanged on Friday" [syn: {string
+        up}]
+     4: let drop or droop; "Hang one's head in shame"
+     5: fall or flow in a certain way; "This dress hangs well"; "Her
+        long black hair flowed down her back" [syn: {fall}, {flow}]
+     6: be menacing, burdensome, or oppressive; "This worry hangs on
+        my mind"; "The cloud of suspicion hangs over her"
+     7: give heed (to); "The children in the audience attended the
+        recital quietly"; "She hung on his every word"; "They
+        attended to everything he said" [syn: {attend}, {advert},
+        {pay heed}, {give ear}]
+     8: be suspended or poised; "Heavy fog hung over the valley"
+     9: hold on tightly or tenaciously; "hang on to your father's
+        hands"; "The child clung to his mother's apron" [syn: {cling}]
+     10: be exhibited; "Picasso hangs in this new wing of the museum"
+     11: prevent from reaching a verdict, of a jury
+     12: decorate or furnish with something suspended; "Hang
+         wallpaper"
+     13: be placed in position as by a hinge; "This cabinet door
+         doesn't hang right!"
+     14: place in position as by a hinge so as to allow free movement
+         in one direction; "hang a door"
+     15: of meat, in order to get a gamey taste; "hang the venison
+         for a few days"
+     [also: {hung}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hung</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hung
+     adj : (usually followed by `with' or used in a combining form)
+           having items suspended on or from a support; "walls
+           hung with valuable paintings"; "a vine-hung trellis"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

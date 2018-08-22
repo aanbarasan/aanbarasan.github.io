@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>express</Word>
+  <Definitions>
+    <Definition>
+      <Word>express</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Express
+     
+        1. A language supporting {concurrency} through {message
+        passing} to named message queues from {ParaSoft} Corporation
+     
+        {(ftp://ftp.parasoft.com/express/docs)}.
+     
+        2. Data definition language, meant to become an ISO standard
+        for product data representation and exchange.  TC 184/SC4 N83,
+        ISO, 1991-05-31.  E-mail: &lt;smith@cme.nist.gov&gt;.
+     
+        3. A data modelling language adopted by the {ISO} working
+        group on {STEP}.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>express</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Express \Ex*press"\, v. t. [imp. &amp; p. p. {Expressed}; p. pr. &amp;
+   vb. n. {Expressing}.] [Cf. OF. espresser, expresser, L.
+   exprimere, expressum. See {Express}, a.; cf. {Sprain}.]
+   1. To press or squeeze out; as, to express the juice of
+      grapes, or of apples; hence, to extort; to elicit.
+      [1913 Webster]
+
+            All the fruits out of which drink is expressed.
+                                                  --Bacon.
+      [1913 Webster]
+
+            And th'idle breath all utterly expressed. --Spenser.
+      [1913 Webster]
+
+            Halters and racks can not express from thee
+            More than by deeds.                   --B. Jonson.
+      [1913 Webster]
+
+   2. To make or offer a representation of; to show by a copy or
+      likeness; to represent; to resemble.
+      [1913 Webster]
+
+            Each skillful artist shall express thy form. --E.
+                                                  Smith.
+      [1913 Webster]
+
+            So kids and whelps their sires and dams express.
+                                                  --Dryden.
+      [1913 Webster]
+
+   3. To give a true impression of; to represent and make known;
+      to manifest plainly; to show in general; to exhibit, as an
+      opinion or feeling, by a look, gesture, and esp. by
+      language; to declare; to utter; to tell.
+      [1913 Webster]
+
+            My words express my purpose.          --Shak.
+      [1913 Webster]
+
+            They expressed in their lives those excellent
+            doctrines of morality.                --Addison.
+      [1913 Webster]
+
+   4. To make known the opinions or feelings of; to declare what
+      is in the mind of; to show (one's self); to cause to
+      appear; -- used reflexively.
+      [1913 Webster]
+
+            Mr. Phillips did express with much indignation
+            against me, one evening.              --Pope.
+      [1913 Webster]
+
+   5. To denote; to designate.
+      [1913 Webster]
+
+            Moses and Aaron took these men, which are expressed
+            by their names.                       --Num. i. 17.
+      [1913 Webster]
+
+   6. To send by express messenger; to forward by special
+      opportunity, or through the medium of an express; as, to
+      express a package.
+
+   7. (Genetics) to produce products that cause the appearance
+      of the corresponding phenotype; -- of a gene or of an
+      organism with a specific gene; as, to express the
+      beta-galactosidase gene,
+      [PJC]
+
+   Syn: To declare; utter; signify; testify; intimate.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>express</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Express \Ex*press"\, n. [Cf. F. expr[`e]s a messenger.]
+   1. A clear image or representation; an expression; a plain
+      declaration. [Obs.]
+      [1913 Webster]
+
+            The only remanent express of Christ's sacrifice on
+            earth.                                --Jer. Taylor.
+      [1913 Webster]
+
+   2. A messenger sent on a special errand; a courier; hence, a
+      regular and fast conveyance; commonly, a company or system
+      for the prompt and safe transportation of merchandise or
+      parcels.
+      [1913 Webster]
+
+   3. An express office.
+      [1913 Webster]
+
+            She charged him . . . to ask at the express if
+            anything came up from town.           --E. E. Hale.
+      [1913 Webster]
+
+   4. That which is sent by an express messenger or message.
+      [Obs.] --Eikon Basilike.
+      [1913 Webster]
+
+   5. a railway train or bus for transporting passengers or
+      goods with speed and punctuality; a train or bus that does
+      not stop at certain stations. Contrasted to {local}; as,
+      take the express to get there faster.
+
+   Syn: express train. [PJC]
+
+   {Express office}, an office where packages for an express are
+      received or delivered.
+
+   {Express train}, a railway train (such as a subway train)
+      that does not stop at certain stations, but only at
+      stations designated express stops.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>express</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Express \Ex*press"\ ([e^]ks*pr[e^]s"), a. [F. expr[`e]s, L.
+   expressus, p. p. of exprimere to express; ex. out + premere
+   To press. See {Press}.]
+   1. Exactly representing; exact.
+      [1913 Webster]
+
+            Their human countenance
+            The express resemblance of the gods.  --Milton.
+      [1913 Webster]
+
+   2. Directly and distinctly stated; declared in terms; not
+      implied or left to inference; made unambiguous by
+      intention and care; clear; not dubious; as, express
+      consent; an express statement.
+      [1913 Webster]
+
+            I have express commandment.           --Shak.
+      [1913 Webster]
+
+   3. Intended for a particular purpose; relating to an express;
+      sent on a particular errand; dispatched with special
+      speed; as, an express messenger or train. Also used
+      adverbially.
+      [1913 Webster]
+
+            A messenger sent express from the other world.
+                                                  --Atterbury.
+      [1913 Webster]
+
+   2. of or pertaining to an {express train} or other conveyance
+      designated an express[5]; makiung few or no intermediate
+      stops; as, an express stop; an express fare; an express
+      elevator.
+      [PJC]
+
+   {Express color}. (Law) See the Note under {Color}, n., 8.
+
+   Syn: Explicit; clear; unambiguous. See {Explicit}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>express</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>express
+     adj 1: not tacit or implied; "her express wish"
+     2: without unnecessary stops; "an express train"; "an express
+        shipment"
+     n 1: rapid transport of goods [syn: {expressage}]
+     2: mail that is distributed by a rapid and efficient system
+        [syn: {express mail}]
+     3: public transport consisting of a fast train or bus that
+        makes a limited number of scheduled stops; "he caught the
+        express to New York" [ant: {local}]
+     adv : by express; "please send the letter express"
+     v 1: give expression to; "She showed her disappointment" [syn: {show},
+           {evince}]
+     2: articulate; either verbally or with a cry, shout, or noise;
+        "She expressed her anger"; "He uttered a curse" [syn: {verbalize},
+         {verbalise}, {utter}, {give tongue to}]
+     3: indicate through a symbol, formula, etc.; "Can you express
+        this distance in kilometers?" [syn: {state}]
+     4: serve as a means for expressing something; "The painting of
+        Mary carries motherly love"; "His voice carried a lot af
+        anger" [syn: {carry}, {convey}]
+     5: manifest the effects of (a gene or genetic trait); "Many of
+        the laboratory animals express the trait"
+     6: obtain from a substance, as by mechanical action; "Italians
+        express coffee rather than filter it" [syn: {press out}, {extract}]
+     7: send my rapid transport or special messenger service; "She
+        expressed the letter to Florida"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

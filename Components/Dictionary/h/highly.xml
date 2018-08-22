@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>highly</Word>
+  <Definitions>
+    <Definition>
+      <Word>highly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Highly \High"ly\, adv.
+   In a high manner, or to a high degree; very much; as, highly
+   esteemed.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>highly</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>highly adv. [scientific computation] The preferred modifier for
+   overstating an understatement. As in: `highly nonoptimal', the worst
+   possible way to do something; `highly nontrivial', either impossible or
+   requiring a major research project; `highly nonlinear', completely
+   erratic and unpredictable; `highly nontechnical', drivel written for
+   {luser}s, oversimplified to the point of being misleading or incorrect
+   (compare {drool-proof paper}). In other computing cultures, postfixing
+   of {in the extreme} might be preferred.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>highly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>highly
+     adv 1: to a high degree or extent; favorably or with much respect;
+            "highly successful"; "He spoke highly of her"; "does
+            not think highly of his writing"; "extremely
+            interesting" [syn: {extremely}]
+     2: at a high rate or wage; "highly paid workers"
+     3: in a high position or level or rank; "details known by only
+        a few highly placed persons"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

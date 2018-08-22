@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bones</Word>
+  <Definitions>
+    <Definition>
+      <Word>bones</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bones
+     n : a percussion instrument consisting of a pair of hollow
+         pieces of wood or bone (usually held between the thumb
+         and fingers) that are made to click together (as by
+         Spanish dancers) in rhythm with the dance [syn: {castanets},
+          {clappers}, {finger cymbals}, {maraca}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

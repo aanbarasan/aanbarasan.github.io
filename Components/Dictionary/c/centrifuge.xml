@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>centrifuge</Word>
+  <Definitions>
+    <Definition>
+      <Word>centrifuge</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>centrifuge \centrifuge\ v. t. 1
+   to drive out; to subject to the action of a centrifuge.
+
+   Syn: centrifugate.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>centrifuge</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>centrifuge \centrifuge\ n.
+   an apparatus having containers for liquids arrayed around a
+   central pivot and rotated at a high speed, thus generating
+   {centrifugal force} on the liquid, and separating substances
+   (such as particles of solid or globules of an immiscible
+   liquid) mixed together in suspension within the liquid.
+   Suspensions which would settle only very slowly or not at all
+   under gravity can be made to separate quickly in such a
+   device.
+
+   Note: The containers for holding the liquid in a centrifuge
+         are held in a metal frame called the head or trunnion.
+         The solid material collected at teh bottom of the
+         liquid container is called the pellet. A centrifuge
+         designed to run at very high speeds and thus generate
+         very high centrifugal force is called an
+         {ultracentrifuge}.
+
+   Syn: extractor, separator.
+        [WordNet 1.5 +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>centrifuge</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>centrifuge
+     n : an apparatus that uses centrifugal force to separate
+         particles from a suspension [syn: {extractor}, {separator}]
+     v : rotate at very high speed in order to separate the liquids
+         from the solids [syn: {centrifugate}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

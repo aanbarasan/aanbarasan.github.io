@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sleep</Word>
+  <Definitions>
+    <Definition>
+      <Word>sleep</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>sleep
+     
+        1. &lt;operating system, multitasking&gt; (Or "{block}") When a
+        {process} on a {multitasking} system asks the {scheduler} to
+        deactivate it until some given external event (e.g. an
+        {interrupt} or a specified time delay) occurs.
+     
+        The alternative is to {poll} or "{busy wait}" for the event
+        but this uses processing power.
+     
+        Also used in the phrase "sleep on" (or "block on") some
+        external event, meaning to wait for it.
+     
+        E.g. the {Unix} command of the same name which pauses the
+        current process for a given number of seconds.
+     
+        2. &lt;hardware&gt; To go into partial deactivation to save power.
+     
+        [{Jargon File}]
+     
+        (2000-09-25)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sleep</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sleep \Sleep\, v. t.
+   1. To be slumbering in; -- followed by a cognate object; as,
+      to sleep a dreamless sleep. --Tennyson.
+      [1913 Webster]
+
+   2. To give sleep to; to furnish with accomodations for
+      sleeping; to lodge. [R.] --Blackw. Mag.
+      [1913 Webster]
+
+   {To sleep away}, to spend in sleep; as, to sleep away
+      precious time.
+
+   {To sleep off}, to become free from by sleep; as, to sleep
+      off drunkeness or fatigue.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sleep</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sleep \Sleep\, obs.
+   imp. of Sleep. Slept. --Chaucer.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sleep</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sleep \Sleep\, v. i. [imp. &amp; p. p. {Slept}; p. pr. &amp; vb. n.
+   {Sleeping}.] [OE. slepen, AS. sl?pan; akin to OFries. sl?pa,
+   OS. sl[=a]pan, D. slapen, OHG. sl[=a]fan, G. schlafen, Goth.
+   sl?pan, and G. schlaff slack, loose, and L. labi to glide,
+   slide, labare to totter. Cf. {Lapse}.]
+   1. To take rest by a suspension of the voluntary exercise of
+      the powers of the body and mind, and an apathy of the
+      organs of sense; to slumber. --Chaucer.
+      [1913 Webster]
+
+            Watching at the head of these that sleep. --Milton.
+      [1913 Webster]
+
+   2. Figuratively:
+      (a) To be careless, inattentive, or uncouncerned; not to
+          be vigilant; to live thoughtlessly.
+          [1913 Webster]
+
+                We sleep over our happiness.      --Atterbury.
+          [1913 Webster]
+      (b) To be dead; to lie in the grave.
+          [1913 Webster]
+
+                Them also which sleep in Jesus will God bring
+                with him.                         --1 Thess. iv.
+                                                  14.
+          [1913 Webster]
+      (c) To be, or appear to be, in repose; to be quiet; to be
+          unemployed, unused, or unagitated; to rest; to lie
+          dormant; as, a question sleeps for the present; the
+          law sleeps.
+          [1913 Webster]
+
+                How sweet the moonlight sleep upon this bank!
+                                                  --Shak.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sleep</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sleep \Sleep\, n. [AS. sl[=ae]p; akin to OFries. sl[=e]p, OS.
+   sl[=a]p, D. slaap, OHG. sl[=a]f, G. schlaf, Goth. sl[=e]ps.
+   See {Sleep}, v. i.]
+   A natural and healthy, but temporary and periodical,
+   suspension of the functions of the organs of sense, as well
+   as of those of the voluntary and rational soul; that state of
+   the animal in which there is a lessened acuteness of sensory
+   perception, a confusion of ideas, and a loss of mental
+   control, followed by a more or less unconscious state. ``A
+   man that waketh of his sleep.'' --Chaucer.
+   [1913 Webster]
+
+         O sleep, thou ape of death.              --Shak.
+   [1913 Webster]
+
+   Note: Sleep is attended by a relaxation of the muscles, and
+         the absence of voluntary activity for any rational
+         objects or purpose. The pulse is slower, the
+         respiratory movements fewer in number but more
+         profound, and there is less blood in the cerebral
+         vessels. It is susceptible of greater or less intensity
+         or completeness in its control of the powers.
+         [1913 Webster]
+
+   {Sleep of plants} (Bot.), a state of plants, usually at
+      night, when their leaflets approach each other, and the
+      flowers close and droop, or are covered by the folded
+      leaves.
+      [1913 Webster]
+
+   Syn: Slumber; repose; rest; nap; doze; drowse.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sleep</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>sleep vi. 1. [techspeak] To relinquish a claim (of a process on a
+   multitasking system) for service; to indicate to the scheduler that a
+   process may be deactivated until some given event occurs or a specified
+   time delay elapses. 2. In jargon, used very similarly to v. {block};
+   also in `sleep on', syn. with `block on'. Often used to indicate that
+   the speaker has relinquished a demand for resources until some (possibly
+   unspecified) external event: "They can't get the fix I've been asking
+   for into the next release, so I'm going to sleep on it until the
+   release, then start hassling them again."
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sleep</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sleep
+     n 1: a natural and periodic state of rest during which
+          consciousness of the world is suspended; "he didn't get
+          enough sleep last night"; "calm as a child in dreamless
+          slumber" [syn: {slumber}]
+     2: a torpid state resembling sleep
+     3: a period of time spent sleeping; "he felt better after a
+        little sleep"; "there wasn't time for a nap" [syn: {nap}]
+     4: euphemisms for death (based on an analogy between lying in a
+        bed and in a tomb); "she was laid to rest beside her
+        husband"; "they had to put their family pet to sleep"
+        [syn: {rest}, {eternal rest}, {eternal sleep}, {quietus}]
+     v 1: be asleep [syn: {kip}, {slumber}, {log Z's}, {catch some Z's}]
+          [ant: {wake}]
+     2: be able to accommodate for sleeping; "This tent sleeps six
+        people"
+     [also: {slept}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

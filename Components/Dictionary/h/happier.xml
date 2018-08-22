@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>happier</Word>
+  <Definitions>
+    <Definition>
+      <Word>happier</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Happy \Hap"py\ (h[a^]p"p[y^]), a. [Compar. {Happier}
+   (-p[i^]*[~e]r); superl. {Happiest}.] [From {Hap} chance.]
+   1. Favored by hap, luck, or fortune; lucky; fortunate;
+      successful; prosperous; satisfying desire; as, a happy
+      expedient; a happy effort; a happy venture; a happy omen.
+      [1913 Webster]
+
+            Chymists have been more happy in finding experiments
+            than the causes of them.              --Boyle.
+      [1913 Webster]
+
+   2. Experiencing the effect of favorable fortune; having the
+      feeling arising from the consciousness of well-being or of
+      enjoyment; enjoying good of any kind, as peace,
+      tranquillity, comfort; contented; joyous; as, happy hours,
+      happy thoughts.
+      [1913 Webster]
+
+            Happy is that people, whose God is the Lord. --Ps.
+                                                  cxliv. 15.
+      [1913 Webster]
+
+            The learned is happy Nature to explore,
+            The fool is happy that he knows no more. --Pope.
+      [1913 Webster]
+
+   3. Dexterous; ready; apt; felicitous.
+      [1913 Webster]
+
+            One gentleman is happy at a reply, another excels in
+            a in a rejoinder.                     --Swift.
+      [1913 Webster]
+
+   {Happy family}, a collection of animals of different and
+      hostile propensities living peaceably together in one
+      cage. Used ironically of conventional alliances of persons
+      who are in fact mutually repugnant.
+
+   {Happy-go-lucky}, trusting to hap or luck; improvident;
+      easy-going. ``Happy-go-lucky carelessness.'' --W. Black.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>happier</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>happier
+     See {happy}
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>happier</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>happy
+     adj 1: enjoying or showing or marked by joy or pleasure or good
+            fortune; "a happy smile"; "spent many happy days on
+            the beach"; "a happy marriage" [ant: {unhappy}]
+     2: experiencing pleasure or joy; "happy you are here"; "pleased
+        with the good news" [syn: {pleased}]
+     3: marked by good fortune; "a felicitous life"; "a happy
+        outcome" [syn: {felicitous}]
+     4: satisfied; enjoying well-being and contentment; "felt
+        content with her lot"; "quite happy to let things go on as
+        they are"
+     5: exaggerated feeling of well-being or elation [syn: {euphoric}]
+        [ant: {dysphoric}]
+     6: well expressed and to the point; "a happy turn of phrase";
+        "a few well-chosen words"; "a felicitous comment" [syn: {well-chosen}]
+     [also: {happiest}, {happier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

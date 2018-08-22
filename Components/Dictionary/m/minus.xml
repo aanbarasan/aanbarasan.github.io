@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>minus</Word>
+  <Definitions>
+    <Definition>
+      <Word>minus</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>minus
+     
+        -
+     
+        Common: dash; {ITU-T}: hyphen; {ITU-T}: minus.  Rare:
+        {INTERCAL}: worm; option; dak; bithorpe.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>minus</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Minus \Mi"nus\ (m[imac]"n[u^]s), a. [L. See {Minor}, and cf.
+   {Mis-} pref. from the French.] (Math.)
+   Less; requiring to be subtracted; negative; as, a minus
+   quantity.
+   [1913 Webster]
+
+   {Minus sign} (Math.), the sign [-] denoting minus, or less,
+      prefixed to negative quantities, or quantities to be
+      subtracted. See {Negative sign}, under {Negative}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>minus</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>minus \mi"nus\ (m[imac]"n[u^]s), n.; pl. {minuses}
+   (m[imac]"n[u^]s*[-e]z).
+   A factor counted as a disadvantage; a loss or potential loss
+   in a situation or plan; as, he added up all the pluses and
+   minuses and decided not to do it; as, the lack of money is a
+   big minus in an election campaign.
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>minus</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Negative \Neg"a*tive\ (n[e^]g"[.a]*t[i^]v), a. [F. n['e]gatif,
+   L. negativus, fr. negare to deny. See {Negation}.]
+   1. Denying; implying, containing, or asserting denial,
+      negation or refusal; returning the answer no to an inquiry
+      or request; refusing assent; as, a negative answer; a
+      negative opinion; -- opposed to {affirmative}.
+      [1913 Webster]
+
+            If thou wilt confess,
+            Or else be impudently negative.       --Shak.
+      [1913 Webster]
+
+            Denying me any power of a negative voice. --Eikon
+                                                  Basilike.
+      [1913 Webster]
+
+            Something between an affirmative bow and a negative
+            shake.                                --Dickens.
+      [1913 Webster]
+
+   2. Not positive; without affirmative statement or
+      demonstration; indirect; consisting in the absence of
+      something; privative; as, a negative argument; negative
+      evidence; a negative morality; negative criticism.
+      [1913 Webster]
+
+            There in another way of denying Christ, . . . which
+            is negative, when we do not acknowledge and confess
+            him.                                  --South.
+      [1913 Webster]
+
+   3. (Logic) Asserting absence of connection between a subject
+      and a predicate; as, a negative proposition.
+      [1913 Webster]
+
+   4. (Photog.) Of or pertaining to a picture upon glass or
+      other material, in which the lights and shades of the
+      original, and the relations of right and left, are
+      reversed.
+      [1913 Webster]
+
+   5. (Chem.) Metalloidal; nonmetallic; -- contrasted with
+      {positive} or {basic}; as, the nitro group is negative.
+      [1913 Webster]
+
+   Note: This word, derived from electro-negative, is now
+         commonly used in a more general sense, when acidiferous
+         is the intended signification.
+         [1913 Webster]
+
+   {Negative crystal}.
+      (a) A cavity in a mineral mass, having the form of a
+          crystal.
+      (b) A crystal which has the power of negative double
+          refraction. See {refraction}.
+
+   {negative electricity} (Elec.), the kind of electricity which
+      is developed upon resin or ebonite when rubbed, or which
+      appears at that pole of a voltaic battery which is
+      connected with the plate most attacked by the exciting
+      liquid; -- formerly called {resinous electricity}. Opposed
+      to {positive electricity}. Formerly, according to
+      Franklin's theory of a single electric fluid, negative
+      electricity was supposed to be electricity in a degree
+      below saturation, or the natural amount for a given body.
+      See {Electricity}.
+
+   {Negative eyepiece}. (Opt.) see under {Eyepiece}.
+
+   {Negative quantity} (Alg.), a quantity preceded by the
+      negative sign, or which stands in the relation indicated
+      by this sign to some other quantity. See {Negative sign}
+      (below).
+
+   {Negative rotation}, right-handed rotation. See
+      {Right-handed}, 3.
+
+   {Negative sign}, the sign -, or {minus} (opposed in
+      signification to +, or {plus}), indicating that the
+      quantity to which it is prefixed is to be subtracted from
+      the preceding quantity, or is to be reckoned from zero or
+      cipher in the opposite direction to that of quanties
+      having the sign plus either expressed or understood; thus,
+      in a - b, b is to be substracted from a, or regarded as
+      opposite to it in value; and -10[deg] on a thermometer
+      means 10[deg] below the zero of the scale.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>minus</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>minus
+     adj 1: on the negative side or lower end of a scale; "minus 5
+            degrees"; "a grade of B minus" [ant: {plus}]
+     2: involving disadvantage or harm; "minus (or negative)
+        factors" [syn: {negative}]
+     n : an arithmetic operation in which the difference between two
+         numbers is calculated; "the subtraction of three from
+         four leaves one"; "four minus three equals one" [syn: {subtraction}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>beverly</Word>
+  <Definitions>
+    <Definition>
+      <Word>beverly</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Beverly, KS (city, FIPS 6500)
+  Location: 39.01377 N, 97.97569 W
+  Population (1990): 131 (75 housing units)
+  Area: 0.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 67423
+Beverly, KY
+  Zip code(s): 40913
+Beverly, MA (city, FIPS 5595)
+  Location: 42.55775 N, 70.84046 W
+  Population (1990): 38195 (15652 housing units)
+  Area: 40.0 sq km (land), 18.9 sq km (water)
+  Zip code(s): 01915
+Beverly, NJ (city, FIPS 5740)
+  Location: 40.06465 N, 74.92182 W
+  Population (1990): 2973 (1062 housing units)
+  Area: 1.5 sq km (land), 0.5 sq km (water)
+  Zip code(s): 08010
+Beverly, OH (village, FIPS 6222)
+  Location: 39.54967 N, 81.63629 W
+  Population (1990): 1444 (596 housing units)
+  Area: 1.8 sq km (land), 0.2 sq km (water)
+  Zip code(s): 45715
+Beverly, WA
+  Zip code(s): 99321
+Beverly, WV (town, FIPS 6988)
+  Location: 38.84242 N, 79.87480 W
+  Population (1990): 696 (301 housing units)
+  Area: 1.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 26253
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

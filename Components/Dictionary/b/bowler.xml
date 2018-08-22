@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bowler</Word>
+  <Definitions>
+    <Definition>
+      <Word>bowler</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Bowler, WI (village, FIPS 9025)
+  Location: 44.86349 N, 88.98200 W
+  Population (1990): 279 (114 housing units)
+  Area: 2.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 54416
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bowler</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bowler \Bowl"er\, n.
+   One who plays at bowls, or who rolls the ball in cricket or
+   any other game.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bowler</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bowler \Bowl"er\, n. [From 2d {Bowl}.]
+   A derby hat. [Eng.]
+   [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bowler</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bowler
+     n 1: delivers the ball to the batsman in cricket
+     2: rolls balls down an alley at pins
+     3: a hat that is round and black and hard with a narrow brim;
+        worn by some British businessmen [syn: {bowler hat}, {derby},
+         {plug hat}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

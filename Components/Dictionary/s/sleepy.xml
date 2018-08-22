@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sleepy</Word>
+  <Definitions>
+    <Definition>
+      <Word>sleepy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sleepy \Sleep"y\, a. [Compar. {Sleepier}; superl. {Sleepiest}.]
+   [AS. sl?pig. See {Sleep}, n.]
+   1. Drowsy; inclined to, or overcome by, sleep. --Shak.
+      [1913 Webster]
+
+            She waked her sleepy crew.            --Dryden.
+      [1913 Webster]
+
+   2. Tending to induce sleep; soporiferous; somniferous; as, a
+      sleepy drink or potion. --Chaucer.
+      [1913 Webster]
+
+   3. Dull; lazy; heavy; sluggish. --Shak.
+      [1913 Webster]
+
+            'Tis not sleepy business;
+            But must be looked to speedily and strongly. --Shak.
+      [1913 Webster]
+
+   4. Characterized by an absence of watchfulness; as, sleepy
+      security.
+      [1913 Webster]
+
+   {Sleepy duck} (Zo["o]l.), the ruddy duck.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sleepy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sleepy
+     adj : ready to fall asleep; "beginning to feel sleepy"; "a
+           sleepy-eyed child with drooping eyelids"; "sleepyheaded
+           students" [syn: {sleepy-eyed}, {sleepyheaded}]
+     [also: {sleepiest}, {sleepier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

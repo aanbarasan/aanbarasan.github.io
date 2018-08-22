@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>guest</Word>
+  <Definitions>
+    <Definition>
+      <Word>guest</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Guest \Guest\ (g[e^]st), n. [OE. gest, AS. g[ae]st, gest; akin
+   to OS., D., &amp; G. gast, Icel. gestr, Sw. g["a]st, Dan.
+   Gj["a]st, Goth. gasts, Russ. goste, and to L. hostis enemy,
+   stranger; the meaning stranger is the older one, but the root
+   is unknown. Cf. {Host} an army, {Hostile}.]
+   1. A visitor; a person received and entertained in one's
+      house or at one's table; a visitor entertained without
+      pay.
+      [1913 Webster]
+
+            To cheer his guests, whom he had stayed that night.
+                                                  --Spenser.
+      [1913 Webster]
+
+            True friendship's laws are by this rule exprest.
+            Welcome the coming, speed the parting guest. --Pope.
+      [1913 Webster]
+
+   2. A lodger or a boarder at a hotel, lodging house, or
+      boarding house.
+      [1913 Webster]
+
+   3. (Zo["o]l.)
+      (a) Any insect that lives in the nest of another without
+          compulsion and usually not as a parasite.
+      (b) An inquiline.
+          [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>guest</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Guest \Guest\, v. t.
+   To receive or entertain hospitably. [Obs.] --Sylvester.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>guest</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Guest \Guest\, v. i.
+   To be, or act the part of, a guest. [Obs.]
+   [1913 Webster]
+
+         And tell me, best of princes, who he was
+         That guested here so late.               --Chapman.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>guest</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>guest
+     adj : staying temporarily; "a visiting foreigner"; "guest
+           conductor" [syn: {visiting}, {guest(a)}]
+     n 1: a visitor to whom hospitality is extended [syn: {invitee}]
+     2: United States journalist (born in England) noted for his
+        syndicated homey verse (1881-1959) [syn: {Edgar Guest}, {Edgar
+        Albert Guest}]
+     3: a customer of a hotel or restaurant etc.
+     4: (computer science) any computer that is hooked up to a
+        computer network [syn: {node}, {client}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

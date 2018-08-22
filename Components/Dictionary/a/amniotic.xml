@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>amniotic</Word>
+  <Definitions>
+    <Definition>
+      <Word>amniotic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Amniotic \Am`ni*ot"ic\, a. [Cf. F. amniotique.] (Anat.)
+   Of or pertaining to the amnion; characterized by an amnion;
+   as, the amniotic fluid; the amniotic sac.
+   [1913 Webster]
+
+   {Amniotic acid}. (Chem.) [R.] See {Allantoin}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>amniotic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>amniotic
+     adj : of or related to the amnion or characterized by developing
+           an amnion; "amniotic membrane" [syn: {amnionic}, {amnic}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

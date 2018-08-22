@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>chintzy</Word>
+  <Definitions>
+    <Definition>
+      <Word>chintzy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>chintzy \chintzy\ adj.
+   1. resembling chintz or decorated with chintz.
+      [PJC]
+
+   2. of very poor quality. [informal]
+
+   Syn: bum, cheap, cheesy, crummy, punk, sleazy, tatty, tinny,
+        chinchy.
+        [WordNet 1.5]
+
+   3. stingy; miserly.
+
+   Syn: cheap.
+        [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chintzy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>chintzy
+     adj 1: of very poor quality [syn: {bum}, {cheap}, {cheesy}, {crummy},
+             {punk}, {sleazy}, {tinny}]
+     2: embarrassingly stingy [syn: {cheap}, {chinchy}]
+     [also: {chintziest}, {chintzier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

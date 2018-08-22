@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>protocol</Word>
+  <Definitions>
+    <Definition>
+      <Word>protocol</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>protocol
+     
+        A set of formal rules describing how to transmit data,
+        especially across a {network}.  Low level protocols define the
+        electrical and physical standards to be observed, bit- and
+        byte-ordering and the transmission and {error detection and
+        correction} of the bit stream.  High level protocols deal with
+        the data formatting, including the {syntax} of messages, the
+        terminal to computer dialogue, {character set}s, sequencing of
+        messages etc.
+     
+        Many protocols are defined by {RFC}s or by {OSI}.
+     
+        See also {handshaking}.
+     
+        [{Jargon File}]
+     
+        (1995-01-12)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>protocol</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Protocol \Pro"to*col\, n. [F. protocole, LL. protocollum, fr.
+   Gr. ? the first leaf glued to the rolls of papyrus and the
+   notarial documents, on which the date was written; prw^tos
+   the first (see {Proto-}) + ? glue.]
+   1. The original copy of any writing, as of a deed, treaty,
+      dispatch, or other instrument. --Burrill.
+      [1913 Webster]
+
+   2. The minutes, or rough draught, of an instrument or
+      transaction.
+      [1913 Webster]
+
+   3. (Diplomacy)
+      (a) A preliminary document upon the basis of which
+          negotiations are carried on.
+      (b) A convention not formally ratified.
+      (c) An agreement of diplomatists indicating the results
+          reached by them at a particular stage of a
+          negotiation.
+          [1913 Webster]
+
+   4. A strict code of etiquette for conduct of behavior among
+      diplomatic or military personnel.
+
+   5. A detailed plan for conduct of a scientific or medical
+      experiment or procedure. A term used especially in conduct
+      of medical research requiring approval of a regulatory
+      agency.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>protocol</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Protocol \Pro"to*col\, v. t.
+   To make a protocol of.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>protocol</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Protocol \Pro"to*col\, v. i.
+   To make or write protocols, or first draughts; to issue
+   protocols. --Carlyle.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>protocol</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>protocol n. As used by hackers, this never refers to niceties about the
+   proper form for addressing letters to the Papal Nuncio or the order in
+   which one should use the forks in a Russian-style place setting; hackers
+   don't care about such things. It is used instead to describe any set of
+   rules that allow different machines or pieces of software to coordinate
+   with each other without ambiguity. So, for example, it does include
+   niceties about the proper form for addressing packets on a network or
+   the order in which one should use the forks in the Dining Philosophers
+   Problem. It implies that there is some common message format and an
+   accepted set of primitives or commands that all parties involved
+   understand, and that transactions among them follow predictable logical
+   sequences. See also {handshaking}, {do protocol}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>protocol</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>protocol
+     n 1: (computer science) rules determining the format and
+          transmission of data [syn: {communications protocol}]
+     2: forms of ceremony and etiquette observed by diplomats and
+        heads of state
+     3: code of correct conduct; "safety protocols"; "academic
+        protocol"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

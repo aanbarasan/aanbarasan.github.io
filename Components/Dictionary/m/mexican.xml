@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mexican</Word>
+  <Definitions>
+    <Definition>
+      <Word>mexican</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mexican \Mex"i*can\, prop. a.
+   Of or pertaining to Mexico or its people. -- n. A native or
+   inhabitant of Mexico.
+   [1913 Webster]
+
+   {Mexican poppy} prop. n. (Bot.), a tropical American herb of
+      the Poppy family ({Argemone Mexicana}) with much the look
+      of a thistle, but having large yellow or white blossoms.
+      
+
+   {Mexican tea} prop. n. (Bot.), an aromatic kind of pigweed
+      from tropical America ({Chenopodium ambrosioides}).
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mexican</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Mexican
+     adj : of or relating to Mexico or its inhabitants; "Mexican food
+           is hot"
+     n : a native of inhabitant of Mexico
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

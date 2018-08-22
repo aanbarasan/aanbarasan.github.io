@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tag</Word>
+  <Definitions>
+    <Definition>
+      <Word>tag</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>tag
+     
+        &lt;language, text&gt; An {SGML}, {HTML}, or {XML} {token}
+        representing the beginning (start tag: "&lt;p ...&gt;") or end (end
+        tag: "&lt;/p&gt;") of an {element}.  In normal SGML {syntax} (and
+        always in {XML}), a tag starts with a "&lt;" and ends with an
+        "&gt;".
+     
+        In {HTML} jargon, the term "tag" is often used for an
+        "{element}".
+     
+        (2001-01-31)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tag</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tag \Tag\, v. i.
+   To follow closely, as it were an appendage; -- often with
+   after; as, to tag after a person.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tag</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tag \Tag\, n. [From {Tag}, v.; cf. {Tag}, an end.]
+   A child's play in which one runs after and touches another,
+   and then runs away to avoid being touched.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tag</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tag \Tag\, n. [Probably akin to tack a small nail; cf. Sw. tagg
+   a prickle, point, tooth.]
+   1. Any slight appendage, as to an article of dress; something
+      slight hanging loosely; specifically, a direction card, or
+      label.
+      [1913 Webster]
+
+   2. A metallic binding, tube, or point, at the end of a
+      string, or lace, to stiffen it.
+      [1913 Webster]
+
+   3. The end, or catchword, of an actor's speech; cue.
+      [1913 Webster]
+
+   4. Something mean and paltry; the rabble. [Obs.]
+      [1913 Webster]
+
+   {Tag and rag}, the lowest sort; the rabble. --Holinshed.
+      [1913 Webster]
+
+   5. A sheep of the first year. [Prov. Eng.] --Halliwell.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tag</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tag \Tag\, v. t. [imp. &amp; p. p. {Tagged}; p. pr. &amp; vb. n.
+   {Tagging}.]
+   1. To fit with, or as with, a tag or tags.
+      [1913 Webster]
+
+            He learned to make long-tagged thread laces.
+                                                  --Macaulay.
+      [1913 Webster]
+
+            His courteous host . . .
+            Tags every sentence with some fawning word.
+                                                  --Dryden.
+      [1913 Webster]
+
+   2. To join; to fasten; to attach. --Bolingbroke.
+      [1913 Webster]
+
+   3. To follow closely after; esp., to follow and touch in the
+      game of tag. See {Tag}, a play.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tag</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>TAG
+     Technical Advisory Group (PIMA, I3C)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tag</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tag
+     n 1: a label made of cardboard or plastic or metal
+     2: a small piece of cloth or paper [syn: {rag}, {shred}, {tag
+        end}, {tatter}]
+     3: a game in which one child chases the others; the one who is
+        caught becomes the next chaser
+     4: (sports) the act of touching a player in a game (which
+        changes their status in the game)
+     v 1: attach a tag or label to; "label these bottles" [syn: {label},
+           {mark}]
+     2: touch a player while he is holding the ball
+     3: provide with a name or nickname
+     4: go after with the intent to catch; "The policeman chased the
+        mugger down the alley"; "the dog chased the rabbit" [syn:
+        {chase}, {chase after}, {trail}, {tail}, {give chase}, {dog},
+         {go after}, {track}]
+     5: supply (blank verse or prose) with rhymes
+     [also: {tagging}, {tagged}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

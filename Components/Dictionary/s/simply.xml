@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>simply</Word>
+  <Definitions>
+    <Definition>
+      <Word>simply</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Simply \Sim"ply\, adv.
+   1. In a simple manner or state; considered in or by itself;
+      without addition; along; merely; solely; barely.
+      [1913 Webster]
+
+            [They] make that now good or evil, . . . which
+            otherwise of itself were not simply the one or the
+            other.                                --Hooker.
+      [1913 Webster]
+
+            Simply the thing I am
+            Shall make me live.                   --Shak.
+      [1913 Webster]
+
+   2. Plainly; without art or subtlety.
+      [1913 Webster]
+
+            Subverting worldly strong and worldly wise
+            By simply meek.                       --Milton.
+      [1913 Webster]
+
+   3. Weakly; foolishly. --Johnson.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>simply</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>simply
+     adv 1: and nothing more; "I was merely asking"; "it is simply a
+            matter of time"; "just a scratch"; "he was only a
+            child"; "hopes that last but a moment" [syn: {merely},
+             {just}, {only}, {but}]
+     2: absolutely; altogether; really; "we are simply broke"
+     3: in a simple manner; without extravagance or embellishment;
+        "she was dressed plainly"; "they lived very simply" [syn:
+        {plainly}]
+     4: absolutely; "I just can't take it anymore"; "he was just
+        grand as Romeo"; "it's simply beautiful!" [syn: {just}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

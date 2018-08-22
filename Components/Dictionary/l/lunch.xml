@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lunch</Word>
+  <Definitions>
+    <Definition>
+      <Word>lunch</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lunch \Lunch\ (l[u^]nch), n. [Of uncertain etymol. Cf. Prov.
+   Eng. nunc a lump.]
+   A luncheon; specifically, a light repast between breakfast
+   and dinner, most commonly about noontime.
+   [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lunch</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lunch \Lunch\, v. i. [imp. &amp; p. p. {Lunched}; p. pr. &amp; vb. n.
+   {Lunching}.]
+   To take luncheon. --Smart.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lunch</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>lunch
+     n : a midday meal [syn: {luncheon}, {tiffin}, {dejeuner}]
+     v 1: take the midday meal; "At what time are you lunching?"
+     2: provide a midday meal for; "She lunched us well"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

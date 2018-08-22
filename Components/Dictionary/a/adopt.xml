@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>adopt</Word>
+  <Definitions>
+    <Definition>
+      <Word>adopt</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Adopt \A*dopt"\, v. t. [imp. &amp; p. p. {Adopted}; p. pr. &amp; vb. n.
+   {Adopting}.] [L. adoptare; ad + optare to choose, desire: cf.
+   F. adopter. See {Option}.]
+   1. To take by choice into relationship, as, child, heir,
+      friend, citizen, etc.; esp. to take voluntarily (a child
+      of other parents) to be in the place of, or as, one's own
+      child.
+      [1913 Webster]
+
+   2. To take or receive as one's own what is not so naturally;
+      to select and take or approve; as, to adopt the view or
+      policy of another; these resolutions were adopted.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>adopt</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>adopt
+     v 1: choose and follow; as of theories, ideas, policies,
+          strategies or plans; "She followed the feminist
+          movement"; "The candidate espouses Republican ideals"
+          [syn: {follow}, {espouse}]
+     2: take up and practice as one's own [syn: {borrow}, {take over},
+         {take up}]
+     3: take on titles, offices, duties, responsibilities; "When
+        will the new President assume office?" [syn: {assume}, {take
+        on}, {take over}]
+     4: take on a certain form, attribute, or aspect; "His voice
+        took on a sad tone"; "The story took a new turn"; "he
+        adopted an air of superiority"; "She assumed strange
+        manners"; "The gods assume human or animal form in these
+        fables" [syn: {assume}, {acquire}, {take on}, {take}]
+     5: take into one's family; "They adopted two children from
+        Nicaragua" [syn: {take in}]
+     6: put into dramatic form; "adopt a book for a screenplay"
+        [syn: {dramatize}, {dramatise}]
+     7: take up the cause, ideology, practice, method, of someone
+        and use it as one's own; "She embraced Catholocism"; "They
+        adopted the Jewish faith" [syn: {espouse}, {embrace}, {sweep
+        up}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

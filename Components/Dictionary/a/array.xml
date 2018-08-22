@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>array</Word>
+  <Definitions>
+    <Definition>
+      <Word>array</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>array
+     
+        1. &lt;programming&gt; A collection of identically typed data items
+        distinguished by their indices (or "subscripts").  The number
+        of dimensions an array can have depends on the language but is
+        usually unlimited.
+     
+        An array is a kind of {aggregate} data type.  A single
+        ordinary variable (a "{scalar}") could be considered as a
+        zero-dimensional array.  A one-dimensional array is also known
+        as a "{vector}".
+     
+        A reference to an array element is written something like
+        A[i,j,k] where A is the array name and i, j and k are the
+        indices.  The {C} language is peculiar in that each index is
+        written in separate brackets, e.g. A[i][j][k].  This expresses
+        the fact that, in C, an N-dimensional array is actually a
+        vector, each of whose elements is an N-1 dimensional array.
+     
+        Elements of an array are usually stored contiguously.
+        Languages differ as to whether the leftmost or rightmost index
+        varies most rapidly, i.e. whether each row is stored
+        contiguously or each column (for a 2D array).
+     
+        Arrays are appropriate for storing data which must be accessed
+        in an unpredictable order, in contrast to {lists} which are
+        best when accessed sequentially.
+     
+        See also {associative array}.
+     
+        2. &lt;architecture&gt; A {processor array}, not to be confused with
+        an {array processor}.
+     
+        (1995-01-25)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>array</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Array \Ar*ray"\, n. [OE. arai, arrai, OF. arrai, arrei, arroi,
+   order, arrangement, dress, F. arroi; a (L. ad) + OF. rai,
+   rei, roi, order, arrangement, fr. G. or Scand.; cf. Goth.
+   raidjan, garaidjan, to arrange, MHG. gereiten, Icel.
+   rei[eth]i rigging, harness; akin to E. ready. Cf. {Ready},
+   {Greith}, {Curry}.]
+   1. Order; a regular and imposing arrangement; disposition in
+      regular lines; hence, order of battle; as, drawn up in
+      battle array.
+      [1913 Webster]
+
+            Wedged together in the closest array. --Gibbon.
+      [1913 Webster]
+
+   2. The whole body of persons thus placed in order; an orderly
+      collection; hence, a body of soldiers.
+      [1913 Webster]
+
+            A gallant array of nobles and cavaliers. --Prescott.
+      [1913 Webster]
+
+   3. An imposing series of things.
+      [1913 Webster]
+
+            Their long array of sapphire and of gold. --Byron.
+      [1913 Webster]
+
+   4. Dress; garments disposed in order upon the person; rich or
+      beautiful apparel. --Dryden.
+      [1913 Webster]
+
+   5. (Law)
+      (a) A ranking or setting forth in order, by the proper
+          officer, of a jury as impaneled in a cause.
+      (b) The panel itself.
+      (c) The whole body of jurors summoned to attend the court.
+          [1913 Webster]
+
+   {To challenge the array} (Law), to except to the whole panel.
+      --Cowell. --Tomlins. --Blount.
+
+   {Commission of array} (Eng. Hist.), a commission given by the
+      prince to officers in every county, to muster and array
+      the inhabitants, or see them in a condition for war.
+      --Blackstone.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>array</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Array \Ar*ray"\, v. t. [imp. &amp; p. p. {Arrayed}; p. pr. &amp; vb. n.
+   {Arraying}.] [OE. araien, arraien, fr. OE. arraier, arreier,
+   arreer, arroier, fr. arrai. See {Array}, n.]
+   1. To place or dispose in order, as troops for battle; to
+      marshal.
+      [1913 Webster]
+
+            By torch and trumpet fast arrayed,
+            Each horseman drew his battle blade.  --Campbell.
+      [1913 Webster]
+
+            These doubts will be arrayed before their minds.
+                                                  --Farrar.
+      [1913 Webster]
+
+   2. To deck or dress; to adorn with dress; to cloth to
+      envelop; -- applied esp. to dress of a splendid kind.
+      [1913 Webster]
+
+            Pharaoh . . . arrayed him in vestures of fine linen.
+                                                  --Gen. xli.?.
+      [1913 Webster]
+
+            In gelid caves with horrid gloom arrayed.
+                                                  --Trumbull.
+      [1913 Webster]
+
+   3. (Law) To set in order, as a jury, for the trial of a
+      cause; that is, to call them man by man. --Blackstone.
+      [1913 Webster]
+
+   {To array a panel}, to set forth in order the men that are
+      impaneled. --Cowell. --Tomlins.
+      [1913 Webster]
+
+   Syn: To draw up; arrange; dispose; set in order.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>array</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>array
+     n 1: an orderly arrangement; "an array of troops in battle order"
+     2: an impressive display; "it was a bewildering array of
+        books"; "his tools were in an orderly array on the
+        basement wall"
+     3: especially fine or decorative clothing [syn: {raiment}, {regalia}]
+     4: an arrangement of aerials spaced to give desired directional
+        characteristics
+     v 1: lay out in a line [syn: {range}, {lay out}, {set out}]
+     2: align oneself with a group or a way of thinking [syn: {align}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

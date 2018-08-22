@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>calcium</Word>
+  <Definitions>
+    <Definition>
+      <Word>calcium</Word>
+      <Dictionary>
+        <Id>elements</Id>
+        <Name>Elements database 20001107</Name>
+      </Dictionary>
+      <WordDefinition>calcium
+Symbol: Ca
+Atomic number: 20
+Atomic weight: 40.08
+Soft grey metallic element belonging to group 2 of the periodic table.
+Used a reducing agent in the extraction of thorium, zirconium and
+uranium. Essential element for living organisms.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>calcium</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Calcium, NY (CDP, FIPS 11671)
+  Location: 44.03470 N, 75.84798 W
+  Population (1990): 2465 (894 housing units)
+  Area: 14.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 13616
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>calcium</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Calcium \Cal"ci*um\ (k[a^]l"s[i^]*[u^]m), n. [NL., from L. calx,
+   calcis, lime; cf F. calcium. See {Calx}.] (Chem.)
+   An elementary substance; a metal which combined with oxygen
+   forms lime. It is of a pale yellow color, tenacious, and
+   malleable. It is a member of the alkaline earth group of
+   elements. Atomic weight 40. Symbol Ca.
+   [1913 Webster]
+
+   Note: Calcium is widely and abundantly disseminated, as in
+         its compounds calcium carbonate or limestone, calcium
+         sulphate or gypsum, calcium fluoride or fluor spar,
+         calcium phosphate or apatite.
+         [1913 Webster]
+
+   {Calcium light}, an intense light produced by the
+      incandescence of a stick or ball of lime in the flame of a
+      combination of oxygen and hydrogen gases, or of oxygen and
+      coal gas; -- called also {Drummond light} and {lime
+      light}.
+      [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>calcium</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>calcium
+     n : a white metallic element that burns with a brilliant light;
+         the fifth most abundant element in the earth's crust; an
+         important component of most plants and animals [syn: {Ca},
+          {atomic number 20}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>san</Word>
+  <Definitions>
+    <Definition>
+      <Word>san</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>SAN
+     
+        {Storage Area Network}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>san</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>SAN
+     Schulen ans Netz [e.v.] (org.)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>san</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>SAN
+     Storage Area Networks
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>failure</Word>
+  <Definitions>
+    <Definition>
+      <Word>failure</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>failure
+     
+        The inability of a system or system component to perform a
+        required function within specified limits.  A failure may be
+        produced when a {fault} is encountered.
+     
+        (1996-05-13)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>failure</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Failure \Fail"ure\, n. [From {Fail}.]
+   1. Cessation of supply, or total defect; a failing;
+      deficiency; as, failure of rain; failure of crops.
+      [1913 Webster]
+
+   2. Omission; nonperformance; as, the failure to keep a
+      promise.
+      [1913 Webster]
+
+   3. Want of success; the state of having failed.
+      [1913 Webster]
+
+   4. Decay, or defect from decay; deterioration; as, the
+      failure of memory or of sight.
+      [1913 Webster]
+
+   5. A becoming insolvent; bankruptcy; suspension of payment;
+      as, failure in business.
+      [1913 Webster]
+
+   6. A failing; a slight fault. [Obs.] --Johnson.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>failure</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fail \Fail\, n. [OF. faille, from failir. See {Fail}, v. i.]
+   1. Miscarriage; failure; deficiency; fault; -- mostly
+      superseded by {failure} or {failing}, except in the phrase
+      without fail. ``His highness' fail of issue.'' --Shak.
+      [1913 Webster]
+
+   2. Death; decease. [Obs.] --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>failure</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>failure
+     n 1: an act that fails; "his failure to pass the test"
+     2: an event that does not accomplish its intended purpose; "the
+        surprise party was a complete failure" [ant: {success}]
+     3: lack of success; "he felt that his entire life had been a
+        failure"; "that year there was a crop failure" [ant: {success}]
+     4: a person with a record of failing; someone who loses
+        consistently [syn: {loser}, {nonstarter}, {unsuccessful
+        person}] [ant: {achiever}]
+     5: an unexpected omission; "he resented my failure to return
+        his call"; "the mechanic's failure to check the brakes"
+     6: inability to discharge all your debts as they come due; "the
+        company had to declare bankruptcy"; "fraudulent loans led
+        to the failure of many banks" [syn: {bankruptcy}]
+     7: loss of ability to function normally; "kidney failure"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

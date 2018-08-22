@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mike</Word>
+  <Definitions>
+    <Definition>
+      <Word>mike</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>MIKE
+     
+        {Micro Interpreter for Knowledge Engineering}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mike</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>mike \mike\ n. [shortened from microphone.]
+   A {microphone}, the device for converting sound waves into
+   electrical energy. [informal]
+
+   Syn: microphone.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mike</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mike
+     n : device for converting sound waves into electrical energy
+         [syn: {microphone}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

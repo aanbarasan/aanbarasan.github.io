@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>comics</Word>
+  <Definitions>
+    <Definition>
+      <Word>comics</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>funnies \fun"nies\ (f[u^]n"[=e]z), n. pl.
+   The section of a newspaper containing comic strips; called
+   also {funny papers} and {comics}. Rarely encountered in the
+   singular.
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>comics</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>comics \com"ics\ (k[o^]m"[i^]ks), n. pl.
+   The section of a newspaper containing mostly {comic strips};
+   -- called also {funnies} and {funny papers}. Many but not all
+   newspapers have a comics section.
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>comics</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>comics
+     See {comic strip}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

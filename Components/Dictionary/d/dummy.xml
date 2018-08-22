@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dummy</Word>
+  <Definitions>
+    <Definition>
+      <Word>dummy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dummy \Dum"my\, a. [See {Dumb}.]
+   1. Silent; mute; noiseless; as a dummy engine.
+      [1913 Webster]
+
+   2. Fictitious or sham; feigned; as, a dummy watch.
+      [1913 Webster]
+
+   {Dummy car}. See under {Car}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dummy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dummy \Dum"my\, n.; pl. {Dummies}.
+   1. One who is dumb. --H. Smith.
+      [1913 Webster]
+
+   2. A sham package in a shop, or one which does not contain
+      what its exterior indicates.
+      [1913 Webster]
+
+   3. An imitation or copy of something, to be used as a
+      substitute; a model; a lay figure; as, a figure on which
+      clothing is exhibited in shop windows; a blank paper copy
+      used to show the size of the future book, etc.
+      [1913 Webster]
+
+   4. (Drama) One who plays a merely nominal part in any action;
+      a sham character.
+      [1913 Webster]
+
+   5. A thick-witted person; a dolt. [Colloq.]
+      [1913 Webster]
+
+   6. (Railroad) A locomotive with condensing engines, and,
+      hence, without the noise of escaping steam; also, a dummy
+      car.
+      [1913 Webster]
+
+   7. (Card Playing) The fourth or exposed hand when three
+      persons play at a four-handed game of cards.
+      [1913 Webster]
+
+   8. A floating barge connected with a pier. --Knight.
+      [1913 Webster]
+
+   {To play dummy}, to play the exposed or dummy hand in cards.
+      The partner of the dummy plays it.
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dummy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dummy
+     adj : having the appearance of being real but lacking capacity to
+           function; "a dummy corporation"
+     n 1: a person who does not talk [syn: {silent person}]
+     2: an ignorant or foolish person [syn: {dumbbell}, {dope}, {boob},
+         {booby}, {pinhead}]
+     3: a figure representing the human form
+     4: a cartridge containing an explosive charge but no bullet
+        [syn: {blank}, {blank shell}]
+     v : make a dummy of; "dummy up the books that are to be
+         published" [syn: {dummy up}]
+     [also: {dummied}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

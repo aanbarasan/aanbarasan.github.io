@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>noise</Word>
+  <Definitions>
+    <Definition>
+      <Word>noise</Word>
+      <Dictionary>
+        <Id>devils</Id>
+        <Name>THE DEVIL'S DICTIONARY ((C)1911 Released April 15 1993)</Name>
+      </Dictionary>
+      <WordDefinition>NOISE, n.  A stench in the ear.  Undomesticated music.  The chief
+product and authenticating sign of civilization.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>noise</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>noise
+     
+        &lt;communications&gt; Any part of a signal that is not the true or
+        original signal but is introduced by the communication
+        mechanism.
+     
+        A common example would be an electrical signal travelling down
+        a wire to which noise is added by inductive and capacitive
+        coupling with other nearby signals (this kind of noise is
+        known as "{crosstalk}").
+     
+        A less obvious form of noise is {quantisation} noise, such as
+        the error between the true colour of a point in a scene in the
+        real world and its representation as a {pixel} in a digital
+        image.
+     
+        (2003-07-05)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>noise</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Noise \Noise\, v. i.
+   To sound; to make a noise. --Milton.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>noise</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Noise \Noise\, v. t. [imp. &amp; p. p. {Noised}; p pr. &amp; vb. n.
+   {Noising}.]
+   1. To spread by rumor or report.
+      [1913 Webster]
+
+            All these sayings were noised abroad. --Luke i. 65.
+      [1913 Webster]
+
+   2. To disturb with noise. [Obs.] --Dryden.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>noise</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Noise \Noise\, n. [F. noise noisy strife, quarrel, brawl, fr. L.
+   nausea seasickness, sickness, disgust. See {Nausea}.]
+   1. Sound of any kind.
+      [1913 Webster]
+
+            The heavens turn about in a most rapid motion
+            without noise
+            to us perceived.                      --Bacon.
+      [1913 Webster]
+
+   Note: Noise is either a sound of too short a duration to be
+         determined, like the report of a cannon; or else it is
+         a confused mixture of many discordant sounds, like the
+         rolling of thunder or the noise of the waves.
+         Nevertheless, the difference between sound and noise is
+         by no means precise. --Ganot.
+         [1913 Webster]
+
+   2. Especially, loud, confused, or senseless sound; clamor;
+      din.
+      [1913 Webster]
+
+   3. Loud or continuous talk; general talk or discussion;
+      rumor; report. ``The noise goes.'' --Shak.
+      [1913 Webster]
+
+            What noise have we had about transplantation of
+            diseases and transfusion of blood!    --T. Baker.
+      [1913 Webster]
+
+            Socrates lived in Athens during the great plague
+            which has made so much noise in all ages.
+                                                  --Spectator.
+      [1913 Webster]
+
+   4. Music, in general; a concert; also, a company of
+      musicians; a band. [Obs.] --Milton.
+      [1913 Webster]
+
+            The king has his noise of gypsies.    --B. Jonson.
+      [1913 Webster]
+
+   Syn: Cry; outcry; clamor; din; clatter; uproar.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>noise</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>background \back"ground`\, n. [Back, a. + ground.]
+   [1913 Webster]
+   1. Ground in the rear or behind, or in the distance, as
+      opposed to the {foreground}, or the ground in front.
+      [1913 Webster]
+
+   2. (Paint.) The space which is behind and subordinate to a
+      portrait or group of figures.
+      [1913 Webster]
+
+   Note: The distance in a picture is usually divided into
+         foreground, middle distance, and background.
+         --Fairholt.
+         [1913 Webster]
+
+   3. Anything behind, serving as a foil; as, the statue had a
+      background of red hangings.
+      [1913 Webster]
+
+   4. A place in obscurity or retirement, or out of sight.
+      [1913 Webster]
+
+            I fancy there was a background of grinding and
+            waiting before Miss Torry could produce this highly
+            finished . . . performance.           --Mrs.
+                                                  Alexander.
+      [1913 Webster]
+
+            A husband somewhere in the background. --Thackeray.
+      [1913 Webster]
+
+   5. The set of conditions within which an action takes place,
+      including the social and physical conditions as well as
+      the psychological states of the participants; as, within
+      the background of the massive budget deficits of the
+      1980's, new spending programs had little chance of passage
+      by the congress.
+      [PJC]
+
+   6. The set of conditions that precede and affect an action,
+      such as the social and historical precedents for the
+      event, as well as the general background[5]; as, against
+      the background of their expulsion by the Serbs, the desire
+      of Kosovars for vengeance is understandable though
+      regrettable.
+      [PJC]
+
+   7. (Science) The signals that may be detected by a
+      measurement which are not due to the phenomenon being
+      studied, and tend to make the measurement uncertain to a
+      greater or lesser degree. Specifically: (Physics)
+      Electronic noise present in a system using electronic
+      measuring instrument or in a telecommunications system,
+      which may hide and which must be differentiated from the
+      desired signal; also called background noise or {noise}.
+      [PJC]
+
+   8. (Journalism) An agreement between a journalist and an
+      interviewee that the name of the interviewee will not be
+      quoted in any publication, although the substance of the
+      remarks may be reported; -- often used in the phrase ``on
+      background''. Compare {deep background}.
+      [PJC]
+
+   {To place in the background}, to make of little consequence.
+
+   {To keep in the background}, to remain unobtrusive,
+      inconspicuous or out of sight; -- of people.
+
+   {deep background}, (Journalism) the status of an interview
+      which must not be quoted in a publication, even without
+      attribution. Compare {background}[8].
+      [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>noise</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>noise
+     n 1: sound of any kind (especially unintelligible or dissonant
+          sound); "he enjoyed the street noises"; "they heard
+          indistinct noises of people talking"; "during the
+          firework display that ended the gala the noise reached
+          98 decibels"
+     2: the auditory experience of sound that lacks musical quality;
+        sound that is a disagreeable auditory experience; "modern
+        music is just noise to me" [syn: {dissonance}, {racket}]
+     3: electrical or acoustic activity that can disturb
+        communication [syn: {interference}, {disturbance}]
+     4: a loud outcry of protest or complaint; "the announcement of
+        the election recount caused a lot of noise"; "whatever it
+        was he didn't like it and he was going to let them know by
+        making as loud a noise as he could"
+     5: incomprehensibility resulting from irrelevant information or
+        meaningless facts or remarks; "all the noise in his speech
+        concealed the fact that he didn't have anything to say"
+     6: the quality of lacking any predictable order or plan [syn: {randomness},
+         {haphazardness}, {stochasticity}]
+     v : emit a noise [syn: {make noise}, {resound}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

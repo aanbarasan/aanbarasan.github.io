@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>amusement</Word>
+  <Definitions>
+    <Definition>
+      <Word>amusement</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Amusement \A*muse"ment\, n. [Cf. F. amusement.]
+   1. Deep thought; muse. [Obs.]
+      [1913 Webster]
+
+            Here I . . . fell into a strong and deep amusement,
+            revolving in my mind, with great perplexity, the
+            amazing change of our affairs.        --Fleetwood.
+      [1913 Webster]
+
+   2. The state of being amused; pleasurable excitement; that
+      which amuses; diversion.
+      [1913 Webster]
+
+            His favorite amusements were architecture and
+            gardening.                            --Macaulay.
+      [1913 Webster]
+
+   Syn: Diversion; entertainment; recreation; relaxation;
+        pastime; sport.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>amusement</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>amusement
+     n 1: a feeling of delight at being entertained
+     2: a diversion that holds the attention [syn: {entertainment}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

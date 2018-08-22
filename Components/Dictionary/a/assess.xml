@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>assess</Word>
+  <Definitions>
+    <Definition>
+      <Word>assess</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Assess \As*sess"\, v. t. [imp. &amp; p. p. {Assessed}; p. pr. &amp; vb.
+   n. {Assessing}.] [OF. assesser to regulate, settle, LL.
+   assessare to value for taxation, fr. L. assidere, supine as
+   if assessum, to sit by, esp. of judges in a court, in LL. to
+   assess, tax. Cf. {Assize}, v., {Cess}.]
+   1. To value; to make a valuation or official estimate of for
+      the purpose of taxation.
+      [1913 Webster]
+
+   2. To apportion a sum to be paid by (a person, a community,
+      or an estate), in the nature of a tax, fine, etc.; to
+      impose a tax upon (a person, an estate, or an income)
+      according to a rate or apportionment.
+      [1913 Webster]
+
+   3. To determine and impose a tax or fine upon (a person,
+      community, estate, or income); to tax; as, the club
+      assessed each member twenty-five cents.
+      [1913 Webster]
+
+   4. To fix or determine the rate or amount of.
+      [1913 Webster]
+
+            This sum is assessed and raised upon individuals by
+            commissioners in the act.             --Blackstone.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>assess</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>assess
+     v 1: place a value on; judge the worth of something; "I will have
+          the family jewels appraised by a professional" [syn: {measure},
+           {evaluate}, {valuate}, {appraise}, {value}]
+     2: charge (a person or a property) with a payment, such as a
+        tax or a fine
+     3: set or determine the amount of (a payment such as a fine)
+        [syn: {tax}]
+     4: estimate the value of (property) for taxation; "Our house
+        hasn't been assessed in years"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

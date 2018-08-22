@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bin</Word>
+  <Definitions>
+    <Definition>
+      <Word>bin</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bin \Bin\, n. [OE. binne, AS. binn manager, crib; perh. akin to
+   D. ben, benne, basket, and to L. benna a kind of carriage ( a
+   Gallic word), W. benn, men, wain, cart.]
+   A box, frame, crib, or inclosed place, used as a receptacle
+   for any commodity; as, a corn bin; a wine bin; a coal bin.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bin</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bin \Bin\, v. t. [imp. &amp; p. p. {Binned}; p. pr. &amp; vb. n.
+   {Binning}.]
+   To put into a bin; as, to bin wine.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bin</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bin- \Bin-\
+   A euphonic form of the prefix {Bi-}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bin</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bin \Bin\
+   An old form of {Be} and {Been}. [Obs.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bin</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bin
+     n 1: a container; usually has a lid
+     2: the quantity contained in a bin [syn: {binful}]
+     3: an identification number consisting of a two-part code
+        assigned to banks and savings associations; the first part
+        shows the location and the second identifies the bank
+        itself [syn: {bank identification number}, {ABA transit
+        number}]
+     v : store in bins
+     [also: {binning}, {binned}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>handful</Word>
+  <Definitions>
+    <Definition>
+      <Word>handful</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>handful \hand"ful\ (h[a^]nd"f[.u]l), n.; pl. {handfuls}
+   (h[a^]nd"f[.u]lz). [AS. handfull.]
+   1. As much as the hand will grasp or contain. --Addison.
+      [1913 Webster]
+
+   2. A hand's breadth; four inches. [Obs.]
+      [1913 Webster]
+
+            Knap the tongs together about a handful from the
+            bottom.                               --Bacon.
+      [1913 Webster]
+
+   3. A small quantity or number.
+      [1913 Webster]
+
+            This handful of men were tied to very hard duty.
+                                                  --Fuller.
+      [1913 Webster]
+
+   4. A person, task, or situation, which is the most that one
+      can manage; as, my two-year-old is a handful.
+      [PJC]
+
+   {To have one's handful}, to have one's hands full; to have
+      all one can do. [Obs.]
+      [1913 Webster]
+
+            They had their handful to defend themselves from
+            firing.                               --Sir. W.
+                                                  Raleigh.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>handful</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>handful
+     n 1: a small number or amount; "only a handful of responses were
+          received" [syn: {smattering}]
+     2: the quantity that can be held in the hand [syn: {fistful}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>alignment</Word>
+  <Definitions>
+    <Definition>
+      <Word>alignment</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Alignment \A*lign"ment\, n. [F. alignement.]
+   1. The act of adjusting to a line; arrangement in a line or
+      lines; the state of being so adjusted; a formation in a
+      straight line; also, the line of adjustment; esp., an
+      imaginary line to regulate the formation of troops or of a
+      squadron.
+      [1913 Webster]
+
+   2. (Engin.) The ground-plan of a railway or other road, in
+      distinction from the grades or profile.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>alignment</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>alignment
+     n 1: an organization of people (or countries) involved in a pact
+          or treaty [syn: {alliance}, {coalition}, {alinement}]
+          [ant: {nonalignment}]
+     2: the spatial property possessed by an arrangement or position
+        of things in a straight line or in parallel lines
+     3: (astronomy) apparent meeting or passing of two or more
+        celestial bodies in the same degree of the zodiac [syn: {conjunction}]
+     4: the act of adjusting or aligning the parts of a device in
+        relation to each other
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

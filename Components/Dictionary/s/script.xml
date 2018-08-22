@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>script</Word>
+  <Definitions>
+    <Definition>
+      <Word>script</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>SCRIPT
+     
+        1. An early system on the {IBM 702}.
+     
+        [Listed in CACM 2(5):16 (May 1959)].
+     
+        2. A {real-time} language.
+     
+        ["A Communication Abstraction Mechanism and its Verification",
+        N. Francez et al, Sci Comp Prog 6(1):35-88 (1986)].
+     
+        (1994-12-01)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>script</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>script
+     
+        &lt;language&gt; A program written in a {scripting language}, but
+        see {Ousterhout's dichotomy}.
+     
+        (1999-02-22)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>script</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Script \Script\, n. [OE. scrit, L. scriptum something written,
+   fr. scribere, scriptum to write: cf. OF. escript, escrit, F.
+   ['e]crit. See {Scribe}, and cf. {Scrip} a writing.]
+   1. A writing; a written document. [Obs.] --Chaucer.
+      [1913 Webster]
+
+   2. (Print.) Type made in imitation of handwriting.
+      [1913 Webster]
+
+   3. (Law) An original instrument or document.
+      [1913 Webster]
+
+   4. Written characters; style of writing.
+      [1913 Webster]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>script</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>script
+     n 1: a written version of a play or other dramatic composition;
+          used in preparing for a performance [syn: {book}, {playscript}]
+     2: something written by hand; "she recognized his handwriting";
+        "his hand was illegible" [syn: {handwriting}, {hand}]
+     3: a particular orthography or writing system
+     v : write a script for; "The playwright scripted the movie"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

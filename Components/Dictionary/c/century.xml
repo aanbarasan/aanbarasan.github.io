@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>century</Word>
+  <Definitions>
+    <Definition>
+      <Word>century</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Century, FL (town, FIPS 11375)
+  Location: 30.97747 N, 87.26153 W
+  Population (1990): 1989 (872 housing units)
+  Area: 8.5 sq km (land), 0.2 sq km (water)
+  Zip code(s): 32535
+Century, WV
+  Zip code(s): 26214
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>century</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Century \Cen"tu*ry\, n.; pl. {Centuries}. [L. centuria (in
+   senses 1 &amp; 3), fr. centum a hundred: cf. F. centurie. See
+   {Cent}.]
+   1. A hundred; as, a century of sonnets; an aggregate of a
+      hundred things. [Archaic.]
+      [1913 Webster]
+
+            And on it said a century of prayers.  --Shak.
+      [1913 Webster]
+
+   2. A period of a hundred years; as, this event took place
+      over two centuries ago.
+      [1913 Webster]
+
+   Note: Century, in the reckoning of time, although often used
+         in a general way of any series of hundred consecutive
+         years (as, a century of temperance work), usually
+         signifies a division of the Christian era, consisting
+         of a period of one hundred years ending with the
+         hundredth year from which it is named; as, the first
+         century ({a}. {d}. 1-100 inclusive); the seventh
+         century ({a}.{d}. 601-700); the eighteenth century
+         ({a}.{d}. 1701-1800). With words or phrases connecting
+         it with some other system of chronology it is used of
+         similar division of those eras; as, the first century
+         of Rome (A.U.C. 1-100).
+         [1913 Webster]
+
+   3. (Rom. Antiq.)
+      (a) A division of the Roman people formed according to
+          their property, for the purpose of voting for civil
+          officers.
+      (b) One of sixty companies into which a legion of the army
+          was divided. It was Commanded by a centurion.
+          [1913 Webster]
+
+   {Century plant} (Bot.), the {Agave Americana}, formerly
+      supposed to flower but once in a century; -- hence the
+      name. See {Agave}.
+
+   {The Magdeburg Centuries}, an ecclesiastical history of the
+      first thirteen centuries, arranged in thirteen volumes,
+      compiled in the 16th century by Protestant scholars at
+      Magdeburg.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>century</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>century
+     n 1: 100 years
+     2: ten 10s [syn: {hundred}, {100}, {C}, {one C}, {centred}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

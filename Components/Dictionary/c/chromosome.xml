@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>chromosome</Word>
+  <Definitions>
+    <Definition>
+      <Word>chromosome</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Chromosome \Chro"mo*some`\, n. [Gr. ? color + ? the body.]
+   (Biol.)
+   One of the minute bodies into which the chromatin of the
+   nucleus is resolved during mitotic cell division; the {idant}
+   of Weismann.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chromosome</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>chromosome
+     n : a threadlike body in the cell nucleus that carries the genes
+         in a linear order
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

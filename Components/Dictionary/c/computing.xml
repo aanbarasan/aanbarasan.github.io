@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>computing</Word>
+  <Definitions>
+    <Definition>
+      <Word>computing</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>computing
+     
+        {computer}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>computing</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Compute \Com*pute"\ (k[o^]m*p[=u]t"), v. t. [imp. &amp; p. p.
+   {Computed}; p. pr. &amp; vb. n. {Computing}.] [L. computare. See
+   {Count}, v. t.]
+   To determine by calculation; to reckon; to count.
+   [1913 Webster]
+
+         Two days, as we compute the days of heaven. --Milton.
+   [1913 Webster]
+
+         What's done we partly may compute,
+         But know not what's resisted.            --Burns.
+
+   Syn: To calculate; number; count; reckon; estimate;
+        enumerate; rate. See {Calculate}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>computing</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>computing
+     n 1: the branch of engineering science that studies (with the aid
+          of computers) computable processes and structures [syn:
+          {computer science}]
+     2: the procedure of calculating; determining something by
+        mathematical or logical methods [syn: {calculation}, {computation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

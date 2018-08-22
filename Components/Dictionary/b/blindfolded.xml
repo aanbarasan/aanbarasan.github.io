@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>blindfolded</Word>
+  <Definitions>
+    <Definition>
+      <Word>blindfolded</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Blindfold \Blind"fold`\, v. t. [imp. &amp; p. p. {Blindfolded}; p.
+   pr. &amp; vb. n. {Blindfolding}.] [OE. blindfolden, blindfelden,
+   blindfellen; AS. blind blind + prob. fellan, fyllan, to fell,
+   strike down.]
+   To cover the eyes of, as with a bandage; to hinder from
+   seeing.
+   [1913 Webster]
+
+         And when they had blindfolded him, they struck him on
+         the face.                                --Luke xxii.
+                                                  64.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>blindfolded</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>blindfolded \blind"fold*ed\ adj.
+   having a blindfold placed over the eyes; -- done to prevent
+   the wearer from seeing.
+
+   Syn: blindfold.
+        [WordNet 1.5 +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>blindfolded</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>blindfolded
+     adj : wearing a blindfold [syn: {blindfold}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

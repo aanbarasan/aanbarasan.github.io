@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>concur</Word>
+  <Definitions>
+    <Definition>
+      <Word>concur</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>CONCUR
+     
+        ["CONCUR, A Language for Continuous Concurrent Processes",
+        R.M.  Salter et al, Comp Langs 5(3):163-189 (1981)].
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>concur</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Concur \Con*cur"\, v. i. [imp. &amp; p. p. {Concurred}; p. pr. &amp; vb.
+   n. {Concurring}.] [L. concurrere to run together, agree; con-
+   + currere to run. See {Current}.]
+   1. To run together; to meet. [Obs.]
+      [1913 Webster]
+
+            Anon they fierce encountering both concurred
+            With grisly looks and faces like their fates. --J.
+                                                  Hughes.
+      [1913 Webster]
+
+   2. To meet in the same point; to combine or conjoin; to
+      contribute or help toward a common object or effect.
+      [1913 Webster]
+
+            When outward causes concur.           --Jer. Colier.
+      [1913 Webster]
+
+   3. To unite or agree (in action or opinion); to join; to act
+      jointly; to agree; to coincide; to correspond.
+      [1913 Webster]
+
+            Mr. Burke concurred with Lord Chatham in opinion.
+                                                  --Fox.
+      [1913 Webster]
+
+            Tories and Whigs had concurred in paying honor to
+            Walker.                               --Makaulay.
+      [1913 Webster]
+
+            This concurs directly with the letter. --Shak.
+      [1913 Webster]
+
+   4. To assent; to consent. [Obs.] --Milton.
+
+   Syn: To agree; unite; combine; conspire; coincide; approve;
+        acquiesce; assent.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>concur</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>concur
+     v 1: be in accord; be in agreement; "We agreed on the terms of
+          the settlement"; "I can't agree with you!"; "I hold with
+          those who say life is sacred"; "Both philosophers
+          concord on this point" [syn: {agree}, {hold}, {concord}]
+          [ant: {disagree}]
+     2: happen simultaneously; "The two events coincided" [syn: {coincide}]
+     [also: {concurring}, {concurred}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

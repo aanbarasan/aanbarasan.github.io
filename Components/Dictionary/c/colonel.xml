@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>colonel</Word>
+  <Definitions>
+    <Definition>
+      <Word>colonel</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Colonel \Colo"nel\, n. [F. colonel, It. colonello, prop., the
+   chief or commander of a column, fr. colonna column, L.
+   columna. See {Column}.] (Mil.)
+   The chief officer of a regiment; an officer ranking next
+   above a lieutenant colonel and next below a brigadier
+   general.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>colonel</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>colonel
+     n : a commissioned military officer in the United States Army or
+         Air Force or Marines who ranks above a lieutenant colonel
+         and below a brigadier general
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

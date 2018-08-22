@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>engine</Word>
+  <Definitions>
+    <Definition>
+      <Word>engine</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>engine
+     
+        &lt;jargon&gt; 1. A piece of {hardware} that encapsulates some
+        function but can't be used without some kind of {front end}.
+        Today we have, especially, "{print engine}": the guts of a
+        {laser printer}.
+     
+        2. An analogous piece of software; notionally, one that does a
+        lot of noisy {crunching}, such as a "database engine", or
+        "{search engine}".
+     
+        The hackish senses of "engine" are actually close to its
+        original, pre-Industrial-Revolution sense of a skill, clever
+        device, or instrument (the word is cognate to "ingenuity").
+        This sense had not been completely eclipsed by the modern
+        connotation of power-transducing machinery in {Charles
+        Babbage}'s time, which explains why he named the
+        stored-program computer that he designed in 1844 the
+        "{Analytical Engine}".
+     
+        [{Jargon File}]
+     
+        (1996-05-31)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>engine</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Engine \En"gine\ ([e^]n"j[i^]n), n. [F. engin skill, machine,
+   engine, L. ingenium natural capacity, invention; in in + the
+   root of gignere to produce. See {Genius}, and cf.
+   {Ingenious}, {Gin} a snare.]
+   1.
+
+   Note: (Pronounced, in this sense, [e^]n*j[=e]n".) Natural
+         capacity; ability; skill. [Obs.]
+         [1913 Webster]
+
+               A man hath sapiences three,
+               Memory, engine, and intellect also. --Chaucer.
+         [1913 Webster]
+
+   2. Anything used to effect a purpose; any device or
+      contrivance; a machine; an agent. --Shak.
+      [1913 Webster]
+
+            You see the ways the fisherman doth take
+            To catch the fish; what engines doth he make?
+                                                  --Bunyan.
+      [1913 Webster]
+
+            Their promises, enticements, oaths, tokens, and all
+            these engines of lust.                --Shak.
+      [1913 Webster]
+
+   3. Any instrument by which any effect is produced;
+      especially, an instrument or machine of war or torture.
+      ``Terrible engines of death.'' --Sir W. Raleigh.
+      [1913 Webster]
+
+   4. (Mach.) A compound machine by which any physical power is
+      applied to produce a given physical effect.
+      [1913 Webster]
+
+   {Engine driver}, one who manages an engine; specifically, the
+      engineer of a locomotive.
+
+   {Engine lathe}. (Mach.) See under {Lathe}.
+
+   {Engine tool}, a machine tool. --J. Whitworth.
+
+   {Engine turning} (Fine Arts), a method of ornamentation by
+      means of a rose engine.
+      [1913 Webster]
+
+   Note: The term engine is more commonly applied to massive
+         machines, or to those giving power, or which produce
+         some difficult result. Engines, as motors, are
+         distinguished according to the source of power, as
+         steam engine, air engine, electro-magnetic engine; or
+         the purpose on account of which the power is applied,
+         as fire engine, pumping engine, locomotive engine; or
+         some peculiarity of construction or operation, as
+         single-acting or double-acting engine, high-pressure or
+         low-pressure engine, condensing engine, etc.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>engine</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Engine \En"gine\, v. t.
+   1. To assault with an engine. [Obs.]
+      [1913 Webster]
+
+            To engine and batter our walls.       --T. Adams.
+      [1913 Webster]
+
+   2. To equip with an engine; -- said especially of steam
+      vessels; as, vessels are often built by one firm and
+      engined by another.
+      [1913 Webster]
+
+   3. (Pronounced, in this sense, ?????.) To rack; to torture.
+      [Obs.] --Chaucer.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>engine</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>engine n. 1. A piece of hardware that encapsulates some function but
+   can't be used without some kind of {front end}. Today we have,
+   especially, `print engine': the guts of a laser printer. 2. An analogous
+   piece of software; notionally, one that does a lot of noisy crunching,
+   such as a `database engine'.
+
+   The hacker senses of `engine' are actually close to its original,
+   pre-Industrial-Revolution sense of a skill, clever device, or instrument
+   (the word is cognate to `ingenuity'). This sense had not been completely
+   eclipsed by the modern connotation of power-transducing machinery in
+   Charles Babbage's time, which explains why he named the stored-program
+   computer that he designed in 1844 the `Analytical Engine'.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>engine</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>engine
+     n 1: motor that converts thermal energy to mechanical work
+     2: something used to achieve a purpose; "an engine of change"
+     3: a wheeled vehicle consisting of a self-propelled engine that
+        is used to draw trains along railway tracks [syn: {locomotive},
+         {locomotive engine}, {railway locomotive}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

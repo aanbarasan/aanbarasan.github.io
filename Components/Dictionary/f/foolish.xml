@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>foolish</Word>
+  <Definitions>
+    <Definition>
+      <Word>foolish</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Foolish \Fool"ish\, a.
+   1. Marked with, or exhibiting, folly; void of understanding;
+      weak in intellect; without judgment or discretion; silly;
+      unwise.
+      [1913 Webster]
+
+            I am a very foolish fond old man.     --Shak.
+      [1913 Webster]
+
+   2. Such as a fool would do; proceeding from weakness of mind
+      or silliness; exhibiting a want of judgment or discretion;
+      as, a foolish act.
+      [1913 Webster]
+
+   3. Absurd; ridiculous; despicable; contemptible.
+      [1913 Webster]
+
+            A foolish figure he must make.        --Prior.
+
+   Syn: Absurd; shallow; shallow-brained; brainless; simple;
+        irrational; unwise; imprudent; indiscreet; incautious;
+        silly; ridiculous; vain; trifling; contemptible. See
+        {Absurd}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>foolish</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>foolish
+     adj 1: devoid of good sense or judgment; "foolish remarks"; "a
+            foolish decision" [ant: {wise}]
+     2: having or revealing stupidity; "ridiculous anserine
+        behavior"; "a dopey answer"; "a dopey kid"; "some fool
+        idea about rewriting authors' books" [syn: {anserine}, {dopy},
+         {dopey}, {goosey}, {goosy}, {gooselike}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

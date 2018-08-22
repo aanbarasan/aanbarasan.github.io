@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>chimp</Word>
+  <Definitions>
+    <Definition>
+      <Word>chimp</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>chimp \chimp\ n.
+   same as {chimpanzee}.
+
+   Syn: chimpanzee, Pan troglodytes.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chimp</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>chimp
+     n : intelligent somewhat arboreal ape of equatorial African
+         forests [syn: {chimpanzee}, {Pan troglodytes}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

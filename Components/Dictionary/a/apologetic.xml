@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>apologetic</Word>
+  <Definitions>
+    <Definition>
+      <Word>apologetic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Apologetic \A*pol`o*get"ic\, Apologetical \A*pol`o*get"ic*al\,
+   a. [Gr. ?, fr. ? to speak in defense of; ? from + ? speech, ?
+   to say, to speak. See {Logic}.]
+   Defending by words or arguments; said or written in defense,
+   or by way of apology; regretfully excusing; as, an apologetic
+   essay. ``To speak in a subdued and apologetic tone.''
+   --Macaulay.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>apologetic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>apologetic
+     adj : offering or expressing apology; "an apologetic note"; "an
+           apologetic manner" [syn: {excusatory}] [ant: {unapologetic}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

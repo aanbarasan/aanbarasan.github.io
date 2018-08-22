@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>thanksgiving</Word>
+  <Definitions>
+    <Definition>
+      <Word>thanksgiving</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Thanksgiving \Thanks"giv`ing\, n.
+   1. The act of rending thanks, or expressing gratitude for
+      favors or mercies.
+      [1913 Webster]
+
+            Every creature of God is good, and nothing to be
+            refused, if it be received with thanksgiving. --1
+                                                  Tim. iv. 4.
+      [1913 Webster]
+
+            In the thanksgiving before meat.      --Shak.
+      [1913 Webster]
+
+            And taught by thee the Church prolongs
+            Her hymns of high thanksgiving still. --Keble.
+      [1913 Webster]
+
+   2. A public acknowledgment or celebration of divine goodness;
+      also, a day set apart for religious services, specially to
+      acknowledge the goodness of God, either in any remarkable
+      deliverance from calamities or danger, or in the ordinary
+      dispensation of his bounties.
+      [1913 Webster]
+
+   Note: In the United States it is now customary for the
+         President by proclamation to appoint annually a day
+         (usually the last Thursday in November) of thanksgiving
+         and praise to God for the mercies of the past year.
+         This is an extension of the custom long prevailing in
+         several States in which an annual Thanksgiving day has
+         been appointed by proclamation of the governor.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>thanksgiving</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Thanksgiving
+     n 1: fourth Thursday in November in the United States; second
+          Monday in October in Canada; commemorates a feast held
+          in 1621 by the Pilgrims and the Wampanoag [syn: {Thanksgiving
+          Day}]
+     2: a short prayer of thanks before a meal [syn: {grace}, {blessing}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

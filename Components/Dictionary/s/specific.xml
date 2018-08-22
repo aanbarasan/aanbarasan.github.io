@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>specific</Word>
+  <Definitions>
+    <Definition>
+      <Word>specific</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Specific \Spe*cif"ic\, n.
+   1. (Med.) A specific remedy. See {Specific}, a., 3.
+      [1913 Webster]
+
+            His parents were weak enough to believe that the
+            royal touch was a specific for this malady.
+                                                  --Macaulay.
+      [1913 Webster]
+
+   2. Anything having peculiar adaption to the purpose to which
+      it is applied. --Dr. H. More.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>specific</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>specific \spe*cif"ic\ (sp[-e]*s[i^]f"[i^]k), a. [F.
+   sp['e]cifique, or NL. spesificus; L. species a particular
+   sort or kind + facere to make. Cf. {specify}.]
+   1. Of or pertaining to a species; characterizing or
+      constituting a species; possessing the peculiar property
+      or properties of a thing which constitute its species, and
+      distinguish it from other things; as, the specific form of
+      an animal or a plant; the specific qualities of a drug;
+      the specific distinction between virtue and vice.
+      [1913 Webster]
+
+            Specific difference is that primary attribute which
+            distinguishes each species from one another. --I.
+                                                  Watts.
+      [1913 Webster]
+
+   2. Specifying; definite, or making definite; limited;
+      precise; discriminating; as, a specific statement.
+      [1913 Webster]
+
+   3. (Med.) Exerting a peculiar influence over any part of the
+      body; preventing or curing disease by a peculiar
+      adaptation, and not on general principles; as, quinine is
+      a specific medicine in cases of malaria.
+      [1913 Webster]
+
+            In fact, all medicines will be found specific in the
+            perfection of the science.            --Coleridge.
+      [1913 Webster]
+
+   {Specific character} (Nat. Hist.), a characteristic or
+      characteristics distinguishing one species from every
+      other species of the same genus.
+
+   {Specific disease} (Med.)
+      (a) A disease which produces a determinate definite effect
+          upon the blood and tissues or upon some special
+          tissue.
+      (b) A disease which is itself uniformly produced by a
+          definite and peculiar poison or organism.
+
+   {Specific duty}. (Com.) See under {Duty}.
+
+   {Specific gravity}. (Physics) See under {Gravity}.
+
+   {Specific heat} (Physics), the quantity of heat required to
+      raise the temperature of a body one degree, taking as the
+      unit of measure the quantity required to raise the same
+      weight of water from zero to one degree; thus, the
+      specific heat of mercury is 0.033, that of water being
+      1.000.
+
+   {Specific inductive capacity} (Physics), the effect of a
+      dielectric body in producing static electric induction as
+      compared with that of some other body or bodies referred
+      to as a standard.
+
+   {Specific legacy} (Law), a bequest of a particular thing, as
+      of a particular animal or piece of furniture, specified
+      and distinguished from all others. --Wharton. --Burrill.
+
+   {Specific name} (Nat. Hist.), the name which, appended to the
+      name of the genus, constitutes the distinctive name of the
+      species; -- originally applied by Linn[ae]us to the
+      essential character of the species, or the essential
+      difference. The present specific name he at first called
+      the {trivial name}.
+
+   {Specific performance} (Law), the peformance of a contract or
+      agreement as decreed by a court of equity.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>specific</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>specific
+     adj 1: (sometimes followed by `to') applying to or characterized by
+            or distinguishing something particular or special or
+            unique; "rules with specific application"; "demands
+            specific to the job"; "a specific and detailed account
+            of the accident" [ant: {general}, {nonspecific}]
+     2: stated explicitly or in detail; "needed a specific amount"
+     3: relating to or distinguishing or constituting a taxonomic
+        species; "specific characters"
+     4: being or affecting a disease produced by a particular
+        microorganism or condition; used also of stains or dyes
+        used in making microscope slides; "quinine is highly
+        specific for malaria"; "a specific remedy"; "a specific
+        stain is one having a specific affinity for particular
+        structural elements" [ant: {nonspecific}]
+     n 1: a fact about some part (as opposed to general); "he always
+          reasons from the particular to the general" [syn: {particular}]
+          [ant: {general}, {general}]
+     2: a medicine that has a mitigating effect on a specific
+        disease; "quinine is a specific for malaria"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

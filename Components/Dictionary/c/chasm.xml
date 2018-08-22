@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>chasm</Word>
+  <Definitions>
+    <Definition>
+      <Word>chasm</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>CHASM
+     
+        CHeap ASseMbler.
+     
+        A {shareware} {assembler} for {MS-DOS}.
+     
+        (1994-11-15)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chasm</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Chasm \Chasm\, n. [L. chasma, Gr. ?, fr. ? to grape, to open
+   wide. See {Chaos}.]
+   1. A deep opening made by disruption, as a breach in the
+      earth or a rock; a yawning abyss; a cleft; a fissure.
+      [1913 Webster]
+
+            That deep, romantic chasm which slanted down the
+            green hill.                           --Coleridge.
+      [1913 Webster]
+
+   2. A void space; a gap or break, as in ranks of men.
+      [1913 Webster]
+
+            Memory . . . fills up the chasms of thought.
+                                                  --Addison.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chasm</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>chasm
+     n : a deep opening in the earth's surface
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

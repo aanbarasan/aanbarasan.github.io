@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>missy</Word>
+  <Definitions>
+    <Definition>
+      <Word>missy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Missy \Mis"sy\, n. (Min.)
+   See {Misy}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>missy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Missy \Mis"sy\, n.
+   An affectionate, or contemptuous, form of miss; a young girl;
+   a miss. -- a. Like a miss, or girl.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>missy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>missy
+     n : a young woman; "a young lady of 18" [syn: {girl}, {miss}, {young
+         lady}, {young woman}, {fille}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

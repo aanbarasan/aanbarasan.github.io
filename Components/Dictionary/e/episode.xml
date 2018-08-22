@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>episode</Word>
+  <Definitions>
+    <Definition>
+      <Word>episode</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Episode \Ep"i*sode\, n. [Gr. ? a coming in besides, ? episode; ?
+   into, besides + ? a coming in, ? into + ? way, cf. Skr. sad
+   to go: cf. F. ['e]pisode.] (Rhet.)
+   A separate incident, story, or action, introduced for the
+   purpose of giving a greater variety to the events related; an
+   incidental narrative, or digression, separable from the main
+   subject, but naturally arising from it.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>episode</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>episode
+     n 1: a happening that is distinctive in a series of related
+          events
+     2: a brief section of a literary or dramatic work that forms
+        part of a connected series
+     3: a part of a broadcast serial [syn: {installment}, {instalment}]
+     4: film consisting of a succession of related shots that
+        develop a given subject in a movie [syn: {sequence}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

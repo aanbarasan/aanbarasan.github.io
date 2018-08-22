@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ice</Word>
+  <Definitions>
+    <Definition>
+      <Word>ice</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Ice
+   frequently mentioned (Job 6:16; 38:29; Ps. 147:17, etc.). (See {CRYSTAL}.)
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ice</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>ICE
+     
+        1. &lt;electronics&gt; {in-circuit emulator}.
+     
+        2. &lt;security, jargon&gt; {Intrusion Countermeasure Electronics}.
+     
+        (2000-03-18)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ice</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ice \Ice\ ([imac]s), v. t. [imp. &amp; p. p. {Iced} ([imac]st); p.
+   pr. &amp; vb. n. {Icing} ([imac]"s[i^]ng).]
+   1. To cover with ice; to convert into ice, or into something
+      resembling ice.
+      [1913 Webster]
+
+   2. To cover with icing, or frosting made of sugar and milk or
+      white of egg; to frost, as cakes, tarts, etc.
+      [1913 Webster]
+
+   3. To chill or cool, as with ice; to freeze.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ice</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ice \Ice\ ([imac]s), n. [OE. is, iis, AS. [=i]s; aksin to D.
+   ijs, G. eis, OHG. [=i]s, Icel. [=i]ss, Sw. is, Dan. iis, and
+   perh. to E. iron.]
+   1. Water or other fluid frozen or reduced to the solid state
+      by cold; frozen water. It is a white or transparent
+      colorless substance, crystalline, brittle, and viscoidal.
+      Its specific gravity (0.92, that of water at 4[deg] C.
+      being 1.0) being less than that of water, ice floats.
+      [1913 Webster]
+
+   Note: Water freezes at 32[deg] F. or 0[deg] Cent., and ice
+         melts at the same temperature. Ice owes its cooling
+         properties to the large amount of heat required to melt
+         it.
+         [1913 Webster]
+
+   2. Concreted sugar. --Johnson.
+      [1913 Webster]
+
+   3. Water, cream, custard, etc., sweetened, flavored, and
+      artificially frozen.
+      [1913 Webster]
+
+   4. Any substance having the appearance of ice; as, camphor
+      ice.
+      [1913 Webster]
+
+   {Anchor ice}, ice which sometimes forms about stones and
+      other objects at the bottom of running or other water, and
+      is thus attached or anchored to the ground.
+
+   {Bay ice}, ice formed in bays, fiords, etc., often in
+      extensive fields which drift out to sea.
+
+   {Ground ice}, anchor ice.
+
+   {Ice age} (Geol.), the glacial epoch or period. See under
+      {Glacial}.
+
+   {Ice anchor} (Naut.), a grapnel for mooring a vessel to a
+      field of ice. --Kane.
+
+   {Ice blink} [Dan. iisblink], a streak of whiteness of the
+      horizon, caused by the reflection of light from ice not
+      yet in sight.
+
+   {Ice boat}.
+      (a) A boat fitted with skates or runners, and propelled on
+          ice by sails; an ice yacht.
+      (b) A strong steamboat for breaking a channel through ice.
+          
+
+   {Ice box} or {Ice chest}, a box for holding ice; a box in
+      which things are kept cool by means of ice; a
+      refrigerator.
+
+   {Ice brook}, a brook or stream as cold as ice. [Poetic]
+      --Shak.
+
+   {Ice cream} [for iced cream], cream, milk, or custard,
+      sweetened, flavored, and frozen.
+
+   {Ice field}, an extensive sheet of ice.
+
+   {Ice float}, {Ice floe}, a sheet of floating ice similar to
+      an ice field, but smaller.
+
+   {Ice foot}, shore ice in Arctic regions; an ice belt. --Kane.
+
+   {Ice house}, a close-covered pit or building for storing ice.
+      
+
+   {Ice machine} (Physics), a machine for making ice
+      artificially, as by the production of a low temperature
+      through the sudden expansion of a gas or vapor, or the
+      rapid evaporation of a volatile liquid.
+
+   {Ice master}. See {Ice pilot} (below).
+
+   {Ice pack}, an irregular mass of broken and drifting ice.
+
+   {Ice paper}, a transparent film of gelatin for copying or
+      reproducing; {papier glac['e]}.
+
+   {Ice petrel} (Zo["o]l.), a shearwater ({Puffinus gelidus}) of
+      the Antarctic seas, abundant among floating ice.
+
+   {Ice pick}, a sharp instrument for breaking ice into small
+      pieces.
+
+   {Ice pilot}, a pilot who has charge of a vessel where the
+      course is obstructed by ice, as in polar seas; -- called
+      also {ice master}.
+
+   {Ice pitcher}, a pitcher adapted for ice water.
+
+   {Ice plow}, a large tool for grooving and cutting ice.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ice</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>ice n. [coined by Usenetter Tom Maddox, popularized by William Gibson's
+   cyberpunk SF novels: a contrived acronym for `Intrusion Countermeasure
+   Electronics'] Security software (in Gibson's novels, software that
+   responds to intrusion by attempting to immobilize or even literally kill
+   the intruder). Hence, `icebreaker': a program designed for cracking
+   security on a system.
+
+   Neither term is in serious use yet as of early 2001, but many hackers
+   find the metaphor attractive, and each may develop a denotation in the
+   future. In the meantime, the speculative usage could be confused with
+   `ICE', an acronym for "in-circuit emulator".
+
+   In ironic reference to the speculative usage, however, some hackers
+   and computer scientists formed ICE (International Cryptographic
+   Experiment) in 1994. ICE is a consortium to promote uniform
+   international access to strong cryptography.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ice</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>ICE
+     In-Circuit-Emulation
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ice</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>ICE
+     Information and Content Exchange [protocol] (XML)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ice</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ice
+     n 1: water frozen in the solid state; "Americans like ice in
+          their drinks" [syn: {water ice}]
+     2: the frozen part of a body of water
+     3: diamonds; "look at the ice on that dame!" [syn: {sparkler}]
+     4: a flavored sugar topping used to coat and decorate cakes
+        [syn: {frosting}, {icing}]
+     5: a frozen dessert with fruit flavoring (especially one
+        containing no milk) [syn: {frappe}]
+     6: amphetamine used in the form of a crystalline hydrochloride;
+        used as a stimulant to the nervous system and as an
+        appetite suppressant [syn: {methamphetamine}, {methamphetamine
+        hydrochloride}, {Methedrine}, {meth}, {deoxyephedrine}, {chalk},
+         {chicken feed}, {crank}, {glass}, {shabu}, {trash}]
+     7: a heat engine in which combustion occurs inside the engine
+        rather than in a separate furnace; heat expands a gas that
+        either moves a piston or turns a gas turbine [syn: {internal-combustion
+        engine}]
+     8: a rink with a floor of ice for ice hockey or ice skating;
+        "the crowd applauded when she skated out onto the ice"
+        [syn: {ice rink}, {ice-skating rink}]
+     v 1: decorate with frosting; "frost a cake" [syn: {frost}]
+     2: put ice on or put on ice; "Ice your sprained limbs"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

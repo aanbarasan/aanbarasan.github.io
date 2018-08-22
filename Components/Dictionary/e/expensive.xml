@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>expensive</Word>
+  <Definitions>
+    <Definition>
+      <Word>expensive</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Expensive \Ex*pen"sive\, a.
+   1. Occasioning expense; calling for liberal outlay; costly;
+      dear; liberal; as, expensive dress; an expensive house or
+      family.
+      [1913 Webster]
+
+            War is expensive, and peace desirable. --Burke.
+      [1913 Webster]
+
+   2. Free in expending; very liberal; especially, in a bad
+      sense: extravagant; lavish. [R.]
+      [1913 Webster]
+
+            An active, expensive, indefatigable goodness.
+                                                  --Sprat.
+      [1913 Webster]
+
+            The idle and expensive are dangerous. --Sir W.
+                                                  Temple.
+
+   Syn: Costly; dear; high-priced; lavish; extravagant. --
+        {Ex*pen"sive*ly}, adv. -- {Ex*pen"sive*ness}, n.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>expensive</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>expensive
+     adj : high in price or charging high prices; "expensive clothes";
+           "an expensive shop" [ant: {cheap}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

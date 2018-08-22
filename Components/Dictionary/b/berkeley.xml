@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>berkeley</Word>
+  <Definitions>
+    <Definition>
+      <Word>berkeley</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Berkeley
+     
+        {University of California at Berkeley}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>berkeley</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Berkeley, CA (city, FIPS 6000)
+  Location: 37.86725 N, 122.29729 W
+  Population (1990): 102724 (45735 housing units)
+  Area: 27.1 sq km (land), 18.8 sq km (water)
+  Zip code(s): 94702, 94703, 94704, 94705, 94709, 94710
+Berkeley, IL (village, FIPS 5404)
+  Location: 41.88845 N, 87.91230 W
+  Population (1990): 5137 (1918 housing units)
+  Area: 3.7 sq km (land), 0.0 sq km (water)
+Berkeley, MO (city, FIPS 4906)
+  Location: 38.74330 N, 90.33561 W
+  Population (1990): 12450 (4706 housing units)
+  Area: 12.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 63134, 63140
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>berkeley</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Berkeley \Berkeley\ n.
+   Bishop George Berkeley; b. 1685, d. 1753.
+   [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>berkeley</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Berkeley
+     n 1: Irish philosopher and Anglican bishop who opposed the
+          materialism of Thomas Hobbes (1685-1753) [syn: {Bishop
+          Berkeley}, {George Berkeley}]
+     2: a city in California on the eastern shore of San Francisco
+        Bay; site of the University of California at Berkeley
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

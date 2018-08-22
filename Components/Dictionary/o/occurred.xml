@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>occurred</Word>
+  <Definitions>
+    <Definition>
+      <Word>occurred</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Occur \Oc*cur"\, v. i. [imp. &amp; p. p. {Occurred}; p. pr. &amp; vb. n.
+   {Occurring}.] [L. occurrere, occursum; ob (see {Ob-}) +
+   currere to run. See {Course}.]
+   1. To meet; to clash. [Obs.]
+      [1913 Webster]
+
+            The resistance of the bodies they occur with.
+                                                  --Bentley.
+      [1913 Webster]
+
+   2. To go in order to meet; to make reply. [Obs.]
+      [1913 Webster]
+
+            I must occur to one specious objection. --Bentley.
+      [1913 Webster]
+
+   3. To meet one's eye; to be found or met with; to present
+      itself; to appear.
+      [1913 Webster]
+
+            In Scripture, though the word heir occur, yet there
+            is no such thing as ``heir'' in our author's sense.
+                                                  --Locke.
+      [1913 Webster]
+
+   4. To happen; to take place; as, I will write if opportunity
+      occurs.
+      [1913 Webster]
+
+   5. To come to the mind; to arise in the mind; to suggest
+      itself; to be presented to the imagination or memory; --
+      of an idea or thought; as, it never occurred to me to call
+      John to ask.
+      [1913 Webster +PJC]
+
+            There doth not occur to me any use of this
+            experiment for profit.                --Bacon.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>occurred</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>occur
+     v 1: come to pass; "What is happening?"; "The meeting took place
+          off without an incidence"; "Nothing occurred that seemed
+          important" [syn: {happen}, {hap}, {go on}, {pass off}, {pass},
+           {fall out}, {come about}, {take place}]
+     2: come to one's mind; suggest itself; "It occurred to me that
+        we should hire another secretary"; "A great idea then came
+        to her" [syn: {come}]
+     3: to be found to exist; "sexism occurs in many workplaces";
+        "precious stones occur in a large area in Brazil"
+     [also: {occurring}, {occurred}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>occurred</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>occurred
+     See {occur}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

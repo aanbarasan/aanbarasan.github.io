@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>acrylic</Word>
+  <Definitions>
+    <Definition>
+      <Word>acrylic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Acrylic \A*cryl"ic\, a.
+   1. (Chem.) Of or containing acryl, the hypothetical radical
+      of which acrolein is the hydride; as, acrylic acid. The
+      characteristic residue in an acrylic compound is the
+      carbonyl group attached directly to an ethylenic carbon.
+      [1913 Webster +PJC]
+
+   2. same as {acrylic resin}.
+      [PJC]
+
+   3. same as {acrylic fiber}.
+      [PJC]
+
+   4. a paint in which the pigment is suspended in a solution of
+      an {acrylic resin}, which dries to a hard film on exposure
+      to air.
+      [PJC]
+
+   5. a painting made using an acrylic paint.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>acrylic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>acrylic
+     n 1: polymerized from acrylonitrile [syn: {acrylic fiber}]
+     2: a glassy thermoplastic; can be cast and molded or used in
+        coatings and adhesives [syn: {acrylic resin}, {acrylate
+        resin}]
+     3: used especially by artists [syn: {acrylic paint}]
+     4: a synthetic fabric
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>honestly</Word>
+  <Definitions>
+    <Definition>
+      <Word>honestly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Honestly \Hon"est*ly\, adv.
+   1. Honorably; becomingly; decently. [Obs.] --Chaucer.
+      [1913 Webster]
+
+   2. In an honest manner; as, a contract honestly made; to live
+      honestly; to speak honestly. --Shak.
+      [1913 Webster]
+
+   {To come honestly by}.
+      (a) To get honestly.
+      (b) A circumlocution for to inherit; as, to come honestly
+          by a feature, a mental trait, a peculiarity.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>honestly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>honestly
+     adv 1: (used as intensives reflecting the speaker's attitude) it is
+            sincerely the case that; "honestly, I don't believe
+            it"; "candidly, I think she doesn't have a
+            conscience"; "frankly, my dear, I don't give a damn"
+            [syn: {candidly}, {frankly}]
+     2: in an honest manner; "in he can't get it honestly, he is
+        willing to steal it"; "was known for dealing aboveboard in
+        everything" [syn: {aboveboard}] [ant: {dishonestly}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

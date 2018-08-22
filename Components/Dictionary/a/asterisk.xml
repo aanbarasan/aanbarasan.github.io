@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>asterisk</Word>
+  <Definitions>
+    <Definition>
+      <Word>asterisk</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>asterisk
+     
+        &lt;character&gt; "*" {ASCII} code 42.  Common names include: star;
+        {INTERCAL}: {splat}; {ITU-T}: asterisk.  Rare: {wild card};
+        gear; dingle; mult; spider; aster; times; twinkle; {glob};
+        {Nathan Hale}.  Commonly used as the multiplication operator
+        and as the {Kleene star}.
+     
+        (2000-07-26)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>asterisk</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Asterisk \As"ter*isk\, n. [L. asteriscus, Gr. ?, dim. of 'asth`r
+   star. See {Aster}.]
+   The figure of a star, thus, ?, used in printing and writing
+   as a reference to a passage or note in the margin, to supply
+   the omission of letters or words, or to mark a word or phrase
+   as having a special character.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>asterisk</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>asterisk
+     n : a star-shaped character * used in printing [syn: {star}]
+     v : mark with an asterisk; "Linguists star unacceptable
+         sentences" [syn: {star}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

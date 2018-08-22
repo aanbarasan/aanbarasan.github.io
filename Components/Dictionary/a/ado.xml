@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ado</Word>
+  <Definitions>
+    <Definition>
+      <Word>ado</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>ADO
+     
+        {ActiveX Data Objects}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ado</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ado \A*do"\ ([.a]*d[=oo]"), (1) v. inf., (2) n. [OE. at do,
+   northern form for to do. Cf. {Affair}.]
+   1. To do; in doing; as, there is nothing ado. ``What is here
+      ado?'' --J. Newton.
+      [1913 Webster]
+
+   2. Doing; trouble; difficulty; troublesome business; fuss;
+      bustle; as, to make a great ado about trifles.
+      [1913 Webster]
+
+            With much ado, he partly kept awake.  --Dryden.
+      [1913 Webster]
+
+            Let's follow to see the end of this ado. --Shak.
+      [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ado</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>ADO
+     ActiveX Data Objects (ASP, ODBC, MS, IIS)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ado</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ado
+     n : a rapid bustling commotion [syn: {bustle}, {hustle}, {flurry},
+          {fuss}, {stir}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

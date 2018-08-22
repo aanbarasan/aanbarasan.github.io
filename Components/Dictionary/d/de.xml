@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>de</Word>
+  <Definitions>
+    <Definition>
+      <Word>de</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>de
+     
+        &lt;networking&gt; The {country code} for Germany.
+     
+        (1999-01-27)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>de</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>De- \De-\
+   A prefix from Latin de down, from, away; as in debark,
+   decline, decease, deduct, decamp. In words from the French it
+   is equivalent to Latin dis- apart, away; or sometimes to de.
+   Cf. {Dis-}. It is negative and opposite in derange, deform,
+   destroy, etc. It is intensive in deprave, despoil, declare,
+   desolate, etc.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>de</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>DE
+     DatenElement (HBCI)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>de</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>DE
+     n : a Mid-Atlantic state; one of the original 13 colonies [syn:
+         {Delaware}, {Diamond State}, {First State}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

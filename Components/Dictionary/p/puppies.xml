@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>puppies</Word>
+  <Definitions>
+    <Definition>
+      <Word>puppies</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Puppy \Pup"py\, n.; pl. {Puppies}. [F. poup['e]e doll, puppet.
+   See {Puppet}, and cf. {Pup}, n.]
+   1. (Zo["o]l.) The young of a canine animal, esp. of the
+      common dog; a whelp.
+      [1913 Webster]
+
+   2. A name of contemptuous reproach for a conceited and
+      impertinent person.
+      [1913 Webster]
+
+            I found my place taken by an ill-bred, awkward puppy
+            with a money bag under each arm.      --Addison.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

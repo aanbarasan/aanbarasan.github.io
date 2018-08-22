@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>record</Word>
+  <Definitions>
+    <Definition>
+      <Word>record</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>record
+     
+        &lt;data, database, programming&gt; An {ordered set} of {fields},
+        usually stored contiguously.  The term is used with similar
+        meaning in several different contexts.  In a file, a "record"
+        probably has some fixed length, in contrast to a "line" which
+        may have any length and is terminated by some {End Of Line}
+        sequence).  A {database} record is also called a "row".  In a
+        {spreadsheet} it is always called a "row".  Some programming
+        languages use the term to mean a type composed of fields of
+        several other types ({C} calls this a "{struct}").
+     
+        In all these cases, a record represents an entity with certain
+        field values.
+     
+        Fields may be of a fixed width ({bit}s or {characters}) or
+        they may be separated by a {delimiter} character, often
+        {comma} ({CSV}) or {HT} ({TSV}).
+     
+        In a database the list of values of a given field from all
+        records is called a column.
+     
+        (2002-03-22)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>record</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Record \Re*cord"\, v. i.
+   1. To reflect; to ponder. [Obs.]
+      [1913 Webster]
+
+            Praying all the way, and recording upon the words
+            which he before had read.             --Fuller.
+      [1913 Webster]
+
+   2. To sing or repeat a tune. [Obs.] --Shak.
+      [1913 Webster]
+
+            Whether the birds or she recorded best. --W. Browne.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>record</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Record \Re*cord"\ (r?*k?rd"), v. t. [imp. &amp; p. p. {Recorded}; p.
+   pr. &amp; vb. n. {Recording}.] [OE. recorden to repeat, remind,
+   F. recorder, fr. L. recordari to remember; pref. re- re- +
+   cor, cordis, the heart or mind. See {Cordial}, {Heart}.]
+   1. To recall to mind; to recollect; to remember; to meditate.
+      [Obs.] ``I it you record.'' --Chaucer.
+      [1913 Webster]
+
+   2. To repeat; to recite; to sing or play. [Obs.]
+      [1913 Webster]
+
+            They longed to see the day, to hear the lark
+            Record her hymns, and chant her carols blest.
+                                                  --Fairfax.
+      [1913 Webster]
+
+   3. To preserve the memory of, by committing to writing, to
+      printing, to inscription, or the like; to make note of; to
+      write or enter in a book or on parchment, for the purpose
+      of preserving authentic evidence of; to register; to
+      enroll; as, to record the proceedings of a court; to
+      record historical events.
+      [1913 Webster]
+
+            Those things that are recorded of him . . . are
+            written in the chronicles of the kings. --1 Esd. i.
+                                                  42.
+      [1913 Webster]
+
+   {To record a deed}, {mortgage}, {lease}, etc., to have a copy
+      of the same entered in the records of the office
+      designated by law, for the information of the public.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>record</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Record \Rec"ord\ (r[e^]k"[~e]rd), n. [OF. recort, record,
+   remembrance, attestation, record. See {Record}, v. t.]
+   1. A writing by which some act or event, or a number of acts
+      or events, is recorded; a register; as, a record of the
+      acts of the Hebrew kings; a record of the variations of
+      temperature during a certain time; a family record.
+      [1913 Webster]
+
+   2. Especially:
+      (a) An official contemporaneous writing by which the acts
+          of some public body, or public officer, are recorded;
+          as, a record of city ordinances; the records of the
+          receiver of taxes.
+      (b) An authentic official copy of a document which has
+          been entered in a book, or deposited in the keeping of
+          some officer designated by law.
+      (c) An official contemporaneous memorandum stating the
+          proceedings of a court of justice; a judicial record.
+      (d) The various legal papers used in a case, together with
+          memoranda of the proceedings of the court; as, it is
+          not permissible to allege facts not in the record.
+          [1913 Webster]
+
+   3. Testimony; witness; attestation.
+      [1913 Webster]
+
+            John bare record, saying.             --John i. 32.
+      [1913 Webster]
+
+   4. That which serves to perpetuate a knowledge of acts or
+      events; a monument; a memorial.
+      [1913 Webster]
+
+   5. That which has been, or might be, recorded; the known
+      facts in the course, progress, or duration of anything, as
+      in the life of a public man; as, a politician with a good
+      or a bad record.
+      [1913 Webster]
+
+   6. That which has been publicly achieved in any kind of
+      competitive sport as recorded in some authoritative
+      manner, as the time made by a winning horse in a race.
+      [1913 Webster]
+
+   {Court of record} (pron. r?*k?rd" in Eng.), a court whose
+      acts and judicial proceedings are written on parchment or
+      in books for a perpetual memorial.
+
+   {Debt of record}, a debt which appears to be due by the
+      evidence of a court of record, as upon a judgment or a
+      cognizance.
+
+   {Trial by record}, a trial which is had when a matter of
+      record is pleaded, and the opposite party pleads that
+      there is no such record. In this case the trial is by
+      inspection of the record itself, no other evidence being
+      admissible. --Blackstone.
+
+   {To beat the record}, or {To break the record} (Sporting), to
+      surpass any performance of like kind as authoritatively
+      recorded; as, to break the record in a walking match.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>record</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>record
+     n 1: anything (such as a document or a phonograph record or a
+          photograph) providing permanent evidence of or
+          information about past events; "the film provided a
+          valuable record of stage techniques"
+     2: the number of wins versus losses and ties a team has had;
+        "at 9-0 they have the best record in their league"
+     3: an extreme attainment; the best (or worst) performance ever
+        attested (as in a sport); "he tied the Olympic record";
+        "coffee production last year broke all previous records";
+        "Chicago set the homicide record"
+     4: sound recording consisting of a disc with continuous
+        grooves; formerly used to reproduce music by rotating
+        while a phonograph needle tracked in the grooves [syn: {phonograph
+        record}, {phonograph recording}, {disk}, {disc}, {platter}]
+     5: the sum of recognized accomplishments; "the lawyer has a
+        good record"; "the track record shows that he will be a
+        good president" [syn: {track record}]
+     6: a list of crimes for which an accused person has been
+        previously convicted; "he ruled that the criminal record
+        of the defendant could not be disclosed to the court";
+        "the prostitute had a record a mile long" [syn: {criminal
+        record}]
+     7: a compilation of the known facts regarding something or
+        someone; "Al Smith used to say, `Let's look at the
+        record'"; "his name is in all the recordbooks" [syn: {record
+        book}, {book}]
+     8: a document that can serve as legal evidence of a
+        transaction; "they could find no record of the purchase"
+     v 1: make a record of; set down in permanent form [syn: {enter},
+          {put down}]
+     2: register electronically; "They recorded her singing" [syn: {tape}]
+        [ant: {erase}]
+     3: indicate a certain reading; of gauges and instruments; "The
+        thermometer showed thirteen degrees below zero"; "The
+        gauge read `empty'" [syn: {read}, {register}, {show}]
+     4: be aware of; "Did you register any change when I pressed the
+        button?" [syn: {register}]
+     5: be or provide a memorial to a person or an event; "This
+        sculpture commemorates the victims of the concentration
+        camps"; "We memorialized the Dead" [syn: {commemorate}, {memorialize},
+         {memorialise}, {immortalize}, {immortalise}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

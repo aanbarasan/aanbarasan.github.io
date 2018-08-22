@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>confidentiality</Word>
+  <Definitions>
+    <Definition>
+      <Word>confidentiality</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>confidentiality \confidentiality\ n.
+   the state or attribute of being secret; privacy; as, you must
+   respect the confidentiality of your client's communications.
+   [WordNet 1.5 +PJC]
+
+   2. discretion in keeping secret information.
+      [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>confidentiality</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>confidentiality
+     n 1: the state of being secret; "you must respect the
+          confidentiality of your client's communications"
+     2: discretion in keeping secret information
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

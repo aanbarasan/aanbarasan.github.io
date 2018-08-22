@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bandwidth</Word>
+  <Definitions>
+    <Definition>
+      <Word>bandwidth</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>bandwidth
+     
+        &lt;communications&gt; The difference between the highest and lowest
+        frequencies of a transmission channel (the width of its
+        allocated band of frequencies).
+     
+        The term is often used erroneously to mean {data rate} or
+        capacity - the amount of {data} that is, or can be, sent
+        through a given communications circuit per second.
+     
+        [How is data capacity related to bandwidth?]
+     
+        [{Jargon File}]
+     
+        (2001-04-24)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bandwidth</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>bandwidth \band"width`\ n.
+   The maximum rate of information transfer (measured in
+   bits/second) that can be carried by a communication channel.
+   ``The bandwidth of an analog telephone line is less than 100
+   kilobits per second.''
+   [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bandwidth</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>bandwidth n. 1. [common] Used by hackers (in a generalization of its
+   technical meaning) as the volume of information per unit time that a
+   computer, person, or transmission medium can handle. "Those are amazing
+   graphics, but I missed some of the detail -- not enough bandwidth, I
+   guess." Compare {low-bandwidth}; see also {brainwidth}. This generalized
+   usage began to go mainstream after the Internet population explosion of
+   1993-1994. 2. Attention span. 3. On {Usenet}, a measure of network
+   capacity that is often wasted by people complaining about how items
+   posted by others are a waste of bandwidth.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bandwidth</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bandwidth
+     n : a data transmission rate; the maximum amount of information
+         (bits/second) that can be transmitted along a channel
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

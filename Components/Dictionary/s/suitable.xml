@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>suitable</Word>
+  <Definitions>
+    <Definition>
+      <Word>suitable</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Suitable \Suit"a*ble\, a.
+   Capable of suiting; fitting; accordant; proper; becoming;
+   agreeable; adapted; as, ornaments suitable to one's station;
+   language suitable for the subject. -- {Suit"a*ble*ness}, n.
+   -- {Suit"a*bly}, adv.
+   [1913 Webster]
+
+   Syn: Proper; fitting; becoming; accordant; agreeable;
+        competent; correspondent; compatible; consonant;
+        congruous; consistent.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>suitable</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>suitable
+     adj 1: suitable for the desired purpose; "Is this a suitable dress
+            for the office?"
+     2: meant or adapted for an occasion or use; "a tractor suitable
+        (or fit) for heavy duty"; "not an appropriate (or fit)
+        time for flippancy" [syn: {appropriate}, {suited}]
+     3: appropriate for a condition or occasion; "everything in its
+        proper place"; "the right man for the job"; "she is not
+        suitable for the position" [syn: {proper}, {right}]
+     4: worthy of being chosen especially as a spouse; "the parents
+        found the girl suitable for their son" [syn: {desirable},
+        {worthy}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

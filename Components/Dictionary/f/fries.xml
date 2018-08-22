@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fries</Word>
+  <Definitions>
+    <Definition>
+      <Word>fries</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Fries, VA (town, FIPS 29920)
+  Location: 36.71541 N, 80.97605 W
+  Population (1990): 690 (328 housing units)
+  Area: 1.7 sq km (land), 0.4 sq km (water)
+  Zip code(s): 24330
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fries</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fries
+     n : strips of potato fried in deep fat [syn: {french fries}, {french-fried
+         potatoes}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

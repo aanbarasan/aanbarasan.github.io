@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>community</Word>
+  <Definitions>
+    <Definition>
+      <Word>community</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Community, VA
+  Zip code(s): 22306
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>community</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Community \Com*mu"ni*ty\, n.; pl. {Communities}. [L. communitas:
+   cf. OF. communit['e]. Cf. {Commonalty}, and see {Common}.]
+   1. Common possession or enjoyment; participation; as, a
+      community of goods.
+      [1913 Webster]
+
+            The original community of all things. --Locke.
+      [1913 Webster]
+
+            An unreserved community of thought and feeling. --W.
+                                                  Irving.
+      [1913 Webster]
+
+   2. A body of people having common rights, privileges, or
+      interests, or living in the same place under the same laws
+      and regulations; as, a community of monks. Hence a number
+      of animals living in a common home or with some apparent
+      association of interests.
+      [1913 Webster]
+
+            Creatures that in communities exist.  --Wordsworth.
+      [1913 Webster]
+
+   3. Society at large; a commonwealth or state; a body politic;
+      the public, or people in general.
+      [1913 Webster]
+
+            Burdens upon the poorer classes of the community.
+                                                  --Hallam.
+      [1913 Webster]
+
+   Note: In this sense, the term should be used with the
+         definite article; as, the interests of the community.
+         [1913 Webster]
+
+   4. Common character; likeness. [R.]
+      [1913 Webster]
+
+            The essential community of nature between organic
+            growth and inorganic growth.          --H. Spencer.
+      [1913 Webster]
+
+   5. Commonness; frequency. [Obs.]
+      [1913 Webster]
+
+            Eyes . . . sick and blunted with community. --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>community</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>community
+     n 1: a group of people living in a particular local area; "the
+          team is drawn from all parts of the community"
+     2: a group of people having ethnic or cultural or religious
+        characteristics in common; "the Christian community of the
+        apostolic age"; "he was well known throughout the Catholic
+        community"
+     3: common ownership; "they shared a community of possessions"
+     4: a group of nations having common interests; "they hoped to
+        join the NATO community"
+     5: the body of people in a learned occupation; "the news spread
+        rapidly through the medical community" [syn: {profession}]
+     6: agreement as to goals; "the preachers and the bootleggers
+        found they had a community of interests" [syn: {community
+        of interests}]
+     7: a district where people live; occupied primarily by private
+        residences [syn: {residential district}, {residential area}]
+     8: (ecology) a group of interdependent organisms inhabiting the
+        same region and interacting with each other [syn: {biotic
+        community}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

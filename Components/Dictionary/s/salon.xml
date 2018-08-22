@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>salon</Word>
+  <Definitions>
+    <Definition>
+      <Word>salon</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Salon \Sa`lon"\, n. [F. See {Saloon}.]
+   1. An apartment for the reception of company; hence, in the
+      plural, fashionable parties; circles of fashionable
+      society.
+      [1913 Webster]
+
+   2. An apartment for the reception and exhibition of works of
+      art; hence, an annual exhibition of paintings, sculptures,
+      etc., held in Paris by the Society of French Artists; --
+      sometimes called the {Old Salon}.
+
+   {New Salon} is a popular name for an annual exhibition of
+      paintings, sculptures, etc., held in Paris at the Champs
+      de Mars, by the Soci['e]t['e] Nationale des Beaux-Arts
+      (National Society of Fine Arts), a body of artists who, in
+      1890, seceded from the Soci['e]t['e] des Artistes
+      Fran[,c]ais (Society of French Artists).
+      [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>salon</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>salon
+     n 1: gallery where works of art can be displayed
+     2: a shop where hairdressers and beauticians work [syn: {beauty
+        salon}, {beauty parlor}, {beauty parlour}, {beauty shop}]
+     3: elegant sitting room where guests are received
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>happen</Word>
+  <Definitions>
+    <Definition>
+      <Word>happen</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Happen \Hap"pen\ (h[a^]p"p'n), v. i. [imp. &amp; p. p. {Happened}
+   (-p'nd); p. pr. &amp; vb. n. {Happening}.] [OE. happenen, hapnen.
+   See {Hap} to happen.]
+   1. To come by chance; to come without previous expectation;
+      to fall out.
+      [1913 Webster]
+
+            There shall no evil happen to the just. --Prov. xii.
+                                                  21.
+      [1913 Webster]
+
+   2. To take place; to occur.
+      [1913 Webster]
+
+            All these things which had happened.  --Luke xxiv.
+                                                  14.
+      [1913 Webster]
+
+   {To happen on}, to meet with; to fall or light upon. ``I have
+      happened on some other accounts.'' --Graunt.
+
+   {To happen in}, to make a casual call. [Colloq.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>happen</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>happen
+     v 1: come to pass; "What is happening?"; "The meeting took place
+          off without an incidence"; "Nothing occurred that seemed
+          important" [syn: {hap}, {go on}, {pass off}, {occur}, {pass},
+           {fall out}, {come about}, {take place}]
+     2: happen, occur, or be the case in the course of events or by
+        chance; "It happens that today is my birthday"; "These
+        things befell" (Santayana) [syn: {befall}, {bechance}]
+     3: chance to be or do something, without intention or
+        causation; "I happen to have just what you need!"
+     4: come into being; become reality; "Her dream really
+        materialized" [syn: {materialize}, {materialise}] [ant: {dematerialize},
+         {dematerialize}]
+     5: come upon, as if by accident; meet with; "We find this idea
+        in Plato"; "I happened upon the most wonderful bakery not
+        very far from here"; "She chanced upon an interesting book
+        in the bookstore the other day" [syn: {find}, {chance}, {bump},
+         {encounter}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

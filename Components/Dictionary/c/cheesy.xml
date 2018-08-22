@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cheesy</Word>
+  <Definitions>
+    <Definition>
+      <Word>cheesy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cheesy \Chees"y\, a.
+   Having the nature, qualities, taste, form, consistency, or
+   appearance of cheese.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cheesy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cheesy
+     adj : of very poor quality [syn: {bum}, {cheap}, {chintzy}, {crummy},
+            {punk}, {sleazy}, {tinny}]
+     [also: {cheesiest}, {cheesier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

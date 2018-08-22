@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>commander</Word>
+  <Definitions>
+    <Definition>
+      <Word>commander</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Commander \Com*mand"er\, n. [Cf. F. commandeur. Cf. {Commodore},
+   {Commender}.]
+   1. A chief; one who has supreme authority; a leader; the
+      chief officer of an army, or of any division of it.
+      [1913 Webster]
+
+            A leader and commander to the people. --Is. lv. 4.
+      [1913 Webster]
+
+   2. (Navy) An officer who ranks next below a captain, --
+      ranking with a lieutenant colonel in the army.
+      [1913 Webster]
+
+   3. The chief officer of a commandery.
+      [1913 Webster]
+
+   4. A heavy beetle or wooden mallet, used in paving, in sail
+      lofts, etc.
+      [1913 Webster]
+
+   {Commander in chief}, the military title of the officer who
+      has supreme command of the land or naval forces or the
+      united forces of a nation or state; a generalissimo. The
+      President is commander in chief of the army and navy of
+      the United States.
+
+   Syn: See {Chief}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>commander</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>commander
+     n 1: an officer in command of a military unit [syn: {commanding
+          officer}, {commandant}]
+     2: someone in an official position of authority who can command
+        or control others
+     3: a commissioned naval officer who ranks above a lieutenant
+        commander and below a captain
+     4: an officer in the airforce [syn: {air force officer}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

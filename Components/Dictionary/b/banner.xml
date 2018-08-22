@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>banner</Word>
+  <Definitions>
+    <Definition>
+      <Word>banner</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Banner
+   (1.) The flag or banner of the larger kind, serving for three
+   tribes marching together. These standards, of which there were
+   four, were worked with embroidery and beautifully ornamented
+   (Num. 1:52; 2:2, 3, 10, 18, 25; Cant. 2:4; 6:4, 10).
+   
+     (2.) The flag borne by each separate tribe, of a smaller form.
+   Probably it bore on it the name of the tribe to which it
+   belonged, or some distinguishing device (Num. 2:2,34).
+   
+     (3.) A lofty signal-flag, not carried about, but stationary.
+   It was usually erected on a mountain or other lofty place. As
+   soon as it was seen the war-trumpets were blown (Ps. 60:4; Isa.
+   5:26; 11:12; 13:2; 18:3; 30:17; Jer. 4:6 21; Ezek. 27:7).
+   
+     (4.) A "sign of fire" (Jer. 6:1) was sometimes used as a
+   signal.
+   
+     The banners and ensigns of the Roman army had idolatrous
+   images upon them, and hence they are called the "abomination of
+   desolation" (q.v.). The principal Roman standard, however, was
+   an eagle. (See Matt. 24:28; Luke 17:37, where the Jewish nation
+   is compared to a dead body, which the eagles gather together to
+   devour.)
+   
+     God's setting up or giving a banner (Ps. 20:5; 60:4; Cant.
+   2:4) imports his presence and protection and aid extended to his
+   people.
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>banner</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>banner
+     
+        1. The title page added to printouts by most {print spoolers}.
+        Typically includes user or account ID information in very
+        large character-graphics capitals.  Also called a "burst
+        page", because it indicates where to burst (tear apart)
+        fanfold paper to separate one user's printout from the next.
+     
+        2. A similar printout generated (typically on multiple pages
+        of fan-fold paper) from user-specified text, e.g. by a program
+        such as {Unix}'s "banner".
+     
+        3. {splash screen}.
+     
+        [{Jargon File}]
+     
+        (1994-11-28)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>banner</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Banner, IL (village, FIPS 3571)
+  Location: 40.51469 N, 89.91043 W
+  Population (1990): 160 (74 housing units)
+  Area: 0.9 sq km (land), 0.0 sq km (water)
+Banner, KY
+  Zip code(s): 41603
+Banner, MS
+  Zip code(s): 38913
+Banner, WY
+  Zip code(s): 82832
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>banner</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Banner \Ban"ner\ (b[a^]n"n[~e]r), n. [OE. banere, OF. baniere,
+   F. banni[`e]re, bandi[`e]re, fr. LL. baneria, banderia, fr.
+   bandum banner, fr. OHG. bant band, strip of cloth; cf. bindan
+   to bind, Goth. bandwa, bandwo, a sign. See {Band}, n.]
+   1. A kind of flag attached to a spear or pike by a
+      crosspiece, and used by a chief as his standard in battle.
+      [1913 Webster]
+
+            Hang out our banners on the outward walls. --Shak.
+      [1913 Webster]
+
+   2. A large piece of silk or other cloth, with a device or
+      motto, extended on a crosspiece, and borne in a
+      procession, or suspended in some conspicuous place.
+      [1913 Webster]
+
+   3. Any flag or standard; as, the star-spangled banner.
+      [1913 Webster]
+
+   {Banner fish} (Zo["o]l.), a large fish of the genus
+      {Histiophorus}, of the Swordfish family, having a broad
+      bannerlike dorsal fin; the sailfish. One species
+      ({Histiophorus Americanus}) inhabits the North Atlantic.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>banner</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>banner n. 1. The title page added to printouts by most print spoolers
+   (see {spool}). Typically includes user or account ID information in very
+   large character-graphics capitals. Also called a `burst page', because
+   it indicates where to burst (tear apart) fanfold paper to separate one
+   user's printout from the next. 2. A similar printout generated
+   (typically on multiple pages of fan-fold paper) from user-specified
+   text, e.g., by a program such as Unix's `banner({1,6})'. 3. On
+   interactive software, a first screen containing a logo and/or author
+   credits and/or a copyright notice. This is probably now the commonest
+   sense.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>banner</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>banner
+     adj : unusually good; outstanding; "a banner year for the company"
+     n 1: long strip of cloth for decoration or advertising [syn: {streamer}]
+     2: a newspaper headline that runs across the full page [syn: {streamer}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

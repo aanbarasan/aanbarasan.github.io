@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>th</Word>
+  <Definitions>
+    <Definition>
+      <Word>th</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>th
+     
+        &lt;networking&gt; The {country code} for Thailand.
+     
+        (1999-01-27)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>th</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Th \Th\
+   In Old English, the article the, when the following word
+   began with a vowel, was often written with elision as if a
+   part of the word. Thus in Chaucer, the forms thabsence,
+   tharray, thegle, thend, thingot, etc., are found for the
+   absence, the array, the eagle, the end, etc.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>th</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Th
+     n 1: the fifth day of the week; the fourth working day [syn: {Thursday}]
+     2: a soft silvery-white tetravalent radioactive metallic
+        element; isotope 232 is used as a power source in nuclear
+        reactors; occurs in thorite and in monazite sands [syn: {thorium},
+         {atomic number 90}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

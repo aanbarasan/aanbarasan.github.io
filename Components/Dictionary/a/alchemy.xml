@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>alchemy</Word>
+  <Definitions>
+    <Definition>
+      <Word>alchemy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Alchemy \Al"che*my\, n. [OF. alkemie, arquemie, F. alchimie, Ar.
+   al-k[=i]m[=i]a, fr. late Gr. ?, for ?, a mingling, infusion,
+   ? juice, liquid, especially as extracted from plants, fr. ?
+   to pour; for chemistry was originally the art of extracting
+   the juices from plants for medicinal purposes. Cf. Sp.
+   alquimia, It. alchimia. Gr. ? is prob. akin to L. fundere to
+   pour, Goth. guitan, AS. ge['o]tan, to pour, and so to E.
+   fuse. See {Fuse}, and cf. {Chemistry}.]
+   1. An imaginary art which aimed to transmute the baser metals
+      into gold, to find the panacea, or universal remedy for
+      diseases, etc. It led the way to modern chemistry.
+      [1913 Webster]
+
+   2. A mixed metal composed mainly of brass, formerly used for
+      various utensils; hence, a trumpet. [Obs.]
+      [1913 Webster]
+
+            Put to their mouths the sounding alchemy. --Milton.
+      [1913 Webster]
+
+   3. Miraculous power of transmuting something common into
+      something precious.
+      [1913 Webster]
+
+            Kissing with golden face the meadows green,
+            Gilding pale streams with heavenly alchemy. --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>alchemy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>alchemy
+     n 1: a pseudoscientific forerunner of chemistry in medieval times
+     2: the way two individuals relate to each other; "their
+        chemistry was wrong from the beginning -- they hated each
+        other"; "a mysterious alchemy brought them together" [syn:
+         {chemistry}, {interpersonal chemistry}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

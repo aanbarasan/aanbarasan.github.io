@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fun</Word>
+  <Definitions>
+    <Definition>
+      <Word>fun</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Fun
+     
+        A {typed lambda-calculus}, similar to {SOL}[2].  "On
+        Understanding Types, Data Abstractions and Polymorphism",
+        L. Cardelli et al, ACM Comp Surveys 17(4) (Dec 1985).
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fun</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fun \Fun\, n. [Perh. of Celtic origin; cf. Ir. &amp; Gael. fonn
+   pleasure.]
+   Sport; merriment; frolicsome amusement. ``Oddity, frolic, and
+   fun.'' --Goldsmith.
+   [1913 Webster]
+
+   {To make fun of}, to hold up to, or turn into, ridicule.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fun</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>FUN
+     Flow Update Notification [message] (LFAP)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fun</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fun
+     adj : providing enjoyment; pleasantly entertaining; "an amusing
+           speaker"; "a diverting story"; "a fun thing to do"
+           [syn: {amusing}, {amusive}, {diverting}, {fun(a)}]
+     n 1: activities that are enjoyable or amusing; "I do it for the
+          fun of it"; "he is fun to have around" [syn: {merriment},
+           {playfulness}]
+     2: verbal wit (often at another's expense but not to be taken
+        seriously); "he became a figure of fun" [syn: {play}, {sport}]
+     3: violent and excited activity; "she asked for money and then
+        the fun began"; "they began to fight like fun"
+     4: a disposition to find (or make) causes for amusement; "her
+        playfulness surprised me"; "he was fun to be with" [syn: {playfulness}]
+     [also: {funning}, {funned}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>condescension</Word>
+  <Definitions>
+    <Definition>
+      <Word>condescension</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Condescension \Con`de*scen"sion\, n. [L. condescensio.]
+   The act of condescending; voluntary descent from one's rank
+   or dignity in intercourse with an inferior; courtesy toward
+   inferiors.
+   [1913 Webster]
+
+         It forbids pride . . . and commands humility, modesty,
+         and condescension to others.             --Tillotson.
+   [1913 Webster]
+
+         Such a dignity and condescension . . . as are suitable
+         to a superior nature.                    --Addison.
+
+   Syn: Complaisance; courtesy; affability.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>condescension</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>condescension
+     n 1: the trait of displaying arrogance by patronizing those
+          considered inferior [syn: {superciliousness}, {disdainfulness}]
+     2: a communication that indicates lack of respect by
+        patronizing the recipient [syn: {disdain}, {patronage}]
+     3: affability to your inferiors and temporary disregard for
+        differences of position or rank; "the queen's
+        condescension was intended to make us feel comfortable"
+        [syn: {condescendingness}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

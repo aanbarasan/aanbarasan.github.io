@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>competing</Word>
+  <Definitions>
+    <Definition>
+      <Word>competing</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Compete \Com*pete"\, v. i. [imp. &amp; p. p. {Competed}; p. pr. &amp;
+   vb. n. {Competing}.] [L. completere, competitum; com- +
+   petere to seek. See {Petition}.]
+   To contend emulously; to seek or strive for the same thing,
+   position, or reward for which another is striving; to contend
+   in rivalry, as for a prize or in business; as, tradesmen
+   compete with one another.
+   [1913 Webster]
+
+         The rival statesmen, with eyes fixed on America, were
+         all the while competing for European alliances.
+                                                  --Bancroft.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>competing</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>competing
+     adj : being in competition; "competing businesses" [syn: {competing(a)}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

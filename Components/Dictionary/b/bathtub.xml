@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bathtub</Word>
+  <Definitions>
+    <Definition>
+      <Word>bathtub</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>bathtub \bath"tub\ n.
+   A relatively large tub used to take a bath, usually a
+   permanent fixture in a bathroom; it is an open container that
+   is filled with water, in which a person immerses himself for
+   the purpose of washing the body.
+
+   Syn: bath, tub.
+        [WordNet 1.5 +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bathtub</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bathtub
+     n : a relatively large open container that you fill with water
+         and use to wash the body [syn: {bathing tub}, {bath}, {tub}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

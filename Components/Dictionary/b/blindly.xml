@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>blindly</Word>
+  <Definitions>
+    <Definition>
+      <Word>blindly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Blindly \Blind"ly\, adv.
+   Without sight, discernment, or understanding; without
+   thought, investigation, knowledge, or purpose of one's own.
+   [1913 Webster]
+
+         By his imperious mistress blindly led.   --Dryden.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>blindly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>blindly
+     adv 1: without seeing or looking; "he felt around his desk blindly"
+     2: without preparation or reflection; without a rational basis;
+        "they bought the car blindly"; "he picked a wife blindly"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

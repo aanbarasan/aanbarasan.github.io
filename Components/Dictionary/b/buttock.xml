@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>buttock</Word>
+  <Definitions>
+    <Definition>
+      <Word>buttock</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Buttock \But"tock\, n. [From {Butt} an end.]
+   1. The part at the back of the hip, which, in man, forms one
+      of the rounded protuberances on which he sits; the rump.
+      Often used in the plural -- see {buttocks}.
+
+   Syn: cheek.
+        [1913 Webster]
+
+   2. (Naut.) The convexity of a ship behind, under the stern.
+      --Mar. Dict.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>buttock</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>buttock
+     n : either of the two large fleshy masses of muscular tissue
+         that form the human rump [syn: {cheek}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

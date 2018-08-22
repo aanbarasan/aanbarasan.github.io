@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>doom</Word>
+  <Definitions>
+    <Definition>
+      <Word>doom</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>DOOM
+     
+        &lt;games&gt; A simulated 3D moster-hunting action game for {IBM
+        PC}s, created and published by {id Software}.  The original
+        press release was dated January 1993.  A cut-down shareware
+        version v1.0 was released on 10 December 1993 and again with
+        some bug-fixes, as v1.4 in June 1994.
+     
+        DOOM is similar to Wolfenstein 3d (id Software, Apogee) but
+        has better {texture mapping}; walls can be at any angle, of
+        any thickness and have windows; lighting can fade into the
+        distance or come from point sources; floors and ceilings can
+        be of any height; many surfaces are animated; up to four
+        players can play over a network or two by serial link; it has
+        a high {frame rate} (comparable to TV on a {486}/33); DOOM
+        isn't just a collection of connected closed rooms like
+        Wolfenstein but sounds can travel anywhere and alert monsters
+        of your approach.
+     
+        The shareware version is available from these sites:
+        {Cactus (ftp://cactus.org/pub/IHHD/multi-player/)},
+        {Manitoba (ftp://ftp.cc.umanitoba.ca/pub/doom/)},
+        {UK (ftp://ftp.demon.co.uk/pub/ibmpc/games/id/)},
+        {South Africa (ftp://ftp.sun.ac.za/pub/msdos/games/id/)},
+        {UWP ftp (ftp://archive.uwp.edu/pub/msdos/games/id/)},
+        {UWP http (http://archive.uwp.edu/pub/msdos/games/id/)},
+        {Finland (ftp://ftp.funet.fi/pub/msdos/games/id)},
+        {Washington (ftp://wuarchive.wustl.edu/pub/MSDOS_UPLOADS/games/doom)}.
+     
+        A {FAQ} by Hank Leukart: {UWP
+        (ftp://ftp.uwp.edu/pub/msdos/games/id/home-brew/doom)},
+        {Washington
+        (ftp://wuarchive.wustl.edu/pub/MSDOS_UPLOADS/games/doomstuff)}.
+        {FAQ on WWW (http://venom.st.hmc.edu/~tkelly/doomfaq/intro.html)}.
+        {Other links (http://www.gamesdomain.co.uk/descript/doom.html)}.
+     
+        {Usenet} newsgroups: {news:rec.games.computer.doom.announce},
+        {news:rec.games.computer.doom.editing},
+        {news:rec.games.computer.doom.help},
+        {news:rec.games.computer.doom.misc},
+        {news:rec.games.computer.doom.playing}, {news:alt.games.doom},
+        {news:comp.sys.ibm.pc.games.action},
+        {news:comp.sys.ibm.pc.games.announce},
+        {news:comp.sys.ibm.pc.games.misc}.
+     
+        Mailing List: &lt;listserv@cedar.univie.ac.at&gt; ("sub DOOML" in
+        the message body, no subject).
+     
+        Telephone: +44 (1222) 362 361 - the UK's first multi-player
+        DOOM and games server.
+     
+        (1994-12-14)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>doom</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Doom \Doom\, v. t. [imp. &amp; p. p. {Doomed}; p. pr. &amp; vb. n.
+   {Dooming}.]
+   1. To judge; to estimate or determine as a judge. [Obs.]
+      --Milton.
+      [1913 Webster]
+
+   2. To pronounce sentence or judgment on; to condemn; to
+      consign by a decree or sentence; to sentence; as, a
+      criminal doomed to chains or death.
+      [1913 Webster]
+
+            Absolves the just, and dooms the guilty souls.
+                                                  --Dryden.
+      [1913 Webster]
+
+   3. To ordain as penalty; hence, to mulct or fine.
+      [1913 Webster]
+
+            Have I tongue to doom my brother's death? --Shak.
+      [1913 Webster]
+
+   4. To assess a tax upon, by estimate or at discretion. [New
+      England] --J. Pickering.
+      [1913 Webster]
+
+   5. To destine; to fix irrevocably the destiny or fate of; to
+      appoint, as by decree or by fate.
+      [1913 Webster]
+
+            A man of genius . . . doomed to struggle with
+            difficulties.                         --Macaulay.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>doom</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Doom \Doom\ (d[=oo]m), n. [As. d[=o]m; akin to OS. d[=o]m, OHG.
+   tuom, Dan. &amp; Sw. dom, Icel. d[=o]mr, Goth. d[=o]ms, Gr.
+   qe`mis law; fr. the root of E. do, v. t. [root]65. See {Do},
+   v. t., and cf. {Deem}, {-dom}.]
+   1. Judgment; judicial sentence; penal decree; condemnation.
+      [1913 Webster]
+
+            The first dooms of London provide especially the
+            recovery of cattle belonging to the citizens. --J.
+                                                  R. Green.
+      [1913 Webster]
+
+            Now against himself he sounds this doom. --Shak.
+      [1913 Webster]
+
+   2. That to which one is doomed or sentenced; destiny or fate,
+      esp. unhappy destiny; penalty.
+      [1913 Webster]
+
+            Ere Hector meets his doom.            --Pope.
+      [1913 Webster]
+
+            And homely household task shall be her doom.
+                                                  --Dryden.
+      [1913 Webster]
+
+   3. Ruin; death.
+      [1913 Webster]
+
+            This is the day of doom for Bassianus. --Shak.
+      [1913 Webster]
+
+   4. Discriminating opinion or judgment; discrimination;
+      discernment; decision. [Obs.]
+      [1913 Webster]
+
+            And there he learned of things and haps to come,
+            To give foreknowledge true, and certain doom.
+                                                  --Fairfax.
+
+   Syn: Sentence; condemnation; decree; fate; destiny; lot;
+        ruin; destruction.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>doom</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>DOOM
+     Decentralised Object Orientated Machine
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>doom</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>doom
+     n : an unpleasant or disastrous destiny; "everyone was aware of
+         the approaching doom but was helpless to avoid it";
+         "that's unfortunate but it isn't the end of the world"
+         [syn: {doomsday}, {day of reckoning}, {end of the world}]
+     v 1: decree or designate beforehand; "She was destined to become
+          a great pianist" [syn: {destine}, {fate}, {designate}]
+     2: pronounce a sentence on (somebody) in a court of law; "He
+        was condemned to ten years in prison" [syn: {sentence}, {condemn}]
+     3: make certain of the failure or destruction of; "This
+        decision will doom me to lose my position"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

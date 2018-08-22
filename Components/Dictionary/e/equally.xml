@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>equally</Word>
+  <Definitions>
+    <Definition>
+      <Word>equally</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Equally \E"qual*ly\, adv.
+   In an equal manner or degree in equal shares or proportion;
+   with equal and impartial justice; without difference; alike;
+   evenly; justly; as, equally taxed, furnished, etc.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>equally</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>equally
+     adv 1: to the same degree (often followed by `as'); "they were
+            equally beautiful"; "birds were singing and the child
+            sang as sweetly"; "sang as sweetly as a nightingale";
+            "he is every bit as mean as she is" [syn: {as}, {every
+            bit}]
+     2: in equal amounts or shares; in a balanced or impartial way;
+        "a class evenly divided between girls and boys"; "they
+        split their winnings equally"; "deal equally with rich and
+        poor" [syn: {evenly}] [ant: {unevenly}, {unevenly}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>military</Word>
+  <Definitions>
+    <Definition>
+      <Word>military</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Military \Mil"i*ta*ry\, n. [Cf. F. militaire.]
+   The whole body of soldiers; soldiery; militia; troops; the
+   army.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>military</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Military \Mil"i*ta*ry\, a. [L. militaris, militarius, from
+   miles, militis, soldier: cf. F. militaire.]
+   [1913 Webster]
+   1. Of or pertaining to soldiers, to arms, or to war;
+      belonging to, engaged in, or appropriate to, the affairs
+      of war; as, a military parade; military discipline;
+      military bravery; military conduct; military renown.
+      [1913 Webster]
+
+            Nor do I, as an enemy to peace,
+            Troop in the throngs of military men. --Shak.
+      [1913 Webster]
+
+   2. Performed or made by soldiers; as, a military election; a
+      military expedition. --Bacon.
+      [1913 Webster]
+
+   {Military law}. See {Martial law}, under {Martial}.
+
+   {Military order}. (a) A command proceeding from a military
+      superior.
+      (b) An association of military persons under a bond of
+          certain peculiar rules; especially, such an
+          association of knights in the Middle Ages, or a body
+          in modern times taking a similar form, membership of
+          which confers some distinction.
+
+   {Military tenure}, tenure of land, on condition of performing
+      military service.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>military</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>military
+     adj 1: of or relating to the study of the principles of warfare;
+            "military law"
+     2: characteristic of or associated with soldiers or the
+        military; "military uniforms" [ant: {unmilitary}]
+     3: associated with or performed by armed services as contrasted
+        with civilians; "military police" [ant: {civilian}]
+     n : the military forces of a nation; "their military is the
+         largest in the region"; "the military machine is the same
+         one we faced in 1991 but now it is weaker" [syn: {armed
+         forces}, {armed services}, {military machine}, {war
+         machine}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

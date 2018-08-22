@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>refresh</Word>
+  <Definitions>
+    <Definition>
+      <Word>refresh</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>refresh
+     
+        1. &lt;storage&gt; {DRAM refresh}.
+     
+        2. &lt;hardware&gt; {screen refresh}.
+     
+        (1998-10-19)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>refresh</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Refresh \Re*fresh"\, n.
+   The act of refreshing. [Obs.] --Daniel.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>refresh</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Refresh \Re*fresh"\ (r?*fr?sh"), v. t. [imp. &amp; p. p. {Refreshed}
+   (-fr?sht"); p. pr. &amp; vb. n. {Refreshing}.] [OE. refreshen,
+   refreschen, OF. refreschir (cf. OF. rafraischir, rafreschir,
+   F. rafra?chir); pref. re- re- + fres fresh. F. frais. See
+   {Fresh}, a.]
+   1. To make fresh again; to restore strength, spirit,
+      animation, or the like, to; to relieve from fatigue or
+      depression; to reinvigorate; to enliven anew; to
+      reanimate; as, sleep refreshes the body and the mind.
+      --Chaucer.
+      [1913 Webster]
+
+            Foer they have refreshed my spirit and yours. --1
+                                                  Cor. xvi. 18.
+      [1913 Webster]
+
+            And labor shall refresh itself with hope. --Shak.
+      [1913 Webster]
+
+   2. To make as if new; to repair; to restore.
+      [1913 Webster]
+
+            The rest refresh the scaly snakes that fol?
+            The shield of Pallas, and renew their gold.
+                                                  --Dryden.
+      [1913 Webster]
+
+   {To refresh the memory}, to quicken or strengthen it, as by a
+      reference, review, memorandum, or suggestion.
+      [1913 Webster]
+
+   Syn: To cool; refrigerate; invigorate; revive; reanimate;
+        renovate; renew; restore; recreate; enliven; cheer.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>refresh</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>refresh
+     v 1: refresh one's memory; "I reviewed the material before the
+          test" [syn: {review}, {brush up}]
+     2: make (to feel) fresh; "The cool water refreshed us" [syn: {freshen}]
+     3: become or make oneself fresh again; "She freshened up after
+        the tennis game" [syn: {freshen}, {refreshen}, {freshen up}]
+     4: make fresh again [syn: {freshen}, {refreshen}] [ant: {tire}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

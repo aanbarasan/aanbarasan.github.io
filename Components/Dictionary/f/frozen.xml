@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>frozen</Word>
+  <Definitions>
+    <Definition>
+      <Word>frozen</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Frozen \Fro"zen\, a.
+   1. Congealed with cold; affected by freezing; as, a frozen
+      brook.
+      [1913 Webster]
+
+            They warmed their frozen feet.        --Dryden.
+      [1913 Webster]
+
+   2. Subject to frost, or to long and severe cold; chilly; as,
+      the frozen north; the frozen zones.
+      [1913 Webster]
+
+   3. Cold-hearted; unsympathetic; unyielding. [R.]
+      [1913 Webster]
+
+            Be not ever frozen, coy.              --T. Carew.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>frozen</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Freeze \Freeze\, v. i. [imp. {Froze} (fr[=o]z); p. p. {Frozen}
+   (fr[=o]"z'n); p. pr. &amp; vb. n. {Freezing}.] [OE. fresen,
+   freosen, AS. fre['o]san; akin to D. vriezen, OHG. iosan, G.
+   frieren, Icel. frjsa, Sw. frysa, Dan. fryse, Goth. frius
+   cold, frost, and prob. to L. prurire to itch, E. prurient,
+   cf. L. prna a burning coal, pruina hoarfrost, Skr. prushv[=a]
+   ice, prush to spirt. ? 18. Cf. {Frost}.]
+   1. To become congealed by cold; to be changed from a liquid
+      to a solid state by the abstraction of heat; to be
+      hardened into ice or a like solid body.
+      [1913 Webster]
+
+   Note: Water freezes at 32[deg] above zero by Fahrenheit's
+         thermometer; mercury freezes at 40[deg] below zero.
+         [1913 Webster]
+
+   2. To become chilled with cold, or as with cold; to suffer
+      loss of animation or life by lack of heat; as, the blood
+      freezes in the veins.
+      [1913 Webster]
+
+   {To freeze up} (Fig.), to become formal and cold in demeanor.
+      [Colloq.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>frozen</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>freeze
+     n 1: the withdrawal of heat to change something from a liquid to
+          a solid [syn: {freezing}]
+     2: weather cold enough to cause freezing [syn: {frost}]
+     3: an interruption or temporary suspension of progress or
+        movement; "a halt in the arms race"; "a nuclear freeze"
+        [syn: {halt}]
+     4: fixing (of prices or wages etc) at a particular level; "a
+        freeze on hiring"
+     v 1: change to ice; "The water in the bowl froze" [ant: {boil}]
+     2: stop moving or become immobilized; "When he saw the police
+        car he froze" [syn: {stop dead}]
+     3: be cold; "I could freeze to death in this office when the
+        air conditioning is turned on"
+     4: cause to freeze; "Freeze the leftover food"
+     5: stop a process or a habit by imposing a freeze on it;
+        "Suspend the aid to the war-torn country" [syn: {suspend}]
+     6: be very cold, below the freezing point; "It is freezing in
+        Kalamazoo"
+     7: change from a liquid to a solid when cold; "Water freezes at
+        32 degrees Fahrenheit" [syn: {freeze out}, {freeze down}]
+     8: prohibit the conversion or use of (assets); "Blocked funds";
+        "Freeze the assets of this hostile government" [syn: {block},
+         {immobilize}, {immobilise}] [ant: {unblock}, {unblock}]
+     9: anesthetize by cold
+     10: suddenly behave coldly and formally; "She froze when she saw
+         her ex-husband"
+     [also: {frozen}, {froze}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>frozen</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>frozen
+     See {freeze}
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>frozen</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>frozen
+     adj 1: turned into ice; affected by freezing or by long and severe
+            cold; "the frozen North"; "frozen pipes"; "children
+            skating on a frozen brook" [ant: {unfrozen}]
+     2: absolutely still; "frozen with horror"; "they stood rooted
+        in astonishment" [syn: {frozen(p)}, {rooted(p)}, {stock-still}]
+     3: devoid of warmth and cordiality; expressive of
+        unfriendliness or disdain; "a frigid greeting"; "got a
+        frosty reception"; "a frozen look on their faces"; "a
+        glacial handshake"; "icy stare"; "wintry smile" [syn: {frigid},
+         {frosty}, {glacial}, {icy}, {wintry}]
+     4: not thawed
+     5: used of foods; preserved by freezing sufficiently rapidly to
+        retain flavor and nutritional value; "frozen foods" [syn:
+        {flash-frozen}, {quick-frozen}]
+     6: not convertible to cash; "frozen assets"
+     7: incapable of being changed or moved or undone; e.g. "frozen
+        prices"; "living on fixed incomes" [syn: {fixed}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

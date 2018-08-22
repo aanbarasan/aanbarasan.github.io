@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>protection</Word>
+  <Definitions>
+    <Definition>
+      <Word>protection</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Protection, KS (city, FIPS 57850)
+  Location: 37.20016 N, 99.48034 W
+  Population (1990): 625 (307 housing units)
+  Area: 2.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 67127
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>protection</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Protection \Pro*tec"tion\, n. [L. protectio: cf. F. protection.]
+   1. The act of protecting, or the state of being protected;
+      preservation from loss, injury, or annoyance; defense;
+      shelter; as, the weak need protection.
+      [1913 Webster]
+
+            To your protection I commend me, gods. --Shak.
+      [1913 Webster]
+
+   2. That which protects or preserves from injury; a defense; a
+      shield; a refuge.
+      [1913 Webster]
+
+            Let them rise up . . . and be your protection.
+                                                  --Deut. xxxii.
+                                                  38.
+      [1913 Webster]
+
+   3. A writing that protects or secures from molestation or
+      arrest; a pass; a safe-conduct; a passport.
+      [1913 Webster]
+
+            He . . . gave them protections under his hand.
+                                                  --Macaulay.
+      [1913 Webster]
+
+   4. (Polit. Econ.) A theory, or a policy, of protecting the
+      producers in a country from foreign competition in the
+      home market by the imposition of such discriminating
+      duties on goods of foreign production as will restrict or
+      prevent their importation; -- opposed to {free trade}.
+      [1913 Webster]
+
+   {Writ of protection}. (Law)
+      (a) A writ by which the king formerly exempted a person
+          from arrest; -- now disused. [Eng.] --Blackstone.
+      (b) A judicial writ issued to a person required to attend
+          court, as party, juror, etc., intended to secure him
+          from arrest in coming, staying, and returning.
+          [1913 Webster]
+
+   Syn: Preservation; defense; guard; shelter; refuge; security;
+        safety.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>protection</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>protection
+     n 1: the activity of protecting someone or something; "the
+          witnesses demanded police protection"
+     2: a covering that is intend to protect from damage or injury;
+        "they had no protection from the fallout"; "wax provided
+        protection for the floors" [syn: {protective covering}, {protective
+        cover}]
+     3: defense against financial failure; financial independence;
+        "his pension gave him security in his old age"; "insurance
+        provided protection against loss of wages due to illness"
+        [syn: {security}]
+     4: the condition of being protected; "they were huddled
+        together for protection"; "he enjoyed a sense of peace and
+        protection in his new home" [syn: {shelter}]
+     5: kindly endorsement and guidance; "the tournament was held
+        under the auspices of the city council" [syn: {auspices},
+        {aegis}]
+     6: the imposition of duties or quotas on imports in order to
+        protect domestic industry against foreign competition; "he
+        made trade protection a plank in the party platform" [syn:
+         {trade protection}]
+     7: payment extorted by gangsters on threat of violence; "every
+        store in the neighborhood had to pay him protection" [syn:
+         {tribute}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

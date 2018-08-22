@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>clown</Word>
+  <Definitions>
+    <Definition>
+      <Word>clown</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Clown \Clown\ (kloun), n. [Cf. Icel. klunni a clumsy, boorish
+   fellow, North Fries. kl["o]nne clown, dial. Sw. klunn log,
+   Dan. klunt log, block, and E. clump, n.]
+   1. A man of coarse nature and manners; an awkward fellow; an
+      ill-bred person; a boor. --Sir P. Sidney.
+      [1913 Webster]
+
+   2. One who works upon the soil; a rustic; a churl.
+      [1913 Webster]
+
+            The clown, the child of nature, without guile.
+                                                  --Cowper.
+      [1913 Webster]
+
+   3. The fool or buffoon in a play, circus, etc.
+      [1913 Webster]
+
+            The clown shall make those laugh whose lungs are
+            tickle o'the sere.                    --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>clown</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Clown \Clown\, v. i.
+   To act as a clown; -- with it. [Obs.]
+   [1913 Webster]
+
+         Beshrew me, he clowns it properly indeed. --B. Jonson.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>clown</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>clown
+     n 1: a rude or vulgar fool [syn: {buffoon}]
+     2: a person who amuses others by ridiculous behavior [syn: {buffoon},
+         {merry andrew}]
+     v : act as or like a clown [syn: {clown around}, {antic}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

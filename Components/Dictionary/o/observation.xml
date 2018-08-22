@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>observation</Word>
+  <Definitions>
+    <Definition>
+      <Word>observation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Observation \Ob`ser*va"tion\, n. [L. observatio: cf. F.
+   observation.]
+   1. The act or the faculty of observing or taking notice; the
+      act of seeing, or of fixing the mind upon, anything.
+      [1913 Webster]
+
+            My observation, which very seldom lies. --Shak.
+      [1913 Webster]
+
+   2. The result of an act, or of acts, of observing; view;
+      reflection; conclusion; judgment.
+      [1913 Webster]
+
+            In matters of human prudence, we shall find the
+            greatest advantage in making wise observations on
+            our conduct.                          --I. Watts.
+      [1913 Webster]
+
+   3. Hence: An expression of an opinion or judgment upon what
+      one has observed; a remark. ``That's a foolish
+      observation.'' --Shak.
+      [1913 Webster]
+
+            To observations which ourselves we make
+            We grow more partial for the observer's sake.
+                                                  --Pope.
+      [1913 Webster]
+
+   4. Performance of what is prescribed; adherence in practice;
+      observance. [Obs.]
+      [1913 Webster]
+
+            We are to procure dispensation or leave to omit the
+            observation of it in such circumstances. --Jer.
+                                                  Taylor.
+      [1913 Webster]
+
+   5. (Science)
+      (a) The act of recognizing and noting some fact or
+          occurrence in nature, as an aurora, a corona, or the
+          structure of an animal.
+      (b) Specifically, the act of measuring, with suitable
+          instruments, some magnitude, as the time of an
+          occultation, with a clock; the right ascension of a
+          star, with a transit instrument and clock; the sun's
+          altitude, or the distance of the moon from a star,
+          with a sextant; the temperature, with a thermometer,
+          etc.
+      (c) The information so acquired; as, to record one's
+          observations carefully.
+          [1913 Webster]
+
+   Note: When a phenomenon is scrutinized as it occurs in
+         nature, the act is termed an observation. When the
+         conditions under which the phenomenon occurs are
+         artificial, or arranged beforehand by the observer, the
+         process is called an experiment. Experiment includes
+         observation.
+         [1913 Webster]
+
+   {To take an observation} (Naut.), to ascertain the altitude
+      of a heavenly body, with a view to fixing a vessel's
+      position at sea.
+      [1913 Webster]
+
+   Syn: Observance; notice; attention; remark; comment; note.
+        See {Observance}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>observation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>observation
+     n 1: the act of making and recording a measurement
+     2: the act of observing; taking a patient look [syn: {observance},
+         {watching}]
+     3: facts learned by observing; "he reported his observations to
+        the mayor"
+     4: the act of noticing or paying attention; "he escaped the
+        notice of the police" [syn: {notice}, {observance}]
+     5: a remark expressing careful consideration [syn: {reflection},
+         {reflexion}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

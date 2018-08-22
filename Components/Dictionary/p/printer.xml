@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>printer</Word>
+  <Definitions>
+    <Definition>
+      <Word>printer</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>printer
+     
+        &lt;printer&gt; A {peripheral} device for producing text and images
+        on paper.  There are many different types, broadly grouped
+        into "{impact printers}" and "{non-impact printers}".
+     
+        Compare {plotter}.  See also {Braille printer}, {tree-killer}.
+     
+        (1996-01-13)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>printer</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Printer, KY
+  Zip code(s): 41655
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>printer</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Printer \Print"er\, n.
+   One who prints; especially, one who prints books, newspapers,
+   engravings, etc., a compositor; a typesetter; a pressman.
+   [1913 Webster]
+
+   {Printer's devil}, {Printer's gauge}. See under {Devil}, and
+      {Gauge}.
+
+   {Printer's ink}. See {Printing ink}, below.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>printer</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>printer
+     n 1: someone whose occupation is printing [syn: {pressman}]
+     2: (computer science) an output device that prints the results
+        of data processing
+     3: a machine that prints [syn: {printing machine}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

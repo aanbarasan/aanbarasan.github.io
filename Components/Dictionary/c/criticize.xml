@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>criticize</Word>
+  <Definitions>
+    <Definition>
+      <Word>criticize</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>criticize \criticize\ v. t.
+   same as {criticise}; as, The paper criticized the new movie.
+   [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>criticize</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>criticize
+     v 1: find fault with; express criticism of; point out real or
+          perceived flaws; "The paper criticized the new movie";
+          "Don't knock the food--it's free" [syn: {knock}, {criticise},
+           {pick apart}] [ant: {praise}]
+     2: act as a critic; "Those who criticize others often are not
+        perfect, either" [syn: {criticise}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

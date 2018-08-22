@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>abelian</Word>
+  <Definitions>
+    <Definition>
+      <Word>abelian</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Abelian \A*bel"i*an\, Abelite \A"bel*ite\, Abelonian
+\A`bel*o"ni*an\, n. (Eccl. Hist.)
+   One of a sect in Africa (4th century), mentioned by St.
+   Augustine, who states that they married, but lived in
+   continence, after the manner, as they pretended, of Abel.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

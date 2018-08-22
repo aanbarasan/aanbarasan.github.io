@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bradley</Word>
+  <Definitions>
+    <Definition>
+      <Word>bradley</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Bradley, AR (city, FIPS 8290)
+  Location: 33.09992 N, 93.65686 W
+  Population (1990): 585 (259 housing units)
+  Area: 2.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 71826
+Bradley, CA
+  Zip code(s): 93426
+Bradley, IL (village, FIPS 7744)
+  Location: 41.14720 N, 87.85568 W
+  Population (1990): 10792 (4224 housing units)
+  Area: 8.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 60915
+Bradley, ME
+  Zip code(s): 04411
+Bradley, OK (town, FIPS 8300)
+  Location: 34.87727 N, 97.70851 W
+  Population (1990): 166 (66 housing units)
+  Area: 0.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 73011
+Bradley, SC
+  Zip code(s): 29819
+Bradley, SD (town, FIPS 6660)
+  Location: 45.09011 N, 97.64139 W
+  Population (1990): 117 (71 housing units)
+  Area: 0.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 57217
+Bradley, WV (CDP, FIPS 9676)
+  Location: 37.86136 N, 81.19631 W
+  Population (1990): 2144 (816 housing units)
+  Area: 14.7 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bradley</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Bradley
+     n 1: United States politician who was elected the first Black may
+          of Los Angeles (1917-1998) [syn: {Thomas Bradley}, {Tom
+          Bradley}]
+     2: United States general who played an important role in the
+        Allied victory in World War II (1893-1981) [syn: {Omar
+        Bradley}, {Omar Nelson Bradley}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

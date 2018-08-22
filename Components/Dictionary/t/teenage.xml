@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>teenage</Word>
+  <Definitions>
+    <Definition>
+      <Word>teenage</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Teenage \Teen"age\, n.
+   The longer wood for making or mending fences. [Prov. Eng.]
+   --Halliwell.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>teenage</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Teenage \Teen"age`\ (t[=e]n"[=a]j), n.
+   of or pertaining to a teenager; being in one's teens; as, a
+   busload of teenage football fans; teenage inexperience.
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>teenage</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>teenage
+     adj : being of the age 13 through 19; "teenage mothers"; "the teen
+           years" [syn: {adolescent}, {teen}, {teenaged}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

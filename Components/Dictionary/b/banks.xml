@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>banks</Word>
+  <Definitions>
+    <Definition>
+      <Word>banks</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Banks, AL (town, FIPS 3940)
+  Location: 31.81428 N, 85.83834 W
+  Population (1990): 195 (95 housing units)
+  Area: 5.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 36005
+Banks, AR (town, FIPS 3430)
+  Location: 33.57593 N, 92.26824 W
+  Population (1990): 88 (45 housing units)
+  Area: 1.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 71631
+Banks, ID
+  Zip code(s): 83602
+Banks, OR (city, FIPS 3850)
+  Location: 45.61543 N, 123.11001 W
+  Population (1990): 563 (190 housing units)
+  Area: 0.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 97106
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>banks</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Banks
+     n : English botanist who accompanied Captain Cook on his first
+         voyage to the Pacific Ocean (1743-1820) [syn: {Sir Joseph
+         Banks}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

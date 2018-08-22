@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>loofah</Word>
+  <Definitions>
+    <Definition>
+      <Word>loofah</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>loofah
+     n 1: the dried fibrous part of the fruit of a plant of the genus
+          Luffa; used as a washing sponge or strainer [syn: {loofa},
+           {luffa}, {loufah sponge}]
+     2: the bathroom loofah [syn: {vegetable sponge}, {Luffa
+        cylindrica}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

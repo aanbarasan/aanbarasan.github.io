@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>anecdotal</Word>
+  <Definitions>
+    <Definition>
+      <Word>anecdotal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Anecdotal \An"ec*do`tal\, a.
+   Pertaining to, or abounding with, anecdotes; as, anecdotal
+   conversation.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>anecdotal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>anecdotal
+     adj 1: having the character of an anecdote; "anecdotal evidence"
+     2: characterized by or given to telling anecdotes; "anecdotal
+        conversation"; "an anectodal history of jazz"; "he was at
+        his anecdotic best" [syn: {anecdotic}, {anecdotical}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

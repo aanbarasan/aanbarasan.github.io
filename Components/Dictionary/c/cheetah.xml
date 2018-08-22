@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cheetah</Word>
+  <Definitions>
+    <Definition>
+      <Word>cheetah</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cheetah \Chee"tah\, n. [Hind. ch[=i]t[=a].] (Zo["o]l.)
+   A species of leopard ({Cyn[ae]lurus jubatus}) tamed and used
+   for hunting in India. The woolly cheetah of South Africa is
+   {Cyn[ae]lurus laneus}. It runs very fast in short spurts
+   while hunting. [Written also {chetah}.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cheetah</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cheetah
+     n : long-legged spotted cat of Africa and southwestern Asia
+         having nonretractile claws; the swiftest mammal; can be
+         trained to run down game [syn: {chetah}, {Acinonyx
+         jubatus}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

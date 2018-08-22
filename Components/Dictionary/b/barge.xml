@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>barge</Word>
+  <Definitions>
+    <Definition>
+      <Word>barge</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Barge \Barge\, n. [OF. barge, F. berge, fr. LL. barca, for
+   barica (not found), prob. fr. L. baris an Egyptian rowboat,
+   fr. Gr. ?, prob. fr. Egyptian: cf. Coptic bari a boat. Cf.
+   {Bark} a vessel.]
+   1. A pleasure boat; a vessel or boat of state, elegantly
+      furnished and decorated.
+      [1913 Webster]
+
+   2. A large, roomy boat for the conveyance of passengers or
+      goods; as, a ship's barge; a charcoal barge.
+      [1913 Webster]
+
+   3. A large boat used by flag officers.
+      [1913 Webster]
+
+   4. A double-decked passenger or freight vessel, towed by a
+      steamboat. [U.S.]
+      [1913 Webster]
+
+   5. A large omnibus used for excursions. [Local, U.S.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>barge</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>barge
+     n : a flatbottom boat for carrying heavy loads (especially on
+         canals) [syn: {flatboat}, {hoy}, {lighter}]
+     v 1: push one's way; "she barged into the meeting room" [syn: {thrust
+          ahead}, {push forward}]
+     2: transport by barge on a body of water
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

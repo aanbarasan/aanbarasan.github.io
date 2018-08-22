@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>burner</Word>
+  <Definitions>
+    <Definition>
+      <Word>burner</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Burner \Burn"er\, n.
+   1. One who, or that which, burns or sets fire to anything.
+      [1913 Webster]
+
+   2. The part of a lamp, gas fixture, etc., where the flame is
+      produced.
+      [1913 Webster]
+
+   {Bunsen's burner} (Chem.), see {Bunsen burner}.
+
+   {Argand burner}, {Rose burner}, etc. See under {Argand},
+      {Rose}, etc.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>burner</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>burner
+     n 1: an apparatus for burning fuel (or refuse); "a diesel engine
+          is an oil burner"
+     2: the heating elements of a stove or range on which pots and
+        pans are placed for cooking; "the electric range had one
+        large burner and three smaller one"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

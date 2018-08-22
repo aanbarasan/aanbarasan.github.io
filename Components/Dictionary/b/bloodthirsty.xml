@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bloodthirsty</Word>
+  <Definitions>
+    <Definition>
+      <Word>bloodthirsty</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bloodthirsty \Blood"thirst`y\, a.
+   Eager to shed blood; cruel; sanguinary; murderous; having a
+   bloodlust. -- {Blood"thirst`i*ness} (?), n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bloodthirsty</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bloodthirsty
+     adj : marked by eagerness to resort to violence and bloodshed;
+           "bloody-minded tyrants"; "bloodthirsty yells"; "went
+           after the collaborators with a sanguinary fury that
+           drenched the land with blood"-G.W.Johnson [syn: {bloody-minded},
+            {sanguinary}]
+     [also: {bloodthirstiest}, {bloodthirstier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

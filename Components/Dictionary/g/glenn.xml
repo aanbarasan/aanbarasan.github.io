@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>glenn</Word>
+  <Definitions>
+    <Definition>
+      <Word>glenn</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Glenn, CA
+  Zip code(s): 95943
+Glenn, GA
+  Zip code(s): 30217
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>glenn</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Glenn
+     n : made the first orbital rocket-powered flight by a United
+         States astronaut in 1962; later in United States Senate
+         (1921-) [syn: {John Glenn}, {John Herschel Glenn Jr.}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

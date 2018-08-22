@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>chaos</Word>
+  <Definitions>
+    <Definition>
+      <Word>chaos</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>chaos
+     
+        A property of some non-linear dynamic systems which exhibit
+        sensitive dependence on initial conditions.  This means that
+        there are initial states which evolve within some finite time
+        to states whose separation in one or more dimensions of state
+        space depends, in an average sense, exponentially on their
+        initial separation.  Such systems may still be completely
+        {deterministic} in that any future state of the system depends
+        only on the initial conditions and the equations describing
+        the change of the system with time.  It may, however, require
+        arbitrarily high precision to actually calculate a future
+        state to within some finite precision.
+     
+        ["On defining chaos", R. Glynn Holt
+        &lt;rgholt@voyager.jpl.nasa.gov&gt; and D. Lynn Holt
+        &lt;lholt@seraph1.sewanee.edu&gt;.
+       
+     {(ftp://mrcnext.cso.uiuc.edu/pub/etext/ippe/preprints/Phil_of_Science/Holt_and_Holt.On_Defining_Chaos)}]
+     
+        Fixed precision {floating-point} arithmetic, as used by most
+        computers, may actually introduce chaotic dependence on
+        initial conditions due to the accumulation of rounding errors
+        (which constitutes a non-linear system).
+     
+        (1995-02-07)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chaos</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Chaos \Cha"os\ (k[=a]"[o^]s), n. [L. chaos chaos (in senses 1 &amp;
+   2), Gr. cha`os, fr. cha`inein (root cha) to yawn, to gape, to
+   open widely. Cf. {Chasm}.]
+   1. An empty, immeasurable space; a yawning chasm. [Archaic]
+      [1913 Webster]
+
+            Between us and there is fixed a great chaos. --Luke
+                                                  xvi. 26
+                                                  (Rhemish
+                                                  Trans.).
+      [1913 Webster]
+
+   2. The confused, unorganized condition or mass of matter
+      before the creation of distinct and orderly forms.
+      [1913 Webster]
+
+   3. Any confused or disordered collection or state of things;
+      a confused mixture; confusion; disorder.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chaos</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>chaos
+     n 1: a state of extreme confusion and disorder [syn: {pandemonium},
+           {bedlam}, {topsy-turvydom}, {topsy-turvyness}]
+     2: the formless and disordered state of matter before the
+        creation of the cosmos
+     3: (Greek mythology) the most ancient of gods; the
+        personification of the infinity of space preceding
+        creation of the universe
+     4: (physics) a dynamical system that is extremely sensitive to
+        its initial conditions
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

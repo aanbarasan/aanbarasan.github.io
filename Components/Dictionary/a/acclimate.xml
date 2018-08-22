@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>acclimate</Word>
+  <Definitions>
+    <Definition>
+      <Word>acclimate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Acclimate \Ac*cli"mate\ (#; 277), v. t. [imp. &amp; p. p.
+   {Acclimated}; p. pr. &amp; vb. n. {Acclimating}.] [F. acclimater;
+   [`a] (l. ad) + climat climate. See {Climate}.]
+   To habituate to a climate not native; to acclimatize. --J. H.
+   Newman.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>acclimate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>acclimate
+     v : get used to a certain climate; "They never acclimatized in
+         Egypt" [syn: {acclimatize}, {acclimatise}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

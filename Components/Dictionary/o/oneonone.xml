@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>oneonone</Word>
+  <Definitions>
+    <Definition>
+      <Word>oneonone</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>One \One\, n.
+   1. A single unit; as, one is the base of all numbers.
+      [1913 Webster]
+
+   2. A symbol representing a unit, as 1, or i.
+      [1913 Webster]
+
+   3. A single person or thing. ``The shining ones.'' --Bunyan.
+      ``Hence, with your little ones.'' --Shak.
+      [1913 Webster]
+
+            He will hate the one, and love the other. --Matt.
+                                                  vi. 24.
+      [1913 Webster]
+
+            That we may sit, one on thy right hand, and the
+            other on thy left hand, in thy glory. --Mark x. 37.
+      [1913 Webster]
+
+   {After one}, after one fashion; alike. [Obs.] --Chaucer.
+
+   {At one}, in agreement or concord. See {At one}, in the
+      Vocab.
+
+   {Ever in one}, continually; perpetually; always. [Obs.]
+      --Chaucer.
+
+   {In one}, in union; in a single whole.
+
+   {One and one}, {One by one}, singly; one at a time; one after
+      another. ``Raising one by one the suppliant crew.''
+      --Dryden.
+
+   {one on one} contesting an opponent individually; -- in a
+      contest.
+
+   {go one on one}, to contest one opponent by oneself; -- in a
+      game, esp. basketball.
+      [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>oneonone</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>one-on-one
+     adj 1: directly between two individuals; "one-on-one instruction"
+     2: being a system of play in which an individual defensive
+        player guards an individual offensive player; "one-on-one
+        defense" [syn: {man-to-man}]
+     adv : (of two persons) in direct encounter; "preferred to settle
+           the matter one-on-one"; "interviewed her
+           person-to-person" [syn: {person-to-person}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

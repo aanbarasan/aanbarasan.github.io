@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>capacity</Word>
+  <Definitions>
+    <Definition>
+      <Word>capacity</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>capacity
+     
+        &lt;communications&gt; The maximum possible {data transfer rate} of
+        a communications channel under ideal conditions.  The total
+        capacity of a channel may be shared between several
+        independent data streams using some kind of {multiplexing}, in
+        which case, each stream's data rate may be limited to a fixed
+        fraction of the total capacity.
+     
+        (2001-05-22)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>capacity</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Capacity \Ca*pac"i*ty\ (k[.a]*p[a^]s"[i^]*t[y^]), n.; pl.
+   {Capacities} (-t[i^]z). [L. capacitus, fr. capax, capacis;
+   fr. F. capacit['e]. See {Capacious}.]
+   1. The power of receiving or containing; extent of room or
+      space; passive power; -- used in reference to physical
+      things.
+      [1913 Webster]
+
+            Had our great palace the capacity
+            To camp this host, we all would sup together.
+                                                  --Shak.
+      [1913 Webster]
+
+            The capacity of the exhausted cylinder. --Boyle.
+      [1913 Webster]
+
+   2. The power of receiving and holding ideas, knowledge, etc.;
+      the comprehensiveness of the mind; the receptive faculty;
+      capability of understanding or feeling.
+      [1913 Webster]
+
+            Capacity is now properly limited to these [the mere
+            passive operations of the mind]; its primary
+            signification, which is literally room for, as well
+            as its employment, favors this; although it can not
+            be denied that there are examples of its usage in an
+            active sense.                         --Sir W.
+                                                  Hamilton.
+      [1913 Webster]
+
+   3. Ability; power pertaining to, or resulting from, the
+      possession of strength, wealth, or talent; possibility of
+      being or of doing.
+      [1913 Webster]
+
+            The capacity of blessing the people.  --Alex.
+                                                  Hamilton.
+      [1913 Webster]
+
+            A cause with such capacities endued.  --Blackmore.
+      [1913 Webster]
+
+   4. Outward condition or circumstances; occupation;
+      profession; character; position; as, to work in the
+      capacity of a mason or a carpenter.
+      [1913 Webster]
+
+   5. (Law) Legal or moral qualification, as of age, residence,
+      character, etc., necessary for certain purposes, as for
+      holding office, for marrying, for making contracts, wills,
+      etc.; legal power or right; competency.
+      [1913 Webster]
+
+   {Capacity for heat}, the power of absorbing heat. Substances
+      differ in the amount of heat requisite to raise them a
+      given number of thermometric degrees, and this difference
+      is the measure of, or depends upon, what is called their
+      capacity for heat. See {Specific heat}, under {Heat}.
+
+   Syn: Ability; faculty; talent; capability; skill; efficiency;
+        cleverness. See {Ability}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>capacity</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>capacity
+     n 1: ability to perform or produce [ant: {incapacity}]
+     2: the susceptibility of something to a particular treatment;
+        "the capability of a metal to be fused" [syn: {capability}]
+     3: the amount that can be contained; "the gas tank has a
+        capacity of 12 gallons" [syn: {content}]
+     4: the maximum production possible; "the plant is working at 80
+        per cent capacity"
+     5: a specified function; "he was employed in the capacity of
+        director"; "he should be retained in his present capacity
+        at a higher salary"
+     6: (computer science) the amount of information (in bytes) that
+        can be stored on a disk drive; "the capacity of a hard
+        disk drive is usually expressed in megabytes"
+     7: an electrical phenomenon whereby an electric charge is
+        stored [syn: {capacitance}, {electrical capacity}]
+     8: the power to learn or retain knowledge; in law, the ability
+        to understand the facts and significance of your behavior
+        [syn: {mental ability}] [ant: {incapacity}]
+     9: tolerance for alcohol; "he had drunk beyond his capacity"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

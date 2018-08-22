@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>catalog</Word>
+  <Definitions>
+    <Definition>
+      <Word>catalog</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Catalog \Cat"a*log\, n. &amp; v.
+   Catalogue.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>catalog</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>catalog
+     n 1: a book or pamphlet containing an enumeration of things; "he
+          found it in the Sears catalog" [syn: {catalogue}]
+     2: a complete list of things; usually arranged systematically;
+        "it does not pretend to be a catalogue of his
+        achievements" [syn: {catalogue}]
+     v 1: make a catalogue, compile a catalogue of something [syn: {catalogue}]
+     2: make a catalog of [syn: {catalogue}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

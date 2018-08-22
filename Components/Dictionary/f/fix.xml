@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fix</Word>
+  <Definitions>
+    <Definition>
+      <Word>fix</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>FIX
+     
+        1. &lt;networking&gt; {Federal Information Exchange}.
+     
+        2. &lt;business, protocol&gt; {Financial Information eXchange}.
+     
+        (2001-05-14)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fix</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>fix
+     
+        1. &lt;mathematics&gt; The {fixed point} {combinator}.  Called Y in
+        {combinatory logic}.  Fix is a {higher-order function} which
+        returns a fixed point of its argument (which is a function).
+     
+        	fix :: (a -&gt; a) -&gt; a
+        	fix f = f (fix f)
+     
+        Which satisfies the equation
+     
+        	fix f = x such that f x = x.
+     
+        Somewhat surprisingly, fix can be defined as the non-recursive
+        {lambda abstraction}:
+     
+        	fix = \ h . (\ x . h (x x)) (\ x . h (x x))
+     
+        Since this involves self-application, it has an {infinite
+        type}.  A function defined by
+     
+        	f x1 .. xN = E
+     
+        can be expressed as
+     
+        	f = fix (\ f . \ x1 ... \ xN . E)
+        	  = (\ f . \ x1 ... \xN . E)
+        		(fix (\ f . \ x1 ... \ xN . E))
+        	  = let f = (fix (\ f . \ x1 ... \ xN . E))
+        	    in \ x1 ... \xN . E
+     
+        If f does not occur {free} in E (i.e. it is not {recursive})
+        then this reduces to simply
+     
+        	f = \ x1 ... \ xN . E
+     
+        In the case where N = 0 and f is free in E, this defines an
+        infinite data object, e.g.
+     
+        	ones = fix (\ ones . 1 : ones)
+        	     = (\ ones . 1 : ones) (fix (\ ones . 1 : ones))
+        	     = 1 : (fix (\ ones . 1 : ones))
+        	     = 1 : 1 : ...
+     
+        Fix f is also sometimes written as mu f where mu is the Greek
+        letter or alternatively, if f = \ x . E, written as mu x . E.
+     
+        Compare {quine}.
+     
+        [{Jargon File}]
+     
+        (1995-04-13)
+     
+        2. {bug fix}.
+     
+        (1998-06-25)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fix</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fettling \Fet"tling\, n.
+   1. (Metal.) A mixture of ore, cinders, etc., used to line the
+      hearth of a puddling furnace. [Eng.]
+
+   Note: [It is commonly called {fix} in the United States.]
+         [1913 Webster]
+
+   2. (Pottery) The operation of shaving or smoothing the
+      surface of undried clay ware.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fix</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fix \Fix\ (f[i^]ks), a. [OE., fr. L. fixus, p. p. of figere to
+   fix; cf. F. fixe.]
+   Fixed; solidified. [Obs.] --Chaucer.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fix</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fix \Fix\, v. t. [imp. &amp; p. p. {Fixed} (f[i^]kst); p. pr. &amp; vb.
+   n. {Fixing}.] [Cf. F. fixer.]
+   1. To make firm, stable, or fast; to set or place
+      permanently; to fasten immovably; to establish; to
+      implant; to secure; to make definite.
+      [1913 Webster]
+
+            An ass's nole I fixed on his head.    --Shak.
+      [1913 Webster]
+
+            O, fix thy chair of grace, that all my powers
+            May also fix their reverence.         --Herbert.
+      [1913 Webster]
+
+            His heart is fixed, trusting in the Lord. --Ps.
+                                                  cxii. 7.
+      [1913 Webster]
+
+            And fix far deeper in his head their stings.
+                                                  --Milton.
+      [1913 Webster]
+
+   2. To hold steadily; to direct unwaveringly; to fasten, as
+      the eye on an object, the attention on a speaker.
+      [1913 Webster]
+
+            Sat fixed in thought the mighty Stagirite. --Pope.
+      [1913 Webster]
+
+            One eye on death, and one full fix'd on heaven.
+                                                  --Young.
+      [1913 Webster]
+
+   3. To transfix; to pierce. [Obs.] --Sandys.
+      [1913 Webster]
+
+   4. (Photog.) To render (an impression) permanent by treating
+      with a developer to make it insensible to the action of
+      light. --Abney.
+      [1913 Webster]
+
+   5. To put in order; to arrange; to dispose of; to adjust; to
+      set to rights; to set or place in the manner desired or
+      most suitable; hence, to repair; as, to fix the clothes;
+      to fix the furniture of a room. [Colloq. U.S.]
+      [1913 Webster]
+
+   6. (Iron Manuf.) To line the hearth of (a puddling furnace)
+      with fettling.
+
+   Syn: To arrange; prepare; adjust; place; establish; settle;
+        determine.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fix</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fix \Fix\, v. i.
+   1. To become fixed; to settle or remain permanently; to cease
+      from wandering; to rest.
+      [1913 Webster]
+
+            Your kindness banishes your fear,
+            Resolved to fix forever here.         --Waller.
+      [1913 Webster]
+
+   2. To become firm, so as to resist volatilization; to cease
+      to flow or be fluid; to congeal; to become hard and
+      malleable, as a metallic substance. --Bacon.
+      [1913 Webster]
+
+   {To fix on}, to settle the opinion or resolution about; to
+      determine regarding; as, the contracting parties have
+      fixed on certain leading points.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fix</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fix \Fix\, n.
+   1. A position of difficulty or embarassment; predicament;
+      dilemma. [Colloq.]
+      [1913 Webster]
+
+            Is he not living, then? No. is he dead, then? No,
+            nor dead either. Poor Aroar can not live, and can
+            not die, -- so that he is in an almighty fix. --De
+                                                  Quincey.
+      [1913 Webster]
+
+   2. (Iron Manuf.) fettling. [U.S.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fix</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>fix n.,v. What one does when a problem has been reported too many times
+   to be ignored.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fix</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fix
+     n 1: informal terms for a difficult situation; "he got into a
+          terrible fix"; "he made a muddle of his marriage" [syn:
+          {hole}, {jam}, {mess}, {muddle}, {pickle}, {kettle of
+          fish}]
+     2: something craved, especially an intravenous injection of a
+        narcotic drug; "she needed a fix of chocolate"
+     3: the act of putting something in working order again [syn: {repair},
+         {fixing}, {fixture}, {mend}, {mending}, {reparation}]
+     4: an exemption granted after influence (e.g., money) is
+        brought to bear; "collusion resulted in tax fixes for
+        gamblers"
+     5: a determination of the location of something; "he got a good
+        fix on the target" [syn: {localization}, {localisation}, {location},
+         {locating}]
+     v 1: restore by replacing a part or putting together what is torn
+          or broken; "She repaired her TV set"; "Repair my shoes
+          please" [syn: {repair}, {mend}, {bushel}, {doctor}, {furbish
+          up}, {restore}, {touch on}] [ant: {break}]
+     2: cause to be firmly attached; "fasten the lock onto the
+        door"; "she fixed her gaze on the man" [syn: {fasten}, {secure}]
+        [ant: {unfasten}]
+     3: decide upon or fix definitely; "fix the variables"; "specify
+        the parameters" [syn: {specify}, {set}, {determine}, {limit}]
+     4: prepare for eating by applying heat; "Cook me dinner,
+        please"; "can you make me an omelette?"; "fix breakfast
+        for the guests, please" [syn: {cook}, {ready}, {make}, {prepare}]
+     5: take vengeance on or get even; "We'll get them!"; "That'll
+        fix him good!"; "This time I got him" [syn: {pay back}, {pay
+        off}, {get}]
+     6: set or place definitely; "Let's fix the date for the party!"
+     7: kill, preserve, and harden (tissue) in order to prepare for
+        microscopic study
+     8: make fixed, stable or stationary; "let's fix the picture to
+        the frame" [syn: {fixate}]
+     9: make infertile; "in some countries, people with genetically
+        transmissible disbilites are sterilized" [syn: {sterilize},
+         {sterilise}, {desex}, {unsex}, {desexualize}, {desexualise}]
+     10: put (something somewhere) firmly; "She posited her hand on
+         his shoulder"; "deposit the suitcase on the bench"; "fix
+         your eyes on this spot" [syn: {situate}, {posit}, {deposit}]
+     11: make ready or suitable or equip in advance for a particular
+         purpose or for some use, event, etc; "Get the children
+         ready for school!"; "prepare for war"; "I was fixing to
+         leave town after I paid the hotel bill" [syn: {prepare},
+         {set up}, {ready}, {gear up}, {set}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

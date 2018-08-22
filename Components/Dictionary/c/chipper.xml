@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>chipper</Word>
+  <Definitions>
+    <Definition>
+      <Word>chipper</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Chipper \Chip"per\, v. i. [Cf. {Cheep}, {Chirp}.]
+   To chirp or chirrup. [Prov. Eng.] --Forby.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chipper</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Chipper \Chip"per\, a.
+   Lively; cheerful; talkative. [U. S.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chipper</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>chipper
+     adj : having a cheerful, lively, and self-confident air; "looking
+           chipper, like a man...diverted by his own wit"- Frances
+           G. Patton; "life that is gay, brisk, and debonair"-
+           H.M.Reynolds; "walked with a jaunty step"; "a jaunty
+           optimist" [syn: {debonair}, {debonaire}, {jaunty}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>problem</Word>
+  <Definitions>
+    <Definition>
+      <Word>problem</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Problem \Prob"lem\, n. [F. probl[`e]me, L. problema, fr. Gr. ?
+   anything thrown forward, a question proposed for solution,
+   fr. ? to throw or lay before; ? before, forward + ? to throw.
+   Cf. {Parable}. ]
+   [1913 Webster]
+   1. A question proposed for solution; a matter stated for
+      examination or proof; hence, a matter difficult of
+      solution or settlement; a doubtful case; a question
+      involving doubt. --Bacon.
+      [1913 Webster]
+
+   2. (Math.) Anything which is required to be done; as, in
+      geometry, to bisect a line, to draw a perpendicular; or,
+      in algebra, to find an unknown quantity.
+      [1913 Webster]
+
+   Note: Problem differs from theorem in this, that a problem is
+         something to be done, as to bisect a triangle, to
+         describe a circle, etc.; a theorem is something to be
+         proved, as that all the angles of a triangle are equal
+         to two right angles.
+         [1913 Webster]
+
+   {Plane problem} (Geom.), a problem that can be solved by the
+      use of the rule and compass.
+
+   {Solid problem} (Geom.), a problem requiring in its geometric
+      solution the use of a conic section or higher curve.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>problem</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>problem
+     n 1: a state of difficulty that needs to be resolved; "she and
+          her husband are having problems"; "it is always a job to
+          contact him"; "urban problems such as traffic congestion
+          and smog" [syn: {job}]
+     2: a source of difficulty; "one trouble after another delayed
+        the job"; "what's the problem?" [syn: {trouble}]
+     3: a question raised for consideration or solution; "our
+        homework consisted of ten problems to solve"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

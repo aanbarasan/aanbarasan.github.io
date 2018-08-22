@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>beach</Word>
+  <Definitions>
+    <Definition>
+      <Word>beach</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Beach, ND (city, FIPS 5420)
+  Location: 46.91389 N, 104.00773 W
+  Population (1990): 1205 (614 housing units)
+  Area: 4.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 58621
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>beach</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Beach \Beach\, v. t. [imp. &amp; p. p. {Beached} (b[=e]cht); p. pr.
+   &amp; vb. n. {Beaching}.]
+   To run or drive (as a vessel or a boat) upon a beach; to
+   strand; as, to beach a ship.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>beach</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Beach \Beach\ (b[=e]ch), n.; pl. {Beaches} (-[e^]z). [Cf. Sw.
+   backe hill, Dan. bakke, Icel. bakki hill, bank. Cf. {Bank}.]
+   1. Pebbles, collectively; shingle.
+      [1913 Webster]
+
+   2. The shore of the sea, or of a lake, which is washed by the
+      waves; especially, a sandy or pebbly shore; the strand.
+      [1913 Webster]
+
+   {Beach flea} (Zo["o]l.), the common name of many species of
+      amphipod Crustacea, of the family {Orchestid[ae]}, living
+      on the sea beaches, and leaping like fleas.
+
+   {Beach grass} (Bot.), a coarse grass ({Ammophila
+      arundinacea}), growing on the sandy shores of lakes and
+      seas, which, by its interlaced running rootstocks, binds
+      the sand together, and resists the encroachment of the
+      waves.
+
+   {Beach wagon}, a light open wagon with two or more seats.
+
+   {Raised beach}, an accumulation of water-worn stones, gravel,
+      sand, and other shore deposits, above the present level of
+      wave action, whether actually raised by elevation of the
+      coast, as in Norway, or left by the receding waters, as in
+      many lake and river regions.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>beach</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>beach
+     n : an area of sand sloping down to the water of a sea or lake
+     v : land on a beach; "the ship beached near the port"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

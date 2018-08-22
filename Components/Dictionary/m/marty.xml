@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>marty</Word>
+  <Definitions>
+    <Definition>
+      <Word>marty</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Marty, SD (CDP, FIPS 41180)
+  Location: 42.99290 N, 98.42926 W
+  Population (1990): 436 (92 housing units)
+  Area: 8.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 57361
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mount</Word>
+  <Definitions>
+    <Definition>
+      <Word>mount</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Mount
+   Palestine is a hilly country (Deut. 3:25; 11:11; Ezek. 34:13).
+   West of Jordan the mountains stretch from Lebanon far down into
+   Galilee, terminating in Carmel. The isolated peak of Tabor rises
+   from the elevated plain of Esdraelon, which, in the south, is
+   shut in by hills spreading over the greater part of Samaria. The
+   mountains of Western and Middle Palestine do not extend to the
+   sea, but gently slope into plains, and toward the Jordan fall
+   down into the Ghor.
+   
+     East of the Jordan the Anti-Lebanon, stretching south,
+   terminates in the hilly district called Jebel Heish, which
+   reaches down to the Sea of Gennesareth. South of the river
+   Hieromax there is again a succession of hills, which are
+   traversed by wadies running toward the Jordan. These gradually
+   descend to a level at the river Arnon, which was the boundary of
+   the ancient trans-Jordanic territory toward the south.
+   
+     The composition of the Palestinian hills is limestone, with
+   occasional strata of chalk, and hence the numerous caves, some
+   of large extent, found there.
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mount</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>mount
+     
+        &lt;file system&gt; To make a {file system} available for access.
+     
+        {Unix} does this by associating the file system with a
+        {directory} (the "mount point") within a currently mounted
+        file system.  The "root" file system is mounted on the {root
+        directory}, "/" early in the {boot} sequence.  "mount" is also
+        the {Unix} command to do this, "unmount" breaks the
+        association.
+     
+        E.g., "mount attaches a named file system to the file system
+        hierarchy at the pathname location directory [...]" -- {Unix
+        manual page} mount(8).
+     
+        File systems are usually mounted either at {boot time} under
+        control of {/etc/rc} (or one of its subfiles) or on demand by
+        an {automounter} {daemon}.
+     
+        Other {operating systems} such as {VMS} and {DOS} mount file
+        systems as separate directory hierarchies without any common
+        ancestor or root directory.
+     
+        Apparently derived from the physical sense of "mount" meaning
+        "attach", as in "head-mounted display", or "set up", as in
+        "always mount a {scratch monkey}, etc."
+     
+        {Unix manual page}: mount(8).
+     
+        (1997-04-14)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mount</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mount \Mount\, n. [From {Mount}, v.]
+   That upon which a person or thing is mounted, especially:
+   (a) A horse.
+       [1913 Webster]
+
+             She had so good a seat and hand, she might be
+             trusted with any mount.              --G. Eliot.
+       [1913 Webster]
+   (b) The cardboard or cloth on which a drawing, photograph, or
+       the like is mounted; a mounting.
+       [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mount</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mount \Mount\, v. t.
+   1. To get upon; to ascend; to climb; as, to mount the pulpit
+      and deliver a sermon.
+      [1913 Webster]
+
+            Shall we mount again the rural throne? --Dryden.
+      [1913 Webster]
+
+   2. To place one's self on, as a horse or other animal, or
+      anything that one sits upon; to bestride.
+      [1913 Webster]
+
+   3. To cause to mount; to put on horseback; to furnish with
+      animals for riding; to furnish with horses. ``To mount the
+      Trojan troop.'' --Dryden.
+      [1913 Webster]
+
+   4. Hence: To put upon anything that sustains and fits for
+      use, as a gun on a carriage, a map or picture on cloth or
+      paper; to prepare for being worn or otherwise used, as a
+      diamond by setting, or a sword blade by adding the hilt,
+      scabbard, etc.; as, to mount a picture or diploma in a
+      frame
+      [1913 Webster]
+
+   5. To raise aloft; to lift on high.
+      [1913 Webster]
+
+            What power is it which mounts my love so high?
+                                                  --Shak.
+      [1913 Webster]
+
+   Note: A fort or ship is said to mount cannon, when it has
+         them arranged for use in or about it.
+         [1913 Webster]
+
+   {To mount guard} (Mil.), to go on guard; to march on guard;
+      to do duty as a guard.
+
+   {To mount a play}, to prepare and arrange the scenery,
+      furniture, etc., used in the play.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mount</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mount \Mount\, v. i. [imp. &amp; p. p. {Mounted}; p. pr. &amp; vb. n.
+   {Mounting}.] [OE. mounten, monten, F. monter, fr. L. mons,
+   montis, mountain. See {Mount}, n. (above).]
+   1. To rise on high; to go up; to be upraised or uplifted; to
+      tower aloft; to ascend; -- often with up.
+      [1913 Webster]
+
+            Though Babylon should mount up to heaven. --Jer. li.
+                                                  53.
+      [1913 Webster]
+
+            The fire of trees and houses mounts on high.
+                                                  --Cowley.
+      [1913 Webster]
+
+   2. To get up on anything, as a platform or scaffold;
+      especially, to seat one's self on a horse for riding.
+      [1913 Webster]
+
+   3. To attain in value; to amount.
+      [1913 Webster]
+
+            Bring then these blessings to a strict account,
+            Make fair deductions, see to what they mount.
+                                                  --Pope.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mount</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mount \Mount\ (mount), n. [OE. munt, mont, mount, AS. munt, fr.
+   L. mons, montis; cf. L. minae protections, E. eminent,
+   menace: cf. F. mont. Cf. {Mount}, v., {Mountain}, {Mont},
+   {Monte}, {Montem}.]
+   1. A mass of earth, or earth and rock, rising considerably
+      above the common surface of the surrounding land; a
+      mountain; a high hill; -- used always instead of mountain,
+      when put before a proper name; as, Mount Washington;
+      otherwise, chiefly in poetry.
+      [1913 Webster]
+
+   2. A bulwark for offense or defense; a mound. [Obs.]
+      [1913 Webster]
+
+            Hew ye down trees, and cast a mount against
+            Jerusalem.                            --Jer. vi. 6.
+      [1913 Webster]
+
+   3. [See {Mont de pi['e]t['e]}.] A bank; a fund.
+      [1913 Webster]
+
+   4. (Palmistry) Any one of seven fleshy prominences in the
+      palm of the hand which are taken as significant of the
+      influence of ``planets,'' and called the mounts of
+      Jupiter, Mars, Mercury, the Moon, Saturn, the Sun or
+      Apollo, and Venus.
+      [Webster 1913 Suppl.]
+
+   {Mount of piety}. See {Mont de pi['e]t['e]}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mount</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mount
+     n 1: a lightweight horse kept for riding only [syn: {saddle horse},
+           {riding horse}]
+     2: the act of climbing something; "it was a difficult climb to
+        the top" [syn: {climb}]
+     3: a land mass that projects well above its surroundings;
+        higher than a hill [syn: {mountain}]
+     4: mounting consisting of a piece of metal (as in a ring or
+        other jewelry) that holds a gem in place; "the diamond was
+        in a plain gold mount" [syn: {setting}]
+     5: something forming a back that is added for strengthening
+        [syn: {backing}]
+     v 1: attach to a support; "They mounted the aerator on a
+          floating"
+     2: go up or advance; "Sales were climbing after prices were
+        lowered" [syn: {wax}, {climb}, {rise}] [ant: {wane}]
+     3: fix onto a backing, setting, or support; "mount slides for
+        macroscopic analysis"
+     4: put up or launch; "mount a campaign against pronography"
+     5: get on the back of; "mount a horse" [syn: {hop on}, {mount
+        up}, {get on}, {jump on}, {climb on}, {bestride}] [ant: {hop
+        out}]
+     6: go upward with gradual or continuous progress; "Did you ever
+        climb up the hill behind your house?" [syn: {climb}, {climb
+        up}, {go up}]
+     7: prepare and supply with the necessary equipment for
+        execution or performance; "mount a theater production";
+        "mount an attack"; "mount a play" [syn: {put on}]
+     8: copulate with; "The bull was riding the cow" [syn: {ride}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

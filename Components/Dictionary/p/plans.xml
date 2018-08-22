@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>plans</Word>
+  <Definitions>
+    <Definition>
+      <Word>plans</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>PLANS
+     
+        Programming Language for Allocation and Network Scheduling.  A
+        PL/I preprocessor, used for developing scheduling algorithms.
+        "A User's Guide to the Programming Language for Allocation and
+        Network Scheduling", H.R.  Ramsey et al, TR SAI-77-068-DEN,
+        Science Applications Inc (Jun 1977).
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

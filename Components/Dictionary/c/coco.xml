@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>coco</Word>
+  <Definitions>
+    <Definition>
+      <Word>coco</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>CoCo
+     
+        &lt;computer&gt; The {Tandy} Color Computer with a Motorola
+        {MC6809E} {CPU}.  The {Dragon} is a CoCo clone.  The CoCo was
+        as powerful as the {IBM XT} at the time it was made, and could
+        run {OS-9}.
+     
+        (1997-02-12)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>coco</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Coco, PR (comunidad, FIPS 18891)
+  Location: 18.00454 N, 66.26004 W
+  Population (1990): 3478 (1118 housing units)
+  Area: 1.0 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>coco</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Coco \Co"co\ (k[=o]"k[-o]), n. or Coco palm \Co"co palm\
+   (k[=o]"k[-o] p[aum]m`).
+   See {Cocoa}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>coco</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>coco
+     n : tall palm tree bearing coconuts as fruits; widely planted
+         throughout the tropics [syn: {coconut}, {coconut palm}, {coco
+         palm}, {cocoa palm}, {coconut tree}, {Cocos nucifera}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

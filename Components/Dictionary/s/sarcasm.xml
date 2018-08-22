@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sarcasm</Word>
+  <Definitions>
+    <Definition>
+      <Word>sarcasm</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sarcasm \Sar"casm\, n. [F. sarcasme, L. sarcasmus, Gr.
+   sarkasmo`s, from sarka`zein to tear flesh like dogs, to bite
+   the lips in rage, to speak bitterly, to sneer, fr. sa`rx,
+   sa`rkos, flesh.]
+   A keen, reproachful expression; a satirical remark uttered
+   with some degree of scorn or contempt; a taunt; a gibe; a
+   cutting jest.
+   [1913 Webster]
+
+         The sarcasms of those critics who imagine our art to be
+         a matter of inspiration.                 --Sir J.
+                                                  Reynolds.
+   [1913 Webster]
+
+   Syn: Satire; irony; ridicule; taunt; gibe.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sarcasm</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sarcasm
+     n : witty language used to convey insults or scorn; "he used
+         sarcasm to upset his opponent"; "irony is wasted on the
+         stupid"; "Satire is a sort of glass, wherein beholders do
+         generally discover everybody's face but their
+         own"--Johathan Swift [syn: {irony}, {satire}, {caustic
+         remark}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

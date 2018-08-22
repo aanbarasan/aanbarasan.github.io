@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cambridge</Word>
+  <Definitions>
+    <Definition>
+      <Word>cambridge</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Cambridge, IA (city, FIPS 10225)
+  Location: 41.89950 N, 93.53089 W
+  Population (1990): 714 (288 housing units)
+  Area: 2.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 50046
+Cambridge, ID (city, FIPS 12520)
+  Location: 44.57259 N, 116.67591 W
+  Population (1990): 374 (173 housing units)
+  Area: 0.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 83610
+Cambridge, IL (village, FIPS 10643)
+  Location: 41.30329 N, 90.19329 W
+  Population (1990): 2124 (876 housing units)
+  Area: 2.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 61238
+Cambridge, KS (city, FIPS 10125)
+  Location: 37.31730 N, 96.66678 W
+  Population (1990): 74 (48 housing units)
+  Area: 0.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 67023
+Cambridge, KY (city, FIPS 12066)
+  Location: 38.22150 N, 85.61593 W
+  Population (1990): 193 (97 housing units)
+  Area: 0.2 sq km (land), 0.0 sq km (water)
+Cambridge, MA (city, FIPS 11000)
+  Location: 42.37580 N, 71.11870 W
+  Population (1990): 95802 (41979 housing units)
+  Area: 16.7 sq km (land), 1.8 sq km (water)
+  Zip code(s): 02138, 02139, 02142, 02163
+Cambridge, MD (city, FIPS 12400)
+  Location: 38.56184 N, 76.07783 W
+  Population (1990): 11514 (5256 housing units)
+  Area: 17.1 sq km (land), 2.8 sq km (water)
+  Zip code(s): 21613
+Cambridge, ME
+  Zip code(s): 04923
+Cambridge, MN (city, FIPS 9370)
+  Location: 45.56434 N, 93.22693 W
+  Population (1990): 5094 (1950 housing units)
+  Area: 9.8 sq km (land), 0.1 sq km (water)
+  Zip code(s): 55008
+Cambridge, NE (city, FIPS 7730)
+  Location: 40.28335 N, 100.17048 W
+  Population (1990): 1107 (526 housing units)
+  Area: 1.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 69022
+Cambridge, NY (village, FIPS 11825)
+  Location: 43.02664 N, 73.38085 W
+  Population (1990): 1906 (825 housing units)
+  Area: 4.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 12816
+Cambridge, OH (city, FIPS 10996)
+  Location: 40.02505 N, 81.58693 W
+  Population (1990): 11748 (5770 housing units)
+  Area: 13.6 sq km (land), 0.0 sq km (water)
+Cambridge, VT (village, FIPS 11425)
+  Location: 44.63539 N, 72.88247 W
+  Population (1990): 292 (121 housing units)
+  Area: 3.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 05444
+Cambridge, WI (village, FIPS 12225)
+  Location: 43.00718 N, 89.01870 W
+  Population (1990): 963 (389 housing units)
+  Area: 1.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 53523
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cambridge</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Cambridge
+     n 1: a university in England [syn: {Cambridge University}]
+     2: a city in Massachusetts just north of Boston; site of
+        Harvard University and the Massachusetts Institute of
+        Technology
+     3: a city in eastern England on the River Cam; site of
+        Cambridge University
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

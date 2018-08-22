@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>abhorrent</Word>
+  <Definitions>
+    <Definition>
+      <Word>abhorrent</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Abhorrent \Ab*hor"rent\, a. [L. abhorens, -rentis, p. pr. of
+   abhorrere.]
+   1. Abhorring; detesting; having or showing abhorrence;
+      loathing; hence, strongly opposed to; as, abhorrent
+      thoughts.
+      [1913 Webster]
+
+            The persons most abhorrent from blood and treason.
+                                                  --Burke.
+      [1913 Webster]
+
+            The arts of pleasure in despotic courts
+            I spurn abhorrent.                    --Clover.
+      [1913 Webster]
+
+   2. Contrary or repugnant; discordant; inconsistent; --
+      followed by to. ``Injudicious profanation, so abhorrent to
+      our stricter principles.'' --Gibbon.
+      [1913 Webster]
+
+   3. Detestable. ``Pride, abhorrent as it is.'' --I. Taylor.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>abhorrent</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>abhorrent
+     adj : offensive to the mind; "an abhorrent deed"; "the obscene
+           massacre at Wounded Knee"; "morally repugnant customs";
+           "repulsive behavior"; "the most repulsive character in
+           recent novels" [syn: {detestable}, {obscene}, {repugnant},
+            {repulsive}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

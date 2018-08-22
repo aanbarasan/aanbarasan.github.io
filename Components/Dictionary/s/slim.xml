@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>slim</Word>
+  <Definitions>
+    <Definition>
+      <Word>slim</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>SLIM
+     
+        A VLSI language for translating DFA's into circuits.
+        J.L. Hennessy, "SLIM: A Simulation and Implementation Language
+        for VLSI Microcode", Lambda, Apr 1981, pp.20-28.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>slim</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>slim
+     
+        &lt;jargon&gt; A small, derivative change (e.g. to code).
+     
+        (2003-05-13)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>slim</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Slim \Slim\ (sl[i^]m), a. [Compar. {Slimmer}; superl.
+   {Slimmest}.] [Formerly, bad, worthless, weak, slight, awry,
+   fr. D. slim; akin to G. schlimm, MHG. slimp oblique, awry; of
+   uncertain origin. The meaning of the English word seems to
+   have been influenced by slender.]
+   1. Worthless; bad. [Prov. Eng. &amp; Scot.]
+      [1913 Webster]
+
+   2. Weak; slight; unsubstantial; poor; as, a slim argument.
+      ``That was a slim excuse.'' --Barrow.
+      [1913 Webster]
+
+   3. Of small diameter or thickness in proportion to the height
+      or length; slender; as, a slim person; a slim tree.
+      --Grose.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>slim</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>slim n. A small, derivative change (e.g., to code).
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>slim</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>slim
+     adj 1: being of delicate or slender build; "she was slender as a
+            willow shoot is slender"- Frank Norris; "a slim girl
+            with straight blonde hair"; "watched her slight figure
+            cross the street" [syn: {slender}, {slight}]
+     2: small in quantity; "slender wages"; "a slim chance of
+        winning"; "a small surplus" [syn: {slender}]
+     v : take off weight [syn: {reduce}, {melt off}, {lose weight}, {slenderize},
+          {thin}, {slim down}] [ant: {gain}]
+     [also: {slimmest}, {slimmer}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

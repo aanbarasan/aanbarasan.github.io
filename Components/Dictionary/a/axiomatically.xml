@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>axiomatically</Word>
+  <Definitions>
+    <Definition>
+      <Word>axiomatically</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Axiomatically \Ax`i*o*mat"ic*al*ly\, adv.
+   By the use of axioms; in the form of an axiom.
+   [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>axiomatically</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>axiomatically
+     adv : on the basis of axioms; "this is axiomatically given"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

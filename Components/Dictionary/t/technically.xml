@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>technically</Word>
+  <Definitions>
+    <Definition>
+      <Word>technically</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Technically \Tech"nic*al*ly\, adv.
+   In a technical manner; according to the signification of
+   terms as used in any art, business, or profession.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>technically</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>technically
+     adv 1: with regard to technique; "technically lagging behind the
+            Japanese"
+     2: with regard to technical skill; "a technically brilliant
+        solution"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>patient</Word>
+  <Definitions>
+    <Definition>
+      <Word>patient</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Patient \Pa"tient\, v. t.
+   To compose, to calm. [Obs.] ``Patient yourself, madam.''
+   --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>patient</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Patient \Pa"tient\, n.
+   1. One who, or that which, is passively affected; a passive
+      recipient.
+      [1913 Webster]
+
+            Malice is a passion so impetuous and precipitate
+            that it often involves the agent and the patient.
+                                                  --Gov. of
+                                                  Tongue.
+      [1913 Webster]
+
+   2. A person under medical or surgical treatment; --
+      correlative to {physician} or {nurse}.
+      [1913 Webster]
+
+            Like a physician, . . . seeing his patient in a
+            pestilent fever.                      --Sir P.
+                                                  Sidney.
+      [1913 Webster]
+
+   {In patient}, a patient who receives lodging and food, as
+      treatment, in a hospital or an infirmary.
+
+   {Out patient}, one who receives advice and medicine, or
+      treatment, from an infirmary.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>patient</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Patient \Pa"tient\ (p[=a]"shent), a. [F., fr. L. patiens,
+   -entis, p. pr. of pati to suffer. Cf. {Pathos}, {Passion}.]
+   1. Having the quality of enduring; physically able to suffer
+      or bear.
+      [1913 Webster]
+
+            Patient of severest toil and hardship. --Bp. Fell.
+      [1913 Webster]
+
+   2. Undergoing pains, trials, or the like, without murmuring
+      or fretfulness; bearing up with equanimity against
+      trouble; long-suffering.
+      [1913 Webster]
+
+   3. Constant in pursuit or exertion; persevering; calmly
+      diligent; as, patient endeavor.
+      [1913 Webster]
+
+            Whatever I have done is due to patient thought.
+                                                  --Sir I.
+                                                  Newton.
+      [1913 Webster]
+
+   4. Expectant with calmness, or without discontent; not hasty;
+      not overeager; composed.
+      [1913 Webster]
+
+            Not patient to expect the turns of fate. --Prior.
+      [1913 Webster]
+
+   5. Forbearing; long-suffering.
+      [1913 Webster]
+
+            Be patient toward all men.            --1 Thess. v.
+                                                  14.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>patient</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>patient
+     adj 1: enduring trying circumstances with even temper or
+            characterized by such endurance; "a patient smile";
+            "was patient with the children"; "an exact and patient
+            scientist"; "please be patient" [ant: {impatient}]
+     2: enduring without protest or complaint
+     n 1: a person who requires medical care; "the number of emergency
+          patients has grown rapidly"
+     2: the semantic role of an entity that is not the agent but is
+        directly involved in or affected by the happening denoted
+        by the verb in the clause [syn: {affected role}, {patient
+        role}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

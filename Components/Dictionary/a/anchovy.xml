@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>anchovy</Word>
+  <Definitions>
+    <Definition>
+      <Word>anchovy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Anchovy \An*cho"vy\ ([a^]n*ch[=o]"v[y^]), n. [Sp. anchoa,
+   anchova, or Pg. anchova, prob. of Iberian origin, and lit. a
+   dried or pickled fish, fr. Bisc. antzua dry: cf. D. anchovis,
+   F. anchois.] (Zo["o]l.)
+   A small fish, about three inches in length, of the Herring
+   family ({Engraulis encrasicholus}), caught in vast numbers in
+   the Mediterranean, and pickled for exportation. The name is
+   also applied to several allied species.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>anchovy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>anchovy
+     n 1: tiny Mediterranean fishes usually canned or salted; used for
+          hors d'oeuvres or as seasoning in sauces
+     2: small herring-like plankton-feeding fishes often canned
+        whole or as paste; abundant in tropical waters worldwide
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

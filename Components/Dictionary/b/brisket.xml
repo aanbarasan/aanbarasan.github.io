@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>brisket</Word>
+  <Definitions>
+    <Definition>
+      <Word>brisket</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Brisket \Bris"ket\, n. [OE. bruskette, OF. bruschet, F.
+   br['e]chet, brichet; prob. of Celtic origin; cf. W. brysced
+   the breast of a slain animal, brisket, Corn. vrys breast,
+   Armor. brusk, bruched, the front of the chest, Gael. brisgein
+   the cartilaginous part of a bone.]
+   That part of the breast of an animal which extends from the
+   fore legs back beneath the ribs; also applied to the fore
+   part of a horse, from the shoulders to the bottom of the
+   chest.
+
+   Note: [See Illust. of {Beef}.]
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>brisket</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>brisket
+     n : a cut of meat from the breast or lower chest especially of
+         beef
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

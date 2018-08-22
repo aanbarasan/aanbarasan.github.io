@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ok</Word>
+  <Definitions>
+    <Definition>
+      <Word>ok</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ok
+     adj : being satisfactory or in satisfactory condition; "an
+           all-right movie"; "the passengers were shaken up but
+           are all right"; "is everything all right?";
+           "everything's fine"; "things are okay"; "dinner and the
+           movies had been fine"; "another minute I'd have been
+           fine" [syn: {all right}, {fine}, {o.k.}, {okay}, {hunky-dory}]
+     n 1: a state in south central United States [syn: {Oklahoma}, {Sooner
+          State}]
+     2: an endorsement; "they gave us the O.K. to go ahead" [syn: {O.K.},
+         {okay}, {okey}, {okeh}]
+     adv : sentence-initial expression of agreement [syn: {very well},
+           {fine}, {alright}, {all right}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ok</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>o.k.
+     adj : being satisfactory or in satisfactory condition; "an
+           all-right movie"; "the passengers were shaken up but
+           are all right"; "is everything all right?";
+           "everything's fine"; "things are okay"; "dinner and the
+           movies had been fine"; "another minute I'd have been
+           fine" [syn: {all right}, {fine}, {ok}, {okay}, {hunky-dory}]
+     n : an endorsement; "they gave us the O.K. to go ahead" [syn: {OK},
+          {okay}, {okey}, {okeh}]
+     adv : in a satisfactory or adequate manner; "she'll do okay on her
+           own"; "held up all right under pressure"; (`alright' is
+           a nonstandard variant of `all right') [syn: {okay}, {all
+           right}, {alright}]
+     v : give sanction to; "I approve of his educational policies"
+         [syn: {approve}, {okay}, {sanction}] [ant: {disapprove}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bell's</Word>
+  <Definitions>
+    <Definition>
+      <Word>bell's</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Bells, TN (town, FIPS 4720)
+  Location: 35.71835 N, 89.08532 W
+  Population (1990): 1643 (676 housing units)
+  Area: 5.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 38006
+Bells, TX (town, FIPS 7420)
+  Location: 33.62002 N, 96.41295 W
+  Population (1990): 962 (464 housing units)
+  Area: 6.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 75414
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

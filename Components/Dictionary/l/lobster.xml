@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lobster</Word>
+  <Definitions>
+    <Definition>
+      <Word>lobster</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lobster \Lob"ster\, n. [AS. loppestre, lopystre prob., corrupted
+   fr. L. locusta a marine shellfish, a kind of lobster, a
+   locust. Cf. {Locust}.] (Zo["o]l.)
+   1. Any large macrurous crustacean used as food, esp. those of
+      the genus {Homarus}; as the American lobster ({Homarus
+      Americanus}), and the European lobster ({Homarus
+      vulgaris}). The Norwegian lobster ({Nephrops Norvegicus})
+      is similar in form. All these have a pair of large unequal
+      claws. The spiny lobsters of more southern waters,
+      belonging to {Palinurus}, {Panulirus}, and allied genera,
+      have no large claws. The fresh-water crayfishes are
+      sometimes called lobsters.
+      [1913 Webster]
+
+   2. As a term of opprobrium or contempt: A gullible, awkward,
+      bungling, or undesirable person. [Slang]
+      [Webster 1913 Suppl.]
+
+   {Lobster caterpillar} (Zo["o]l.), the caterpillar of a
+      European bombycid moth ({Stauropus fagi}); -- so called
+      from its form.
+
+   {Lobster louse} (Zo["o]l.), a copepod crustacean
+      ({Nicotho["e] astaci}) parasitic on the gills of the
+      European lobster.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lobster</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>lobster
+     n 1: flesh of a lobster
+     2: any of several edible marine crustaceans of the families
+        Homaridae and Nephropsidae and Palinuridae
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

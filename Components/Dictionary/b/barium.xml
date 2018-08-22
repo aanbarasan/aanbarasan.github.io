@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>barium</Word>
+  <Definitions>
+    <Definition>
+      <Word>barium</Word>
+      <Dictionary>
+        <Id>elements</Id>
+        <Name>Elements database 20001107</Name>
+      </Dictionary>
+      <WordDefinition>barium
+Symbol: Ba
+Atomic number: 56
+Atomic weight: 137.34
+Silvery-white reactive element, belonging to group 2 of the periodic
+table. Soluble barium compounds are extremely poisonous. Identified in
+1774 by Karl Scheele and extracted in 1808 by Humphry Davy.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>barium</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Barium \Ba"ri*um\, n. [NL., fr. Gr. bary`s heavy.] (Chem.)
+   One of the elements, belonging to the alkaline earth group; a
+   metal having a silver-white color, and melting at a very high
+   temperature. It is difficult to obtain the pure metal, from
+   the facility with which it becomes oxidized in the air.
+   Atomic weight, 137. Symbol, Ba. Its oxide called baryta.
+   [Rarely written {barytum}.]
+   [1913 Webster]
+
+   Note: Some of the compounds of this element are remarkable
+         for their high specific gravity, as the sulphate,
+         called heavy spar, and the like. The oxide was called
+         barote, by Guyton de Morveau, which name was changed by
+         Lavoisier to baryta, whence the name of the metal.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>barium</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>barium
+     n : a soft silvery metallic element of the alkali earth group;
+         found in barite [syn: {Ba}, {atomic number 56}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

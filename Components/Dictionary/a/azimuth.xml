@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>azimuth</Word>
+  <Definitions>
+    <Definition>
+      <Word>azimuth</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Azimuth \Az"i*muth\, n. [OE. azimut, F. azimut, fr. Ar.
+   as-sum?t, pl. of as-samt a way, or perh., a point of the
+   horizon and a circle extending to it from the zenith, as
+   being the Arabic article: cf. It. azzimutto, Pg. azimuth, and
+   Ar. samt-al-r[=a]'s the vertex of the heaven. Cf. {Zenith}.]
+   (Astron. &amp; Geodesy)
+      (a) The quadrant of an azimuth circle.
+      (b) An arc of the horizon intercepted between the meridian
+          of the place and a vertical circle passing through the
+          center of any object; as, the azimuth of a star; the
+          azimuth or bearing of a line surveying.
+          [1913 Webster]
+
+   Note: In trigonometrical surveying, it is customary to reckon
+         the azimuth of a line from the south point of the
+         horizon around by the west from 0[deg] to 360[deg].
+         [1913 Webster]
+
+   {Azimuth circle}, or {Vertical circle}, one of the great
+      circles of the sphere intersecting each other in the
+      zenith and nadir, and cutting the horizon at right angles.
+      --Hutton.
+
+   {Azimuth compass}, a compass resembling the mariner's
+      compass, but having the card divided into degrees instead
+      of rhumbs, and having vertical sights; used for taking the
+      magnetic azimuth of a heavenly body, in order to find, by
+      comparison with the true azimuth, the variation of the
+      needle.
+
+   {Azimuth dial}, a dial whose stile or gnomon is at right
+      angles to the plane of the horizon. --Hutton.
+
+   {Magnetic azimuth}, an arc of the horizon, intercepted
+      between the vertical circle passing through any object and
+      the magnetic meridian. This is found by observing the
+      object with an azimuth compass.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>azimuth</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>azimuth
+     n : the azimuth of a celestial body is the angle between the
+         vertical plane containing it and the plane of the
+         meridian [syn: {AZ}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

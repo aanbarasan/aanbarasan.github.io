@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>insane</Word>
+  <Definitions>
+    <Definition>
+      <Word>insane</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Insane \In*sane"\, a. [L. insanus. See {In-} not, and {Sane}.]
+   1. Exhibiting unsoundness or disorder of mind; not sane; mad;
+      deranged in mind; delirious; distracted. See {Insanity},
+      2.
+      [1913 Webster]
+
+   2. Used by, or appropriated to, insane persons; as, an insane
+      hospital.
+      [1913 Webster]
+
+   3. Causing insanity or madness. [R.]
+      [1913 Webster]
+
+            Or have we eaten on the insaneroot
+            That takes the reason prisoner ?      --Shak.
+      [1913 Webster]
+
+   4. Characterized by insanity or the utmost folly; chimerical;
+      unpractical; as, an insane plan, attempt, etc.
+      [1913 Webster]
+
+            I know not which was the insane measure. --Southey.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>insane</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>insane
+     adj 1: afflicted with or characteristic of mental derangement; "was
+            declared insane"; "insane laughter" [ant: {sane}]
+     2: very foolish; "harebrained ideas"; "took insane risks behind
+        the wheel"; "a completely mad scheme to build a bridge
+        between two mountains" [syn: {harebrained}, {mad}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

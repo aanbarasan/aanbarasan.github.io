@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>salt</Word>
+  <Definitions>
+    <Definition>
+      <Word>salt</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Salt
+   used to season food (Job 6:6), and mixed with the fodder of
+   cattle (Isa. 30:24, "clean;" in marg. of R.V. "salted"). All
+   meat-offerings were seasoned with salt (Lev. 2:13). To eat salt
+   with one is to partake of his hospitality, to derive subsistence
+   from him; and hence he who did so was bound to look after his
+   host's interests (Ezra 4:14, "We have maintenance from the
+   king's palace;" A.V. marg., "We are salted with the salt of the
+   palace;" R.V., "We eat the salt of the palace").
+   
+     A "covenant of salt" (Num. 18:19; 2 Chr. 13:5) was a covenant
+   of perpetual obligation. New-born children were rubbed with salt
+   (Ezek. 16:4). Disciples are likened unto salt, with reference to
+   its cleansing and preserving uses (Matt. 5:13). When Abimelech
+   took the city of Shechem, he sowed the place with salt, that it
+   might always remain a barren soil (Judg. 9:45). Sir Lyon
+   Playfair argues, on scientific grounds, that under the generic
+   name of "salt," in certain passages, we are to understand
+   petroleum or its residue asphalt. Thus in Gen. 19:26 he would
+   read "pillar of asphalt;" and in Matt. 5:13, instead of "salt,"
+   "petroleum," which loses its essence by exposure, as salt does
+   not, and becomes asphalt, with which pavements were made.
+   
+     The Jebel Usdum, to the south of the Dead Sea, is a mountain
+   of rock salt about 7 miles long and from 2 to 3 miles wide and
+   some hundreds of feet high.
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>salt</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>salt
+     
+        A tiny bit of near-random data inserted where too much
+        regularity would be undesirable; a data {frob} (sense 1).  For
+        example, the Unix crypt(3) manual page mentions that "the salt
+        string is used to perturb the DES algorithm in one of 4096
+        different ways."
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>salt</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>SALT
+     
+        1. Symbolic Assembly Language Trainer.  Assembly-like language
+        implemented in BASIC by Kevin Stock, now at Encore in France.
+     
+        2. Sam And Lincoln Threaded language.  A threaded extensible
+        variant of BASIC.  "SALT", S.D. Fenster et al, BYTE (Jun 1985)
+        p.147.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>salt</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Salt \Salt\, n. [AS. sealt; akin to OS. &amp; OFries. salt, D. zout,
+   G. salz, Icel., Sw., &amp; Dan. salt, L. sal, Gr. ?, Russ. sole,
+   Ir. &amp; Gael. salann, W. halen, of unknown origin. Cf. {Sal},
+   {Salad}, {Salary}, {Saline}, {Sauce}, {Sausage}.]
+   1. The chloride of sodium, a substance used for seasoning
+      food, for the preservation of meat, etc. It is found
+      native in the earth, and is also produced, by evaporation
+      and crystallization, from sea water and other water
+      impregnated with saline particles.
+      [1913 Webster]
+
+   2. Hence, flavor; taste; savor; smack; seasoning.
+      [1913 Webster]
+
+            Though we are justices and doctors and churchmen . .
+            . we have some salt of our youth in us. --Shak.
+      [1913 Webster]
+
+   3. Hence, also, piquancy; wit; sense; as, Attic salt.
+      [1913 Webster]
+
+   4. A dish for salt at table; a saltcellar.
+      [1913 Webster]
+
+            I out and bought some things; among others, a dozen
+            of silver salts.                      --Pepys.
+      [1913 Webster]
+
+   5. A sailor; -- usually qualified by old. [Colloq.]
+      [1913 Webster]
+
+            Around the door are generally to be seen, laughing
+            and gossiping, clusters of old salts. --Hawthorne.
+      [1913 Webster]
+
+   6. (Chem.) The neutral compound formed by the union of an
+      acid and a base; thus, sulphuric acid and iron form the
+      salt sulphate of iron or green vitriol.
+      [1913 Webster]
+
+   Note: Except in case of ammonium salts, accurately speaking,
+         it is the acid radical which unites with the base or
+         basic radical, with the elimination of hydrogen, of
+         water, or of analogous compounds as side products. In
+         the case of diacid and triacid bases, and of dibasic
+         and tribasic acids, the mutual neutralization may vary
+         in degree, producing respectively basic, neutral, or
+         acid salts. See Phrases below.
+         [1913 Webster]
+
+   7. Fig.: That which preserves from corruption or error; that
+      which purifies; a corrective; an antiseptic; also, an
+      allowance or deduction; as, his statements must be taken
+      with a grain of salt.
+      [1913 Webster]
+
+            Ye are the salt of the earth.         --Matt. v. 13.
+      [1913 Webster]
+
+   8. pl. Any mineral salt used as an aperient or cathartic,
+      especially Epsom salts, Rochelle salt, or Glauber's salt.
+      [1913 Webster]
+
+   9. pl. Marshes flooded by the tide. [Prov. Eng.]
+      [1913 Webster]
+
+   {Above the salt}, {Below the salt}, phrases which have
+      survived the old custom, in the houses of people of rank,
+      of placing a large saltcellar near the middle of a long
+      table, the places above which were assigned to the guests
+      of distinction, and those below to dependents, inferiors,
+      and poor relations. See {Saltfoot}.
+      [1913 Webster]
+
+            His fashion is not to take knowledge of him that is
+            beneath him in clothes. He never drinks below the
+            salt.                                 --B. Jonson.
+      [1913 Webster]
+
+   {Acid salt} (Chem.)
+      (a) A salt derived from an acid which has several
+          replaceable hydrogen atoms which are only partially
+          exchanged for metallic atoms or basic radicals; as,
+          acid potassium sulphate is an acid salt.
+      (b) A salt, whatever its constitution, which merely gives
+          an acid reaction; thus, copper sulphate, which is
+          composed of a strong acid united with a weak base, is
+          an acid salt in this sense, though theoretically it is
+          a neutral salt.
+
+   {Alkaline salt} (Chem.), a salt which gives an alkaline
+      reaction, as sodium carbonate.
+
+   {Amphid salt} (Old Chem.), a salt of the oxy type, formerly
+      regarded as composed of two oxides, an acid and a basic
+      oxide. [Obsolescent]
+
+   {Basic salt} (Chem.)
+      (a) A salt which contains more of the basic constituent
+          than is required to neutralize the acid.
+      (b) An alkaline salt.
+
+   {Binary salt} (Chem.), a salt of the oxy type conveniently
+      regarded as composed of two ingredients (analogously to a
+      haloid salt), viz., a metal and an acid radical.
+
+   {Double salt} (Chem.), a salt regarded as formed by the union
+      of two distinct salts, as common alum, potassium aluminium
+      sulphate. See under {Double}.
+
+   {Epsom salts}. See in the Vocabulary.
+
+   {Essential salt} (Old Chem.), a salt obtained by
+      crystallizing plant juices.
+
+   {Ethereal salt}. (Chem.) See under {Ethereal}.
+
+   {Glauber's salt} or {Glauber's salts}. See in Vocabulary.
+
+   {Haloid salt} (Chem.), a simple salt of a halogen acid, as
+      sodium chloride.
+
+   {Microcosmic salt}. (Chem.). See under {Microcosmic}.
+
+   {Neutral salt}. (Chem.)
+      (a) A salt in which the acid and base (in theory)
+          neutralize each other.
+      (b) A salt which gives a neutral reaction.
+
+   {Oxy salt} (Chem.), a salt derived from an oxygen acid.
+
+   {Per salt} (Old Chem.), a salt supposed to be derived from a
+      peroxide base or analogous compound. [Obs.]
+
+   {Permanent salt}, a salt which undergoes no change on
+      exposure to the air.
+
+   {Proto salt} (Chem.), a salt derived from a protoxide base or
+      analogous compound.
+
+   {Rochelle salt}. See under {Rochelle}.
+
+   {Salt of amber} (Old Chem.), succinic acid.
+
+   {Salt of colcothar} (Old Chem.), green vitriol, or sulphate
+      of iron.
+
+   {Salt of hartshorn}. (Old Chem.)
+      (a) Sal ammoniac, or ammonium chloride.
+      (b) Ammonium carbonate. Cf. {Spirit of hartshorn}, under
+          {Hartshorn}.
+
+   {Salt of lemons}. (Chem.) See {Salt of sorrel}, below.
+
+   {Salt of Saturn} (Old Chem.), sugar of lead; lead acetate; --
+      the alchemical name of lead being Saturn.
+
+   {Salt of Seignette}. Same as {Rochelle salt}.
+
+   {Salt of soda} (Old Chem.), sodium carbonate.
+
+   {Salt of sorrel} (Old Chem.), acid potassium oxalate, or
+      potassium quadroxalate, used as a solvent for ink stains;
+      -- so called because found in the sorrel, or Oxalis. Also
+      sometimes inaccurately called {salt of lemon}.
+
+   {Salt of tartar} (Old Chem.), potassium carbonate; -- so
+      called because formerly made by heating cream of tartar,
+      or potassium tartrate. [Obs.]
+
+   {Salt of Venus} (Old Chem.), blue vitriol; copper sulphate;
+      -- the alchemical name of copper being Venus.
+
+   {Salt of wisdom}. See {Alembroth}.
+
+   {Sedative salt} (Old Med. Chem.), boric acid.
+
+   {Sesqui salt} (Chem.), a salt derived from a sesquioxide base
+      or analogous compound.
+
+   {Spirit of salt}. (Chem.) See under {Spirit}.
+
+   {Sulpho salt} (Chem.), a salt analogous to an oxy salt, but
+      containing sulphur in place of oxygen.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>salt</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Salt \Salt\, a. [Compar. {Salter}; superl. {Saltest}.] [AS.
+   sealt, salt. See {Salt}, n.]
+   1. Of or relating to salt; abounding in, or containing, salt;
+      prepared or preserved with, or tasting of, salt; salted;
+      as, salt beef; salt water. ``Salt tears.'' --Chaucer.
+      [1913 Webster]
+
+   2. Overflowed with, or growing in, salt water; as, a salt
+      marsh; salt grass.
+      [1913 Webster]
+
+   3. Fig.: Bitter; sharp; pungent.
+      [1913 Webster]
+
+            I have a salt and sorry rheum offends me. --Shak.
+      [1913 Webster]
+
+   4. Fig.: Salacious; lecherous; lustful. --Shak.
+      [1913 Webster]
+      [1913 Webster]
+
+   {Salt acid} (Chem.), hydrochloric acid.
+
+   {Salt block}, an apparatus for evaporating brine; a salt
+      factory. --Knight.
+
+   {Salt bottom}, a flat piece of ground covered with saline
+      efflorescences. [Western U.S.] --Bartlett.
+
+   {Salt cake} (Chem.), the white caked mass, consisting of
+      sodium sulphate, which is obtained as the product of the
+      first stage in the manufacture of soda, according to
+      Leblanc's process.
+
+   {Salt fish}.
+      (a) Salted fish, especially cod, haddock, and similar
+          fishes that have been salted and dried for food.
+      (b) A marine fish.
+
+   {Salt garden}, an arrangement for the natural evaporation of
+      sea water for the production of salt, employing large
+      shallow basins excavated near the seashore.
+
+   {Salt gauge}, an instrument used to test the strength of
+      brine; a salimeter.
+
+   {Salt horse}, salted beef. [Slang]
+
+   {Salt junk}, hard salt beef for use at sea. [Slang]
+
+   {Salt lick}. See {Lick}, n.
+
+   {Salt marsh}, grass land subject to the overflow of salt
+      water.
+
+   {Salt-marsh caterpillar} (Zo["o]l.), an American bombycid
+      moth ({Spilosoma acr[ae]a} which is very destructive to
+      the salt-marsh grasses and to other crops. Called also
+      {woolly bear}. See Illust. under {Moth}, {Pupa}, and
+      {Woolly bear}, under {Woolly}.
+
+   {Salt-marsh fleabane} (Bot.), a strong-scented composite herb
+      ({Pluchea camphorata}) with rayless purplish heads,
+      growing in salt marshes.
+
+   {Salt-marsh hen} (Zo["o]l.), the clapper rail. See under
+      {Rail}.
+
+   {Salt-marsh terrapin} (Zo["o]l.), the diamond-back.
+
+   {Salt mine}, a mine where rock salt is obtained.
+
+   {Salt pan}.
+      (a) A large pan used for making salt by evaporation; also,
+          a shallow basin in the ground where salt water is
+          evaporated by the heat of the sun.
+      (b) pl. Salt works.
+
+   {Salt pit}, a pit where salt is obtained or made.
+
+   {Salt rising}, a kind of yeast in which common salt is a
+      principal ingredient. [U.S.]
+
+   {Salt raker}, one who collects salt in natural salt ponds, or
+      inclosures from the sea.
+
+   {Salt sedative} (Chem.), boracic acid. [Obs.]
+
+   {Salt spring}, a spring of salt water.
+
+   {Salt tree} (Bot.), a small leguminous tree ({Halimodendron
+      argenteum}) growing in the salt plains of the Caspian
+      region and in Siberia.
+
+   {Salt water}, water impregnated with salt, as that of the
+      ocean and of certain seas and lakes; sometimes, also,
+      tears.
+      [1913 Webster]
+
+            Mine eyes are full of tears, I can not see;
+            And yet salt water blinds them not so much
+            But they can see a sort of traitors here. --Shak.
+      [1913 Webster]
+
+   {Salt-water sailor}, an ocean mariner.
+
+   {Salt-water tailor}. (Zo["o]l.) See {Bluefish}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>salt</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Salt \Salt\, v. i.
+   To deposit salt as a saline solution; as, the brine begins to
+   salt.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>salt</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Salt \Salt\, n. [L. saltus, fr. salire to leap.]
+   The act of leaping or jumping; a leap. [Obs.] --B. Jonson.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>salt</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Salt \Salt\, v. t. [imp. &amp; p. p. {Salted}; p. pr. &amp; vb. n.
+   {Salting}.]
+   1. To sprinkle, impregnate, or season with salt; to preserve
+      with salt or in brine; to supply with salt; as, to salt
+      fish, beef, or pork; to salt cattle.
+      [1913 Webster]
+
+   2. To fill with salt between the timbers and planks, as a
+      ship, for the preservation of the timber.
+      [1913 Webster]
+
+   {To salt a mine}, to artfully deposit minerals in a mine in
+      order to deceive purchasers regarding its value. [Cant]
+
+   {To salt away}, {To salt down}, to prepare with, or pack in,
+      salt for preserving, as meat, eggs, etc.; hence,
+      colloquially, to save, lay up, or invest sagely, as money.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>salt</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>salt n. A tiny bit of near-random data inserted where too much
+   regularity would be undesirable; a data {frob} (sense 1). For example,
+   the Unix crypt(3) man page mentions that "the salt string is used to
+   perturb the DES algorithm in one of 4096 different ways."
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>salt</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>SALT
+     Script Application Language for Telix
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>salt</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>SALT
+     Suse Advanced Linux Technology (Suse, Linux)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>salt</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>salt
+     adj 1: containing or filled with salt; "salt water" [ant: {fresh}]
+     2: of speech that is painful or bitter; "salt scorn"-
+        Shakespeare; "a salt apology"
+     3: one of the four basic taste sensations; like the taste of
+        sea water [syn: {salty}]
+     n 1: a compound formed by replacing hydrogen in an acid by a
+          metal (or a radical that acts like a metal)
+     2: white crystalline form of especially sodium chloride used to
+        season and preserve food [syn: {table salt}, {common salt}]
+     3: negotiations between the United States and the Union of
+        Soviet Socialist Republics opened in 1969 in Helsinki
+        designed to limit both countries' stock of nuclear weapons
+        [syn: {Strategic Arms Limitation Talks}]
+     4: the taste experience when salt is taken into the mouth [syn:
+         {saltiness}, {salinity}]
+     v 1: add salt to
+     2: sprinkle as if with salt; "the rebels had salted the fields
+        with mines and traps"
+     3: add zest or liveliness to; "She salts her lectures with
+        jokes"
+     4: preserve with salt; "people used to salt meats on ships"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

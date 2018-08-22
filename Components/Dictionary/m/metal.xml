@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>metal</Word>
+  <Definitions>
+    <Definition>
+      <Word>metal</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>METAL
+     
+        1. Mega-Extensive Telecommunications Applications Language.
+        BBS language for PRODOS 8 on Apple II.
+     
+        2. The syntax-definition formalism of the Mentor system.
+        Metal specifications are compiled to specifications for a
+        scanner/parser generator such as Lex/Yacc.  "Metal: A
+        Formalism to Specify Formalisms", G.  Kahn et al, Sci Comp
+        Prog 3:151-188 (1983).
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>metal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Metal \Met"al\ (? or ?; 277), n. [F. m['e]tal, L. metallum
+   metal, mine, Gr. ? mine; cf. Gr. ? to search after. Cf.
+   {Mettle}, {Medal}.]
+   1. (Chem.) An elementary substance, as sodium, calcium, or
+      copper, whose oxide or hydroxide has basic rather than
+      acid properties, as contrasted with the nonmetals, or
+      metalloids. No sharp line can be drawn between the metals
+      and nonmetals, and certain elements partake of both acid
+      and basic qualities, as chromium, manganese, bismuth, etc.
+      [1913 Webster]
+
+   Note: Popularly, the name is applied to certain hard, fusible
+         metals, as gold, silver, copper, iron, tin, lead, zinc,
+         nickel, etc., and also to the mixed metals, or metallic
+         alloys, as brass, bronze, steel, bell metal, etc.
+         [1913 Webster]
+
+   2. Ore from which a metal is derived; -- so called by miners.
+      --Raymond.
+      [1913 Webster]
+
+   3. A mine from which ores are taken. [Obs.]
+      [1913 Webster]
+
+            Slaves . . . and persons condemned to metals. --Jer.
+                                                  Taylor.
+      [1913 Webster]
+
+   4. The substance of which anything is made; material; hence,
+      constitutional disposition; character; temper.
+      [1913 Webster]
+
+            Not till God make men of some other metal than
+            earth.                                --Shak.
+      [1913 Webster]
+
+   5. Courage; spirit; mettle. See {Mettle}. --Shak.
+      [1913 Webster]
+
+   Note: The allusion is to the temper of the metal of a sword
+         blade. --Skeat.
+         [1913 Webster]
+
+   6. The broken stone used in macadamizing roads and ballasting
+      railroads.
+      [1913 Webster]
+
+   7. The effective power or caliber of guns carried by a vessel
+      of war.
+      [1913 Webster]
+
+   8. Glass in a state of fusion. --Knight.
+      [1913 Webster]
+
+   9. pl. The rails of a railroad. [Eng.]
+      [1913 Webster]
+
+   {Base metal} (Chem.), any one of the metals, as iron, lead,
+      etc., which are readily tarnished or oxidized, in contrast
+      with the noble metals. In general, a metal of small value,
+      as compared with gold or silver.
+
+   {Fusible metal} (Metal.), a very fusible alloy, usually
+      consisting of bismuth with lead, tin, or cadmium.
+
+   {Heavy metals} (Chem.), the metallic elements not included in
+      the groups of the alkalies, alkaline earths, or the
+      earths; specifically, the heavy metals, as gold, mercury,
+      platinum, lead, silver, etc.
+
+   {Light metals} (Chem.), the metallic elements of the alkali
+      and alkaline earth groups, as sodium, lithium, calcium,
+      magnesium, etc.; also, sometimes, the metals of the
+      earths, as aluminium.
+
+   {Muntz metal}, an alloy for sheathing and other purposes,
+      consisting of about sixty per cent of copper, and forty of
+      zinc. Sometimes a little lead is added. It is named from
+      the inventor.
+
+   {Prince's metal} (Old Chem.), an alloy resembling brass,
+      consisting of three parts of copper to one of zinc; --
+      also called {Prince Rupert's metal}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>metal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Metal \Met"al\, v. t. [imp. &amp; p. p. {Metaled} (? or ?) or
+   {Metalled}; p. pr. &amp; vb. n. {Metaling} or {Metalling}.]
+   To cover with metal; as, to metal a ship's bottom; to metal a
+   road.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>metal</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>METAL
+     Machine Evaluation and Translation Language (Siemens)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>metal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>metal
+     adj : containing or made of or resembling or characteristic of a
+           metal; "a metallic compound"; "metallic luster"; "the
+           strange metallic note of the meadow lark, suggesting
+           the clash of vibrant blades"- Ambrose Bierce [syn: {metallic},
+            {metal(a)}] [ant: {nonmetallic}]
+     n 1: any of several chemical elements that are usually shiny
+          solids that conduct heat or electricity and can be
+          formed into sheets etc. [syn: {metallic element}]
+     2: a mixture containing two or more metallic elements or
+        metallic and nonmetallic elements usually fused together
+        or dissolving into each other when molten; "brass is an
+        alloy of zinc and copper" [syn: {alloy}]
+     v : cover with metal
+     [also: {metalling}, {metalled}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

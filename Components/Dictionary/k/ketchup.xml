@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ketchup</Word>
+  <Definitions>
+    <Definition>
+      <Word>ketchup</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>ketchup \ketch"up\, n. [Probably of East Indian origin, because
+   it was originally a kind of East Indian pickles. Cf. also
+   Malay k[e^]chap fish sauce. --MW10.]
+   A pureed table sauce made predominantly from tomatoes,
+   flavored with onions, sugar, salt and spices; called also
+   {tomato ketchup}. The term is also applied to pureed sauces
+   containing mushrooms, walnuts, etc., being called in such
+   cases {mushroom ketchup}, {walnut ketchup}, etc. [Written
+   also {catsup} and {catchup}.]
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ketchup</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Catchup \Catch"up\, Catsup \Cat"sup\, n. [Probably of East
+   Indian origin, because it was originally a kind of East
+   Indian pickles. Cf. also Malay k[e^]chap fish sauce. --MW10.]
+   A pureed table sauce made predominantly from tomatoes,
+   flavored with onions, sugar, salt and spices; called also
+   {tomato ketchup}. The term is also applied to pureed sauces
+   containing mushrooms, walnuts, etc., being called in such
+   cases {mushroom ketchup}, {walnut ketchup}, etc. [Written
+   also {ketchup}.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ketchup</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ketchup
+     n : thick spicy sauce made from tomatoes [syn: {catsup}, {cetchup},
+          {tomato ketchup}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

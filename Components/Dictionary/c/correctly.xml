@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>correctly</Word>
+  <Definitions>
+    <Definition>
+      <Word>correctly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Correctly \Cor*rect"ly\ (k?r-r?kt"l?), adv.
+   In a correct manner; exactly; acurately; without fault or
+   error.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>correctly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>correctly
+     adv : in a correct manner; "he guessed right" [syn: {right}, {aright}]
+           [ant: {incorrectly}, {incorrectly}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

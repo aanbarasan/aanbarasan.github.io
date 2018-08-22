@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>clawfoot</Word>
+  <Definitions>
+    <Definition>
+      <Word>clawfoot</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>clawfoot
+     n : a deformity of the foot characterized by an abnormally high
+         arch and hyperextension of the toes which gives the foot
+         the appearance of a claw [syn: {pes cavus}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

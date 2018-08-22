@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fort</Word>
+  <Definitions>
+    <Definition>
+      <Word>fort</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fort \Fort\, n. [F., from fort strong, L. fortis; perh. akin to
+   Skr. darh to fix, make firm, and to E. firm Cf. {Forte},
+   {Force}, {Fortalice}, {Comfort}, {Effort}.] (Mil.)
+   A strong or fortified place; usually, a small fortified
+   place, occupied only by troops, surrounded with a ditch,
+   rampart, and parapet, or with palisades, stockades, or other
+   means of defense; a fortification.
+   [1913 Webster]
+
+         Detached works, depending solely on their own strength,
+         belong to the class of works termed forts. --Farrow.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fort</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fort
+     n 1: a fortified military post where troops are stationed [syn: {garrison}]
+     2: a fortified defensive structure [syn: {fortress}]
+     v 1: gather in, or as if in, a fort, as for protection or defense
+          [syn: {fort up}]
+     2: enclose by or as if by a fortification [syn: {fortify}]
+     3: station (troops) in a fort
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

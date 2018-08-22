@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>catastrophe</Word>
+  <Definitions>
+    <Definition>
+      <Word>catastrophe</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Catastrophe \Ca*tas"tro*phe\, n. [L. catastropha, Gr. ?, fr. ?
+   to turn up and down, to overturn; kata` down + ? to turn.]
+   1. An event producing a subversion of the order or system of
+      things; a final event, usually of a calamitous or
+      disastrous nature; hence, sudden calamity; great
+      misfortune.
+      [1913 Webster]
+
+            The strange catastrophe of affairs now at London.
+                                                  --Bp. Burnet.
+      [1913 Webster]
+
+            The most horrible and portentous catastrophe that
+            nature ever yet saw.                  --Woodward.
+      [1913 Webster]
+
+   2. The final event in a romance or a dramatic piece; a
+      denouement, as a death in a tragedy, or a marriage in a
+      comedy.
+      [1913 Webster]
+
+   3. (Geol.) A violent and widely extended change in the
+      surface of the earth, as, an elevation or subsidence of
+      some part of it, effected by internal causes. --Whewell.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>catastrophe</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>catastrophe
+     n 1: an event resulting in great loss and misfortune; "the whole
+          city was affected by the irremediable calamity"; "the
+          earthquake was a disaster" [syn: {calamity}, {disaster},
+           {tragedy}, {cataclysm}]
+     2: a state of extreme (usually irremediable) ruin and
+        misfortune; "lack of funds has resulted in a catastrophe
+        for our school system"; "his policies were a disaster"
+        [syn: {disaster}]
+     3: a sudden violent change in the earth's surface [syn: {cataclysm}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

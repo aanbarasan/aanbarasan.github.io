@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>acquisition</Word>
+  <Definitions>
+    <Definition>
+      <Word>acquisition</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Acquisition \Ac`qui*si"tion\, n. [L. acquisitio, fr. acquirere:
+   cf. F. acquisition. See {Acquire}.]
+   1. The act or process of acquiring.
+      [1913 Webster]
+
+            The acquisition or loss of a province. --Macaulay.
+      [1913 Webster]
+
+   2. Specifically: (Business, Finance) The purchase of one
+      commercial enterprise by another, whether for cash, or in
+      a trade of stock of the purchasing company for that of the
+      purchased company.
+
+   Syn: buyout, takeover.
+        [PJC]
+
+   3. The thing acquired or gained; an acquirement; a gain; as,
+      learning is an acquisition.
+      [1913 Webster]
+
+   Syn: See {Acquirement}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>acquisition</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>acquisition
+     n 1: the act of contracting or assuming or acquiring possession
+          of something; "the acquisition of wealth"; "the
+          acquisition of one company by another"
+     2: something acquired; "a recent acquisition by the museum"
+     3: the cognitive process of acquiring skill or knowledge; "the
+        child's acquisition of language" [syn: {learning}]
+     4: an ability that has been acquired by training [syn: {skill},
+         {accomplishment}, {acquirement}, {attainment}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

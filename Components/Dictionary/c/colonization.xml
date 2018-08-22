@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>colonization</Word>
+  <Definitions>
+    <Definition>
+      <Word>colonization</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Colonization \Col`o*ni*za"tion\, n. [Cf. F. colonisation.]
+   The act of colonizing, or the state of being colonized; the
+   formation of a colony or colonies.
+   [1913 Webster]
+
+         The wide continent of America invited colonization.
+                                                  --Bancroft.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>colonization</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>colonization
+     n : the act of colonizing; the establishment of colonies; "the
+         British colonization of America" [syn: {colonisation}, {settlement}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

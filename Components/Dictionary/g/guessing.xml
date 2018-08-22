@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>guessing</Word>
+  <Definitions>
+    <Definition>
+      <Word>guessing</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Guess \Guess\ (g[e^]s), v. t. [imp. &amp; p. p. {Guessed}; p. pr. &amp;
+   vb. n. {Guessing}.] [OE. gessen; akin to Dan. gisse, Sw.
+   gissa, Icel. gizha, D. gissen: cf. Dan. giette to guess,
+   Icel. geta to get, to guess. Probably originally, to try to
+   get, and akin to E. get. See {Get}.]
+   1. To form an opinion concerning, without knowledge or means
+      of knowledge; to judge of at random; to conjecture.
+      [1913 Webster]
+
+            First, if thou canst, the harder reason guess.
+                                                  --Pope.
+      [1913 Webster]
+
+   2. To judge or form an opinion of, from reasons that seem
+      preponderating, but are not decisive.
+      [1913 Webster]
+
+            We may then guess how far it was from his design.
+                                                  --Milton.
+      [1913 Webster]
+
+            Of ambushed men, whom, by their arms and dress,
+            To be Taxallan enemies I guess.       --Dryden.
+      [1913 Webster]
+
+   3. To solve by a correct conjecture; to conjecture rightly;
+      as, he who guesses the riddle shall have the ring; he has
+      guessed my designs.
+      [1913 Webster]
+
+   4. To hit upon or reproduce by memory. [Obs.]
+      [1913 Webster]
+
+            Tell me their words, as near as thou canst guess
+            them.                                 --Shak.
+      [1913 Webster]
+
+   5. To think; to suppose; to believe; to imagine; -- followed
+      by an objective clause.
+      [1913 Webster]
+
+            Not all together; better far, I guess,
+            That we do make our entrance several ways. --Shak.
+      [1913 Webster]
+
+            But in known images of life I guess
+            The labor greater.                    --Pope.
+
+   Syn: To conjecture; suppose; surmise; suspect; divine; think;
+        imagine; fancy.
+
+   Usage: {To Guess}, {Think}, {Reckon}. Guess denotes, to
+          attempt to hit upon at random; as, to guess at a thing
+          when blindfolded; to conjecture or form an opinion on
+          hidden or very slight grounds: as, to guess a riddle;
+          to guess out the meaning of an obscure passage. The
+          use of the word guess for think or believe, although
+          abundantly sanctioned by good English authors, is now
+          regarded as antiquated and objectionable by
+          discriminating writers. It may properly be branded as
+          a colloguialism and vulgarism when used respecting a
+          purpose or a thing about which there is no
+          uncertainty; as, I guess I 'll go to bed.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>guessing</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>guessing
+     n : an estimate based on little or no information [syn: {guess},
+          {guesswork}, {shot}, {dead reckoning}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

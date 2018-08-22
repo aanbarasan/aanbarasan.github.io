@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>broccoli</Word>
+  <Definitions>
+    <Definition>
+      <Word>broccoli</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Broccoli \Broc"co*li\, n. [It. broccoli, pl. of broccolo sprout,
+   cabbage sprout, dim. of brocco splinter. See {Broach}, n.]
+   (Bot.)
+   A plant of the Cabbage species ({Brassica oleracea}) of many
+   varieties, resembling the cauliflower. The ``curd,'' or
+   flowering head, is the part used for food.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>broccoli</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>broccoli
+     n 1: plant with dense clusters of tight green flower buds [syn: {Brassica
+          oleracea italica}]
+     2: branched green undeveloped flower heads
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

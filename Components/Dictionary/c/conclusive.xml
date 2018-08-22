@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>conclusive</Word>
+  <Definitions>
+    <Definition>
+      <Word>conclusive</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Conclusive \Con*clu"sive\, a. [Cf. F. conclusif.]
+   Belonging to a close or termination; decisive; convincing;
+   putting an end to debate or question; leading to, or
+   involving, a conclusion or decision.
+   [1913 Webster]
+
+         Secret reasons . . . equally conclusive for us as they
+         were for them.                           --Rogers.
+   [1913 Webster]
+
+   {Conclusive evidence} (Law), that of which, from its nature,
+      the law allows no contradiction or explanation.
+
+   {Conclusive presumption} (Law), an inference which the law
+      makes so peremptorily that it will not allow it to be
+      overthrown by any contrary proof, however strong.
+
+   Syn: Final; ultimate; unanswerable. See {Final}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>conclusive</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>conclusive
+     adj 1: forming an end or termination; especially putting an end to
+            doubt or question; "conclusive proof"; "the evidence
+            is conclusive" [ant: {inconclusive}]
+     2: final and deciding; "the conclusive reason"
+     3: expressing finality with no implication of possible change;
+        "an absolute (or unequivocal) quarantee to respect the
+        nation's authority"; "inability to make a conclusive (or
+        unequivocal) refusal" [syn: {absolute}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

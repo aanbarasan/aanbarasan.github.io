@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>anaheim</Word>
+  <Definitions>
+    <Definition>
+      <Word>anaheim</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Anaheim, CA (city, FIPS 2000)
+  Location: 33.83890 N, 117.87233 W
+  Population (1990): 266406 (93177 housing units)
+  Area: 114.7 sq km (land), 4.0 sq km (water)
+  Zip code(s): 92801, 92802, 92804, 92805, 92806, 92807, 92808
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>anaheim</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Anaheim
+     n : a city in southern California (southeast of Los Angeles);
+         site of Disneyland
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,7 +1,5 @@
-var gitHubUrl = "https://anbarasanmbbs.github.io/";
 var localUrl = "../";
-var commanUrl = gitHubUrl;
-// var commanUrl = localUrl;
+var commanUrl = localUrl;
 function getUrl(url){
     return commanUrl + url;
 }

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>acquire</Word>
+  <Definitions>
+    <Definition>
+      <Word>acquire</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Acquire \Ac*quire"\, v. t. [imp. &amp; p. p. {Acquired}; p. pr. &amp;
+   vb. n. {Acquiring}.] [L. acquirere, acquisitum; ad + quarere
+   to seek for. In OE. was a verb aqueren, fr. the same, through
+   OF. aquerre. See {Quest}..]
+   To gain, usually by one's own exertions; to get as one's own;
+   as, to acquire a title, riches, knowledge, skill, good or bad
+   habits.
+   [1913 Webster]
+
+         No virtue is acquired in an instant, but step by step.
+                                                  --Barrow.
+   [1913 Webster]
+
+         Descent is the title whereby a man, on the death of his
+         ancestor, acquires his estate, by right of
+         representation, as his heir at law.      --Blackstone.
+   [1913 Webster]
+
+   Syn: To obtain; gain; attain; procure; win; earn; secure. See
+        {Obtain}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>acquire</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>acquire
+     v 1: come into the possession of something concrete or abstract;
+          "She got a lot of paintings from her uncle"; "They
+          acquired a new pet"; "Get your results the next day";
+          "Get permission to take a few days off from work" [syn:
+          {get}]
+     2: take on a certain form, attribute, or aspect; "His voice
+        took on a sad tone"; "The story took a new turn"; "he
+        adopted an air of superiority"; "She assumed strange
+        manners"; "The gods assume human or animal form in these
+        fables" [syn: {assume}, {adopt}, {take on}, {take}]
+     3: come to have or undergo a change of (physical features and
+        attributes); "He grew a beard"; "The patient developed
+        abdominal pains"; "I got funny spots all over my body";
+        "Well-developed breasts" [syn: {grow}, {develop}, {produce},
+         {get}]
+     4: locate (a moving entity) by means of a tracking system such
+        as radar
+     5: win something through one's efforts; "I acquired a passing
+        knowledge of Chinese"; "Gain an understanding of
+        international finance" [syn: {win}, {gain}] [ant: {lose}]
+     6: acquire or gain knowledge or skills; "She learned dancing
+        from her sister"; "I learned Sanskrit"; "Children acquire
+        language at an amazing rate" [syn: {learn}, {larn}]
+     7: gain through experience; "I acquired a strong aversion to
+        television"; "Children must develop a sense of right and
+        wrong"; "Dave developed leadership qualities in his new
+        position"; "develop a passion for painting" [syn: {develop},
+         {evolve}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

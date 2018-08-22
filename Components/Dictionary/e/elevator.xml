@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>elevator</Word>
+  <Definitions>
+    <Definition>
+      <Word>elevator</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Elevator \El"e*va`tor\, n. [L., one who raises up, a deliverer:
+   cf. F. ['e]l['e]vateur.]
+   1. One who, or that which, raises or lifts up anything.
+      [1913 Webster]
+
+   2. A mechanical contrivance, usually an endless belt or chain
+      with a series of scoops or buckets, for transferring grain
+      to an upper loft for storage.
+      [1913 Webster]
+
+   3. A cage or platform (called an elevator car) and the
+      hoisting machinery in a hotel, warehouse, mine, etc., for
+      conveying persons, goods, etc., to or from different
+      floors or levels; -- called in England a {lift}; the cage
+      or platform itself.
+      [1913 Webster]
+
+   4. A building for elevating, storing, and discharging, grain.
+      [1913 Webster]
+
+   5. (Anat.) A muscle which serves to raise a part of the body,
+      as the leg or the eye.
+      [1913 Webster]
+
+   6. (Surg.) An instrument for raising a depressed portion of a
+      bone.
+      [1913 Webster]
+
+   7. (A["e]ronautics) A movable plane or group of planes used
+      to control the altitude or fore-and-aft poise or
+      inclination of an airship or flying machine.
+      [Webster 1913 Suppl.]
+
+   {Elevator head}, {Elevator leg}, &amp; {Elevator boot}, the boxes
+      in which the upper pulley, belt, and lower pulley,
+      respectively, run in a grain elevator. [1913 Webster]
+
+   {Elevator shoes}, shoes having unusually thick soles and
+      heels, designed to make a person appear taller than he or
+      she actually is. [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>elevator</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>elevator
+     n 1: lifting device consisting of a platform or cage that is
+          raised and lowered mechanically in a vertical shaft in
+          order to move people from one floor to another in a
+          building [syn: {lift}]
+     2: the airfoil on the tailplane of an aircraft that makes it
+        ascend or descend
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

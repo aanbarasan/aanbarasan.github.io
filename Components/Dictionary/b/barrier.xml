@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>barrier</Word>
+  <Definitions>
+    <Definition>
+      <Word>barrier</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Barrier \Bar"ri*er\, n. [OE. barrere, barere, F. barri[`e]re,
+   fr. barre bar. See {Bar}, n.]
+   1. (Fort.) A carpentry obstruction, stockade, or other
+      obstacle made in a passage in order to stop an enemy.
+      [1913 Webster]
+
+   2. A fortress or fortified town, on the frontier of a
+      country, commanding an avenue of approach.
+      [1913 Webster]
+
+   3. pl. A fence or railing to mark the limits of a place, or
+      to keep back a crowd.
+      [1913 Webster]
+
+            No sooner were the barriers opened, than he paced
+            into the lists.                       --Sir W.
+                                                  Scott.
+      [1913 Webster]
+
+   4. Any obstruction; anything which hinders approach or
+      attack. ``Constitutional barriers.'' --Hopkinson.
+      [1913 Webster]
+
+   5. Any limit or boundary; a line of separation.
+      [1913 Webster]
+
+            'Twixt that [instinct] and reason, what a nice
+            barrier!                              --Pope.
+      [1913 Webster]
+
+   {Barrier gate}, a heavy gate to close the opening through a
+      barrier.
+
+   {Barrier reef}, a form of coral reef which runs in the
+      general direction of the shore, and incloses a lagoon
+      channel more or less extensive.
+
+   {To fight at barriers}, to fight with a barrier between, as a
+      martial exercise. [Obs.]
+      [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>barrier</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>barrier
+     n 1: a structure or object that impedes free movement
+     2: any condition that makes it difficult to make progress or to
+        achieve an objective; "intolerance is a barrier to
+        understanding" [syn: {roadblock}]
+     3: anything serving to maintain separation by obstructing
+        vision or access
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

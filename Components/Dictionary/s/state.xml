@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>state</Word>
+  <Definitions>
+    <Definition>
+      <Word>state</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>state
+     
+        &lt;storage, architecture, jargon, theory&gt; How something is; its
+        configuration, attributes, condition, or information content.
+        The state of a system is usually temporary (i.e. it changes
+        with time) and volatile (i.e. it will be lost or reset to some
+        initial state if the system is switched off).
+     
+        A state may be considered to be a point in some {space} of all
+        possible states.  A simple example is a light, which is either
+        on or off.  A complex example is the electrical activation in
+        a human brain while solving a problem.
+     
+        In computing and related fields, states, as in the light
+        example, are often modelled as being {discrete} (rather than
+        continuous) and the transition from one state to another is
+        considered to be instantaneous.  Another (related) property of
+        a system is the number of possible states it may exhibit.
+        This may be finite or infinite.  A common model for a system
+        with a finite number of discrete state is a {finite state
+        machine}.
+     
+        [{Jargon File}]
+     
+        (1996-10-13)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>state</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>State \State\ (st[=a]t), n. [OE. stat, OF. estat, F. ['e]tat,
+   fr. L. status a standing, position, fr. stare, statum, to
+   stand. See {Stand}, and cf. {Estate}, {Status}.]
+   1. The circumstances or condition of a being or thing at any
+      given time.
+      [1913 Webster]
+
+            State is a term nearly synonymous with ``mode,'' but
+            of a meaning more extensive, and is not exclusively
+            limited to the mutable and contingent. --Sir W.
+                                                  Hamilton.
+      [1913 Webster]
+
+            Declare the past and present state of things.
+                                                  --Dryden.
+      [1913 Webster]
+
+            Keep the state of the question in your eye. --Boyle.
+      [1913 Webster]
+
+   2. Rank; condition; quality; as, the state of honor.
+      [1913 Webster]
+
+            Thy honor, state, and seat is due to me. --Shak.
+      [1913 Webster]
+
+   3. Condition of prosperity or grandeur; wealthy or prosperous
+      circumstances; social importance.
+      [1913 Webster]
+
+            She instructed him how he should keep state, and yet
+            with a modest sense of his misfortunes. --Bacon.
+      [1913 Webster]
+
+            Can this imperious lord forget to reign,
+            Quit all his state, descend, and serve again?
+                                                  --Pope.
+      [1913 Webster]
+
+   4. Appearance of grandeur or dignity; pomp.
+      [1913 Webster]
+
+            Where least of state there most of love is shown.
+                                                  --Dryden.
+      [1913 Webster]
+
+   5. A chair with a canopy above it, often standing on a dais;
+      a seat of dignity; also, the canopy itself. [Obs.]
+      [1913 Webster]
+
+            His high throne, . . . under state
+            Of richest texture spread.            --Milton.
+      [1913 Webster]
+
+            When he went to court, he used to kick away the
+            state, and sit down by his prince cheek by jowl.
+                                                  --Swift.
+      [1913 Webster]
+
+   6. Estate; possession. [Obs.] --Daniel.
+      [1913 Webster]
+
+            Your state, my lord, again is yours.  --Massinger.
+      [1913 Webster]
+
+   7. A person of high rank. [Obs.] --Latimer.
+      [1913 Webster]
+
+   8. Any body of men united by profession, or constituting a
+      community of a particular character; as, the civil and
+      ecclesiastical states, or the lords spiritual and temporal
+      and the commons, in Great Britain. Cf. {Estate}, n., 6.
+      [1913 Webster]
+
+   9. The principal persons in a government.
+      [1913 Webster]
+
+            The bold design
+            Pleased highly those infernal states. --Milton.
+      [1913 Webster]
+
+   10. The bodies that constitute the legislature of a country;
+       as, the States-general of Holland.
+       [1913 Webster]
+
+   11. A form of government which is not monarchial, as a
+       republic. [Obs.]
+       [1913 Webster]
+
+             Well monarchies may own religion's name,
+             But states are atheists in their very fame.
+                                                  --Dryden.
+       [1913 Webster]
+
+   12. A political body, or body politic; the whole body of
+       people who are united under one government, whatever may
+       be the form of the government; a nation.
+       [1913 Webster]
+
+             Municipal law is a rule of conduct prescribed by
+             the supreme power in a state.        --Blackstone.
+       [1913 Webster]
+
+             The Puritans in the reign of Mary, driven from
+             their homes, sought an asylum in Geneva, where they
+             found a state without a king, and a church without
+             a bishop.                            --R. Choate.
+       [1913 Webster]
+
+   13. In the United States, one of the commonwealths, or bodies
+       politic, the people of which make up the body of the
+       nation, and which, under the national constitution, stand
+       in certain specified relations with the national
+       government, and are invested, as commonwealths, with full
+       power in their several spheres over all matters not
+       expressly inhibited.
+       [1913 Webster]
+
+   Note: The term State, in its technical sense, is used in
+         distinction from the federal system, i. e., the
+         government of the United States.
+         [1913 Webster]
+
+   14. Highest and stationary condition, as that of maturity
+       between growth and decline, or as that of crisis between
+       the increase and the abating of a disease; height; acme.
+       [Obs.]
+       [1913 Webster]
+
+   Note: When state is joined with another word, or used
+         adjectively, it denotes public, or what belongs to the
+         community or body politic, or to the government; also,
+         what belongs to the States severally in the American
+         Union; as, state affairs; state policy; State laws of
+         Iowa.
+         [1913 Webster]
+
+   {Nascent state}. (Chem.) See under {Nascent}.
+
+   {Secretary of state}. See {Secretary}, n., 3.
+
+   {State barge}a royal barge, or a barge belonging to a
+      government.
+
+   {State bed}, an elaborately carved or decorated bed.
+
+   {State carriage}, a highly decorated carriage for officials
+      going in state, or taking part in public processions.
+
+   {State paper}, an official paper relating to the interests or
+      government of a state. --Jay.
+
+   {State prison}, a public prison or penitentiary; -- called
+      also {State's prison}.
+
+   {State prisoner}, one in confinement, or under arrest, for a
+      political offense.
+
+   {State rights}, or {States' rights}, the rights of the
+      several independent States, as distinguished from the
+      rights of the Federal government. It has been a question
+      as to what rights have been vested in the general
+      government. [U.S.]
+
+   {State's evidence}. See {Probator}, 2, and under {Evidence}.
+      
+
+   {State sword}, a sword used on state occasions, being borne
+      before a sovereign by an attendant of high rank.
+
+   {State trial}, a trial of a person for a political offense.
+      
+
+   {States of the Church}. See under {Ecclesiastical}.
+      [1913 Webster]
+
+   Syn: {State}, {Situation}, {Condition}.
+
+   Usage: State is the generic term, and denotes in general the
+          mode in which a thing stands or exists. The situation
+          of a thing is its state in reference to external
+          objects and influences; its condition is its internal
+          state, or what it is in itself considered. Our
+          situation is good or bad as outward things bear
+          favorably or unfavorably upon us; our condition is
+          good or bad according to the state we are actually in
+          as respects our persons, families, property, and other
+          things which comprise our sources of enjoyment.
+          [1913 Webster]
+
+                I do not, brother,
+                Infer as if I thought my sister's state
+                Secure without all doubt or controversy.
+                                                  --Milton.
+          [1913 Webster]
+
+                We hoped to enjoy with ease what, in our
+                situation, might be called the luxuries of life.
+                                                  --Cook.
+          [1913 Webster]
+
+                And, O, what man's condition can be worse
+                Than his whom plenty starves and blessings
+                curse?                            --Cowley.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>state</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>State \State\, v. t. [imp. &amp; p. p. {Stated}; p. pr. &amp; vb. n.
+   {Stating}.]
+   1. To set; to settle; to establish. [R.]
+      [1913 Webster]
+
+            I myself, though meanest stated,
+            And in court now almost hated.        --Wither.
+      [1913 Webster]
+
+            Who calls the council, states the certain day.
+                                                  --Pope.
+      [1913 Webster]
+
+   2. To express the particulars of; to set down in detail or in
+      gross; to represent fully in words; to narrate; to recite;
+      as, to state the facts of a case, one's opinion, etc.
+      [1913 Webster]
+
+   {To state it}. To assume state or dignity. [Obs.] ``Rarely
+      dressed up, and taught to state it.'' --Beau. &amp; Fl.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>state</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>State \State\ (st[=a]t), a.
+   1. Stately. [Obs.] --Spenser.
+      [1913 Webster]
+
+   2. Belonging to the state, or body politic; public.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>state</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>State \State\, n.
+   A statement; also, a document containing a statement. [R.]
+   --Sir W. Scott.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>state</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Argillaceous \Ar`gil*la"ceous\, a. [L. argillaceus, fr.
+   argilla.]
+   Of the nature of clay; consisting of, or containing, argil or
+   clay; clayey.
+   [1913 Webster]
+
+   {Argillaceous sandstone} (Geol.), a sandstone containing much
+      clay.
+
+   {Argillaceous iron ore}, the clay ironstone.
+
+   {Argillaceous schist} or {state}. See {Argillite}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>state</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>state n. 1. Condition, situation. "What's the state of your latest
+   hack?" "It's winning away." "The system tried to read and write the disk
+   simultaneously and got into a totally {wedged} state." The standard
+   question "What's your state?" means "What are you doing?" or "What are
+   you about to do?" Typical answers are "about to gronk out", or "hungry".
+   Another standard question is "What's the state of the world?", meaning
+   "What's new?" or "What's going on?". The more terse and humorous way of
+   asking these questions would be "State-p?". Another way of phrasing the
+   first question under sense 1 would be "state-p latest hack?". 2.
+   Information being maintained in non-permanent memory (electronic or
+   human).
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>state</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>state
+     n 1: the group of people comprising the government of a sovereign
+          state; "the state has lowered its income tax"
+     2: the territory occupied by one of the constituent
+        administrative districts of a nation; "his state is in the
+        deep south" [syn: {province}]
+     3: a politically organized body of people under a single
+        government; "the state has elected a new president";
+        "African nations"; "students who had come to the nation's
+        capitol"; "the country's largest manufacturer"; "an
+        industrialized land" [syn: {nation}, {country}, {land}, {commonwealth},
+         {res publica}, {body politic}]
+     4: the way something is with respect to its main attributes;
+        "the current state of knowledge"; "his state of health";
+        "in a weak financial state"
+     5: the federal department in the UnitedStates that sets and
+        maintains foreign policies; "the Department of State was
+        created in 1789" [syn: {Department of State}, {State
+        Department}, {DoS}]
+     6: the territory occupied by a nation; "he returned to the land
+        of his birth"; "he visited several European countries"
+        [syn: {country}, {land}]
+     7: a state of depression or agitation; "he was in such a state
+        you just couldn't reason with him"
+     8: (chemistry) the three traditional states of matter are
+        solids (fixed shape and volume) and liquids (fixed volume
+        and shaped by the container) and gases (filling the
+        container); "the solid state of water is called ice" [syn:
+         {state of matter}]
+     v 1: express in words; "He said that he wanted to marry her";
+          "tell me what is bothering you"; "state your opinion";
+          "state your name" [syn: {say}, {tell}]
+     2: put before; "I submit to you that the accused is guilty"
+        [syn: {submit}, {put forward}, {posit}]
+     3: indicate through a symbol, formula, etc.; "Can you express
+        this distance in kilometers?" [syn: {express}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

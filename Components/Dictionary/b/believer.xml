@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>believer</Word>
+  <Definitions>
+    <Definition>
+      <Word>believer</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Believer \Be*liev"er\, n.
+   1. One who believes; one who is persuaded of the truth or
+      reality of some doctrine, person, or thing.
+      [1913 Webster]
+
+   2. (Theol.) One who gives credit to the truth of the
+      Scriptures, as a revelation from God; a Christian; -- in a
+      more restricted sense, one who receives Christ as his
+      Savior, and accepts the way of salvation unfolded in the
+      gospel.
+      [1913 Webster]
+
+            Thou didst open the Kingdom of Heaven to all
+            believers.                            --Book of Com.
+                                                  Prayer.
+      [1913 Webster]
+
+   3. (Eccl. Hist.) One who was admitted to all the rights of
+      divine worship and instructed in all the mysteries of the
+      Christian religion, in distinction from a catechumen, or
+      one yet under instruction.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>believer</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>believer
+     n 1: a supporter who accepts something as true [syn: {truster}]
+     2: a person who has religious faith [syn: {worshiper}, {worshipper}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

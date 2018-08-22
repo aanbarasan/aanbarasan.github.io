@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>gorgeous</Word>
+  <Definitions>
+    <Definition>
+      <Word>gorgeous</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gorgeous \Gor"geous\, a. [OF. gorgias beautiful, glorious, vain,
+   luxurious; cf. OF. gorgias ruff, neck handkerchief, and F.
+   gorge throat, and se pengorger to assume airs. Cf. {Gorge},
+   n.]
+   Imposing through splendid or various colors; showy; fine;
+   magnificent.
+   [1913 Webster]
+
+         Cloud-land, gorgeous land.               --Coleridge.
+   [1913 Webster]
+
+         Gorgeous as the sun at midsummer.        --Shak.
+   -- {Gor"geous*ly}, adv. -- {Gor"geous*ness}, n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gorgeous</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>gorgeous
+     adj : dazzlingly beautiful; "a gorgeous Victorian gown"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

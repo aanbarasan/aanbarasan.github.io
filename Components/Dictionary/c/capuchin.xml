@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>capuchin</Word>
+  <Definitions>
+    <Definition>
+      <Word>capuchin</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Capuchin \Cap`u*chin"\, n. [F. capucin a monk who wears a cowl,
+   fr. It. cappuccio hood. See {Capoch}.]
+   [1913 Webster]
+   1. (Eccl.) A Franciscan monk of the austere branch
+      established in 1526 by Matteo di Baschi, distinguished by
+      wearing the long pointed cowl or capoch of St. Francis.
+      [1913 Webster]
+
+            A bare-footed and long-bearded capuchin. --Sir W.
+                                                  Scott.
+      [1913 Webster]
+
+   2. A garment for women, consisting of a cloak and hood,
+      resembling, or supposed to resemble, that of capuchin
+      monks.
+      [1913 Webster]
+
+   3. (Zo["o]l.)
+      (a) A long-tailed South American monkey ({Cabus
+          capucinus}), having the forehead naked and wrinkled,
+          with the hair on the crown reflexed and resembling a
+          monk's cowl, the rest being of a grayish white; --
+          called also {capucine monkey}, {weeper}, {sajou},
+          {sapajou}, and {sai}.
+      (b) Other species of {Cabus}, as {Cabus fatuellus} (the
+          {brown capucine} or {horned capucine}.), {Cabus
+          albifrons} (the {cararara}), and {Cabus apella}.
+      (c) A variety of the domestic pigeon having a hoodlike
+          tuft of feathers on the head and sides of the neck.
+          [1913 Webster]
+
+   {Capuchin nun}, one of an austere order of Franciscan nuns
+      which came under Capuchin rule in 1538. The order had
+      recently been founded by Maria Longa.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>capuchin</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>capuchin
+     n 1: a hooded cloak for women
+     2: monkey of Central America and South America having a cowl of
+        thick hair on the head [syn: {ringtail}, {Cebus capucinus}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>personally</Word>
+  <Definitions>
+    <Definition>
+      <Word>personally</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Personally \Per"son*al*ly\, adv.
+   1. In a personal manner; by bodily presence; in person; not
+      by representative or substitute; as, to deliver a letter
+      personally.
+      [1913 Webster]
+
+            He, being cited, personally came not. --Grafton.
+      [1913 Webster]
+
+   2. With respect to an individual; as regards the person;
+      individually; particularly.
+      [1913 Webster]
+
+            She bore a mortal hatred to the house of Lancaster,
+            and personally to the king.           --Bacon.
+      [1913 Webster]
+
+   3. With respect to one's individuality; as regards one's
+      self; as, personally I have no feeling in the matter.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>personally</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>personally
+     adv 1: as yourself; "speaking personally, I would not want to go"
+     2: as a person; "he is personally repulsive"
+     3: in a personal way; "he took her comments personally" [ant: {impersonally}]
+     4: in the flesh; without involving anyone else; "I went there
+        personally"; "he appeared in person" [syn: {in person}]
+     5: concerning the speaker; "personally, I find him stupid"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

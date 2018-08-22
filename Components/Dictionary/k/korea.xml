@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>korea</Word>
+  <Definitions>
+    <Definition>
+      <Word>korea</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Korea, KY
+  Zip code(s): 40387
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>korea</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Korea \Korea\ prop. n.
+   An Asian peninsula off Manchuria.
+
+   Syn: Korean Peninsula.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>korea</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Korea
+     n : an Asian peninsula (off Manchuria) separating the Yellow Sea
+         and the Sea of Japan; the Korean name is Choson [syn: {Korean
+         Peninsula}, {Choson}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

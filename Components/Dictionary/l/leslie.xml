@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>leslie</Word>
+  <Definitions>
+    <Definition>
+      <Word>leslie</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Leslie, AR (city, FIPS 39460)
+  Location: 35.82945 N, 92.55592 W
+  Population (1990): 446 (239 housing units)
+  Area: 1.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 72645
+Leslie, GA (village, FIPS 46020)
+  Location: 31.95473 N, 84.08700 W
+  Population (1990): 445 (188 housing units)
+  Area: 4.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 31764
+Leslie, MI (city, FIPS 47180)
+  Location: 42.45003 N, 84.43081 W
+  Population (1990): 1872 (682 housing units)
+  Area: 3.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 49251
+Leslie, MO (village, FIPS 41690)
+  Location: 38.41762 N, 91.23123 W
+  Population (1990): 134 (53 housing units)
+  Area: 0.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 63056
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

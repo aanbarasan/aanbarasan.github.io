@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cashew</Word>
+  <Definitions>
+    <Definition>
+      <Word>cashew</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cashew \Ca*shew"\ (k[.a]*sh[=oo]"), n. [F. acajou, for cajou,
+   prob. from Malay k[=a]yu tree; cf. Pg. acaju, cf. {Acajou}.]
+   1. (Bot.) A tree ({Anacardium occidentale}) of the same
+      family which the sumac. It is native in tropical America,
+      but is now naturalized in all tropical countries. Its
+      fruit, a kidney-shaped nut, grows at the extremity of an
+      edible, pear-shaped hypocarp, about three inches long.
+      [1913 Webster]
+
+   2. the {cashew nut}.
+      [PJC]
+
+   {Cashew nut}, the large, kidney-shaped fruit of the cashew,
+      which is edible after the caustic oil has been expelled
+      from the shell by roasting the nut.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cashew</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cashew
+     n 1: tropical American evergreen tree bearing kidney-shaped nuts
+          that are edible only when roasted [syn: {cashew tree}, {Anacardium
+          occidentale}]
+     2: kidney-shaped nut edible only when roasted [syn: {cashew nut}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

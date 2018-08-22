@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hobo</Word>
+  <Definitions>
+    <Definition>
+      <Word>hobo</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hobo \Ho"bo\, n.; pl. {Hobos} or {Hoboes}. [Of uncertain
+   origin.]
+   A professional tramp; one who spends his life traveling from
+   place to place, esp. by stealing rides on trains, and begging
+   for a living. [U. S.] -- {Ho"bo*ism}, n.
+
+   Syn: tramp, bum.
+        [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hobo</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hobo
+     n : a disreputable vagrant; "a homeless tramp"; "he tried to
+         help the really down-and-out bums" [syn: {tramp}, {bum}]
+     [also: {hoboes} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

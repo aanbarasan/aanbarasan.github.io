@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>movie</Word>
+  <Definitions>
+    <Definition>
+      <Word>movie</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Movie \Mov"ie\, n.
+   1. A motion picture.
+
+   Syn: film, picture, moving picture, motion picture, picture
+        show, flick.
+        [PJC]
+
+   2. A motion picture show; the event of showing a motion
+      picture. In the pl., the event of showing a motion picture
+      at a movie theater; as, to go to the movies; to spend an
+      evening at the movies.
+      [PJC]
+
+   3. pl. The motion picture industry or medium, generally.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>movie</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>movie
+     n : a form of entertainment that enacts a story by a sequence of
+         images giving the illusion of continuous movement; "they
+         went to a movie every Saturday night"; "the film was shot
+         on location" [syn: {film}, {picture}, {moving picture}, {moving-picture
+         show}, {motion picture}, {motion-picture show}, {picture
+         show}, {pic}, {flick}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

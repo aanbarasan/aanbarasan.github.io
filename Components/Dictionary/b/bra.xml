@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bra</Word>
+  <Definitions>
+    <Definition>
+      <Word>bra</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>bra \bra\ n.
+   same as {brassiere}.
+
+   Syn: brassiere, bandeau.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bra</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Brassiere \Bras`siere"\ Brassiere
+\Bras`si[`e]re"\(br[.a]*z[=e]r"), n. [F.]
+   A form of woman's undergarment, often stiffened with wire or
+   whalebones, or the like, and worn to cover and support the
+   breasts; -- also called {bra}. It usually has straps which
+   support it from the shoulders, but strapless variants are
+   also made.
+
+   Syn: bra, bandeau.
+        [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bra</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bra
+     n : an undergarment worn by women to support their breasts [syn:
+          {brassiere}, {bandeau}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

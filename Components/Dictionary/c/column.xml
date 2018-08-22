@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>column</Word>
+  <Definitions>
+    <Definition>
+      <Word>column</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Column \Col"umn\, n. [L. columna, fr. columen, culmen, fr.
+   cellere (used only in comp.), akin to E. excel, and prob. to
+   holm. See {Holm}, and cf. {Colonel}.]
+   1. (Arch.) A kind of pillar; a cylindrical or polygonal
+      support for a roof, ceiling, statue, etc., somewhat
+      ornamented, and usually composed of base, shaft, and
+      capital. See {Order}.
+      [1913 Webster]
+
+   2. Anything resembling, in form or position, a column in
+      architecture; an upright body or mass; a shaft or obelisk;
+      as, a column of air, of water, of mercury, etc.; the
+      Column Vend[^o]me; the spinal column.
+      [1913 Webster]
+
+   3. (Mil.)
+      (a) A body of troops formed in ranks, one behind the
+          other; -- contradistinguished from {line}. Compare
+          {Ploy}, and {Deploy}.
+      (b) A small army.
+          [1913 Webster]
+
+   4. (Naut.) A number of ships so arranged as to follow one
+      another in single or double file or in squadrons; -- in
+      distinction from ``line'', where they are side by side.
+      [1913 Webster]
+
+   5. (Print.) A perpendicular set of lines, not extending
+      across the page, and separated from other matter by a rule
+      or blank space; as, a column in a newspaper.
+      [1913 Webster]
+
+   6. (Arith.) A perpendicular line of figures.
+      [1913 Webster]
+
+   7. (Bot.) The body formed by the union of the stamens in the
+      Mallow family, or of the stamens and pistil in the
+      orchids.
+      [1913 Webster]
+
+   8. (Print.) one of a series of articles written in a
+      periodical, usually under the same title and at regular
+      intervals; it may be written and signed by one or more
+      authors, or may appear pseudonymously or anonymously, as
+      an editorial column. ``Safire's weekly column On Language
+      in the New York Times is usually more interesting (and
+      probably more accurate) than his political column.'' --P.
+      Cassidy
+      [PJC]
+
+   {Attached column}. See under {Attach}, v. t.
+
+   {Clustered column}. See under {Cluster}, v. t.
+
+   {Column rule}, a thin strip of brass separating columns of
+      type in the form, and making a line between them in
+      printing.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>column</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>column
+     n 1: a line of (usually military) units following one after
+          another
+     2: a vertical glass tube used in column chromatography; a
+        mixture is poured in the top and washed through a
+        stationary substance where components of the mixture are
+        adsorbed selectively to form colored bands [syn: {chromatography
+        column}]
+     3: a linear array of numbers one above another
+     4: anything tall and thin approximating the shape of a column
+        or tower; "the test tube held a column of white powder";
+        "a tower of dust rose above the horizon"; "a thin pillar
+        of smoke betrayed their campsite" [syn: {tower}, {pillar}]
+     5: an article giving opinions or perspectives [syn: {editorial},
+         {newspaper column}]
+     6: a vertical structure standing alone and not supporting
+        anything (as a monument or a column of air) [syn: {pillar}]
+     7: (architeture) a tall cylindrical vertical upright and used
+        to support a structure [syn: {pillar}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

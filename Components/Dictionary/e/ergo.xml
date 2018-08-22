@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ergo</Word>
+  <Definitions>
+    <Definition>
+      <Word>ergo</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ergo \Er"go\, conj. or adv. [L.]
+   Therefore; consequently; -- often used in a jocular way.
+   --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ergo</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ergo
+     adv : (used as a sentenced connector) therefore or consequently
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

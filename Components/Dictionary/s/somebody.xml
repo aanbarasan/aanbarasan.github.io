@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>somebody</Word>
+  <Definitions>
+    <Definition>
+      <Word>somebody</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Somebody \Some"bod*y\ (s[u^]m"b[o^]d*[y^]), n.
+   1. A person unknown or uncertain; a person indeterminate;
+      some person.
+      [1913 Webster]
+
+            Jesus said, Somebody hath touched me. --Luke viii.
+                                                  46.
+      [1913 Webster]
+
+            We must draw in somebody that may stand
+            'Twixt us and danger.                 --Denham.
+      [1913 Webster]
+
+   2. A person of consideration or importance.
+      [1913 Webster]
+
+            Before these days rose up Theudas, boasting himself
+            to be somebody.                       --Acts v. 36.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>somebody</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>somebody
+     n : a human being; "there was too much for one person to do"
+         [syn: {person}, {individual}, {someone}, {mortal}, {human},
+          {soul}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

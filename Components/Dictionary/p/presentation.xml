@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>presentation</Word>
+  <Definitions>
+    <Definition>
+      <Word>presentation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Presentation \Pres`en*ta"tion\, n. [L. praesentatio a showing,
+   representation: cf. F. pr['e]sentation.]
+   1. The act of presenting, or the state of being presented; a
+      setting forth; an offering; bestowal.
+      [1913 Webster]
+
+            Prayers are sometimes a presentation of mere
+            desires.                              --Hooker.
+      [1913 Webster]
+
+   2. Hence, exhibition; representation; display; appearance;
+      semblance; show.
+      [1913 Webster]
+
+            Under the presentation of the shoots his wit.
+                                                  --Shak.
+      [1913 Webster]
+
+   3. That which is presented or given; a present; a gift, as,
+      the picture was a presentation. [R.]
+      [1913 Webster]
+
+   4. (Eccl.) The act of offering a clergyman to the bishop or
+      ordinary for institution in a benefice; the right of
+      presenting a clergyman.
+      [1913 Webster]
+
+            If the bishop admits the patron's presentation, the
+            clerk so admitted is next to be instituted by him.
+                                                  --Blackstone.
+      [1913 Webster]
+
+   5. (Med.) The particular position of the child during labor
+      relatively to the passage though which it is to be brought
+      forth; -- specifically designated by the part which first
+      appears at the mouth of the uterus; as, a breech
+      presentation.
+      [1913 Webster]
+
+   {Presentation copy}, a copy of a book, engraving, etc.,
+      presented to some one by the author or artist, as a token
+      of regard.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>presentation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>presentation
+     n 1: the activity of formally presenting something (as a prize or
+          reward); "she gave the trophy but he made the
+          presentation"
+     2: the act of making something publicly available; presenting
+        news or other information by broadcasting or printing it;
+        "he prepared his presentation carefully in advance"
+     3: a show or display; the act of presenting something to sight
+        or view; "the presentation of new data"; "he gave the
+        customer a demonstration" [syn: {presentment}, {demonstration}]
+     4: the act of presenting a proposal
+     5: a visual representation of something [syn: {display}]
+     6: formally making a person known to another or to the public
+        [syn: {introduction}, {intro}]
+     7: (obstetrics) position of the fetus in the uterus relative to
+        the birth canal; "Cesarean sections are sometimes the
+        result of abnormal presentations"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

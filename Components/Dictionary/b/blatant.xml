@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>blatant</Word>
+  <Definitions>
+    <Definition>
+      <Word>blatant</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Blatant \Bla"tant\, a. [Cf. {Bleat}.]
+   Bellowing, as a calf; bawling; brawling; clamoring;
+   disagreeably clamorous; sounding loudly and harshly. ``Harsh
+   and blatant tone.'' --R. H. Dana.
+   [1913 Webster]
+
+         A monster, which the blatant beast men call. --Spenser.
+   [1913 Webster]
+
+         Glory, that blatant word, which haunts some military
+         minds like the bray of the trumpet.      --W. Irving.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>blatant</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>blatant
+     adj 1: without any attempt at concealment; completely obvious;
+            "open disregard of the law"; "open family strife";
+            "open hostility"; "a blatant appeal to vanity"; "a
+            blazing indiscretion" [syn: {blazing}, {conspicuous},
+            {open}]
+     2: conspicuously and offensively loud; given to vehement
+        outcry; "blatant radios"; "a clamorous uproar"; "strident
+        demands"; "a vociferous mob" [syn: {clamant}, {clamorous},
+         {strident}, {vociferous}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

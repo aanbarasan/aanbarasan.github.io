@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>offense</Word>
+  <Definitions>
+    <Definition>
+      <Word>offense</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Offense \Of*fense"\, Offence \Of*fence"\, n. [F., fr. L.
+   offensa. See {Offend}.]
+   1. The act of offending in any sense; esp., a crime or a sin,
+      an affront or an injury.
+      [1913 Webster]
+
+            Who was delivered for our offenses, and was raised
+            again for our justification.          --Rom. iv. 25.
+      [1913 Webster]
+
+            I have given my opinion against the authority of two
+            great men, but I hope without offense to their
+            memories.                             --Dryden.
+      [1913 Webster]
+
+   2. The state of being offended or displeased; anger;
+      displeasure; as, to cause offense.
+      [1913 Webster]
+
+            He was content to give them just cause of offense,
+            when they had power to make just revenge. --Sir P.
+                                                  Sidney.
+      [1913 Webster]
+
+   3. A cause or occasion of stumbling or of sin. [Obs.]
+      [1913 Webster]
+
+            Woe to that man by whom the offense cometh! --Matt.
+                                                  xviii. 7.
+      [1913 Webster]
+
+   4. In any contest, the act or process of attacking as
+      contrasted with the act of defending; the offensive; as,
+      to go on the offense.
+      [PJC]
+
+   5. (Sports) The members of a team who have the primary
+      responsibility to score goals, in contrast to those who
+      have the responsibility to defend, i.e. to prevent the
+      opposing team from scoring goal.
+      [PJC]
+
+   Note: This word, like expense, is often spelled with a c. It
+         ought, however, to undergo the same change with
+         expense, the reasons being the same, namely, that s
+         must be used in offensive as in expensive, and is found
+         in the Latin offensio, and the French offense.
+         [1913 Webster]
+
+   {To take offense}, to feel, or assume to be, injured or
+      affronted; to become angry or hostile.
+
+   {Weapons of offense}, those which are used in attack, in
+      distinction from those of defense, which are used to
+      repel.
+      [1913 Webster]
+
+   Syn: Displeasure; umbrage; resentment; misdeed; misdemeanor;
+        trespass; transgression; delinquency; fault; sin; crime;
+        affront; indignity; outrage; insult.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>offense</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>offense
+     n 1: a lack of politeness; a failure to show regard for others;
+          wounding the feelings or others [syn: {discourtesy}, {offence},
+           {offensive activity}]
+     2: a feeling of anger caused by being offended; "he took
+        offence at my question" [syn: {umbrage}, {offence}]
+     3: a crime less serious than a felony [syn: {misdemeanor}, {misdemeanour},
+         {infraction}, {offence}, {violation}, {infringement}]
+     4: the team that has the ball (or puck) and is trying to score
+        [syn: {offence}] [ant: {defense}, {defense}]
+     5: the action of attacking an enemy [syn: {offence}, {offensive}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

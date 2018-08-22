@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>admire</Word>
+  <Definitions>
+    <Definition>
+      <Word>admire</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Admire, KS (city, FIPS 325)
+  Location: 38.64117 N, 96.10285 W
+  Population (1990): 147 (62 housing units)
+  Area: 0.9 sq km (land), 0.0 sq km (water)
+  Zip code(s): 66830
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>admire</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Admire \Ad*mire"\, v. t. [imp. &amp; p. p. {Admired}; p. pr. &amp; vb.
+   n. {Admiring}.] [F. admirer, fr. L. admirari; ad + mirari to
+   wonder, for smirari, akin to Gr. ? to smile, Skr. smi, and E.
+   smile.]
+   1. To regard with wonder or astonishment; to view with
+      surprise; to marvel at. [Archaic]
+      [1913 Webster]
+
+            Examples rather to be admired than imitated.
+                                                  --Fuller.
+      [1913 Webster]
+
+   2. To regard with wonder and delight; to look upon with an
+      elevated feeling of pleasure, as something which calls out
+      approbation, esteem, love, or reverence; to estimate or
+      prize highly; as, to admire a person of high moral worth,
+      to admire a landscape.
+      [1913 Webster]
+
+            Admired as heroes and as gods obeyed. --Pope.
+      [1913 Webster]
+
+   Note: Admire followed by the infinitive is obsolete or
+         colloquial; as, I admire to see a man consistent in his
+         conduct.
+         [1913 Webster]
+
+   Syn: To esteem; approve; delight in.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>admire</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Admire \Ad*mire"\, v. i.
+   To wonder; to marvel; to be affected with surprise; --
+   sometimes with at.
+   [1913 Webster]
+
+         To wonder at Pharaoh, and even admire at myself.
+                                                  --Fuller.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>admire</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>admire
+     v 1: feel admiration for [syn: {look up to}]
+     2: look at with admiration
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

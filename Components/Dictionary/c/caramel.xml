@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>caramel</Word>
+  <Definitions>
+    <Definition>
+      <Word>caramel</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Caramel \Car"a*mel\, n. [F. caramel (cf. Sp. caramelo), LL.
+   canna mellis, cannamella, canamella, calamellus mellitus,
+   sugar cane, from or confused with L. canna reed + mel,
+   mellis, honey. See {Cane}.]
+   1. (Chem.) Burnt sugar; a brown or black porous substance
+      obtained by heating sugar. It is soluble in water, and is
+      used for coloring spirits, gravies, etc.
+      [1913 Webster]
+
+   2. A kind of confectionery, usually a small cube or square of
+      tenacious paste, or candy, of varying composition and
+      flavor.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>caramel</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>caramel
+     adj : having the color of caramel; a moderate yellow-brown [syn: {caramel
+           brown}]
+     n 1: firm chewy candy made from caramelized sugar and butter and
+          milk
+     2: burnt sugar; used to color and flavor food [syn: {caramelized
+        sugar}]
+     3: a medium to dark tan color [syn: {yellowish brown}, {raw
+        sienna}, {buff}, {caramel brown}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

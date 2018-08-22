@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>grandfather</Word>
+  <Definitions>
+    <Definition>
+      <Word>grandfather</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Grandfather, NC (village, FIPS 27320)
+  Location: 36.09850 N, 81.84753 W
+  Population (1990): 34 (28 housing units)
+  Area: 3.9 sq km (land), 0.1 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>grandfather</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Grandfather \Grand"fa"ther\, n.
+   A father's or mother's father; an ancestor immediately after
+   the father or mother in lineal ascent.
+   [1913 Webster]
+
+   {Grandfather longlegs}. (Zo["o]l.) See {Daddy longlegs}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>grandfather</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>grandfather
+     n : the father of your father or mother [syn: {gramps}, {granddad},
+          {grandad}, {granddaddy}, {grandpa}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

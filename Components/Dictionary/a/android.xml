@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>android</Word>
+  <Definitions>
+    <Definition>
+      <Word>android</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Android \An"droid\ ([a^]n"droid), ||Androides \An*droi"des\
+   ([a^]n*droi"d[=e]z), n. [Gr. 'androeidh`s of man's form;
+   'anh`r, 'andro`s, man + e'i^dos form.]
+   A machine or automaton in the form of a human being.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>android</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Android \An"droid\, a.
+   Resembling a man.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>android</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>android
+     n : an automaton that resembles a human being [syn: {humanoid},
+         {mechanical man}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

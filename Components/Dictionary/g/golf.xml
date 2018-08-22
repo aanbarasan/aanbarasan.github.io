@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>golf</Word>
+  <Definitions>
+    <Definition>
+      <Word>golf</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Golf, FL (village, FIPS 26550)
+  Location: 26.50520 N, 80.11020 W
+  Population (1990): 234 (167 housing units)
+  Area: 2.1 sq km (land), 0.0 sq km (water)
+Golf, IL (village, FIPS 30328)
+  Location: 42.05880 N, 87.78652 W
+  Population (1990): 454 (158 housing units)
+  Area: 1.2 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>golf</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Golf \Golf\ (g[o^]lf), n. [D. kolf club or bat, also a Dutch
+   game played in an inclosed area with clubs and balls; akin to
+   G. kolben club, but end, Icel. k?lfr tongue of a bell. bolt,
+   Sw. kolf bolt, dart, but end, Dan. kolv bolt, arrow. Cf.
+   {Club}, {Globe}.]
+   A game played with a small ball and a bat or club crooked at
+   the lower end. He who drives the ball into each of a series
+   of small holes in the ground and brings it into the last hole
+   with the fewest strokes is the winner. [Scot.] --Strutt.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>golf</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Golf \Golf\, v. i. [imp. &amp; p. p. {Golfed}; p. pr. &amp; vb. n.
+   {Golfing}.]
+   To play at golf.
+
+         Last mystery of all, he learned to golf. --Kipling.
+   [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>golf</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>golf
+     n : a game played on a large open course with 9 or 18 holes; the
+         object is use as few strokes as possible in playing all
+         the holes [syn: {golf game}]
+     v : play golf
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

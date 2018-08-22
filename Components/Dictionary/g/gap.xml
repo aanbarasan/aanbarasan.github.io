@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>gap</Word>
+  <Definitions>
+    <Definition>
+      <Word>gap</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Gap
+   a rent or opening in a wall (Ezek. 13:5; comp. Amos 4:3). The
+   false prophets did not stand in the gap (Ezek. 22: 30), i.e.,
+   they did nothing to stop the outbreak of wickedness.
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gap</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>GAP
+     
+        &lt;mathematics, tool&gt; Groups Algorithms and Programming.
+     
+        A system for {symbolic mathematics} for computational discrete
+        algebra, especially group theory, by Johannes Meier, Alice
+        Niemeyer, Werner Nickel, and Martin Schonert of Aachen.  GAP
+        was designed in 1986 and implemented 1987.  Version 2.4 was
+        released in 1988 and version 3.1 in 1992.
+     
+        {Sun version (ftp://ftp.math.rwth-aachen.de/pub/gap)}.
+     
+        ["GAP 3.3 Manual, M. Schonert et al, Lehrstuhl D Math, RWTH
+        Aachen, 1993].
+     
+        (1995-04-12)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gap</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Gap, PA (CDP, FIPS 28376)
+  Location: 39.98894 N, 76.02423 W
+  Population (1990): 1226 (490 housing units)
+  Area: 5.9 sq km (land), 0.0 sq km (water)
+  Zip code(s): 17527
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gap</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gap \Gap\, v. t.
+   1. To notch, as a sword or knife.
+      [1913 Webster]
+
+   2. To make an opening in; to breach.
+      [1913 Webster]
+
+            Their masses are gapp'd with our grape. --Tennyson.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gap</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gap \Gap\ (g[a^]p), n. [OE. gap; cf. Icel. gap an empty space,
+   Sw. gap mouth, breach, abyss, Dan. gab mouth, opening, AS.
+   geap expanse; as adj., wide, spacious. See {Gape}.]
+   1. An opening in anything made by breaking or parting; as, a
+      gap in a fence; an opening for a passage or entrance; an
+      opening which implies a breach or defect; a vacant space
+      or time; a hiatus; a mountain pass.
+      [1913 Webster]
+
+            Miseries ensued by the opening of that gap.
+                                                  --Knolles.
+      [1913 Webster]
+
+            It would make a great gap in your own honor. --Shak.
+      [1913 Webster]
+
+   2. (A["e]ronautics) The vertical distance between two
+      superposed surfaces, esp. in a biplane.
+      [Webster 1913 Suppl.]
+
+   {Gap lathe} (Mach.), a turning lathe with a deep notch in the
+      bed to admit of turning a short object of large diameter.
+      
+
+   {To stand in the gap}, to expose one's self for the
+      protection of something; to make defense against any
+      assailing danger; to take the place of a fallen defender
+      or supporter.
+
+   {To stop a gap}, to secure a weak point; to repair a defect.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gap</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>GAP
+     Generic Access Profile (DECT, Europe)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gap</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>GAP
+     Generic Address Parameter
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gap</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>gap
+     n 1: a conspicuous disparity or difference as between two
+          figures; "gap between income and outgo"; "the spread
+          between lending and borrowing costs" [syn: {spread}]
+     2: an open or empty space in or between things; "there was a
+        small opening between the trees"; "the explosion made a
+        gap in the wall" [syn: {opening}]
+     3: a narrow opening; "he opened the window a crack" [syn: {crack}]
+     4: a pass between mountain peaks [syn: {col}]
+     5: an act of delaying or interrupting the continuity; "it was
+        presented without commercial breaks" [syn: {break}, {interruption},
+         {disruption}]
+     v : make an opening or gap in [syn: {breach}]
+     [also: {gapping}, {gapped}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

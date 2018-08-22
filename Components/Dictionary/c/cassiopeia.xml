@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cassiopeia</Word>
+  <Definitions>
+    <Definition>
+      <Word>cassiopeia</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cassiopeia \Cas`si*o*pe"ia\, n. [NL., fr. Gr. ?.] (Astron.)
+   A constellation of the northern hemisphere, situated between
+   Cepheus and Perseus; -- so called in honor of the wife of
+   Cepheus, a fabulous king of Ethiopia.
+   [1913 Webster]
+
+   {Cassiopeia's Chair}, a group of six stars, in Cassiopeia,
+      somewhat resembling a chair.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cassiopeia</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Cassiopeia
+     n : a W-shaped constellation in the northern hemisphere near
+         Polaris
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

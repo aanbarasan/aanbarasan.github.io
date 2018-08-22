@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hawaii</Word>
+  <Definitions>
+    <Definition>
+      <Word>hawaii</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Hawaii
+     n 1: a state in the United States in the central Pacific on the
+          Hawaiian Islands [syn: {Aloha State}, {HI}]
+     2: the largest and southernmost of the Hawaii islands; has
+        several volcanic peaks [syn: {Hawaii Island}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

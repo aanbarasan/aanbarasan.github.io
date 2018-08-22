@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>blackmarket</Word>
+  <Definitions>
+    <Definition>
+      <Word>blackmarket</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>black market \black market\ n.
+   1. the illicit buying and selling of goods, in violation of
+      price controls, rationing, tax laws, prohibition of sale,
+      etc.
+      [PJC]
+
+   2. a place where such illegal commerce is conducted, or the
+      entire system of such illicit commerce considered as a
+      whole; as, the black market accounts for twenty percent of
+      the Ukrainian economy.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>blackmarket</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>black-market \black-market\ adj.
+   distributed or sold illicitly.
+
+   Syn: bootleg, contraband, smuggled.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>blackmarket</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>black market
+     n 1: people who engage in illicit trade
+     2: an illegal market in which goods or currencies are bought
+        and sold in violation of rationing or controls
+     v : deal in illegally, such as arms or liquor [syn: {run}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>blackmarket</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>black-market
+     adj : distributed or sold illicitly; "the black economy pays no
+           taxes" [syn: {bootleg}, {black}, {contraband}, {smuggled}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

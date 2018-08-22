@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>austin</Word>
+  <Definitions>
+    <Definition>
+      <Word>austin</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Austin, AR (town, FIPS 2860)
+  Location: 34.99804 N, 91.98177 W
+  Population (1990): 235 (90 housing units)
+  Area: 1.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 72007
+Austin, CO
+  Zip code(s): 81410
+Austin, IN (town, FIPS 2800)
+  Location: 38.74338 N, 85.81021 W
+  Population (1990): 4310 (1645 housing units)
+  Area: 5.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 47102
+Austin, KY
+  Zip code(s): 42123
+Austin, MN (city, FIPS 2908)
+  Location: 43.67152 N, 92.97064 W
+  Population (1990): 21907 (9798 housing units)
+  Area: 25.1 sq km (land), 0.2 sq km (water)
+  Zip code(s): 55912
+Austin, NV
+  Zip code(s): 89310
+Austin, PA (borough, FIPS 3576)
+  Location: 41.63605 N, 78.08901 W
+  Population (1990): 569 (278 housing units)
+  Area: 10.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 16720
+Austin, TX (city, FIPS 5000)
+  Location: 30.30588 N, 97.75052 W
+  Population (1990): 465622 (217054 housing units)
+  Area: 564.0 sq km (land), 17.8 sq km (water)
+  Zip code(s): 78701, 78702, 78703, 78704, 78705, 78717, 78719, 78721, 78722, 78723, 78724, 78725, 78726, 78727, 78728, 78729, 78730, 78731, 78732, 78733, 78735, 78736, 78737, 78738, 78739, 78741, 78742, 78744, 78745, 78748, 78749, 78750, 78751, 78752, 78753, 78754, 78756, 78757, 78758, 78759
+Austin, UT
+  Zip code(s): 84754
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>austin</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Austin \Aus"tin\, a.
+   Augustinian; as, Austin friars.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>austin</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Austin
+     n : state capital of Texas on the Colorado River; site of the
+         University of Texas [syn: {capital of Texas}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

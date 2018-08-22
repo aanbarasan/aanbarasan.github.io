@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>blissful</Word>
+  <Definitions>
+    <Definition>
+      <Word>blissful</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Blissful \Bliss"ful\, a.
+   Full of, characterized by, or causing, joy and felicity;
+   happy in the highest degree. ``Blissful solitude.'' --Milton.
+   -- {Bliss"ful*ly}, adv. -- {Bliss"ful*ness}, n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>blissful</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>blissful
+     adj : completely happy and contented; "blissful young lovers"; "in
+           blissful ignorance"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

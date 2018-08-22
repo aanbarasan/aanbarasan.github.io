@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>barbering</Word>
+  <Definitions>
+    <Definition>
+      <Word>barbering</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Barber \Bar"ber\, v. t. [imp. &amp; p. p. {Barbered}
+   (b[aum]r"b[~e]rd); p. pr. &amp; vb. n. {Barbering}.]
+   To shave and dress the beard or hair of. --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

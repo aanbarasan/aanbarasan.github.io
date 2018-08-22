@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>catapult</Word>
+  <Definitions>
+    <Definition>
+      <Word>catapult</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Catapult \Cat"a*pult\, n. [L. catapulta, Gr. ?, prob. from kata`
+   down + ? to shake, hurl.]
+   [1913 Webster]
+   1. (Mil. Antiq.) An engine somewhat resembling a massive
+      crossbow, used by the ancient Greeks and Romans for
+      throwing stones, arrows, spears, etc.
+      [1913 Webster]
+
+   2. A forked stick with elastic band for throwing small
+      stones, etc.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>catapult</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>catapult
+     n 1: a plaything consisting of a Y-shaped stick with elastic
+          between the arms; used to propel small stones [syn: {slingshot},
+           {sling}]
+     2: a device that launches aircraft from a warship [syn: {launcher}]
+     3: medieval artillery used during sieges; a heavy war engine
+        for hurling large stones and other missiles [syn: {arbalest},
+         {arbalist}, {ballista}, {bricole}, {mangonel}, {onager},
+        {trebuchet}, {trebucket}]
+     v 1: shoot forth or launch, as if from a catapult; "the enemy
+          catapulted rocks towards the fort"
+     2: hurl as if with a sling [syn: {sling}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

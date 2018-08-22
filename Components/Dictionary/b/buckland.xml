@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>buckland</Word>
+  <Definitions>
+    <Definition>
+      <Word>buckland</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Buckland, AK (city, FIPS 9600)
+  Location: 65.98105 N, 161.13168 W
+  Population (1990): 318 (70 housing units)
+  Area: 3.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 99727
+Buckland, MA
+  Zip code(s): 01338
+Buckland, OH (village, FIPS 9974)
+  Location: 40.62426 N, 84.26069 W
+  Population (1990): 239 (99 housing units)
+  Area: 0.6 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

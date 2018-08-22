@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>alcoholic</Word>
+  <Definitions>
+    <Definition>
+      <Word>alcoholic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Alcoholic \Al`co*hol"ic\, n.
+   1. A person given to the use of alcoholic liquors.
+      [1913 Webster]
+
+   2. pl. Alcoholic liquors.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>alcoholic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Alcoholic \Al`co*hol"ic\, a. [Cf. F. alcolique.]
+   Of or pertaining to alcohol, or partaking of its qualities;
+   derived from, or caused by, alcohol; containing alcohol; as,
+   alcoholic mixtures; alcoholic gastritis; alcoholic odor.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>alcoholic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>alcoholic
+     adj 1: used of beverages containing alcohol; "alcoholic drinks"
+            [ant: {nonalcoholic}]
+     2: addicted to alcohol; "alcoholic expatriates in Paris"- Carl
+        Van Doren [syn: {alcohol-dependent}]
+     n : a person who drinks alcohol to excess habitually [syn: {alky},
+          {dipsomaniac}, {boozer}, {lush}, {soaker}, {souse}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

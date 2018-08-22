@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>component</Word>
+  <Definitions>
+    <Definition>
+      <Word>component</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>component
+     
+        &lt;programming&gt; An {object} adhering to a {component
+        architecture}.
+     
+        (1997-11-20)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>component</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Component \Com*po"nent\ (k[o^]m*p[=o]"nent), a. [L. componens,
+   p. pr. of componere. See {Compound}, v. t.]
+   Serving, or helping, to form; composing; constituting;
+   constituent.
+   [1913 Webster]
+
+         The component parts of natural bodies.   --Sir I.
+                                                  Newton.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>component</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Component \Com*po"nent\, n.
+   A constituent part; an ingredient.
+   [1913 Webster]
+
+   {Component of force} (Mech.), a force which, acting
+      conjointly with one or more forces, produces the effect of
+      a single force or resultant; one of a number of forces
+      into which a single force may be resolved.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>component</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>component
+     n 1: an abstract part of something; "jealousy was a component of
+          his character"; "two constituents of a musical
+          composition are melody and harmony"; "the grammatical
+          elements of a sentence"; "a key factor in her success";
+          "humor: an effective ingredient of a speech" [syn: {constituent},
+           {element}, {factor}, {ingredient}]
+     2: something determined in relation to something that includes
+        it; "he wanted to feel a part of something bigger than
+        himself"; "I read a portion of the manuscript"; "the
+        smaller component is hard to reach" [syn: {part}, {portion},
+         {component part}]
+     3: an artifact that is one of the individual parts of which a
+        composite entity is made up; especially a part that can be
+        separated from or attached to a system; "spare components
+        for cars"; "a component or constituent element of a
+        system" [syn: {constituent}, {element}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

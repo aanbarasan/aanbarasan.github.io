@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>serious</Word>
+  <Definitions>
+    <Definition>
+      <Word>serious</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Serious \Se"ri*ous\, a. [L. serius: cf. F. s['e]rieux, LL.
+   seriosus.]
+   1. Grave in manner or disposition; earnest; thoughtful;
+      solemn; not light, gay, or volatile.
+      [1913 Webster]
+
+            He is always serious, yet there is about his manner
+            a graceful ease.                      --Macaulay.
+      [1913 Webster]
+
+   2. Really intending what is said; being in earnest; not
+      jesting or deceiving. --Beaconsfield.
+      [1913 Webster]
+
+   3. Important; weighty; not trifling; grave.
+      [1913 Webster]
+
+            The holy Scriptures bring to our ears the most
+            serious things in the world.          --Young.
+      [1913 Webster]
+
+   4. Hence, giving rise to apprehension; attended with danger;
+      as, a serious injury.
+      [1913 Webster]
+
+   Syn: Grave; solemn; earnest; sedate; important; weighty. See
+        {Grave}.
+        [1913 Webster] -- {Se"ri*ous*ly}, adv. --
+        {Se"ri*ous*ness}, n.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>serious</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>serious
+     adj 1: concerned with work or important matters rather than play or
+            trivialities; "a serious student of history"; "a
+            serious attempt to learn to ski"; "gave me a serious
+            look"; "a serious young man"; "are you serious or
+            joking?"; "Don't be so serious!" [ant: {frivolous}]
+     2: of great consequence; "marriage is a serious matter"
+     3: causing fear or anxiety by threatening great harm; "a
+        dangerous operation"; "a grave situation"; "a grave
+        illness"; "grievous bodily harm"; "a serious wound"; "a
+        serious turn of events"; "a severe case of pneumonia"; "a
+        life-threatening disease" [syn: {dangerous}, {grave}, {grievous},
+         {severe}, {life-threatening}]
+     4: appealing to the mind; "good music"; "a serious book" [syn:
+        {good}]
+     5: completely lacking in playfulness [syn: {unplayful}, {sober}]
+        [ant: {playful}]
+     6: requiring effort or concentration; complex and not easy to
+        answer or solve; "raised serious objections to the
+        proposal"; "the plan has a serious flaw"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

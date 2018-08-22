@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pal</Word>
+  <Definitions>
+    <Definition>
+      <Word>pal</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>PAL
+     
+        1. &lt;language&gt; {Paradox Application Language}.
+     
+        2. For the {AVANCE} distributed {persistent} {operating
+        system}.
+     
+        ["PAL Reference Manual", M. Ahlsen et al, SYSLAB WP-125,
+        Stockholm 1987].
+     
+        ["AVANCE: An Object Management System", A. Bjornerstedt et al,
+        SIGPLAN Notices 23(11):206-221 (OOPSLA '88) (Nov 1988)].
+     
+        [What is it?]
+     
+        3. &lt;language&gt; An {object-oriented} {Prolog}-like language.
+     
+        ["Inheritance Hierarchy Mechanism in Prolog", K. Akama, Proc
+        Logic Prog '86, LNCS 264, Springer 1986, pp. 12-21].
+     
+        4. &lt;language&gt; {PDP Assembly Language}.
+     
+        5. &lt;language&gt; {Pedagogic Algorithmic Language}.
+     
+        6. &lt;hardware, integrated circuit&gt; {Programmable Array Logic}.
+     
+        7. &lt;television&gt; {phase alternating line}.
+     
+        (2001-04-02)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pal \Pal\, n. [Etymol. uncertain.]
+   A mate; a partner; esp., an accomplice or confederate.
+   [Slang]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pal</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>PAL
+     Paradox Application Language (Borland, DB)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pal</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>PAL
+     Privileged Architecture Library (DEC, Alpha)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pal</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>PAL
+     Phase Alternating Line
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pal</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>PAL
+     Programmable Array Logic
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pal
+     n : a close friend who accompanies his buddies in their
+         activities [syn: {buddy}, {brother}, {chum}, {crony}, {sidekick}]
+     v : become friends; act friendly towards [syn: {pal up}, {chum
+         up}]
+     [also: {palling}, {palled}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

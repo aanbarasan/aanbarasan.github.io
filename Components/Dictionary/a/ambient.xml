@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ambient</Word>
+  <Definitions>
+    <Definition>
+      <Word>ambient</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ambient \Am"bi*ent\, a. [L. ambiens, p. pr. of ambire to go
+   around; amb- + ire to go.]
+   Encompassing on all sides; circumfused; investing. ``Ambient
+   air.'' --Milton. ``Ambient clouds.'' --Pope.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ambient</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ambient \Am"bi*ent\, n.
+   Something that surrounds or invests; as, air . . . being a
+   perpetual ambient. --Sir H. Wotton.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ambient</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ambient
+     adj : completely enveloping; "the ambient air"; "ambient sound";
+           "the ambient temperature"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

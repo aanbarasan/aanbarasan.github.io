@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>improvement</Word>
+  <Definitions>
+    <Definition>
+      <Word>improvement</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Improvement \Im*prove"ment\, n.
+   1. The act of improving; advancement or growth; promotion in
+      desirable qualities; progress toward what is better;
+      melioration; as, the improvement of the mind, of land,
+      roads, etc.
+      [1913 Webster]
+
+            I look upon your city as the best place of
+            improvement.                          --South.
+      [1913 Webster]
+
+            Exercise is the chief source of improvement in all
+            our faculties.                        --Blair.
+      [1913 Webster]
+
+   2. The act of making profitable use or applicaton of
+      anything, or the state of being profitably employed; a
+      turning to good account; practical application, as of a
+      doctrine, principle, or theory, stated in a discourse. ``A
+      good improvement of his reason.'' --S. Clarke.
+      [1913 Webster]
+
+            I shall make some improvement of this doctrine.
+                                                  --Tillotson.
+      [1913 Webster]
+
+   3. The state of being improved; betterment; advance; also,
+      that which is improved; as, the new edition is an
+      improvement on the old.
+      [1913 Webster]
+
+            The parts of Sinon, Camilla, and some few others,
+            are improvements on the Greek poet.   --Addison.
+      [1913 Webster]
+
+   4. Increase; growth; progress; advance.
+      [1913 Webster]
+
+            There is a design of publishing the history of
+            architecture, with its several improvements and
+            decays.                               --Addison.
+      [1913 Webster]
+
+            Those vices which more particularly receive
+            improvement by prosperity.            --South.
+      [1913 Webster]
+
+   5. pl. Valuable additions or betterments, as buildings,
+      clearings, drains, fences, etc., on land or premises; as,
+      to convey the land together with all improvements.
+      [1913 Webster]
+
+   6. (Patent Laws) A useful addition to, or modification of, a
+      machine, manufacture, or composition. --Kent.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>improvement</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>improvement
+     n 1: the act of improving something; "their improvements
+          increased the value of the property"
+     2: a change for the better; progress in development [syn: {betterment},
+         {advance}]
+     3: a condition superior to an earlier condition; "the new
+        school represents a great improvement" [syn: {melioration}]
+        [ant: {decline}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

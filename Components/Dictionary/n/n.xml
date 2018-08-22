@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>n</Word>
+  <Definitions>
+    <Definition>
+      <Word>n</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>N
+     
+        /N/ quant. 1. A large and indeterminate number of objects:
+        "There were N bugs in that crock!"  Also used in its
+        original sense of a variable name: "This crock has N bugs,
+        as N goes to infinity."  (The true number of bugs is always
+        at least N + 1; see {Lubarsky's Law of Cybernetic
+        Entomology}.)
+     
+        2. A variable whose value is inherited from the current
+        context.  For example, when a meal is being ordered at a
+        restaurant, N may be understood to mean however many people
+        there are at the table.  From the remark "We'd like to order N
+        wonton soups and a family dinner for N - 1" you can deduce
+        that one person at the table wants to eat only soup, even
+        though you don't know how many people there are.
+     
+        3. "Nth": The ordinal counterpart of N, senses 1 and 2.  "Now
+        for the Nth and last time..." In the specific context
+        "Nth-year grad student", N is generally assumed to be at least
+        4, and is usually 5 or more (see {tenured graduate student}).
+        See also {random numbers}, {two-to-the-N}.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>n</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>N \N\, n. (Print.)
+   A measure of space equal to half an M (or em); an en.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>n</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>N \N\ ([e^]n),
+   the fourteenth letter of English alphabet, is a vocal
+   consonent, and, in allusion to its mode of formation, is
+   called the dentinasal or linguanasal consonent. Its commoner
+   sound is that heard in ran, done; but when immediately
+   followed in the same word by the sound of g hard or k (as in
+   single, sink, conquer), it usually represents the same sound
+   as the digraph ng in sing, bring, etc. This is a simple but
+   related sound, and is called the gutturo-nasal consonent. See
+   {Guide to Pronunciation}, [sect][sect] 243-246.
+   [1913 Webster]
+
+   Note: The letter N came into English through the Latin and
+         Greek from the Ph[oe]nician, which probably derived it
+         from the Egyptian as the ultimate origin. It is
+         etymologically most closely related to M. See {M}.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>n</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Uxorious \Ux*o"ri*ous\, a. [L. uxorius, fr. uxor a wife.]
+   Excessively fond of, or submissive to, a wife; being a
+   dependent husband. ``Uxorious magistrates.'' --Milton.
+   [1913 Webster]
+
+         How wouldst thou insult,
+         When I must live uxorious to thy will
+         In perfect thraldom!                     --Milton.
+   [1913 Webster] -- {Uxo*o"ri*ous*ly}, adv. --
+   {Ux*o"ri*ous*ness}, {n}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>n</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Valiant \Val"iant\, a. [OE. valiant, F. vaillant, OF. vaillant,
+   valant, originally p. pr. of OF. &amp; F. valoir to be worth, L.
+   valere to be strong. See {Wield}, and cf. {Avail},
+   {Convalesce}, {Equivalent}, {Prevail}, {Valid}.]
+   [1913 Webster]
+   1. Vigorous in body; strong; powerful; as, a valiant fencer.
+      [Obs.] --Walton.
+      [1913 Webster]
+
+   2. Intrepid in danger; courageous; brave.
+      [1913 Webster]
+
+            A valiant and most expert gentleman.  --Shak.
+      [1913 Webster]
+
+            And Saul said to David . . . be thou valiant for me,
+            and fight the Lord's battles.         --1 Sam.
+                                                  xviii. 17.
+      [1913 Webster]
+
+   3. Performed with valor or bravery; heroic. ``Thou bearest
+      the highest name for valiant acts.'' --Milton.
+      [1913 Webster]
+
+            [The saints] have made such valiant confessions.
+                                                  --J. H.
+                                                  Newman.
+      [1913 Webster] -- {Val"iant*ly}, adv. -- {Val"iant*ness},
+      {n}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>n</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>York use \York" use`\ (Eccl.)
+   The one of the three printed uses of England which was
+   followed in the north. It was based on the Sarum use. See
+   {Use}, {n}., 6. --Shipley.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>n</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>N /N/ quant. 1. A large and indeterminate number of objects: "There
+   were N bugs in that crock!" Also used in its original sense of a
+   variable name: "This crock has N bugs, as N goes to infinity." (The true
+   number of bugs is always at least N + 1; see {Lubarsky's Law of
+   Cybernetic Entomology}.) 2. A variable whose value is inherited from the
+   current context. For example, when a meal is being ordered at a
+   restaurant, N may be understood to mean however many people there are at
+   the table. From the remark "We'd like to order N wonton soups and a
+   family dinner for N - 1" you can deduce that one person at the table
+   wants to eat only soup, even though you don't know how many people there
+   are (see {great-wall}). 3. `Nth': adj. The ordinal counterpart of N,
+   senses 1 and 2. "Now for the Nth and last time..." In the specific
+   context "Nth-year grad student", N is generally assumed to be at least
+   4, and is usually 5 or more (see {tenured graduate student}). See also
+   {{random numbers}}, {two-to-the-N}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>n</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>N
+     n 1: (of a solution) concentration expressed in gram equivalents
+          of solute per liter [syn: {normality}]
+     2: a common nonmetallic element that is normally a colorless
+        odorless tasteless inert diatomic gas; constitutes 78
+        percent of the atmosphere by volume; a constituent of all
+        living tissues [syn: {nitrogen}, {atomic number 7}]
+     3: the cardinal compass point that is at 0 or 360 degrees [syn:
+         {north}, {due north}]
+     4: a unit of force equal to the force that imparts an
+        acceleration of 1 m/sec/sec to a mass of 1 kilogram; equal
+        to 100,000 dynes [syn: {newton}]
+     5: the 14th letter of the Roman alphabet
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>biology</Word>
+  <Definitions>
+    <Definition>
+      <Word>biology</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Biology \Bi*ol"o*gy\, n. [Gr. bi`os life + -logy: cf. F.
+   biologie.]
+   The science of life; that branch of knowledge which treats of
+   living matter as distinct from matter which is not living;
+   the study of living tissue. It has to do with the origin,
+   structure, development, function, and distribution of animals
+   and plants.
+   [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>biology</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>biology
+     n 1: the science that studies living organisms [syn: {biological
+          science}]
+     2: characteristic life processes and phenomena of living
+        organisms; "the biology of viruses"
+     3: all the plant and animal life of a particular region [syn: {biota}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

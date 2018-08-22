@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>constant</Word>
+  <Definitions>
+    <Definition>
+      <Word>constant</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Constant \Con"stant\ (k[o^]n"stant), a. [L. onstans, -antis, p.
+   pr. of constare to stand firm, to be consistent; con- + stare
+   to stand: cf. F. constant. See {Stand} and cf. {Cost}, v. t.]
+   1. Firm; solid; fixed; immovable; -- opposed to {fluid}.
+      [Obs.]
+      [1913 Webster]
+
+            If . . . you mix them, you may turn these two fluid
+            liquors into a constant body.         --Boyle.
+      [1913 Webster]
+
+   2. Not liable, or given, to change; permanent; regular;
+      continuous; continually recurring; steadfast; faithful;
+      not fickle. Opposite of {changeable} and {variable}.
+      [1913 Webster]
+
+            Both loving one fair maid, they yet remained
+            constant friends.                     --Sir P.
+                                                  Sidney.
+      [1913 Webster]
+
+            I am constant to my purposes.         --Shak.
+      [1913 Webster]
+
+            His gifts, his constant courtship, nothing gained.
+                                                  --Dryden.
+      [1913 Webster]
+
+            Onward the constant current sweeps.   --Longfellow.
+      [1913 Webster]
+
+   3. (Math. &amp; Physics) Remaining unchanged or invariable, as a
+      quantity, force, law, etc.
+      [1913 Webster]
+
+   4. Consistent; logical. [Obs.] --Shak.
+
+   Syn: Fixed; steadfast; unchanging; permanent; unalterable;
+        immutable; invariable; perpetual; continual; resolute;
+        firm; unshaken; determined.
+
+   Usage: {Constant}, {Continual}, {Perpetual}. These words are
+          sometimes used in an absolute and sometimes in a
+          qualified sense. Constant denotes, in its absolute
+          sense, unchangeably fixed; as, a constant mind or
+          purpose. In its qualified sense, it marks something as
+          a ``standing'' fact or occurence; as, liable to
+          constant interruptions; constantly called for.
+          Continual, in its absolute sense, coincides with
+          continuous. See {Continuous}. In its qualified sense,
+          it describes a thing as occuring in steady and rapid
+          succession; as, a round of continual calls;
+          continually changing. Perpetual denotes, in its
+          absolute sense, what literally never ceases or comes
+          to an end; as, perpetual motion. In its qualified
+          sense, it is used hyperbolically, and denotes that
+          which rarely ceases; as, perpetual disturbance;
+          perpetual noise; perpetual intermeddling.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>constant</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Constant \Con"stant\, n.
+   1. That which is not subject to change; that which is
+      invariable.
+      [1913 Webster]
+
+   2. (Math.) A quantity that does not change its value; -- used
+      in countradistinction to {variable}.
+      [1913 Webster]
+
+   3. (Astron.) A number whose value, when ascertained (as by
+      observation) and substituted in a general mathematical
+      formula expressing an astronomical law, completely
+      determines that law and enables predictions to be made of
+      its effect in particular cases.
+      [Webster 1913 Suppl.]
+
+   4. (Physics) A number expressing some property or condition
+      of a substance or of an instrument of precision; as, the
+      dielectric constant of quartz; the collimation constant of
+      a transit instrument.
+      [Webster 1913 Suppl.]
+
+   5. (Computers) a data structure that does not change during
+      the course of execution of a program. It may be a number,
+      a string, or a more complex data structure; -- contrasted
+      with {variable}.
+      [PJC]
+
+   {Aberration constant}, or {Constant of aberration} (Astron.),
+      a number which by substitution in the general formula for
+      aberration enables a prediction to be made of the effect
+      of aberration on a star anywhere situated. Its value is
+      20[sec].47.
+
+   {Absolute constant} (Math.), one whose value is absolutely
+      the same under all circumstances, as the number 10, or any
+      numeral.
+
+   {Arbitrary constant}, an undetermined constant in a
+      differential equation having the same value during all
+      changes in the values of the variables.
+
+   {Gravitation constant} (Physics), the acceleration per unit
+      of time produced by the attraction of a unit of mass at
+      unit distance. When this is known the acceleration
+      produced at any distance can be calculated.
+
+   {Solar constant} (Astron.), the quantity of heat received by
+      the earth from the sun in a unit of time. It is, on the C.
+      G. S. system, 0.0417 small calories per square centimeter
+      per second. --Young. [Webster 1913 Suppl.]
+
+   {Constant of integration} (Math.), an undetermined constant
+      added to every result of integration.
+      [1913 Webster + Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>constant</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>constant
+     adj 1: persistent in occurrence and unvarying in nature;
+            "maintained a constant temperature"; "a constant
+            beat"; "principles of unvarying validity"; "a steady
+            breeze" [syn: {changeless}, {invariant}, {steady}, {unvarying}]
+     2: continually recurring or continuing without interruption;
+        "constant repetition of the exercise"; "constant chatter
+        of monkeys"
+     3: steadfast in purpose or devotion or affection; "a man
+        constant in adherence to his ideals"; "a constant lover";
+        "constant as the northern star" [ant: {inconstant}]
+     4: uninterrupted in time and indefinitely long continuing; "the
+        ceaseless thunder of surf"; "in constant pain"; "night and
+        day we live with the incessant noise of the city"; "the
+        never-ending search for happiness"; "the perpetual
+        struggle to maintain standards in a democracy"; "man's
+        unceasing warfare with drought and isolation";
+        "unremitting demands of hunger" [syn: {ceaseless}, {incessant},
+         {never-ending}, {perpetual}, {unceasing}, {unremitting}]
+     n 1: a quantity that does not vary [syn: {constant quantity}]
+     2: a number representing a quantity assumed to have a fixed
+        value in a specified mathematical context; "the velocity
+        of light is a constant"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

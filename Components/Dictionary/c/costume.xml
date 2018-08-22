@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>costume</Word>
+  <Definitions>
+    <Definition>
+      <Word>costume</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Costume \Cos"tume`\ (k?s"t?m` or k?s-t?m"), n. [F. costume, It.
+   costume custom, dress, fr. L. consuetumen (not found), for
+   consuetudo custom. See {Custom}, and cf. {Consuetude}.]
+   1. Dress in general; esp., the distinctive style of dress of
+      a people, class, or period.
+      [1913 Webster]
+
+   2. Such an arrangement of accessories, as in a picture,
+      statue, poem, or play, as is appropriate to the time,
+      place, or other circumstances represented or described.
+      [1913 Webster]
+
+            I began last night to read Walter Scott's Lay of the
+            Last Minstrel . . . .I was extremely delighted with
+            the poetical beauty of some parts . . . .The
+            costume, too, is admirable.           --Sir J.
+                                                  Mackintosh.
+      [1913 Webster]
+
+   3. A character dress, used at fancy balls or for dramatic
+      purposes.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>costume</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>costume
+     n 1: the attire worn in a play or at a fancy dress ball; "he won
+          the prize for best costume"
+     2: unusual or period attire not characteristic of or
+        appropriate to the time and place; "in spite of the heat
+        he insisted on his woolen costume"
+     3: the prevalent fashion of dress (including accessories and
+        hair style as well as garments)
+     4: the attire characteristic of a country or a time or a social
+        class; "he wore his national costume"
+     v 1: dress in a costume; "We dressed up for Halloween as
+          pumpkins" [syn: {dress up}]
+     2: furnish with costumes; as for a film or play
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

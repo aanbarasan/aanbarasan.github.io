@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>birds</Word>
+  <Definitions>
+    <Definition>
+      <Word>birds</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Birds, IL (village, FIPS 6080)
+  Location: 38.83746 N, 87.67081 W
+  Population (1990): 160 (67 housing units)
+  Area: 0.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 62415
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

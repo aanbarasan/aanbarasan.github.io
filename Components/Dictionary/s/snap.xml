@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>snap</Word>
+  <Definitions>
+    <Definition>
+      <Word>snap</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>SNAP
+     
+        1. Early (IBM 360?) interpreted text-processing language for
+        beginners, close to basic English.  ["Computer Programming in
+        English", M.P. Barnett, Harcourt Brace 1969].
+     
+        2. ["Some Proposals for SNAP, A Language with Formal Macro
+        Facilities", R.B. Napper, Computer J 10(3):231-243 (1967)].
+        [same as 1?]
+     
+        3. To replace a pointer to a pointer with a direct pointer; to
+        replace an old address with the forwarding address found
+        there.  If you telephone the main number for an institution
+        and ask for a particular person by name, the operator may tell
+        you that person's extension before connecting you, in the
+        hopes that you will "snap your pointer" and dial direct next
+        time.  The underlying metaphor may be that of a rubber band
+        stretched through a number of intermediate points; if you
+        remove all the thumbtacks in the middle, it snaps into a
+        straight line from first to last.  See {chase pointers}.
+     
+        Often, the behaviour of a {trampoline} is to perform an error
+        check once and then snap the pointer that invoked it so as
+        henceforth to bypass the trampoline (and its one-shot error
+        check).  In this context one also speaks of "snapping links".
+        For example, in a {Lisp} implementation, a function interface
+        trampoline might check to make sure that the caller is passing
+        the correct number of arguments; if it is, and if the caller
+        and the callee are both compiled, then snapping the link
+        allows that particular path to use a direct procedure-call
+        instruction with no further overhead.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>snap</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Snap \Snap\, v. i.
+   1. To break short, or at once; to part asunder suddenly; as,
+      a mast snaps; a needle snaps.
+      [1913 Webster]
+
+            But this weapon will snap short, unfaithful to the
+            hand that employs it.                 --Burke.
+      [1913 Webster]
+
+   2. To give forth, or produce, a sharp, cracking noise; to
+      crack; as, blazing firewood snaps.
+      [1913 Webster]
+
+   3. To make an effort to bite; to aim to seize with the teeth;
+      to catch eagerly (at anything); -- often with at; as, a
+      dog snapsat a passenger; a fish snaps at the bait.
+      [1913 Webster]
+
+   4. To utter sharp, harsh, angry words; -- often with at; as,
+      to snap at a child.
+      [1913 Webster]
+
+   5. To miss fire; as, the gun snapped.
+      [1913 Webster]
+
+   6. Of the eyes, to emit sudden, brief sparkles like those of
+      a snapping fire, as sometimes in anger.
+      [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>snap</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Snap \Snap\, v. t. [imp. &amp; p. p. {Snapped}; p. pr. &amp; vb. n.
+   {Snapping}.] [LG. or D. snappen to snap up, to snatch; akin
+   to G. schnappen, MHG. snaben, Dan. snappe, and to D. snavel
+   beak, bill. Cf. {Neb}, {Snaffle}, n.]
+   1. To break at once; to break short, as substances that are
+      brittle.
+      [1913 Webster]
+
+            Breaks the doors open, snaps the locks. --Prior.
+      [1913 Webster]
+
+   2. To strike, to hit, or to shut, with a sharp sound.
+      [1913 Webster]
+
+   3. To bite or seize suddenly, especially with the teeth.
+      [1913 Webster]
+
+            He, by playing too often at the mouth of death, has
+            been snapped by it at last.           --South.
+      [1913 Webster]
+
+   4. To break upon suddenly with sharp, angry words; to treat
+      snappishly; -- usually with up. --Granville.
+      [1913 Webster]
+
+   5. To crack; to cause to make a sharp, cracking noise; as, to
+      snap a whip.
+      [1913 Webster]
+
+            MacMorian snapped his fingers repeatedly. --Sir W.
+                                                  Scott.
+      [1913 Webster]
+
+   6. To project with a snap.
+      [1913 Webster]
+
+   7. (Cricket) To catch out sharply (a batsman who has just
+      snicked a bowled ball).
+      [Webster 1913 Suppl.]
+
+   {To snap back} (Football), to roll the ball back with the
+      foot; -- done only by the center rush, who thus delivers
+      the ball to the quarter back on his own side when both
+      sides are ranged in line.
+
+   {To snap off}.
+      (a) To break suddenly.
+      (b) To bite off suddenly.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>snap</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Snap \Snap\, n. [Cf. D. snap a snatching. See {Snap}, v. t.]
+   1. A sudden breaking or rupture of any substance.
+      [1913 Webster]
+
+   2. A sudden, eager bite; a sudden seizing, or effort to
+      seize, as with the teeth.
+      [1913 Webster]
+
+   3. A sudden, sharp motion or blow, as with the finger sprung
+      from the thumb, or the thumb from the finger.
+      [1913 Webster]
+
+   4. A sharp, abrupt sound, as that made by the crack of a
+      whip; as, the snap of the trigger of a gun.
+      [1913 Webster]
+
+   5. A greedy fellow. --L'Estrange.
+      [1913 Webster]
+
+   6. That which is, or may be, snapped up; something bitten
+      off, seized, or obtained by a single quick movement;
+      hence, a bite, morsel, or fragment; a scrap.
+      [1913 Webster]
+
+            He's a nimble fellow,
+            And alike skilled in every liberal science,
+            As having certain snaps of all.       --B. Jonson.
+      [1913 Webster]
+
+   7. A sudden severe interval or spell; -- applied to the
+      weather; as, a cold snap. --Lowell.
+      [1913 Webster]
+
+   8. A small catch or fastening held or closed by means of a
+      spring, or one which closes with a snapping sound, as the
+      catch of a bracelet, necklace, clasp of a book, etc.
+      [1913 Webster]
+
+   9. (Zo["o]l.) A snap beetle.
+      [1913 Webster]
+
+   10. A thin, crisp cake, usually small, and flavored with
+       ginger; -- used chiefly in the plural.
+       [1913 Webster]
+
+   11. Briskness; vigor; energy; decision. [Colloq.]
+       [1913 Webster]
+
+   12. Any circumstance out of which money may be made or an
+       advantage gained. [Slang]
+       [1913 Webster]
+
+   13. Any task, labor, set of circumstances, or the like, that
+       yields satisfactory results or gives pleasure with little
+       trouble or effort, as an easy course of study, a job
+       where work is light, a bargain, etc. [Slang, Chiefly U.
+       S.]
+       [Webster 1913 Suppl.]
+
+   14. A snap shot with a firearm.
+       [Webster 1913 Suppl.]
+
+   15. (Photog.) A snapshot.
+       [Webster 1913 Suppl.]
+
+   16. Something of no value; as, not worth a snap. [Colloq.]
+       [Webster 1913 Suppl.]
+
+   17. (Football) The action of snapping the ball back, from the
+       center usu. to the quarterback, which commences the play
+       (down), and, if the clock had stopped, restarts the timer
+       clock; a {snap back}.
+       [PJC]
+
+   {Snap back} (Football), the act of snapping back the ball.
+
+   {Snap beetle}, or {Snap bug} (Zo["o]l.), any beetle of the
+      family {Elaterid[ae]}, which, when laid on its back, is
+      able to leap to a considerable height by means of a
+      thoracic spring; -- called also {snapping beetle}.
+
+   {Snap flask} (Molding), a flask for small work, having its
+      sides separable and held together by latches, so that the
+      flask may be removed from around the sand mold.
+
+   {Snap judgment}, a judgment formed on the instant without
+      deliberation.
+
+   {Snap lock}, a lock shutting with a catch or snap.
+
+   {Snap riveting}, riveting in which the rivets have snapheads
+      formed by a die or swaging tool.
+
+   {Snap shot}, a quick offhand shot, without deliberately
+      taking aim.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>snap</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Snap \Snap\, a.
+   Done, performed, made, executed, carried through, or the
+   like, quickly and without deliberation; as, a snap judgment
+   or decision; a snap political convention. [Colloq.]
+   [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>snap</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>snap v. To replace a pointer to a pointer with a direct pointer; to
+   replace an old address with the forwarding address found there. If you
+   telephone the main number for an institution and ask for a particular
+   person by name, the operator may tell you that person's extension before
+   connecting you, in the hopes that you will `snap your pointer' and dial
+   direct next time. The underlying metaphor may be that of a rubber band
+   stretched through a number of intermediate points; if you remove all the
+   thumbtacks in the middle, it snaps into a straight line from first to
+   last. See {chase pointers}.
+
+   Often, the behavior of a {trampoline} is to perform an error check
+   once and then snap the pointer that invoked it so as henceforth to
+   bypass the trampoline (and its one-shot error check). In this context
+   one also speaks of `snapping links'. For example, in a LISP
+   implementation, a function interface trampoline might check to make sure
+   that the caller is passing the correct number of arguments; if it is,
+   and if the caller and the callee are both compiled, then snapping the
+   link allows that particular path to use a direct procedure-call
+   instruction with no further overhead.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>snap</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>SNAP
+     SubNetwork Access Protocol (LAN, ethernet)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>snap</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>SNAP
+     SubNetwork Attachment Point (IEEE 802.1a)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>snap</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>SNAP
+     System and Network Administration Program
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>snap</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>snap
+     n 1: the act of catching an object with the hands; "Mays made the
+          catch with his back to the plate"; "he made a grab for
+          the ball before it landed"; "Martin's snatch at the
+          bridle failed and the horse raced away"; "the
+          infielder's snap and throw was a single motion" [syn: {catch},
+           {grab}, {snatch}]
+     2: a spell of cold weather; "a cold snap in the middle of May"
+     3: tender green beans without strings that easily snap into
+        sections [syn: {snap bean}]
+     4: a crisp round cookie flavored with ginger [syn: {gingersnap},
+         {ginger snap}, {ginger nut}]
+     5: the noise produced by the rapid movement of a finger from
+        the tip to the base of the thumb on the same hand;
+        "servants appeared at the snap of his fingers"
+     6: a sudden sharp noise; "the crack of a whip"; "he heard the
+        cracking of the ice"; "he can hear the snap of a twig"
+        [syn: {crack}, {cracking}]
+     7: a sudden breaking
+     8: the tendency of a body to return to its original shape after
+        it has been stretched or compressed; "the waistband had
+        lost its snap" [syn: {elasticity}] [ant: {inelasticity}]
+     9: an informal photograph; usually made with a small hand-held
+        camera; "my snapshots haven't been developed yet"; "he
+        tried to get unposed shots of his friends" [syn: {snapshot},
+         {shot}]
+     10: a fastener used on clothing; fastens with a snapping sound;
+         "children can manage snaps better than buttons" [syn: {snap
+         fastener}, {press stud}]
+     11: any undertaking that is easy to do; "marketing this product
+         will be no picnic" [syn: {cinch}, {breeze}, {picnic}, {duck
+         soup}, {child's play}, {pushover}, {walkover}, {piece of
+         cake}]
+     12: the act of snapping the fingers; movement of a finger from
+         the tip to the base of the thumb on the same hand; "he
+         gave his fingers a snap"
+     13: (American football) putting the ball in play by passing it
+         (between the legs) to a back; "the quarterback fumbled
+         the snap" [syn: {centering}]
+     v 1: utter in an angry, sharp, or abrupt tone; "The sales clerky
+          snapped a reply at the angry customer"; "The guard
+          snarled at us" [syn: {snarl}]
+     2: separate or cause to separate abruptly; "The rope snapped";
+        "tear the paper" [syn: {tear}, {rupture}, {bust}]
+     3: break suddenly and abruptly, as under tension; "The rope
+        snapped" [syn: {crack}]
+     4: move or strike with a noise; "he clicked on the light"; "his
+        arm was snapped forward" [syn: {click}]
+     5: snap close with a sound; "The lock snapped shut"
+     6: make a sharp sound; "his fingers snapped" [syn: {crack}]
+     7: move with a snapping sound; "bullets snapped past us"
+     8: to grasp hastily or eagerly; "Before I could stop him the
+        dog snatched the ham bone" [syn: {snatch}, {snatch up}]
+     9: put in play with a snap; "snap a football"
+     10: cause to make a snapping sound; "snap your fingers" [syn: {click},
+          {flick}]
+     11: lose control of one's emotions; "When she heard that she had
+         not passed the exam, she lost it completely"; "When her
+         baby died, she snapped" [syn: {break down}, {lose it}]
+     12: record on photographic film; "I photographed the scene of
+         the accident"; "She snapped a picture of the President"
+         [syn: {photograph}, {shoot}]
+     [also: {snapping}, {snapped}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cliche</Word>
+  <Definitions>
+    <Definition>
+      <Word>cliche</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Clich'e \Cli`ch['e]"\, n. [F. clich['e], from clicher to
+   stereotype.]
+   1. A stereotype plate or any similar reproduction of
+      ornament, or lettering, in relief.
+      [1913 Webster]
+
+   2. a trite or obvious remark.
+
+   Syn: platitude, banality, commonplace, bromide.
+        [WordNet 1.5]
+
+   {Clich['e] casting}, a mode of obtaining an impression from a
+      die or woodcut, or the like, by striking it suddenly upon
+      metal which has been fused and is just becoming solid;
+      also, the casting so obtained.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cliche</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cliche
+     n : a trite or obvious remark [syn: {platitude}, {banality}, {commonplace},
+          {bromide}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

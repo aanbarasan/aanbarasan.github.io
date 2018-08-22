@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>brightly</Word>
+  <Definitions>
+    <Definition>
+      <Word>brightly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Brightly \Bright"ly\, adv.
+   1. Brilliantly; splendidly; with luster; as, brightly shining
+      armor.
+      [1913 Webster]
+
+   2. With lively intelligence; intelligently.
+      [1913 Webster]
+
+            Looking brightly into the mother's face.
+                                                  --Hawthorne.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>brightly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>brightly
+     adv : with brightness; "the stars shone brilliantly"; "the windows
+           glowed jewel bright" [syn: {brilliantly}, {bright}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

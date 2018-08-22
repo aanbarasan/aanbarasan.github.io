@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>asinine</Word>
+  <Definitions>
+    <Definition>
+      <Word>asinine</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Asinine \As"i*nine\, a. [L. asininus, fr. asinus ass. See
+   {Ass}.]
+   Of or belonging to, or having the qualities of, the ass, as
+   stupidity and obstinacy. ``Asinine nature.'' --B. Jonson.
+   ``Asinine feast.'' --Milton.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>asinine</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>asinine
+     adj : complacently or inanely foolish [syn: {fatuous}, {inane}, {mindless},
+            {vacuous}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

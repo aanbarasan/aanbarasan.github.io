@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>arts</Word>
+  <Definitions>
+    <Definition>
+      <Word>arts</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>ARTS
+     Accelerated Ray-Tracing System (raytracing)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>arts</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>ARTS
+     Asynchronous Remote Takeover Server
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>arts</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>arts
+     n : studies intended to provide general knowledge and
+         intellectual skills (rather than occupational or
+         professional skills); "the college of arts and sciences"
+         [syn: {humanistic discipline}, {humanities}, {liberal
+         arts}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

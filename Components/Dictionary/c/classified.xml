@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>classified</Word>
+  <Definitions>
+    <Definition>
+      <Word>classified</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>classified \classified\ adj.
+   1. arranged into classes or categories; as, {unclassified}.
+
+   Syn: categorized.
+        [WordNet 1.5 +PJC]
+
+   2. assigned to a class of documents withheld from general
+      circulation; -- of information or documents. Opposite of
+      {unclassified}.
+
+   Note: [Narrower terms: {eyes-only}; {confidential};
+         {restricted}; {secret}; {sensitive}; {top-secret}]
+         [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>classified</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Classify \Clas"si*fy\, v. t. [imp. &amp; p. p. {Classified}; p. pr.
+   &amp; vb. n. {Classifying}.] [L. classis class + -fy.]
+   To distribute into classes; to arrange according to a system;
+   to arrange in sets according to some method founded on common
+   properties or characters.
+
+   Syn: To arrange; distribute; rank.
+        [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>classified</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>classified
+     See {classify}
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>classified</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>classify
+     v 1: arrange or order by classes or categories; "How would you
+          classify these pottery shards--are they prehistoric?"
+          [syn: {class}, {sort}, {assort}, {sort out}, {separate}]
+     2: declare unavailable, as for security reasons; "Classify
+        these documents" [ant: {declassify}]
+     3: assign to a class or kind; "How should algae be
+        classified?"; "People argue about how to relegate certain
+        mushrooms" [syn: {relegate}]
+     [also: {classified}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>classified</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>classified
+     adj 1: arranged into classes [ant: {unclassified}]
+     2: official classification of information or documents;
+        withheld from general circulation; "thousands of
+        classified documents have now been declassified" [ant: {unclassified}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

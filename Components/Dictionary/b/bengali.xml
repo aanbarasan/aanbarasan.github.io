@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bengali</Word>
+  <Definitions>
+    <Definition>
+      <Word>bengali</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bengalee \Ben*gal"ee\, Bengali \Ben*gal"i\, prop. n.
+   The language spoken in Bengal.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bengali</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bengali \Bengali\ prop. adj.
+   1. Of or pertaining to the Bengali language; as, Bengali
+      poetry.
+      [WordNet 1.5]
+
+   2. Of, pertaining to, or characteristic of Bangladesh
+      (formerly Bengal) or its inhabitants; as, Bengali hills.
+      [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bengali</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Bengali
+     adj : of or relating to or characteristic of Bengal or its people;
+           "Bengali hills"
+     n 1: (Hinduism) a member of a people living in Bangladesh and
+          West Bengal (mainly Hindus)
+     2: an ethnic group speaking Bengali and living in Bangladesh
+        and eastern India
+     3: a Magadhan language spoken by the Bengali people; the
+        official language of Bangladesh and Bengal
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>aft</Word>
+  <Definitions>
+    <Definition>
+      <Word>aft</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Aft \Aft\ ([.a]ft), adv. &amp; a. [AS. [ae]ftan behind; orig.
+   superl. of of, off. See {After}.] (Naut.)
+   Near or towards the stern of a vessel; astern; abaft.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>aft</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>AFT
+     Authenticated Firewall Traversal (IETF)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>aft</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>aft
+     adj : (nautical, aeronautical) situated at or toward the stern or
+           tail [syn: {aft(a)}] [ant: {fore(a)}]
+     adv : at or near or toward the stern of a ship or tail of an
+           airplane; "stow the luggage aft"; "ships with square
+           sails sail fairly efficiently with the wind abaft";
+           "the captain looked astern to see what the fuss was
+           about" [syn: {abaft}, {astern}] [ant: {fore}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

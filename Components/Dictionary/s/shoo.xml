@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>shoo</Word>
+  <Definitions>
+    <Definition>
+      <Word>shoo</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Shoo \Shoo\, interj. [Cf. G. scheuchen to scare, drive away.]
+   Begone; away; -- an expression used in frightening away
+   animals, especially fowls.
+   [1913 Webster]
+   [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>shoo</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>shoo
+     v : drive away by crying `shoo!' [syn: {shoo off}, {shoo away}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

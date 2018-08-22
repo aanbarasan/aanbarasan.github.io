@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bran</Word>
+  <Definitions>
+    <Definition>
+      <Word>bran</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bran \Bran\, n. [OE. bren, bran, OF. bren, F. bran, from Celtic;
+   cf. Armor. brenn, Ir. bran, bran, chaff.]
+   1. The broken coat of the seed of wheat, rye, or other cereal
+      grain, separated from the flour or meal by sifting or
+      bolting; the coarse, chaffy part of ground grain.
+      [1913 Webster]
+
+   2. (Zo["o]l.) The European carrion crow.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bran</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>BRAN
+     Broadband Radio Access Network (ETSI, WLAN)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bran</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bran
+     n 1: broken husks of the seeds of cereal grains that are
+          separated from the flour by sifting
+     2: food prepared from the husks of cereal grains
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

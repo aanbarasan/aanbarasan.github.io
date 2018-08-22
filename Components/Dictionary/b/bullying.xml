@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bullying</Word>
+  <Definitions>
+    <Definition>
+      <Word>bullying</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>bullying \bullying\ adj.
+   Noisily domineering; tending to browbeat others.
+
+   Syn: blustery.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bullying</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bully \Bul"ly\, v. t. [imp. &amp; p. p. {Bullied} (b[.u]l"l[=e]d);
+   p. pr. &amp; vb. n. {Bullying}.]
+   To intimidate or badger with threats and by an overbearing,
+   swaggering demeanor; to act the part of a bully[1] toward.
+   [1913 Webster]
+
+         For the last fortnight there have been prodigious
+         shoals of volunteers gone over to bully the French,
+         upon hearing the peace was just signing. --Tatler.
+   [1913 Webster]
+
+   Syn: To bluster; swagger; hector; domineer.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bullying</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bullying
+     adj : noisily domineering; tending to browbeat others [syn: {blustery}]
+     n : the act of intimidating a weaker person to make them do
+         something [syn: {intimidation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>relative</Word>
+  <Definitions>
+    <Definition>
+      <Word>relative</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>RELATIVE
+     
+        Early system on IBM 650.  Listed in CACM 2(5):16 (May 1959).
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>relative</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Relative \Rel"a*tive\ (r?l"?-t?v), a. [F. relatif, L. relativus.
+   See {Relate}.]
+   1. Having relation or reference; referring; respecting;
+      standing in connection; pertaining; as, arguments not
+      relative to the subject.
+      [1913 Webster]
+
+            I'll have grounds
+            More relative than this.              --Shak.
+      [1913 Webster]
+
+   2. Arising from relation; resulting from connection with, or
+      reference to, something else; not absolute.
+      [1913 Webster]
+
+            Every thing sustains both an absolute and a relative
+            capacity: an absolute, as it is such a thing, endued
+            with such a nature; and a relative, as it is a part
+            of the universe, and so stands in such a relations
+            to the whole.                         --South.
+      [1913 Webster]
+
+   3. (Gram.) Indicating or expressing relation; refering to an
+      antecedent; as, a relative pronoun.
+      [1913 Webster]
+
+   4. (Mus.) Characterizing or pertaining to chords and keys,
+      which, by reason of the identify of some of their tones,
+      admit of a natural transition from one to the other.
+      --Moore (Encyc. of Music).
+      [1913 Webster]
+
+   {Relative clause} (Gram.), a clause introduced by a relative
+      pronoun.
+
+   {Relative term}, a term which implies relation to, as
+      guardian to ward, matter to servant, husband to wife. Cf.
+      {Correlative}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>relative</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Relative \Rel"a*tive\, n.
+   One who, or that which, relates to, or is considered in its
+   relation to, something else; a relative object or term; one
+   of two object or term; one of two objects directly connected
+   by any relation. Specifically:
+   (a) A person connected by blood or affinity; strictly, one
+       allied by blood; a relation; a kinsman or kinswoman.
+       ``Confining our care . . . to ourselves and relatives.''
+       --Bp. Fell.
+   (b) (Gram.) A relative pronoun; a word which relates to, or
+       represents, another word or phrase, called its
+       antecedent; as, the relatives ``who'', ``which'',
+       ``that''.
+       [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>relative</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>relative
+     adj 1: not absolute or complete; "a relative stranger" [ant: {absolute}]
+     2: properly related in size or degree or other measurable
+        characteristics; usually followed by `to'; "punishment
+        oughtt to be proportional to the crime"; "earnings
+        relative to production" [syn: {proportional}]
+     n 1: a person related by blood or marriage; "police are searching
+          for relatives of the deceased"; "he has distant
+          relations back in New Jersey" [syn: {relation}]
+     2: an animal or plant that bears a relationship to another (as
+        related by common descent or by membership in the same
+        genus) [syn: {congener}, {congenator}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

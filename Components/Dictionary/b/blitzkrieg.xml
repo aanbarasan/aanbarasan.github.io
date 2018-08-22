@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>blitzkrieg</Word>
+  <Definitions>
+    <Definition>
+      <Word>blitzkrieg</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>blitzkrieg \blitz"krieg\ (bl[i^]tz"kr[=e]g), n. [German, blitz
+   lightning + krieg war.]
+   an overwhelming all-out attack with infantry, armor, and air
+   forces, especially by surprise against an unprepared enemy.
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>blitzkrieg</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>blitzkrieg \blitz"krieg\ v.
+   to fight a quick and surprising war.
+
+   Syn: fight a blitzkrieg.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>blitzkrieg</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>blitzkrieg
+     v : fight a quick and surprising war
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

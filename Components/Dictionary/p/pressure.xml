@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pressure</Word>
+  <Definitions>
+    <Definition>
+      <Word>pressure</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pressure \Pres"sure\ (?; 138), n. [OF., fr. L. pressura, fr.
+   premere. See 4th {Press}.]
+   1. The act of pressing, or the condition of being pressed;
+      compression; a squeezing; a crushing; as, a pressure of
+      the hand.
+      [1913 Webster]
+
+   2. A contrasting force or impulse of any kind; as, the
+      pressure of poverty; the pressure of taxes; the pressure
+      of motives on the mind; the pressure of civilization.
+      [1913 Webster]
+
+            Where the pressure of danger was not felt.
+                                                  --Macaulay.
+      [1913 Webster]
+
+   3. Affliction; distress; grievance.
+      [1913 Webster]
+
+            My people's pressures are grievous.   --Eikon
+                                                  Basilike.
+      [1913 Webster]
+
+            In the midst of his great troubles and pressures.
+                                                  --Atterbury.
+      [1913 Webster]
+
+   4. Urgency; as, the pressure of business.
+      [1913 Webster]
+
+   5. Impression; stamp; character impressed.
+      [1913 Webster]
+
+            All saws of books, all forms, all pressures past.
+                                                  --Shak.
+      [1913 Webster]
+
+   6. (Mech.) The action of a force against some obstacle or
+      opposing force; a force in the nature of a thrust,
+      distributed over a surface, often estimated with reference
+      to the amount upon a unit's area.
+      [1913 Webster]
+
+   7. Electro-motive force.
+      [Webster 1913 Suppl.]
+
+   {Atmospheric pressure}, {Center of pressure}, etc. See under
+      {Atmospheric}, {Center}, etc.
+
+   {Back pressure} (Steam engine), pressure which resists the
+      motion of the piston, as the pressure of exhaust steam
+      which does not find free outlet.
+
+   {Fluid pressure}, pressure like that exerted by a fluid. It
+      is a thrust which is normal and equally intense in all
+      directions around a point. --Rankine.
+
+   {Pressure gauge}, a gauge for indicating fluid pressure; a
+      manometer.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pressure</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pressure
+     n 1: the force applied to a unit area of surface; measured in
+          pascals (SI unit) or in dynes (cgs unit); "the
+          compressed gas exerts an increased pressure" [syn: {pressure
+          level}, {force per unit area}]
+     2: a force that compels; "the public brought pressure to bear
+        on the government"
+     3: the act of pressing; the exertion of pressure; "he gave the
+        button a press"; "he used pressure to stop the bleeding";
+        "at the pressing of a button" [syn: {press}, {pressing}]
+     4: the state of urgently demanding notice or attention; "the
+        press of business matters" [syn: {imperativeness}, {insistence},
+         {insistency}, {press}]
+     5: the somatic sensation of pressure; "the sensitivity of his
+        skin to pressure and temperature was normal" [syn: {pressure
+        sensation}]
+     6: an oppressive condition of physical or mental or social or
+        economic distress
+     v 1: to cause to do through pressure or necessity, by physical,
+          moral or intellectual means :"She forced him to take a
+          job in the city"; "He squeezed her for information"
+          [syn: {coerce}, {hale}, {squeeze}, {force}]
+     2: exert pressure on someone through threats [syn: {blackmail},
+         {blackjack}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

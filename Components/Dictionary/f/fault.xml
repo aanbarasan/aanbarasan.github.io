@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fault</Word>
+  <Definitions>
+    <Definition>
+      <Word>fault</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>fault
+     
+        1. &lt;programming&gt; A manifestation of an {error} in {software}.
+        A fault, if encountered, may cause a {failure}.
+     
+        2. &lt;architecture&gt; {page fault}.
+     
+        (1996-05-14)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fault</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fault \Fault\, n. [OE. faut, faute, F. faute (cf. It., Sp., &amp;
+   Pg. falta), fr. a verb meaning to want, fail, freq., fr. L.
+   fallere to deceive. See {Fail}, and cf. {Default}.]
+   1. Defect; want; lack; default.
+      [1913 Webster]
+
+            One, it pleases me, for fault of a better, to call
+            my friend.                            --Shak.
+      [1913 Webster]
+
+   2. Anything that fails, that is wanting, or that impairs
+      excellence; a failing; a defect; a blemish.
+      [1913 Webster]
+
+            As patches set upon a little breach
+            Discredit more in hiding of the fault. --Shak.
+      [1913 Webster]
+
+   3. A moral failing; a defect or dereliction from duty; a
+      deviation from propriety; an offense less serious than a
+      crime.
+      [1913 Webster]
+
+   4. (Geol. &amp; Mining)
+      (a) A dislocation of the strata of the vein.
+      (b) In coal seams, coal rendered worthless by impurities
+          in the seam; as, slate fault, dirt fault, etc.
+          --Raymond.
+          [1913 Webster]
+
+   5. (Hunting) A lost scent; act of losing the scent.
+      [1913 Webster]
+
+            Ceasing their clamorous cry till they have singled,
+            With much ado, the cold fault cleary out. --Shak.
+      [1913 Webster]
+
+   6. (Tennis) Failure to serve the ball into the proper court.
+      [1913 Webster]
+
+   7. (Elec.) A defective point in an electric circuit due to a
+      crossing of the parts of the conductor, or to contact with
+      another conductor or the earth, or to a break in the
+      circuit.
+      [Webster 1913 Suppl.]
+
+   8. (Geol. &amp; Mining) A dislocation caused by a slipping of
+      rock masses along a plane of facture; also, the dislocated
+      structure resulting from such slipping.
+
+   Note: The surface along which the dislocated masses have
+         moved is called the
+
+   {fault plane}. When this plane is vertical, the fault is a
+
+   {vertical fault}; when its inclination is such that the
+      present relative position of the two masses could have
+      been produced by the sliding down, along the fault plane,
+      of the mass on its upper side, the fault is a
+
+   {normal fault}, or {gravity fault}. When the fault plane is
+      so inclined that the mass on its upper side has moved up
+      relatively, the fault is then called a
+
+   {reverse fault} (or {reversed fault}), {thrust fault}, or
+   {overthrust fault}. If no vertical displacement has resulted,
+      the fault is then called a
+
+   {horizontal fault}. The linear extent of the dislocation
+      measured on the fault plane and in the direction of
+      movement is the
+
+   {displacement}; the vertical displacement is the
+
+   {throw}; the horizontal displacement is the
+
+   {heave}. The direction of the line of intersection of the
+      fault plane with a horizontal plane is the
+
+   {trend} of the fault. A fault is a
+
+   {strike fault} when its trend coincides approximately with
+      the strike of associated strata (i.e., the line of
+      intersection of the plane of the strata with a horizontal
+      plane); it is a
+
+   {dip fault} when its trend is at right angles to the strike;
+      an
+
+   {oblique fault} when its trend is oblique to the strike.
+      Oblique faults and dip faults are sometimes called
+
+   {cross faults}. A series of closely associated parallel
+      faults are sometimes called
+
+   {step faults} and sometimes
+
+   {distributive faults}.
+      [Webster 1913 Suppl.]
+
+   {At fault}, unable to find the scent and continue chase;
+      hence, in trouble or embarrassment, and unable to proceed;
+      puzzled; thrown off the track.
+
+   {To find fault}, to find reason for blaming or complaining;
+      to express dissatisfaction; to complain; -- followed by
+      with before the thing complained of; but formerly by at.
+      ``Matter to find fault at.'' --Robynson (More's Utopia).
+
+   Syn: -- Error; blemish; defect; imperfection; weakness;
+        blunder; failing; vice.
+
+   Usage: {Fault}, {Failing}, {Defect}, {Foible}. A fault is
+          positive, something morally wrong; a failing is
+          negative, some weakness or falling short in a man's
+          character, disposition, or habits; a defect is also
+          negative, and as applied to character is the absence
+          of anything which is necessary to its completeness or
+          perfection; a foible is a less important weakness,
+          which we overlook or smile at. A man may have many
+          failings, and yet commit but few faults; or his faults
+          and failings may be few, while his foibles are obvious
+          to all. The faults of a friend are often palliated or
+          explained away into mere defects, and the defects or
+          foibles of an enemy exaggerated into faults. ``I have
+          failings in common with every human being, besides my
+          own peculiar faults; but of avarice I have generally
+          held myself guiltless.'' --Fox. ``Presumption and
+          self-applause are the foibles of mankind.''
+          --Waterland.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fault</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fault \Fault\, v. t. [imp. &amp; p. p. {Faulted}; p. pr. &amp; vb. n.
+   {Faulting}.]
+   1. To charge with a fault; to accuse; to find fault with; to
+      blame. [Obs.]
+      [1913 Webster]
+
+            For that I will not fault thee.       --Old Song.
+      [1913 Webster]
+
+   2. (Geol.) To interrupt the continuity of (rock strata) by
+      displacement along a plane of fracture; -- chiefly used in
+      the p. p.; as, the coal beds are badly faulted.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fault</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fault \Fault\, v. i.
+   To err; to blunder, to commit a fault; to do wrong. [Obs.]
+   [1913 Webster]
+
+         If after Samuel's death the people had asked of God a
+         king, they had not faulted.              --Latimer.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fault</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fault
+     n 1: responsibility for a bad situation or event; "it was John's
+          fault"
+     2: (geology) a crack in the earth's crust resulting from the
+        displacement of one side with respect to the other; "they
+        built it right over a geological fault" [syn: {geological
+        fault}, {shift}, {fracture}, {break}]
+     3: the quality of being inadequate or falling short of
+        perfection; "they discussed the merits and demerits of her
+        novel"; "he knew his own faults much better than she did"
+        [syn: {demerit}] [ant: {merit}]
+     4: a wrong action attributable to bad judgment or ignorance or
+        inattention; "he made a bad mistake"; "she was quick to
+        point out my errors"; "I could understand his English in
+        spite of his grammatical faults" [syn: {mistake}, {error}]
+     5: an imperfection in a device or machine; "if there are any
+        defects you should send it back to the manufacturer" [syn:
+         {defect}, {flaw}]
+     6: (sports) a serve that is illegal (e.g., that lands outside
+        the prescribed area); "he served too many double faults"
+     7: (electronics) equipment failure attributable to some defect
+        in a circuit (loose connection or insulation failure or
+        short circuit etc.); "it took much longer to find the
+        fault than to fix it"
+     v : put or pin the blame on [syn: {blame}] [ant: {absolve}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

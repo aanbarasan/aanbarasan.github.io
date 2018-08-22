@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>aroma</Word>
+  <Definitions>
+    <Definition>
+      <Word>aroma</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Aroma \A*ro"ma\, n. [L. aroma, Gr. ?: cf. OE. aromaz, aromat,
+   spice, F. aromate.]
+   1. The quality or principle of plants or other substances
+      which constitutes their fragrance; agreeable odor; as, the
+      aroma of coffee.
+      [1913 Webster]
+
+   2. Fig.: The fine diffusive quality of intellectual power;
+      flavor; as, the subtile aroma of genius.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>aroma</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>aroma
+     n 1: any property detected by the olfactory system [syn: {olfactory
+          property}, {smell}, {odor}, {odour}, {scent}]
+     2: a distinctive odor that is pleasant [syn: {fragrance}, {perfume},
+         {scent}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>checkmate</Word>
+  <Definitions>
+    <Definition>
+      <Word>checkmate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Checkmate \Check"mate\ (-m[=a]t), v. t. [imp. &amp; p. p.
+   {Checkmated}; p. pr. &amp; vb. n. {Checkmating}.]
+   1. (Chess) To check (an adversary's king) in such a manner
+      that escape in impossible; to defeat (an adversary) by
+      putting his king in check from which there is no escape.
+      [1913 Webster]
+
+   2. To defeat completely; to terminate; to thwart.
+      [1913 Webster]
+
+            To checkmate and control my just demands. --Ford.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>checkmate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Checkmate \Check"mate\ (ch[e^]k"m[=a]t), n. [F. ['e]chec et mat,
+   fr. Per. sh[=a]h m[=a]t checkmate, lit., the king is dead,
+   fr. Ar. m[=a]ta he died, is dead. The king, when made
+   prisoner, or checkmated, is assumed to be dead, and the game
+   is finished. See {Chess}.]
+   1. The position in the game of chess when a king is in check
+      and cannot be released, -- which ends the game.
+      [1913 Webster]
+
+   2. A complete check; utter defeat or overthrow.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>checkmate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>checkmate
+     n 1: complete victory
+     2: a chess move constituting an inescapable and indefensible
+        attack on the opponent's king [syn: {mate}]
+     v : place an opponent's king under an attack from which it
+         cannot escape and thus ending the game; "Kasparov
+         checkmated his opponent after only a few moves" [syn: {mate}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

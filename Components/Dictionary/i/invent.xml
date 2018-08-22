@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>invent</Word>
+  <Definitions>
+    <Definition>
+      <Word>invent</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Invent \In*vent"\, v. t. [imp. &amp; p. p. {Invented}; p. pr. &amp; vb.
+   n. {Inventing}.] [L. inventus, p. p. of invenire to come
+   upon, to find, invent; pref. in- in + venire to come, akin to
+   E. come: cf. F. inventer. See {Come}.]
+   [1913 Webster]
+   1. To come or light upon; to meet; to find. [Obs.]
+      [1913 Webster]
+
+            And vowed never to return again,
+            Till him alive or dead she did invent. --Spenser.
+      [1913 Webster]
+
+   2. To discover, as by study or inquiry; to find out; to
+      devise; to contrive or produce for the first time; --
+      applied commonly to the discovery of some serviceable
+      mode, instrument, or machine.
+      [1913 Webster]
+
+            Thus first Necessity invented stools. --Cowper.
+      [1913 Webster]
+
+   3. To frame by the imagination; to fabricate mentally; to
+      forge; -- in a good or a bad sense; as, to invent the
+      machinery of a poem; to invent a falsehood.
+      [1913 Webster]
+
+            Whate'er his cruel malice could invent. --Milton.
+      [1913 Webster]
+
+            He had invented some circumstances, and put the
+            worst possible construction on others. --Sir W.
+                                                  Scott.
+
+   Syn: To discover; contrive; devise; frame; design; fabricate;
+        concoct; elaborate. See {Discover}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>invent</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>invent
+     v 1: come up with (an idea, plan, explanation, theory, or
+          priciple) after a mental effort; "excogitate a way to
+          measure the speed of light" [syn: {contrive}, {devise},
+          {excogitate}, {formulate}, {forge}]
+     2: make up something artificial or untrue [syn: {fabricate}, {manufacture},
+         {cook up}, {make up}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

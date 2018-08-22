@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>asia</Word>
+  <Definitions>
+    <Definition>
+      <Word>asia</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Asia
+   is used to denote Proconsular Asia, a Roman province which
+   embraced the western parts of Asia Minor, and of which Ephesus
+   was the capital, in Acts 2:9; 6:9; 16:6; 19:10,22; 20:4, 16, 18,
+   etc., and probably Asia Minor in Acts 19:26, 27; 21:27; 24:18;
+   27:2. Proconsular Asia contained the seven churches of the
+   Apocalypse (Rev. 1:11). The "chiefs of Asia" (Acts 19:31) were
+   certain wealthy citizens who were annually elected to preside
+   over the games and religious festivals of the several cities to
+   which they belonged. Some of these "Asiarchs" were Paul's
+   friends.
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>asia</Word>
+      <Dictionary>
+        <Id>hitchcock</Id>
+        <Name>Hitchcock's Bible Names Dictionary (late 1800's)</Name>
+      </Dictionary>
+      <WordDefinition>Asia, muddy; boggy
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>asia</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Asia
+     n 1: the largest continent with 60% of the earth's population; it
+          is joined to Europe on the west to form Eurasia; it is
+          the site of some of the world's earliest civilizations
+     2: the nations of the Asian continent collectively
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

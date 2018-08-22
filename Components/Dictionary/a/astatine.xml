@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>astatine</Word>
+  <Definitions>
+    <Definition>
+      <Word>astatine</Word>
+      <Dictionary>
+        <Id>elements</Id>
+        <Name>Elements database 20001107</Name>
+      </Dictionary>
+      <WordDefinition>astatine
+Symbol: At
+Atomic number: 85
+Atomic weight: (210)
+Radioactive halogen element. Occurs naturally from uranium and thorium
+decay. At least 20 known isotopes. At-210, the most stable, has a
+half-life of 8.3 hours. Synthesized by nuclear bombardment in 1940 by D.R.
+Corson, K.R. MacKenzie and E. Segre at the University of California.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>astatine</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>astatine
+     n : a highly unstable radioactive element (the heaviest of the
+         halogen series); a decay product of uranium and thorium
+         [syn: {At}, {atomic number 85}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

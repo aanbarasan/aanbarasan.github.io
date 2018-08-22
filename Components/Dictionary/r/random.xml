@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>random</Word>
+  <Definitions>
+    <Definition>
+      <Word>random</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>random
+     
+        1. Unpredictable (closest to mathematical definition); weird.
+        "The system's been behaving pretty randomly."
+     
+        2. Assorted; undistinguished.  "Who was at the conference?"
+        "Just a bunch of random business types."
+     
+        3. (pejorative) Frivolous; unproductive; undirected.  "He's
+        just a random loser."
+     
+        4. Incoherent or inelegant; poorly chosen; not well organised.
+        "The program has a random set of misfeatures."  "That's a
+        random name for that function."  "Well, all the names were
+        chosen pretty randomly."
+     
+        5. In no particular order, though {deterministic}.  "The I/O
+        channels are in a pool, and when a file is opened one is
+        chosen randomly."
+     
+        6. Arbitrary.  "It generates a random name for the scratch
+        file."
+     
+        7. Gratuitously wrong, i.e. poorly done and for no good
+        apparent reason.  For example, a program that handles file
+        name defaulting in a particularly useless way, or an assembler
+        routine that could easily have been coded using only three
+        registers, but redundantly uses seven for values with
+        non-overlapping lifetimes, so that no one else can invoke it
+        without first saving four extra registers.  What {randomness}!
+     
+        8.  A random hacker; used particularly of high-school students
+        who soak up computer time and generally get in the way.
+     
+        9.  Anyone who is not a hacker (or, sometimes, anyone not
+        known to the hacker speaking).  "I went to the talk, but the
+        audience was full of randoms asking bogus questions".
+     
+        10.  (occasional MIT usage) One who lives at Random Hall.  See
+        also {J. Random}, {some random X}.
+     
+        [{Jargon File}]
+     
+        (1995-12-05)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>random</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Random \Ran"dom\ (r[a^]n"d[u^]m), n. [OE. randon, OF. randon
+   force, violence, rapidity, [`a] randon, de randon, violently,
+   suddenly, rapidly, prob. of German origin; cf. G. rand edge,
+   border, OHG. rant shield, edge of a shield, akin to E. rand,
+   n. See {Rand}, n.]
+   1. Force; violence. [Obs.]
+      [1913 Webster]
+
+            For courageously the two kings newly fought with
+            great random and force.               --E. Hall.
+      [1913 Webster]
+
+   2. A roving motion; course without definite direction; want
+      of direction, rule, or method; hazard; chance; -- commonly
+      used in the phrase at random, that is, without a settled
+      point of direction; at hazard.
+      [1913 Webster]
+
+            Counsels, when they fly
+            At random, sometimes hit most happily. --Herrick.
+      [1913 Webster]
+
+            O, many a shaft, at random sent,
+            Finds mark the archer little meant!   --Sir W.
+                                                  Scott.
+      [1913 Webster]
+
+   3. Distance to which a missile is cast; range; reach; as, the
+      random of a rifle ball. --Sir K. Digby.
+      [1913 Webster]
+
+   4. (Mining) The direction of a rake-vein. --Raymond.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>random</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Random \Ran"dom\, a.
+   1. Going at random or by chance; done or made at hazard, or
+      without settled direction, aim, or purpose; hazarded
+      without previous calculation; left to chance; haphazard;
+      as, a random guess.
+      [1913 Webster]
+
+            Some random truths he can impart.     --Wordsworth.
+      [1913 Webster]
+
+            So sharp a spur to the lazy, and so strong a bridle
+            to the random.                        --H. Spencer.
+      [1913 Webster]
+
+   2. (Statistics) of, pertaining to, or resulting from a
+      process of selection from a starting set of items, in
+      which the probability of selecting any one object in the
+      starting set is equal to the probability of selecting any
+      other.
+      [PJC]
+
+   3. (Construction) of unequal size or shape; made from
+      components of unequal size or shape.
+      [PJC]
+
+   {at random} in a manner so that all possible results have an
+      equal probability of occurrence; for processes, each
+      possible result is counted separately although the same
+      type of result may occur more than once .
+
+   {Random courses} (Masonry), courses of stone of unequal
+      thickness.
+
+   {Random shot}, a shot not directed or aimed toward any
+      particular object, or a shot with the muzzle of the gun
+      much elevated.
+
+   {Random work} (Masonry), stonework consisting of stones of
+      unequal sizes fitted together, but not in courses nor
+      always with flat beds.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>random</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>random adj. 1. Unpredictable (closest to mathematical definition);
+   weird. "The system's been behaving pretty randomly." 2. Assorted;
+   undistinguished. "Who was at the conference?" "Just a bunch of random
+   business types." 3. (pejorative) Frivolous; unproductive; undirected.
+   "He's just a random loser." 4. Incoherent or inelegant; poorly chosen;
+   not well organized. "The program has a random set of misfeatures."
+   "That's a random name for that function." "Well, all the names were
+   chosen pretty randomly." 5. In no particular order, though
+   deterministic. "The I/O channels are in a pool, and when a file is
+   opened one is chosen randomly." 6. Arbitrary. "It generates a random
+   name for the scratch file." 7. Gratuitously wrong, i.e., poorly done and
+   for no good apparent reason. For example, a program that handles file
+   name defaulting in a particularly useless way, or an assembler routine
+   that could easily have been coded using only three registers, but
+   redundantly uses seven for values with non-overlapping lifetimes, so
+   that no one else can invoke it without first saving four extra
+   registers. What {randomness}! 8. n. A random hacker; used particularly
+   of high-school students who soak up computer time and generally get in
+   the way. 9. n. Anyone who is not a hacker (or, sometimes, anyone not
+   known to the hacker speaking); the noun form of sense 2. "I went to the
+   talk, but the audience was full of randoms asking bogus questions". 10.
+   n. (occasional MIT usage) One who lives at Random Hall. See also {J.
+   Random}, {some random X}. 11. [UK] Conversationally, a non sequitur or
+   something similarly out-of-the-blue. As in: "Stop being so random!" This
+   sense equates to `hatstand', taken from the Viz comic character "Roger
+   Irrelevant - He's completely Hatstand."
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>random</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>random
+     adj 1: lacking any definite plan or order or purpose; governed by
+            or depending on chance; "a random choice"; "bombs fell
+            at random"; "random movements" [ant: {nonrandom}]
+     2: taken haphazardly; "a random choice"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

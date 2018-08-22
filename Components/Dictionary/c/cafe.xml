@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cafe</Word>
+  <Definitions>
+    <Definition>
+      <Word>cafe</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>CAFE
+     
+        ["Job Control Languages: MAXIMOP and CAFE", J. Brandon, Proc
+        BCS Symp on Job Control Languages--Past Present and Future,
+        NCC, Manchester, England 1974].
+     
+        (1994-10-28)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cafe</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Caf'e \Ca`f['e]"\, n. [F. See {Coffee}.]
+   A coffeehouse; a restaurant, especially a small restaurant
+   where drinks and snacks are sold; also, a room in a hotel or
+   restaurant where coffee and liquors are served.
+
+   Syn: coffeehouse, coffee shop, coffee bar.
+        [1913 Webster + WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cafe</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cafe
+     n : a small restaurant where drinks and snacks are sold [syn: {coffeehouse},
+          {coffee shop}, {coffee bar}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

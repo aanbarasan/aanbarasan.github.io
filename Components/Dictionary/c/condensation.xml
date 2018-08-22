@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>condensation</Word>
+  <Definitions>
+    <Definition>
+      <Word>condensation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Condensation \Con`den*sa"tion\, n. [L. condensatio: cf. F.
+   condensation.]
+   1. The act or process of condensing or of being condensed;
+      the state of being condensed.
+      [1913 Webster]
+
+            He [Goldsmith] was a great and perhaps an unequaled
+            master of the arts of selection and condensation.
+                                                  --Macaulay.
+      [1913 Webster]
+
+   2. (Physics) The act or process of reducing, by depression of
+      temperature or increase of pressure, etc., to another and
+      denser form, as gas to the condition of a liquid or steam
+      to water.
+      [1913 Webster]
+
+   3. (Chem.) A rearrangement or concentration of the different
+      constituents of one or more substances into a distinct and
+      definite compound of greater complexity and molecular
+      weight, often resulting in an increase of density, as the
+      condensation of oxygen into ozone, or of acetone into
+      mesitylene.
+      [1913 Webster]
+
+   {Condensation product} (Chem.), a substance obtained by the
+      polymerization of one substance, or by the union of two or
+      more, with or without separation of some unimportant side
+      products.
+
+   {Surface condensation}, the system of condensing steam by
+      contact with cold metallic surfaces, in distinction from
+      condensation by the injection of cold water.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>condensation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>condensation
+     n 1: (psychoanalysis) an unconscious process whereby two ideas or
+          images combine into a single symbol; especially in
+          dreams
+     2: the process of changing from a gaseous to a liquid or solid
+        state
+     3: atmospheric moisture that has condensed because of cold
+        [syn: {condensate}]
+     4: the process or result of becoming smaller or pressed
+        together; "the contraction of a gas on cooling" [syn: {compression},
+         {contraction}]
+     5: a shortened version of a written work [syn: {abridgement}, {abridgment},
+         {capsule}]
+     6: the act of increasing the density of something [syn: {condensing}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

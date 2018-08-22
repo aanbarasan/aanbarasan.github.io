@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>s</Word>
+  <Definitions>
+    <Definition>
+      <Word>s</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>S
+     
+        &lt;language&gt; A statistical analysis language from {AT&amp;T}.
+     
+        ["S: An Interactive Environment for Data Analysis and
+        Graphics", Richard A. Becker, Wadsworth 1984].
+     
+        (1997-01-21)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>s</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>s///
+     
+        &lt;chat&gt; s/{foo}/{bar}/ is an idiom which means "I didn't mean
+        to type 'foo', I meant to type 'bar'".
+     
+        Its use in {talk} systems, especially {irc}, comes from the
+        use of s/// as a substitution operator in {Perl}, {sed} and
+        {ed}.  In these languages and tools, s/foo/bar/ would replace
+        any substring matching the {regular expression} "foo" with the
+        string "bar".
+     
+        (1997-03-16)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>s</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>S \S\ ([e^]s),
+   the nineteenth letter of the English alphabet, is a
+   consonant, and is often called a sibilant, in allusion to its
+   hissing sound. It has two principal sounds; one a mere
+   hissing, as in sack, this; the other a vocal hissing (the
+   same as that of z), as in is, wise. Besides these it
+   sometimes has the sounds of sh and zh, as in sure, measure.
+   It generally has its hissing sound at the beginning of words,
+   but in the middle and at the end of words its sound is
+   determined by usage. In a few words it is silent, as in isle,
+   d['e]bris. With the letter h it forms the digraph sh. See
+   Guide to pronunciation, [sect][sect] 255-261.
+   [1913 Webster]
+
+   Note: Both the form and the name of the letter S are derived
+         from the Latin, which got the letter through the Greek
+         from the Ph[ae]nician. The ultimate origin is Egyptian.
+         S is etymologically most nearly related to c, z, t, and
+         r; as, in ice, OE. is; E. hence, OE. hennes; E. rase,
+         raze; erase, razor; that, G. das; E. reason, F. raison,
+         L. ratio; E. was, were; chair, chaise (see C, Z, T, and
+         R.).
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>s</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>-s \-s\
+   1. [OE. es, AS. as.] The suffix used to form the plural of
+      most words; as in roads, elfs, sides, accounts.
+      [1913 Webster]
+
+   2. [OE. -s, for older -th, AS. -[eth].] The suffix used to
+      form the third person singular indicative of English
+      verbs; as in falls, tells, sends.
+      [1913 Webster]
+
+   3. An adverbial suffix; as in towards, needs, always, --
+      originally the genitive, possesive, ending. See {-'s}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>s</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>-'s \-'s\ [OE. -es, AS. -es.] The suffix used to form the
+   possessive singular of nouns; as, boy's; man's.
+   [1913 Webster] 's \'s\
+   A contraction for is or (colloquially) for has. ``My heart's
+   subdued.'' --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>s</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>-'s \-'s\ [OE. -es, AS. -es.] The suffix used to form the
+   possessive singular of nouns; as, boy's; man's.
+   [1913 Webster] 's \'s\
+   A contraction for is or (colloquially) for has. ``My heart's
+   subdued.'' --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>s</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>s
+     n 1: 1/60 of a minute; the basic unit of time adopted under the
+          Systeme International d'Unites [syn: {second}, {sec}]
+     2: an abundant tasteless odorless multivalent nonmetallic
+        element; best known in yellow crystals; occurs in many
+        sulphide and sulphate minerals and even in native form
+        (especially in volcanic regions) [syn: {sulfur}, {sulphur},
+         {atomic number 16}]
+     3: the cardinal compass point that is at 180 degrees [syn: {south},
+         {due south}]
+     4: a unit of conductance equal to the reciprocal of an ohm
+        [syn: {mho}, {siemens}, {reciprocal ohm}]
+     5: the 19th letter of the Roman alphabet
+     6: (thermodynamics) a thermodynamic quantity representing the
+        amount of energy in a system that is no longer available
+        for doing mechanical work; "entropy increases as matter
+        and energy in the universe degrade to an ultimate state of
+        inert uniformity" [syn: {randomness}, {entropy}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>intelligence</Word>
+  <Definitions>
+    <Definition>
+      <Word>intelligence</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Intelligence \In*tel"li*gence\, n. [F. intelligence, L.
+   intelligentia, intellegentia. See {Intelligent}.]
+   [1913 Webster]
+   1. The act or state of knowing; the exercise of the
+      understanding.
+      [1913 Webster]
+
+   2. The capacity to know or understand; readiness of
+      comprehension; the intellect, as a gift or an endowment.
+      [1913 Webster]
+
+            And dimmed with darkness their intelligence.
+                                                  --Spenser.
+      [1913 Webster]
+
+   3. Information communicated; news; notice; advice.
+      [1913 Webster]
+
+            Intelligence is given where you are hid. --Shak.
+      [1913 Webster]
+
+   4. Acquaintance; intercourse; familiarity. [Obs.]
+      [1913 Webster]
+
+            He lived rather in a fair intelligence than any
+            friendship with the favorites.        --Clarendon.
+      [1913 Webster]
+
+   5. Knowledge imparted or acquired, whether by study,
+      research, or experience; general information.
+      Specifically; (Mil.) Information about an enemy or
+      potential enemy, his capacities, and intentions.
+      [1913 Webster]
+
+            I write as he that none intelligence
+            Of meters hath, ne flowers of sentence. --Court of
+                                                  Love.
+      [1913 Webster]
+
+   6. An intelligent being or spirit; -- generally applied to
+      pure spirits; as, a created intelligence. --Milton.
+      [1913 Webster]
+
+            The great Intelligences fair
+            That range above our mortal state,
+            In circle round the blessed gate,
+            Received and gave him welcome there.  --Tennyson.
+      [1913 Webster]
+
+   7. (Mil.) The division within a military organization that
+      gathers and evaluates information about an enemy.
+      [PJC]
+
+   {Intelligence office}, an office where information may be
+      obtained, particularly respecting servants to be hired.
+
+   Syn: Understanding; intellect; instruction; advice; notice;
+        notification; news; information; report.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>intelligence</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>intelligence
+     n 1: the ability to comprehend; to understand and profit from
+          experience [ant: {stupidity}]
+     2: a unit responsible for gathering and interpreting
+        information about an enemy [syn: {intelligence service}, {intelligence
+        agency}]
+     3: secret information about an enemy (or potential enemy); "we
+        sent out planes to gather intelligence on their radar
+        coverage" [syn: {intelligence information}]
+     4: new information about specific and timely events; "they
+        awaited news of the outcome" [syn: {news}, {tidings}, {word}]
+     5: the operation of gathering information about an enemy [syn:
+        {intelligence activity}, {intelligence operation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

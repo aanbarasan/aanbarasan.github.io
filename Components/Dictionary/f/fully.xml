@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fully</Word>
+  <Definitions>
+    <Definition>
+      <Word>fully</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fully \Ful"ly\, adv.
+   In a full manner or degree; completely; entirely; without
+   lack or defect; adequately; satisfactorily; as, to be fully
+   persuaded of the truth of a proposition.
+   [1913 Webster]
+
+   {Fully committed} (Law), committed to prison for trial, in
+      distinction from being detained for examination.
+
+   Syn: Completely; entirely; maturely; plentifully; abundantly;
+        plenteously; copiously; largely; amply; sufficiently;
+        clearly; distinctly; perfectly.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fully</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fully
+     adv 1: to the greatest degree or extent; completely or entirely;
+            (`full' in this sense is used as a combining form);
+            "fully grown"; "he didn't fully understand"; "knew
+            full well"; "full-grown"; "full-fledged" [syn: {to the
+            full}, {full}]
+     2: sufficiently; more than adequately; "the evidence amply (or
+        fully) confirms our suspicions"; "they were fully (or
+        amply) fed" [syn: {amply}] [ant: {meagerly}]
+     3: referring to a quantity; "the amount was paid in full" [syn:
+         {in full}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

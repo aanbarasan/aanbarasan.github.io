@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cirque</Word>
+  <Definitions>
+    <Definition>
+      <Word>cirque</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cirque \Cirque\, n. [F., fr. L. circus.]
+   [1913 Webster]
+   1. A circle; a circus; a circular erection or arrangement of
+      objects.
+      [1913 Webster]
+
+            A dismal cirque
+            Of Druid stones upon a forlorn moor.  --Keats.
+      [1913 Webster]
+
+   2. A kind of circular valley in the side of a mountain,
+      walled around by precipices of great height.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cirque</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cirque
+     n : a steep-walled semicircular basin in a mountain; may contain
+         a lake [syn: {corrie}, {cwm}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>centrifugal</Word>
+  <Definitions>
+    <Definition>
+      <Word>centrifugal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Centrifugal \Cen*trif"u*gal\, a. [L. centrum center + fugere to
+   flee.]
+   1. Tending, or causing, to recede from the center.
+      [1913 Webster]
+
+   2. (Bot.)
+      (a) Expanding first at the summit, and later at the base,
+          as a flower cluster.
+      (b) Having the radicle turned toward the sides of the
+          fruit, as some embryos.
+          [1913 Webster]
+
+   {Centrifugal force} (Mech.), a force whose direction is from
+      a center.
+      [1913 Webster]
+
+   Note: When a body moves in a circle with uniform velocity, a
+         force must act on the body to keep it in the circle
+         without change of velocity. The direction of this force
+         is towards the center of the circle. If this force is
+         applied by means of a string to the body, the string
+         will be in a state of tension. To a person holding the
+         other end of the string, this tension will appear to be
+         directed toward the body as if the body had a tendency
+         to move away from the center of the circle which it is
+         describing. Hence this latter force is often called
+         centrifugal force. The force which really acts on the
+         body being directed towards the center of the circle is
+         called centripetal force, and in some popular treatises
+         the centripetal and centrifugal forces are described as
+         opposing and balancing each other. But they are merely
+         the different aspects of the same stress. --Clerk
+         Maxwell.
+         [1913 Webster]
+
+   {Centrifugal impression} (Physiol.), an impression (motor)
+      sent from a nerve center outwards to a muscle or muscles
+      by which motion is produced.
+
+   {Centrifugal machine}, A machine for expelling water or other
+      fluids from moist substances, or for separating liquids of
+      different densities by centrifugal action; a whirling
+      table.
+
+   {Centrifugal pump}, a machine in which water or other fluid
+      is lifted and discharged through a pipe by the energy
+      imparted by a wheel or blades revolving in a fixed case.
+      Some of the largest and most powerful pumps are of this
+      kind.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>centrifugal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Centrifugal \Cen*trif"u*gal\, n.
+   A centrifugal machine.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>centrifugal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>centrifugal
+     adj 1: tending to move away from a center; "centrifugal force"
+            [ant: {centripetal}]
+     2: tending away from centralization, as of authority; "the
+        division of Europe into warring blocs produces
+        ever-increasing centrifugal stress"
+     3: conveying information to the muscles from the CNS; "motor
+        nerves" [syn: {motor(a)}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

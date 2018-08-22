@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mirror</Word>
+  <Definitions>
+    <Definition>
+      <Word>mirror</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>mirror
+     
+        1. &lt;hardware, storage&gt; Writing duplicate data to more than one
+        device (usually two {hard disks}), in order to protect against
+        loss of data in the event of device failure.  This technique
+        may be implemented in either hardware (sharing a {disk
+        controller} and cables) or in software.  It is a common
+        feature of {RAID} systems.
+     
+        Several {operating systems} support software disk mirroring or
+        {disk-duplexing}, e.g. {Novell NetWare}.
+     
+        See also {Redundant Array of Independent Disks}.
+     
+        Interestingly, when this technique is used with {magnetic
+        tape} storage systems, it is usually called "twinning".
+     
+        A less expensive alternative, which only limits the amount of
+        data loss, is to make regular {backup}s from a single disk to
+        {magnetic tape}.
+     
+        2. &lt;networking&gt; An {archive site} or {web site} which keeps a
+        copy of some or all files at another site so as to make them
+        more quickly available to local users and to reduce the load
+        on the source site.  Such mirroring is usually done for
+        specific whole directories or files on a specific remote
+        server as opposed to a {cache} or {proxy server} which keeps
+        copies of everything that is requested via it.
+     
+        For example, src.doc.ic.ac.uk is the main UK mirror for the
+        {GNU} archive at gnu.org.  There are also several
+        {mirrors of this dictionary
+        (http://www.foldoc.org/foldoc/mirrors.html)}.
+     
+        (1998-06-11)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mirror</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mirror \Mir"ror\, v. t. [imp. &amp; p. p. {Mirrored}; p. pr. &amp; vb.
+   n. {Mirroring}.]
+   1. To reflect, as in a mirror.
+      [1913 Webster]
+
+   2. To copy or duplicate; to mimic or imitate; as, the files
+      at Project Gutenberg were mirrored on several other ftp
+      sites around the world.
+      [PJC]
+
+   3. To have a close resemblance to; as, his opinions often
+      mirrored those of his wife.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mirror</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mirror \Mir"ror\, n. [OE. mirour, F. miroir, OF. also mireor,
+   fr. (assumed) LL. miratorium, fr. mirare to look at, L.
+   mirari to wonder. See {Marvel}, and cf. {Miracle},
+   {Mirador}.]
+   [1913 Webster]
+   1. A looking-glass or a speculum; any glass or polished
+      substance that forms images by the reflection of rays of
+      light.
+      [1913 Webster]
+
+            And in her hand she held a mirror bright,
+            Wherein her face she often view[`e]d fair.
+                                                  --Spenser.
+      [1913 Webster]
+
+   2. That which gives a true representation, or in which a true
+      image may be seen; hence, a pattern; an exemplar.
+      [1913 Webster]
+
+            She is mirour of all courtesy.        --Chaucer.
+      [1913 Webster]
+
+            O goddess, heavenly bright,
+            Mirror of grace and majesty divine.   --Spenser.
+      [1913 Webster]
+
+   3. (Zo["o]l.) See {Speculum}.
+      [1913 Webster]
+
+   {Mirror carp} (Zo["o]l.), a domesticated variety of the carp,
+      having only three or fur rows of very large scales side.
+      
+
+   {Mirror plate}.
+      (a) A flat glass mirror without a frame.
+      (b) Flat glass used for making mirrors.
+
+   {Mirror writing}, a manner or form of backward writing,
+      making manuscript resembling in slant and order of letters
+      the reflection of ordinary writing in a mirror. The
+      substitution of this manner of writing for the common
+      manner is a symptom of some kinds of nervous disease.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mirror</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mirror
+     n 1: polished surface that forms images by reflecting light
+     2: a faithful depiction or reflection; "the best mirror is an
+        old friend"
+     v 1: reflect as if in a mirror; "The smallest pond at night
+          mirrors the firmament above"
+     2: reflect or resemble; "The plane crash in Milan mirrored the
+        attack in the World Trade Center"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

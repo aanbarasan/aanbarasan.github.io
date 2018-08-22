@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>syrup</Word>
+  <Definitions>
+    <Definition>
+      <Word>syrup</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sirup \Sir"up\Syrup \Syr"up\, n. [F. sirop (cf. It. siroppo, Sp.
+   jarabe, jarope, LL. siruppus, syrupus), fr. Ar. shar[=a]b a
+   drink, wine, coffee, sirup. Cf. {Sherbet}.]
+   1. A thick and viscid liquid made from the juice of fruits,
+      herbs, etc., boiled with sugar.
+      [1913 Webster]
+
+   2. A thick and viscid saccharine solution of superior quality
+      (as sugarhouse sirup or molasses, maple sirup);
+      specifically, in pharmacy and often in cookery, a
+      saturated solution of sugar and water (simple sirup), or
+      such a solution flavored or medicated.
+      [1913 Webster]
+
+            Lucent sirups tinct with cinnamon.    --Keats.
+      [1913 Webster]
+
+   {Mixing sirup}. See the Note under {Dextrose}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>syrup</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Syrup \Syr"up\, n., Syrupy \Syr"up*y\, a. [See {Sirup}.]
+   Same as {Sirup}, {Sirupy}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>syrup</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>syrup
+     n : a thick sweet sticky liquid [syn: {sirup}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

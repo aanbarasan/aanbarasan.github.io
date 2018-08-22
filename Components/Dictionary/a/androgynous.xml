@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>androgynous</Word>
+  <Definitions>
+    <Definition>
+      <Word>androgynous</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Androgynous \An*drog"y*nous\, Androgynal \An*drog"y*nal\, a. [L.
+   androgynus, Gr. ?; 'anh`r, 'andro`s, man + gynh` woman: cf.
+   F. androgyne.]
+   1. Uniting both sexes in one, or having the characteristics
+      of both; being in nature both male and female;
+      hermaphroditic. --Owen.
+      [1913 Webster]
+
+            The truth is, a great mind must be androgynous.
+                                                  --Coleridge.
+      [1913 Webster]
+
+   2. (Bot.) Bearing both staminiferous and pistilliferous
+      flowers in the same cluster.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>androgynous</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>androgynous
+     adj : having both male and female characteristics [ant: {male}, {female}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

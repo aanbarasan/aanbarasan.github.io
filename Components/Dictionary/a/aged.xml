@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>aged</Word>
+  <Definitions>
+    <Definition>
+      <Word>aged</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Age \Age\, v. i. [imp. &amp; p. p. {Aged}; p. pr. &amp; vb. n. {Aging}.]
+   To grow aged; to become old; to show marks of age; as, he
+   grew fat as he aged.
+   [1913 Webster]
+
+         They live one hundred and thirty years, and never age
+         for all that.                            --Holland.
+   [1913 Webster]
+
+         I am aging; that is, I have a whitish, or rather a
+         light-colored, hair here and there.      --Landor.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>aged</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Aged \A"ged\ ([=a]"j[e^]d), a.
+   1. Old; having lived long; having lived almost to or beyond
+      the usual time allotted to that species of being; as, an
+      aged man; an aged oak.
+      [1913 Webster]
+
+   2. Belonging to old age. ``Aged cramps.'' --Shak.
+      [1913 Webster]
+
+   3. ([=a]"j[e^]d or [=a]jd) Having a certain age; at the age
+      of; having lived; as, a man aged forty years.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>aged</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>aged
+     adj 1: advanced in years; (`aged' is pronounced as two syllables);
+            "aged members of the society"; "elderly residents
+            could remember the construction of the first
+            skyscraper"; "senior citizen" [syn: {elderly}, {older},
+             {senior}]
+     2: at an advanced stage of erosion (pronounced as one
+        syllable); "aged rocks"
+     3: having attained a specific age; (`aged' is pronounced as one
+        syllable); "aged ten"; "ten years of age" [syn: {aged(a)},
+         {of age(p)}]
+     4: of wines, fruit, cheeses; having reached a desired or final
+        condition; (`aged' pronounced as one syllable); "mature
+        well-aged cheeses" [syn: {ripened}]
+     5: (used of tobacco) aging as a preservative process (`aged' is
+        pronounced as one syllable) [syn: {cured}]
+     n : people who are old; "special arrangements were available for
+         the aged" [ant: {young}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

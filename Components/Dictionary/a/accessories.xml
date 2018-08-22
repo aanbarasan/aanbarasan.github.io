@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>accessories</Word>
+  <Definitions>
+    <Definition>
+      <Word>accessories</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Accessory \Ac*ces"so*ry\, n.; pl. {Accessories}.
+   1. That which belongs to something else deemed the principal;
+      something additional and subordinate. ``The aspect and
+      accessories of a den of banditti.'' --Carlyle.
+      [1913 Webster]
+
+   2. (Law) Same as {Accessary}, n.
+      [1913 Webster]
+
+   3. (Fine Arts) Anything that enters into a work of art
+      without being indispensably necessary, as mere ornamental
+      parts. --Elmes.
+      [1913 Webster]
+
+   Syn: Abettor; accomplice; ally; coadjutor. See {Abettor}.
+        [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

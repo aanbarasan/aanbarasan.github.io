@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>conceptualize</Word>
+  <Definitions>
+    <Definition>
+      <Word>conceptualize</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>conceptualize \conceptualize\ v. t.
+   1. to to form a concept of; as, He could not conceptualize a
+      robot that would help paralyzed patients.
+
+   Syn: conceive, conceive of, conceptualise, ideate.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>conceptualize</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>conceptualize
+     v : have the idea for; "He conceived of a robot that would help
+         paralyzed patients"; "This library was well conceived"
+         [syn: {gestate}, {conceive}, {conceptualise}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

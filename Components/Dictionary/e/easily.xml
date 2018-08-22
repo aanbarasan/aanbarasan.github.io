@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>easily</Word>
+  <Definitions>
+    <Definition>
+      <Word>easily</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Easily \Eas"i*ly\, adv. [From {Easy}.]
+   1. With ease; without difficulty or much effort; as, this
+      task may be easily performed; that event might have been
+      easily foreseen.
+      [1913 Webster]
+
+   2. Without pain, anxiety, or disturbance; as, to pass life
+      well and easily. --Sir W. Temple.
+      [1913 Webster]
+
+   3. Readily; without reluctance; willingly.
+      [1913 Webster]
+
+            Not soon provoked, she easily forgives. --Prior.
+      [1913 Webster]
+
+   4. Smoothly; quietly; gently; gracefully; without ?umult or
+      discord.
+      [1913 Webster]
+
+   5. Without shaking or jolting; commodiously; as, a carriage
+      moves easily.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>easily</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>easily
+     adv 1: with ease (`easy' is sometimes used informally for
+            `easily'); "she was easily excited"; "was easily
+            confused"; "he won easily"; "this china breaks very
+            easily"; "success came too easy" [syn: {easy}]
+     2: without question; "easily the best book she's written"
+     3: indicating high probability; in all likelihood; "I might
+        well do it"; "a mistake that could easily have ended in
+        disaster"; "you may well need your umbrella"; "he could
+        equally well be trying to deceive us" [syn: {well}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

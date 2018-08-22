@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>boldface</Word>
+  <Definitions>
+    <Definition>
+      <Word>boldface</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>boldface \boldface\ n.
+   a typeface with thick heavy lines; -- also called
+   {bold-faced}.
+   [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>boldface</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>boldface \boldface\ v.
+   to print in boldface.
+   [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>boldface</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bold-faced \Bold"-faced`\, a.
+   1. Somewhat impudent; lacking modesty; as, a bold-faced
+      woman.
+      [1913 Webster]
+
+            I have seen enough to confute all the bold-faced
+            atheists of this age.                 --Bramhall.
+      [1913 Webster]
+
+   2. (Print.) Having a conspicuous or heavy face; -- also
+      called {boldface}.
+      [1913 Webster]
+
+   Note: This line is bold-faced nonpareil.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>boldface</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bold face
+     n : a typeface with thick heavy lines [syn: {boldface}, {bold}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>boldface</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>boldface
+     n : a typeface with thick heavy lines [syn: {bold face}, {bold}]
+     v : print in boldface
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

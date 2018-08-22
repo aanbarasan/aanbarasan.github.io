@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>catchier</Word>
+  <Definitions>
+    <Definition>
+      <Word>catchier</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>catchier
+     See {catchy}
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>catchier</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>catchy
+     adj 1: having concealed difficulty; "a catchy question"; "a tricky
+            recipe to follow" [syn: {tricky}]
+     2: likely to attract attention; "a catchy title for a movie"
+        [syn: {attention-getting}]
+     [also: {catchiest}, {catchier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

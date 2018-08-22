@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>adrenaline</Word>
+  <Definitions>
+    <Definition>
+      <Word>adrenaline</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>adrenaline \adrenaline\ n.
+   1. .
+
+   Syn: epinephrine, adrenalin
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>adrenaline</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Adrenaline \Ad*re"nal*ine\, n. Also Adrenalin \Ad*re"nal*in\
+   (Physiol. Chem.)
+   a hormone secreted by the adrenal medulla that acts as a
+   powerful stimulant in reponse to fear or stress; it
+   stimulates autonomic nerve action. It can be obtained as a
+   crystalline substance, {C9H13NO3}. It is used in medicine as
+   a vasoconstrictor (hemostatic) and cardiac stimulant, also to
+   reduce allergic reactions and to stimulate the heart in cases
+   of cardiac arrest. --MI11
+
+   Syn: epinephrine;
+        3,4-dihydroxy-1-[1-hydroxy-2-(methylamino)-ethyl]benzene.
+        [Webster 1913 Suppl. +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>adrenaline</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>adrenaline
+     n : a catecholamine secreted by the adrenal medulla in response
+         to stress (trade name Adrenalin); stimulates autonomic
+         nerve action [syn: {epinephrine}, {epinephrin}, {Adrenalin}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

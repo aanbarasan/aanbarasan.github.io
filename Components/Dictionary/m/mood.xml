@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mood</Word>
+  <Definitions>
+    <Definition>
+      <Word>mood</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mood \Mood\, n. [OE. mood, mod, AS. m[=o]dmind, feeling, heart,
+   courage; akin to OS. &amp; OFries. m[=o]d, D. moed, OHG. muot, G.
+   muth, mut, courage, Dan. &amp; Sw. mod, Icel. m[=o][eth]r wrath,
+   Goth. m[=o]ds.]
+   Temper of mind; temporary state of the mind in regard to
+   passion or feeling; humor; as, a melancholy mood; a suppliant
+   mood.
+   [1913 Webster]
+
+         Till at the last aslaked was his mood.   --Chaucer.
+   [1913 Webster]
+
+         Fortune is merry,
+         And in this mood will give us anything.  --Shak.
+   [1913 Webster]
+
+         The desperate recklessness of her mood.  --Hawthorne.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mood</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mood \Mood\ (m[=oo]d), n. [The same word as mode, perh.
+   influenced by mood temper. See {Mode}.]
+   1. Manner; style; mode; logical form; musical style; manner
+      of action or being. See {Mode} which is the preferable
+      form).
+      [1913 Webster]
+
+   2. (Gram.) Manner of conceiving and expressing action or
+      being, as positive, possible, conditional, hypothetical,
+      obligatory, imperitive, etc., without regard to other
+      accidents, such as time, person, number, etc.; as, the
+      indicative mood; the imperitive mood; the infinitive mood;
+      the subjunctive mood. Same as {Mode}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mood</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mood
+     n 1: a characteristic (habitual or relatively temporary) state of
+          feeling; "whether he praised or cursed me depended on
+          his temper at the time"; "he was in a bad humor" [syn: {temper},
+           {humor}, {humour}]
+     2: the prevailing psychological state; "the climate of
+        opinion"; "the national mood had changed radically since
+        the last election" [syn: {climate}]
+     3: verb inflections that express how the action or state is
+        conceived by the speaker [syn: {mode}, {modality}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

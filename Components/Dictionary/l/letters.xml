@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>letters</Word>
+  <Definitions>
+    <Definition>
+      <Word>letters</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>letters
+     n 1: the literary culture; "this book shows American letters at
+          its best"
+     2: scholarly attainment; "he is a man of letters"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

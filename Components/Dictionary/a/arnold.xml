@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>arnold</Word>
+  <Definitions>
+    <Definition>
+      <Word>arnold</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Arnold, CA (CDP, FIPS 2770)
+  Location: 38.23219 N, 120.36955 W
+  Population (1990): 3788 (3937 housing units)
+  Area: 50.0 sq km (land), 0.2 sq km (water)
+Arnold, KS
+  Zip code(s): 67515
+Arnold, MD (CDP, FIPS 2275)
+  Location: 39.04273 N, 76.49943 W
+  Population (1990): 20261 (7238 housing units)
+  Area: 28.0 sq km (land), 6.7 sq km (water)
+  Zip code(s): 21012
+Arnold, MN (CDP, FIPS 2260)
+  Location: 46.87507 N, 92.10784 W
+  Population (1990): 2891 (1058 housing units)
+  Area: 29.9 sq km (land), 0.2 sq km (water)
+Arnold, MO (city, FIPS 1972)
+  Location: 38.42843 N, 90.36930 W
+  Population (1990): 18828 (6986 housing units)
+  Area: 29.1 sq km (land), 0.9 sq km (water)
+  Zip code(s): 63010
+Arnold, NE (village, FIPS 2095)
+  Location: 41.42386 N, 100.19382 W
+  Population (1990): 679 (371 housing units)
+  Area: 2.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 69120
+Arnold, PA (city, FIPS 3088)
+  Location: 40.57895 N, 79.76488 W
+  Population (1990): 6113 (3022 housing units)
+  Area: 1.9 sq km (land), 0.1 sq km (water)
+  Zip code(s): 15068
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>arnold</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Arnold
+     n 1: English poet and literary critic (1822-1888) [syn: {Matthew
+          Arnold}]
+     2: United States general and traitor in the American
+        Revolution; in 1780 his plan to surrender West Point to
+        the British was foiled (1741-1801) [syn: {Benedict Arnold}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

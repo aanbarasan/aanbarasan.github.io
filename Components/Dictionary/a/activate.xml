@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>activate</Word>
+  <Definitions>
+    <Definition>
+      <Word>activate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Activate \Ac"ti*vate\, v. t.
+   To make active. [Obs.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>activate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>activate
+     v 1: put in motion or move to act; "trigger a reaction"; "actuate
+          the circuits" [syn: {trip}, {actuate}, {trigger}, {set
+          off}, {spark off}, {spark}, {trigger off}, {touch off}]
+     2: make active or more active; "activate an old file" [ant: {inactivate}]
+     3: make more adsorptive; "activate a metal"
+     4: aerate (sewage) so as to favor the growth of organisms that
+        decompose organic matter [syn: {aerate}]
+     5: make (substances) radioactive
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

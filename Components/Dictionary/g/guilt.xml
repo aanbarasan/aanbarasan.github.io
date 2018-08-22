@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>guilt</Word>
+  <Definitions>
+    <Definition>
+      <Word>guilt</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Guilt \Guilt\ (g[i^]lt), n. [OE. gilt, gult, AS. gylt, crime;
+   probably originally signifying, the fine or mulct paid for an
+   offence, and afterward the offense itself, and akin to AS.
+   gieldan to pay, E. yield. See {Yield}, v. t.]
+   1. The criminality and consequent exposure to punishment
+      resulting from willful disobedience of law, or from
+      morally wrong action; the state of one who has broken a
+      moral or political law; crime; criminality; offense
+      against right.
+      [1913 Webster]
+
+            Satan had not answer, but stood struck
+            With guilt of his own sin.            --Milton.
+      [1913 Webster]
+
+   2. Exposure to any legal penalty or forfeiture.
+      [1913 Webster]
+
+            A ship incurs guilt by the violation of a blockade.
+                                                  --Kent.
+      [1913 Webster]
+
+   3. A feeling of regret or remorse for having committed some
+      improper act; a recognition of one's own responsibility
+      for doing something wrong. ``Depression is often rooted in
+      guilt which has not been dealt with in an appropriate
+      way.'' ``Guilt is a natural and appropriate consequence to
+      a wrong action.''
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>guilt</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>guilt
+     n 1: the state of having committed an offense [syn: {guiltiness}]
+          [ant: {innocence}]
+     2: remorse caused by feeling responsible for some offence [syn:
+         {guilty conscience}, {guilt feelings}, {guilt trip}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

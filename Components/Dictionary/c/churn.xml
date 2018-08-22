@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>churn</Word>
+  <Definitions>
+    <Definition>
+      <Word>churn</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Churn \Churn\ (ch[^u]rn), n. [OE. chirne, cherne, AS. ceren,
+   cyrin; akin to D. karn, Dan. kierne. See {Churn}, v. t.]
+   A vessel in which milk or cream is stirred, beaten, or
+   otherwise agitated (as by a plunging or revolving dasher) in
+   order to separate the oily globules from the other parts, and
+   obtain butter.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>churn</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Churn \Churn\, v. t. [imp. &amp; p. p. {Churned} (ch[^u]rnd); p. pr.
+   &amp; vb. n. {Churning}.] [OE. chernen, AS. cernan; akin to LG.
+   karnen, G. kernen, D. karnen, Dan. kierne, Sw. k["a]rna, and
+   also to E. corn, kernel, the meaning coming from the idea of
+   extracting the kernel or marrow. See {Kernel}.]
+   1. To stir, beat, or agitate, as milk or cream in a churn, in
+      order to make butter.
+      [1913 Webster]
+
+   2. To shake or agitate with violence.
+      [1913 Webster]
+
+            Churned in his teeth, the foamy venom rose.
+                                                  --Addison.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>churn</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Churn \Churn\, v. i.
+   To perform the operation of churning.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>churn</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>churn
+     n : a vessel in which cream is agitated to separate butterfat
+         from buttermilk [syn: {butter churn}]
+     v 1: stir (cream) vigorously in order to make butter
+     2: be agitated; "the sea was churning in the storm" [syn: {boil},
+         {moil}, {roil}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

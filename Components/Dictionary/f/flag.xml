@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>flag</Word>
+  <Definitions>
+    <Definition>
+      <Word>flag</Word>
+      <Dictionary>
+        <Id>devils</Id>
+        <Name>THE DEVIL'S DICTIONARY ((C)1911 Released April 15 1993)</Name>
+      </Dictionary>
+      <WordDefinition>FLAG, n.  A colored rag borne above troops and hoisted on forts and
+ships.  It appears to serve the same purpose as certain signs that one
+sees and vacant lots in London -- "Rubbish may be shot here."
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flag</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Flag
+   (Heb., or rather Egyptian, ahu, Job 8:11), rendered "meadow" in
+   Gen. 41:2, 18; probably the Cyperus esculentus, a species of
+   rush eaten by cattle, the Nile reed. It also grows in Palestine.
+   
+     In Ex. 2:3, 5, Isa. 19:6, it is the rendering of the Hebrew
+   _suph_, a word which occurs frequently in connection with _yam_;
+   as _yam suph_, to denote the "Red Sea" (q.v.) or the sea of
+   weeds (as this word is rendered, Jonah 2:5). It denotes some
+   kind of sedge or reed which grows in marshy places. (See PAPER
+   �T0002840, {REED}.)
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flag</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>flag
+     
+        1. &lt;programming&gt; A variable or quantity that can take on one
+        of two values; a bit, particularly one that is used to
+        indicate one of two outcomes or is used to control which of
+        two things is to be done.  "This flag controls whether to
+        clear the screen before printing the message."  "The program
+        status word contains several flag bits."  See also {hidden
+        flag}, {mode bit}.
+     
+        2. {command line option}.
+     
+        [{Jargon File}]
+     
+        (1998-05-02)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flag</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Flag \Flag\, v. t. [From {Flag} an ensign.]
+   1. To signal to with a flag or by waving the hand; as, to
+      flag a train; also used with down; as, to flag down a cab.
+      [1913 Webster]
+
+   2. To convey, as a message, by means of flag signals; as, to
+      flag an order to troops or vessels at a distance.
+      [1913 Webster]
+
+   3. To decoy (game) by waving a flag, handkerchief, or the
+      like to arouse the animal's curiosity.
+
+            The antelope are getting continually shyer and more
+            difficult to flag.                    --T.
+                                                  Roosevelt.
+      [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flag</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Flag \Flag\ (fl[a^]g), v. i. [imp. &amp; p. p. {Flagged} (fl[a^]gd);
+   p. pr. &amp; vb. n. {Flagging} (fl[a^]g"g[i^]ng).] [Cf. Icel.
+   flaka to droop, hang loosely. Cf. {Flacker}, {Flag} an
+   ensign.]
+   1. To hang loose without stiffness; to bend down, as flexible
+      bodies; to be loose, yielding, limp.
+      [1913 Webster]
+
+            As loose it [the sail] flagged around the mast. --T.
+                                                  Moore.
+      [1913 Webster]
+
+   2. To droop; to grow spiritless; to lose vigor; to languish;
+      as, the spirits flag; the strength flags.
+      [1913 Webster]
+
+            The pleasures of the town begin to flag. --Swift.
+
+   Syn: To droop; decline; fail; languish; pine.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flag</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Flag \Flag\ (fl[a^]g), v. t.
+   1. To let droop; to suffer to fall, or let fall, into
+      feebleness; as, to flag the wings. --prior.
+      [1913 Webster]
+
+   2. To enervate; to exhaust the vigor or elasticity of.
+      [1913 Webster]
+
+            Nothing so flags the spirits.         --Echard.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flag</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Flag \Flag\, n. [Cf. LG. &amp; G. flagge, Sw. flagg, Dan. flag, D.
+   vlag. See {Flag} to hang loose.]
+   1. That which flags or hangs down loosely.
+      [1913 Webster]
+
+   2. A cloth usually bearing a device or devices and used to
+      indicate nationality, party, etc., or to give or ask
+      information; -- commonly attached to a staff to be waved
+      by the wind; a standard; a banner; an ensign; the colors;
+      as, the national flag; a military or a naval flag.
+      [1913 Webster]
+
+   3. (Zo["o]l.)
+      (a) A group of feathers on the lower part of the legs of
+          certain hawks, owls, etc.
+      (b) A group of elongated wing feathers in certain hawks.
+      (c) The bushy tail of a dog, as of a setter.
+          [1913 Webster]
+
+   4. (Zo["o]l.) One of the wing feathers next the body of a
+      bird; -- called also {flag feather}.
+      [Webster 1913 Suppl.]
+
+   {Black flag}. See under {Black}.
+
+   {Flag captain}, {Flag leutenant}, etc., special officers
+      attached to the flagship, as aids to the flag officer.
+
+   {Flag officer}, the commander of a fleet or squadron; an
+      admiral, or commodore.
+
+   {Flag of truse}, a white flag carried or displayed to an
+      enemy, as an invitation to conference, or for the purpose
+      of making some communication not hostile.
+
+   {Flag share}, the flag officer's share of prize money.
+
+   {Flag station} (Railroad), a station at which trains do not
+      stop unless signaled to do so, by a flag hung out or
+      waved.
+
+   {National flag}, a flag of a particular country, on which
+      some national emblem or device, is emblazoned.
+
+   {Red flag}, a flag of a red color, displayed as a signal of
+      danger or token of defiance; the emblem of anarchists.
+
+   {To dip, the flag}, to mlower it and quickly restore it to
+      its place; -- done as a mark of respect.
+
+   {To hang out the white flag}, to ask truce or quarter, or, in
+      some cases, to manifest a friendly design by exhibiting a
+      white flag.
+
+   {To hang the flag half-mast high} or {To hang the flag
+   half-staff} or {To hang the flag at half-staff}, to raise it
+      only half way to the mast or staff, as a token or sign of
+      mourning.
+
+   {To strike the flag} or {To lower the flag}, to haul it down,
+      in token of respect, submission, or, in an engagement, of
+      surrender.
+
+   {Yellow flag}, the quarantine flag of all nations; also
+      carried at a vessel's fore, to denote that an infectious
+      disease is on board.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flag</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Flag \Flag\, n. [From {Flag} to hang loose, to bend down.]
+   (Bot.)
+   An aquatic plant, with long, ensiform leaves, belonging to
+   either of the genera {Iris} and {Acorus}.
+   [1913 Webster]
+
+   {Cooper's flag}, the cat-tail ({Typha latifolia}), the long
+      leaves of which are placed between the staves of barrels
+      to make the latter water-tight.
+
+   {Corn flag}. See under 2d {Corn}.
+
+   {Flag broom}, a coarse of broom, originally made of flags or
+      rushes.
+
+   {Flag root}, the root of the sweet flag.
+
+   {Sweet flag}. See {Calamus}, n., 2.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flag</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Flag \Flag\, v. t.
+   To furnish or deck out with flags.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flag</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Flag \Flag\, n. [Icel. flaga, cf. Icel. flag spot where a turf
+   has been cut out, and E. flake layer, scale. Cf. {Floe}.]
+   1. A flat stone used for paving. --Woodward.
+      [1913 Webster]
+
+   2. (Geol.) Any hard, evenly stratified sandstone, which
+      splits into layers suitable for flagstones.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flag</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Flag \Flag\, v. t.
+   To lay with flags of flat stones.
+   [1913 Webster]
+
+         The sides and floor are all flagged with . . . marble.
+                                                  --Sandys.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flag</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>flag n. [very common] A variable or quantity that can take on one of
+   two values; a bit, particularly one that is used to indicate one of two
+   outcomes or is used to control which of two things is to be done. "This
+   flag controls whether to clear the screen before printing the message."
+   "The program status word contains several flag bits." Used of humans
+   analogously to {bit}. See also {hidden flag}, {mode bit}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flag</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>flag
+     n 1: emblem usually consisting of a rectangular piece of cloth of
+          distinctive design
+     2: plants with sword-shaped leaves and erect stalks bearing
+        bright-colored flowers composed of three petals and three
+        drooping sepals [syn: {iris}, {fleur-de-lis}, {sword lily}]
+     3: a rectangular piece of fabric used as a signalling device
+        [syn: {signal flag}]
+     4: a listing printed in all issues of a newspaper or magazine
+        (usually on the editorial page) that gives the name of the
+        publication and the names of the editorial staff, etc.
+        [syn: {masthead}]
+     5: flagpole used to mark the position of the hole on a golf
+        green [syn: {pin}]
+     6: stratified stone that splits into pieces suitable as paving
+        stones [syn: {flagstone}]
+     7: a conspicuously marked or shaped tail
+     v 1: communicate or signal with a flag
+     2: provide with a flag; "Flag this file so that I can recognize
+        it immediately"
+     3: droop, sink, or settle from or as if from pressure or loss
+        of tautness [syn: {sag}, {droop}, {swag}]
+     4: decorate with flags; "the building was flagged for the
+        holiday"
+     5: become less intense [syn: {ease up}, {ease off}, {slacken
+        off}]
+     [also: {flagging}, {flagged}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

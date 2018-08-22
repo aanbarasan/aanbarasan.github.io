@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>decay</Word>
+  <Definitions>
+    <Definition>
+      <Word>decay</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>decay
+     
+        [Nuclear physics] An automatic conversion which is applied to
+        most array-valued expressions in {C}; they "decay into"
+        pointer-valued expressions pointing to the array's first
+        element.  This term is not used in the official standard for
+        the language.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>decay</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Decay \De*cay"\, v. i. [imp. &amp; p. p. {Decayed}; p. pr. &amp; vb. n.
+   {Decaying}.] [OF. decaeir, dechaer, decheoir, F. d['e]choir,
+   to decline, fall, become less; L. de- + cadere to fall. See
+   {Chance}.]
+   To pass gradually from a sound, prosperous, or perfect state,
+   to one of imperfection, adversity, or dissolution; to waste
+   away; to decline; to fail; to become weak, corrupt, or
+   disintegrated; to rot; to perish; as, a tree decays; fortunes
+   decay; hopes decay.
+   [1913 Webster]
+
+         Ill fares the land, to hastening ills a prey,
+         Where wealth accumulates and men decay.  --Goldsmith.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>decay</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Decay \De*cay"\, v. t.
+   1. To cause to decay; to impair. [R.]
+      [1913 Webster]
+
+            Infirmity, that decays the wise.      --Shak.
+      [1913 Webster]
+
+   2. To destroy. [Obs.] --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>decay</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Decay \De*cay"\, n.
+   1. Gradual failure of health, strength, soundness,
+      prosperity, or of any species of excellence or perfection;
+      tendency toward dissolution or extinction; corruption;
+      rottenness; decline; deterioration; as, the decay of the
+      body; the decay of virtue; the decay of the Roman empire;
+      a castle in decay.
+      [1913 Webster]
+
+            Perhaps my God, though he be far before,
+            May turn, and take me by the hand, and more 
+            May strengthen my decays.             --Herbert.
+      [1913 Webster]
+
+            His [Johnson's] failure was not to be ascribed to
+            intellectual decay.                   --Macaulay.
+      [1913 Webster]
+
+            Which has caused the decay of the consonants to
+            follow somewhat different laws.       --James Byrne.
+      [1913 Webster]
+
+   2. Destruction; death. [Obs.] --Spenser.
+      [1913 Webster]
+
+   3. Cause of decay. [R.]
+      [1913 Webster]
+
+            He that plots to be the only figure among ciphers,
+            is the decay of the whole age.        --Bacon.
+
+   Syn: Decline; consumption. See {Decline}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>decay</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>decay n.,vi [from nuclear physics] An automatic conversion which is
+   applied to most array-valued expressions in {C}; they `decay into'
+   pointer-valued expressions pointing to the array's first element. This
+   term is borderline techspeak, but is not used in the official standard
+   for the language.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>decay</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>decay
+     n 1: the process of gradually becoming inferior
+     2: a gradual decrease; as of stored charge or current [syn: {decline}]
+     3: the organic phenomenon of rotting [syn: {decomposition}]
+     4: an inferior state resulting from the process of decaying;
+        "the corpse was in an advanced state of decay"; "the house
+        had fallen into a serious state of decay and disrepair"
+     5: the spontaneous disintegration of a radioactive substance
+        along with the emission of ionizing radiation [syn: {radioactive
+        decay}, {disintegration}]
+     v 1: lose a stored charge, magnetic flux, or current; "the
+          particles disintegrated during the nuclear fission
+          process" [syn: {disintegrate}, {decompose}]
+     2: fall into decay or ruin; "The unoccupied house started to
+        decay" [syn: {crumble}, {delapidate}]
+     3: undergo decay or decomposition; "The body started to decay
+        and needed to be cremated"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

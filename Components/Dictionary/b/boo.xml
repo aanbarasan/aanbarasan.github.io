@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>boo</Word>
+  <Definitions>
+    <Definition>
+      <Word>boo</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bo \Bo\, interj. [Cf. W. bw, an interj. of threatening or
+   frightening; n., terror, fear, dread.]
+   An exclamation used to startle or frighten. [Spelt also {boh}
+   and {boo}.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>boo</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>boo \boo\ v.
+   to show displeasure (after a performance or speech) by making
+   a prolonged sound of ``boo''.
+   [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>boo</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>boo
+     n : a cry or noise made to express displeasure or contempt [syn:
+          {hoot}, {Bronx cheer}, {hiss}, {raspberry}, {razzing}, {snort},
+          {bird}]
+     v : show displeasure, as after a performance or speech [syn: {hiss}]
+         [ant: {applaud}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

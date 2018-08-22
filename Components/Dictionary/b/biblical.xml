@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>biblical</Word>
+  <Definitions>
+    <Definition>
+      <Word>biblical</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Biblical \Bib"li*cal\ (b[i^]b"l[i^]*kal), a.
+   Pertaining to, or derived from, the Bible; as, biblical
+   learning; biblical authority.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>biblical</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>biblical
+     adj 1: of or pertaining to or contained in or in accordance with
+            the Bible; "biblical names"; "biblical Hebrew" [syn: {scriptural}]
+     2: in keeping with the nature of the Bible or its times or
+        people; "biblical styles in writing"; "a beard of biblical
+        proportions"; "biblical costumes"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

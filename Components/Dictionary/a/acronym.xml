@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>acronym</Word>
+  <Definitions>
+    <Definition>
+      <Word>acronym</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>acronym
+     
+        &lt;jargon&gt; An identifier formed from some of the letters (often
+        the initials) of a phrase and used as an abbreviation.  {This
+        dictionary} contains a great many acronyms; see the contents
+        page for a list.
+     
+        See also {TLA}.
+     
+        (1995-03-15)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>acronym</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>ACRONYM
+     Abreviation by CROping Names that Yield Meaning (slang)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>acronym</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>acronym
+     n : a word formed from the initial letters of a multi-word name
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

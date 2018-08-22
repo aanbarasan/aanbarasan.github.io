@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cherish</Word>
+  <Definitions>
+    <Definition>
+      <Word>cherish</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cherish \Cher"ish\ (ch[e^]r"[i^]sh), v. t. [imp. &amp; p. p.
+   {Cherished} (ch[e^]r"[i^]sht); p. pr. &amp; vb. n. {Cherising}.]
+   [F. ch['e]rir, fr. cher dear, fr. L. carus. See {Caress},
+   {Finish}.]
+   1. To treat with tenderness and affection; to nurture with
+      care; to protect and aid.
+      [1913 Webster]
+
+            We were gentle among you, even as a nurse cherisheth
+            her children.                         --1 Thess. ii.
+                                                  7.
+      [1913 Webster]
+
+   2. To hold dear; to embrace with interest; to indulge; to
+      encourage; to foster; to promote; as, to cherish religious
+      principle.
+      [1913 Webster]
+
+            To cherish virtue and humanity.       --Burke.
+
+   Syn: To nourish; foster; nurse; nurture; entertain;
+        encourage; comfort; protect; support; See {Nurture}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cherish</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cherish
+     v : be fond of; be attached to [syn: {care for}, {hold dear}, {treasure}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

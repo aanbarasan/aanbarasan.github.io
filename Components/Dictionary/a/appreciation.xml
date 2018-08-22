@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>appreciation</Word>
+  <Definitions>
+    <Definition>
+      <Word>appreciation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Appreciation \Ap*pre`ci*a"tion\, n. [Cf. F. appr['e]ciation.]
+   1. A just valuation or estimate of merit, worth, weight,
+      etc.; recognition of excellence.
+      [1913 Webster]
+
+   2. Accurate perception; true estimation; as, an appreciation
+      of the difficulties before us; an appreciation of colors.
+      [1913 Webster]
+
+            His foreboding showed his appreciation of Henry's
+            character.                            --J. R. Green.
+      [1913 Webster]
+
+   3. A rise in value; -- opposed to {depreciation}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>appreciation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>appreciation
+     n 1: understanding of the nature or meaning or quality or
+          magnitude of something; "he has a good grasp of
+          accounting practices" [syn: {grasp}, {hold}]
+     2: delicate discrimination (especially of aesthetic values);
+        "arrogance and lack of taste contributed to his rapid
+        success"; "to ask at that particular time was the ultimate
+        in bad taste" [syn: {taste}, {discernment}, {perceptiveness}]
+     3: an expression of gratitude; "he expressed his appreciation
+        in a short note"
+     4: a favorable judgment; "a small token in admiration of your
+        works" [syn: {admiration}]
+     5: an increase in price or value; "an appreciation of 30% in
+        the value of real estate" [ant: {depreciation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

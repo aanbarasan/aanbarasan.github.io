@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>google</Word>
+  <Definitions>
+    <Definition>
+      <Word>google</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Google
+     
+        &lt;World-Wide Web&gt; The {World-Wide Web} {search engine} that
+        indexes the greatest number of web pages - over two billion by
+        December 2001 and provides a free service that searches this
+        index in less than a second.
+     
+        The site's name is apparently derived from "{googol}", but
+        note the difference in spelling.
+     
+        The "Google" spelling is also used in "The Hitchhikers Guide
+        to the Galaxy" by Douglas Adams, in which one of Deep
+        Thought's designers asks, "And are you not," said Fook,
+        leaning anxiously foward, "a greater analyst than the
+        Googleplex Star Thinker in the Seventh Galaxy of Light and
+        Ingenuity which can calculate the trajectory of every single
+        dust particle throughout a five-week Dangrabad Beta sand
+        blizzard?"
+     
+        {Home (http://www.google.com/)}.
+     
+        (2001-12-28)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>google</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>google v. [common] To search the Web using the Google search engine,
+   `http://www.google.com'. Google is highly esteemed among hackers for its
+   significance ranking system, which is so uncannily effective that many
+   hackers consider it to have rendered other search engines effectively
+   irrelevant. The name `google' has additional flavor for hackers because
+   most know that it was copied from a mathematical term for ten to the
+   hundredth power, famously first uttered as `googol' by a mathematician's
+   nine-year-old nephew.
+
+
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>similar</Word>
+  <Definitions>
+    <Definition>
+      <Word>similar</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Similar \Sim"i*lar\, n.
+   That which is similar to, or resembles, something else, as in
+   quality, form, etc.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>similar</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Similar \Sim"i*lar\, a. [F. similaire, fr. L. similis like,
+   similar. See {Same}, a., and cf. {Simulate}.]
+   1. Exactly corresponding; resembling in all respects;
+      precisely like.
+      [1913 Webster]
+
+   2. Nearly corresponding; resembling in many respects;
+      somewhat like; having a general likeness.
+      [1913 Webster]
+
+   3. Homogenous; uniform. [R.] --Boyle.
+      [1913 Webster]
+
+   {Similar figures} (Geom.), figures which differ from each
+      other only in magnitude, being made up of the same number
+      of like parts similarly situated.
+
+   {Similar rectilineal figures}, such as have their several
+      angles respectively equal, each to each, and their sides
+      about the equal angles proportional.
+
+   {Similar solids}, such as are contained by the same number of
+      similar planes, similarly situated, and having like
+      inclination to one another.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>similar</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>similar
+     adj 1: marked by correspondence or resemblance; "similar food at
+            similar prices"; "problems similar to mine"; "they
+            wore similar coats" [ant: {dissimilar}]
+     2: having the same or similar characteristics; "all politicians
+        are alike"; "they looked utterly alike"; "friends are
+        generaly alike in background and taste" [syn: {alike(p)},
+        {like}] [ant: {unalike}]
+     3: resembling or similar; having the same or some of the same
+        characteristics; often used in combination; "suits of like
+        design"; "a limited circle of like minds"; "members of the
+        cat family have like dispositions"; "as like as two peas
+        in a pod"; "doglike devotion"; "a dreamlike quality" [syn:
+         {like}] [ant: {unlike}]
+     4: (of words) expressing closely related meanings
+     5: capable of replacing or changing places with something else;
+        "interchangeable parts" [syn: {exchangeable}, {interchangeable},
+         {standardized}, {standardised}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

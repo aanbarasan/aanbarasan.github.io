@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bubbly</Word>
+  <Definitions>
+    <Definition>
+      <Word>bubbly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bubbly \Bub"bly\, a.
+   Abounding in bubbles; bubbling. --Nash.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bubbly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bubbly
+     adj 1: emitting or filled with bubbles as from carbonation or
+            fermentation; "bubbling champagne"; "foamy (or frothy)
+            beer" [syn: {bubbling}, {foaming}, {foamy}, {frothy},
+            {effervescing}]
+     2: full of or showing high spirits; "bright bubbly children";
+        "a bubbly personality"
+     n : a white sparkling wine either produced in Champagne or
+         resembling that produced there [syn: {champagne}]
+     [also: {bubbliest}, {bubblier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

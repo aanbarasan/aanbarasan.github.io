@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>terrible</Word>
+  <Definitions>
+    <Definition>
+      <Word>terrible</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Terrible \Ter"ri*ble\, a. [F., fr. L. terribilis, fr. terrere to
+   frighten. See {Terror}.]
+   1. Adapted or likely to excite terror, awe, or dread;
+      dreadful; formidable.
+      [1913 Webster]
+
+            Prudent in peace, and terrible in war. --Prior.
+      [1913 Webster]
+
+            Thou shalt not be affrighted at them; for the Lord
+            thy God is among you, a mighty God and terrible.
+                                                  --Deut. vii.
+                                                  21.
+      [1913 Webster]
+
+   2. Excessive; extreme; severe. [Colloq.]
+      [1913 Webster]
+
+            The terrible coldness of the season.  --Clarendon.
+      [1913 Webster]
+
+   Syn: Terrific; fearful; frightful; formidable; dreadful;
+        horrible; shocking; awful.
+        [1913 Webster] -- {Ter"ri*ble*ness}, n. -- {Ter"ri*bly},
+        adv.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>terrible</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>terrible
+     adj 1: causing fear or dread or terror; "the awful war"; "an awful
+            risk"; "dire news"; "a career or vengeance so direful
+            that London was shocked"; "the dread presence of the
+            headmaster"; "polio is no longer the dreaded disease
+            it once was"; "a dreadful storm"; "a fearful howling";
+            "horrendous explosions shook the city"; "a terrible
+            curse" [syn: {awful}, {dire}, {direful}, {dread(a)}, {dreaded},
+             {dreadful}, {fearful}, {fearsome}, {frightening}, {horrendous},
+             {horrific}]
+     2: exceptionally bad or displeasing; "atrocious taste";
+        "abominable workmanship"; "an awful voice"; "dreadful
+        manners"; "a painful performance"; "terrible handwriting";
+        "an unspeakable odor came sweeping into the room" [syn: {atrocious},
+         {abominable}, {awful}, {dreadful}, {painful}, {unspeakable}]
+     3: intensely or extremely bad or unpleasant in degree or
+        quality; "severe pain"; "a severe case of flu"; "a
+        terrible cough"; "under wicked fire from the enemy's
+        guns"; "a wicked cough" [syn: {severe}, {wicked}]
+     4: extremely distressing; "fearful slum conditions"; "a
+        frightful mistake"; "suffered terrible thirst" [syn: {fearful},
+         {frightful}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

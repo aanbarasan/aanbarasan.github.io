@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sunshine</Word>
+  <Definitions>
+    <Definition>
+      <Word>sunshine</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Sunshine, LA
+  Zip code(s): 70780
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sunshine</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sunshine \Sun"shine`\, a.
+   Sunshiny; bright. --Shak. ``Sunshine hours.'' --Keble.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sunshine</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sunshine \Sun"shine`\, n.
+   1. The light of the sun, or the place where it shines; the
+      direct rays of the sun, the place where they fall, or the
+      warmth and light which they give.
+      [1913 Webster]
+
+            But all sunshine, as when his beams at noon
+            Culminate from the equator.           --Milton.
+      [1913 Webster]
+
+   2. Anything which has a warming and cheering influence like
+      that of the rays of the sun; warmth; illumination;
+      brightness.
+      [1913 Webster]
+
+            That man that sits within a monarch's heart,
+            And ripens in the sunshine of his favor. --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sunshine</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sunshine
+     n 1: the rays of the sun; "the shingles were weathered by the sun
+          and wind" [syn: {sunlight}, {sun}]
+     2: moderate weather; suitable for outdoor activities [syn: {fair
+        weather}, {temperateness}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

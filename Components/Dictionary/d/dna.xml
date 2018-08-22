@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dna</Word>
+  <Definitions>
+    <Definition>
+      <Word>dna</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>macromolecule \mac`ro*mol"e*cule\, n. (Chem., Biochem.)
+   A very large molecule, especially a polymer having from
+   hundreds to many thousands of atoms, such as {DNA}, {RNA},
+   {protein}, {polysaccharide}, {polyethylene}, {polycarbonate},
+   etc.
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dna</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>deoxyribonucleic acid \deoxyribonucleic acid\ n.
+   a nucleic acid, usually of very high molecular weight,
+   consisting of a linear sequence of monomer units of
+   deoxyribonucleotides, occurring in most organisms in pairs of
+   strands, wound together in the form of a double helix; it is
+   the main component of chromosomes and contains the genetic
+   information which is the basis of heredity, transmitted from
+   parent to progeny, and found in all living organisms except
+   for certain viruses which have RNA as their basic genetic
+   material; -- usually referred to by the acronym {DNA}.
+
+   Syn: DNA, desoxyribonucleic acid.
+        [PJC]
+
+   Note: The monomer units making up the DNA each contain one of
+         four heterocyclic bases: thymine, adenine, cytosine, or
+         guanine. The genetic information is contained in the
+         precise sequence of these monomer units, which
+         ultimately specify the sequence of proteins to be made
+         by the organism's biosynthetic processes, mediated
+         through the synthesis of RNA having a base sequence
+         corresponding to that of the DNA. The DNA sequence also
+         specifies the sequence of the various RNA molecules the
+         RNA base sequence being a copy of that on one of the
+         DNA strands. Most of the RNA synthesized is involved in
+         protein synthesis. In the double-helical form of DNA,
+         the thymine on one strand is paired with the adenine on
+         the opposite strand, and cytosine of one strand is
+         paired with guanine on the opposite strand. There is in
+         DNA also certain controlling information concerning the
+         timing and amount of RNA to be made, encoded within the
+         sequence of the DNA in ways that are still being
+         elucidated.
+         When this structure is replicated in the course of cell
+         multiplication, two identical double-helical molecules
+         are formed, each containing one strand from the
+         original molecule. Each resulting molecule is
+         distributred to either the parent or progeny organism,
+         and this is the basic mechanism for transmission of
+         hereditary information. In RNA-based viruses, or those
+         having single strands of DNA (as certain viruses), the
+         genetic information transmission occurs through a
+         double-stranded intermediate by a similar mechanism.
+         In some organisms slight modifications of the bases of
+         DNA are found, such as methylcytosine or, in some
+         viruses, uracil or hydroxymethyluracil; these unusual
+         bases act analogously to the normal bases in their
+         genetic coding function. A small percentage of
+         methylcytosine is found in many organisms, and it
+         serves in some cases as a special signal, as for
+         restriction enzymes.
+         [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dna</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>DNA \DNA\ (d[=e]"[e^]n*[=a]`) n. (Biochemistry, Genetics)
+   abbreviation for {deoxyribonucleic acid}; -- more commonly
+   used than the full name. See also {RNA}. [acronym]
+
+   Syn: deoxyribonucleic acid, desoxyribonucleic acid,
+        deoxyribosenucleic acid.
+        [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dna</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>DNA
+     Digital Network Architecture (DEC)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dna</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>DNA
+     Direct Network Attach (Xyratex, RAID)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dna</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>DNA
+     Distributed Network Architecture (NCR)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dna</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>DNA
+     n : (biochemistry) a long linear polymer found in the nucleus of
+         a cell and formed from nucleotides and shaped like a
+         double helix; associated with the transmission of genetic
+         information; "DNA is the king of molecules" [syn: {deoxyribonucleic
+         acid}, {desoxyribonucleic acid}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

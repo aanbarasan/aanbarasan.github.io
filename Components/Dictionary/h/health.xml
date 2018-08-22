@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>health</Word>
+  <Definitions>
+    <Definition>
+      <Word>health</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Health \Health\ (h[e^]lth), n. [OE. helthe, AS. h[=ae]l[thorn],
+   fr. h[=a]l hale, sound, whole. See {Whole}.]
+   1. The state of being hale, sound, or whole, in body, mind,
+      or soul; especially, the state of being free from physical
+      disease or pain.
+      [1913 Webster]
+
+            There is no health in us.             --Book of
+                                                  Common Prayer.
+      [1913 Webster]
+
+            Though health may be enjoyed without gratitude, it
+            can not be sported with without loss, or regained by
+            courage.                              --Buckminster.
+      [1913 Webster]
+
+   2. A wish of health and happiness, as in pledging a person in
+      a toast. ``Come, love and health to all.'' --Shak.
+      [1913 Webster]
+
+   {Bill of health}. See under {Bill}.
+
+   {Health lift}, a machine for exercise, so arranged that a
+      person lifts an increasing weight, or moves a spring of
+      increasing tension, in such a manner that most of the
+      muscles of the body are brought into gradual action; --
+      also called {lifting machine}.
+
+   {Health officer}, one charged with the enforcement of the
+      sanitary laws of a port or other place.
+
+   {To drink a health}. See under {Drink}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>health</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>health
+     n 1: a healthy state of wellbeing free from disease; "physicians
+          should be held responsible for the health of their
+          patients" [syn: {wellness}] [ant: {illness}, {illness}]
+     2: the general condition of body and mind; "his delicate
+        health"; "in poor health"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

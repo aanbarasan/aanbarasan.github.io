@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>clone</Word>
+  <Definitions>
+    <Definition>
+      <Word>clone</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>clone
+     
+        &lt;jargon&gt; 1. An exact copy of a product, made legally or
+        illegally, from {documentation} or by {reverse engineering},
+        and usually cheaper.
+     
+        E.g. "PC clone": a PC-BUS/{ISA}, {EISA}, {VESA}, or {PCI}
+        compatible {x86}-based {microcomputer} (this use is sometimes
+        misspelled "klone" or "PClone").  These invariably have much more
+        bang per buck than the {IB PCM} they resemble.
+     
+        E.g. "Unix clone": An {operating system} designed to deliver a
+        {Unix}-like environment without Unix licence fees or with
+        additional "mission-critical" features such as support for
+        {real-time} programming.
+     
+        2. &lt;chat&gt; A {clonebot}.
+     
+        [{Jargon File}]
+     
+        (2000-06-15)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>clone</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>clone \clone\ (kl[=o]n), n.
+   1. (Biol.) a group of organisms derived from a single
+      individual by some kind of asexual reproduction; -- used
+      mostly of microorganisms such as bacteria and yeast.
+
+   Syn: clon.
+        [WordNet 1.5]
+
+   2. (Biol.) an individual organism containing a genetic
+      complement identical to that of another organism, produced
+      by using the genetic material from the second animal in a
+      non-sexual reproduction process.
+      [PJC]
+
+   3. something virtually identical to another object.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>clone</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>clone \clone\ v. t.
+   1. (Biol.) to make a clone from; to make identical copies of
+      an organism by a non-sexual process of reproduction.
+      [WordNet 1.5]
+
+   2. (Microbiol.) to grow colonies of a microorganism by
+      spreading a suspension of the microorganism onto a solid
+      growth medium (such as in a Petri dish), at a
+      concentration such that individual colonies will grow from
+      single cells sufficiently well separated from other
+      colonies so that pure cultures derived from a single
+      organism can be isolated.
+      [WordNet 1.5]
+
+   3. (Biochem.) to make large quantities of a segment of DNA by
+      inserting it, using biochemical techniques, into the DNA
+      of a microorganism, and growing that microorganism in
+      large numbers; as, to clone the gene for growth hormone.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>clone</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>clone n. 1. An exact duplicate: "Our product is a clone of their
+   product." Implies a legal reimplementation from documentation or by
+   reverse-engineering. Also connotes lower price. 2. A shoddy, spurious
+   copy: "Their product is a clone of our product." 3. A blatant ripoff,
+   most likely violating copyright, patent, or trade secret protections:
+   "Your product is a clone of my product." This use implies legal action
+   is pending. 4. [obs] `PC clone:' a PC-BUS/ISA or EISA-compatible
+   80x86-based microcomputer (this use is sometimes spelled `klone' or
+   `PClone'). These invariably have much more bang for the buck than the
+   IBM archetypes they resemble. This term fell out of use in the 1990s;
+   the class of machines it describes are now simply `PCs' or `Intel
+   machines'. 5. [obs.] In the construction `Unix clone': An OS designed to
+   deliver a Unix-lookalike environment without Unix license fees, or with
+   additional `mission-critical' features such as support for real-time
+   programming. {Linux} and the free BSDs killed off this product category
+   and the term with it. 6. v. To make an exact copy of something. "Let me
+   clone that" might mean "I want to borrow that paper so I can make a
+   photocopy" or "Let me get a copy of that file before you {mung} it".
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>clone</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>clone
+     n 1: a person who is almost identical to another [syn: {ringer},
+          {dead ringer}]
+     2: a group of genetically identical cells or organisms derived
+        from a single cell or individual by some kind of asexual
+        reproduction [syn: {clon}]
+     3: an unauthorized copy or imitation [syn: {knockoff}]
+     v : make multiple identical copies of; "people can clone a sheep
+         nowadays"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

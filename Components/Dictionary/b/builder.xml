@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>builder</Word>
+  <Definitions>
+    <Definition>
+      <Word>builder</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Builder \Build"er\, n.
+   One who builds; one whose occupation is to build, as a
+   carpenter, a shipwright, or a mason.
+   [1913 Webster]
+
+         In the practice of civil architecture, the builder
+         comes between the architect who designs the work and
+         the artisans who execute it.             --Eng. Cyc.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>builder</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>builder
+     n 1: a substance added to soaps or detergents to increase their
+          cleansing action [syn: {detergent builder}]
+     2: someone who contracts for and supervises construction (as of
+        a building) [syn: {constructor}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

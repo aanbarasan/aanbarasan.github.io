@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>actively</Word>
+  <Definitions>
+    <Definition>
+      <Word>actively</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Actively \Ac"tive*ly\, adv.
+   1. In an active manner; nimbly; briskly; energetically; also,
+      by one's own action; voluntarily, not passively.
+      [1913 Webster]
+
+   2. (Gram.) In an active signification; as, a word used
+      actively.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>actively</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>actively
+     adv : in an active manner; "he participated actively in the war"
+           [ant: {passively}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

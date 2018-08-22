@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>arithmetic</Word>
+  <Definitions>
+    <Definition>
+      <Word>arithmetic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mathematics \Math`e*mat"ics\, n. [F. math['e]matiques, pl., L.
+   mathematica, sing., Gr. ? (sc. ?) science. See {Mathematic},
+   and {-ics}.]
+   That science, or class of sciences, which treats of the exact
+   relations existing between quantities or magnitudes, and of
+   the methods by which, in accordance with these relations,
+   quantities sought are deducible from other quantities known
+   or supposed; the science of spatial and quantitative
+   relations.
+   [1913 Webster]
+
+   Note: Mathematics embraces three departments, namely: 1.
+         {Arithmetic}. 2. {Geometry}, including {Trigonometry}
+         and {Conic Sections}. 3. {Analysis}, in which letters
+         are used, including {Algebra}, {Analytical Geometry},
+         and {Calculus}. Each of these divisions is divided into
+         pure or abstract, which considers magnitude or quantity
+         abstractly, without relation to matter; and mixed or
+         applied, which treats of magnitude as subsisting in
+         material bodies, and is consequently interwoven with
+         physical considerations.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>arithmetic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Arithmetic \A*rith"me*tic\, n. [OE. arsmetike, OF. arismetique,
+   L. arithmetica, fr. Gr. ? (sc. ?), fr. ? arithmetical, fr. ?
+   to number, fr. ? number, prob. fr. same root as E. arm, the
+   idea of counting coming from that of fitting, attaching. See
+   {Arm}. The modern Eng. and French forms are accommodated to
+   the Greek.]
+   1. The science of numbers; the art of computation by figures.
+      [1913 Webster]
+
+   2. A book containing the principles of this science.
+      [1913 Webster]
+
+   {Arithmetic of sines}, trigonometry.
+
+   {Political arithmetic}, the application of the science of
+      numbers to problems in civil government, political
+      economy, and social science.
+
+   {Universal arithmetic}, the name given by Sir Isaac Newton to
+      algebra.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>arithmetic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>arithmetic
+     adj : relating to or involving arithmetic; "arithmetical
+           computations" [syn: {arithmetical}]
+     n : the branch of pure mathematics dealing with the theory of
+         numerical calculations
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

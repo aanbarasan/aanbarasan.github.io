@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>facial</Word>
+  <Definitions>
+    <Definition>
+      <Word>facial</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Facial \Fa"cial\, a. [LL. facialis, fr. L. facies face : cf. F.
+   facial.]
+   Of or pertaining to the face; as, the facial artery, vein, or
+   nerve. -- {Fa"cial*ly}, adv.
+   [1913 Webster]
+
+   {Facial angle} (Anat.), the angle, in a skull, included
+      between a straight line (ab, in the illustrations), from
+      the most prominent part of the forehead to the front efge
+      of the upper jaw bone, and another (cd) from this point to
+      the center of the external auditory opening. See {Gnathic
+      index}, under {Gnathic}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>facial</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>facial
+     adj 1: of or concerning the face; "a facial massage"; "facial
+            hair"; "facial expression"
+     2: of or pertaining to the outside surface of an object
+     n 1: cranial nerve that supplies facial muscles [syn: {facial
+          nerve}, {nervus facialis}, {seventh cranial nerve}]
+     2: care for the face that usually involves cleansing and
+        massage and the application of cosmetic creams
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

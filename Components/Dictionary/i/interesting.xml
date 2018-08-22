@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>interesting</Word>
+  <Definitions>
+    <Definition>
+      <Word>interesting</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>interesting
+     
+        In hacker parlance, this word has strong connotations of
+        "annoying", or "difficult", or both.  Hackers relish a
+        challenge, and enjoy wringing all the irony possible out of
+        the ancient Chinese curse "May you live in interesting times".
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>interesting</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Interest \In"ter*est\, v. t. [imp. &amp; p. p. {Interested}; p. pr.
+   &amp; vb. n. {Interesting}.] [From interess'd, p. p. of the older
+   form interess, fr. F. int['e]resser, L. interesse. See
+   {Interest}, n.]
+   [1913 Webster]
+   1. To engage the attention of; to awaken interest in; to
+      excite emotion or passion in, in behalf of a person or
+      thing; as, the subject did not interest him; to interest
+      one in charitable work.
+      [1913 Webster]
+
+            To love our native country . . . to be interested in
+            its concerns is natural to all men.   --Dryden.
+      [1913 Webster]
+
+            A goddess who used to interest herself in marriages.
+                                                  --Addison.
+      [1913 Webster]
+
+   2. To be concerned with or engaged in; to affect; to concern;
+      to excite; -- often used impersonally. [Obs.]
+      [1913 Webster]
+
+            Or rather, gracious sir,
+            Create me to this glory, since my cause
+            Doth interest this fair quarrel.      --Ford.
+      [1913 Webster]
+
+   3. To cause or permit to share. [Obs.]
+      [1913 Webster]
+
+            The mystical communion of all faithful men is such
+            as maketh every one to be interested in those
+            precious blessings which any one of them receiveth
+            at God's hands.                       --Hooker.
+
+   Syn: To concern; excite; attract; entertain; engage; occupy;
+        hold.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>interesting</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Interesting \In"ter*est*ing\, a.
+   Engaging the attention; exciting, or adapted to excite,
+   interest, curiosity, or emotion; as, an interesting story;
+   interesting news. --Cowper.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>interesting</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>interesting adj. In hacker parlance, this word has strong connotations
+   of `annoying', or `difficult', or both. Hackers relish a challenge, and
+   enjoy wringing all the irony possible out of the ancient Chinese curse
+   "May you live in interesting times". Oppose {trivial}, {uninteresting}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>interesting</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>interesting
+     adj : arousing or holding the attention [ant: {uninteresting}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

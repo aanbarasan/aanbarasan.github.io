@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>boogeyman</Word>
+  <Definitions>
+    <Definition>
+      <Word>boogeyman</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Boogeyman \Boog"ey*man\, Bogeyman \Bo"gey*man\, n.
+   Something frightful, as a specter; anything imaginary that
+   causes needless fright; something used to excite needless
+   fear; also, something really dangerous, or an imaginary
+   monster, used to frighten children, etc. ``Go to sleep or the
+   Boogeyman will get you.''
+
+   Syn: Hobgoblin; goblin; specter; ogre; scarecrow; booger;
+        bugaboo; bugbear.
+        [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>boogeyman</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>boogeyman
+     n : an imaginary monster used to frighten children [syn: {bogeyman},
+          {bugbear}, {bugaboo}, {booger}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

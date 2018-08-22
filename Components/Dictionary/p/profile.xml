@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>profile</Word>
+  <Definitions>
+    <Definition>
+      <Word>profile</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>PROFILE
+     
+        Simple language for matching and scoring data.  "User's Manual
+        for the PROFILE System", Cambridge Computer Assoc (May 1974).
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>profile</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>profile
+     
+        1. A control file for a program, especially a text file
+        automatically read from each user's home directory and
+        intended to be easily modified by the user in order to
+        customise the program's behaviour.  Used to avoid {hard-coded}
+        choices (see also {dot file}, {rc file}).
+     
+        2. A report on the amounts of time spent in each routine of a
+        program, used to find and {tune} away the {hot spot}s in it.
+        This sense is often verbed.  Some profiling modes report units
+        other than time (such as call counts) and/or report at
+        granularities other than per-routine, but the idea is similar.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>profile</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Profile \Pro"file\, v. t. [imp. &amp; p. p. {Profiled}; p. pr. &amp; vb.
+   n. {Profiling}] [Cf. F. profiler, It. profilare. See
+   {Profile}, n.]
+   1. to draw the outline of; to draw in profile, as an
+      architectural member.
+      [1913 Webster]
+
+   2. (Mech.) To shape the outline of an object by passing a
+      cutter around it.
+      [1913 Webster]
+
+   {Profiling machine}, a jigging machine.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>profile</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Profile \Pro"file\, n. [It. profilo, fr. L. pro before + filum a
+   thread, an outline, shape: cf. F. profil. See {File} arow,
+   and cf. {Purfle}, {Purl}, a fringe.]
+   1. An outline, or contour; as, the profile of an apple.
+      [1913 Webster]
+
+   2. (Paint &amp; Sculp.) A human head represented sidewise, or in
+      a side view; the side face or half face.
+      [1913 Webster]
+
+   3.
+      (a) (Arch.) A section of any member, made at right angles
+          with its main lines, showing the exact shape of
+          moldings and the like.
+      (b) (Civil Engin.) A drawing exhibiting a vertical section
+          of the ground along a surveyed line, or graded work,
+          as of a railway, showing elevations, depressions,
+          grades, etc.
+          [1913 Webster]
+
+   4. a short biography.
+
+   5. a set of data, often in graphical form, describing some
+      significant features of something (e.g. a person,
+      corporation); esp. a graph showing the results of tests of
+      some attribute of a person.
+
+   6. public notice, used esp. in the phrase "(keep/maintain) a
+      low profile", i. e. avoid public notice, avoid publicity.
+      [1913 Webster]
+
+   {Profile paper} (Civil Engin.), paper ruled with vertical and
+      horizontal lines forming small oblong rectangles, adapted
+      for drawing profiles.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>profile</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>profile n. 1. A control file for a program, esp. a text file
+   automatically read from each user's home directory and intended to be
+   easily modified by the user in order to customize the program's
+   behavior. Used to avoid {hardcoded} choices (see also {dot file}, {rc
+   file}). 2. [techspeak] A report on the amounts of time spent in each
+   routine of a program, used to find and {tune} away the {hot spot}s in
+   it. This sense is often verbed. Some profiling modes report units other
+   than time (such as call counts) and/or report at granularities other
+   than per-routine, but the idea is similar. 3.[techspeak] A subset of a
+   standard used for a particular purpose. This sense confuses hackers who
+   wander into the weird world of ISO standards no end!
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>profile</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>profile
+     n 1: an analysis (often in graphical form) representing the
+          extent to which something exhibits various
+          characteristics; "a biochemical profile of blood"; "a
+          psychological profile of serial killers"
+     2: a side view representation of an object (especially a human
+        face)
+     3: biographical sketch
+     4: degree of exposure to public notice; "that candidate does
+        not have sufficient visibility to win an election"; "he
+        prefers a low profile" [syn: {visibility}]
+     5: a vertical section of the Earth's crust showing the
+        different horizons or layers
+     v 1: write about; "The author of this article profiles a famous
+          painter"
+     2: represent in profile, by drawing or painting
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

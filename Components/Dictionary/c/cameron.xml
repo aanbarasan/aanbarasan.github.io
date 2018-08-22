@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cameron</Word>
+  <Definitions>
+    <Definition>
+      <Word>cameron</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Cameron, AZ (CDP, FIPS 9340)
+  Location: 35.84825 N, 111.43186 W
+  Population (1990): 493 (162 housing units)
+  Area: 33.3 sq km (land), 0.0 sq km (water)
+Cameron, IL
+  Zip code(s): 61423
+Cameron, LA (CDP, FIPS 12000)
+  Location: 29.79762 N, 93.29957 W
+  Population (1990): 2041 (809 housing units)
+  Area: 72.2 sq km (land), 3.9 sq km (water)
+  Zip code(s): 70631
+Cameron, MO (city, FIPS 10828)
+  Location: 39.74287 N, 94.23629 W
+  Population (1990): 4831 (2142 housing units)
+  Area: 10.5 sq km (land), 0.1 sq km (water)
+  Zip code(s): 64429
+Cameron, MT
+  Zip code(s): 59720
+Cameron, NC (town, FIPS 9800)
+  Location: 35.32705 N, 79.25158 W
+  Population (1990): 215 (90 housing units)
+  Area: 2.7 sq km (land), 0.0 sq km (water)
+Cameron, NY
+  Zip code(s): 14819
+Cameron, OK (town, FIPS 11300)
+  Location: 35.13493 N, 94.53587 W
+  Population (1990): 327 (120 housing units)
+  Area: 0.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 74932
+Cameron, SC (town, FIPS 10900)
+  Location: 33.55840 N, 80.71488 W
+  Population (1990): 504 (214 housing units)
+  Area: 8.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 29030
+Cameron, TX (city, FIPS 12040)
+  Location: 30.85811 N, 96.97698 W
+  Population (1990): 5580 (2454 housing units)
+  Area: 11.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 76520
+Cameron, WI (village, FIPS 12250)
+  Location: 45.40334 N, 91.74341 W
+  Population (1990): 1273 (542 housing units)
+  Area: 6.2 sq km (land), 0.3 sq km (water)
+  Zip code(s): 54822
+Cameron, WV (city, FIPS 12484)
+  Location: 39.82639 N, 80.57049 W
+  Population (1990): 1177 (566 housing units)
+  Area: 2.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 26033
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

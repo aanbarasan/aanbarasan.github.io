@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>enemy</Word>
+  <Definitions>
+    <Definition>
+      <Word>enemy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Enemy \En"e*my\, a.
+   Hostile; inimical. [Obs.]
+   [1913 Webster]
+
+         They . . . every day grow more enemy to God. --Jer.
+                                                  Taylor.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>enemy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Enemy \En"e*my\, n.; pl. {Enemies}. [OF. enemi, F. ennemi, from
+   L. inimicus; in- (negative) + amicus friend. See {Amicable}.]
+   One hostile to another; one who hates, and desires or
+   attempts the injury of, another; a foe; an adversary; as, an
+   enemy of or to a person; an enemy to truth, or to falsehood.
+   [1913 Webster]
+
+         To all good he enemy was still.          --Spenser.
+   [1913 Webster]
+
+         I say unto you, Love your enemies.       --Matt. v. 44.
+   [1913 Webster]
+
+   {The enemy} (Mil.), the hostile force. In this sense it is
+      construed with the verb and pronoun either in the singular
+      or the plural, but more commonly in the singular; as, we
+      have met the enemy and he is ours or they are ours.
+      [1913 Webster]
+
+            It was difficult in such a country to track the
+            enemy. It was impossible to drive him to bay.
+                                                  --Macaulay.
+
+   Syn: Foe; antagonist; opponent. See {Adversary}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>enemy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>enemy
+     n 1: an opposing military force; "the enemy attacked at dawn"
+     2: an armed adversary (especially a member of an opposing
+        military force); "a soldier must be prepared to kill his
+        enemies" [syn: {foe}, {foeman}, {opposition}]
+     3: any hostile group of people; "he viewed lawyers as the real
+        enemy"
+     4: a personal enemy; "they had been political foes for years"
+        [syn: {foe}] [ant: {ally}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

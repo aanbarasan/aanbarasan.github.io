@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>condemnation</Word>
+  <Definitions>
+    <Definition>
+      <Word>condemnation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Condemnation \Con"dem*na"tion\, n. [L. condemnatio.]
+   1. The act of condemning or pronouncing to be wrong; censure;
+      blame; disapprobation.
+      [1913 Webster]
+
+            In every other sense of condemnation, as blame,
+            censure, reproof, private judgment, and the like.
+                                                  --Paley.
+      [1913 Webster]
+
+   2. The act of judicially condemning, or adjudging guilty,
+      unfit for use, or forfeited; the act of dooming to
+      punishment or forfeiture.
+      [1913 Webster]
+
+            A legal and judicial condemnation.    --Paley.
+      [1913 Webster]
+
+            Whose condemnation is pronounced.     --Shak.
+      [1913 Webster]
+
+   3. The state of being condemned.
+      [1913 Webster]
+
+            His pathetic appeal to posterity in the hopeless
+            hour of condemnation.                 --W. Irving.
+      [1913 Webster]
+
+   4. The ground or reason of condemning.
+      [1913 Webster]
+
+            This is the condemnation, that light is come into
+            the world, and men loved darkness rather light,
+            because their deeds were evil.        --John iii.
+                                                  19.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>condemnation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>condemnation
+     n 1: an expression of strong disapproval; pronouncing as wrong or
+          morally culpable; "his uncompromising condemnation of
+          racism" [syn: {disapprobation}] [ant: {approbation}]
+     2: (law) the act of condemning (as land forfeited for public
+        use) or judging to be unfit for use (as a food product or
+        an unsafe building)
+     3: an appeal to some supernatural power to inflict evil on
+        someone or some group [syn: {execration}, {curse}]
+     4: the condition of being strongly disapproved of; "he deserved
+        nothing but condemnation"
+     5: (criminal law) a final judgment of guilty in a criminal case
+        and the punishment that is imposed; "the conviction came
+        as no surprise" [syn: {conviction}, {judgment of
+        conviction}, {sentence}] [ant: {acquittal}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

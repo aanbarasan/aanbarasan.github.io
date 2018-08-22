@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>permission</Word>
+  <Definitions>
+    <Definition>
+      <Word>permission</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>permission
+     
+        &lt;file system&gt; (Or "file mode") The ability to access (read,
+        write, execute, traverse, etc.) a {file} or {directory}.
+        Depending on the {operating system}, each file may have
+        different permissions for different kinds of access and
+        different users or groups of users.
+     
+        {chmod} ("change mode") is the {UNIX} command to change
+        permissions.
+     
+        (2000-12-07)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>permission</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Permission \Per*mis"sion\, n. [L. permissio: cf. F. permission.
+   See {Permit}.]
+   The act of permitting or allowing; formal consent;
+   authorization; leave; license or liberty granted.
+   [1913 Webster]
+
+         High permission of all-ruling Heaven.    --Milton.
+   [1913 Webster]
+
+         You have given me your permission for this address.
+                                                  --Dryden.
+   [1913 Webster]
+
+   Syn: Leave; liberty; license.
+
+   Usage: {Leave}, {Permission}. Leave implies that the
+          recipient may decide whether to use the license
+          granted or not. Permission is the absence on the part
+          of another of anything preventive, and in general, at
+          least by implication, signifies approval.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>permission</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>permission
+     n 1: approval to do something; "he asked permission to leave"
+     2: the act of giving a formal (usually written) authorization
+        [syn: {license}, {permit}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

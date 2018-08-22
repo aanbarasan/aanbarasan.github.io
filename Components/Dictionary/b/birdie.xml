@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>birdie</Word>
+  <Definitions>
+    <Definition>
+      <Word>birdie</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Birdie \Bird"ie\, n.
+   A pretty or dear little bird; -- a pet name. --Tennyson.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>birdie</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>birdie
+     n 1: (golf) a score of one stroke under par on a hole
+     2: badminton equipment consisting of a ball of cork or rubber
+        with a crown of feathers [syn: {shuttlecock}, {bird}, {shuttle}]
+     v : to shoot in one stroke under par
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

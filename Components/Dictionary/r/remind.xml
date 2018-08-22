@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>remind</Word>
+  <Definitions>
+    <Definition>
+      <Word>remind</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Remind \Re*mind"\ (r?-m?nd"), v. t.
+   To put (one) in mind of something; to bring to the
+   remembrance of; to bring to the notice or consideration of (a
+   person).
+   [1913 Webster]
+
+         When age itself, which will not be defied, shall begin
+         to arrest, seize, and remind us of our mortality.
+                                                  --South.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>remind</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>remind
+     v 1: put in the mind of someone; "Remind me to call Mother"
+     2: assist (somebody acting or reciting) by suggesting the next
+        words of something forgotten or imperfectly learned [syn:
+        {prompt}, {cue}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

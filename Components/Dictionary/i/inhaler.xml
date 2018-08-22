@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>inhaler</Word>
+  <Definitions>
+    <Definition>
+      <Word>inhaler</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Inhaler \In*hal"er\, n.
+   1. One who inhales.
+      [1913 Webster]
+
+   2. An apparatus for inhaling any vapor or volatile substance,
+      such as ether or chloroform, or an aerosol mist of a
+      solution, for medicinal purposes; as, he alway carried his
+      inhaler around in his pocket in case he had asthmatic
+      attack.
+      [1913 Webster +PJC]
+
+   3. A contrivance to filter, as air, in order to protect the
+      lungs from inhaling damp or cold air, noxious gases, dust,
+      etc.; also, the respiratory apparatus for divers.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>inhaler</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Inhalant \In*hal"ant\, n.
+   An apparatus also called an {inhaler} (which see); also, that
+   which is to be inhaled, especially a medicine taken by
+   inhalation.
+   [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>inhaler</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>inhaler
+     n : a dispenser that produces a chemical vapor to be inhaled in
+         order to relieve nasal congestion [syn: {inhalator}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

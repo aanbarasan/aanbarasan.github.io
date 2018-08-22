@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cargo</Word>
+  <Definitions>
+    <Definition>
+      <Word>cargo</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cargo \Car"go\, n.; pl. {Cargoes}. [Sp. cargo, carga, burden,
+   load, from cargar to load, from cargar to load, charge, See
+   {Charge}.]
+   The lading or freight of a ship or other vessel; the goods,
+   merchandise, or whatever is conveyed in a vessel or boat;
+   load; freight.
+   [1913 Webster]
+
+         Cargoes of food or clothing.             --E. Everett.
+   [1913 Webster]
+
+   Note: The term cargo, in law, is usually applied to goods
+         only, and not to live animals or persons. --Burill.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cargo</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cargo
+     n : goods carried by a large vehicle [syn: {lading}, {freight},
+         {load}, {loading}, {payload}, {shipment}, {consignment}]
+     [also: {cargoes} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

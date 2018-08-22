@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lincoln</Word>
+  <Definitions>
+    <Definition>
+      <Word>lincoln</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Lincoln, AL (city, FIPS 43120)
+  Location: 33.59801 N, 86.13939 W
+  Population (1990): 2941 (1335 housing units)
+  Area: 47.7 sq km (land), 0.1 sq km (water)
+  Zip code(s): 35096
+Lincoln, AR (city, FIPS 39970)
+  Location: 35.94722 N, 94.42208 W
+  Population (1990): 1460 (677 housing units)
+  Area: 3.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 72744
+Lincoln, CA (city, FIPS 41474)
+  Location: 38.89917 N, 121.31649 W
+  Population (1990): 7248 (2602 housing units)
+  Area: 16.7 sq km (land), 0.1 sq km (water)
+  Zip code(s): 95648
+Lincoln, DE
+  Zip code(s): 19960
+Lincoln, IA (city, FIPS 45255)
+  Location: 42.26323 N, 92.69099 W
+  Population (1990): 173 (89 housing units)
+  Area: 1.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 50652
+Lincoln, IL (city, FIPS 43536)
+  Location: 40.15060 N, 89.36689 W
+  Population (1990): 15418 (6293 housing units)
+  Area: 14.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 62656
+Lincoln, MA
+  Zip code(s): 01773
+Lincoln, ME (CDP, FIPS 39440)
+  Location: 45.36389 N, 68.50063 W
+  Population (1990): 3399 (1454 housing units)
+  Area: 19.5 sq km (land), 2.6 sq km (water)
+  Zip code(s): 04457
+Lincoln, MI (village, FIPS 47560)
+  Location: 44.68521 N, 83.41264 W
+  Population (1990): 337 (229 housing units)
+  Area: 2.0 sq km (land), 0.6 sq km (water)
+  Zip code(s): 48742
+Lincoln, MO (city, FIPS 42608)
+  Location: 38.39410 N, 93.33060 W
+  Population (1990): 874 (405 housing units)
+  Area: 2.4 sq km (land), 0.1 sq km (water)
+  Zip code(s): 65338
+Lincoln, MT
+  Zip code(s): 59639
+Lincoln, ND (city, FIPS 46640)
+  Location: 46.76514 N, 100.70086 W
+  Population (1990): 1132 (346 housing units)
+  Area: 2.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 58504
+Lincoln, NE (city, FIPS 28000)
+  Location: 40.81640 N, 96.68817 W
+  Population (1990): 191972 (79079 housing units)
+  Area: 163.9 sq km (land), 2.0 sq km (water)
+  Zip code(s): 68502, 68503, 68504, 68505, 68506, 68507, 68508, 68510, 68512, 68514, 68516, 68517, 68520, 68521, 68522, 68523, 68524, 68526, 68527, 68528, 68531, 68532
+Lincoln, NH
+  Zip code(s): 03251
+Lincoln, NM
+  Zip code(s): 88338
+Lincoln, OH
+  Zip code(s): 44905
+Lincoln, PA (borough, FIPS 43408)
+  Location: 40.29321 N, 79.85246 W
+  Population (1990): 1187 (459 housing units)
+  Area: 13.0 sq km (land), 0.6 sq km (water)
+Lincoln, RI
+  Zip code(s): 02865
+Lincoln, TX
+  Zip code(s): 78948
+Lincoln, WA
+  Zip code(s): 99147
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lincoln</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Lincoln
+     n 1: 16th President of the United States; saved the Union during
+          the Civil War and emancipated the slaves; was
+          assassinated by Booth (1809-1865) [syn: {Abraham Lincoln},
+           {President Lincoln}, {President Abraham Lincoln}]
+     2: capital of the state of Nebraska; located in southeastern
+        Nebraska; site of the University of Nebraska [syn: {capital
+        of Nebraska}]
+     3: long-wooled mutton sheep originally from Lincolnshire
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

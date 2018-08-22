@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>final</Word>
+  <Definitions>
+    <Definition>
+      <Word>final</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Final \Fi"nal\ (f[imac]"nal), a. [F., fr. L. finalis, fr. finis
+   boundary, limit, end. See {Finish}.]
+   1. Pertaining to the end or conclusion; last; terminating;
+      ultimate; as, the final day of a school term.
+      [1913 Webster]
+
+            Yet despair not of his final pardon.  --Milton.
+      [1913 Webster]
+
+   2. Conclusive; decisive; as, a final judgment; the battle of
+      Waterloo brought the contest to a final issue.
+      [1913 Webster]
+
+   3. Respecting an end or object to be gained; respecting the
+      purpose or ultimate end in view.
+      [1913 Webster]
+
+   {Final cause}. See under {Cause}.
+
+   Syn: {Final}, {Conclusive}, {Ultimate}.
+
+   Usage: Final is now appropriated to that which brings with it
+          an end; as, a final adjustment; the final judgment,
+          etc. Conclusive implies the closing of all discussion,
+          negotiation, etc.; as, a conclusive argument or fact;
+          a conclusive arrangement. In using ultimate, we have
+          always reference to something earlier or proceeding;
+          as when we say, a temporary reverse may lead to an
+          ultimate triumph. The statements which a man finally
+          makes at the close of a negotiation are usually
+          conclusive as to his ultimate intentions and designs.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>final</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>final
+     adj 1: occurring at or forming an end or termination; "his
+            concluding words came as a surprise"; "the final
+            chapter"; "the last days of the dinosaurs"; "terminal
+            leave" [syn: {concluding}, {last}, {terminal}]
+     2: conclusive in a process or progression; "the final answer";
+        "a last resort"; "the net result" [syn: {last}, {net}]
+     3: not to be altered or undone; "the judge's decision is
+        final"; "the arbiter will have the last say" [syn: {last}]
+     n 1: the final match between the winners of all previous matches
+          in an elimination tournament
+     2: an examination administered at the end of an academic term
+        [syn: {final examination}, {final exam}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>surgery</Word>
+  <Definitions>
+    <Definition>
+      <Word>surgery</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Surgery \Sur"ge*ry\, n. [OE. surgenrie, surgerie; cf. OF.
+   cirurgie, F. chirurgie, L. chirurgia, Gr. ?. See {Surgeon}.]
+   1. The art of healing by manual operation; that branch of
+      medical science which treats of manual operations for the
+      healing of diseases or injuries of the body; that branch
+      of medical science which has for its object the cure of
+      local injuries or diseases, as wounds or fractures,
+      tumors, etc., whether by manual operation or by medicines
+      and constitutional treatment.
+      [1913 Webster]
+
+   2. A surgeon's operating room or laboratory.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>surgery</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>surgery
+     n 1: the branch of medical science that treats disease or injury
+          by operative procedures; "he is professor of surgery at
+          the Harvard Medical School"
+     2: a room where a doctor or dentist can be consulted; "he read
+        the warning in the doctor's surgery"
+     3: a room in a hospital equipped for the performance of
+        surgical operations; "great care is taken to keep the
+        operating rooms aseptic" [syn: {operating room}, {OR}, {operating
+        theater}, {operating theatre}]
+     4: a medical procedure involving an incision with instruments;
+        performed to repair damage or arrest disease in a living
+        body; "they will schedule the operation as soon as an
+        operating room is available"; "he died while undergoing
+        surgery" [syn: {operation}, {surgical operation}, {surgical
+        procedure}, {surgical process}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

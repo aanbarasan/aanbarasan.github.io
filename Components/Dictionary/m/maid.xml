@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>maid</Word>
+  <Definitions>
+    <Definition>
+      <Word>maid</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Maid \Maid\, n. [Shortened from maiden. ?. See {Maiden}.]
+   1. An unmarried woman; usually, a young unmarried woman;
+      esp., a girl; a virgin; a maiden.
+      [1913 Webster]
+
+            Would I had died a maid,
+            And never seen thee, never borne thee son. --Shak.
+      [1913 Webster]
+
+            Can a maid forget her ornaments, or a bride her
+            attire? Yet my people have forgotten me. --Jer. ii.
+                                                  32.
+      [1913 Webster]
+
+   2. A man who has not had sexual intercourse. [Obs.]
+      [1913 Webster]
+
+            Christ was a maid and shapen as a man. --Chaucer.
+      [1913 Webster]
+
+   3. A female servant.
+      [1913 Webster]
+
+            Spinning amongst her maids.           --Shak.
+      [1913 Webster]
+
+   Note: Maid is used either adjectively or in composition,
+         signifying female, as in maid child, maidservant.
+         [1913 Webster]
+
+   4. (Zo["o]l.) The female of a ray or skate, esp. of the gray
+      skate ({Raia batis}), and of the thornback ({Raia
+      clavata}). [Prov. Eng.]
+      [1913 Webster]
+
+   {Fair maid}. (Zo["o]l.) See under {Fair}, a.
+
+   {Maid of honor}, a female attendant of a queen or royal
+      princess; -- usually of noble family, and having to
+      perform only nominal or honorary duties.
+
+   {Old maid}. See under {Old}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>maid</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>maid
+     n 1: a female domestic [syn: {maidservant}, {housemaid}, {amah}]
+     2: an unmarried girl (especially a virgin) [syn: {maiden}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

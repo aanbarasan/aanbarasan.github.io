@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hygiene</Word>
+  <Definitions>
+    <Definition>
+      <Word>hygiene</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hygiene \Hy"gi*ene\, n. [F. hygi[`e]ne. See {Hygeia}.]
+   That department of sanitary science which treats of the
+   preservation of health, esp. of households and communities; a
+   system of principles or rules designated for the promotion of
+   health.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hygiene</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Regimen \Reg"i*men\ (r?j"?*m?n), n. [L. regimen, -inis, fr.
+   regere to guide, to rule. See {Right}, and cf. {Regal},
+   {R['e]gime}, {Regiment}.]
+   1. Orderly government; system of order; adminisration.
+      --Hallam.
+      [1913 Webster]
+
+   2. Any regulation or remedy which is intended to produce
+      beneficial effects by gradual operation; esp. (Med.), a
+      systematic course of diet, etc., pursed with a view to
+      improving or preserving the health, or for the purpose of
+      attaining some particular effect, as a reduction of flesh;
+      -- sometimes used synonymously with {hygiene}.
+      [1913 Webster]
+
+   3. (Gram.)
+      (a) A syntactical relation between words, as when one
+          depends on another and is regulated by it in respect
+          to case or mood; government.
+      (b) The word or words governed.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hygiene</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hygiene
+     n 1: a condition promoting sanitary practices; "personal hygiene"
+     2: the science concerned with the prevention of illness and
+        maintenance of health [syn: {hygienics}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

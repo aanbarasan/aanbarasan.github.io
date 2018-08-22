@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>italian</Word>
+  <Definitions>
+    <Definition>
+      <Word>italian</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Italian \I*tal"ian\, a. [Cf. F. italien, It. italiano. Cf.
+   {Italic}.]
+   Of or pertaining to Italy, or to its people or language.
+   [1913 Webster]
+
+   {Italian cloth} a light material of cotton and worsted; --
+      called also {farmer's satin}.
+
+   {Italian iron}, a heater for fluting frills.
+
+   {Italian juice}, Calabrian liquorice.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>italian</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Italian \I*tal"ian\, n.
+   1. A native or inhabitant of Italy.
+      [1913 Webster]
+
+   2. The language used in Italy, or by the Italians.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>italian</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Italian
+     adj : of or pertaining to or characteristic of Italy or its people
+           or culture or language; "Italian cooking"
+     n 1: a native or inhabitant of Italy
+     2: the Romance language spoken in Italy
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>articulated</Word>
+  <Definitions>
+    <Definition>
+      <Word>articulated</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Articulated \Ar*tic"u*la`ted\, a.
+   1. United by, or provided with, articulations; jointed; as,
+      an articulated skeleton.
+      [1913 Webster]
+
+   2. Produced, as a letter, syllable, or word, by the organs of
+      speech; pronounced.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>articulated</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Articulate \Ar*tic"u*late\, v. i. [imp. &amp; p. p. {Articulated};
+   p. pr. &amp; vb. n. {Articulating}].
+   1. To utter articulate sounds; to utter the elementary sounds
+      of a language; to enunciate; to speak distinctly.
+      [1913 Webster]
+
+   2. To treat or make terms. [Obs.] --Shak.
+      [1913 Webster]
+
+   3. To join or be connected by articulation.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>articulated</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>articulated
+     adj 1: consisting of segments held together by joints [syn: {articulate}]
+            [ant: {unarticulated}]
+     2: pronounced distinctly and clearly; "her words were well
+        articulated"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

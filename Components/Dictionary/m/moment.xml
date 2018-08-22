@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>moment</Word>
+  <Definitions>
+    <Definition>
+      <Word>moment</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Moment \Mo"ment\, n. [F. moment, L. momentum, for movimentum
+   movement, motion, moment, fr. movere to move. See {Move}, and
+   cf. {Momentum}, {Movement}.]
+   1. A minute portion of time; a point of time; an instant; as,
+      at that very moment.
+      [1913 Webster]
+
+            In a moment, in the twinkling of an eye. --1 Cor.
+                                                  xv. 52.
+      [1913 Webster]
+
+   2. Impulsive power; force; momentum.
+      [1913 Webster]
+
+            The moments or quantities of motion in bodies.
+                                                  --Berkley.
+      [1913 Webster]
+
+            Touch, with lightest moment of impulse,
+            His free will.                        --Milton.
+      [1913 Webster]
+
+   3. Importance, as in influence or effect; consequence; weight
+      or value; consideration.
+      [1913 Webster]
+
+            Matters of great moment.              --Shak.
+      [1913 Webster]
+
+            It is an abstruse speculation, but also of far less
+            moment and consequence of us than the others.
+                                                  --Bentley.
+      [1913 Webster]
+
+   4. An essential element; a deciding point, fact, or
+      consideration; an essential or influential circumstance.
+      [1913 Webster]
+
+   5. (Math.) An infinitesimal change in a varying quantity; an
+      increment or decrement. [Obs.]
+      [1913 Webster]
+
+   6. (Mech.) Tendency, or measure of tendency, to produce
+      motion, esp. motion about a fixed point or axis.
+      [1913 Webster]
+
+   {Moment of a couple} (Mech.), the product of either of its
+      forces into the perpendicular distance between them.
+
+   {Moment of a force}. (Mech.)
+      (a) With respect to a point, the product of the intensity
+          of the force into the perpendicular distance from the
+          point to the line of direction of the force.
+      (b) With respect to a line, the product of that component
+          of the force which is perpendicular to the plane
+          passing through the line and the point of application
+          of the force, into the shortest distance between the
+          line and this point.
+      (c) With respect to a plane that is parallel to the force,
+          the product of the force into the perpendicular
+          distance of its point of application from the plane.
+          
+
+   {Moment of inertia}, of a rotating body, the sum of the mass
+      of each particle of matter of the body into the square of
+      its distance from the axis of rotation; -- called also
+      {moment of rotation} and {moment of the mass}.
+
+   {Statical moment}, the product of a force into its leverage;
+      the same as {moment of a force} with respect to a point,
+      line, etc.
+
+   {Virtual moment}. See under {Virtual}.
+      [1913 Webster]
+
+   Syn: Instant; twinkling; consequence; weight; force; value;
+        consideration; signification; avail.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>moment</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>moment
+     n 1: a particular point in time; "the moment he arrived the party
+          began" [syn: {minute}, {second}, {instant}]
+     2: an indefinitely short time; "wait just a moment"; "it only
+        takes a minute"; "in just a bit" [syn: {minute}, {second},
+         {bit}]
+     3: at this time; "the disappointments of the here and now";
+        "she is studying at the moment" [syn: {here and now}, {present
+        moment}]
+     4: having important effects or influence; "decisions of great
+        consequence are made by the president himself"; "virtue is
+        of more moment that security" [syn: {consequence}, {import}]
+        [ant: {inconsequence}]
+     5: the moment of a couple is the product of its force and the
+        distance between its opposing forces
+     6: the n-th moment of a distribution is the expected value of
+        the n-th power of the deviations from a fixed value
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

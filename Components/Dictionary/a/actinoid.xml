@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>actinoid</Word>
+  <Definitions>
+    <Definition>
+      <Word>actinoid</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Actinoid \Ac"tin*oid\, a. [Gr. ?, ?, ray + -oid.]
+   Having the form of rays; radiated, as an actinia.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>actinoid</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>actinoid
+     adj : having a radial form; "starfish are actinoid--that is, they
+           are radially symmetrical"
+     n : any of a series of radioactive elements with atomic numbers
+         89 through 103 [syn: {actinide}, {actinon}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

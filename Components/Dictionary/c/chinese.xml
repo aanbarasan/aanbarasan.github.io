@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>chinese</Word>
+  <Definitions>
+    <Definition>
+      <Word>chinese</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Chinese \Chi"nese"\, a.
+   Of or pertaining to China; peculiar to China.
+   [1913 Webster]
+
+   {Chinese paper}. See {India paper}, under {India}.
+
+   {Chinese wax}, a snowy-white, waxlike substance brought from
+      China. It is the bleached secretion of certain insects of
+      the family {Coccid[ae]} especially {Coccus Sinensis}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chinese</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Chinese \Chi*nese"\, n. sing. &amp; pl.
+   1. A native or natives of China, or one of that yellow race
+      with oblique eyelids who live principally in China.
+      [1913 Webster]
+
+   2. sing. The language of China, which is monosyllabic.
+      [1913 Webster]
+
+   Note: Chineses was used as a plural by the contemporaries of
+         Shakespeare and Milton.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chinese</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Chinese
+     adj 1: of or pertaining to China or its peoples or cultures;
+            "Chinese food"
+     2: of or relating to or characteristic of the island republic
+        on Taiwan or its residents or their language; "the
+        Taiwanese capital is Taipeh" [syn: {Taiwanese}, {Formosan}]
+     n 1: any of the Sino-Tibetan languages spoken in China; regarded
+          as dialects of a single language (even though they are
+          mutually unintelligible) because they share an
+          ideographic writing system
+     2: a native or inhabitant of Communist China or of Nationalist
+        China
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

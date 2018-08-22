@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>alzheimer's</Word>
+  <Definitions>
+    <Definition>
+      <Word>alzheimer's</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Alzheimers
+     n : a progressive form of presenile dementia that is similar to
+         senile dementia except that it usually starts in the 40s
+         or 50s; first symptoms are impaired memory which is
+         followed by impaired thought and speech and finally
+         complete helplessness [syn: {Alzheimer's disease}, {Alzheimer's}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>alzheimer's</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Alzheimer's
+     n : a progressive form of presenile dementia that is similar to
+         senile dementia except that it usually starts in the 40s
+         or 50s; first symptoms are impaired memory which is
+         followed by impaired thought and speech and finally
+         complete helplessness [syn: {Alzheimer's disease}, {Alzheimers}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

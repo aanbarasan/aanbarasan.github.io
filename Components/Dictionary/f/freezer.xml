@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>freezer</Word>
+  <Definitions>
+    <Definition>
+      <Word>freezer</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Freezer \Freez"er\, n.
+   One who, or that which, cools or freezes, as a refrigerator,
+   or the tub and can used in the process of freezing ice cream.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>freezer</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>freezer
+     n : electric refrigerator (trade name Deepfreeze) in which food
+         is frozen and stored for long periods of time [syn: {deep-freeze},
+          {Deepfreeze}, {deep freezer}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

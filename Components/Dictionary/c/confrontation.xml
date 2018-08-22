@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>confrontation</Word>
+  <Definitions>
+    <Definition>
+      <Word>confrontation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Confrontation \Con`fron*ta"tion\, n. [LL. confrontatio.]
+   Act of confronting. --H. Swinburne.
+   [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>confrontation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>confrontation
+     n 1: a bold challenge
+     2: discord resulting from a clash of ideas or opinions
+     3: a hostile disagreement face-to-face [syn: {encounter}, {showdown},
+         {face-off}]
+     4: the act of opposing groups confronting each other; "the
+        government was not ready for a confrontation with the
+        unions"; "the invaders encountered stiff opposition" [syn:
+         {opposition}]
+     5: a focussed comparison; bringing together for a careful
+        comparison
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

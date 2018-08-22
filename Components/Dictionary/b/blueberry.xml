@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>blueberry</Word>
+  <Definitions>
+    <Definition>
+      <Word>blueberry</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Blueberry \Blue"berry\, n. [Cf. {Blaeberry}.] (Bot.)
+   The berry of several species of {Vaccinium}, an ericaceous
+   genus, differing from the American huckleberries in
+   containing numerous minute seeds instead of ten nutlets. The
+   commonest species are {Vaccinium Pennsylvanicum} and
+   {Vaccinium vacillans}. {Vaccinium corymbosum} is the tall
+   blueberry.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>blueberry</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>blueberry
+     n 1: any of numerous shrubs of the genus Vaccinium bearing
+          blueberries [syn: {blueberry bush}]
+     2: sweet edible dark-blue berries of either low-growing or
+        high-growing blueberry plants
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

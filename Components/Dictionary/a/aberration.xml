@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>aberration</Word>
+  <Definitions>
+    <Definition>
+      <Word>aberration</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Aberration \Ab`er*ra"tion\, n. [L. aberratio: cf. F. aberration.
+   See {Aberrate}.]
+   1. The act of wandering; deviation, especially from truth or
+      moral rectitude, from the natural state, or from a type.
+      ``The aberration of youth.'' --Hall. ``Aberrations from
+      theory.'' --Burke.
+      [1913 Webster]
+
+   2. A partial alienation of reason. ``Occasional aberrations
+      of intellect.'' --Lingard.
+      [1913 Webster]
+
+            Whims, which at first are the aberrations of a
+            single brain, pass with heat into epidemic form.
+                                                  --I. Taylor.
+      [1913 Webster]
+
+   3. (Astron.) A small periodical change of position in the
+      stars and other heavenly bodies, due to the combined
+      effect of the motion of light and the motion of the
+      observer; called {annual aberration}, when the observer's
+      motion is that of the earth in its orbit, and daily or
+      {diurnal aberration}, when of the earth on its axis;
+      amounting when greatest, in the former case, to 20.4'',
+      and in the latter, to 0.3''. {Planetary aberration} is
+      that due to the motion of light and the motion of the
+      planet relative to the earth.
+      [1913 Webster]
+
+   4. (Opt.) The convergence to different foci, by a lens or
+      mirror, of rays of light emanating from one and the same
+      point, or the deviation of such rays from a single focus;
+      called {spherical aberration}, when due to the spherical
+      form of the lens or mirror, such form giving different
+      foci for central and marginal rays; and {chromatic
+      aberration}, when due to different refrangibilities of the
+      colored rays of the spectrum, those of each color having a
+      distinct focus.
+      [1913 Webster]
+
+   5. (Physiol.) The passage of blood or other fluid into parts
+      not appropriate for it.
+      [1913 Webster]
+
+   6. (Law) The producing of an unintended effect by the
+      glancing of an instrument, as when a shot intended for A
+      glances and strikes B.
+      [1913 Webster]
+
+   Syn: Insanity; lunacy; madness; derangement; alienation;
+        mania; dementia; hallucination; illusion; delusion. See
+        {Insanity}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>aberration</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>aberration
+     n 1: a state or condition markedly different from the norm [syn:
+          {aberrance}, {aberrancy}, {deviance}]
+     2: a disorder in one's mental state
+     3: an optical phenomenon resulting from the failure of a lens
+        or mirror to produce a good image [syn: {distortion}, {optical
+        aberration}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

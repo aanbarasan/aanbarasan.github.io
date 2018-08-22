@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>abut</Word>
+  <Definitions>
+    <Definition>
+      <Word>abut</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Abut \A*but"\, v. i. [imp. &amp; p. p. {Abutted}; p. pr. &amp; vb. n.
+   {Abutting}.] [OF. abouter, aboter; cf. F. aboutir, and also
+   abuter; a (L. ad) + OF. boter, buter, to push: cf. F. bout
+   end, and but end, purpose.]
+   To project; to terminate or border; to be contiguous; to
+   meet; -- with on, upon, or against; as, his land abuts on the
+   road.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>abut</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>abut
+     v : lie adjacent to another or share a boundary; "Canada adjoins
+         the U.S."; "England marches with Scotland" [syn: {border},
+          {adjoin}, {edge}, {march}, {butt}, {butt against}, {butt
+         on}]
+     [also: {abutting}, {abutted}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

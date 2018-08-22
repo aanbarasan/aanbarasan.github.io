@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sweetheart</Word>
+  <Definitions>
+    <Definition>
+      <Word>sweetheart</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sweetheart \Sweet"heart`\, n.
+   A lover of mistress.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sweetheart</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sweetheart
+     adj : privileged treatment of a favored person or corporation
+           (sometimes unethically); "another sweetheart deal based
+           on political influence"
+     n 1: a person loved by another person [syn: {sweetie}, {steady},
+          {truelove}]
+     2: any well-liked individual; "he's a sweetheart"
+     3: a very attractive or seductive looking woman [syn: {smasher},
+         {stunner}, {knockout}, {beauty}, {ravisher}, {peach}, {lulu},
+         {looker}, {mantrap}, {dish}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

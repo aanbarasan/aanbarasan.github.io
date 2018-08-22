@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>apricot</Word>
+  <Definitions>
+    <Definition>
+      <Word>apricot</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Apricot \A"pri*cot\, n. [OE. apricock, abricot, F. abricot, fr.
+   Sp. albaricoque or Pg. albricoque, fr. Ar. albirq[=u]q,
+   al-burq[=u]q. Though the E. and F. form abricot is derived
+   from the Arabic through the Spanish, yet the Arabic word
+   itself was formed from the Gr. praiko`kia, pl. (Diosc. c.
+   100) fr. L. praecoquus, praecox, early ripe. The older E.
+   form apricock was prob. taken direct from Pg. See
+   {Precocious}, {Cook}.] (Bot.)
+   A fruit allied to the plum, of an orange color, oval shape,
+   and delicious taste; also, the tree ({Prunus Armeniaca} of
+   Linn[ae]us) which bears this fruit. By cultivation it has
+   been introduced throughout the temperate zone.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>apricot</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>apricot
+     n 1: Asian tree having clusters of usually white blossoms and
+          edible fruit resembling the peach [syn: {apricot tree}]
+     2: downy yellow to rosy-colored fruit resembling a small peach
+     3: a shade of pink tinged with yellow [syn: {yellowish pink}, {peach},
+         {salmon pink}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

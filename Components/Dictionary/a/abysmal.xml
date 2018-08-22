@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>abysmal</Word>
+  <Definitions>
+    <Definition>
+      <Word>abysmal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Abysmal \A*bys"mal\, a.
+   Pertaining to, or resembling, an abyss; bottomless; unending;
+   profound.
+   [1913 Webster]
+
+         Geology gives one the same abysmal extent of time that
+         astronomy does of space.                 --Carlyle.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>abysmal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>abysmal
+     adj 1: very great; limitless; "abysmal misery"; "abysmal stupidity"
+     2: so deep as to be unmeasurable; "the abyssal depths of the
+        ocean" [syn: {abyssal}, {unfathomable}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

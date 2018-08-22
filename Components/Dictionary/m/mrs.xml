@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mrs</Word>
+  <Definitions>
+    <Definition>
+      <Word>mrs</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>MRS
+     
+        Modifiable Representation System.
+     
+        An integration of {logic programming} into {Lisp}.
+     
+        ["A Modifiable Representation System", M. Genesereth et al,
+        HPP 80-22, CS Dept Stanford U 1980].
+     
+        (1994-11-08)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mrs</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mrs \Mrs.\
+   The customary abbreviation of Mistress or Missess when used
+   as a title of courtesy, in writing and printing; as, Mrs.
+   Clinton is commonly called by her full name, Hillary Rodham
+   Clinton.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mrs</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>MRS
+     Media Recognition System (DAT)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mrs</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Mrs
+     n : a form of address for a married woman
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

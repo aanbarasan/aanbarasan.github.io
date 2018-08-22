@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>belongings</Word>
+  <Definitions>
+    <Definition>
+      <Word>belongings</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>belongings
+     n : something owned; any tangible or intangible possession that
+         is owned by someone; "that hat is my property"; "he is a
+         man of property"; [syn: {property}, {holding}, {material
+         possession}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

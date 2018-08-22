@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>aisle</Word>
+  <Definitions>
+    <Definition>
+      <Word>aisle</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Aisle \Aisle\, n. [OF. ele, F. aile, wing, wing of a building,
+   L. ala, contr. fr. axilla.] (Arch.)
+      (a) A lateral division of a building, separated from the
+          middle part, called the nave, by a row of columns or
+          piers, which support the roof or an upper wall
+          containing windows, called the clearstory wall.
+      (b) Improperly used also for the have; -- as in the
+          phrases, a church with three aisles, the middle aisle.
+      (c) Also (perhaps from confusion with alley), a passage
+          into which the pews of a church open.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>aisle</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>aisle
+     n 1: a long narrow passage (as in a cave or woods)
+     2: passageway between seating areas as in an auditorium or
+        passenger vehicle or between areas of shelves of goods as
+        in stores [syn: {gangway}]
+     3: part of a church divided laterally from the nave proper by
+        rows of pillars or columns
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

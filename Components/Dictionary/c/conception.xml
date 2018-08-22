@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>conception</Word>
+  <Definitions>
+    <Definition>
+      <Word>conception</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Conception, MO
+  Zip code(s): 64433
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>conception</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Conception \Con*cep"tion\, n. [F. conception, L. conceptio, fr.
+   concipere to conceive. See {Conceive}.]
+   1. The act of conceiving in the womb; the initiation of an
+      embryonic animal life.
+      [1913 Webster]
+
+            I will greaty multiply thy sorrow and thy
+            conception.                           --Gen. iii.
+                                                  16.
+      [1913 Webster]
+
+   2. The state of being conceived; beginning.
+      [1913 Webster]
+
+            Joy had the like conception in our eyes. --Shak.
+      [1913 Webster]
+
+   3. The power or faculty of apprehending of forming an idea in
+      the mind; the power of recalling a past sensation or
+      perception.
+      [1913 Webster]
+
+            Under the article of conception, I shall confine
+            myself to that faculty whose province it is to
+            enable us to form a notion of our past sensations,
+            or of the objects of sense that we have formerly
+            perceived.                            --Stewart.
+      [1913 Webster]
+
+   4. The formation in the mind of an image, idea, or notion,
+      apprehension.
+      [1913 Webster]
+
+            Conception consists in a conscious act of the
+            understanding, bringing any given object or
+            impression into the same class with any number of
+            other objects or impression, by means of some
+            character or characters common to them all.
+                                                  --Coleridge.
+      [1913 Webster]
+
+   5. The image, idea, or notion of any action or thing which is
+      formed in the mind; a concept; a notion; a universal; the
+      product of a rational belief or judgment. See {Concept}.
+      [1913 Webster]
+
+            He [Herodotus] says that the sun draws or attracts
+            the water; a metaphorical term obviously intended to
+            denote some more general and abstract conception
+            than that of the visible operation which the word
+            primarily signifies.                  --Whewell.
+      [1913 Webster]
+
+   6. Idea; purpose; design.
+      [1913 Webster]
+
+            Note this dangerous conception.       --Shak.
+      [1913 Webster]
+
+   7. Conceit; affected sentiment or thought. [Obs.]
+      [1913 Webster]
+
+            He . . . is full of conceptions, points of epigram,
+            and witticism.                        --Dryden.
+
+   Syn: Idea; notion; perception; apprehemsion; comprehension.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>conception</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>conception
+     n 1: an abstract or general idea inferred or derived from
+          specific instances [syn: {concept}, {construct}] [ant: {misconception}]
+     2: the act of becoming pregnant; fertilization of an ovum by a
+        spermatozoon
+     3: the event that occurred at the beginning of something; "from
+        its creation the plan was doomed to failure" [syn: {creation}]
+     4: the creation of something in the mind [syn: {invention}, {innovation},
+         {excogitation}, {design}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

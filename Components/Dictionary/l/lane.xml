@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lane</Word>
+  <Definitions>
+    <Definition>
+      <Word>lane</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Lane, KS (city, FIPS 38400)
+  Location: 38.44026 N, 95.08084 W
+  Population (1990): 247 (100 housing units)
+  Area: 0.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 66042
+Lane, OK
+  Zip code(s): 74555
+Lane, SC (town, FIPS 40210)
+  Location: 33.52481 N, 79.88047 W
+  Population (1990): 523 (202 housing units)
+  Area: 7.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 29564
+Lane, SD (town, FIPS 35780)
+  Location: 44.06916 N, 98.42410 W
+  Population (1990): 71 (37 housing units)
+  Area: 1.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 57358
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lane</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lane \Lane\ (l[=a]n), a. [See {Lone}.]
+   Alone. [Scot.]
+   [1913 Webster]
+
+   {His lane}, by himself; himself alone.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lane</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lane \Lane\ (l[=a]n), n. [OE. lane, lone, AS. lone, lone; akin
+   to D. laan, OFries. lana, lona.]
+   A passageway between fences or hedges which is not traveled
+   as a highroad; an alley between buildings; a narrow way among
+   trees, rocks, and other natural obstructions; hence, in a
+   general sense, a narrow passageway; as, a lane between lines
+   of men, or through a field of ice.
+   [1913 Webster]
+
+         It is become a turn-again lane unto them which they can
+         not go through.                          --Tyndale.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lane</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>LANE
+     Local Area Network Emulation [over ATM specification] (ATM)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lane</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>lane
+     n 1: a narrow way or road
+     2: a well-defined track or path; for e.g. swimmers or lines of
+        traffic
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

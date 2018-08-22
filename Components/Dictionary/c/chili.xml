@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>chili</Word>
+  <Definitions>
+    <Definition>
+      <Word>chili</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>CHILI
+     
+        D.L. Abt.  Language for systems programming, based on ALGOL 60
+        with extensions for structure and type declarations.  "CHILI,
+        An Algorithmic Language for Systems Programming", CHI-1014,
+        Chi Corp (Sep 1975).
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chili</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Chili, IN
+  Zip code(s): 46926
+Chili, WI
+  Zip code(s): 54420
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chili</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Chili \Chil"i\, n. [Sp. chili, chile.]
+   A kind of red pepper. See {Capsicum} [Written also {chilli}
+   and {chile}.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chili</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>chili
+     n 1: ground beef and chili peppers or chili powder often with
+          tomatoes and kidney beans [syn: {chili con carne}]
+     2: very hot and finely tapering pepper of special pungency
+        [syn: {chili pepper}, {chilli}, {chilly}, {chile}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

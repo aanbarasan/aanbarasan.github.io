@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>aging</Word>
+  <Definitions>
+    <Definition>
+      <Word>aging</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Aging \Ag"ing\, n.
+   the process by which objects or materials acquire desirable
+   qualities by being left undisturbed for some time under
+   specific conditions. It is used mostly for foods snd
+   beverages, but also for other materials. [Also spelled
+   {ageing}.]
+   [WordNet 1.5 +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>aging</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Age \Age\, v. i. [imp. &amp; p. p. {Aged}; p. pr. &amp; vb. n. {Aging}.]
+   To grow aged; to become old; to show marks of age; as, he
+   grew fat as he aged.
+   [1913 Webster]
+
+         They live one hundred and thirty years, and never age
+         for all that.                            --Holland.
+   [1913 Webster]
+
+         I am aging; that is, I have a whitish, or rather a
+         light-colored, hair here and there.      --Landor.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>aging</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>aging
+     adj : growing old [syn: {ageing}, {senescent}]
+     n 1: the organic process of growing older and showing the effects
+          of increasing age [syn: {ageing}, {senescence}]
+     2: acquiring desirable qualities by being left undisturbed for
+        some time [syn: {ripening}, {ageing}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

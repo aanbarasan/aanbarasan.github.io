@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>length</Word>
+  <Definitions>
+    <Definition>
+      <Word>length</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Length \Length\ (l[e^]ngth), n. [OE. lengthe, AS. leng[eth], fr.
+   lang, long, long; akin to D. lengte, Dan. l[ae]ngde, Sw.
+   l["a]ngd, Icel. lengd. See {Long}, a. ]
+   1. The longest, or longer, dimension of any object, in
+      distinction from {breadth} or {width}; extent of anything
+      from end to end; the longest line which can be drawn
+      through a body, parallel to its sides; as, the length of a
+      church, or of a ship; the length of a rope or line.
+      [1913 Webster]
+
+   2. A portion of space or of time considered as measured by
+      its length; -- often in the plural.
+      [1913 Webster]
+
+            Large lengths of seas and shores.     --Shak.
+      [1913 Webster]
+
+            The future but a length behind the past. --Dryden.
+      [1913 Webster]
+
+   3. The quality or state of being long, in space or time;
+      extent; duration; as, some sea birds are remarkable for
+      the length of their wings; he was tired by the length of
+      the sermon, and the length of his walk.
+      [1913 Webster]
+
+   4. A single piece or subdivision of a series, or of a number
+      of long pieces which may be connected together; as, a
+      length of pipe; a length of fence.
+      [1913 Webster]
+
+   5. Detail or amplification; unfolding; continuance as, to
+      pursue a subject to a great length.
+      [1913 Webster]
+
+            May Heaven, great monarch, still augment your bliss
+            With length of days, and every day like this.
+                                                  --Dryden.
+      [1913 Webster]
+
+   6. Distance. [Obs.]
+      [1913 Webster]
+
+            He had marched to the length of Exeter. --Clarendon.
+      [1913 Webster]
+
+   {At length}.
+      (a) At or in the full extent; without abbreviation; as,
+          let the name be inserted at length.
+      (b) At the end or conclusion; after a long period. See
+          Syn. of At last, under {Last}.
+
+   {At arm's length}. See under {Arm}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>length</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Length \Length\, v. t.
+   To lengthen. [Obs.] --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>length</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>length
+     n 1: the linear extent in space from one end to the other; the
+          longest horizontal dimension of something that is fixed
+          in place; "the length of the table was 5 feet"
+     2: continuance in time; "the ceremony was of short duration";
+        "he complained about the length of time required" [syn: {duration}]
+     3: the property of being the extent of something from beginning
+        to end; "the editor limited the length of my article to
+        500 words"
+     4: size of the gap between two places; "the distance from New
+        York to Chicago"; "he determined the length of the
+        shortest line segment joining the two points" [syn: {distance}]
+     5: a section of something that is long and narrow; "a length of
+        timber"; "a length of tubing"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

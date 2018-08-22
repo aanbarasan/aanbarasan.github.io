@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>melted</Word>
+  <Definitions>
+    <Definition>
+      <Word>melted</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Melt \Melt\, v. t. [imp. &amp; p. p. {Melted} (obs.) p. p. {Molten};
+   p. pr. &amp; vb. n. {Melting}.] [AS. meltan; akin to Gr.
+   me`ldein, E. malt, and prob. to E. smelt, v. [root]108. Cf.
+   {Smelt}, v., {Malt}, {Milt} the spleen.]
+   1. To reduce from a solid to a liquid state, as by heat; to
+      liquefy; as, to melt wax, tallow, or lead; to melt ice or
+      snow.
+      [1913 Webster]
+
+   2. Hence: To soften, as by a warming or kindly influence; to
+      relax; to render gentle or susceptible to mild influences;
+      sometimes, in a bad sense, to take away the firmness of;
+      to weaken.
+      [1913 Webster]
+
+            Thou would'st have . . . melted down thy youth.
+                                                  --Shak.
+      [1913 Webster]
+
+            For pity melts the mind to love.      --Dryden.
+      [1913 Webster]
+
+   Syn: To liquefy; fuse; thaw; mollify; soften.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>melted</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>melted
+     adj : changed from a solid to a liquid state; "rivers filled to
+           overflowing by melted snow" [syn: {liquid}, {liquified}]
+           [ant: {unmelted}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

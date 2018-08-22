@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>butterscotch</Word>
+  <Definitions>
+    <Definition>
+      <Word>butterscotch</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Butter-scotch \But"ter-scotch`\, n.
+   A kind of candy, mainly composed of sugar and butter.
+   [Colloq.] --Dickens.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>butterscotch</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>butterscotch
+     n : a hard brittle candy made with butter and brown sugar
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

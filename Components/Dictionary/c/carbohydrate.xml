@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>carbohydrate</Word>
+  <Definitions>
+    <Definition>
+      <Word>carbohydrate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Carbohydrate \Car`bo*hy"drate\, n. [Carbon + hydrate.] (Physiol.
+   Chem.)
+   One of a group of compounds including the sugars, starches,
+   and gums, which contain six (or some multiple of six) carbon
+   atoms, united with a variable number of hydrogen and oxygen
+   atoms, but with the two latter always in proportion as to
+   form water; as dextrose, {C6H12O6}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>carbohydrate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>carbohydrate
+     n : an essential structural component of living cells and source
+         of energy for animals; includes simple sugars with small
+         molecules as well as macromolecular substances; are
+         classified according to the number of monosaccharide
+         groups they contain [syn: {saccharide}, {sugar}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

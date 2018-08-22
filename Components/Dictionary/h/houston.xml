@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>houston</Word>
+  <Definitions>
+    <Definition>
+      <Word>houston</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Houston, AK (city, FIPS 33800)
+  Location: 61.62414 N, 149.78106 W
+  Population (1990): 697 (484 housing units)
+  Area: 61.5 sq km (land), 2.9 sq km (water)
+Houston, AL
+  Zip code(s): 35572
+Houston, AR (town, FIPS 33490)
+  Location: 35.03491 N, 92.69412 W
+  Population (1990): 149 (78 housing units)
+  Area: 2.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 72070
+Houston, DE (town, FIPS 36760)
+  Location: 38.91681 N, 75.50450 W
+  Population (1990): 487 (189 housing units)
+  Area: 1.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 19954
+Houston, MN (city, FIPS 30230)
+  Location: 43.76069 N, 91.57231 W
+  Population (1990): 1013 (443 housing units)
+  Area: 2.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 55943
+Houston, MO (city, FIPS 33238)
+  Location: 37.32265 N, 91.95964 W
+  Population (1990): 2118 (1040 housing units)
+  Area: 8.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 65483
+Houston, MS (city, FIPS 33900)
+  Location: 33.89617 N, 89.00159 W
+  Population (1990): 3903 (1623 housing units)
+  Area: 18.1 sq km (land), 0.1 sq km (water)
+  Zip code(s): 38851
+Houston, OH
+  Zip code(s): 45333
+Houston, PA (borough, FIPS 35896)
+  Location: 40.24999 N, 80.21182 W
+  Population (1990): 1445 (679 housing units)
+  Area: 1.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 15342
+Houston, TX (city, FIPS 35000)
+  Location: 29.76870 N, 95.38673 W
+  Population (1990): 1630553 (726435 housing units)
+  Area: 1398.3 sq km (land), 56.8 sq km (water)
+  Zip code(s): 77002, 77003, 77004, 77005, 77006, 77007, 77008, 77009, 77010, 77011, 77012, 77013, 77014, 77015, 77016, 77017, 77018, 77019, 77020, 77021, 77022, 77023, 77024, 77025, 77026, 77027, 77028, 77031, 77032, 77033, 77034, 77035, 77036, 77037, 77038, 77039, 77041, 77042, 77043, 77044, 77045, 77046, 77047, 77048, 77049, 77050, 77051, 77053, 77054, 77055, 77056, 77057, 77058, 77059, 77060, 77061, 77062, 77063, 77064, 77065, 77066, 77067, 77068, 77069, 77070, 77071, 77072, 77073, 77074, 77075, 77076, 77077, 77078, 77079, 77080, 77081, 77082, 77083, 77084, 77085, 77086, 77087, 77088, 77089, 77090, 77091, 77092, 77093, 77094, 77095, 77096, 77098, 77099
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>houston</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Houston
+     n 1: the largest city in Texas; located in southeastern Texas
+          near the Gulf of Mexico; site of the National
+          Aeronautics and Space Administration
+     2: United States politician and military leader who fought to
+        gain independence for Texas from Mexico and to make it a
+        part of the United States (1793-1863) [syn: {Sam Houston},
+         {Samuel Houston}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

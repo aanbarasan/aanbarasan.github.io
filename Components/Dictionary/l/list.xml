@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>list</Word>
+  <Definitions>
+    <Definition>
+      <Word>list</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>list
+     
+        &lt;data&gt; A data structure holding many values, possibly of
+        different types, which is usually accessed sequentially,
+        working from the head to the end of the tail - an "ordered
+        list".  This contrasts with a (one-dimensional) {array}, any
+        element of which can be accessed equally quickly.
+     
+        Lists are often stored using a cell and pointer arrangement
+        where each value is stored in a cell along with an associated
+        pointer to the next cell.  A special pointer, e.g. zero, marks
+        the end of the list.  This is known as a (singlely) "linked
+        list".  A doublely linked list has pointers from each cell to
+        both next and previous cells.
+     
+        An unordered list is a {set}.
+     
+        (1998-11-12)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>list</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>List \List\, v. i. [OE. listen, lusten, AS. lystan, from lust
+   pleasure. See {Lust}.]
+   1. To desire or choose; to please.
+      [1913 Webster]
+
+            The wind bloweth where it listeth.    --John iii. 8.
+      [1913 Webster]
+
+            Them that add to the Word of God what them listeth.
+                                                  --Hooker.
+      [1913 Webster]
+
+            Let other men think of your devices as they list.
+                                                  --Whitgift.
+      [1913 Webster]
+
+   2. (Naut.) To lean; to incline; as, the ship lists to port.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>list</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>List \List\, n.
+   1. Inclination; desire. [Obs.] --Chaucer.
+      [1913 Webster]
+
+   2. (Naut.) An inclination to one side; as, the ship has a
+      list to starboard.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>list</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>List \List\ (l[i^]st), n. [F. lice, LL. liciae, pl., from L.
+   licium thread, girdle.]
+   A line inclosing or forming the extremity of a piece of
+   ground, or field of combat; hence, in the plural (lists), the
+   ground or field inclosed for a race or combat. --Chaucer.
+   [1913 Webster]
+
+         In measured lists to toss the weighty lance. --Pope.
+   [1913 Webster]
+
+   {To enter the lists}, to accept a challenge, or engage in
+      contest.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>list</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>List \List\, n. [AS. l[=i]st a list of cloth; akin to D. lijst,
+   G. leiste, OHG. l[=i]sta, Icel. lista, listi, Sw. list, Dan.
+   liste. In sense 5 from F. liste, of German origin, and thus
+   ultimately the same word.]
+   1. A strip forming the woven border or selvedge of cloth,
+      particularly of broadcloth, and serving to strengthen it;
+      hence, a strip of cloth; a fillet. ``Gartered with a red
+      and blue list.'' --Shak.
+      [1913 Webster]
+
+   2. A limit or boundary; a border.
+      [1913 Webster]
+
+            The very list, the very utmost bound,
+            Of all our fortunes.                  --Shak.
+      [1913 Webster]
+
+   3. The lobe of the ear; the ear itself. [Obs.] --Chaucer.
+      [1913 Webster]
+
+   4. A stripe. [Obs.] --Sir T. Browne.
+      [1913 Webster]
+
+   5. A roll or catalogue, that is, row or line; a record of
+      names; as, a list of names, books, articles; a list of
+      ratable estate.
+      [1913 Webster]
+
+            He was the ablest emperor of all the list. --Bacon.
+      [1913 Webster]
+
+   6. (Arch.) A little square molding; a fillet; -- called also
+      {listel}.
+      [1913 Webster]
+
+   7. (Carp.) A narrow strip of wood, esp. sapwood, cut from the
+      edge of a plank or board.
+      [1913 Webster]
+
+   8. (Rope Making) A piece of woolen cloth with which the yarns
+      are grasped by a workman.
+      [1913 Webster]
+
+   9. (Tin-plate Manuf.)
+      (a) The first thin coat of tin.
+      (b) A wirelike rim of tin left on an edge of the plate
+          after it is coated.
+          [1913 Webster]
+
+   {Civil list} (Great Britain &amp; U.S.), the civil officers of
+      government, as judges, ambassadors, secretaries, etc.
+      Hence, the revenues or appropriations of public money for
+      the support of the civil officers. More recently, the
+      civil list, in England, embraces only the expenses of the
+      reigning monarch's household.
+
+   {Free list}.
+      (a) A list of articles admitted to a country free of duty.
+      (b) A list of persons admitted to any entertainment, as a
+          theater or opera, without payment, or to whom a
+          periodical, or the like, is furnished without cost.
+
+   Syn: Roll; catalogue; register; inventory; schedule.
+
+   Usage: {List}, {Roll}, {Catalogue}, {Register}, {Inventory},
+          {Schedule}. A list is properly a simple series of
+          names, etc., in a brief form, such as might naturally
+          be entered in a narrow strip of paper. A roll was
+          originally a list containing the names of persons
+          belonging to a public body (as Parliament, etc.),
+          which was rolled up and laid aside among its archives.
+          A catalogue is a list of persons or things arranged in
+          order, and usually containing some description of the
+          same, more or less extended. A register is designed
+          for record or preservation. An inventory is a list of
+          articles, found on hand in a store of goods, or in the
+          estate of a deceased person, or under similar
+          circumstances. A schedule is a formal list or
+          inventory prepared for legal or business purposes.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>list</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>List \List\, v. t.
+   To inclose for combat; as, to list a field.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>list</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>List \List\, v. i. [See {Listen}.]
+   To hearken; to attend; to listen. [Obs. except in poetry.]
+   [1913 Webster]
+
+         Stand close, and list to him.            --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>list</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>List \List\, v. t.
+   To listen or hearken to.
+   [1913 Webster]
+
+         Then weigh what loss your honor may sustain,
+         If with too credent ear you list his songs. --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>list</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>List \List\, v. i.
+   To engage in public service by enrolling one's name; to
+   enlist.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>list</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>List \List\ (l[i^]st), v. t.
+   1. To plow and plant with a lister.
+      [Webster 1913 Suppl.]
+
+   2. In cotton culture, to prepare, as land, for the crop by
+      making alternating beds and alleys with the hoe. [Southern
+      U. S.]
+      [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>list</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>List \List\ (l[i^]st), v. t. [imp. &amp; p. p. {Listed}; p. pr. &amp;
+   vb. n. {Listing}.] [From list a roll.]
+   1. To sew together, as strips of cloth, so as to make a show
+      of colors, or form a border. --Sir H. Wotton.
+      [1913 Webster]
+
+   2. To cover with list, or with strips of cloth; to put list
+      on; as, to list a door; to stripe as if with list.
+      [1913 Webster]
+
+            The tree that stood white-listed through the gloom.
+                                                  --Tennyson.
+      [1913 Webster]
+
+   3. To enroll; to place or register in a list.
+      [1913 Webster]
+
+            Listed among the upper serving men.   --Milton.
+      [1913 Webster]
+
+   4. To engage, as a soldier; to enlist.
+      [1913 Webster]
+
+            I will list you for my soldier.       --Sir W.
+                                                  Scott.
+      [1913 Webster]
+
+   5. (Carp.) To cut away a narrow strip, as of sapwood, from
+      the edge of; as, to list a board.
+      [1913 Webster]
+
+   {To list a stock} (Stock Exchange), to put it in the list of
+      stocks called at the meeting of the board.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>list</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>list
+     n 1: a database containing an ordered array of items (names or
+          topics) [syn: {listing}]
+     2: the property possessed by a line or surface that departs
+        from the vertical; "the tower had a pronounced tilt"; "the
+        ship developed a list to starboard"; "he walked with a
+        heavy inclination to the right" [syn: {tilt}, {inclination},
+         {lean}, {leaning}]
+     v 1: give or make a list of; name individually; give the names
+          of; "List the states west of the Mississippi" [syn: {name}]
+     2: include in a list; "Am I listed in your register?"
+     3: enumerate; "We must number the names of the great
+        mathematicians" [syn: {number}]
+     4: cause to lean to the side; "Erosion listed the old tree"
+        [syn: {lean}]
+     5: tilt to one side; "The balloon heeled over"; "the wind made
+        the vessel heel"; "The ship listed to starboard" [syn: {heel}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

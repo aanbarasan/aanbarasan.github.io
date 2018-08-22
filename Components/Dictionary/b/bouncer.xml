@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bouncer</Word>
+  <Definitions>
+    <Definition>
+      <Word>bouncer</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bouncer \Boun"cer\, n.
+   1. One who bounces; a large, heavy person who makes much
+      noise in moving.
+      [1913 Webster]
+
+   2. A boaster; a bully. [Collog.] --Johnson.
+      [1913 Webster]
+
+   3. A bold lie; also, a liar. [Collog.] --Marryat.
+      [1913 Webster]
+
+   4. Something big; a good stout example of the kind.
+      [1913 Webster]
+
+            The stone must be a bouncer.          --De Quincey.
+      [1913 Webster]
+
+   5. a person employed by a tavern, nightclub, or other place
+      of public meeting, to eject persons who become violent or
+      unruly.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bouncer</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bouncer
+     n : a person whose duty is to throw troublemakers out of a bar
+         or public meeting [syn: {chucker-out}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

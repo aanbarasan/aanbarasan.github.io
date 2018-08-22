@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>geneva</Word>
+  <Definitions>
+    <Definition>
+      <Word>geneva</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Geneva, AL (city, FIPS 29464)
+  Location: 31.03664 N, 85.87678 W
+  Population (1990): 4681 (2093 housing units)
+  Area: 36.1 sq km (land), 0.5 sq km (water)
+  Zip code(s): 36340
+Geneva, FL
+  Zip code(s): 32732
+Geneva, GA (town, FIPS 32412)
+  Location: 32.57960 N, 84.55220 W
+  Population (1990): 182 (77 housing units)
+  Area: 2.0 sq km (land), 0.0 sq km (water)
+Geneva, IA (city, FIPS 30135)
+  Location: 42.67594 N, 93.12999 W
+  Population (1990): 169 (81 housing units)
+  Area: 1.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 50633
+Geneva, ID
+  Zip code(s): 83238
+Geneva, IL (city, FIPS 28872)
+  Location: 41.88233 N, 88.31449 W
+  Population (1990): 12617 (4802 housing units)
+  Area: 17.0 sq km (land), 0.5 sq km (water)
+  Zip code(s): 60134
+Geneva, IN (town, FIPS 27216)
+  Location: 40.59719 N, 84.95713 W
+  Population (1990): 1280 (559 housing units)
+  Area: 2.6 sq km (land), 0.3 sq km (water)
+  Zip code(s): 46740
+Geneva, MN (city, FIPS 23354)
+  Location: 43.82392 N, 93.26827 W
+  Population (1990): 444 (178 housing units)
+  Area: 1.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 56035
+Geneva, NE (city, FIPS 18405)
+  Location: 40.52763 N, 97.60155 W
+  Population (1990): 2310 (1049 housing units)
+  Area: 3.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 68361
+Geneva, NY (city, FIPS 28640)
+  Location: 42.86529 N, 76.98347 W
+  Population (1990): 14143 (5654 housing units)
+  Area: 11.0 sq km (land), 4.1 sq km (water)
+  Zip code(s): 14456
+Geneva, OH (city, FIPS 29610)
+  Location: 41.79981 N, 80.94847 W
+  Population (1990): 6597 (2487 housing units)
+  Area: 9.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 44041
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>geneva</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Geneva \Ge*ne"va\, n. [F. geni[`e]vre juniper, juniper berry,
+   gin, OF. geneivre juniper, fr. L. juniperus the juniper tree:
+   cf. D. jenever, fr. F. geni[`e]vre. See {Juniper}, and cf.
+   {Gin} a liquor.]
+   A strongly alcoholic liquor, flavored with juniper berries;
+   -- made in Holland; Holland gin; Hollands.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>geneva</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Geneva \Ge*ne"va\, prop. n.
+   The chief city of Switzerland.
+   [1913 Webster]
+
+   {Geneva Bible}, a translation of the Bible into English, made
+      and published by English refugees in Geneva (Geneva, 1560;
+      London, 1576). It was the first English Bible printed in
+      Roman type instead of the ancient black letter, the first
+      which recognized the division into verses, and the first
+      which omitted the Apocrypha. In form it was a small
+      quarto, and soon superseded the large folio of Cranmer's
+      translation. Called also {Genevan Bible}.
+
+   {Geneva convention} (Mil.), an agreement made by
+      representatives of the great continental powers at Geneva
+      and signed in 1864, establishing new and more humane
+      regulation regarding the treatment of the sick and wounded
+      and the status of those who minister to them in war.
+      Ambulances and military hospitals are made neutral, and
+      this condition affects physicians, chaplains, nurses, and
+      the ambulance corps. Great Britain signed the convention
+      in 1865.
+
+   {Geneva cross} (Mil.), a red Greek cross on a white ground;
+      -- the flag and badge adopted in the Geneva convention.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>geneva</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Geneva
+     n 1: a city in southwestern Switzerland at the western end of
+          Lake Geneva; it is the headquarters of various
+          international organizations [syn: {Geneve}, {Genf}]
+     2: made in the Netherlands [syn: {Holland gin}, {Hollands}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

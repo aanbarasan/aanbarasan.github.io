@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>superior</Word>
+  <Definitions>
+    <Definition>
+      <Word>superior</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Superior, AZ (town, FIPS 71300)
+  Location: 33.28585 N, 111.10948 W
+  Population (1990): 3468 (1730 housing units)
+  Area: 4.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 85273
+Superior, CO (town, FIPS 75640)
+  Location: 39.92920 N, 105.15493 W
+  Population (1990): 255 (113 housing units)
+  Area: 9.3 sq km (land), 0.1 sq km (water)
+Superior, IA (city, FIPS 76440)
+  Location: 43.43267 N, 94.94708 W
+  Population (1990): 128 (62 housing units)
+  Area: 1.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 51363
+Superior, MT (town, FIPS 72625)
+  Location: 47.19436 N, 114.89423 W
+  Population (1990): 881 (386 housing units)
+  Area: 2.8 sq km (land), 0.3 sq km (water)
+  Zip code(s): 59872
+Superior, NE (city, FIPS 47815)
+  Location: 40.02239 N, 98.06775 W
+  Population (1990): 2397 (1190 housing units)
+  Area: 3.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 68978
+Superior, WI (city, FIPS 78650)
+  Location: 46.69687 N, 92.05960 W
+  Population (1990): 27134 (11684 housing units)
+  Area: 95.7 sq km (land), 47.9 sq km (water)
+Superior, WI (village, FIPS 78660)
+  Location: 46.65366 N, 92.10550 W
+  Population (1990): 481 (195 housing units)
+  Area: 3.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 54880
+Superior, WY (town, FIPS 74775)
+  Location: 41.76064 N, 108.96358 W
+  Population (1990): 273 (164 housing units)
+  Area: 2.8 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>superior</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Superior \Su*pe"ri*or\, a. [L., compar. of superus being above,
+   fr. super above, over: cf. F. sup['e]rieur. See {Super-}, and
+   cf. {Supreme}.]
+   1. More elevated in place or position; higher; upper; as, the
+      superior limb of the sun; the superior part of an image.
+      [1913 Webster]
+
+   2. Higher in rank or office; more exalted in dignity; as, a
+      superior officer; a superior degree of nobility.
+      [1913 Webster]
+
+   3. Higher or greater in excellence; surpassing others in the
+      greatness, or value of any quality; greater in quality or
+      degree; as, a man of superior merit; or of superior
+      bravery.
+      [1913 Webster]
+
+   4. Beyond the power or influence of; too great or firm to be
+      subdued or affected by; -- with to.
+      [1913 Webster]
+
+            There is not in earth a spectacle more worthy than a
+            great man superior to his sufferings. --Spectator.
+      [1913 Webster]
+
+   5. More comprehensive; as a term in classification; as, a
+      genus is superior to a species.
+      [1913 Webster]
+
+   6. (Bot.)
+      (a) Above the ovary; -- said of parts of the flower which,
+          although normally below the ovary, adhere to it, and
+          so appear to originate from its upper part; also of an
+          ovary when the other floral organs are plainly below
+          it in position, and free from it.
+      (b) Belonging to the part of an axillary flower which is
+          toward the main stem; posterior.
+      (c) Pointing toward the apex of the fruit; ascending; --
+          said of the radicle.
+          [1913 Webster]
+
+   {Superior conjunction}, {Superior planets}, etc. See
+      {Conjunction}, {Planet}, etc.
+
+   {Superior figure}, {Superior letter} (Print.), a figure or
+      letter printed above the line, as a reference to a note or
+      an index of a power, etc; as, in x^{2} + y^{n}, 2 is a
+      superior figure, n a superior letter. Cf. {Inferior
+      figure}, under {Inferior}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>superior</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Superior \Su*pe"ri*or\, n.
+   1. One who is above, or surpasses, another in rank, station,
+      office, age, ability, or merit; one who surpasses in what
+      is desirable; as, Addison has no superior as a writer of
+      pure English.
+      [1913 Webster]
+
+   2. (Eccl.) The head of a monastery, convent, abbey, or the
+      like.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>superior</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>superior
+     adj 1: of high or superior quality or performance; "superior wisdom
+            derived from experience"; "superior math students"
+            [ant: {inferior}]
+     2: of or characteristic of high rank or importance; "a superior
+        officer" [ant: {inferior}]
+     3: (sometimes followed by `to') not subject to or influenced
+        by; "overcome by a superior opponent"; "trust magnates who
+        felt themselves superior to law"
+     4: written or printed above and to one side of another
+        character [syn: {superscript}] [ant: {subscript}, {adscript}]
+     5: having an orbit farther from the sun than the Earth's orbit;
+        "Mars and Jupiter are the closest in of the superior
+        planets" [ant: {inferior}]
+     6: having a higher rank; "superior officer" [syn: {ranking(a)},
+         {higher-ranking}]
+     7: (often followed by `to') above being affected or influenced
+        by; "he is superior to fear"; "an ignited firework
+        proceeds superior to circumstances until its blazing
+        vitality fades" [syn: {superior(p)}]
+     n 1: one of greater rank or station or quality [syn: {higher-up},
+           {superordinate}] [ant: {inferior}]
+     2: the head of a religious community
+     3: a combatant who is able to defeat rivals [syn: {victor}, {master}]
+     4: the largest freshwater lake in the world; the deepest of the
+        Great Lakes [syn: {Lake Superior}]
+     5: a town in northwest Wisconsin on Lake Superior across from
+        Duluth
+     6: a character or symbol set or printed or written above and
+        immediately to one side of another character [syn: {superscript}]
+        [ant: {subscript}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>compulsive</Word>
+  <Definitions>
+    <Definition>
+      <Word>compulsive</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Compulsive \Com*pul"sive\, a.
+   Having power to compel; exercising or applying compulsion.
+   [1913 Webster]
+
+         Religion is . . . inconsistent with all compulsive
+         motives.                                 --Sharp.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>compulsive</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>compulsive
+     adj 1: caused by or suggestive of psychological compulsion;
+            "compulsive drinking"
+     2: strongly motivated to succeed [syn: {determined}, {driven}]
+     n : a person with a compulsive disposition; someone who feels
+         compelled to do certain things
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

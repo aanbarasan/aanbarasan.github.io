@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>booze</Word>
+  <Definitions>
+    <Definition>
+      <Word>booze</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Booze \Booze\ (b[=oo]z), v. i. [imp. &amp; p. p. {Boozed}
+   (b[=oo]zd); p. pr. &amp; vb. n. {Boozing}.] [D. buizen; akin to
+   G. bausen, and perh. fr. D. buis tube, channel, bus box,
+   jar.]
+   To drink greedily or immoderately, esp. alcoholic liquor; to
+   tipple. [Written also {bouse}, and {boose}.] --Landor.
+   [1913 Webster]
+
+         This is better than boozing in public houses. --H. R.
+                                                  Haweis.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>booze</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Booze \Booze\, n.
+   1. A carouse; a drinking. --Sir W. Scott.
+      [1913 Webster]
+
+   2. any alcoholic beverage, especially a strong beverage such
+      as whiskey.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>booze</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>booze
+     n : distilled rather than fermented [syn: {liquor}, {spirits}, {hard
+         drink}, {hard liquor}, {John Barleycorn}, {strong drink}]
+     v : consume alcohol; "We were up drinking all night" [syn: {drink},
+          {fuddle}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

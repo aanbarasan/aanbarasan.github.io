@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>emotionally</Word>
+  <Definitions>
+    <Definition>
+      <Word>emotionally</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>emotionally
+     adv 1: in an emotional manner; "at the funeral he spoke
+            emotionally" [syn: {showing emotion}] [ant: {unemotionally}]
+     2: with regard to emotions; "emotionally secure"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

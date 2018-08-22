@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cautiously</Word>
+  <Definitions>
+    <Definition>
+      <Word>cautiously</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cautiously \Cau"tious*ly\, adv.
+   In a cautious manner.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cautiously</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cautiously
+     adv 1: with caution or prudence or tact; "she ventured cautiously
+            downstairs"; "they handled the incident with kid
+            gloves" [syn: {carefully}, {with kid gloves}] [ant: {incautiously},
+             {incautiously}]
+     2: in a conservative manner; "we estimated the number of
+        demonstrators conservatively at 200,000." [syn: {conservatively},
+         {guardedly}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

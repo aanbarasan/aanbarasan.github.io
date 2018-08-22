@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>potty</Word>
+  <Definitions>
+    <Definition>
+      <Word>potty</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>potty
+     adj 1: (British informal) trivial; "potty little details"
+     2: very drunk [syn: {besotted}, {blind drunk}, {blotto}, {crocked},
+         {cockeyed}, {fuddled}, {loaded}, {pie-eyed}, {pissed}, {pixilated},
+         {plastered}, {slopped}, {sloshed}, {smashed}, {soaked}, {soused},
+         {sozzled}, {squiffy}, {stiff}, {tiddly}, {tiddley}, {tight},
+         {tipsy}, {wet}]
+     3: stupid and confused; used especially of persons; "blathering
+        like the addlepated nincompoop that you are"; "a confused
+        puddingheaded, muddleheaded fellow"- Isaac Sterne [syn: {addlebrained},
+         {addlepated}, {puddingheaded}, {muddleheaded}]
+     n 1: a plumbing fixture for defecation and urination [syn: {toilet},
+           {can}, {commode}, {crapper}, {pot}, {stool}, {throne}]
+     2: a receptacle for urination or defecation in the bedroom
+        [syn: {chamberpot}, {thunder mug}]
+     [also: {pottiest}, {pottier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>groundbreaking</Word>
+  <Definitions>
+    <Definition>
+      <Word>groundbreaking</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>groundbreaking \ground"break`ing\ n.
+   The ceremonial breaking of the ground to formally begin a
+   construction project. It is sometimes carried out by an
+   official who digs the first spadeful of dirt from the ground,
+   to begin the preparatory excavation work.
+
+   Syn: groundbreaking ceremony.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>groundbreaking</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>groundbreaking
+     adj : being or producing something like nothing done or
+           experienced or created before; "stylistically
+           innovative works"; "innovative members of the artistic
+           community"; "a mind so innovational, so original" [syn:
+            {innovative}, {innovational}]
+     n : the ceremonial breaking of the ground to formally begin a
+         construction project [syn: {groundbreaking ceremony}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

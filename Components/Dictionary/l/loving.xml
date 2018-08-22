@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>loving</Word>
+  <Definitions>
+    <Definition>
+      <Word>loving</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Loving, NM (village, FIPS 44420)
+  Location: 32.28649 N, 104.09595 W
+  Population (1990): 1243 (479 housing units)
+  Area: 2.9 sq km (land), 0.0 sq km (water)
+  Zip code(s): 88256
+Loving, TX
+  Zip code(s): 76460
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>loving</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Love \Love\ (l[u^]v), v. t. [imp. &amp; p. p. {Loved} (l[u^]vd); p.
+   pr. &amp; vb. n. {Loving}.] [AS. lufian. [root]124. See {Love},
+   n.]
+   1. To have a feeling of love for; to regard with affection or
+      good will; as, to love one's children and friends; to love
+      one's country; to love one's God.
+      [1913 Webster]
+
+            Thou shalt love the Lord thy God with all thy heart,
+            and with all thy soul, and with all thy mind.
+                                                  --Matt. xxii.
+                                                  37.
+      [1913 Webster]
+
+            Thou shalt love thy neighbor as thy self. --Matt.
+                                                  xxii. 39.
+      [1913 Webster]
+
+   2. To regard with passionate and devoted affection, as that
+      of one sex for the other.
+      [1913 Webster]
+
+   3. To take delight or pleasure in; to have a strong liking or
+      desire for, or interest in; to be pleased with; to like;
+      as, to love books; to love adventures.
+      [1913 Webster]
+
+            Wit, eloquence, and poetry.
+            Arts which I loved.                   --Cowley.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>loving</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Loving \Lov"ing\, a.
+   1. Affectionate.
+      [1913 Webster]
+
+            The fairest and most loving wife in Greece.
+                                                  --Tennyson.
+      [1913 Webster]
+
+   2. Expressing love or kindness; as, loving words.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>loving</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>loving
+     adj : feeling or showing love and affection; "loving parents";
+           "loving glances" [ant: {unloving}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

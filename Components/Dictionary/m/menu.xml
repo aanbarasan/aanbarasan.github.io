@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>menu</Word>
+  <Definitions>
+    <Definition>
+      <Word>menu</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>menu
+     
+        &lt;operating system&gt; A list from which the user may select an
+        operation to be performed.  This is often done with a {mouse}
+        or other pointing device under a {graphical user interface}
+        but may also be controlled from the keyboard.
+     
+        Menus are very convenient for beginners because they show what
+        commands are available and make experimentating with a new
+        program easy, often reducing the need for user documentation.
+        Experienced users however, often prefer keyboard commands,
+        especially for frequently user operations, because they are
+        faster to use.  In situations such as text entry where the
+        keyboard must be used anyway, having to move your hand to the
+        mouse to invoke a menu operation is slow.
+     
+        There are many different ways of presenting menus but the most
+        common are the {menu bar} (with {pull-down menus}) and the
+        {context-sensitive menu}.
+     
+        The term "menu" tends to be reserved for a list of actions or
+        global options, whereas a "{list box}" or other graphical
+        {widget} might present any kind of choice.
+     
+        See also {menuitis}.
+     
+        (1994-12-02)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>menu</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>menu \men"u\ (m[e^]n"y[=oo]), n. [F., slender, thin, minute. See
+   4th {Minute}.]
+   1. The details of a banquet; a list of the dishes served at a
+      meal, whether or not one has a choice.
+      [PJC]
+
+   2. Any list of objects, activities, etc. from which to
+      choose; a selection of alternatives.
+      [PJC]
+
+   3. Hence:A list of dishes form which to choose at a
+      restaurant; a bill of fare.
+      [1913 Webster]
+
+   4. Hence: (Computers) A list displayed on the computer
+      screen, by which a program provides the user with
+      different options for processing by the program. It
+      usually includes a mechanism, such as pointing by a mouse
+      or selection by arrow keys, to select the desired option
+      from those on the list. Depending on how the menu is
+      displayed, it may be a {pop-up menu} or {pull-down menu}.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>menu</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>menu
+     n 1: a list of dishes available at a restaurant; "the menu was in
+          French" [syn: {bill of fare}, {card}, {carte du jour}, {carte}]
+     2: the dishes making up a meal
+     3: (computer science) a list of options available to a computer
+        user [syn: {computer menu}]
+     4: an agenda of things to do; "they worked rapidly down the
+        menu of reports" [syn: {fare}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

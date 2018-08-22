@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>legal</Word>
+  <Definitions>
+    <Definition>
+      <Word>legal</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>legal
+     
+        Loosely used to mean "in accordance with all the relevant
+        rules", especially in connection with some set of constraints
+        defined by software.  "The older =+ alternate for += is no
+        longer legal syntax in ANSI C."  "This parser processes each
+        line of legal input the moment it sees the trailing linefeed."
+        Hackers often model their work as a sort of game played with
+        the environment in which the objective is to maneuver through
+        the thicket of "natural laws" to achieve a desired objective.
+        Their use of "legal" is flavoured as much by this game-playing
+        sense as by the more conventional one having to do with courts
+        and lawyers.  Compare {language lawyer}, {legalese}.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>legal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Legal \Le"gal\ (l[=e]"gal), a. [L. legalis, fr. lex, legis, law;
+   prob. orig., that which lies or is fixed (cf. L. lectus bed),
+   and if so akin to E. lie, law: cf. F. l['e]gal. Cf. {Lie} to
+   be prostrate, {Loyal}, {Leal}.]
+   1. Created by, permitted by, in conformity with, or relating
+      to, law; as, a legal obligation; a legal standard or test;
+      a legal procedure; a legal claim; a legal trade; anything
+      is legal which the laws do not forbid.
+      [1913 Webster]
+
+   2. (Theol.)
+      (a) According to the law of works, as distinguished from
+          free grace; or resting on works for salvation.
+      (b) According to the old or Mosaic dispensation; in
+          accordance with the law of Moses.
+          [1913 Webster]
+
+   3. (Law) Governed by the rules of law as distinguished from
+      the rules of equity; as, legal estate; legal assets.
+      --Bouvier. --Burrill.
+      [1913 Webster]
+
+   {Legal cap}. See under {Cap}.
+
+   {Legal tender}.
+      (a) The act of tendering in the performance of a contract
+          or satisfaction of a claim that which the law
+          prescribes or permits, and at such time and place as
+          the law prescribes or permits.
+      (b) That currency, or money, which the law authorizes a
+          debtor to tender and requires a creditor to receive.
+          It differs in different countries.
+
+   Syn: Lawful; constitutional; legitimate; licit; authorized.
+        See {Lawful}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>legal</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>legal adj. Loosely used to mean `in accordance with all the relevant
+   rules', esp. in connection with some set of constraints defined by
+   software. "The older =+ alternate for += is no longer legal syntax in
+   ANSI C." "This parser processes each line of legal input the moment it
+   sees the trailing linefeed." Hackers often model their work as a sort of
+   game played with the environment in which the objective is to maneuver
+   through the thicket of `natural laws' to achieve a desired objective.
+   Their use of `legal' is flavored as much by this game-playing sense as
+   by the more conventional one having to do with courts and lawyers.
+   Compare {language lawyer}, {legalese}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>legal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>legal
+     adj 1: established by or founded upon law or official or accepted
+            rules [ant: {illegal}]
+     2: of or relating to jurisprudence; "legal loophole"
+     3: having legal efficacy or force; "a sound title to the
+        property" [syn: {sound}]
+     4: relating to or characteristic of the profession of law; "the
+        legal profession"
+     5: allowed by official rules; "a legal pass receiver"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

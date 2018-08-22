@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>logical</Word>
+  <Definitions>
+    <Definition>
+      <Word>logical</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>logical
+     
+        (From the technical term "logical device", wherein a physical
+        device is referred to by an arbitrary "logical" name) Having
+        the role of.  If a person (say, Les Earnest at SAIL) who had
+        long held a certain post left and were replaced, the
+        replacement would for a while be known as the "logical" Les
+        Earnest.  (This does not imply any judgment on the
+        replacement).
+     
+        Compare {virtual}.
+     
+        At Stanford, "logical" compass directions denote a coordinate
+        system in which "logical north" is toward San Francisco,
+        "logical west" is toward the ocean, etc., even though logical
+        north varies between physical (true) north near San Francisco
+        and physical west near San Jose.  (The best rule of thumb here
+        is that, by definition, El Camino Real always runs logical
+        north-and-south.)  In giving directions, one might say: "To
+        get to Rincon Tarasco restaurant, get onto {El Camino Bignum}
+        going logical north."  Using the word "logical" helps to
+        prevent the recipient from worrying about that the fact that
+        the sun is setting almost directly in front of him.  The
+        concept is reinforced by North American highways which are
+        almost, but not quite, consistently labelled with logical
+        rather than physical directions.
+     
+        A similar situation exists at MIT: Route 128 (famous for the
+        electronics industry that has grown up along it) is a
+        3-quarters circle surrounding Boston at a radius of 10 miles,
+        terminating near the coastline at each end.  It would be most
+        precise to describe the two directions along this highway as
+        "clockwise" and "counterclockwise", but the road signs all say
+        "north" and "south", respectively.  A hacker might describe
+        these directions as "logical north" and "logical south", to
+        indicate that they are conventional directions not
+        corresponding to the usual denotation for those words.  (If
+        you went logical south along the entire length of route 128,
+        you would start out going northwest, curve around to the
+        south, and finish headed due east, passing along one infamous
+        stretch of pavement that is simultaneously route 128 south and
+        Interstate 93 north, and is signed as such!)
+     
+        [{Jargon File}]
+     
+        (1995-01-24)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>logical</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Logical \Log"ic*al\ (l[o^]j"[i^]*kal), a. [Cf. F. logique, L.
+   logicus, Gr. logiko`s.]
+   1. Of or pertaining to logic; used in logic; as, logical
+      subtilties. --Bacon.
+      [1913 Webster]
+
+   2. According to the rules of logic; as, a logical argument or
+      inference; the reasoning is logical; a logical argument; a
+      logical impossibility. --Prior.
+      [1913 Webster]
+
+   3. Skilled in logic; versed in the art of thinking and
+      reasoning; as, he is a logical thinker. --Addison.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>logical</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>logical adj. [from the technical term `logical device', wherein a
+   physical device is referred to by an arbitrary `logical' name] Having
+   the role of. If a person (say, Les Earnest at SAIL) who had long held a
+   certain post left and were replaced, the replacement would for a while
+   be known as the `logical' Les Earnest. (This does not imply any judgment
+   on the replacement.) Compare {virtual}.
+
+   At Stanford, `logical' compass directions denote a coordinate system
+   relative to El Camino Real, in which `logical north' is always toward
+   San Francisco and `logical south' is always toward San Jose-in spite of
+   the fact that El Camino Real runs physical north/south near San
+   Francisco, physical east/west near San Jose, and along a curve
+   everywhere in between. (The best rule of thumb here is that, by
+   definition, El Camino Real always runs logical north-south.)
+
+   In giving directions, one might say: "To get to Rincon Tarasco
+   restaurant, get onto {El Camino Bignum} going logical north." Using the
+   word `logical' helps to prevent the recipient from worrying about that
+   the fact that the sun is setting almost directly in front of him. The
+   concept is reinforced by North American highways which are almost, but
+   not quite, consistently labeled with logical rather than physical
+   directions. A similar situation exists at MIT: Route 128 (famous for the
+   electronics industry that grew up along it) wraps roughly 3 quarters
+   around Boston at a radius of 10 miles, terminating near the coastline at
+   each end. It would be most precise to describe the two directions along
+   this highway as `clockwise' and `counterclockwise', but the road signs
+   all say "north" and "south", respectively. A hacker might describe these
+   directions as `logical north' and `logical south', to indicate that they
+   are conventional directions not corresponding to the usual denotation
+   for those words.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>logical</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>logical
+     adj 1: capable of or reflecting the capability for correct and
+            valid reasoning; "a logical mind" [ant: {illogical}]
+     2: in accordance with reason or logic; "a logical conclusion"
+        [syn: {legitimate}]
+     3: marked by an orderly, logical, and aesthetically consistent
+        relation of parts; "a logical argument"; "the orderly
+        presentation" [syn: {consistent}, {ordered}, {orderly}]
+     4: based on known statements or events or conditions; "rain was
+        a logical expectation, given the time of year"
+     5: capable of thinking and expressing yourself in a clear and
+        consistent manner; "a lucid thinker"; "she was more
+        coherent than she had been just after the accident" [syn:
+        {coherent}, {lucid}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

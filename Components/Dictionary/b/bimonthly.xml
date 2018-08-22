@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bimonthly</Word>
+  <Definitions>
+    <Definition>
+      <Word>bimonthly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>bimonthly \bi*month"ly\, a. [Pref. bi- + monthly.]
+   Occurring, done, or coming, once in two months; as, bimonthly
+   visits; bimonthly publications. -- n. A bimonthly
+   publication.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bimonthly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bimonthly \Bi*month"ly\, adv.
+   Once in two months.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bimonthly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bimonthly
+     adj 1: occurring twice a month; "a semimonthly publication" [syn: {semimonthly}]
+     2: occurring every two months; "bimonthly visits" [syn: {bimestrial}]
+     n : a periodical that is published bimonthly
+     adv 1: twice a month; "salaries are paid semimonthly" [syn: {semimonthly}]
+     2: every two months; "the bill was payable bimonthly"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

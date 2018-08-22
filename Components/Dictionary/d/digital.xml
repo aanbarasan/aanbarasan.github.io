@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>digital</Word>
+  <Definitions>
+    <Definition>
+      <Word>digital</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Digital
+     
+        &lt;company&gt; Common abbreviation for {Digital Equipment
+        Corporation}.
+     
+        (1995-12-18)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>digital</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>digital
+     
+        &lt;data&gt; A description of {data} which is stored or transmitted
+        as a sequence of discrete symbols from a finite set, most
+        commonly this means {binary} data represented using electronic
+        or electromagnetic signals.
+     
+        The opposite is {analogue}.
+     
+        (1998-10-28)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>digital</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>digital \dig"i*tal\ (d[i^]j"[i^]*tal), a. [L. digitals.]
+   1. Of or pertaining to the fingers; done with the fingers;
+      as, digital compression; digital examination.
+      [1913 Webster]
+
+   2. of or pertaining to digits[3]; expressed in digits[3], or
+      using digits[3]; as, a digital display; a digital clock.
+      [PJC]
+
+   3. (Computers) performing internal logical and arithmetic
+      operations by means of digits, usually represented as
+      binary numbers. Contrasted to {analog}, wherein variables
+      are represented as coninuous physical quantities such as
+      voltages or the position of a pointer on a continuous
+      scale; as, a digital computer.
+      [PJC]
+
+   Note: In digital computers, physical quantities in analog
+         form, such as images, sounds, distances, voltages,
+         etc., must first be converted to an internal digital
+         representation before calculations can be performed on
+         them. The conversion may be done by the data enterer,
+         by approximation, in the case of numerical values, or
+         by analog-to-digital conversion in the case of light or
+         sound intensities. The latter case uses special
+         equipment to convert the physical impulses into a
+         digital value, using a pre-defined encoding system.
+         [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>digital</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>digital
+     adj 1: of a circuit or device that represents magnitudes in digits;
+            "digital computer" [ant: {analogue}]
+     2: displaying numbers rather than scale positions; "digital
+        clock"; "digital readout"
+     3: relating to or performed with the fingers; "digital
+        examination"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

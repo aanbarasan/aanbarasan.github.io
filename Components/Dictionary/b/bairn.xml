@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bairn</Word>
+  <Definitions>
+    <Definition>
+      <Word>bairn</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bairn \Bairn\ (b[^a]rn), n. [Scot. bairn, AS. bearn, fr. beran
+   to bear; akin to Icel., OS., &amp; Goth. barn. See {Bear} to
+   support.]
+   A child. [Scot. &amp; Prov. Eng.]
+   [1913 Webster]
+
+         Has he not well provided for the bairn?  --Beau. &amp; Fl.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bairn</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bairn
+     n : a child: son or daughter
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

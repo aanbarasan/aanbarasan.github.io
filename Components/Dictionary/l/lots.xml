@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lots</Word>
+  <Definitions>
+    <Definition>
+      <Word>lots</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>lots
+     n : a large number or amount; "made lots of new friends"; "she
+         amassed a mountain of newspapers" [syn: {tons}, {dozens},
+          {heaps}, {mountain}, {piles}, {scores}, {stacks}, {loads},
+          {rafts}, {slews}, {wads}, {oodles}, {gobs}, {scads}, {lashings}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>plumbing</Word>
+  <Definitions>
+    <Definition>
+      <Word>plumbing</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>plumbing
+     
+        (Unix) Term used for {shell} code, so called because of the
+        prevalence of "{pipeline}s" that feed the output of one
+        program to the input of another.  Under {Unix}, user utilities
+        can often be implemented or at least prototyped by a suitable
+        collection of pipelines and temporary file {grind}ing
+        encapsulated in a {shell script}.  This is much less effort
+        than writing {C} every time, and the capability is considered
+        one of Unix's major winning features.  A few other {operating
+        system}s such as {IBM}'s {VM/CMS} support similar facilities.
+     
+        The {tee} utility is specifically designed for plumbing.
+     
+        [{Jargon File}]
+     
+        (1995-02-23)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>plumbing</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Plumb \Plumb\, v. t. [imp. &amp; p. p. {Plumbed} (pl[u^]md); p. pr.
+   &amp; vb. n. {Plumbing} (pl[u^]m"[i^]ng).]
+   1. To adjust by a plumb line; to cause to be perpendicular;
+      as, to plumb a building or a wall.
+      [1913 Webster]
+
+   2. To sound with a plumb or plummet, as the depth of water;
+      hence, to examine by test; to ascertain the depth,
+      quality, dimension, etc.; to sound; to fathom; to test.
+      [1913 Webster]
+
+            He did not attempt to plumb his intellect. --Ld.
+                                                  Lytton.
+      [1913 Webster]
+
+   3. To seal with lead; as, to plumb a drainpipe.
+      [1913 Webster]
+
+   4. To supply, as a building, with a system of plumbing.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>plumbing</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Plumbing \Plumb"ing\, n.
+   1. The art of casting and working in lead, and applying it to
+      building purposes; especially, the business of furnishing,
+      fitting, and repairing pipes for conducting water, sewage,
+      etc. --Gwilt.
+      [1913 Webster]
+
+   2. The lead or iron pipes, and other apparatus, used in
+      conveying water, sewage, etc., in a building.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>plumbing</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>plumbing n. [Unix] Term used for {shell} code, so called because of the
+   prevalence of `pipelines' that feed the output of one program to the
+   input of another. Under Unix, user utilities can often be implemented or
+   at least prototyped by a suitable collection of pipelines and temp-file
+   grinding encapsulated in a shell script; this is much less effort than
+   writing C every time, and the capability is considered one of Unix's
+   major winning features. A few other OSs such as IBM's VM/CMS support
+   similar facilities. Esp. used in the construction `hairy plumbing' (see
+   {hairy}). "You can kluge together a basic spell-checker out of
+   `sort(1)', `comm(1)', and `tr(1)' with a little plumbing." See also
+   {tee}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>plumbing</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>plumbing
+     n 1: utility consisting of the pipes and fixtures for the
+          distribution of water or gas in a building and for the
+          disposal of sewage [syn: {plumbing system}]
+     2: the occupation of a plumber (installing and repairing pipes
+        and fixtures for water or gas or sewage in a building)
+        [syn: {plumbery}]
+     3: measuring the depths of the oceans [syn: {bathymetry}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

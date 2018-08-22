@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>player</Word>
+  <Definitions>
+    <Definition>
+      <Word>player</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Player \Play"er\, n.
+   1. One who plays, or amuses himself; one without serious
+      aims; an idler; a trifler. --Shak.
+      [1913 Webster]
+
+   2. One who plays any game.
+      [1913 Webster]
+
+   3. A dramatic actor. --Shak.
+      [1913 Webster]
+
+   4. One who plays on an instrument of music. ``A cunning
+      player on a harp.'' --1 Sam. xvi. 16.
+      [1913 Webster]
+
+   5. A gamester; a gambler.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>player</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>player
+     n 1: a person who participates in or is skilled at some game
+          [syn: {participant}]
+     2: someone who plays a musical instrument (as a profession)
+        [syn: {musician}, {instrumentalist}]
+     3: a theatrical performer [syn: {actor}, {histrion}, {thespian},
+         {role player}]
+     4: an important participant (as in a business deal); "he was a
+        major player in setting up the corporation"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

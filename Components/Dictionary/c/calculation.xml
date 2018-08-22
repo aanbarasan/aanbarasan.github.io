@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>calculation</Word>
+  <Definitions>
+    <Definition>
+      <Word>calculation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Calculation \Cal`cu*la"tion\ (-l[=a]"sh[u^]n), n. [OE.
+   calculation, fr. L. calculatio; cf. OF. calcucation.]
+   1. The act or process, or the result, of calculating;
+      computation; reckoning, estimate. ``The calculation of
+      eclipses.'' --Nichol.
+      [1913 Webster]
+
+            The mountain is not so his calculation makes it.
+                                                  --Boyle.
+      [1913 Webster]
+
+   2. An expectation based on circumstances.
+      [1913 Webster]
+
+            The lazy gossips of the port,
+            Abhorrent of a calculation crost,
+            Began to chafe as at a personal wrong. --Tennyson.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>calculation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>calculation
+     n 1: the procedure of calculating; determining something by
+          mathematical or logical methods [syn: {computation}, {computing}]
+     2: problem solving that involves numbers or quantities [syn: {computation},
+         {figuring}, {reckoning}]
+     3: planning something carefully and intentionally; "it was the
+        deliberation of his act that was insulting" [syn: {deliberation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

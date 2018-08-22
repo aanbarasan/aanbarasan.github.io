@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>accelerating</Word>
+  <Definitions>
+    <Definition>
+      <Word>accelerating</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Accelerate \Ac*cel"er*ate\, v. t. [imp. &amp; p. p. {Accelerated};
+   p. pr. &amp; vb. n. {Accelerating}.] [L. acceleratus, p. p. of
+   accelerare; ad + celerare to hasten; celer quick. See
+   {Celerity}.]
+   1. To cause to move faster; to quicken the motion of; to add
+      to the speed of; -- opposed to {retard}.
+      [1913 Webster]
+
+   2. To quicken the natural or ordinary progression or process
+      of; as, to accelerate the growth of a plant, the increase
+      of wealth, etc.
+      [1913 Webster]
+
+   3. To hasten, as the occurence of an event; as, to accelerate
+      our departure.
+      [1913 Webster]
+
+   {Accelerated motion} (Mech.), motion with a continually
+      increasing velocity.
+
+   {Accelerating force}, the force which causes accelerated
+      motion.                                     --Nichol.
+      [1913 Webster]
+
+   Syn: To hasten; expedite; quicken; dispatch; forward;
+        advance; further.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>accelerating</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>accelerating
+     adj : increasing in speed; becoming progressively faster; "the
+           accelerating inflation was cause for great concern"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

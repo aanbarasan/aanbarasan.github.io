@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>named</Word>
+  <Definitions>
+    <Definition>
+      <Word>named</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>named
+     
+        &lt;networking&gt; Name Daemon.
+     
+        &lt;networking&gt; A {Unix} {background} process that converts
+        {hostnames} to {Internet addresses} for the {TCP/IP}
+        {protocol}.
+     
+        {Unix manual page}: named(8).
+     
+        See also {DNS}.
+     
+        (1995-03-28)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>named</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Name \Name\ (n[=a]m), v. t. [imp. &amp; p. p. {Named} (n[=a]md); p.
+   pr. &amp; vb. n. {Naming}.] [AS. namian. See {Name}, n.]
+   1. To give a distinctive name or appellation to; to entitle;
+      to denominate; to style; to call.
+      [1913 Webster]
+
+            She named the child Ichabod.          --1 Sam. iv.
+                                                  21.
+      [1913 Webster]
+
+            Thus was the building left
+            Ridiculous, and the work Confusion named. --Milton.
+      [1913 Webster]
+
+   2. To mention by name; to utter or publish the name of; to
+      refer to by distinctive title; to mention.
+      [1913 Webster]
+
+            None named thee but to praise.        --Halleck.
+      [1913 Webster]
+
+            Old Yew, which graspest at the stones
+            That name the underlying dead.        --Tennyson.
+      [1913 Webster]
+
+   3. To designate by name or specifically for any purpose; to
+      nominate; to specify; to appoint; as, to name a day for
+      the wedding; to name someone as ambassador.
+      [1913 Webster]
+
+            Whom late you have named for consul.  --Shak.
+      [1913 Webster]
+
+   4. (House of Commons) To designate (a member) by name, as the
+      Speaker does by way of reprimand.
+      [1913 Webster]
+
+   Syn: To denominate; style; term; call; mention; specify;
+        designate; nominate.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>named</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>named \named\ adj.
+   1. given or having a specified name; as, an actor named
+      Harold Lloyd; a building in Cardiff named the Temple of
+      Peace. Contrasted to {unnamed}.
+
+   Syn: called.
+        [WordNet 1.5]
+
+   2. bearing the author's name; as, a named source. Opposite of
+      {anonymous}.
+      [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>named</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>named
+     adj 1: given or having a specified name; "they called his name
+            Jesus"; "forces...which Empedocles called `love' and
+            `hate'"; "an actor named Harold Lloyd"; "a building in
+            Cardiff named the Temple of Peace" [syn: {called}]
+     2: bearing the author's name; "a named source"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

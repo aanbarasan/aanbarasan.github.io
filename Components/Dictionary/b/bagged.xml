@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bagged</Word>
+  <Definitions>
+    <Definition>
+      <Word>bagged</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bag \Bag\, v. t. [imp. &amp; p. p. {Bagged} (b[a^]gd); p. pr. &amp; vb.
+   n. {Bagging}]
+   1. To put into a bag; as, to bag hops.
+      [1913 Webster]
+
+   2. To seize, capture, or entrap; as, to bag an army; to bag
+      game.
+      [1913 Webster]
+
+   3. To furnish or load with a bag or with a well filled bag.
+      [1913 Webster]
+
+            A bee bagged with his honeyed venom.  --Dryden.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bagged</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bag
+     n 1: a flexible container with a single opening; "he stuffed his
+          laundry into a large bag"
+     2: the quantity of game taken in a particular period (usually
+        by one person); "his bag included two deer"
+     3: place that runner must touch before scoring; "he scrambled
+        to get back to the bag" [syn: {base}]
+     4: a bag used for carrying money and small personal items or
+        accessories (especially by women); "she reached into her
+        bag and found a comb" [syn: {handbag}, {pocketbook}, {purse}]
+     5: the quantity that a bag will hold; "he ate a large bag of
+        popcorn" [syn: {bagful}]
+     6: a portable rectangular traveling bag for carrying clothes;
+        "he carried his small bag onto the plane with him" [syn: {traveling
+        bag}, {grip}, {suitcase}]
+     7: an ugly or ill-tempered woman; "he was romancing the old bag
+        for her money" [syn: {old bag}]
+     8: mammary gland of bovids (cows and sheep and goats) [syn: {udder}]
+     9: an activity that you like or at which you are superior;
+        "chemistry is not my cup of tea"; "his bag now is learning
+        to play golf"; "marriage was scarcely his dish" [syn: {cup
+        of tea}, {dish}]
+     v 1: capture or kill, as in hunting; "bag a few pheasants"
+     2: hang loosely, like an empty bag
+     3: bulge out; form a bulge outward, or be so full as to appear
+        to bulge [syn: {bulge}]
+     4: take unlawfully [syn: {pocket}]
+     5: put into a bag; "The supermarket clerk bagged the groceries"
+     [also: {bagging}, {bagged}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bagged</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bagged
+     See {bag}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

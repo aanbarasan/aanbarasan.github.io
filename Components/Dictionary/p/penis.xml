@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>penis</Word>
+  <Definitions>
+    <Definition>
+      <Word>penis</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Penis \Pe"nis\ (p[=e]"n[i^]s), n. [L.] (Anat.)
+   The erectile external sexual organ of males, used in
+   copulation, and in mammals, also for urination.
+   [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>penis</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>penis
+     n : the male organ of copulation (`member' is a euphemism) [syn:
+          {phallus}, {member}]
+     [also: {penes} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

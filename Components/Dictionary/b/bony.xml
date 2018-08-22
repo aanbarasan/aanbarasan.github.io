@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bony</Word>
+  <Definitions>
+    <Definition>
+      <Word>bony</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bony \Bon"y\, a.
+   1. Consisting of bone, or of bones; full of bones; pertaining
+      to bones.
+      [1913 Webster]
+
+   2. Having large or prominent bones.
+      [1913 Webster]
+
+   {Bony fish} (Zo["o]l.), the menhaden.
+
+   {Bony pike} (Zo["o]l.), the gar pike ({Lepidosteus}).
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bony</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bony
+     adj 1: very thin especially from disease or hunger or cold;
+            "emaciated bony hands"; "a nightmare population of
+            gaunt men and skeletal boys"; "eyes were haggard and
+            cavernous"; "small pinched faces"; "kept life in his
+            wasted frame only by grim concentration" [syn: {cadaverous},
+             {emaciated}, {gaunt}, {haggard}, {pinched}, {skeletal},
+             {wasted}]
+     2: composed of or containing bone; "osseous tissue" [syn: {osseous},
+         {osteal}]
+     3: having bones especially many or prominent bones; "a bony
+        shad fillet"; "her bony wrist" [syn: {boney}] [ant: {boneless}]
+     [also: {boniest}, {bonier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

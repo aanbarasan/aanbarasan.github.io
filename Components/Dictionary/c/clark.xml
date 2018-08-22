@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>clark</Word>
+  <Definitions>
+    <Definition>
+      <Word>clark</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Clark, CO
+  Zip code(s): 80428
+Clark, MO (city, FIPS 14068)
+  Location: 39.28060 N, 92.34186 W
+  Population (1990): 257 (124 housing units)
+  Area: 0.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 65243
+Clark, NJ (CDP, FIPS 13180)
+  Location: 40.62105 N, 74.31154 W
+  Population (1990): 14629 (5638 housing units)
+  Area: 11.3 sq km (land), 0.4 sq km (water)
+  Zip code(s): 07066
+Clark, PA (borough, FIPS 13832)
+  Location: 41.28529 N, 80.40416 W
+  Population (1990): 610 (207 housing units)
+  Area: 7.9 sq km (land), 1.9 sq km (water)
+Clark, SD (city, FIPS 12180)
+  Location: 44.88074 N, 97.73381 W
+  Population (1990): 1292 (631 housing units)
+  Area: 3.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 57225
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>clark</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Clark
+     n 1: United States explorer who (with Meriwether Lewis) led an
+          expedition from St. Louis to the mouth of the Columbia
+          River; Clark was responsible for making maps of the area
+          (1770-1838) [syn: {William Clark}]
+     2: United States general who was Allied commander in Africa and
+        Italy in World War II and was commander of the United
+        Nations forces in Korea (1896-1984) [syn: {Mark Clark}, {Mark
+        Wayne Clark}]
+     3: United States psychologist (born in Panama) whose research
+        persuaded the Supreme Court that segregated schools were
+        discriminatory (1914-) [syn: {Kenneth Clark}, {Kenneth
+        Bancroft Clark}]
+     4: Canadian politician who served as prime minister (1939-)
+        [syn: {Joe Clark}, {Charles Joseph Clark}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

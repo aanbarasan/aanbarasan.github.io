@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cohort</Word>
+  <Definitions>
+    <Definition>
+      <Word>cohort</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Series \Se"ries\, n. [L. series, fr. serere, sertum, to join or
+   bind together; cf. Gr. ??? to fasten, Skr. sarit thread. Cf.
+   {Assert}, {Desert} a solitude, {Exert}, {Insert},
+   {Seraglio}.]
+   1. A number of things or events standing or succeeding in
+      order, and connected by a like relation; sequence; order;
+      course; a succession of things; as, a continuous series of
+      calamitous events.
+      [1913 Webster]
+
+            During some years his life a series of triumphs.
+                                                  --Macaulay.
+      [1913 Webster]
+
+   2. (Biol.) Any comprehensive group of animals or plants
+      including several subordinate related groups.
+      [1913 Webster]
+
+   Note: Sometimes a series includes several classes; sometimes
+         only orders or families; in other cases only species.
+         [1913 Webster]
+
+   3. (Bot.) In Engler's system of plant classification, a group
+      of families showing certain structural or morphological
+      relationships. It corresponds to the {cohort} of some
+      writers, and to the {order} of many modern systematists.
+      [Webster 1913 Suppl.]
+
+   4. (Math.) An indefinite number of terms succeeding one
+      another, each of which is derived from one or more of the
+      preceding by a fixed law, called the law of the series;
+      as, an arithmetical series; a geometrical series.
+      [1913 Webster]
+
+   5. (Elec.) A mode of arranging the separate parts of a
+      circuit by connecting them successively end to end to form
+      a single path for the current; -- opposed to {parallel}.
+      The parts so arranged are said to be
+
+   {in series}.
+      [Webster 1913 Suppl.]
+
+   6. (Com.) A parcel of rough diamonds of assorted qualities.
+      [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cohort</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cohort \Co"hort\, n. [L. cohors, prop. an inclosure: cf. F.
+   cohorte. See {Court}, n.]
+   1. (Rom. Antiq.) A body of about five or six hundred
+      soldiers; the tenth part of a legion.
+      [1913 Webster]
+
+   2. Any band or body of warriors.
+      [1913 Webster]
+
+            With him the cohort bright
+            Of watchful cherubim.                 --Milton.
+      [1913 Webster]
+
+   3. (Bot.) A natural group of orders of plants, less
+      comprehensive than a class.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cohort</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cohort
+     n 1: a company of companions or supporters
+     2: a band of warriors (originally a unit of a Roman Legion)
+     3: a group people having approximately the same age [syn: {age
+        group}, {age bracket}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

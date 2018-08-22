@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>amputated</Word>
+  <Definitions>
+    <Definition>
+      <Word>amputated</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Amputate \Am"pu*tate\, v. t. [imp. &amp; p. p. {Amputated}; p. pr. &amp;
+   vb. n. {Amputating}.] [L. amputatus, p. p. of amputare: amb-
+   + putare to prune, putus clean, akin to E. pure. See
+   {Putative}.]
+   1. To prune or lop off, as branches or tendrils.
+      [1913 Webster]
+
+   2. (Surg.) To cut off (a limb or projecting part of the
+      body). --Wiseman.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

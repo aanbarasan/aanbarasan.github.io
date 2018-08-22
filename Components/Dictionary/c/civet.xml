@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>civet</Word>
+  <Definitions>
+    <Definition>
+      <Word>civet</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Civet \Civ"et\ (s[i^]v"[e^]t), n. [F. civette (cf. It. zibetto)
+   civet, civet cat, fr. LGr. zape`tion, fr. Ar. zub[=a]d,
+   zab[=a]d, civet.]
+   1. A substance, of the consistence of butter or honey, taken
+      from glands in the anal pouch of the civet ({Viverra
+      civetta}). It is of clear yellowish or brownish color, of
+      a strong, musky odor, offensive when undiluted, but
+      agreeable when a small portion is mixed with another
+      substance. It is used as a perfume.
+      [1913 Webster]
+
+   2. (Zo["o]l) The animal that produces civet ({Viverra
+      civetta}); -- called also {civet cat}. It is carnivorous,
+      from two to three feet long, and of a brownish gray color,
+      with transverse black bands and spots on the body and
+      tail. It is a native of northern Africa and of Asia. The
+      name is also applied to other species.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>civet</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Civet \Civ"et\, v. t.
+   To scent or perfume with civet. --Cowper
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>civet</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>civet
+     n : catlike mammal typically secreting musk used in perfumes
+         [syn: {civet cat}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

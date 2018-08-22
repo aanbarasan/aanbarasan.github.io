@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mitzvah</Word>
+  <Definitions>
+    <Definition>
+      <Word>mitzvah</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mitzvah
+     n 1: (Judaism) a precept or commandment of the Jewish law [syn: {mitsvah}]
+     2: (Judaism) a good deed performed out of religious duty [syn:
+        {mitsvah}]
+     [also: {mitzvoth} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

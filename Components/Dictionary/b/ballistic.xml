@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ballistic</Word>
+  <Definitions>
+    <Definition>
+      <Word>ballistic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ballistic \Bal*lis"tic\, a.
+   1. Of or pertaining to the ballista, or to the art of hurling
+      stones or missile weapons by means of an engine.
+      [1913 Webster]
+
+   2. Pertaining to ballistics[2], or to a projectile in a
+      gravitational field.
+      [1913 Webster +PJC]
+
+   3. frenzied; very angry; -- used mostly in the phrase
+
+   {go ballistic}. [Colloq.]
+      [PJC]
+
+   {Ballistic pendulum}, an instrument consisting of a mass of
+      wood or other material suspended as a pendulum, for
+      measuring the force and velocity of projectiles by means
+      of the arc through which their impact impels it.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ballistic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ballistic
+     adj : relating to or characteristic of the motion of objects
+           moving under their own momentum and the force of
+           gravity; "ballistic missile"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>january</Word>
+  <Definitions>
+    <Definition>
+      <Word>january</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>January \Jan"u*a*ry\, n. [L. Januarius, fr. Janus an old Latin
+   deity, the god of the sun and the year, to whom the month of
+   January was sacred; cf. janua a door, Skr. y[=a] to go.]
+   The first month of the year, containing thirty-one days.
+   [1913 Webster]
+
+   Note: Before the adoption of New Style, the commencement of
+         the year was usually reckoned from March 25.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>january</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>January
+     n : the first month of the year; begins 10 days after the winter
+         solstice [syn: {Jan}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

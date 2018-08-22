@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>breaker</Word>
+  <Definitions>
+    <Definition>
+      <Word>breaker</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Breaker \Break"er\, n.
+   1. One who, or that which, breaks.
+      [1913 Webster]
+
+            I'll be no breaker of the law.        --Shak.
+      [1913 Webster]
+
+   2. Specifically: A machine for breaking rocks, or for
+      breaking coal at the mines; also, the building in which
+      such a machine is placed.
+      [1913 Webster]
+
+   3. (Naut.) A small water cask. --Totten.
+      [1913 Webster]
+
+   4. A wave breaking into foam against the shore, or against a
+      sand bank, or a rock or reef near the surface.
+      [1913 Webster]
+
+            The breakers were right beneath her bows.
+                                                  --Longfellow.
+      [1913 Webster]
+
+   5. a quarry worker who splits off blocks of stone.
+
+   Syn: ledgeman.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>breaker</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>breaker
+     n 1: a quarry worker who splits off blocks of stone [syn: {ledgeman}]
+     2: waves breaking on the shore [syn: {surf}, {breakers}]
+     3: a device that trips like a switch and opens the circuit when
+        overloaded [syn: {circuit breaker}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

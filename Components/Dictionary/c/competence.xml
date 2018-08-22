@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>competence</Word>
+  <Definitions>
+    <Definition>
+      <Word>competence</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Competence \Com"pe*tence\, Competency \Com"pe*ten*cy\, n. [Cf.
+   F. comp['e]tence, from L. competentia agreement.]
+   1. The state of being competent; fitness; ability; adequacy;
+      power.
+      [1913 Webster]
+
+            The loan demonstrates, in regard to instrumental
+            resources, the competency of this kingdom to the
+            assertion of the common cause.        --Burke.
+      [1913 Webster]
+
+            To make them act zealously is not in the competence
+            of law.                               --Burke.
+      [1913 Webster]
+
+   2. Property or means sufficient for the necessaries and
+      conveniences of life; sufficiency without excess.
+      [1913 Webster]
+
+            Reason's whole pleasure, all the joys of sense,
+            Lie in three words -- health, peace, and competence.
+                                                  --Pope.
+      [1913 Webster]
+
+            Superfluity comes sooner by white hairs, but
+            competency lives longer.              --Shak.
+      [1913 Webster]
+
+   3. (Law)
+      (a) Legal capacity or qualifications; fitness; as, the
+          competency of a witness or of a evidence.
+      (b) Right or authority; legal power or capacity to take
+          cognizance of a cause; as, the competence of a judge
+          or court. --Kent.
+          [1913 Webster]
+
+   5. the quality of being adequately or well qualified
+      physically and intellectually, especially possession of
+      the skill and knowledge required (for a task).
+      [WordNet 1.5 +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>competence</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>competence
+     n : the quality of being adequately or well qualified physically
+         and intellectually [syn: {competency}] [ant: {incompetence}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

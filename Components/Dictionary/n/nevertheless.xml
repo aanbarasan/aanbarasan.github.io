@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nevertheless</Word>
+  <Definitions>
+    <Definition>
+      <Word>nevertheless</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Nevertheless \Nev`er*the*less"\, adv. &amp; conj. [Never + the (see
+   {The} by that) + less.]
+   Not the less; notwithstanding; in spite of that; yet.
+   [1913 Webster]
+
+         No chastening for the present seemeth to be joyous, but
+         grievous; nevertheless, afterward it yieldeth the
+         peaceable fruit of righteousness.        --Heb. xii.
+                                                  11.
+   [1913 Webster]
+
+   Syn: However; at least; yet; still. See {However}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nevertheless</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nevertheless
+     adv : despite anything to the contrary (usually following a
+           concession); "although I'm a little afraid, however I'd
+           like to try it"; "while we disliked each other,
+           nevertheless we agreed"; "he was a stern yet fair
+           master"; "granted that it is dangerous, all the same I
+           still want to go" [syn: {however}, {withal}, {still}, {yet},
+            {all the same}, {even so}, {nonetheless}, {notwithstanding}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

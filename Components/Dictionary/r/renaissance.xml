@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>renaissance</Word>
+  <Definitions>
+    <Definition>
+      <Word>renaissance</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Renaissance \Re*nais`sance"\ (F. re-n[asl]`s[aum]Ns"; E.
+   r[-e]-n[=a]s"sans), n. [F., fr. rena[^i]tre to be born again.
+   Cf. {Renascence}.]
+   A new birth, or revival. Specifically:
+   (a) The transitional movement in Europe, marked by the
+       revival of classical learning and art in Italy in the
+       15th century, and the similar revival following in other
+       countries.
+   (b) The style of art which prevailed at this epoch.
+       [1913 Webster]
+
+             The Renaissance was rather the last stage of the
+             Middle Ages, emerging from ecclesiastical and
+             feudal despotism, developing what was original in
+             medi[ae]val ideas by the light of classic arts and
+             letters.                             --J. A.
+                                                  Symonds
+                                                  (Encyc.
+                                                  Brit.).
+       [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>renaissance</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Renaissance
+     n 1: the period of European history at the close of the Middle
+          Ages and the rise of the modern world; a cultural
+          rebirth from the 14th through the middle of the 17th
+          centuries
+     2: the revival of learning and culture [syn: {rebirth}, {renascence}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

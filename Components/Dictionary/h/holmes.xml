@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>holmes</Word>
+  <Definitions>
+    <Definition>
+      <Word>holmes</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Holmes, NY
+  Zip code(s): 12531
+Holmes, PA
+  Zip code(s): 19043
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>holmes</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Holmes \Holmes\ n.
+   Sherlock Holmes, a fictitious detective in novels by A. Conan
+   Doyle.
+
+   Syn: Sherlock Holmes.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>holmes</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Holmes
+     n 1: a fictitious detective in stories by A. Conan Doyle [syn: {Sherlock
+          Holmes}]
+     2: United States jurist noted for his liberal opinions
+        (1841-1935) [syn: {Oliver Wendell Holmes Jr.}]
+     3: United States writer of humorous essays (1809-1894) [syn: {Oliver
+        Wendell Holmes}]
+     4: English geologist and supporter of the theory of continental
+        drift (1890-1965) [syn: {Arthur Holmes}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

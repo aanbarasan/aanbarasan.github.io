@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>insightful</Word>
+  <Definitions>
+    <Definition>
+      <Word>insightful</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>insightful \insightful\ adj.
+   1. having intellectual depth; having or showing an
+      exceptional degree of insight[2]; -- of people or their
+      comments.
+
+   Syn: thoughtful.
+        [WordNet 1.5]
+
+   2. characterized by sympathetic understanding.
+
+   Syn: discerning, understanding.
+        [WordNet 1.5]
+
+   3. having a keen intellect.
+
+   Syn: prehensile.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>insightful</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>insightful
+     adj : exhibiting insight or clear and deep perception; "an
+           insightful parent"; "the chapter is insightful and
+           suggestive of new perspectives"-R.C.Angell
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

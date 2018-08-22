@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lucas</Word>
+  <Definitions>
+    <Definition>
+      <Word>lucas</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Lucas
+   a friend and companion of Paul during his imprisonment at Rome;
+   Luke (q.v.), the beloved physician (Philemon 1:24; Col. 4:14).
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lucas</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Lucas, IA (city, FIPS 47100)
+  Location: 41.03167 N, 93.46027 W
+  Population (1990): 224 (107 housing units)
+  Area: 2.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 50151
+Lucas, KS (city, FIPS 43150)
+  Location: 39.05750 N, 98.53848 W
+  Population (1990): 452 (253 housing units)
+  Area: 1.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 67648
+Lucas, KY
+  Zip code(s): 42156
+Lucas, OH (village, FIPS 45276)
+  Location: 40.70288 N, 82.42124 W
+  Population (1990): 730 (280 housing units)
+  Area: 1.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 44843
+Lucas, SD
+  Zip code(s): 57523
+Lucas, TX (town, FIPS 45012)
+  Location: 33.10141 N, 96.57772 W
+  Population (1990): 2205 (719 housing units)
+  Area: 20.0 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lucas</Word>
+      <Dictionary>
+        <Id>hitchcock</Id>
+        <Name>Hitchcock's Bible Names Dictionary (late 1800's)</Name>
+      </Dictionary>
+      <WordDefinition>Lucas, Lucius, luminous; white
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lucas</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Lucas
+     n : United States screenwriter and filmmaker (born in 1944)
+         [syn: {George Lucas}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

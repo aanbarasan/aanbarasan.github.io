@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>banned</Word>
+  <Definitions>
+    <Definition>
+      <Word>banned</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ban \Ban\, v. t. [imp. &amp; p. p. {Banned} (b[a^]nd); p. pr. &amp; vb.
+   n. {Banning}.] [OE. bannen, bannien, to summon, curse, AS.
+   bannan to summon; akin to Dan. bande, forbande, to curse, Sw.
+   banna to revile, bannas to curse. See {Ban} an edict, and cf.
+   {Banish}.]
+   1. To curse; to invoke evil upon. --Sir W. Scott.
+      [1913 Webster]
+
+   2. To forbid; to interdict. --Byron.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>banned</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>banned
+     adj : forbidden by law [syn: {prohibited}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>banned</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ban
+     n 1: a decree that prohibits something [syn: {prohibition}, {proscription}]
+     2: 100 bani equal 1 leu
+     3: 100 bani equal 1 leu
+     4: an official prohibition or edict against something [syn: {banning},
+         {forbiddance}, {forbidding}]
+     5: a bachelor's degree in nursing [syn: {Bachelor of Arts in
+        Nursing}]
+     v 1: prohibit especially by legal means or social pressure;
+          "Smoking is banned in this building"
+     2: forbid the public distribution of ( a movie or a newspaper)
+        [syn: {censor}]
+     3: ban from a place of residence, as for punishment [syn: {banish}]
+     4: expel from a community or group [syn: {banish}, {ostracize},
+         {ostracise}, {shun}, {cast out}, {blackball}]
+     [also: {banning}, {banned}, {bani} (pl)]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>banned</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>banned
+     See {ban}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>adapted</Word>
+  <Definitions>
+    <Definition>
+      <Word>adapted</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Adapt \A*dapt"\, v. t. [imp. &amp; p. p. {Adapted}; p. pr. &amp; vb. n.
+   {Adapting}.] [L. adaptare; ad + aptare to fit; cf. F.
+   adapter. See {Apt}, {Adept}.]
+   To make suitable; to fit, or suit; to adjust; to alter so as
+   to fit for a new use; -- sometimes followed by to or for.
+   [1913 Webster]
+
+         For nature, always in the right,
+         To your decays adapts my sight.          --Swift.
+   [1913 Webster]
+
+         Appeals adapted to his [man's] whole nature. --Angus.
+   [1913 Webster]
+
+         Streets ill adapted for the residence of wealthy
+         persons.                                 --Macaulay.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>adapted</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>adapted
+     adj : changed in order to improve or made more fit for a
+           particular purpose; "seeds precisely adapted to the
+           area"; "instructions altered to suit the children's
+           different ages" [syn: {altered}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

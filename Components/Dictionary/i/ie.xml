@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ie</Word>
+  <Definitions>
+    <Definition>
+      <Word>ie</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>ie
+     
+        &lt;networking&gt; The {country code} for Ireland.
+     
+        (1999-01-27)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ie</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>IE
+     
+        {Internet Explorer}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ie</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>I e \I. e.\
+   Abbreviation of Latin id est, that is.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ie</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>IE
+     Information Element (ATM, ISDN)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ie</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>IE
+     Information Engineering
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ie</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ie
+     adv : that is to say; in other words [syn: {i.e.}, {id est}, {that
+           is}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ie</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>i.e.
+     adv : that is to say; in other words [syn: {ie}, {id est}, {that
+           is}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

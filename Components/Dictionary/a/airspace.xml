@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>airspace</Word>
+  <Definitions>
+    <Definition>
+      <Word>airspace</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>airspace \air"space`\ n.
+   1. the atmosphere above a nation and deemed to be under its
+      jurisdiction.
+      [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>airspace</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>air space
+     n : the space in the atmosphere immediately above the earth
+         [syn: {airspace}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>airspace</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>airspace
+     n 1: the space in the atmosphere immediately above the earth
+          [syn: {air space}]
+     2: the atmosphere above a nation that is deemed to be under its
+        jurisdiction; "the plane was refused permission to enter
+        Chinese airspace"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

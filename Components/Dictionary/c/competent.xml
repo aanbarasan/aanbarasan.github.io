@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>competent</Word>
+  <Definitions>
+    <Definition>
+      <Word>competent</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Competent \Com"pe*tent\ (k[o^]m"p[-e]*tent; 94), a. [F.
+   comp['e]tent, p. pr. of comp['e]ter to be in the competency
+   of, LL. competere to strive after together, to agree with;
+   hence, to be fit. See {Compete}.]
+   1. Answering to all requirements; adequate; sufficient;
+      suitable; capable; legally qualified; fit. ``A competent
+      knowledge of the world.'' --Atterbury. ``Competent age.''
+      --Grafton. ``Competent statesmen.'' --Palfrey. /``A
+      competent witness.'' --Bouvier.
+      [1913 Webster]
+
+   2. Rightfully or properly belonging; incident; -- followed by
+      to. [Rare, except in legal usage.]
+      [1913 Webster]
+
+            That is the privilege of the infinite Author of
+            things, . . . but is not competent to any finite
+            being.                                --Locke.
+
+   Syn: See {Qualified}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>competent</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>competent
+     adj 1: properly or sufficiently qualified or capable or efficient;
+            "a competent typist" [ant: {incompetent}]
+     2: adequate for the purpose; "a competent performance"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

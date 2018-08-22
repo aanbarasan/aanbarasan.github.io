@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>demon</Word>
+  <Definitions>
+    <Definition>
+      <Word>demon</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Demon
+   See {DAEMON}.
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>demon</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>demon
+     
+        1. &lt;operating system&gt; (Often used equivalently to {daemon},
+        especially in the {Unix} world, where the latter spelling and
+        pronunciation is considered mildly archaic).  A program or
+        part of a program which is not invoked explicitly, but that
+        lies dormant waiting for some condition(s) to occur.
+     
+        At {MIT} they use "demon" for part of a program and "daemon"
+        for an {operating system} process.
+     
+        Demons (parts of programs) are particularly common in {AI}
+        programs.  For example, a {knowledge}-manipulation program
+        might implement {inference rules} as demons.  Whenever a new
+        piece of knowledge was added, various demons would activate
+        (which demons depends on the particular piece of data) and
+        would create additional pieces of knowledge by applying their
+        respective inference rules to the original piece.  These new
+        pieces could in turn activate more demons as the inferences
+        filtered down through chains of logic.  Meanwhile, the main
+        program could continue with whatever its primary task was.
+        This is similar to the {triggers} used in {relational
+        databases}.
+     
+        The use of this term may derive from "Maxwell's Demons" -
+        minute beings which can reverse the normal flow of heat from a
+        hot body to a cold body by only allowing fast moving molecules
+        to go from the cold body to the hot one and slow molecules
+        from hot to cold.  The solution to this apparent thermodynamic
+        paradox is that the demons would require an external supply of
+        energy to do their work and it is only in the absence of such
+        a supply that heat must necessarily flow from hot to cold.
+     
+        Walt Bunch believes the term comes from the demons in Oliver
+        Selfridge's paper "Pandemonium", MIT 1958, which was named
+        after the capital of Hell in Milton's "Paradise Lost".
+        Selfridge likened neural cells firing in response to input
+        patterns to the chaos of millions of demons shrieking in
+        Pandemonium.
+     
+        2. &lt;company&gt; {Demon Internet} Ltd.
+     
+        3. A {program generator} for {differential equation} problems.
+     
+        [N.W. Bennett, Australian AEC Research Establishment,
+        AAEC/E142, Aug 1965].
+     
+        [{Jargon File}]
+     
+        (1998-09-04)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>demon</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Demon \De"mon\, n. [F. d['e]mon, L. daemon a spirit, an evil
+   spirit, fr. Gr. dai`mwn a divinity; of uncertain origin.]
+   1. (Gr. Antiq.) A spirit, or immaterial being, holding a
+      middle place between men and deities in pagan mythology.
+      [1913 Webster]
+
+            The demon kind is of an intermediate nature between
+            the divine and the human.             --Sydenham.
+      [1913 Webster]
+
+   2. One's genius; a tutelary spirit or internal voice; as, the
+      demon of Socrates. [Often written {d[ae]mon}.]
+      [1913 Webster]
+
+   3. An evil spirit; a devil.
+      [1913 Webster]
+
+            That same demon that hath gulled thee thus. --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>demon</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>demon n. 1. [MIT] A portion of a program that is not invoked
+   explicitly, but that lies dormant waiting for some condition(s) to
+   occur. See {daemon}. The distinction is that demons are usually
+   processes within a program, while daemons are usually programs running
+   on an operating system. 2. [outside MIT] Often used equivalently to
+   {daemon} -- especially in the {{Unix}} world, where the latter spelling
+   and pronunciation is considered mildly archaic.
+
+   Demons in sense 1 are particularly common in AI programs. For example,
+   a knowledge-manipulation program might implement inference rules as
+   demons. Whenever a new piece of knowledge was added, various demons
+   would activate (which demons depends on the particular piece of data)
+   and would create additional pieces of knowledge by applying their
+   respective inference rules to the original piece. These new pieces could
+   in turn activate more demons as the inferences filtered down through
+   chains of logic. Meanwhile, the main program could continue with
+   whatever its primary task was.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>demon</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>demon
+     n 1: one of the evil spirits of traditional Jewish and Christian
+          belief [syn: {devil}, {fiend}, {daemon}, {daimon}]
+     2: a cruel wicked and inhuman person [syn: {monster}, {fiend},
+        {devil}, {ogre}]
+     3: someone extremely diligent or skillful; "he worked like a
+        demon to finish the job on time"; "she's a demon at math"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

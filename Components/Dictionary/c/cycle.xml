@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cycle</Word>
+  <Definitions>
+    <Definition>
+      <Word>cycle</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>cycle
+     
+        &lt;unit&gt; A basic unit of computation, one period of a computer
+        {clock}.
+     
+        Each {instruction} takes a number of clock cycles.  Often the
+        computer can access its memory once on every clock cycle, and
+        so one speaks also of "memory cycles".
+     
+        Every {hacker} wants more cycles (noted hacker {Bill Gosper}
+        describes himself as a "cycle junkie").  There are only so
+        many cycles per second, and when you are sharing a computer
+        the cycles get divided up among the users.  The more cycles
+        the computer spends working on your program rather than
+        someone else's, the faster your program will run.  That's why
+        every hacker wants more cycles: so he can spend less time
+        waiting for the computer to respond.
+     
+        The use of the term "cycle" for a computer clock period can
+        probably be traced back to the rotation of a generator
+        generating alternating current though computers generally use
+        a clock signal which is more like a {square wave}.
+        Interestingly, the earliest mechanical calculators,
+        e.g. Babbage's {Difference Engine}, really did have parts
+        which rotated in true cycles.
+     
+        [{Jargon File}]
+     
+        (1997-09-30)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cycle</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cycle \Cy"cle\ (s?"k'l), n. [F. ycle, LL. cyclus, fr. Gr.
+   ky`klos ring or circle, cycle; akin to Skr. cakra wheel,
+   circle. See {Wheel}.]
+   1. An imaginary circle or orbit in the heavens; one of the
+      celestial spheres. --Milton.
+      [1913 Webster]
+
+   2. An interval of time in which a certain succession of
+      events or phenomena is completed, and then returns again
+      and again, uniformly and continually in the same order; a
+      periodical space of time marked by the recurrence of
+      something peculiar; as, the cycle of the seasons, or of
+      the year.
+      [1913 Webster]
+
+            Wages . . . bear a full proportion . . . to the
+            medium of provision during the last bad cycle of
+            twenty years.                         --Burke.
+      [1913 Webster]
+
+   3. An age; a long period of time.
+      [1913 Webster]
+
+            Better fifty years of Europe than a cycle of Cathay.
+                                                  --Tennyson.
+      [1913 Webster]
+
+   4. An orderly list for a given time; a calendar. [Obs.]
+      [1913 Webster]
+
+            We . . . present our gardeners with a complete cycle
+            of what is requisite to be done throughout every
+            month of the year.                    --Evelyn.
+      [1913 Webster]
+
+   5. The circle of subjects connected with the exploits of the
+      hero or heroes of some particular period which have served
+      as a popular theme for poetry, as the legend of Arthur and
+      the knights of the Round Table, and that of Charlemagne
+      and his paladins.
+      [1913 Webster]
+
+   6. (Bot.) One entire round in a circle or a spire; as, a
+      cycle or set of leaves. --Gray.
+      [1913 Webster]
+
+   7. A bicycle or tricycle, or other light velocipede.
+      [1913 Webster]
+
+   8. A motorcycle.
+      [PJC]
+
+   9. (Thermodynamics) A series of operations in which heat is
+      imparted to (or taken away from) a working substance which
+      by its expansion gives up a part of its internal energy in
+      the form of mechanical work (or being compressed increases
+      its internal energy) and is again brought back to its
+      original state.
+      [Webster 1913 Suppl.]
+
+   10. (Technology) A complete positive and negative, or forward
+       and reverse, action of any periodic process, such as a
+       vibration, an electric field oscillation, or a current
+       alternation; one period. Hence: (Elec.) A complete
+       positive and negative wave of an alternating current. The
+       number of cycles (per second) is a measure of the
+       frequency of an alternating current.
+       [Webster 1913 Suppl. + PJC]
+
+   {Calippic cycle}, a period of 76 years, or four Metonic
+      cycles; -- so called from Calippus, who proposed it as an
+      improvement on the Metonic cycle.
+
+   {Cycle of eclipses}, a period of about 6,586 days, the time
+      of revolution of the moon's node; -- called {Saros} by the
+      Chaldeans.
+
+   {Cycle of indiction}, a period of 15 years, employed in Roman
+      and ecclesiastical chronology, not founded on any
+      astronomical period, but having reference to certain
+      judicial acts which took place at stated epochs under the
+      Greek emperors.
+
+   {Cycle of the moon}, or {Metonic cycle}, a period of 19
+      years, after the lapse of which the new and full moon
+      returns to the same day of the year; -- so called from
+      Meton, who first proposed it.
+
+   {Cycle of the sun}, {Solar cycle}, a period of 28 years, at
+      the end of which time the days of the month return to the
+      same days of the week. The dominical or Sunday letter
+      follows the same order; hence the solar cycle is also
+      called the {cycle of the Sunday letter}. In the Gregorian
+      calendar the solar cycle is in general interrupted at the
+      end of the century.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cycle</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>cycle \cy"cle\ (s?"k'l), v. t.
+   To cause to pass through a cycle[2].
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cycle</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cycle \Cy"cle\ (s?"k'l), v. i. [imp. &amp; p. p. {Cycled}. (-k'ld);
+   p. pr. &amp; vb. n. {Cycling} (-kl?ng).]
+   1. To pass through a cycle[2] of changes; to recur in cycles.
+      --Tennyson. --Darwin.
+      [1913 Webster]
+
+   2. To ride a bicycle, tricycle, or other form of cycle.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cycle</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>cycle 1. n. The basic unit of computation. What every hacker wants more
+   of (noted hacker Bill Gosper described himself as a "cycle junkie"). One
+   can describe an instruction as taking so many `clock cycles'. Often the
+   computer can access its memory once on every clock cycle, and so one
+   speaks also of `memory cycles'. These are technical meanings of {cycle}.
+   The jargon meaning comes from the observation that there are only so
+   many cycles per second, and when you are sharing a computer the cycles
+   get divided up among the users. The more cycles the computer spends
+   working on your program rather than someone else's, the faster your
+   program will run. That's why every hacker wants more cycles: so he can
+   spend less time waiting for the computer to respond. 2. By extension, a
+   notional unit of _human_ thought power, emphasizing that lots of things
+   compete for the typical hacker's think time. "I refused to get involved
+   with the Rubik's Cube back when it was big. Knew I'd burn too many
+   cycles on it if I let myself." 3. vt. Syn. {bounce} (sense 4), {120
+   reset}; from the phrase `cycle power'. "Cycle the machine again, that
+   serial port's still hung."
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cycle</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cycle
+     n 1: an interval during which a recurring sequence of events
+          occurs; "the neverending cycle of the seasons" [syn: {rhythm},
+           {round}]
+     2: a series of poems or songs on the same theme; "schubert's
+        song cycles"
+     3: a periodically repeated sequence of events; "a cycle of
+        reprisal and retaliation"
+     4: the unit of frequency; one Hertz has a periodic interval of
+        one second [syn: {Hertz}, {Hz}, {cycle per second}, {cycles/second},
+         {cps}]
+     5: a single complete execution of a periodically repeated
+        phenomenon; "a year constitutes a cycle of the seasons"
+        [syn: {oscillation}]
+     6: a wheeled vehicle that has two wheels and is moved by foot
+        pedals [syn: {bicycle}, {bike}, {wheel}]
+     v 1: cause to go through a recurring sequence; "cycle thge
+          laundry in this washing program"
+     2: pass through a cycle; "This machine automatically cycles"
+     3: ride a motorcycle [syn: {motorcycle}]
+     4: ride a bicycle [syn: {bicycle}, {bike}, {pedal}, {wheel}]
+     5: recur in repeating sequences
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

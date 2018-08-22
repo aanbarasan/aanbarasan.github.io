@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>kirk</Word>
+  <Definitions>
+    <Definition>
+      <Word>kirk</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Kirk, CO
+  Zip code(s): 80824
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>kirk</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Kirk \Kirk\ (k[~e]rk), n. [Scot.; cf. Icel. kirkja, of Greek
+   origin. See {Church}.]
+   A church or the church, in the various senses of the word;
+   esp., the Church of Scotland as distinguished from other
+   reformed churches, or from the Roman Catholic Church. [Scot.]
+   --Jamieson.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>kirk</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>kirk
+     n : a Scottish church
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

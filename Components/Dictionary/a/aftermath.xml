@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>aftermath</Word>
+  <Definitions>
+    <Definition>
+      <Word>aftermath</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Aftermath \Aft"er*math\, n. [After + math. See {Math}.]
+   A second moving; the grass which grows after the first crop
+   of hay in the same season; rowen. --Holland.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>aftermath</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>aftermath
+     n 1: the consequences of an event (especially a catastrophic
+          event); "the aftermath of war"; "in the wake of the
+          accident no one knew how many had been injured" [syn: {wake},
+           {backwash}]
+     2: the outcome of an event especially as relative to an
+        individual; "that result is of no consequence" [syn: {consequence}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

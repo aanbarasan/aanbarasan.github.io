@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>space</Word>
+  <Definitions>
+    <Definition>
+      <Word>space</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>space
+     
+        &lt;character&gt; The space character, {ASCII} 32.
+     
+        See {octal forty}.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>space</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Space \Space\ (sp[=a]s), n. [OE. space, F. espace, from L.
+   spatium space; cf. Gr. spa^n to draw, to tear; perh. akin to
+   E. span. Cf. {Expatiate}.]
+   1. Extension, considered independently of anything which it
+      may contain; that which makes extended objects conceivable
+      and possible.
+      [1913 Webster]
+
+            Pure space is capable neither of resistance nor
+            motion.                               --Locke.
+      [1913 Webster]
+
+   2. Place, having more or less extension; room.
+      [1913 Webster]
+
+            They gave him chase, and hunted him as hare;
+            Long had he no space to dwell [in].   --R. of
+                                                  Brunne.
+      [1913 Webster]
+
+            While I have time and space.          --Chaucer.
+      [1913 Webster]
+
+   3. A quantity or portion of extension; distance from one
+      thing to another; an interval between any two or more
+      objects; as, the space between two stars or two hills; the
+      sound was heard for the space of a mile.
+      [1913 Webster]
+
+            Put a space betwixt drove and drove.  --Gen. xxxii.
+                                                  16.
+      [1913 Webster]
+
+   4. Quantity of time; an interval between two points of time;
+      duration; time. ``Grace God gave him here, this land to
+      keep long space.'' --R. of brunne.
+      [1913 Webster]
+
+            Nine times the space that measures day and night.
+                                                  --Milton.
+      [1913 Webster]
+
+            God may defer his judgments for a time, and give a
+            people a longer space of repentance.  --Tillotson.
+      [1913 Webster]
+
+   5. A short time; a while. [R.] ``To stay your deadly strife a
+      space.'' --Spenser.
+      [1913 Webster]
+
+   6. Walk; track; path; course. [Obs.]
+      [1913 Webster]
+
+            This ilke [same] monk let old things pace,
+            And held after the new world the space. --Chaucer.
+      [1913 Webster]
+
+   7. (Print.)
+      (a) A small piece of metal cast lower than a face type, so
+          as not to receive the ink in printing, -- used to
+          separate words or letters.
+      (b) The distance or interval between words or letters in
+          the lines, or between lines, as in books, on a
+          computer screen, etc.
+          [1913 Webster]
+
+   Note: Spaces are of different thicknesses to enable the
+         compositor to arrange the words at equal distances from
+         each other in the same line.
+         [1913 Webster]
+
+   8. (Mus.) One of the intervals, or open places, between the
+      lines of the staff.
+      [1913 Webster]
+
+   9. that portion of the universe outside the earth or its
+      atmosphere; -- called also {outer space}.
+      [PJC]
+
+   {Absolute space}, {Euclidian space}, etc. See under
+      {Absolute}, {Euclidian}, etc.
+
+   {deep space}, the part of outer space which is beyond the
+      limits of the solar system.
+
+   {Space line} (Print.), a thin piece of metal used by printers
+      to open the lines of type to a regular distance from each
+      other, and for other purposes; a lead. --Hansard.
+
+   {Space rule} (Print.), a fine, thin, short metal rule of the
+      same height as the type, used in printing short lines in
+      tabular matter.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>space</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Space \Space\, v. i. [Cf. OF. espacier, L. spatiari. See
+   {Space}, n.]
+   To walk; to rove; to roam. [Obs.]
+   [1913 Webster]
+
+         And loved in forests wild to space.      --Spenser.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>space</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Space \Space\, v. t. [imp. &amp; p. p. {Spaced}; p. pr. &amp; vb. n.
+   {Spacong}.] [Cf. F. espacer. See {Space}, n.] (Print.)
+   To arrange or adjust the spaces in or between; as, to space
+   words, lines, or letters.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>space</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>space
+     n 1: the unlimited expanse in which everything is located; "they
+          tested his ability to locate objects in space"
+     2: an empty area (usually bounded in some way between things);
+        "the architect left space in front of the building"; "they
+        stopped at an open space in the jungle"; "the space
+        between his teeth"
+     3: an area reserved for some particular purpose; "the
+        laboratory's floor space"
+     4: a blank character used to separate successive words in
+        writing or printing; "he said the space is the most
+        important character in the alphabet" [syn: {blank}]
+     5: the interval between two times; "the distance from birth to
+        death"; "it all happened in the space of 10 minutes" [syn:
+         {distance}]
+     6: a blank area; "write your name in the space provided" [syn:
+        {blank space}, {place}]
+     7: one of the areas between or below or above the lines of a
+        musical staff; "the spaces are the notes F-A-C-E"
+     8: (printing) a block of type without a raised letter; used for
+        spacing between words [syn: {quad}]
+     v : place at intervals; "Space the interviews so that you have
+         some time between the different candidates"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

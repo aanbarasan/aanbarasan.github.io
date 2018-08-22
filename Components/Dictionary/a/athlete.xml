@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>athlete</Word>
+  <Definitions>
+    <Definition>
+      <Word>athlete</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Athlete \Ath"lete\, n. [L. athleta, Gr. ? prizefighter, fr. ? to
+   contend for a prize, ?, Hom. ?, contest, ? prize; fr. the
+   same root as E. wed: cf. F. athl[`e]te.]
+   1. (Antiq.) One who contended for a prize in the public games
+      of ancient Greece or Rome.
+      [1913 Webster]
+
+   2. Any one trained to contend in exercises requiring great
+      physical agility and strength; one who has great activity
+      and strength; a champion.
+      [1913 Webster]
+
+   3. One fitted for, or skilled in, intellectual contests; as,
+      athletes of debate.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>athlete</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>athlete
+     n : a person trained to compete in sports [syn: {jock}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

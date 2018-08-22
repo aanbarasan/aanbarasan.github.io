@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>remote</Word>
+  <Definitions>
+    <Definition>
+      <Word>remote</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Remote, OR
+  Zip code(s): 97468
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>remote</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Remote \Re*mote"\ (r?-m?t"), a. [Compar. {Remoter} (-?r);
+   superl. {Remotest}.] [L. remotus, p. p. of removere to
+   remove. See {Remove}.]
+   1. Removed to a distance; not near; far away; distant; --
+      said in respect to time or to place; as, remote ages;
+      remote lands.
+      [1913 Webster]
+
+            Places remote enough are in Bohemia.  --Shak.
+      [1913 Webster]
+
+            Remote from men, with God he passed his days.
+                                                  --Parnell.
+      [1913 Webster]
+
+   2. Hence, removed; not agreeing, according, or being related;
+      -- in various figurative uses. Specifically:
+      (a) Not agreeing; alien; foreign. ``All these
+          propositions, how remote soever from reason.''
+          --Locke.
+      (b) Not nearly related; not close; as, a remote connection
+          or consanguinity.
+      (c) Separate; abstracted. ``Wherever the mind places
+          itself by any thought, either amongst, or remote from,
+          all bodies.'' --Locke.
+      (d) Not proximate or acting directly; primary; distant.
+          ``From the effect to the remotest cause.''
+          --Granville.
+      (e) Not obvious or sriking; as, a remote resemblance.
+          [1913 Webster]
+
+   3. (Bot.) Separated by intervals greater than usual.
+      [1913 Webster] -- {Re*mote"ly}, adv. -- {Re*mote"ness}, n.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>remote</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>remote
+     adj 1: far distant in space; "distant lands"; "remote stars"; "a
+            remote outpost of civilization"; "a hideaway far
+            removed from towns and cities" [syn: {distant}, {removed}]
+     2: very unlikely; "an outside chance"; "a remote possibility";
+        "a remote contingency" [syn: {outside}]
+     3: far distant in time; "distant events"; "the remote past or
+        future"; "a civilization ten centuries removed from modern
+        times" [syn: {distant}, {removed}]
+     4: inaccessible and sparsely populated [syn: {backwoods(a)}, {outback(a)}]
+     5: far apart in nature; "considerations entirely removed (or
+        remote) from politics" [syn: {removed(p)}]
+     n : a device that can be used to control a machine or apparatus
+         from a distance; "he lost the remote for his TV" [syn: {remote
+         control}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

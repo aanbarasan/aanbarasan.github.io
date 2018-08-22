@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hook</Word>
+  <Definitions>
+    <Definition>
+      <Word>hook</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Hook
+   (1.) Heb. hah, a "ring" inserted in the nostrils of animals to
+   which a cord was fastened for the purpose of restraining them (2
+   Kings 19:28; Isa. 37:28, 29; Ezek. 29:4; 38:4). "The Orientals
+   make use of this contrivance for curbing their
+   work-beasts...When a beast becomes unruly they have only to draw
+   the cord on one side, which, by stopping his breath, punishes
+   him so effectually that after a few repetitions he fails not to
+   become quite tractable whenever he begins to feel it"
+   (Michaelis). So God's agents are never beyond his control.
+   
+     (2.) Hakkah, a fish "hook" (Job 41:2, Heb. Text, 40:25; Isa.
+   19:8; Hab. 1:15).
+   
+     (3.) Vav, a "peg" on which the curtains of the tabernacle were
+   hung (Ex. 26:32).
+   
+     (4.) Tsinnah, a fish-hooks (Amos 4:2).
+   
+     (5.) Mazleg, flesh-hooks (1 Sam. 2:13, 14), a kind of fork
+   with three teeth for turning the sacrifices on the fire, etc.
+   
+     (6.) Mazmeroth, pruning-hooks (Isa. 2:4; Joel 3:10).
+   
+     (7.) 'Agmon (Job 41:2, Heb. Text 40:26), incorrectly rendered
+   in the Authorized Version. Properly a rush-rope for binding
+   animals, as in Revised Version margin.
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hook</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>HOOK
+     
+        ? Object Oriented Kernel.  Delphia.  An object-oriented
+        extension of Delphia Prolog.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hook</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>hook
+     
+        &lt;programming&gt; A {software} or {hardware} feature included in
+        order to simplify later additions or changes by a user.
+     
+        For example, a simple program that prints numbers might always
+        print them in base 10, but a more flexible version would let a
+        variable determine what base to use; setting the variable to 5
+        would make the program print numbers in base 5.  The variable
+        is a simple hook.  An even more flexible program might examine
+        the variable and treat a value of 16 or less as the base to
+        use, but treat any other number as the address of a
+        user-supplied routine for printing a number.  This is a
+        {hairy} but powerful hook; one can then write a routine to
+        print numbers as Roman numerals, say, or as Hebrew characters,
+        and plug it into the program through the hook.
+     
+        Often the difference between a good program and a superb one
+        is that the latter has useful hooks in judiciously chosen
+        places.  Both may do the original job about equally well, but
+        the one with the hooks is much more flexible for future
+        expansion of capabilities.
+     
+        {Emacs}, for example, is *all* hooks.
+     
+        The term "user exit" is synonymous but much more formal and
+        less hackish.
+     
+        (1997-06-25)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hook</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hook \Hook\, v. t. [imp. &amp; p. p. {Hooked}; p. pr. &amp; vb. n.
+   {Hooking}.]
+   1. To catch or fasten with a hook or hooks; to seize,
+      capture, or hold, as with a hook, esp. with a disguised or
+      baited hook; hence, to secure by allurement or artifice;
+      to entrap; to catch; as, to hook a dress; to hook a trout.
+      [1913 Webster]
+
+            Hook him, my poor dear, . . . at any sacrifice. --W.
+                                                  Collins.
+      [1913 Webster]
+
+   2. To seize or pierce with the points of the horns, as cattle
+      in attacking enemies; to gore.
+      [1913 Webster]
+
+   3. To steal. [Colloq. Eng. &amp; U.S.]
+      [1913 Webster]
+
+   {To hook on}, to fasten or attach by, or as by, hook.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hook</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hook \Hook\, v. i.
+   1. To bend; to curve as a hook.
+      [1913 Webster]
+
+   2. To move or go with a sudden turn; hence [Slang or Prov.
+      Eng.], to make off; to clear out; -- often with it.
+      ``Duncan was wounded, and the escort hooked it.''
+      --Kipling.
+      [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hook</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hook \Hook\ (h[oo^]k; 277), n. [OE. hok, AS. h[=o]c; cf. D.
+   haak, G. hake, haken, OHG. h[=a]ko, h[=a]go, h[=a]ggo, Icel.
+   haki, Sw. hake, Dan. hage. Cf. {Arquebuse}, {Hagbut}, {Hake},
+   {Hatch} a half door, {Heckle}.]
+   1. A piece of metal, or other hard material, formed or bent
+      into a curve or at an angle, for catching, holding, or
+      sustaining anything; as, a hook for catching fish; a hook
+      for fastening a gate; a boat hook, etc.
+      [1913 Webster]
+
+   2. That part of a hinge which is fixed to a post, and on
+      which a door or gate hangs and turns.
+      [1913 Webster]
+
+   3. An implement for cutting grass or grain; a sickle; an
+      instrument for cutting or lopping; a billhook.
+      [1913 Webster]
+
+            Like slashing Bentley with his desperate hook.
+                                                  --Pope.
+      [1913 Webster]
+
+   4. (Steam Engin.) See {Eccentric}, and {V-hook}.
+      [1913 Webster]
+
+   5. A snare; a trap. [R.] --Shak.
+      [1913 Webster]
+
+   6. A field sown two years in succession. [Prov. Eng.]
+      [1913 Webster]
+
+   7. pl. The projecting points of the thigh bones of cattle; --
+      called also {hook bones}.
+      [1913 Webster]
+
+   8. (Geog.) A spit or narrow cape of sand or gravel turned
+      landward at the outer end; as, Sandy Hook in New Jersey.
+      [Webster 1913 Suppl. +PJC]
+
+   9. (Sports) The curving motion of a ball, as in bowling or
+      baseball, curving away from the hand which threw the ball;
+      in golf, a curving motion in the direction of the golfer
+      who struck the ball.
+      [PJC]
+
+   10. (Computers) A procedure within the encoding of a computer
+       program which allows the user to modify the program so as
+       to import data from or export data to other programs.
+       [PJC]
+
+   {By hook or by crook}, one way or other; by any means, direct
+      or indirect. --Milton. ``In hope her to attain by hook or
+      crook.'' --Spenser.
+
+   {Off the hook}, freed from some obligation or difficulty; as,
+      to get off the hook by getting someone else to do the job.
+      [Colloq.]
+
+   {Off the hooks}, unhinged; disturbed; disordered. [Colloq.]
+      ``In the evening, by water, to the Duke of Albemarle, whom
+      I found mightly off the hooks that the ships are not gone
+      out of the river.'' --Pepys.
+
+   {On one's own hook}, on one's own account or responsibility;
+      by one's self. [Colloq. U.S.] --Bartlett.
+
+   {To go off the hooks}, to die. [Colloq.] --Thackeray.
+
+   {Bid hook}, a small boat hook.
+
+   {Chain hook}. See under {Chain}.
+
+   {Deck hook}, a horizontal knee or frame, in the bow of a
+      ship, on which the forward part of the deck rests.
+
+   {Hook and eye}, one of the small wire hooks and loops for
+      fastening together the opposite edges of a garment, etc.
+      
+
+   {Hook bill} (Zo["o]l.), the strongly curved beak of a bird.
+      
+
+   {Hook ladder}, a ladder with hooks at the end by which it can
+      be suspended, as from the top of a wall.
+
+   {Hook motion} (Steam Engin.), a valve gear which is reversed
+      by V hooks.
+
+   {Hook squid}, any squid which has the arms furnished with
+      hooks, instead of suckers, as in the genera
+      {Enoploteuthis} and {Onychteuthis}.
+
+   {Hook wrench}, a wrench or spanner, having a hook at the end,
+      instead of a jaw, for turning a bolthead, nut, or
+      coupling.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hook</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>hook n. A software or hardware feature included in order to simplify
+   later additions or changes by a user. For example, a simple program that
+   prints numbers might always print them in base 10, but a more flexible
+   version would let a variable determine what base to use; setting the
+   variable to 5 would make the program print numbers in base 5. The
+   variable is a simple hook. An even more flexible program might examine
+   the variable and treat a value of 16 or less as the base to use, but
+   treat any other number as the address of a user-supplied routine for
+   printing a number. This is a {hairy} but powerful hook; one can then
+   write a routine to print numbers as Roman numerals, say, or as Hebrew
+   characters, and plug it into the program through the hook. Often the
+   difference between a good program and a superb one is that the latter
+   has useful hooks in judiciously chosen places. Both may do the original
+   job about equally well, but the one with the hooks is much more flexible
+   for future expansion of capabilities ({EMACS}, for example, is _all_
+   hooks). The term `user exit' is synonymous but much more formal and less
+   hackish.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hook</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hook
+     n 1: a catch for locking a door
+     2: a sharp curve or crook; a shape resembling a hook [syn: {crotchet}]
+     3: anything that serves as an enticement [syn: {bait}, {come-on},
+         {lure}, {sweetener}]
+     4: a mechanical device that is curved or bent to suspend or
+        hold or pull something [syn: {claw}]
+     5: a curved or bent implement for suspending or pulling
+        something
+     6: a golf shot that curves to the left for a right-handed
+        golfer; "he tooks lessons to cure his hooking" [syn: {draw},
+         {hooking}]
+     7: a short swinging punch delivered from the side with the
+        elbow bent
+     8: a basketball shot made over the head with the hand that is
+        farther from the basket [syn: {hook shot}]
+     v 1: fasten with a hook [ant: {unhook}]
+     2: rip off; ask an unreasonable price [syn: {overcharge}, {soak},
+         {surcharge}, {gazump}, {fleece}, {plume}, {pluck}, {rob}]
+        [ant: {undercharge}]
+     3: make a piece of needlework by interlocking and looping
+        thread with a hooked needle; "She sat there crocheting all
+        day" [syn: {crochet}]
+     4: hit a ball and put a spin on it so that it travels to the
+        left
+     5: take by theft; "Someone snitched my wallet!" [syn: {snitch},
+         {thieve}, {cop}, {knock off}, {glom}]
+     6: make off with belongings of others [syn: {pilfer}, {cabbage},
+         {purloin}, {pinch}, {abstract}, {snarf}, {swipe}, {sneak},
+         {filch}, {nobble}, {lift}]
+     7: hit with a hook; "His opponent hooked him badly"
+     8: catch with a hook; "hook a fish"
+     9: to cause (someone or oneself) to become dependent (on
+        something, especially a narcotic drug) [syn: {addict}]
+     10: secure with the foot; "hook the ball"
+     11: entice and trap; "The car salesman had snared three
+         potential customers" [syn: {snare}]
+     12: approach with an offer of sexual favors; "he was solicited
+         by a prostitute"; "The young man was caught soliciting in
+         the park" [syn: {solicit}, {accost}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

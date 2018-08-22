@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>buckman</Word>
+  <Definitions>
+    <Definition>
+      <Word>buckman</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Buckman, MN (city, FIPS 8416)
+  Location: 45.89798 N, 94.09235 W
+  Population (1990): 201 (77 housing units)
+  Area: 2.7 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pingpong</Word>
+  <Definitions>
+    <Definition>
+      <Word>pingpong</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>ping-pong
+     
+        &lt;architecture&gt; A phenomenon which can occur in a
+        {multi-processor} system with {private caches} where two
+        processors are alternately caching a shared location.  Each
+        time one writes to it, it invalidates the other's copy.
+     
+        (1995-12-29)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pingpong</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ping-pong \Ping"-pong`\, v. i.
+   1. To play ping-pong.
+      [Webster 1913 Suppl.]
+
+   2. to bounce back and forth, in the manner of a ping-pong
+      ball.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pingpong</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>ping-pong \ping"-pong`\, n. [Imitative.]
+   1. An indoor modification of lawn tennis played with small
+      bats, or battledores, and a very light, hollow, celluloid
+      ball, on a large table divided across the middle by a net.
+      Also called {table tennis}. [[originally a trade name]
+      [Webster 1913 Suppl. +PJC]
+
+   2. A size of photograph a little larger than a postage stamp.
+      [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pingpong</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Ping-Pong
+     n : a game (trade name Ping-Pong) resembling tennis but played
+         on a table with paddles and a light hollow ball [syn: {table
+         tennis}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

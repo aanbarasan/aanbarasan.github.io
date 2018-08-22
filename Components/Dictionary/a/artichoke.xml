@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>artichoke</Word>
+  <Definitions>
+    <Definition>
+      <Word>artichoke</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Artichoke \Ar"ti*choke\, n. [It. articiocco, perh. corrupted fr.
+   the same word as carciofo; cf. older spellings archiciocco,
+   archicioffo, carciocco, and Sp. alcachofa, Pg. alcachofra;
+   prob. fr. Ar. al-harshaf, al-kharsh[=u]f.] (Bot.)
+   1. The {Cynara scolymus}, a plant somewhat resembling a
+      thistle, with a dilated, imbricated, and prickly
+      involucre. The head (to which the name is also applied) is
+      composed of numerous oval scales, inclosing the florets,
+      sitting on a broad receptacle, which, with the fleshy base
+      of the scales, is much esteemed as an article of food.
+      [1913 Webster]
+
+   2. See {Jerusalem artichoke}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>artichoke</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>artichoke
+     n 1: Mediterranean thistlelike plant widely cultivated for its
+          large edible flower head [syn: {globe artichoke}, {artichoke
+          plant}, {Cynara scolymus}]
+     2: a thistle-like flower head with edible fleshy leaves and
+        heart [syn: {globe artichoke}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

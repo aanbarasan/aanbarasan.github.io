@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>counting</Word>
+  <Definitions>
+    <Definition>
+      <Word>counting</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Count \Count\ (kount), v. t. [imp. &amp; p. p. {Counted}; p. pr. &amp;
+   vb. n. {Counting}.] [OF. conter, and later (etymological
+   spelling) compter, in modern French thus distinguished;
+   conter to relate (cf. {Recount}, {Account}), compter to
+   count; fr. L. computuare to reckon, compute; com- + putare to
+   reckon, settle, order, prune, orig., to clean. See {Pure},
+   and cf. {Compute}.]
+   1. To tell or name one by one, or by groups, for the purpose
+      of ascertaining the whole number of units in a collection;
+      to number; to enumerate; to compute; to reckon.
+      [1913 Webster]
+
+            Who can count the dust of Jacob?      --Num. xxiii.
+                                                  10.
+      [1913 Webster]
+
+            In a journey of forty miles, Avaux counted only
+            three miserable cabins.               --Macaulay.
+      [1913 Webster]
+
+   2. To place to an account; to ascribe or impute; to consider
+      or esteem as belonging.
+      [1913 Webster]
+
+            Abracham believed God, and it was counted unto him
+            for righteousness.                    --Rom. iv. 3.
+      [1913 Webster]
+
+   3. To esteem; to account; to reckon; to think, judge, or
+      consider.
+      [1913 Webster]
+
+            I count myself in nothing else so happy
+            As in a soul remembering my good friends. --Shak.
+      [1913 Webster]
+
+   {To count out}.
+      (a) To exclude (one) from consideration; to be assured
+          that (one) will not participate or cannot be depended
+          upon.
+      (b) (House of Commons) To declare adjourned, as a sitting
+          of the House, when it is ascertained that a quorum is
+          not present.
+      (c) To prevent the accession of (a person) to office, by a
+          fraudulent return or count of the votes cast; -- said
+          of a candidate really elected. [Colloq.]
+
+   Syn: To calculate; number; reckon; compute; enumerate. See
+        {Calculate}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>counting</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>counting
+     n : the act of counting; "the counting continued for several
+         hours" [syn: {count}, {numeration}, {enumeration}, {reckoning},
+          {tally}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

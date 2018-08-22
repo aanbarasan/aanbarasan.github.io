@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dollar</Word>
+  <Definitions>
+    <Definition>
+      <Word>dollar</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>dollar
+     
+        $
+     
+        Common: {ITU-T}: dollar sign.  Rare: currency symbol;
+        buck; cash; string (from BASIC); escape (when used as the echo
+        of ASCII ESC); ding; cache; {INTERCAL}: big money.
+     
+        (1995-03-06)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dollar</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>dollar \dol"lar\, n. [D. daalder, LG. dahler, G. thaler, an
+   abbreviation of Joachimsthaler, i. e., a piece of money first
+   coined, about the year 1518, in the valley (G. thal) of St.
+   Joachim, in Bohemia. See {Dale}.]
+   1.
+      (a) A silver coin of the United States containing 371.25
+          grains of silver and 41.25 grains of alloy, that is,
+          having a total weight of 412.5 grains.
+      (b) A gold coin of the United States containing 23.22
+          grains of gold and 2.58 grains of alloy, that is,
+          having a total weight of 25.8 grains, nine-tenths
+          fine. It is no longer coined.
+          [1913 Webster]
+
+   Note: Previous to 1837 the silver dollar had a larger amount
+         of alloy, but only the same amount of silver as now,
+         the total weight being 416 grains. The gold dollar as a
+         distinct coin was first made in 1849. The eagles, half
+         eagles, and quarter eagles coined before 1834 contained
+         24.75 grains of gold and 2.25 grains of alloy for each
+         dollar.
+         [1913 Webster]
+
+   2. A coin of the same general weight and value as the United
+      States silver dollar, though differing slightly in
+      different countries, formerly current in Mexico, Canada,
+      parts of South America, also in Spain, and several other
+      European countries.
+      [1913 Webster +PJC]
+
+   3. The value of a dollar; the unit of currency, differing in
+      value in different countries, commonly employed in the
+      United States and a number of other countries, including
+      Australia, Canada, Hong Kong, parts of the Carribbean,
+      Liberia, and several others.
+      [1913 Webster +PJC]
+
+   {Chop dollar}. See under 9th {Chop}.
+
+   {Dollar fish} (Zo["o]l.), a fish of the United States coast
+      ({Stromateus triacanthus}), having a flat, roundish form
+      and a bright silvery luster; -- called also {butterfish},
+      and {Lafayette}. See {Butterfish}.
+
+   {Trade dollar}, a silver coin formerly made at the United
+      States mint, intended for export, and not legal tender at
+      home. It contained 378 grains of silver and 42 grains of
+      alloy.
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dollar</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dollar
+     n 1: the basic monetary unit in many countries; equal to 100
+          cents
+     2: a piece of paper money worth one dollar [syn: {dollar bill},
+         {one dollar bill}, {buck}, {clam}]
+     3: a United States coin worth one dollar; "the dollar coin has
+        never been popular in the United States"
+     4: a symbol of commercialism or greed; "he worships the
+        almighty dollar"; "the dollar sign means little to him"
+        [syn: {dollar mark}, {dollar sign}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

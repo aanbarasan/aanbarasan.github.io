@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>social</Word>
+  <Definitions>
+    <Definition>
+      <Word>social</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Social \So"cial\, a. [L. socialis, from socius a companion; akin
+   to sequi to follow: cf. F. social. See {Sue} to follow.]
+   1. Of or pertaining to society; relating to men living in
+      society, or to the public as an aggregate body; as, social
+      interest or concerns; social pleasure; social benefits;
+      social happiness; social duties. ``Social phenomena.''
+      --J. S. Mill.
+      [1913 Webster]
+
+   2. Ready or disposed to mix in friendly converse;
+      companionable; sociable; as, a social person.
+      [1913 Webster]
+
+   3. Consisting in union or mutual intercourse.
+      [1913 Webster]
+
+            Best with thyself accompanied, seek'st not
+            Social communication.                 --Milton.
+      [1913 Webster]
+
+   4. (Bot.) Naturally growing in groups or masses; -- said of
+      many individual plants of the same species.
+      [1913 Webster]
+
+   5. (Zo["o]l.)
+      (a) Living in communities consisting of males, females,
+          and neuters, as do ants and most bees.
+      (b) Forming compound groups or colonies by budding from
+          basal processes or stolons; as, the social ascidians.
+          [1913 Webster]
+
+   {Social science}, the science of all that relates to the
+      social condition, the relations and institutions which are
+      involved in man's existence and his well-being as a member
+      of an organized community; sociology. It concerns itself
+      with questions of the public health, education, labor,
+      punishment of crime, reformation of criminals, and the
+      like.
+
+   {Social whale} (Zo["o]l.), the blackfish.
+
+   {The social evil}, prostitution.
+      [1913 Webster]
+
+   Syn: Sociable; companionable; conversible; friendly;
+        familiar; communicative; convival; festive.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>social</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>social
+     adj 1: relating to human society and its members; "social
+            institutions"; "societal evolution"; "societal
+            forces"; "social legislation" [syn: {societal}]
+     2: living together or enjoying life in communities or organized
+        groups; "human beings are social animals"; "spent a
+        relaxed social evening"; "immature social behavior" [ant:
+        {unsocial}]
+     3: relating to or belonging to or characteristic of high
+        society; "made fun of her being so social and high-toned";
+        "a social gossip colum"; "the society page"
+     4: composed of sociable people or formed for the purpose of
+        sociability; "a purely social club"; "the church has a
+        large social hall"; "a social director"
+     5: (of birds and animals) tending to move or live together in
+        groups or colonies of the same kind; "ants are social
+        insects"; "the herding instinct in sheep or cattle";
+        "swarming behavior in bees" [syn: {herding(a)}, {swarming(a)}]
+     6: marked by friendly companionship with others; "a social cup
+        of coffee"
+     n : a party of people assembled to promote sociability and
+         communal activity [syn: {sociable}, {mixer}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

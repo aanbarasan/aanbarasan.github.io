@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>resident</Word>
+  <Definitions>
+    <Definition>
+      <Word>resident</Word>
+      <Dictionary>
+        <Id>devils</Id>
+        <Name>THE DEVIL'S DICTIONARY ((C)1911 Released April 15 1993)</Name>
+      </Dictionary>
+      <WordDefinition>RESIDENT, adj.  Unable to leave.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>resident</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Resident \Res"i*dent\, n.
+   1. One who resides or dwells in a place for some time.
+      [1913 Webster]
+
+   2. A diplomatic representative who resides at a foreign
+      court; -- a term usualy applied to ministers of a rank
+      inferior to that of ambassadors. See the Note under
+      {Minister}, 4.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>resident</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Resident \Res"i*dent\ (-dent), a. [F. r['e]sident, L. residens,
+   -entis, p. pr. of residere. See {Reside}.]
+   1. Dwelling, or having an abode, in a place for a continued
+      length of time; residing on one's own estate; -- opposed
+      to {nonresident}; as, resident in the city or in the
+      country.
+      [1913 Webster]
+
+   2. Fixed; stable; certain. [Obs.] ``Stable and resident like
+      a rock.'' --Jer. TAylor.
+      [1913 Webster]
+
+            One there still resident as day and night.
+                                                  --Davenant.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>resident</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>resident
+     adj 1: living in a particular place; "resident aliens" [ant: {nonresident}]
+     2: used of animals that do not migrate [syn: {nonmigratory}]
+        [ant: {migratory}]
+     n 1: someone who lives at a particular place for a prolonged
+          period or who was born there [syn: {occupant}, {occupier}]
+     2: a physician (especially an intern) who lives in a hospital
+        and cares for hospitalized patients under the supervision
+        of the medical staff of the hospital; "the resident was
+        receiving special clinical training at the hospital" [syn:
+         {house physician}, {resident physician}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

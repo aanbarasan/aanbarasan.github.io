@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>barkeep</Word>
+  <Definitions>
+    <Definition>
+      <Word>barkeep</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>barkeep
+     n : an employee who mixes and serves alcoholic drinks at a bar
+         [syn: {bartender}, {barman}, {barkeeper}, {mixologist}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>carrot</Word>
+  <Definitions>
+    <Definition>
+      <Word>carrot</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Apiaceae \Apiaceae\ n.
+   1. a family of plants bearing flowers in umbels; examples
+      are: {parsley}; {carrot}; {anise}; {caraway}; {celery};
+      {dill}.
+
+   Syn: Umbelliferae, family {Umbelliferae}, family {Apiaceae},
+        carrot family
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>carrot</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Carrot \Car"rot\, n. [F. carotte, fr. L. carota; cf. Gr. ?]
+   1. (Bot.) An umbelliferous biennial plant ({Daucus Carota}),
+      of many varieties.
+      [1913 Webster]
+
+   2. The esculent root of cultivated varieties of the plant,
+      usually spindle-shaped, and of a reddish yellow color.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>carrot</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>carrot
+     n 1: deep orange edible root of the cultivated carrot plant
+     2: perennial plant widely cultivated as an annual in many
+        varieties for its long conical deep-orange edible roots;
+        temperate and tropical regions [syn: {cultivated carrot},
+        {Daucus carota sativa}]
+     3: orange root; important source of carotene
+     4: promise of reward as in "carrot and stick"; "used the carrot
+        of subsidized housing for the workers to get their vote";
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

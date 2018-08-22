@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ninja</Word>
+  <Definitions>
+    <Definition>
+      <Word>ninja</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ninja
+     n 1: a member of the ninja who were trained in martial arts and
+          hired for espionage or sabotage or assassinations; a
+          person skilled in ninjutsu
+     2: a class of 14th century Japanese who were trained in martial
+        arts and were hired for espionage and assassinations
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

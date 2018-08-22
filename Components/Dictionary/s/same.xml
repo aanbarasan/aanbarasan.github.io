@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>same</Word>
+  <Definitions>
+    <Definition>
+      <Word>same</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>SAME
+     
+        {Standard ANSI Module language with Extensions}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>same</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Same \Same\, a. [AS. same, adv.; akin to OS. sama, samo, adv.,
+   OHG. sam, a., sama, adv., Icel. samr, a., Sw. samme, samma,
+   Dan. samme, Goth. sama, Russ. samuii, Gr. ?, Skr. sama, Gr. ?
+   like, L. simul at the same time, similis like, and E. some,
+   a., -some. [root]191. Cf. {Anomalous}, {Assemble},
+   {Homeopathy}, {Homily}, {Seem}, v. i., {Semi-}, {Similar},
+   {Some}.]
+   1. Not different or other; not another or others; identical;
+      unchanged.
+      [1913 Webster]
+
+            Thou art the same, and thy years shall have no end.
+                                                  --Ps. cii. 27.
+      [1913 Webster]
+
+   2. Of like kind, species, sort, dimensions, or the like; not
+      differing in character or in the quality or qualities
+      compared; corresponding; not discordant; similar; like.
+      [1913 Webster]
+
+            The ethereal vigor is in all the same. --Dryden.
+      [1913 Webster]
+
+   3. Just mentioned, or just about to be mentioned.
+      [1913 Webster]
+
+            What ye know, the same do I know.     --Job. xiii.
+                                                  2.
+      [1913 Webster]
+
+            Do but think how well the same he spends,
+            Who spends his blood his country to relieve.
+                                                  --Daniel.
+      [1913 Webster]
+
+   Note: Same is commonly preceded by the, this, or that and is
+         often used substantively as in the citations above. In
+         a comparative use it is followed by as or with.
+         [1913 Webster]
+
+               Bees like the same odors as we do. --Lubbock.
+         [1913 Webster]
+
+               [He] held the same political opinions with his
+               illustrious friend.                --Macaulay.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>same</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>same
+     adj 1: same in identity; "the same man I saw yesterday"; "never
+            wore the same dress twice"; "this road is the same one
+            we were on yesterday"; "on the same side of the
+            street" [ant: {other}]
+     2: closely similar or comparable in kind or quality or quantity
+        or degree; "curtains the same color as the walls"; "two
+        girls of the same age"; "mother and son have the same blue
+        eyes"; "animals of the same species"; "the same rules as
+        before"; "two boxes having the same dimensions"; "the same
+        day next year" [ant: {different}]
+     3: equal in amount or value; "like amounts"; "equivalent
+        amounts"; "the same amount"; "gave one six blows and the
+        other a like number"; "an equal number"; "the same number"
+        [syn: {like}, {equal}, {equivalent}] [ant: {unlike}]
+     4: unchanged in character or nature; "the village stayed the
+        same"; "his attitude is the same as ever" [syn: {same(p)}]
+     adv : in the same manner; "you get treated fairly, same as any
+           other student in this course!"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

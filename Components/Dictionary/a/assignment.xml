@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>assignment</Word>
+  <Definitions>
+    <Definition>
+      <Word>assignment</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>assignment
+     
+        &lt;programming&gt; Storing the value of an expression in a
+        {variable}.  This is commonly written in the form "v = e".  In
+        {Algol} the assignment operator was ":=" (pronounced
+        "becomes") to avoid mathematicians qualms about writing
+        statements like x = x+1.
+     
+        Assignment is not allowed in {functional languages}, where an
+        {identifier} always has the same value.
+     
+        See also {referential transparency}, {single assignment},
+        {zero assignment}.
+     
+        (1996-08-19)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>assignment</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Assignment \As*sign"ment\, n. [LL. assignamentum: cf. OF.
+   assenement.]
+   1. An allotting or an appointment to a particular person or
+      use; or for a particular time, as of a cause or causes in
+      court.
+      [1913 Webster]
+
+   2. (Law)
+      (a) A transfer of title or interest by writing, as of
+          lease, bond, note, or bill of exchange; a transfer of
+          the whole of some particular estate or interest in
+          lands.
+      (b) The writing by which an interest is transferred.
+      (c) The transfer of the property of a bankrupt to certain
+          persons called assignees, in whom it is vested for the
+          benefit of creditors.
+          [1913 Webster]
+
+   {Assignment of dower}, the setting out by metes and bounds of
+      the widow's thirds or portion in the deceased husband's
+      estate, and allotting it to her.
+      [1913 Webster]
+
+   Note: Assignment is also used in law as convertible with
+         specification; assignment of error in proceedings for
+         review being specification of error; and assignment of
+         perjury or fraud in indictment being specifications of
+         perjury or fraud.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>assignment</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>assignment
+     n 1: a duty that you are assigned to perform (especially in the
+          armed forces); "hazardous duty" [syn: {duty assignment}]
+     2: the instrument by which a claim or right or interest or
+        property is transferred from one person to another
+     3: the act of distributing something to designated places or
+        persons; "the first task is the assignment of an address
+        to each datum" [syn: {assigning}]
+     4: (law) a transfer of property by deed of conveyance [syn: {grant}]
+     5: an undertaking that you have been assigned to do (as by an
+        instructor)
+     6: the act of putting a person into a non-elective position;
+        "the appointment had to be approved by the whole
+        committee" [syn: {appointment}, {designation}, {naming}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

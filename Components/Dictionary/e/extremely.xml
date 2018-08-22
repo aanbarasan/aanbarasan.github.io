@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>extremely</Word>
+  <Definitions>
+    <Definition>
+      <Word>extremely</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Extremely \Ex*treme"ly\, adv.
+   In an extreme manner or state; in the utmost degree; to the
+   utmost point; exceedingly; as, extremely hot or cold.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>extremely</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>extremely
+     adv 1: to a high degree or extent; favorably or with much respect;
+            "highly successful"; "He spoke highly of her"; "does
+            not think highly of his writing"; "extremely
+            interesting" [syn: {highly}]
+     2: to an extreme degree; "extremely cold"; "extremely
+        unpleasant"
+     3: to an extreme degree; "the house was super clean for
+        Mother's visit" [syn: {super}]
+     4: to an extreme degree or extent; "his eyesight was
+        exceedingly defective" [syn: {exceedingly}, {passing}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

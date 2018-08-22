@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>comical</Word>
+  <Definitions>
+    <Definition>
+      <Word>comical</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Comical \Com"ic*al\, a.
+   1. Relating to comedy.
+      [1913 Webster]
+
+            They deny it to be tragical because its catastrophe
+            is a wedding, which hath ever been accounted
+            comical.                              --Gay.
+      [1913 Webster]
+
+   2. Exciting mirth; droll; laughable; as, a comical story.
+      ``Comical adventures.'' --Dryden.
+
+   Syn: Humorous; laughable; funny. See {Droll}. --
+        {Com"ic*al*ly}, adv. -- {Com"ic*al"ness}, n.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>comical</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>comical
+     adj : arousing or provoking laughter; "an amusing film with a
+           steady stream of pranks and pratfalls"; "an amusing
+           fellow"; "a comic hat"; "a comical look of surprise";
+           "funny stories that made everybody laugh"; "a very
+           funny writer"; "it would have been laughable if it
+           hadn't hurt so much"; "a mirthful experience"; "risible
+           courtroom antics" [syn: {amusing}, {comic}, {funny}, {laughable},
+            {mirthful}, {risible}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

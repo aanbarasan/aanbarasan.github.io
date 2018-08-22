@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>afoot</Word>
+  <Definitions>
+    <Definition>
+      <Word>afoot</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Afoot \A*foot"\, adv. [Pref. a- + foot.]
+   1. On foot.
+      [1913 Webster]
+
+            We 'll walk afoot a while.            --Shak.
+      [1913 Webster]
+
+   2. Fig.: In motion; in action; astir; in progress.
+      [1913 Webster]
+
+            The matter being afoot.               --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>afoot</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>afoot
+     adj 1: traveling by foot; "she was afoot when I saw her this
+            morning" [syn: {afoot(p)}]
+     2: currently in progress; "there is mischief afoot"; "plans are
+        afoot"; "preparations for the trial are underway" [syn: {afoot(p)},
+         {underway}]
+     adv : on foot; walking; "they went to the village afoot"; "quail
+           are hunted either afoot or on horseback"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

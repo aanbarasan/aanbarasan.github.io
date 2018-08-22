@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>owner</Word>
+  <Definitions>
+    <Definition>
+      <Word>owner</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Owner \Own"er\, n.
+   One who owns; a rightful proprietor; one who has the legal or
+   rightful title, whether he is the possessor or not. --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>owner</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>owner
+     n 1: (law) someone who owns (is legal possessor of) a business;
+          "he is the owner of a chain of restaurants" [syn: {proprietor}]
+     2: a person who owns something; "they are searching for the
+        owner of the car"; "who is the owner of that friendly
+        smile?" [syn: {possessor}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

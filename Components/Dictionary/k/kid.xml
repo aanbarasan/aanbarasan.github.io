@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>kid</Word>
+  <Definitions>
+    <Definition>
+      <Word>kid</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Kid
+   the young of the goat. It was much used for food (Gen. 27:9;
+   38:17; Judg. 6:19; 14:6). The Mosaic law forbade to dress a kid
+   in the milk of its dam, a law which is thrice repeated (Ex.
+   23:19; 34:26; Deut. 14:21). Among the various reasons assigned
+   for this law, that appears to be the most satisfactory which
+   regards it as "a protest against cruelty and outraging the order
+   of nature." A kid cooked in its mother's milk is "a gross,
+   unwholesome dish, and calculated to kindle animal and ferocious
+   passions, and on this account Moses may have forbidden it.
+   Besides, it is even yet associated with immoderate feasting; and
+   originally, I suspect," says Dr. Thomson (Land and the Book),
+   "was connected with idolatrous sacrifices."
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>kid</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Kid
+     
+        {Kernel} language for {Id}.  A refinement of {P-TAC}, used as
+        an intermediate language for Id.  {Lambda-calculus} with
+        first-class {let}-blocks and {I-structure}s.
+     
+        ["A Syntactic Approach to Program Transformations", Z. Ariola
+        et al, SIGPLAN Notices 26(9):116-129 (Sept 1991)].
+     
+        (1996-07-22)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>kid</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Kid \Kid\ (k[i^]d), n. [Of Scand. origin; cf. Icel. ki[eth],
+   Dan. &amp; Sw. kid; akin to OHG. kizzi, G. kitz, kitzchen,
+   kitzlein.]
+   1. (Zo["o]l.) A young goat.
+      [1913 Webster]
+
+            The . . . leopard shall lie down with the kid. --Is.
+                                                  xi. 6.
+      [1913 Webster]
+
+   2. A young child or infant; hence, a simple person, easily
+      imposed on. [Slang] --Charles Reade.
+      [1913 Webster]
+
+   3. A kind of leather made of the skin of the young goat, or
+      of the skin of rats, etc.
+      [1913 Webster]
+
+   4. pl. Gloves made of kid. [Colloq. &amp; Low]
+      [1913 Webster]
+
+   5. A small wooden mess tub; -- a name given by sailors to one
+      in which they receive their food. --Cooper.
+      [1913 Webster]
+
+   6. Among pugilists, thieves, gunfighters, etc., a youthful
+      expert; -- chiefly used attributively; as, kid Jones.
+      [Cant]
+      [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>kid</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Kid \Kid\, v. i. [imp. &amp; p. p. {Kidded}; p. pr. &amp; vb. n.
+   {Kidding}.]
+   To bring forth a young goat.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>kid</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Kid \Kid\, n. [Cf. W. cidysen.]
+   A fagot; a bundle of heath and furze. [Prov. Eng.] --Wright.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>kid</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Kid \Kid\, p. p.
+   of {Kythe}. [Obs.] --Gower. --Chaucer.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>kid</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Kid \Kid\, v. t.
+   See {Kiddy}, v. t. [Slang]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>kid</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>kid
+     n 1: a young person of either sex; "she writes books for
+          children"; "they're just kids"; "`tiddler' is a British
+          term for youngsters" [syn: {child}, {youngster}, {minor},
+           {shaver}, {nipper}, {small fry}, {tiddler}, {tike}, {tyke},
+           {fry}, {nestling}]
+     2: soft smooth leather from the hide of a young goat; "kid
+        gloves" [syn: {kidskin}]
+     3: English dramatist (1558-1594) [syn: {Kyd}, {Thomas Kyd}, {Thomas
+        Kid}]
+     4: a human offspring (son or daughter) of any age; "they had
+        three children"; "they were able to send their kids to
+        college" [syn: {child}] [ant: {parent}]
+     5: young goat
+     v 1: tell false information to for fun; "Are you pulling my leg?"
+          [syn: {pull the leg of}]
+     2: be silly or tease one another; "After we relaxed, we just
+        kidded around" [syn: {chaff}, {jolly}, {josh}, {banter}]
+     [also: {kidding}, {kidded}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

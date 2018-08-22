@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>possible</Word>
+  <Definitions>
+    <Definition>
+      <Word>possible</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Possible \Pos"si*ble\, a. [F., fr. L. possibilis, fr. posse to
+   be able, to have power; potis able, capable + esse to be. See
+   {Potent}, {Am}, and cf. {Host} a landlord.]
+   Capable of existing or occurring, or of being conceived or
+   thought of; able to happen; capable of being done; not
+   contrary to the nature of things; -- sometimes used to
+   express extreme improbability; barely able to be, or to come
+   to pass; as, possibly he is honest, as it is possible that
+   Judas meant no wrong.
+   [1913 Webster]
+
+         With God all things are possible.        --Matt. xix.
+                                                  26.
+   [1913 Webster]
+
+   Syn: Practicable; likely. See {Practicable}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>possible</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>possible
+     adj 1: capable of happening or existing; "a breakthrough may be
+            possible next year"; "anything is possible"; "warned
+            of possible consequences" [ant: {impossible}]
+     2: existing in possibility; "a potential problem"; "possible
+        uses of nuclear power" [syn: {potential}] [ant: {actual}]
+     3: possible to conceive or imagine; "that is one possible
+        answer" [syn: {conceivable}, {imaginable}]
+     n 1: something that can be done; "politics is the art of the
+          possible"
+     2: an applicant who might be suitable
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

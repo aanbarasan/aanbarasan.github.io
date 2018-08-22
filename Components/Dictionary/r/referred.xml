@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>referred</Word>
+  <Definitions>
+    <Definition>
+      <Word>referred</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Refer \Re*fer"\ (r[-e]*f[~e]r"), v. t. [imp. &amp; p. p. {Referred}
+   (r[-e]*f[~e]rd"); p. pr. &amp; vb. n. {Referring}.] [F.
+   r['e]f['e]rer, L. referre; pref. re- re- + ferre to bear. See
+   {Bear} to carry.]
+   1. To carry or send back. [Obs.] --Chaucer.
+      [1913 Webster]
+
+   2. Hence: To send or direct away; to send or direct
+      elsewhere, as for treatment, aid, information, decision,
+      etc.; to make over, or pass over, to another; as, to refer
+      a student to an author; to refer a beggar to an officer;
+      to refer a bill to a committee; a court refers a matter of
+      fact to a commissioner for investigation, or refers a
+      question of law to a superior tribunal.
+      [1913 Webster]
+
+   3. To place in or under by a mental or rational process; to
+      assign to, as a class, a cause, source, a motive, reason,
+      or ground of explanation; as, he referred the phenomena to
+      electrical disturbances.
+      [1913 Webster]
+
+   {To refer one's self}, to have recourse; to betake one's
+      self; to make application; to appeal. [Obs.]
+      [1913 Webster]
+
+            I'll refer me to all things sense.    --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>referred</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>refer
+     v 1: make reference to; "His name was mentioned in connection
+          with the invention" [syn: {mention}, {advert}, {bring up},
+           {cite}, {name}]
+     2: have to do with or be relevant to; "There were lots of
+        questions referring to her talk"; "My remark pertained to
+        your earlier comments" [syn: {pertain}, {relate}, {concern},
+         {come to}, {bear on}, {touch}, {touch on}]
+     3: think of, regard, or classify under a subsuming principle or
+        with a general group or in relation to another; "This
+        plant can be referred to a known species"
+     4: send or direct for treatment, information, or a decision;
+        "refer a patient to a specialist"; "refer a bill to a
+        committee"
+     5: seek information from; "You should consult the dictionary";
+        "refer to your notes" [syn: {consult}, {look up}]
+     6: have as a meaning; "`multi-' denotes `many' " [syn: {denote}]
+     [also: {referring}, {referred}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>referred</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>referred
+     See {refer}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

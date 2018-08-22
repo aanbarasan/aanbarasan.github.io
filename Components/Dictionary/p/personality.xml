@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>personality</Word>
+  <Definitions>
+    <Definition>
+      <Word>personality</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Personality \Per`son*al"i*ty\, n.; pl. {Personalities}. [Cf. F.
+   personnalit['e]. Cf. {Personality}.]
+   1. That which constitutes distinction of person; the
+      externally evident aspects of the character or behavior of
+      a person; individuality.
+      [1913 Webster +PJC]
+
+            Personality is individuality existing in itself, but
+            with a nature as a ground.            --Coleridge.
+      [1913 Webster]
+
+   2. Something said or written which refers to the person,
+      conduct, etc., of some individual, especially something of
+      a disparaging or offensive nature; personal remarks; as,
+      indulgence in personalities.
+      [1913 Webster]
+
+            Sharp personalities were exchanged.   --Macaulay.
+      [1913 Webster]
+
+   3. (Law) That quality of a law which concerns the condition,
+      state, and capacity of persons. --Burrill.
+      [1913 Webster]
+
+   4. A person who is famous or notable; a celebrity.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>personality</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>personality
+     n 1: the complex of all the attributes--behavioral,
+          temperamental, emotional and mental--that characterize a
+          unique individual; "their different reactions reflected
+          their very different personalities"; "it is his nature
+          to help others"
+     2: a person of considerable prominence; "she is a Hollywood
+        personality"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

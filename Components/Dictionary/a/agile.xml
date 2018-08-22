@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>agile</Word>
+  <Definitions>
+    <Definition>
+      <Word>agile</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Agile \Ag"ile\, a. [F. agile, L. agilis, fr. agere to move. See
+   {Agent}.]
+   Having the faculty of quick motion in the limbs; apt or ready
+   to move; nimble; active; as, an agile boy; an agile tongue.
+   [1913 Webster]
+
+         Shaking it with agile hand.              --Cowper.
+   [1913 Webster]
+
+   Syn: Active; alert; nimble; brisk; lively; quick.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>agile</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>agile
+     adj 1: moving quickly and lightly; "sleek and agile as a gymnast";
+            "as nimble as a deer"; "nimble fingers"; "quick of
+            foot"; "the old dog was so spry it was halfway up the
+            stairs before we could stop it" [syn: {nimble}, {quick},
+             {spry}]
+     2: mentally quick; "an agile mind"; "nimble wits" [syn: {nimble}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

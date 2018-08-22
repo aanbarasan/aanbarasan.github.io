@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cloudy</Word>
+  <Definitions>
+    <Definition>
+      <Word>cloudy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cloudy \Cloud"y\ (kloud"[u^]), a. [Compar. {Cloudier}; superl.
+   {Cloudiest}.] [From Cloud, n.]
+   1. Overcast or obscured with clouds; clouded; as, a cloudy
+      sky.
+      [1913 Webster]
+
+   2. Consisting of a cloud or clouds.
+      [1913 Webster]
+
+            As Moses entered into the tabernacle, the cloudy
+            pillar descended.                     --Ex. xxxiii.
+                                                  9
+      [1913 Webster]
+
+   3. Indicating gloom, anxiety, sullenness, or ill-nature; not
+      open or cheerful. ``A cloudy countenance.'' --Shak.
+      [1913 Webster]
+
+   4. Confused; indistinct; obscure; dark.
+      [1913 Webster]
+
+            Cloudy and confused notions of things. --Watts.
+      [1913 Webster]
+
+   5. Lacking clearness, brightness, or luster. ``A cloudy
+      diamond.'' --Boyle.
+      [1913 Webster]
+
+   6. Marked with veins or sports of dark or various hues, as
+      marble.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cloudy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cloudy
+     adj 1: lacking definite form or limits; "gropes among cloudy issues
+            toward a feeble conclusion"- H.T.Moore; "nebulous
+            distinction between pride and conceit" [syn: {nebulose},
+             {nebulous}]
+     2: (of especially liquids) clouded as with sediment; "a cloudy
+        liquid"; "muddy coffee"; "murky waters" [syn: {muddy}, {mirky},
+         {murky}, {turbid}]
+     3: full of or covered with clouds; "cloudy skies" [ant: {clear}]
+     [also: {cloudiest}, {cloudier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

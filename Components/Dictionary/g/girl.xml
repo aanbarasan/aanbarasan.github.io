@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>girl</Word>
+  <Definitions>
+    <Definition>
+      <Word>girl</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>GIRL
+     
+        Graph Information Retrieval Language.  A language for handling
+        {directed graph}s.
+     
+        ["Graph Information Retrieval Language", S. Berkowitz, Report
+        76-0085, Naval Ship Res Dev Center, (Feb 1976)].
+     
+        (1994-11-02)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>girl</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Girl \Girl\ (g[~e]rl), n. [OE. girle, gerle, gurle, a girl (in
+   sense 1): cf. LG. g["o]r child.]
+   [1913 Webster]
+   1. A young person of either sex; a child. [Obs.] --Chaucer.
+      [1913 Webster]
+
+   2. A female child, from birth to the age of puberty; a young
+      maiden.
+      [1913 Webster]
+
+   3. A female servant; a maidservant. [U. S.]
+      [1913 Webster]
+
+   4. (Zo["o]l.) A roebuck two years old. [Prov. Eng.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>girl</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>GIRL
+     Generalized Information Retrieval Language
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>girl</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>girl
+     n 1: a young woman; "a young lady of 18" [syn: {miss}, {missy}, {young
+          lady}, {young woman}, {fille}]
+     2: a youthful female person; "the baby was a girl"; "the girls
+        were just learning to ride a tricycle" [syn: {female child},
+         {little girl}] [ant: {male child}, {male child}]
+     3: a female human offspring; "her daughter cared for her in her
+        old age" [syn: {daughter}] [ant: {son}, {son}]
+     4: a girl or young woman with whom a man is romantically
+        involved; "his girlfriend kicked him out" [syn: {girlfriend},
+         {lady friend}]
+     5: a friendly informal reference to a grown woman; "Mrs. Smith
+        was just one of the girls"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

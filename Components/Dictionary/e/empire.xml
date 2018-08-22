@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>empire</Word>
+  <Definitions>
+    <Definition>
+      <Word>empire</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>empire
+     
+        &lt;games&gt; Any of a family of military simulations derived from a
+        game written by Peter Langston many years ago.  Five or six
+        multi-player variants of varying degrees of sophistication
+        exist, and one single-player version implemented for both
+        {Unix} and {VMS}; the latter is even available as {MS-DOS}
+        {freeware}.  All are notoriously addictive.
+     
+        [{Jargon File}]
+     
+        (1995-08-06)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>empire</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Empire, AL
+  Zip code(s): 35063
+Empire, CO (town, FIPS 24620)
+  Location: 39.75970 N, 105.68260 W
+  Population (1990): 401 (222 housing units)
+  Area: 0.7 sq km (land), 0.0 sq km (water)
+Empire, LA (CDP, FIPS 23725)
+  Location: 29.41189 N, 89.61061 W
+  Population (1990): 2654 (979 housing units)
+  Area: 13.8 sq km (land), 6.1 sq km (water)
+Empire, MI (village, FIPS 25980)
+  Location: 44.81317 N, 86.05894 W
+  Population (1990): 355 (244 housing units)
+  Area: 2.3 sq km (land), 0.2 sq km (water)
+  Zip code(s): 49630
+Empire, NV
+  Zip code(s): 89405
+Empire, OH (village, FIPS 25368)
+  Location: 40.51096 N, 80.62502 W
+  Population (1990): 364 (147 housing units)
+  Area: 0.8 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>empire</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Empire \Em"pire\, n. [F., fr. L. imperium a command,
+   sovereignty, dominion, empire, fr. imperare. See {Emperor};
+   cf. {Imperial}.]
+   1. Supreme power; sovereignty; sway; dominion. ``The empire
+      of the sea.'' --Shak.
+      [1913 Webster]
+
+            Over hell extend
+            His empire, and with iron scepter rule. --Milton.
+      [1913 Webster]
+
+   2. The dominion of an emperor; the territory or countries
+      under the jurisdiction and dominion of an emperor (rarely
+      of a king), usually of greater extent than a kingdom,
+      always comprising a variety in the nationality of, or the
+      forms of administration in, constituent and subordinate
+      portions; as, the Austrian empire.
+      [1913 Webster]
+
+            Empire carries with it the idea of a vast and
+            complicated government.               --C. J. Smith.
+      [1913 Webster]
+
+   3. Any dominion; supreme control; governing influence; rule;
+      sway; as, the empire of mind or of reason. ``Under the
+      empire of facts.'' --M. Arnold.
+      [1913 Webster]
+
+            Another force which, in the Middle Ages, shared with
+            chivalry the empire over the minds of men. --A. W.
+                                                  Ward.
+      [1913 Webster]
+
+   {Celestial empire}. See under {Celestial}.
+
+   {Empire City}, a common designation of the city of New York.
+      
+
+   {Empire State}, a common designation of the State of New
+      York.
+
+   Syn: Sway; dominion; rule; control; reign; sovereignty;
+        government; kingdom; realm; state.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>empire</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>empire n. Any of a family of military simulations derived from a game
+   written by Peter Langston many years ago. A number of multi-player
+   variants of varying degrees of sophistication exist, and one
+   single-player version implemented for both Unix and VMS; the latter is
+   even available as MS-DOS freeware. All are notoriously addictive. Of
+   various commercial derivatives the best known is probably "Empire
+   Deluxe" on PCs and Amigas.
+
+   Modern empire is a real-time wargame played over the internet by up to
+   120 players. Typical games last from 24 hours (blitz) to a couple of
+   months (long term). The amount of sleep you can get while playing is a
+   function of the rate at which updates occur and the number of co-rulers
+   of your country. Empire server software is available for Unix-like
+   machines, and clients for Unix and other platforms. A comprehensive
+   history of the game is available at
+   `http://www.empire.cx/infopages/History.html'. The Empire resource site
+   is at `http://www.empire.cx/'.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>empire</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>empire
+     n 1: the domain ruled by an emperor or empress
+     2: a group of countries under a single authority; "the British
+        empire"
+     3: a monarchy with an emperor as head of state
+     4: a group of diverse companies under common ownership and run
+        as a single organization [syn: {conglomerate}]
+     5: an eating apple that somewhat resembles a McIntosh; used as
+        both an eating and a cooking apple
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>aligned</Word>
+  <Definitions>
+    <Definition>
+      <Word>aligned</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>aligned \aligned\ adj.
+   1. 1 in or brought into line with or into proper relative
+      position; -- of spatial position. well-aligned wheels
+      {unaligned}
+
+   Syn: alined
+        [WordNet 1.5 +PJC]
+
+   2. brought into agreement or cooperation on the side of a
+      faction, party, or cause. Opposite of {nonaligned}.
+      [WordNet 1.5]
+
+   3. brought into a straight or uniformly curved line.
+      [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>aligned</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>aligned
+     adj 1: brought into agreement or cooperation on the side of a
+            faction, party, or cause [ant: {nonaligned}]
+     2: in a straight line; "pearly teeth evenly aligned"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

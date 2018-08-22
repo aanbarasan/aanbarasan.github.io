@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>growth</Word>
+  <Definitions>
+    <Definition>
+      <Word>growth</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Growth \Growth\ (gr[=o]th), n. [Icel. gr[=o][eth]r,
+   gr[=o][eth]i. See {Grow}.]
+   1. The process of growing; the gradual increase of an animal
+      or a vegetable body; the development from a seed, germ, or
+      root, to full size or maturity; increase in size, number,
+      frequency, strength, etc.; augmentation; advancement;
+      production; prevalence or influence; as, the growth of
+      trade; the growth of power; the growth of intemperance.
+      Idle weeds are fast in growth. --Shak.
+      [1913 Webster]
+
+   2. That which has grown or is growing; anything produced;
+      product; consequence; effect; result.
+      [1913 Webster]
+
+            Nature multiplies her fertile growth. --Milton.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>growth</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>growth
+     n 1: (biology) the process of an individual organism growing
+          organically; a purely biological unfolding of events
+          involved in an organism changing gradually from a simple
+          to a more complex level; "he proposed an indicator of
+          osseous development in children" [syn: {growing}, {maturation},
+           {development}, {ontogeny}, {ontogenesis}] [ant: {nondevelopment}]
+     2: a progression from simpler to more complex forms; "the
+        growth of culture"
+     3: a process of becoming larger or longer or more numerous or
+        more important; "the increase in unemployment"; "the
+        growth of population" [syn: {increase}, {increment}] [ant:
+         {decrease}, {decrease}]
+     4: vegetation that has grown; "a growth of trees"; "the only
+        growth was some salt grass"
+     5: the gradual beginning or coming forth; "figurines presage
+        the emergence of sculpture in Greece" [syn: {emergence}, {outgrowth}]
+     6: (pathology) an abnormal proliferation of tissue (as in a
+        tumor)
+     7: something grown or growing; "a growth of hair"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

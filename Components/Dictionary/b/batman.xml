@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>batman</Word>
+  <Definitions>
+    <Definition>
+      <Word>batman</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Batman \Bat"man\ (b[a^]t"m[a^]n), n. [Turk. ba[.t]man.]
+   A weight used in the East, varying according to the locality;
+   in Turkey, the greater batman is about 157 pounds, the lesser
+   only a fourth of this; at Aleppo and Smyrna, the batman is 17
+   pounds. --Simmonds.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>batman</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Batman \Bat"man\ (b[add]"man or b[a^]t"man), n.; pl. {Batmen}
+   (b[a^]t"men). [F. b[^a]t packsaddle + E. man. Cf.
+   {Bathorse}.]
+   A man who has charge of a bathorse and his load. --Macaulay.
+   [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>batman</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>batman
+     n : an orderly assigned to serve a British military officer
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

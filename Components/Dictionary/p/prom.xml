@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>prom</Word>
+  <Definitions>
+    <Definition>
+      <Word>prom</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>PROM
+     
+        {Programmable Read-Only Memory}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>prom</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>PROM
+     Partial Read Only Memory (ROM), "P-ROM"
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>prom</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>PROM
+     Programmable Read Only Memory (ROM, IC)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>prom</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>prom
+     n : a formal ball held for a school class toward the end of the
+         academic year [syn: {promenade}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

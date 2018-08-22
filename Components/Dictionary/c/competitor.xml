@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>competitor</Word>
+  <Definitions>
+    <Definition>
+      <Word>competitor</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Competitor \Com*pet"i*tor\, n. [L.: cf. F. comp['e]titeur.]
+   1. One who seeks what another seeks, or claims what another
+      claims; one who competes; a rival.
+      [1913 Webster]
+
+            And can not brook competitors in love. --Shak.
+      [1913 Webster]
+
+   2. An associate; a confederate. [Obs.]
+      [1913 Webster]
+
+            Every hour more competitors
+            Flock to their aid, and still their power
+            increaseth.                           --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>competitor</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>competitor
+     n : the contestant you hope to defeat; "he had respect for his
+         rivals"; "he wanted to know what the competition was
+         doing" [syn: {rival}, {challenger}, {competition}, {contender}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

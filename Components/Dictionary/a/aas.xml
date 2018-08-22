@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>aas</Word>
+  <Definitions>
+    <Definition>
+      <Word>aas</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>AAS \AAS\ n.
+   1. an associate degree conferred for successful studies in
+      applied science.
+      [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>aas</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>aas \aas\ n.
+   1. a loose sleeveless outer garment made from aba cloth; worn
+      by Arabs. overgarment, outer garment
+      [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>aas</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>AAS
+     n : an associate degree in applied science [syn: {Associate in
+         Applied Science}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

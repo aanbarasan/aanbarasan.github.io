@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>communal</Word>
+  <Definitions>
+    <Definition>
+      <Word>communal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Communal \Com"mu*nal\ (? or ?), a. [Cf. F. communal.]
+   1. Pertaining to a commune.
+      [1913 Webster]
+
+   2. resembling a commune[4] or the practises of a commune[4];
+      as, communal living.
+
+   Syn: collectivist.
+        [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>communal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>communal
+     adj 1: for or by a group rather than individuals; "dipping each his
+            bread into a communal dish of stew"- Paul Roche; "a
+            communal settlement in which all earnings and food
+            were shared"; "a group effort"
+     2: relating to a small administrative district or community;
+        "communal elections in several European countries"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

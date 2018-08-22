@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>generally</Word>
+  <Definitions>
+    <Definition>
+      <Word>generally</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Generally \Gen"er*al*ly\, adv.
+   1. In general; commonly; extensively, though not universally;
+      most frequently.
+      [1913 Webster]
+
+   2. In a general way, or in general relation; in the main;
+      upon the whole; comprehensively.
+      [1913 Webster]
+
+            Generally speaking, they live very quietly.
+                                                  --Addison.
+      [1913 Webster]
+
+   3. Collectively; as a whole; without omissions. [Obs.]
+      [1913 Webster]
+
+            I counsel that all Israel be generally gathered unto
+            thee.                                 --2 Sam. xvii.
+                                                  ll.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>generally</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>generally
+     adv 1: usually; as a rule; "by and large it doesn't rain much here"
+            [syn: {by and large}, {more often than not}, {mostly}]
+     2: without distinction of one from others; "he is interested in
+        snakes in general" [syn: {in general}, {in the main}]
+        [ant: {specifically}]
+     3: without regard to specific details or exceptions; "he
+        interprets the law broadly" [syn: {broadly}, {loosely}, {broadly
+        speaking}] [ant: {narrowly}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

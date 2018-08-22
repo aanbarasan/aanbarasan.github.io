@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>theoretical</Word>
+  <Definitions>
+    <Definition>
+      <Word>theoretical</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Theoretic \The`o*ret"ic\, Theoretical \The`o*ret"ic*al\, a. [Gr.
+   ?: cf. L. theoreticus, F. th['e]or['e]tique.]
+   Pertaining to theory; depending on, or confined to, theory or
+   speculation; speculative; terminating in theory or
+   speculation: not practical; as, theoretical learning;
+   theoretic sciences. -- {The`o*ret"ic*al*ly}, adv.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>theoretical</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>theoretical
+     adj 1: concerned primarily with theories or hypotheses rather than
+            practical considerations; "theoretical science" [syn:
+            {theoretic}] [ant: {empirical}]
+     2: concerned with theories rather than their practical
+        applications; "theoretical physics" [ant: {applied}]
+     3: based on specialized theory; "a theoretical analysis" [syn:
+        {abstract}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>temperature</Word>
+  <Definitions>
+    <Definition>
+      <Word>temperature</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Temperature \Tem"per*a*ture\, n. [F. temp['e]rature, L.
+   temperatura due measure, proportion, temper, temperament.]
+   1. Constitution; state; degree of any quality.
+      [1913 Webster]
+
+            The best composition and temperature is, to have
+            openness in fame and opinion, secrecy in habit,
+            dissimulation in seasonable use, and a power to
+            feign, if there be no remedy.         --Bacon.
+      [1913 Webster]
+
+            Memory depends upon the consistence and the
+            temperature of the brain.             --I. Watts.
+      [1913 Webster]
+
+   2. Freedom from passion; moderation. [Obs.]
+      [1913 Webster]
+
+            In that proud port, which her so goodly graceth,
+            Most goodly temperature you may descry. --Spenser.
+      [1913 Webster]
+
+   3. (Physics) Condition with respect to heat or cold,
+      especially as indicated by the sensation produced, or by
+      the thermometer or pyrometer; degree of heat or cold; as,
+      the temperature of the air; high temperature; low
+      temperature; temperature of freezing or of boiling.
+
+   Note: The temperature of a liquid or a solid body as measured
+         by a thermometer is a measure of the average kinetic
+         energy of the consituent atoms or molecules of the
+         body. For other states of matter such as plasma,
+         electromagnetic radiation, or subatomic particles, an
+         analogous measure of the average kinetic energy may be
+         expressed as a temperature, although it could never be
+         measured by a traditional thermometer, let alone by
+         sensing with the skin.
+         [1913 Webster +PJC]
+
+   4. Mixture; compound. [Obs.]
+      [1913 Webster]
+
+            Made a temperature of brass and iron together.
+                                                  --Holland.
+      [1913 Webster]
+
+   5. (Physiol. &amp; Med.) The degree of heat of the body of a
+      living being, esp. of the human body; also (Colloq.),
+      loosely, the excess of this over the normal (of the human
+      body 98[deg]-99.5[deg] F., in the mouth of an adult about
+      98.4[deg]).
+      [Webster 1913 Suppl.]
+
+   {Absolute temperature}. (Physics) See under {Absolute}.
+
+   {Animal temperature} (Physiol.), the nearly constant
+      temperature maintained in the bodies of warm-blooded
+      (homoiothermal) animals during life. The ultimate source
+      of the heat is to be found in the potential energy of the
+      food and the oxygen which is absorbed from the air during
+      respiration. See {Homoiothermal}.
+
+   {Temperature sense} (Physiol.), the faculty of perceiving
+      cold and warmth, and so of perceiving differences of
+      temperature in external objects. --H. N. Martin.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>temperature</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>temperature
+     n 1: the degree of hotness or coldness of a body or environment
+          (corresponding to its molecular activity)
+     2: the somatic sensation of cold or heat
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

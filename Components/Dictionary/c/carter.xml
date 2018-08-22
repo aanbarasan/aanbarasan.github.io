@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>carter</Word>
+  <Definitions>
+    <Definition>
+      <Word>carter</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Carter, MT
+  Zip code(s): 59420
+Carter, OK (town, FIPS 12300)
+  Location: 35.21724 N, 99.50342 W
+  Population (1990): 286 (162 housing units)
+  Area: 1.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 73627
+Carter, SD
+  Zip code(s): 57526
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>carter</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Marysole \Ma"ry*sole\, n. [Mary, the proper name + sole the
+   fish.] (Zo["o]l.)
+   A large British fluke, or flounder ({Rhombus megastoma}); --
+   called also {carter}, and {whiff}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>carter</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Daddy longlegs \Dad"dy long"legs`\
+   1. (Zo["o]l.) An arachnidan of the genus {Phalangium}, and
+      allied genera, having a small body and four pairs of long
+      legs; -- called also {harvestman}, {carter}, and
+      {grandfather longlegs}.
+      [1913 Webster]
+
+   2. (Zo["o]l.) A name applied to many species of dipterous
+      insects of the genus {Tipula}, and allied genera, with
+      slender bodies, and very long, slender legs; the crane
+      fly; -- called also {father longlegs}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>carter</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Carter \Cart"er\, n.
+   1. A charioteer. [Obs.] --Chaucer.
+      [1913 Webster]
+
+   2. A man who drives a cart; a teamster.
+      [1913 Webster]
+
+   3. (Zo["o]l.)
+      (a) Any species of {Phalangium}; -- also called
+          {harvestman}.
+      (b) A British fish; the whiff.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>carter</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Carter
+     n 1: Englishman and Egyptologist who in 1922 discovered and
+          excavated the tomb of Tutankhamen (1873-1939) [syn: {Howard
+          Carter}]
+     2: 39th President of the United States (1924-) [syn: {Jimmy
+        Carter}, {James Earl Carter}, {James Earl Carter Jr.}, {President
+        Carter}]
+     3: a hauler of garbage; "there is a web site where licensed
+        carters and would-be customers can make connections" [syn:
+         {garbage carter}, {garbage hauler}]
+     4: someone whose work is driving carts
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

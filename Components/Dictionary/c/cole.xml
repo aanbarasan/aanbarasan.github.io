@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cole</Word>
+  <Definitions>
+    <Definition>
+      <Word>cole</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Cole, CA
+  Zip code(s): 90046
+Cole, OK (town, FIPS 16200)
+  Location: 35.10282 N, 97.57249 W
+  Population (1990): 355 (142 housing units)
+  Area: 39.1 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cole</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cole \Cole\ (k[=o]l), n. [OE. col, caul, AS. cawl, cawel, fr. L.
+   caulis, the stalk or stem of a plant, esp. a cabbage stalk,
+   cabbage, akin to Gr. kaylo`s. Cf. {Cauliflower}, {Kale}.]
+   (Bot.)
+   A plant of the {Brassica} or Cabbage genus; esp. that form of
+   {Brassica oleracea} called {rape} and {coleseed}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cole</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cole
+     n 1: a hardy cabbage with coarse curly leaves that do not form a
+          head [syn: {kale}, {kail}, {borecole}, {colewort}, {Brassica
+          oleracea acephala}]
+     2: coarse curly-leafed cabbage [syn: {kale}, {kail}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

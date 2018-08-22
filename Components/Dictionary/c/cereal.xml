@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cereal</Word>
+  <Definitions>
+    <Definition>
+      <Word>cereal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cereal \Ce"re*al\, a. [L. Cerealis pert. to Ceres, and hence, to
+   agriculture. See {Ceres}.]
+   Of or pertaining to the grasses which are cultivated for
+   their edible seeds (as wheat, maize, rice, etc.), or to their
+   seeds or grain.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cereal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cereal \Ce"re*al\ n.
+   Any grass cultivated for its edible grain, or the grain
+   itself; -- usually in the plural.
+   [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cereal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cereal
+     adj : made of grain or relating to grain or the plants that
+           produce it; "a cereal beverage"; "cereal grasses"
+     n 1: grass whose starchy grains are used as food: wheat; rice;
+          rye; oats; maize; buckwheat; millet [syn: {cereal grass}]
+     2: foodstuff prepared from the starchy grains of cereal grasses
+        [syn: {grain}, {food grain}]
+     3: a breakfast food prepared from grain
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

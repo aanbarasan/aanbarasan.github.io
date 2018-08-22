@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>chardonnay</Word>
+  <Definitions>
+    <Definition>
+      <Word>chardonnay</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Chardonnay \Char`don*nay"\ (ch[aum]r`d'n*[=a]"), n.
+   1. a white wine grape.
+      [WordNet 1.5]
+
+   2. dry white Chablis-type table wine made from Chardonnay
+      grapes.
+
+   Syn: Pinot Chardonnay.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chardonnay</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Chardonnay
+     n 1: white wine grape [syn: {chardonnay grape}]
+     2: dry white table wine resembling Chablis but made from
+        Chardonnay grapes [syn: {Pinot Chardonnay}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

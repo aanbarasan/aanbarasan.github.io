@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nightmare</Word>
+  <Definitions>
+    <Definition>
+      <Word>nightmare</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Nightmare \Night"mare`\ (n[imac]t"m[^a]r`), n. [Night + mare
+   incubus. See {Mare} incubus.]
+   1. A fiend or incubus formerly supposed to cause trouble in
+      sleep. [archaic]
+      [1913 Webster]
+
+   2. A trerrifying or oppressive dream characterized by a sense
+      of helplessness in the face of danger, extreme uneasiness
+      or discomfort (as of weight on the chest or stomach,
+      impossibility of motion or speech, etc.) or extreme
+      anxiety, from which one wakes in a troubled state of mind.
+      [1913 Webster +PJC]
+
+   3. Hence: Any overwhelming, oppressive, or terrifying
+      experience resembling a nightmare[2] especially in the
+      inability to escape from an unpleasant situation.
+      [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nightmare</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nightmare
+     n 1: a situation resembling a terrifying dream [syn: {incubus}]
+     2: a terrifying or deeply upsetting dream
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

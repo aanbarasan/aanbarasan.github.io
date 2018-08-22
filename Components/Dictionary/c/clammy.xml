@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>clammy</Word>
+  <Definitions>
+    <Definition>
+      <Word>clammy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Clammy \Clam"my\, a. [Compar. {Clammier}; superl. {Clammiest}.]
+   [Cf. AS. cl[=a]m clay. See {Clam} to clog, and cf. {Clay}.]
+   Having the quality of being viscous or adhesive; soft and
+   sticky; glutinous; damp and adhesive, as if covered with a
+   cold perspiration.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>clammy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>clammy
+     adj : unpleasantly cool and humid; "a clammy handshake"; "clammy
+           weather"; "a dank cellar"; "dank rain forests" [syn: {dank}]
+     [also: {clammiest}, {clammier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

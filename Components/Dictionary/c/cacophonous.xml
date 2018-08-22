@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cacophonous</Word>
+  <Definitions>
+    <Definition>
+      <Word>cacophonous</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cacophonic \Cac`o*phon"ic\, Cacophonical \Cac`o*phon"ic*al\,
+Cacophonous \Ca*coph"o*nous\, Cacophonious \Cac`o*pho"ni*ous\,
+   a.
+   Harsh-sounding.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cacophonous</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cacophonous
+     adj : having an unpleasant sound; "as cacophonous as a henyard"-
+           John McCarten [syn: {cacophonic}] [ant: {euphonious}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

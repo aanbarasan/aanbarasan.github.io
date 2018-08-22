@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>latest</Word>
+  <Definitions>
+    <Definition>
+      <Word>latest</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Late \Late\ (l[=a]t), a. [Compar. {Later} (l[=a]t"[~e]r), or
+   {latter} (l[a^]t"t[~e]r); superl. {Latest} (l[=a]t"[e^]st) or
+   {Last} (l[.a]st).] [OE. lat slow, slack, AS. l[ae]t; akin to
+   OS. lat, D. laat late, G. lass weary, lazy, slack, Icel.
+   latr, Sw. lat, Dan. lad, Goth. lats, and to E. let, v. See
+   {Let} to permit, and cf. {Alas}, {Lassitude}.]
+   1. Coming after the time when due, or after the usual or
+      proper time; not early; slow; tardy; long delayed; as, a
+      late spring.
+      [1913 Webster]
+
+   2. Far advanced toward the end or close; as, a late hour of
+      the day; a late period of life.
+      [1913 Webster]
+
+   3. Existing or holding some position not long ago, but not
+      now; recently deceased, departed, or gone out of office;
+      as, the late bishop of London; the late administration.
+      [1913 Webster]
+
+   4. Not long past; happening not long ago; recent; as, the
+      late rains; we have received late intelligence.
+      [1913 Webster]
+
+   5. Continuing or doing until an advanced hour of the night;
+      as, late revels; a late watcher.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>latest</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>latest
+     adj 1: up to the immediate present; most recent or most up-to-date;
+            "the news is up-to-the-minute"; "the very latest
+            scientific discoveries" [syn: {up-to-the-minute}]
+     2: in accord with the most fashionable ideas or style; "wears
+        only the latest style"; "the last thing in swimwear";
+        "knows the newest dances"; "cutting-edge technology"; "a
+        with-it boutique" [syn: {last}, {newest}, {up-to-date}, {cutting-edge},
+         {with-it}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

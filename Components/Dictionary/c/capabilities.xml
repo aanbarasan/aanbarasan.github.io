@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>capabilities</Word>
+  <Definitions>
+    <Definition>
+      <Word>capabilities</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Capability \Ca`pa*bil"i*ty\, n.; pl. {Capabilities}.
+   1. The quality of being capable; capacity; capableness; esp.
+      intellectual power or ability.
+      [1913 Webster]
+
+            A capability to take a thousand views of a subject.
+                                                  --H. Taylor.
+      [1913 Webster]
+
+   2. Capacity of being used or improved.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

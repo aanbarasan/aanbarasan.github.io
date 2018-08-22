@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bicycle</Word>
+  <Definitions>
+    <Definition>
+      <Word>bicycle</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Safety bicycle \Safety bicycle\
+   A bicycle with equal or nearly equal wheels, usually about 28
+   inches diameter, driven by pedals connected to the rear
+   (driving) wheel by a multiplying gear. Since the 1930's this
+   has been the most common type of bicycle, now simply called
+   {bicycle}. The older high-wheelers are often referred to as
+   {bone-rattlers}.
+   [Webster 1913 Suppl. +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bicycle</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bicycle \Bi"cy*cle\, n. [Pref. bi- + cycle.]
+   A light vehicle having two wheels one behind the other. It
+   has a saddle seat and is propelled by the rider's feet acting
+   on cranks or levers.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bicycle</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bicycle
+     n : a wheeled vehicle that has two wheels and is moved by foot
+         pedals [syn: {bike}, {wheel}, {cycle}]
+     v : ride a bicycle [syn: {cycle}, {bike}, {pedal}, {wheel}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>betting</Word>
+  <Definitions>
+    <Definition>
+      <Word>betting</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bet \Bet\, v. t. [imp. &amp; p. p. {Bet}, {Betted}; p. pr. &amp; vb. n.
+   {Betting}.]
+   To stake or pledge upon the event of a contingent issue; to
+   wager.
+   [1913 Webster]
+
+         John a Gaunt loved him well, and betted much money on
+         his head.                                --Shak.
+   [1913 Webster]
+
+         I'll bet you two to one I'll make him do it. --O. W.
+                                                  Holmes.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>betting</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bet
+     n 1: the money risked on a gamble [syn: {stake}, {stakes}, {wager}]
+     2: the act of gambling; "he did it on a bet" [syn: {wager}]
+     v 1: maintain with or as if with a bet; "I bet she will be
+          there!" [syn: {wager}]
+     2: stake on the outcome of an issue; "I bet $100 on that new
+        horse"; "She played all her money on the dark horse" [syn:
+         {wager}, {play}]
+     3: have faith or confidence in; "you can count on me to help
+        you any time"; "Look to your friends for support"; "You
+        can bet on that!"; "Depend on your family in times of
+        crisis" [syn: {count}, {depend}, {look}, {calculate}, {reckon}]
+     [also: {betting}, {betted}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>betting</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>betting
+     adj : preoccupied with the pursuit of pleasure and especially
+           games of chance; "led a dissipated life"; "a betting
+           man"; "a card-playing son of a bitch"; "a gambling
+           fool"; "sporting gents and their ladies" [syn: {dissipated},
+            {card-playing}, {gambling}, {sporting}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>betting</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>betting
+     See {bet}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

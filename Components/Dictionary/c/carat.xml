@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>carat</Word>
+  <Definitions>
+    <Definition>
+      <Word>carat</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Carat \Car"at\ (k[a^]r"[a^]t), n. [F. carat (cf. It. carato,
+   OPg. quirate, Pg. &amp; Sp. quilate), Ar. q[imac]r[=a]t bean or
+   pea shell, a weight of four grains, a carat, fr. Gr.
+   kera`tion a little horn, the fruit of the carob tree, a
+   weight, a carat. See {Horn}.]
+   1. The weight by which precious stones and pearls are
+      weighed.
+      [1913 Webster]
+
+   Note: The carat equals three and one fifth grains Troy, and
+         is divided into four grains, sometimes called carat
+         grains. Diamonds and other precious stones are
+         estimated by carats and fractions of carats, and
+         pearls, usually, by carat grains. --Tiffany.
+         [1913 Webster]
+
+   2. A twenty-fourth part; -- a term used in estimating the
+      proportionate fineness of gold.
+      [1913 Webster]
+
+   Note: A mass of metal is said to be so many carats fine,
+         according to the number of twenty-fourths of pure gold
+         which it contains; as, 22 carats fine (goldsmith's
+         standard) = 22 parts of gold, 1 of copper, and 1 of
+         silver.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>carat</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>carat
+     n 1: a unit of weight for precious stones = 200 mg
+     2: the unit of measurement for the proportion of gold in an
+        alloy; 18-karat gold is 75% gold; 24-karat gold is pure
+        gold [syn: {Karat}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

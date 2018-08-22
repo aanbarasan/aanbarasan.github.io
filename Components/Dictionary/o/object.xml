@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>object</Word>
+  <Definitions>
+    <Definition>
+      <Word>object</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>object
+     
+        In {object-oriented programming}, a unique instance of a data
+        structure defined according to the template provided by its
+        {class}.  Each object has its own values for the variables
+        belonging to its class and can respond to the messages
+        ({method}s) defined by its class.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>object</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Object \Ob*ject"\, v. i.
+   To make opposition in words or argument; to express one's
+   displeasure; -- usually followed by to; as, she objected to
+   his vulgar language. --Sir. T. More.
+   [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>object</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Object \Ob"ject\ ([o^]b"j[e^]kt), n. [L. objectus. See {Object},
+   v. t.]
+   1. That which is put, or which may be regarded as put, in the
+      way of some of the senses; something visible or tangible
+      and persists for an appreciable time; as, he observed an
+      object in the distance; all the objects in sight; he
+      touched a strange object in the dark.
+      [1913 Webster]
+
+   2. Anything which is set, or which may be regarded as set,
+      before the mind so as to be apprehended or known; that of
+      which the mind by any of its activities takes cognizance,
+      whether a thing external in space or a conception formed
+      by the mind itself; as, an object of knowledge, wonder,
+      fear, thought, study, etc.
+      [1913 Webster]
+
+            Object is a term for that about which the knowing
+            subject is conversant; what the schoolmen have
+            styled the ``materia circa quam.''    --Sir. W.
+                                                  Hamilton.
+      [1913 Webster]
+
+            The object of their bitterest hatred. --Macaulay.
+      [1913 Webster]
+
+   3. That toward which the mind, or any of its activities, is
+      directed; that on which the purpose are fixed as the end
+      of action or effort; that which is sought for; goal; end;
+      aim; motive; final cause.
+      [1913 Webster]
+
+            Object, beside its proper signification, came to be
+            abusively applied to denote motive, end, final cause
+            . . . . This innovation was probably borrowed from
+            the French.                           --Sir. W.
+                                                  Hamilton.
+      [1913 Webster]
+
+            Let our object be, our country, our whole country,
+            and nothing but our country.          --D. Webster.
+      [1913 Webster]
+
+   4. Sight; show; appearance; aspect. [Obs.] --Shak.
+      [1913 Webster]
+
+            He, advancing close
+            Up to the lake, past all the rest, arose
+            In glorious object.                   --Chapman.
+      [1913 Webster]
+
+   5. (Gram.) A word, phrase, or clause toward which an action
+      is directed, or is considered to be directed; as, the
+      object of a transitive verb.
+      [1913 Webster]
+
+   6. (Computers) Any set of data that is or can be manipulated
+      or referenced by a computer program as a single entity; --
+      the term may be used broadly, to include files, images
+      (such as icons on the screen), or small data structures.
+      More narrowly, anything defined as an object within an
+      object-oriented programming language.
+      [PJC]
+
+   7. (Ontology) Anything which exists and which has attributes;
+      distinguished from {attributes}, {processes}, and
+      {relations}.
+      [PJC]
+
+   {Object glass}, the lens, or system of lenses, placed at the
+      end of a telescope, microscope, etc., which is toward the
+      object. Its function is to form an image of the object,
+      which is then viewed by the eyepiece. Called also
+      {objective} or {objective lens}. See Illust. of
+      {Microscope}.
+
+   {Object lesson}, a lesson in which object teaching is made
+      use of.
+
+   {Object staff}. (Leveling) Same as {Leveling staff}.
+
+   {Object teaching}, a method of instruction, in which
+      illustrative objects are employed, each new word or idea
+      being accompanied by a representation of that which it
+      signifies; -- used especially in the kindergarten, for
+      young children.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>object</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Object \Ob*ject"\ ([o^]b*j[e^]kt"), v. t. [imp. &amp; p. p.
+   {Objected}; p. pr. &amp; vb. n. {Objecting}.] [L. objectus, p. p.
+   of objicere, obicere, to throw or put before, to oppose; ob
+   (see {Ob-}) + jacere to throw: cf. objecter. See {Jet} a
+   shooting forth.]
+   1. To set before or against; to bring into opposition; to
+      oppose. [Obs.]
+      [1913 Webster]
+
+            Of less account some knight thereto object,
+            Whose loss so great and harmful can not prove.
+                                                  --Fairfax.
+      [1913 Webster]
+
+            Some strong impediment or other objecting itself.
+                                                  --Hooker.
+      [1913 Webster]
+
+            Pallas to their eyes
+            The mist objected, and condensed the skies. --Pope.
+      [1913 Webster]
+
+   2. To offer in opposition as a criminal charge or by way of
+      accusation or reproach; to adduce as an objection or
+      adverse reason.
+      [1913 Webster]
+
+            He gave to him to object his heinous crime.
+                                                  --Spencer.
+      [1913 Webster]
+
+            Others object the poverty of the nation. --Addison.
+      [1913 Webster]
+
+            The book . . . giveth liberty to object any crime
+            against such as are to be ordered.    --Whitgift.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>object</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Object \Ob*ject"\, a. [L. objectus, p. p.]
+   Opposed; presented in opposition; also, exposed. [Obs.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>object</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>object
+     n 1: a tangible and visible entity; an entity that can cast a
+          shadow; "it was full of rackets, balls and other
+          objects" [syn: {physical object}]
+     2: the goal intended to be attained (and which is believed to
+        be attainable); "the sole object of her trip was to see
+        her children" [syn: {aim}, {objective}, {target}]
+     3: (grammar) a constituent that is acted upon; "the object of
+        the verb"
+     4: the focus of cognitions or feelings; "objects of thought";
+        "the object of my affection"
+     v 1: express or raise an objection or protest or criticism or
+          express dissent; "She never objected to the amount of
+          work her boss charged her with"; "When asked to drive
+          the truck, she objected that she did not have a driver's
+          license"
+     2: be averse to or express disapproval of; "My wife objects to
+        modern furniture"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>chunky</Word>
+  <Definitions>
+    <Definition>
+      <Word>chunky</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Chunky, MS (town, FIPS 13580)
+  Location: 32.32706 N, 88.92966 W
+  Population (1990): 292 (134 housing units)
+  Area: 2.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 39323
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chunky</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Chunky \Chunk"y\ (ch[u^][ng]k*[y^]), a.
+   Short and thick. [U. S.] --Kane.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chunky</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>chunky
+     adj 1: like or containing small stick lumps; "the dumplings were
+            chunky pieces of uncooked dough" [syn: {lumpy}]
+     2: short and thick; as e.g. having short legs and heavy
+        musculature; "some people seem born to be square and
+        chunky"; "a dumpy little dumpling of a woman"; "dachshunds
+        are long lowset dogs with drooping ears"; "a little church
+        with a squat tower"; "a squatty red smokestack"; "a stumpy
+        ungainly figure" [syn: {dumpy}, {low-set}, {squat}, {squatty},
+         {stumpy}]
+     [also: {chunkiest}, {chunkier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

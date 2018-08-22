@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>clippers</Word>
+  <Definitions>
+    <Definition>
+      <Word>clippers</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>clippers \clippers\ n.
+   1. a type of shears for cutting grass or shrubbery; as, hedge
+      clippers.
+
+   Syn: clipper, hedge clippers.
+        [WordNet 1.5]
+
+   2. a cutting device for cutting hair or finger nails; as,
+      nail clippers.
+
+   Syn: clipper.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>clippers</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>clippers
+     n 1: shears for cutting grass or shrubbery [syn: {clipper}]
+     2: scissors for cutting hair or finger nails [syn: {clipper}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

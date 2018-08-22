@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>chocolate</Word>
+  <Definitions>
+    <Definition>
+      <Word>chocolate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Chocolate \Choc"o*late\, n. [Sp., fr. the Mexican name of the
+   cacao. Cf. {Cacao}, {Cocoa}.]
+   1. A paste or cake composed of the roasted seeds of the
+      {Theobroma Cacao} ground and mixed with other ingredients,
+      usually sugar, and cinnamon or vanilla.
+      [1913 Webster]
+
+   2. The beverage made by dissolving a portion of the paste or
+      cake in boiling water or milk.
+      [1913 Webster]
+
+   {Chocolate house}, a house in which customers may be served
+      with chocolate.
+
+   {Chocolate nut}. See {Cacao}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>chocolate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>chocolate
+     n 1: a beverage made from cocoa powder and milk and sugar;
+          usually drunk hot [syn: {cocoa}, {hot chocolate}, {drinking
+          chocolate}]
+     2: a food made from roasted ground cacao beans
+     3: a medium to dark brown color [syn: {coffee}, {deep brown}, {umber},
+         {burnt umber}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bowie</Word>
+  <Definitions>
+    <Definition>
+      <Word>bowie</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Bowie, MD (city, FIPS 8775)
+  Location: 38.95947 N, 76.73774 W
+  Population (1990): 37589 (13066 housing units)
+  Area: 33.3 sq km (land), 0.1 sq km (water)
+  Zip code(s): 20715, 20720
+Bowie, TX (city, FIPS 9640)
+  Location: 33.55911 N, 97.84475 W
+  Population (1990): 4990 (2442 housing units)
+  Area: 10.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 76230
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bowie</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Bowie
+     n : United States pioneer and hero of the Texas revolt against
+         Mexico; he shared command of the garrison that resisted
+         the Mexican attack on the Alamo where he died (1796-1836)
+         [syn: {Jim Bowie}, {James Bowie}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

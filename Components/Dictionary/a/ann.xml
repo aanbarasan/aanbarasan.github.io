@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ann</Word>
+  <Definitions>
+    <Definition>
+      <Word>ann</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ann \Ann\, Annat \An"nat\, n. [LL. annata income of a year,
+   also, of half a year, fr. L. annus year: cf. F. annate
+   annats.] (Scots Law)
+   A half years's stipend, over and above what is owing for the
+   incumbency, due to a minister's heirs after his decease.
+   [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ann</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>ANN
+     Artificial Neural Networks (NN)
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

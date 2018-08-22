@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>group</Word>
+  <Definitions>
+    <Definition>
+      <Word>group</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>group
+     
+        A group G is a non-empty {set} upon which a {binary} operator
+        * is defined with the following properties for all a,b,c in G:
+     
+          Closure:     G is closed under *,  a*b in G
+          Associative: * is associative on G, (a*b)*c = a*(b*c)
+          Identity:    There is an identity element  e  such that
+        	       a*e = e*a = a.
+          Inverse:     Every element has a unique inverse a' such that
+        	       a * a' = a' * a = e.  The inverse is usually
+        	       written with a superscript -1.
+     
+        (1998-10-03)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>group</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Group \Group\, v. t. [imp. &amp; p. p. {Grouped}; p. pr. &amp; vb. n.
+   {Grouping}.] [Cf. F. grouper. See {Group}, n.]
+   To form a group of; to arrange or combine in a group or in
+   groups, often with reference to mutual relation and the best
+   effect; to form an assemblage of.
+   [1913 Webster]
+
+         The difficulty lies in drawing and disposing, or, as
+         the painters term it, in grouping such a multitude of
+         different objects.                       --Prior.
+   [1913 Webster] {Grouped columns} (Arch.), three or more
+      columns placed upon the same pedestal.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>group</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Group \Group\ (gr[=oo]p), n. [F groupe, It. gruppo, groppo,
+   cluster, bunch, packet, group; of G. origin: cf. G. kropf
+   craw, crop, tumor, bunch. See {Crop}, n.]
+   1. A cluster, crowd, or throng; an assemblage, either of
+      persons or things, collected without any regular form or
+      arrangement; as, a group of men or of trees; a group of
+      isles.
+      [1913 Webster]
+
+   2. An assemblage of objects in a certain order or relation,
+      or having some resemblance or common characteristic; as,
+      groups of strata.
+      [1913 Webster]
+
+   3. (Biol.) A variously limited assemblage of animals or
+      plants, having some resemblance, or common characteristics
+      in form or structure. The term has different uses, and may
+      be made to include certain species of a genus, or a whole
+      genus, or certain genera, or even several orders.
+      [1913 Webster]
+
+   4. (Mus.) A number of eighth, sixteenth, etc., notes joined
+      at the stems; -- sometimes rather indefinitely applied to
+      any ornament made up of a few short notes.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>group</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Residue \Res"i*due\ (r?z"?-d?), n. [F. r['e]sidu, L. residuum,
+   fr. residuus that is left behind, remaining, fr. residere to
+   remain behind. See {Reside}, and cf. {Residuum}.]
+   1. That which remains after a part is taken, separated,
+      removed, or designated; remnant; remainder.
+      [1913 Webster]
+
+            The residue of them will I deliver to the sword.
+                                                  --Jer. xv. 9.
+      [1913 Webster]
+
+            If church power had then prevailed over its victims,
+            not a residue of English liberty would have been
+            saved.                                --I. Taylor.
+      [1913 Webster]
+
+   2. (Law) That part of a testeator's estate wwhich is not
+      disposed of in his will by particular and special legacies
+      and devises, and which remains after payment of debts and
+      legacies.
+      [1913 Webster]
+
+   3. (Chem.) That which remains of a molecule after the removal
+      of a portion of its constituents; hence, an atom or group
+      regarded as a portion of a molecule; a {moiety} or
+      {group}; -- used as nearly equivalent to {radical}, but in
+      a more general sense.
+      [1913 Webster +PJC]
+
+   Note: The term radical is sometimes restricted to groups
+         containing carbon, the term residue and {moiety} being
+         applied to the others.
+         [1913 Webster]
+
+   4. (Theory of Numbers) Any positive or negative number that
+      differs from a given number by a multiple of a given
+      modulus; thus, if 7 is the modulus, and 9 the given
+      number, the numbers -5, 2, 16, 23, etc., are residues.
+      [1913 Webster]
+
+   Syn: Rest; remainder; remnant; balance; residuum; remains;
+        leavings; relics.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>group</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>group
+     n 1: any number of entities (members) considered as a unit [syn:
+          {grouping}]
+     2: (chemistry) two or more atoms bound together as a single
+        unit and forming part of a molecule [syn: {radical}, {chemical
+        group}]
+     3: a set that is closed, associative, has an identity element
+        and every element has an inverse [syn: {mathematical group}]
+     v 1: arrange into a group or groups; "Can you group these shapes
+          together?"
+     2: form a group or group together [syn: {aggroup}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>herself</Word>
+  <Definitions>
+    <Definition>
+      <Word>herself</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Herself \Her*self"\, pron.
+   1. An emphasized form of the third person feminine pronoun;
+      -- used as a subject with she; as, she herself will bear
+      the blame; also used alone in the predicate, either in the
+      nominative or objective case; as, it is herself; she
+      blames herself.
+      [1913 Webster]
+
+   2. Her own proper, true, or real character; hence, her right,
+      or sane, mind; as, the woman was deranged, but she is now
+      herself again; she has come to herself.
+      [1913 Webster]
+
+   {By herself}, alone; apart; unaccompanied.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

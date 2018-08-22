@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>carotid</Word>
+  <Definitions>
+    <Definition>
+      <Word>carotid</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Carotid \Ca*rot"id\, n. [Gr. ?, pl., from ? heavy sleep: cf. F.
+   carotide. The early Greeks believed that these arteries in
+   some way caused drowsiness.] (Anat.)
+   One of the two main arteries of the neck, by which blood is
+   conveyed from the aorta to the head.
+
+   Note: [See Illust. of {Aorta}.]
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>carotid</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Carotid \Ca*rot"id\, Carotidal \Ca*rot"id*al\, a. (Anat.)
+   Pertaining to, or near, the carotids or one of them; as, the
+   carotid gland.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>carotid</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>carotid
+     adj : of or relating to either of the two major arteries supplying
+           blood to the head and neck
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dvd</Word>
+  <Definitions>
+    <Definition>
+      <Word>dvd</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>DVD
+     
+        {Digital Versatile Disc}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dvd</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>DVD
+     Deutsche Vereinigung fuer Datenschutz [e.V.] (org.)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dvd</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>DVD
+     Digital Versatile Disk (CD, MPEG, DVD)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dvd</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>DVD
+     Digital Video Disk [old term] (DVD)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dvd</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>DVD
+     n : a digital videodisc; a recording (as of a movie) on an
+         optical disk that can be played on a computer or a
+         television set [syn: {videodisk}, {videodisc}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

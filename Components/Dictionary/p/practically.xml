@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>practically</Word>
+  <Definitions>
+    <Definition>
+      <Word>practically</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Practically \Prac"ti*cal*ly\, adv.
+   1. In a practical way; not theoretically; really; as, to look
+      at things practically; practically worthless.
+      [1913 Webster]
+
+   2. By means of practice or use; by experience or experiment;
+      as, practically wise or skillful; practically acquainted
+      with a subject.
+      [1913 Webster]
+
+   3. In practice or use; as, a medicine practically safe;
+      theoretically wrong, but practically right.
+      [1913 Webster]
+
+   4. Almost.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>practically</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>practically
+     adv 1: almost; "he was practically the only guest at the party"
+     2: (degree adverb used before a noun phrase) for all practical
+        purposes but not completely; "much the same thing happened
+        every time" [syn: {much}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

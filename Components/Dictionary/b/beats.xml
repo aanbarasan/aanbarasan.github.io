@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>beats</Word>
+  <Definitions>
+    <Definition>
+      <Word>beats</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>beats
+     n : a United States youth subculture of the 1950s; rejected
+         possessions or regular work or traditional dress; for
+         communal living and psychedelic drugs and anarchism;
+         favored modern forms of jazz (e.g., bebop) [syn: {beat
+         generation}, {beatniks}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

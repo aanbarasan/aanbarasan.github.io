@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>applicable</Word>
+  <Definitions>
+    <Definition>
+      <Word>applicable</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Applicable \Ap"pli*ca*ble\, a. [Cf. F. aplicable, fr. L.
+   applicare. See {Apply}.]
+   Capable of being applied; fit or suitable to be applied;
+   having relevance; as, this observation is applicable to the
+   case under consideration. -- {Ap"pli*ca*ble*ness}, n. --
+   {Ap"pli*ca*bly}, adv.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>applicable</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>applicable
+     adj 1: capable of being applied; having relevance; "gave applicable
+            examples to support her argument"
+     2: readily applicable or practical [syn: {applicative}, {applicatory}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

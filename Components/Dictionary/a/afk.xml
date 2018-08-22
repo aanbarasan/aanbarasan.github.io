@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>afk</Word>
+  <Definitions>
+    <Definition>
+      <Word>afk</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>AFK
+     
+        &lt;chat&gt; away from keyboard.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>afk</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>AFK [MUD] Abbrev. for "Away From Keyboard". Used to notify others that
+   you will be momentarily unavailable online. eg. "Let's not go kill that
+   frost giant yet, I need to go AFK to make a phone call". Often MUDs will
+   have a command to politely inform others of your absence when they try
+   to talk with you. The term is not restricted to MUDs, however, and has
+   become common in many chat situations, from IRC to Unix talk.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>afk</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>AFK
+     Away from Keyboard (telecommunication-slang, Usenet, IRC)
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

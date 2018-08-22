@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ballet</Word>
+  <Definitions>
+    <Definition>
+      <Word>ballet</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ballet \Bal"let`\ (b[a^]l"l[asl]` or b[a^]l"l[e^]t; 277), n.
+   [F., a dim. of bal dance. See 2d {Ball}, n.]
+   1. An artistic dance performed as a theatrical entertainment,
+      or an interlude, by a number of persons, usually women.
+      Sometimes, a scene accompanied by pantomime and dancing.
+      [1913 Webster]
+
+   2. The company of persons who perform the ballet.
+      [1913 Webster]
+
+   3. (Mus.) A light part song, or madrigal, with a fa la burden
+      or chorus, -- most common with the Elizabethan madrigal
+      composers; -- also spelled {ballett}.
+      [1913 Webster]
+
+   4. (Her.) A bearing in coats of arms, representing one or
+      more balls, which are denominated bezants, plates, etc.,
+      according to color.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ballet</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ballet
+     n 1: a theatrical representation of a story performed to music by
+          ballet dancers [syn: {concert dance}]
+     2: music written for a ballet
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

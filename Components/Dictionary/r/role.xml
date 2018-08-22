@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>role</Word>
+  <Definitions>
+    <Definition>
+      <Word>role</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Role \R[^o]le\, n. [F. See {Roll}.]
+   A part, or character, performed by an actor in a drama;
+   hence, a part of function taken or assumed by any one; as, he
+   has now taken the r[^o]le of philanthropist.
+   [1913 Webster]
+
+   {Title r[^o]le}, the part, or character, which gives the
+      title to a play, as the part of Hamlet in the play of that
+      name.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>role</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>role
+     n 1: the actions and activities assigned to or required or
+          expected of a person or group; "the function of a
+          teacher"; "the government must do its part"; "play its
+          role" [syn: {function}, {office}, {part}]
+     2: an actor's portrayal of someone in a play; "she played the
+        part of Desdemona" [syn: {character}, {theatrical role}, {part},
+         {persona}]
+     3: what something is used for; "the function of an auger is to
+        bore holes"; "ballet is beautiful but what use is it?"
+        [syn: {function}, {purpose}, {use}]
+     4: normal or customary activity of a person in a particular
+        social setting; "what is your role on the team?"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

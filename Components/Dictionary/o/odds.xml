@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>odds</Word>
+  <Definitions>
+    <Definition>
+      <Word>odds</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Odds \Odds\ ([o^]dz), n. sing. &amp; pl. [See {Odd}, a.]
+   1. Difference in favor of one and against another; excess of
+      one of two things or numbers over the other; inequality;
+      advantage; superiority; hence, excess of chances;
+      probability. The odds are often expressed by a ratio; as,
+      the odds are three to one that he will win, i. e. he will
+      win three times out of four ``Pre["e]minent by so much
+      odds.'' --Milton. ``The fearful odds of that unequal
+      fray.'' --Trench.
+      [1913 Webster]
+
+            The odds
+            Is that we scarce are men and you are gods. --Shak.
+      [1913 Webster]
+
+            There appeared, at least, four to one odds against
+            them.                                 --Swift.
+      [1913 Webster]
+
+            All the odds between them has been the different
+            scope . . . given to their understandings to range
+            in.                                   --Locke.
+      [1913 Webster]
+
+            Judging is balancing an account and determining on
+            which side the odds lie.              --Locke.
+      [1913 Webster]
+
+   2. Quarrel; dispute; debate; strife; -- chiefly in the phrase
+      at odds.
+      [1913 Webster]
+
+            Set them into confounding odds.       --Shak.
+      [1913 Webster]
+
+            I can not speak
+            Any beginning to this peevish odds.   --Shak.
+      [1913 Webster]
+
+   {At odds}, in dispute; at variance. ``These squires at odds
+      did fall.'' --Spenser. ``He flashes into one gross crime
+      or other, that sets us all at odds.'' --Shak.
+
+   {It is odds}, it is probable; same as {odds are}, but no
+      longer used. [Obs.] --Jer. Taylor.
+
+   {odds are} it is probable; as, odds are he will win the gold
+      medal.
+
+   {Odds and ends}, that which is left; remnants; fragments;
+      refuse; scraps; miscellaneous articles. ``My brain is
+      filled . . . with all kinds of odds and ends.'' --W.
+      Irving.
+
+   {slim odds} low odds; poor chances; as, there are slim odds
+      he will win any medal.
+      [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>odds</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>odds
+     n 1: the probability of a specified outcome [syn: {likelihood}, {likeliness}]
+          [ant: {unlikelihood}, {unlikelihood}]
+     2: the ratio by which one better's wager is greater than that
+        of another; "he offered odds of two to one" [syn: {betting
+        odds}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>probe</Word>
+  <Definitions>
+    <Definition>
+      <Word>probe</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Probe
+     
+        An {object-oriented} {logic language} based on {ObjVlisp}.
+     
+        ["Proposition d'une Extension Objet Minimale pour Prolog",
+        Actes du Sem Prog en Logique, Tregastel (May 1987),
+        pp. 483-506].
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>probe</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Probe \Probe\, v. t. [imp. &amp; p. p. {Probed}; p. pr. &amp; vb. n.
+   {Probing}.] [L. probare to try, examine. See {Prove}.]
+   [1913 Webster]
+   1. To examine, as a wound, an ulcer, or some cavity of the
+      body, with a probe.
+      [1913 Webster]
+
+   2. Fig.: to search to the bottom; to scrutinize or examine
+      thoroughly. --Dryden.
+      [1913 Webster]
+
+            The growing disposition to probe the legality of all
+            acts, of the crown.                   --Hallam.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>probe</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Probe \Probe\, n. (Surg.)
+   An instrument for examining the depth or other circumstances
+   of a wound, ulcer, or cavity, or the direction of a sinus, of
+   for exploring for bullets, for stones in the bladder, etc.
+   --Parr.
+   [1913 Webster]
+
+   {Probe scissors}, or {Probe-pointed scissors} (Surg.),
+      scissors used to open wounds, the blade of which, to be
+      thrust into the orifice, has a button at the end.
+      --Wiseman.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>probe</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>probe
+     n 1: an inquiry into unfamiliar or questionable activities;
+          "there was a congressional probe into the scandal" [syn:
+           {investigation}]
+     2: a flexible slender surgical instrument used to explore
+        wounds or body cavities
+     3: an exploratory action or expedition
+     4: an investigation conducted using a probe instrument
+     v 1: question or examine thoroughly and closely [syn: {examine}]
+     2: examine physically with or as if with a probe; "probe an
+        anthill" [syn: {dig into}, {poke into}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

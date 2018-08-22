@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>explain</Word>
+  <Definitions>
+    <Definition>
+      <Word>explain</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Explain \Ex*plain"\, v. i.
+   To give an explanation.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>explain</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Explain \Ex*plain"\ ([e^]ks*pl[=a]n"), v. t. [imp. &amp; p. p.
+   {Explained}([e^]ks*pl[=a]nd"); p. pr. &amp; vb. n. {Explaining}.]
+   [L. explandare to flatten, spread out, explain; ex out +
+   plandare to make level or plain, planus plain: cf. OF.
+   esplaner, explaner. See {Plain},a., and cf. {Esplanade}.]
+   1. To flatten; to spread out; to unfold; to expand. [Obs.]
+      [1913 Webster]
+
+            The horse-chestnut is . . . ready to explain its
+            leaf.                                 --Evelyn.
+      [1913 Webster]
+
+   2. To make plain, manifest, or intelligible; to clear of
+      obscurity; to expound; to unfold and illustrate the
+      meaning of; as, to explain a chapter of the Bible.
+      [1913 Webster]
+
+            Commentators to explain the difficult passages to
+            you.                                  --Gay.
+      [1913 Webster]
+
+   {To explain away}, to get rid of by explanation. ``Those
+      explain the meaning quite away.'' --Pope.
+
+   Syn: To expound; interpret; elucidate; clear up.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>explain</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>explain
+     v 1: make palin and comprehensible; "He explained the laws of
+          physics to his students" [syn: {explicate}]
+     2: define; "The committe explained their plan for fund-raising
+        to the Dean"
+     3: serve as a reason or cause or justification of; "Your need
+        to sleep late does not excuse your late arrival at work";
+        "Her recent divorce amy explain her reluctance to date
+        again" [syn: {excuse}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

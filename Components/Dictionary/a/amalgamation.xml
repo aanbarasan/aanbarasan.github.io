@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>amalgamation</Word>
+  <Definitions>
+    <Definition>
+      <Word>amalgamation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Amalgamation \A*mal`ga*ma"tion\, n. [Cf. F. amalgamation.]
+   1. The act or operation of compounding mercury with another
+      metal; -- applied particularly to the process of
+      separating gold and silver from their ores by mixing them
+      with mercury. --Ure.
+      [1913 Webster]
+
+   2. The mixing or blending of different elements, races,
+      societies, etc.; also, the result of such combination or
+      blending; a homogeneous union. --Macaulay.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>amalgamation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>amalgamation
+     n : the combination of two or more commercial companies [syn: {merger},
+          {uniting}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

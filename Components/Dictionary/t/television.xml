@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>television</Word>
+  <Definitions>
+    <Definition>
+      <Word>television</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>television
+     
+        &lt;hardware&gt; A dedicated {push media} device for receiving
+        {streaming video} and {audio}, either by terrestrial radio
+        broadcast, satellite or cable.
+     
+        (1997-11-23)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>television</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>electronic device \electronic device\ n.
+   a device depending on the principles of electronics and using
+   the manipulation of electron flow for its operation.
+   [PJC]
+
+   Note: Numerous electronic devices are in daily use, among
+         them the {television}, {radio}, {computer}, {robot},
+         {transmitter}, {receiver}, {VCR}, {CD player}, etc.
+         [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>television</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>television
+     n 1: broadcasting visual images of stationary or moving objects;
+          "she is a star of screen and video"; "Television is a
+          medium because it is neither rare nor well done" - Ernie
+          Kovacs [syn: {telecasting}, {TV}, {video}]
+     2: a receiver that displays television images; "the British
+        call a tv set a telly" [syn: {television receiver}, {television
+        set}, {tv}, {tv set}, {idiot box}, {boob tube}, {telly}, {goggle
+        box}]
+     3: a telecommunication system that transmits images of objects
+        (stationary or moving) between distant points [syn: {television
+        system}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

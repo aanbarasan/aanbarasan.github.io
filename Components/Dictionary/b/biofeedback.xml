@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>biofeedback</Word>
+  <Definitions>
+    <Definition>
+      <Word>biofeedback</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>biofeedback \bi`o*feed"back\ n.
+   a training program in which a person is given information
+   about physiological processes (heart rate or blood pressure)
+   that is not normally available with the goal of gaining
+   conscious control of them.
+   [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>biofeedback</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>biofeedback
+     n : a training program in which a person is given information
+         about physiological processes (heart rate or blood
+         pressure) that is not normally available with the goal of
+         gaining conscious control of them
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

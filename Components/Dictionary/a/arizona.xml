@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>arizona</Word>
+  <Definitions>
+    <Definition>
+      <Word>arizona</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Arizona
+     n 1: a state in southwestern United States; site of the Grand
+          Canyon [syn: {Grand Canyon State}, {AZ}]
+     2: glossy snake [syn: {genus Arizona}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

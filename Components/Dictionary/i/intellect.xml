@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>intellect</Word>
+  <Definitions>
+    <Definition>
+      <Word>intellect</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>INTELLECT
+     
+        &lt;language&gt; A {query language} written by Larry Harris in 1977,
+        close to natural English.
+     
+        (1995-04-14)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>intellect</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Intellect \In"tel*lect\, n. [L. intellectus, fr. intelligere,
+   intellectum, to understand: cf. intellect. See
+   {Intelligent}.]
+   1. (Metaph.) The part or faculty of the human mind by which
+      it knows, as distinguished from the power to feel and to
+      will; the power to judge and comprehend; the thinking
+      faculty; the understanding.
+      [1913 Webster]
+
+   2. The capacity for higher forms of knowledge, as
+      distinguished from the power to perceive objects in their
+      relations; mental capacity.
+      [PJC]
+
+   3. A particular mind, especially a person of high
+      intelligence; as, he was a great intellect.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>intellect</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>intellect
+     n 1: knowledge and intellectual ability; "he reads to improve his
+          mind"; "he has a keen intellect" [syn: {mind}]
+     2: the capacity for rational thought or inference or
+        discrimination; "we are told that man is endowed with
+        reason and capable of distinguishing good from evil" [syn:
+         {reason}, {understanding}]
+     3: a person who uses the mind creatively [syn: {intellectual}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

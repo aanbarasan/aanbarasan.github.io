@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>impact</Word>
+  <Definitions>
+    <Definition>
+      <Word>impact</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Impact, TX (town, FIPS 35816)
+  Location: 32.49875 N, 99.74627 W
+  Population (1990): 25 (13 housing units)
+  Area: 0.2 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>impact</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Impact \Im*pact"\, v. t. [imp. &amp; p. p. {Impacted}; p. pr. &amp; vb.
+   n. {Impacting}.] [L. impactus, p. p. of impingere to push,
+   strike against. See {Impinge}.]
+   1. To drive close; to press firmly together: to wedge into a
+      place. --Woodward.
+      [1913 Webster]
+
+   2. To affect or influence, especially in a significant or
+      undesirable manner; as, budget cuts impacted the entire
+      research program; the fish populations were adversely
+      impacted by pollution.
+      [PJC]
+
+   3. To collide forcefully with; to strike.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>impact</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Impact \Im"pact\, n.
+   1. Contact or impression by touch; collision; forcible
+      contact; force communicated.
+      [1913 Webster]
+
+            The quarrel, by that impact driven.   --Southey.
+      [1913 Webster]
+
+   2. (Mech.) The single instantaneous stroke of a body in
+      motion against another either in motion or at rest.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>impact</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>IMPACT
+     Information Market Policy ACTions (ECHO)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>impact</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>impact
+     n 1: the striking of one body against another
+     2: a forceful consequence; a strong effect; "the book had an
+        important impact on my thinking"; "the book packs a
+        wallop" [syn: {wallop}]
+     3: influencing strongly; "they resented the impingement of
+        American values on European culture" [syn: {impingement},
+        {encroachment}]
+     4: the violent interaction of individuals or groups entering
+        into combat; "the armies met in the shock of battle" [syn:
+         {shock}]
+     v 1: press or wedge together; pack together
+     2: have an effect upon; "Will the new rules affect me?" [syn: {affect},
+         {bear upon}, {bear on}, {touch on}, {touch}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

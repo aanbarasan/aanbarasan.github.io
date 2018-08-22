@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bentley</Word>
+  <Definitions>
+    <Definition>
+      <Word>bentley</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Bentley, IL (town, FIPS 5287)
+  Location: 40.34471 N, 91.11106 W
+  Population (1990): 36 (20 housing units)
+  Area: 0.4 sq km (land), 0.0 sq km (water)
+Bentley, KS (city, FIPS 6125)
+  Location: 37.88637 N, 97.51556 W
+  Population (1990): 360 (151 housing units)
+  Area: 0.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 67016
+Bentley, LA
+  Zip code(s): 71407
+Bentley, MI
+  Zip code(s): 48613
+Bentley, ND
+  Zip code(s): 58562
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>
