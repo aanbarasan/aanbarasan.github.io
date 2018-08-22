@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>okay</Word>
+  <Definitions>
+    <Definition>
+      <Word>okay</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Okay, OK (town, FIPS 54100)
+  Location: 35.85222 N, 95.31430 W
+  Population (1990): 528 (235 housing units)
+  Area: 1.6 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>okay</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>okay \okay\ adj.
+   Satifactory; agreeable; pleasant; as, things are okay; he's
+   an okay guy.
+
+   Syn: all right(predicate), all-right(prenominal), ok, o.k.
+        [WordNet 1.5 +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>okay</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>okay \okay\ n.
+   An endorsement; approval; permission; as, they gave us the
+   okay to go ahead.
+
+   Syn: OK, okey, okeh.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>okay</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>okay \okay\ v. t.
+   to approve; as, the boss okayed my proposal.
+
+   Syn: approve, ok, sanction.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>okay</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>okay
+     adj : being satisfactory or in satisfactory condition; "an
+           all-right movie"; "the passengers were shaken up but
+           are all right"; "is everything all right?";
+           "everything's fine"; "things are okay"; "dinner and the
+           movies had been fine"; "another minute I'd have been
+           fine" [syn: {all right}, {fine}, {ok}, {o.k.}, {hunky-dory}]
+     n : an endorsement; "they gave us the O.K. to go ahead" [syn: {O.K.},
+          {OK}, {okey}, {okeh}]
+     adv : in a satisfactory or adequate manner; "she'll do okay on her
+           own"; "held up all right under pressure"; (`alright' is
+           a nonstandard variant of `all right') [syn: {O.K.}, {all
+           right}, {alright}]
+     v : give sanction to; "I approve of his educational policies"
+         [syn: {approve}, {O.K.}, {sanction}] [ant: {disapprove}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

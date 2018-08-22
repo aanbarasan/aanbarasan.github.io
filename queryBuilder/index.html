@@ -128,7 +128,7 @@
 <body class="layoutBody" ng-controller="QueryBuilderCtrl" ng-keydown="editKeyPressInBodyFunctionCall($event)" ng-mousedown="editMouseDownInBodyFunctionCall($event)">
     <div class="col-sm-12 layoutFixedHeader" >
         <div class="col-sm-2 layoutTitle">
-            <a href="../">Anbarasan</a>
+            <a href="../">Home</a>
         </div>
         <div class="col-sm-2 layoutTaps">
             <a href="../">About</a>
@@ -246,16 +246,6 @@
             </div>
             <!-- End of SimpleHitCounter Code -->
             <span id="VersionContainer">V: 1.02</span>
-            <span >Time: </span>
-            <span id="footerTime"></span>
-            <script>
-                timeChange();
-                function timeChange() {
-                    var d = new Date();
-                    $("#footerTime").html(d.getHours() + ":" + d.getMinutes() + ":" + d.getSeconds());
-                    setTimeout(timeChange, 1000);
-                }
-            </script>
         </div>
     </div>
     <div class="modal fade in" id="popupModalContent">

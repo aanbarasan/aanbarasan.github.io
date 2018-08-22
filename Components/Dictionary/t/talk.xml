@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>talk</Word>
+  <Definitions>
+    <Definition>
+      <Word>talk</Word>
+      <Dictionary>
+        <Id>devils</Id>
+        <Name>THE DEVIL'S DICTIONARY ((C)1911 Released April 15 1993)</Name>
+      </Dictionary>
+      <WordDefinition>TALK, v.t.  To commit an indiscretion without temptation, from an
+impulse without purpose.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>talk</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>talk
+     
+        &lt;chat, tool, networking, messaging&gt; A {Unix} program and
+        {protocol} supporting conversation between two or more users
+        who may be logged into the same computer or different
+        computers on a network.  Variants include {ntalk}, {ytalk},
+        and {ports} or {emulators} of these programs for other
+        {platforms}.
+     
+        {Unix} has the {talk} program and {protocol} and its variants
+        {xtalk} and {ytalk} for the {X Window System}; {VMS} has
+        {phone}; {Windows for Workgroups} has {chat}.  {ITS} also has
+        a talk system.  These split the screen into separate areas for
+        each user.
+     
+        {Unix}'s {write} command can also be used, though it does not
+        attempt to separate input and output on the screen.
+     
+        Users of such systems are said to be in {talk mode} which has
+        many conventional abbreviations and idioms.  Most of these
+        survived into {chat} jargon, but many fell out of common use
+        with the migration of {user} prattle from talk-like systems to
+        {chat} systems in the early 1990s.  These disused
+        talk-specific forms include:
+     
+        "BYE?" - are you ready to close the conversation?  This is the
+        standard way to end a talk-mode conversation; the other person
+        types "BYE" to confirm, or else continues the conversation.
+     
+        "JAM"/"MIN" - just a minute
+     
+        "O" - "over" (I have stopped talking).  Also "/" as in x/y - x
+        over y, or two newlines (the latter being the most common).
+     
+        "OO" - "over and out" - end of conversation.
+     
+        "\" - Greek {lambda}.
+     
+        "R U THERE?" - are you there?
+     
+        "SEC" - wait a second.
+     
+        "/\/\/" - laughter.  But on a {MUD}, this usually means
+        "earthquake fault".
+     
+        See also {talk bomb}.
+     
+        (1998-01-25)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>talk</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Talk \Talk\, v. i. [imp. &amp; p. p. {Talked}; p. pr. &amp; vb. n.
+   {Talking}.] [Cf. LG. talk talk, gabble, Prov. G. talken to
+   speak indistinctly; or OD. tolken to interpret, MHG. tolkan
+   to interpret, to tell, to speak indistinctly, Dan. tolke to
+   interpret, Sw. tolka, Icel. t?lka to interpret, t?lkr an
+   interpreter, Lith. tulkas an interpreter, tulkanti,
+   tulk[=o]ti, to interpret, Russ. tolkovate to interpret, to
+   talk about; or perhaps fr. OE. talien to speak (see {Tale},
+   v. i. &amp; n.).]
+   1. To utter words; esp., to converse familiarly; to speak, as
+      in familiar discourse, when two or more persons
+      interchange thoughts.
+      [1913 Webster]
+
+            I will buy with you, sell with you, talk with you,
+            walk with you, and so following, but I will not eat
+            with you.                             --Shak.
+      [1913 Webster]
+
+   2. To confer; to reason; to consult.
+      [1913 Webster]
+
+            Let me talk with thee of thy judgments. --Jer. xii.
+                                                  1.
+      [1913 Webster]
+
+   3. To prate; to speak impertinently. [Colloq.]
+      [1913 Webster]
+
+   {To talk of}, to relate; to tell; to give an account of; as,
+      authors talk of the wonderful remains of Palmyra. ``The
+      natural histories of Switzerland talk much of the fall of
+      these rocks, and the great damage done.'' --Addison.
+
+   {To talk to}, to advise or exhort, or to reprove gently; as,
+      I will talk to my son respecting his conduct. [Colloq.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>talk</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Talk \Talk\, n.
+   1. The act of talking; especially, familiar converse; mutual
+      discourse; that which is uttered, especially in familiar
+      conversation, or the mutual converse of two or more.
+      [1913 Webster]
+
+            In various talk the instructive hours they passed.
+                                                  --Pope.
+      [1913 Webster]
+
+            Their talk, when it was not made up of nautical
+            phrases, was too commonly made up of oaths and
+            curses.                               --Macaulay.
+      [1913 Webster]
+
+   2. Report; rumor; as, to hear talk of war.
+      [1913 Webster]
+
+            I hear a talk up and down of raising our money.
+                                                  --Locke.
+      [1913 Webster]
+
+   3. Subject of discourse; as, his achievment is the talk of
+      the town.
+      [1913 Webster]
+
+   Syn: Conversation; colloquy; discourse; chat; dialogue;
+        conference; communication. See {Conversation}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>talk</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Talk \Talk\, v. t.
+   1. To speak freely; to use for conversing or communicating;
+      as, to talk French.
+      [1913 Webster]
+
+   2. To deliver in talking; to speak; to utter; to make a
+      subject of conversation; as, to talk nonsense; to talk
+      politics.
+      [1913 Webster]
+
+   3. To consume or spend in talking; -- often followed by away;
+      as, to talk away an evening.
+      [1913 Webster]
+
+   4. To cause to be or become by talking. ``They would talk
+      themselves mad.'' --Shak.
+      [1913 Webster]
+
+   {To talk over}.
+      (a) To talk about; to have conference respecting; to
+          deliberate upon; to discuss; as, to talk over a matter
+          or plan.
+      (b) To change the mind or opinion of by talking; to
+          convince; as, to talk over an opponent.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>talk</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>talk
+     n 1: an exchange of ideas via conversation; "let's have more work
+          and less talk around here" [syn: {talking}]
+     2: (`talk about' is a less formal alternative for `discussion
+        of') discussion; "his poetry contains much talk about love
+        and anger"
+     3: the act of giving a talk to an audience; "I attended an
+        interesting talk on local history"
+     4: a speech that is open to the public; "he attended a lecture
+        on telecommunications" [syn: {lecture}, {public lecture}]
+     5: idle gossip or rumor; "there has been talk about you lately"
+        [syn: {talk of the town}]
+     v 1: exchange thoughts; talk with; "We often talk business";
+          "Actions talk louder than words" [syn: {speak}]
+     2: express in speech; "She talks a lot of nonsense"; "This
+        depressed patient does not verbalize" [syn: {speak}, {utter},
+         {mouth}, {verbalize}, {verbalise}]
+     3: use language; "the baby talks already"; "the prisoner won't
+        speak"; "they speak a strange dialect" [syn: {speak}]
+     4: reveal information; "If you don't oblige me, I'll talk!";
+        "The former employee spilled all the details" [syn: {spill}]
+     5: divulge confidential information or secrets;  "Be
+        careful--his secretary talks" [syn: {spill the beans}, {let
+        the cat out of the bag}, {tattle}, {blab}, {peach}, {babble},
+         {sing}, {babble out}, {blab out}] [ant: {keep quiet}]
+     6: deliver a lecture or talk; "She will talk at Rutgers next
+        week"; "Did you ever lecture at Harvard?" [syn: {lecture}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

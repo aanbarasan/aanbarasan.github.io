@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>too</Word>
+  <Definitions>
+    <Definition>
+      <Word>too</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Too \Too\, adv. [The same word as to, prep. See {To}.]
+   [1913 Webster]
+   1. Over; more than enough; -- noting excess; as, a thing is
+      too long, too short, or too wide; too high; too many; too
+      much.
+      [1913 Webster]
+
+            His will, too strong to bend, too proud to learn.
+                                                  --Cowley.
+      [1913 Webster]
+
+   2. Likewise; also; in addition.
+      [1913 Webster]
+
+            An honest courtier, yet a patriot too. --Pope.
+      [1913 Webster]
+
+            Let those eyes that view
+            The daring crime, behold the vengeance too. --Pope.
+      [1913 Webster]
+
+   {Too too}, a duplication used to signify great excess.
+      [1913 Webster]
+
+            O that this too too solid flesh would melt. --Shak.
+      [1913 Webster]
+
+            Such is not Charles his too too active age.
+                                                  --Dryden.
+      [1913 Webster]
+
+   Syn: Also; likewise. See {Also}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>too</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>too
+     adv 1: to an excessive degree; "too big" [syn: {excessively}, {overly},
+             {to a fault}]
+     2: in addition; "he has a Mercedes, too" [syn: {besides}, {also},
+         {likewise}, {as well}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

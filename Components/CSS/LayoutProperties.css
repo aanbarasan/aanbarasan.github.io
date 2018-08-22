@@ -85,7 +85,7 @@
     color: white;
     padding: 15px;
 }
-.layoutContentTiles:nth-child(odd) {
+.layoutContentTiles {
     clear:both;
 }
 .layoutContentTitle {

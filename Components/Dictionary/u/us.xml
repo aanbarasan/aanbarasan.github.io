@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>us</Word>
+  <Definitions>
+    <Definition>
+      <Word>us</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>US
+     
+        {Unit Separator}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>us</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>us
+     
+        &lt;networking&gt; The {country code} for the United States.
+     
+        Usually used only by schools, libraries, and some state and
+        local governments.  Other US sites, and many international
+        ones, use the non-national {top-level domains} .com, .edu etc.
+     
+        (1999-01-27)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>us</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>I \I\ ([imac]), pron. [poss. {My} (m[imac]) or {Mine}
+   (m[imac]n); object. {Me} (m[=e]). pl. nom. {We} (w[=e]);
+   poss. {Our} (our) or {Ours} (ourz); object. {Us} ([u^]s).]
+   [OE. i, ich, ic, AS. ic; akin to OS. &amp; D. ik, OHG. ih, G.
+   ich, Icel. ek, Dan. jeg, Sw. jag, Goth. ik, OSlav. az', Russ.
+   ia, W. i, L. ego, Gr. 'egw`, 'egw`n, Skr. aham. [root]179.
+   Cf. {Egoism}.]
+   The nominative case of the pronoun of the first person; the
+   word with which a speaker or writer denotes himself.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>us</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Us \Us\, pron. [OE. us, AS. ?s; akin to OFries. &amp; OS. ?s, D.
+   ons, G. uns, Icel. &amp; Sw. oss, Dan. os, Goth. uns, L. nos we,
+   us, Gr. ? we, Skr. nas us. ????. Cf. {Nostrum}, {Our}.]
+   The persons speaking, regarded as an object; ourselves; --
+   the objective case of we. See {We}. ``Tell us a tale.''
+   --Chaucer.
+   [1913 Webster]
+
+         Give us this day our daily bread.        --Matt. vi.
+                                                  11.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>us</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>We \We\ (w[=e]), pron.; pl. of I. [Poss. {Our} (our) or {Ours}
+   (ourz); obj. {Us} ([u^]s). See {I}.] [As. w[=e]; akin to OS.
+   w[=i], OFries. &amp; LG. wi, D. wij, G. wir, Icel. v[=e]r, Sw. &amp;
+   Dan. vi, Goth. weis, Skr. vayam. [root]190.]
+   The plural nominative case of the pronoun of the first
+   person; the word with which a person in speaking or writing
+   denotes a number or company of which he is one, as the
+   subject of an action expressed by a verb.
+   [1913 Webster]
+
+   Note: We is frequently used to express men in general,
+         including the speaker. We is also often used by
+         individuals, as authors, editors, etc., in speaking of
+         themselves, in order to avoid the appearance of egotism
+         in the too frequent repetition of the pronoun I. The
+         plural style is also in use among kings and other
+         sovereigns, and is said to have been begun by King John
+         of England. Before that time, monarchs used the
+         singular number in their edicts. The German and the
+         French sovereigns followed the example of King John in
+         a. d. 1200.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>us</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>US
+     Unit Separator (BTX, VPCE)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>us</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>U.S.
+     n 1: the executive and legislative and judicial branches of the
+          federal government of the United States [syn: {United
+          States government}, {United States}, {U.S. government},
+          {US Government}]
+     2: North American republic containing 50 states - 48
+        conterminous states in North America plus Alaska in
+        northwest North America and the Hawaiian Islands in the
+        Pacific Ocean; achieved independence in 1776 [syn: {United
+        States}, {United States of America}, {America}, {US}, {USA},
+         {U.S.A.}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>us</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>US
+     n : North American republic containing 50 states - 48
+         conterminous states in North America plus Alaska in
+         northwest North America and the Hawaiian Islands in the
+         Pacific Ocean; achieved independence in 1776 [syn: {United
+         States}, {United States of America}, {America}, {U.S.}, {USA},
+          {U.S.A.}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

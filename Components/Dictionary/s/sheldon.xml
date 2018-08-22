@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sheldon</Word>
+  <Definitions>
+    <Definition>
+      <Word>sheldon</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Sheldon, IA (city, FIPS 72390)
+  Location: 43.17930 N, 95.84491 W
+  Population (1990): 4937 (2008 housing units)
+  Area: 10.9 sq km (land), 0.0 sq km (water)
+  Zip code(s): 51201
+Sheldon, IL (village, FIPS 69212)
+  Location: 40.77087 N, 87.56640 W
+  Population (1990): 1109 (472 housing units)
+  Area: 2.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 60966
+Sheldon, MO (city, FIPS 67214)
+  Location: 37.65860 N, 94.29568 W
+  Population (1990): 464 (219 housing units)
+  Area: 1.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 64784
+Sheldon, ND (city, FIPS 72180)
+  Location: 46.58700 N, 97.49218 W
+  Population (1990): 149 (74 housing units)
+  Area: 0.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 58068
+Sheldon, TX (CDP, FIPS 67376)
+  Location: 29.86035 N, 95.13359 W
+  Population (1990): 1653 (558 housing units)
+  Area: 6.7 sq km (land), 0.0 sq km (water)
+Sheldon, VT
+  Zip code(s): 05483
+Sheldon, WI (village, FIPS 73175)
+  Location: 45.31108 N, 90.95737 W
+  Population (1990): 268 (121 housing units)
+  Area: 1.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 54766
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

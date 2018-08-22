@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>are</Word>
+  <Definitions>
+    <Definition>
+      <Word>are</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Are \Are\ [AS. (Northumbrian) aron, akin to the 1st pers. pl.
+   forms, Icel. erum, Goth. sijum, L. sumus, Gr. ?, Skr. smas;
+   all from a root as. ? See {Am} and {Is}, and cf. {Be}.]
+   The present indicative plural of the substantive verb to be;
+   but etymologically a different word from be, or was. Am, art,
+   are, and is, all come from the root as.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>are</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Are \Are\, n. [F., fr. L. area. See {Area}.] (Metric system)
+   The unit of superficial measure, being a square of which each
+   side is ten meters in length; 100 square meters, or about
+   119.6 square yards.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>are</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>ARE
+     All Routes Explorer (ATM)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>are</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>are
+     n : a unit of surface area equal to 100 square meters [syn: {ar}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>are</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>are
+     See {be}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

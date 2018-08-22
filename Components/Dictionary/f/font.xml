@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>font</Word>
+  <Definitions>
+    <Definition>
+      <Word>font</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>font
+     
+        &lt;text&gt; A set of {glyphs} ({images}) representing the
+        {characters} from some particular {character set} in a
+        particular size and {typeface}.  The image of each character
+        may be encoded either as a {bitmap} (in a {bitmap font}) or by
+        a higher-level description in terms of lines and areas (an
+        {outline font}).
+     
+        There are several different computer representations for
+        fonts, the most widely known are {Adobe Systems, Inc.}'s
+        {PostScript} font definitions and {Apple}'s {TrueType}.
+        {Window systems} can display different fonts on the screen and
+        print them.
+     
+        [Other types of font?]
+     
+        (2001-04-27)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>font</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Font \Font\, n. [AS. font, fant, fr. L. fons, fontis, spring,
+   fountain; cf. OF. font, funt, F. fonts, fonts baptismaux, pl.
+   See {Fount}.]
+   1. A fountain; a spring; a source.
+      [1913 Webster]
+
+            Bathing forever in the font of bliss. --Young.
+      [1913 Webster]
+
+   2. A basin or stone vessel in which water is contained for
+      baptizing.
+      [1913 Webster]
+
+            That name was given me at the font.   --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>font</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Font \Font\, n. [F. fonte, fr. fondre to melt or cast. See
+   {Found} to cast, and cf. {Fount} a font.] (Print.)
+   A complete assortment of printing type of one size, including
+   a due proportion of all the letters in the alphabet, large
+   and small, points, accents, and whatever else is necessary
+   for printing with that variety of types; a fount.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>font</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>font
+     n 1: a specific size and style of type within a type family [syn:
+           {fount}, {typeface}, {face}]
+     2: bowl for baptismal water [syn: {baptismal font}, {baptistry},
+         {baptistery}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -14,62 +14,54 @@
 </head>
 <body class="layoutBody">
     <div class="col-sm-12 layoutFixedHeader">
-        <div class="col-sm-2 layoutTitle" style="display:none;">
-            <a href="">Anbarasan</a>
+        <div class="col-sm-2 layoutTitle">
+            <a href="">Home</a>
         </div>
         <div class="col-sm-2 layoutTaps">
             <a href="">About</a>
         </div>
     </div>
     <div class="col-sm-12 layoutContent">
-        <div class="col-sm-12 layoutHomeHeader">
-            Anbarasan
-        </div>
-        <div class="col-sm-12 layoutTilesContainer">
-            <div class="col-sm-4 col-sm-offset-1 layoutContentTiles">
+        <div class="col-sm-12 layoutTilesContainer" style="min-height:600px;">
+            <div class="col-sm-6 col-sm-offset-3 layoutContentTiles">
+                <div class="col-sm-12 layoutContentTilesTitle">
+                    <a href="TheBigBangTheory">The Big Bang Theory</a>
+                </div>
+                <div class="col-sm-12 layoutContentTilesContent" style="display:none;">
+                    The Big Bang Theory tv show all the words meaning.
+                </div>
+            </div>
+            <div class="col-sm-6 col-sm-offset-3 layoutContentTiles">
                 <div class="col-sm-12 layoutContentTilesTitle">
                     <a href="queryBuilder">Query Builder</a>
                 </div>
-                <div class="col-sm-12 layoutContentTilesContent">
+                <div class="col-sm-12 layoutContentTilesContent" style="display:none;">
                     Query Builer is a tool used to build queries based on constraints. In first column update only available in this method. 
                     In that container you can edit contents like same as Excel sheets. Enable Second Container two Form multiple conditions based queries.
                 </div>
             </div>
-            <div class="col-sm-4 col-sm-offset-2 layoutContentTiles">
+            <div class="col-sm-6 col-sm-offset-3 layoutContentTiles">
                 <div class="col-sm-12 layoutContentTilesTitle">
                     <a href="TextEditer">Textarea Editer</a>
                 </div>
-                <div class="col-sm-12 layoutContentTilesContent">
+                <div class="col-sm-12 layoutContentTilesContent" style="display:none;">
                     Textarea Editer is a tool used for Textarea Different Text Colors. It also Contains auto complete feature in advanced.
                     You can predict text by the regular Expresions also.
                 </div>
             </div>
         </div>
     </div>
-    <div class="col-sm-12 layoutFooter" style="padding:20px 40px 20px 40px;">
+    <div class="col-sm-12 layoutFooter" style="padding:5px;">
         <div class="col-sm-12" style="color:white;">
-            <h2>About</h2>
-            <ul>
-                <li>Email ID: anbarasanmbbs@gmail.com</li>
-            </ul>
-        </div>
-        <div class="col-sm-12" style="text-align:right;">
-            <!-- Start of SimpleHitCounter Code -->
-            <div style="display:inline-block;text-align:center;">
-                <img src="http://simplehitcounter.com/hit.php?uid=2154186&f=16777215&b=255" border="0" height="18" width="83" alt="Counts">
+            <h5 style="display: inline-block;">Email ID: anbarasanmbbs@gmail.com</h5>
+            <div class="col-sm-6 pull-right" style="text-align:right;display: inline-block;padding:10px">
+                <!-- Start of SimpleHitCounter Code -->
+                <div style="display:inline-block;text-align:center;">
+                    <img src="http://simplehitcounter.com/hit.php?uid=2154186&f=16777215&b=255" border="0" height="18" width="83" alt="Counts">
+                </div>
+                <!-- End of SimpleHitCounter Code -->
+                <span id="VersionContainer">V: 1.02</span>
             </div>
-            <!-- End of SimpleHitCounter Code -->
-            <span id="VersionContainer">V: 1.02</span>
-            <span >Time: </span>
-            <span id="footerTime"></span>
-            <script>
-                timeChange();
-                function timeChange() {
-                    var d = new Date();
-                    $("#footerTime").html(d.getHours() + ":" + d.getMinutes() + ":" + d.getSeconds());
-                    setTimeout(timeChange, 1000);
-                }
-            </script>
         </div>
     </div>
 </body>

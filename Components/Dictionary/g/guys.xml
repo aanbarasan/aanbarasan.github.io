@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>guys</Word>
+  <Definitions>
+    <Definition>
+      <Word>guys</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Guys, TN (town, FIPS 31680)
+  Location: 35.01594 N, 88.54417 W
+  Population (1990): 497 (194 housing units)
+  Area: 29.2 sq km (land), 0.1 sq km (water)
+  Zip code(s): 38339
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

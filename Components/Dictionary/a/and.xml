@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>and</Word>
+  <Definitions>
+    <Definition>
+      <Word>and</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>AND
+     
+        &lt;logic&gt; (Or "conjunction") The {Boolean} function which is
+        true only if all its arguments are true.  The {truth table}
+        for the two argument AND function is:
+     
+         A | B | A AND B
+         --+---+---------
+         F | F |    F
+         F | T |    F
+         T | F |    F
+         T | T |    T
+     
+        AND is often written as an inverted "V" in texts on logic.  In
+        the {C} programming language it is represented by the &amp;&amp;
+        (logical and) {operator}.
+     
+        (1997-11-15)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>and</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>And \And\, conj. [AS. and; akin to OS. endi, Icel. enda, OHG.
+   anti, enti, inti, unti, G. und, D. en, OD. ende. Cf, {An} if,
+   {Ante-}.]
+   1. A particle which expresses the relation of connection or
+      addition. It is used to conjoin a word with a word, a
+      clause with a clause, or a sentence with a sentence.
+      [1913 Webster]
+
+   Note: (a) It is sometimes used emphatically; as, ``there are
+         women and women,'' that is, two very different sorts of
+         women. (b) By a rhetorical figure, notions, one of
+         which is modificatory of the other, are connected by
+         and; as, ``the tediousness and process of my travel,''
+         that is, the tedious process, etc.; ``thy fair and
+         outward character,'' that is, thy outwardly fair
+         character, --Schmidt's Shak. Lex.
+         [1913 Webster]
+
+   2. In order to; -- used instead of the infinitival to,
+      especially after try, come, go.
+      [1913 Webster]
+
+            At least to try and teach the erring soul. --Milton.
+      [1913 Webster]
+
+   3. It is sometimes, in old songs, a mere expletive.
+      [1913 Webster]
+
+            When that I was and a little tiny boy. --Shak.
+      [1913 Webster]
+
+   4. If; though. See {An}, conj. [Obs.] --Chaucer.
+      [1913 Webster]
+
+            As they will set an house on fire, and it were but
+            to roast their eggs.                  --Bacon.
+      [1913 Webster]
+
+   {And so forth}, and others; and the rest; and similar things;
+      and other things or ingredients. The abbreviation, etc.
+      (et cetera), or &amp;c., is usually read and so forth.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>
