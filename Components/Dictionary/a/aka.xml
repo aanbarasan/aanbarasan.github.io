@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>aka</Word>
+  <Definitions>
+    <Definition>
+      <Word>aka</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>AKA
+     Also Known As
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>aka</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>a.k.a.
+     adv : as known or named at another time or place; "Mr. Smith,
+           alias Mr. Lafayette" [syn: {alias}, {also known as}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

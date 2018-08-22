@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>addiction</Word>
+  <Definitions>
+    <Definition>
+      <Word>addiction</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Addiction \Ad*dic"tion\, n. [Cf. L. addictio an adjudging.]
+   The state of being addicted; devotion; inclination. ``His
+   addiction was to courses vain.'' --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>addiction</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>addiction
+     n 1: being abnormally tolerant to and dependent on something that
+          is psychologically or physically habit-forming
+          (especially alcohol or narcotic drugs) [syn: {dependence},
+           {dependency}, {habituation}]
+     2: an abnormally strong craving
+     3: (Roman law) a formal award by a court sentence of a thing or
+        person to another (as of a debtor to his creditor); a
+        surrender to a master; "under Roman law addiction was the
+        justification for slavery"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

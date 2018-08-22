@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dense</Word>
+  <Definitions>
+    <Definition>
+      <Word>dense</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dense \Dense\, a. [L. densus; akin to Gr. ? thick with hair or
+   leaves: cf. F. dense.]
+   1. Having the constituent parts massed or crowded together;
+      close; compact; thick; containing much matter in a small
+      space; heavy; opaque; as, a dense crowd; a dense forest; a
+      dense fog.
+      [1913 Webster]
+
+            All sorts of bodies, firm and fluid, dense and rare.
+                                                  --Ray.
+      [1913 Webster]
+
+            To replace the cloudy barrier dense.  --Cowper.
+      [1913 Webster]
+
+   2. Stupid; gross; crass; as, dense ignorance.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dense</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dense
+     adj 1: permitting little if any light to pass through because of
+            denseness of matter; "dense smoke"; "heavy fog";
+            "impenetrable gloom" [syn: {heavy}, {impenetrable}]
+     2: closely crowded together; "a compact shopping center"; "a
+        dense population"; "thick crowds" [syn: {compact}, {thick}]
+     3: hard to pass through because of dense growth; "dense
+        vegetation"; "thick woods" [syn: {thick}]
+     4: having high relative density or specific gravity; "dense as
+        lead"
+     5: slow to learn or understand; lacking intellectual acuity;
+        "so dense he never understands anything I say to him";
+        "never met anyone quite so dim"; "although dull at
+        classical learning, at mathematics he was uncommonly
+        quick"- Thackeray; "dumb officials make some really dumb
+        decisions"; "he was either normally stupid or being
+        deliberately obtuse"; "worked with the slow students"
+        [syn: {dim}, {dull}, {dumb}, {obtuse}, {slow}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

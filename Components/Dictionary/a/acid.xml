@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>acid</Word>
+  <Definitions>
+    <Definition>
+      <Word>acid</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>ACID
+     
+        &lt;programming&gt; A {mnemonic} for the properties a transaction
+        should have to satisfy the {Object Management Group}
+        {Transaction Service} specifications.  A transaction should be
+        {Atomic}, its result should be Consistent, Isolated
+        (independent of other transactions) and Durable (its effect
+        should be permanent).
+     
+        The {Transaction Service} specifications which part of the
+        {Object Services}, an adjunct to the {CORBA} specifications.
+     
+        (1997-05-15)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>acid</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Acid \Ac"id\, a. [L. acidus sour, fr. the root ak to be sharp:
+   cf. F. acide. Cf. {Acute}.]
+   1. Sour, sharp, or biting to the taste; tart; having the
+      taste of vinegar: as, acid fruits or liquors. Also fig.:
+      Sour-tempered.
+      [1913 Webster]
+
+            He was stern and his face as acid as ever. --A.
+                                                  Trollope.
+      [1913 Webster]
+
+   2. Of or pertaining to an acid; as, acid reaction.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>acid</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Acid \Ac"id\, n.
+   1. A sour substance.
+      [1913 Webster]
+
+   2. (Chem.) One of a class of compounds, generally but not
+      always distinguished by their sour taste, solubility in
+      water, and reddening of vegetable blue or violet colors.
+      They are also characterized by the power of destroying the
+      distinctive properties of alkalies or bases, combining
+      with them to form salts, at the same time losing their own
+      peculiar properties. They all contain hydrogen, united
+      with a more negative element or radical, either alone, or
+      more generally with oxygen, and take their names from this
+      negative element or radical. Those which contain no oxygen
+      are sometimes called {hydracids} in distinction from the
+      others which are called {oxygen acids} or {oxacids}.
+      [1913 Webster]
+
+   Note: In certain cases, sulphur, selenium, or tellurium may
+         take the place of oxygen, and the corresponding
+         compounds are called respectively {sulphur acids} or
+         {sulphacids}, {selenium acids}, or {tellurium acids}.
+         When the hydrogen of an acid is replaced by a positive
+         element or radical, a salt is formed, and hence acids
+         are sometimes named as salts of hydrogen; as hydrogen
+         nitrate for nitric acid, hydrogen sulphate for
+         sulphuric acid, etc. In the old chemistry the name acid
+         was applied to the oxides of the negative or
+         nonmetallic elements, now sometimes called anhydrides.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>acid</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>ACID
+     Analysis Console for Intrusion Databases (IDS, CERT)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>acid</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>ACID
+     Atomicity - Consistency - Isolation - Durability (DB, TP)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>acid</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>acid
+     adj 1: harsh or corrosive in tone; "an acerbic tone piercing
+            otherwise flowery prose"; "a barrage of acid
+            comments"; "her acrid remarks make her many enemies";
+            "bitter words"; "blistering criticism"; "caustic jokes
+            about political assassination, talk-show hosts and
+            medical ethics"; "a sulfurous denunciation" [syn: {acerb},
+             {acerbic}, {acrid}, {bitter}, {blistering}, {caustic},
+             {sulfurous}, {sulphurous}, {venomous}, {virulent}, {vitriolic}]
+     2: containing acid; "an acid taste"
+     n 1: any of various water-soluble compounds having a sour taste
+          and capable of turning litmus red and reacting with a
+          base to form a salt
+     2: street name for lysergic acid diethylamide [syn: {back
+        breaker}, {battery-acid}, {dose}, {dot}, {Elvis}, {loony
+        toons}, {Lucy in the sky with diamonds}, {pane}, {superman},
+         {window pane}, {Zen}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

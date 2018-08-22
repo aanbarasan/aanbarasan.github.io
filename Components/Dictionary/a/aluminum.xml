@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>aluminum</Word>
+  <Definitions>
+    <Definition>
+      <Word>aluminum</Word>
+      <Dictionary>
+        <Id>elements</Id>
+        <Name>Elements database 20001107</Name>
+      </Dictionary>
+      <WordDefinition>aluminum
+Symbol: Al
+Atomic number: 13
+Atomic weight: 26.9815
+Silvery-white lustrous metallic element of group 3 of the periodic table.
+Highly reactive but protected by a thin transparent layer of the oxide
+which quickly forms in air. There are many alloys of aluminum, as well as
+a good number of industrial uses. Makes up 8.1% of the Earth's crust, by
+weight. Isolated in 1825 by H.C. Oersted.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>aluminum</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Aluminum \A*lu"mi*num\ ([.a]*l[=u]*m[i^]*n[u^]m), n.
+   The metallic element forming the base of alumina. This metal
+   is white, but with a bluish tinge, and is remarkable for its
+   resistance to oxidation, and for its lightness, having a
+   specific gravity of about 2.6. Atomic weight 27.08. Symbol
+   Al. Also called {aluminium}.
+   [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>aluminum</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>aluminum
+     n : a silvery ductile metallic element found primarily in
+         bauxite [syn: {aluminium}, {Al}, {atomic number 13}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

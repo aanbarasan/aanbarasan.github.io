@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cooper</Word>
+  <Definitions>
+    <Definition>
+      <Word>cooper</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Cooper, IA
+  Zip code(s): 50059
+Cooper, TX (city, FIPS 16564)
+  Location: 33.37184 N, 95.69048 W
+  Population (1990): 2153 (1039 housing units)
+  Area: 3.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 75432
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cooper</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cooper \Coop"er\ (?; 277), n. [From {Coop}.]
+   One who makes barrels, hogsheads, casks, etc.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cooper</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cooper \Coop"er\, v. t. [imp. &amp; p. p. {Coopered}; p. pr. &amp; vb.
+   n. {Coopering}.]
+   To do the work of a cooper upon; as, to cooper a cask or
+   barrel.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cooper</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Cooper
+     n 1: United States industrialist who built the first American
+          locomotive; founded Cooper Union in New York city to
+          offer free courses in the arts and sciences (1791-1883)
+          [syn: {Peter Cooper}]
+     2: United States film actor noted for his portrayals of strong
+        silent heroes (1901-1961) [syn: {Gary Cooper}, {Frank
+        Cooper}]
+     3: United States novelist noted for his stories of indians and
+        the frontier life (1789-1851) [syn: {James Fenimore Cooper}]
+     4: a craftsman who makes or repairs wooden barrels or tubs
+        [syn: {barrel maker}]
+     v : make barrels and casks
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

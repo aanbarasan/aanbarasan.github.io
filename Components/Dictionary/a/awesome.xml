@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>awesome</Word>
+  <Definitions>
+    <Definition>
+      <Word>awesome</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Awesome \Awe"some\, a.
+   1. Causing awe; appalling; awful; as, an awesome sight.
+      --Wright.
+      [1913 Webster]
+
+   2. Expressive of awe or terror.
+      [1913 Webster]
+
+            An awesome glance up at the auld castle. --Sir W.
+                                                  Scott.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>awesome</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>awesome
+     adj : inspiring awe or admiration or wonder; "New York is an
+           amazing city"; "the Grand Canyon is an awe-inspiring
+           sight"; "the awesome complexity of the universe"; "this
+           sea, whose gently awful stirrings seem to speak of some
+           hidden soul beneath"- Melville; "Westminster Hall's
+           awing majesty, so vast, so high, so silent" [syn: {amazing},
+            {awe-inspiring}, {awful}, {awing}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

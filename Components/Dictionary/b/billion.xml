@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>billion</Word>
+  <Definitions>
+    <Definition>
+      <Word>billion</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Milliard \Mil`liard"\ (F. m[-e]l`y[.a]r"; E.
+   m[i^]l"l[i^]*[aum]rd), n. [F., from mille, mil, thousand, L.
+   mille.]
+   A thousand millions; -- usually called {billion} in the
+   United States. See {Billion}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>billion</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Billion \Bil"lion\, n. [F. billion, arbitrarily formed fr. L.
+   bis twice, in imitation of million a million. See {Million}.]
+   According to the French and American method of numeration, a
+   thousand millions, or 1,000,000,000; according to the English
+   method, a million millions, or 1,000,000,000,000. See
+   {Numeration}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>billion</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>billion
+     adj 1: denoting a quantity consisting of one thousand million items
+            or units in the United States [syn: {a billion}]
+     2: denoting a quantity consisting of one million million items
+        or units in Great Britain [syn: {a billion}]
+     n 1: the number that is represented as a one followed by 12
+          zeros; in the United Kingdom the usage followed in the
+          United States is frequently seen [syn: {one million
+          million}, {1000000000000}]
+     2: the number that is represented as a one followed by 9 zeros
+        [syn: {one thousand million}, {1000000000}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

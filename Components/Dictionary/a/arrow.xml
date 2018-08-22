@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>arrow</Word>
+  <Definitions>
+    <Definition>
+      <Word>arrow</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Arrow \Ar"row\, n. [OE. arewe, AS. arewe, earh; akin to Icel.
+   ["o]r, ["o]rvar, Goth. arhwazna, and perh. L. arcus bow. Cf.
+   {Arc}.]
+   A missile weapon of offense, slender, pointed, and usually
+   feathered and barbed, to be shot from a bow.
+   [1913 Webster]
+
+   {Broad arrow}.
+   (a) An arrow with a broad head.
+   (b) A mark placed upon British ordnance and government
+       stores, which bears a rude resemblance to a broad
+       arrowhead.
+       [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>arrow</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>arrow
+     n 1: a mark to indicate a direction or relation [syn: {pointer}]
+     2: a projectile with a straight thin shaft and an arrowhead on
+        one end and stabilizing vanes on the other; intended to be
+        shot from a bow
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

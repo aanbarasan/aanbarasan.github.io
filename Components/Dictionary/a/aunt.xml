@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>aunt</Word>
+  <Definitions>
+    <Definition>
+      <Word>aunt</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Aunt \Aunt\, n. [OF. ante, F. tante, L. amita father's sister.
+   Cf. {Amma}.]
+   1. The sister of one's father or mother; -- correlative to
+      nephew or niece. Also applied to an uncle's wife.
+      [1913 Webster]
+
+   Note: Aunt is sometimes applied as a title or term of
+         endearment to a kind elderly woman not thus related.
+         [1913 Webster]
+
+   2. An old woman; and old gossip. [Obs.] --Shak.
+      [1913 Webster]
+
+   3. A bawd, or a prostitute. [Obs.] --Shak.
+      [1913 Webster]
+
+   {Aunt Sally}, a puppet head placed on a pole and having a
+      pipe in its mouth; also a game, which consists in trying
+      to hit the pipe by throwing short bludgeons at it.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>aunt</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>aunt
+     n : the sister of your father or mother; the wife of your uncle
+         [syn: {auntie}, {aunty}] [ant: {uncle}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dr</Word>
+  <Definitions>
+    <Definition>
+      <Word>dr</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dr \Dr.\ n.
+   abbreviation for {doctor}, a title accorded to a person who
+   holds a doctorate degree from an academic institution, such
+   as a Ph.D. degree or M.D. degree. [abbrev.]
+
+   Syn: doctor.
+        [WordNet 1.5]
+
+   2. a licensed doctor of medicine.
+
+   Syn: doctor, doc, physician, MD, medico.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dr</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>DR
+     Designated Router (PIM, Multicast)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dr</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>DR
+     Developer Release (Linux, Apple, ...)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dr</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>DR
+     Digital Research (manufacturer)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dr</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Dr.
+     n 1: a person who holds Ph.D. degree from an academic
+          institution; "she is a doctor of philosophy in physics"
+          [syn: {doctor}]
+     2: a licensed medical practitioner; "I felt so bad I went to
+        see my doctor" [syn: {doctor}, {doc}, {physician}, {MD}, {medico}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

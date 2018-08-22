@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bit</Word>
+  <Definitions>
+    <Definition>
+      <Word>bit</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Bit
+   the curb put into the mouths of horses to restrain them. The
+   Hebrew word (metheg) so rendered in Ps. 32:9 is elsewhere
+   translated "bridle" (2 Kings 19:28; Prov. 26:3; Isa. 37:29).
+   Bits were generally made of bronze or iron, but sometimes also
+   of gold or silver. In James 3:3 the Authorized Version
+   translates the Greek word by "bits," but the Revised Version by
+   "bridles."
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bit</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>bit
+     
+        &lt;unit&gt; (b) {binary} digit.
+     
+        The unit of information; the amount of information obtained by
+        asking a yes-or-no question; a computational quantity that can
+        take on one of two values, such as false and true or 0 and 1;
+        the smallest unit of storage - sufficient to hold one bit.
+     
+        A bit is said to be "set" if its value is true or 1, and
+        "reset" or "clear" if its value is false or 0.  One speaks of
+        setting and clearing bits.  To {toggle} or "invert" a bit is
+        to change it, either from 0 to 1 or from 1 to 0.
+     
+        The term "bit" first appeared in print in the computer-science
+        sense in 1949, and seems to have been coined by the eminent
+        statistician, {John Tukey}.  Tukey records that it evolved
+        over a lunch table as a handier alternative to "bigit" or
+        "binit".
+     
+        See also {flag}, {trit}, {mode bit}, {byte}, {word}.
+     
+        [{Jargon File}]
+     
+        (2002-01-22)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bit</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bit \Bit\,
+   3d sing. pr. of {Bid}, for biddeth. [Obs.] --Chaucer.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bit</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bit \Bit\, v. t. [imp. &amp; p. p. {Bitted}; p. pr. &amp; vb. n.
+   {Bitting}.]
+   To put a bridle upon; to put the bit in the mouth of.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bit</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bit \Bit\,
+   imp. &amp; p. p. of {Bite}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bit</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bit \Bit\, n. [OE. bite, AS. bita, fr. b[=i]tan to bite; akin to
+   D. beet, G. bissen bit, morsel, Icel. biti. See {Bite}, v.,
+   and cf. {Bit} part of a bridle.]
+   1. A part of anything, such as may be bitten off or taken
+      into the mouth; a morsel; a bite. Hence: A small piece of
+      anything; a little; a mite.
+      [1913 Webster]
+
+   2. Somewhat; something, but not very great.
+      [1913 Webster]
+
+            My young companion was a bit of a poet. --T. Hook.
+      [1913 Webster]
+
+   Note: This word is used, also, like jot and whit, to express
+         the smallest degree; as, he is not a bit wiser.
+         [1913 Webster]
+
+   3. A tool for boring, of various forms and sizes, usually
+      turned by means of a brace or bitstock. See {Bitstock}.
+      [1913 Webster]
+
+   4. The part of a key which enters the lock and acts upon the
+      bolt and tumblers. --Knight.
+      [1913 Webster]
+
+   5. The cutting iron of a plane. --Knight.
+      [1913 Webster]
+
+   6. In the Southern and Southwestern States, a small silver
+      coin (as the real) formerly current; commonly, one worth
+      about 12 1/2 cents; also, the sum of 12 1/2 cents.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bit</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bit \Bit\ (b[i^]t), n. [OE. bitt, bite, AS. bite, bite, fr.
+   b[=i]tan to bite. See {Bite}, n. &amp; v., and cf. {Bit} a
+   morsel.]
+   1. The part of a bridle, usually of iron, which is inserted
+      in the mouth of a horse, and having appendages to which
+      the reins are fastened. --Shak.
+      [1913 Webster]
+
+            The foamy bridle with the bit of gold. --Chaucer.
+      [1913 Webster]
+
+   2. Fig.: Anything which curbs or restrains.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bit</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bit \Bit\ (Computers) [binary digit.]
+   1. the smallest unit of information, equivalent to a choice
+      between two alternatives, as yes or no; on or off.
+      [PJC]
+
+   2. (Computers) the physical representation of a bit of
+      information in a computer memory or a data storage medium.
+      Within a computer circuit a bit may be represented by the
+      state of a current or an electrical charge; in a magnetic
+      storage medium it may be represented by the direction of
+      magnetization; on a punched card or on paper tape it may
+      be represented by the presence or absence of a hole at a
+      particular point on the card or tape.
+      [PJC]
+
+   {Bit my bit}, piecemeal. --Pope.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bit</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bit \Bit\, n.
+   In the British West Indies, a fourpenny piece, or groat.
+   [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bit</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bite \Bite\ (b[imac]t), v. t. [imp. {Bit} (b[i^]t); p. p.
+   {Bitten} (b[i^]t"t'n), {Bit}; p. pr. &amp; vb. n. {Biting}.] [OE.
+   biten, AS. b[=i]tan; akin to D. bijten, OS. b[=i]tan, OHG.
+   b[=i]zan, G. beissen, Goth. beitan, Icel. b[=i]ta, Sw. bita,
+   Dan. bide, L. findere to cleave, Skr. bhid to cleave.
+   [root]87. Cf. {Fissure}.]
+   [1913 Webster]
+   1. To seize with the teeth, so that they enter or nip the
+      thing seized; to lacerate, crush, or wound with the teeth;
+      as, to bite an apple; to bite a crust; the dog bit a man.
+      [1913 Webster]
+
+            Such smiling rogues as these,
+            Like rats, oft bite the holy cords atwain. --Shak.
+      [1913 Webster]
+
+   2. To puncture, abrade, or sting with an organ (of some
+      insects) used in taking food.
+      [1913 Webster]
+
+   3. To cause sharp pain, or smarting, to; to hurt or injure,
+      in a literal or a figurative sense; as, pepper bites the
+      mouth. ``Frosts do bite the meads.'' --Shak.
+      [1913 Webster]
+
+   4. To cheat; to trick; to take in. [Colloq.] --Pope.
+      [1913 Webster]
+
+   5. To take hold of; to hold fast; to adhere to; as, the
+      anchor bites the ground.
+      [1913 Webster]
+
+            The last screw of the rack having been turned so
+            often that its purchase crumbled, . . . it turned
+            and turned with nothing to bite.      --Dickens.
+      [1913 Webster]
+
+   {To bite the dust}, {To bite the ground}, to fall in the
+      agonies of death; as, he made his enemy bite the dust.
+
+   {To bite in} (Etching), to corrode or eat into metallic
+      plates by means of an acid.
+
+   {To bite the thumb at} (any one), formerly a mark of
+      contempt, designed to provoke a quarrel; to defy. ``Do you
+      bite your thumb at us?'' --Shak.
+
+   {To bite the tongue}, to keep silence. --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bit</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bite \Bite\ (b[imac]t), v. t. [imp. {Bit} (b[i^]t); p. p.
+   {Bitten} (b[i^]t"t'n), {Bit}; p. pr. &amp; vb. n. {Biting}.] [OE.
+   biten, AS. b[=i]tan; akin to D. bijten, OS. b[=i]tan, OHG.
+   b[=i]zan, G. beissen, Goth. beitan, Icel. b[=i]ta, Sw. bita,
+   Dan. bide, L. findere to cleave, Skr. bhid to cleave.
+   [root]87. Cf. {Fissure}.]
+   [1913 Webster]
+   1. To seize with the teeth, so that they enter or nip the
+      thing seized; to lacerate, crush, or wound with the teeth;
+      as, to bite an apple; to bite a crust; the dog bit a man.
+      [1913 Webster]
+
+            Such smiling rogues as these,
+            Like rats, oft bite the holy cords atwain. --Shak.
+      [1913 Webster]
+
+   2. To puncture, abrade, or sting with an organ (of some
+      insects) used in taking food.
+      [1913 Webster]
+
+   3. To cause sharp pain, or smarting, to; to hurt or injure,
+      in a literal or a figurative sense; as, pepper bites the
+      mouth. ``Frosts do bite the meads.'' --Shak.
+      [1913 Webster]
+
+   4. To cheat; to trick; to take in. [Colloq.] --Pope.
+      [1913 Webster]
+
+   5. To take hold of; to hold fast; to adhere to; as, the
+      anchor bites the ground.
+      [1913 Webster]
+
+            The last screw of the rack having been turned so
+            often that its purchase crumbled, . . . it turned
+            and turned with nothing to bite.      --Dickens.
+      [1913 Webster]
+
+   {To bite the dust}, {To bite the ground}, to fall in the
+      agonies of death; as, he made his enemy bite the dust.
+
+   {To bite in} (Etching), to corrode or eat into metallic
+      plates by means of an acid.
+
+   {To bite the thumb at} (any one), formerly a mark of
+      contempt, designed to provoke a quarrel; to defy. ``Do you
+      bite your thumb at us?'' --Shak.
+
+   {To bite the tongue}, to keep silence. --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bit</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>bit n. [from the mainstream meaning and `Binary digIT'] 1. [techspeak]
+   The unit of information; the amount of information obtained by asking a
+   yes-or-no question for which the two outcomes are equally probable. 2.
+   [techspeak] A computational quantity that can take on one of two values,
+   such as true and false or 0 and 1. 3. A mental flag: a reminder that
+   something should be done eventually. "I have a bit set for you." (I
+   haven't seen you for a while, and I'm supposed to tell or ask you
+   something.) 4. More generally, a (possibly incorrect) mental state of
+   belief. "I have a bit set that says that you were the last guy to hack
+   on EMACS." (Meaning "I think you were the last guy to hack on EMACS, and
+   what I am about to say is predicated on this, so please stop me if this
+   isn't true.")
+
+   "I just need one bit from you" is a polite way of indicating that you
+   intend only a short interruption for a question that can presumably be
+   answered yes or no.
+
+   A bit is said to be `set' if its value is true or 1, and `reset' or
+   `clear' if its value is false or 0. One speaks of setting and clearing
+   bits. To {toggle} or `invert' a bit is to change it, either from 0 to 1
+   or from 1 to 0. See also {flag}, {trit}, {mode bit}.
+
+   The term `bit' first appeared in print in the computer-science sense
+   in a 1948 paper by information theorist Claude Shannon, and was there
+   credited to the early computer scientist John Tukey (who also seems to
+   have coined the term `software'). Tukey records that `bit' evolved over
+   a lunch table as a handier alternative to `bigit' or `binit', at a
+   conference in the winter of 1943-44.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bit</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>BIT
+     Basic Interconnection Test (ISO 9646-1)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bit</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>BIT
+     Binary digIT
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bit</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bit
+     n 1: a small quantity; "a spot of tea"; "a bit of paper" [syn: {spot}]
+     2: a small fragment of something broken off from the whole; "a
+        bit of rock caught him in the eye" [syn: {chip}, {flake},
+        {fleck}, {scrap}]
+     3: an indefinitely short time; "wait just a moment"; "it only
+        takes a minute"; "in just a bit" [syn: {moment}, {minute},
+         {second}]
+     4: an instance of some kind; "it was a nice piece of work"; "he
+        had a bit of good luck" [syn: {piece}]
+     5: piece of metal held in horse's mouth by reins and used to
+        control the horse while riding; "the horse was not
+        accustomed to a bit"
+     6: a unit of measurement of information (from Binary + digIT);
+        the amount of information in a system having two
+        equiprobable states; "there are 8 bits in a byte"
+     7: a small amount of solid food; a mouthful; "all they had left
+        was a bit of bread" [syn: {morsel}, {bite}]
+     8: a small fragment; "overheard snatches of their conversation"
+        [syn: {snatch}]
+     9: a short theatrical performance that is part of a longer
+        program; "he did his act three times every evening"; "she
+        had a catchy little routine"; "it was one of the best
+        numbers he ever did" [syn: {act}, {routine}, {number}, {turn}]
+     10: the cutting part of a drill; usually pointed and threaded
+         and is replaceable in a brace or bitstock or drill press;
+         "he looked around for the right size bit"
+     [also: {bitting}, {bitted}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bit</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bite
+     n 1: a wound resulting from biting by an animal or a person
+     2: a small amount of solid food; a mouthful; "all they had left
+        was a bit of bread" [syn: {morsel}, {bit}]
+     3: a painful wound caused by the thrust of an insect's stinger
+        into skin [syn: {sting}, {insect bite}]
+     4: a light informal meal [syn: {collation}, {snack}]
+     5: (angling) an instance of a fish taking the bait; "after
+        fishing for an hour he still had not had a bite"
+     6: wit having a sharp and caustic quality; "he commented with
+        typical pungency"; "the bite of satire" [syn: {pungency}]
+     7: a strong odor or taste property; "the pungency of mustard";
+        "the sulfurous bite of garlic"; "the sharpness of strange
+        spices" [syn: {pungency}, {sharpness}]
+     8: the act of gripping or chewing off with the teeth and jaws
+        [syn: {chomp}]
+     9: a portion removed from the whole; "the government's weekly
+        bite from my paycheck"
+     v 1: to grip, cut off, or tear with or as if with the teeth or
+          jaws; "Gunny invariably tried to bite her" [syn: {seize
+          with teeth}]
+     2: cause a sharp or stinging pain or discomfort; "The sun
+        burned his face" [syn: {sting}, {burn}]
+     3: penetrate or cut, as with a knife; "The fork bit into the
+        surface"
+     4: deliver a sting to; "A bee stung my arm yesterday" [syn: {sting},
+         {prick}]
+     [also: {bitten}, {bit}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bit</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bit
+     See {bite}
+     [also: {bitting}, {bitted}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

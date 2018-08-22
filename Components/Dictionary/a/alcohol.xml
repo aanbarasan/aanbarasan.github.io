@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>alcohol</Word>
+  <Definitions>
+    <Definition>
+      <Word>alcohol</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Alcohol \Al"co*hol\ ([a^]l"k[-o]*h[o^]l), n. [Cf. F. alcool,
+   formerly written alcohol, Sp. alcohol alcohol, antimony,
+   galena, OSp. alcofol; all fr. Ar. al-kohl a powder of
+   antimony or galena, to paint the eyebrows with. The name was
+   afterwards applied, on account of the fineness of this
+   powder, to highly rectified spirits, a signification unknown
+   in Arabia. The Sp. word has both meanings. Cf. {Alquifou}.]
+   1. An impalpable powder. [Obs.]
+      [1913 Webster]
+
+   2. The fluid essence or pure spirit obtained by distillation.
+      [Obs.] --Boyle.
+      [1913 Webster]
+
+   3. Pure spirit of wine; pure or highly rectified spirit
+      (called also {ethyl alcohol} or {ethanol}, {CH3.CH2.OH});
+      the spirituous or intoxicating element of fermented or
+      distilled liquors, or more loosely a liquid containing it
+      in considerable quantity. It is extracted by simple
+      distillation from various vegetable juices and infusions
+      of a saccharine nature, which have undergone vinous
+      fermentation.
+
+   Note: [The ferementation is usually carried out by addition
+         of brewer's yeast, {Saccharomyces cerevisiae} to an
+         aqueous solution containing carbohydrates.]
+         [1913 Webster +PJC]
+
+   Note: As used in the U. S. ``Pharmacop[oe]ia,'' alcohol
+         contains 91 per cent by weight of ethyl alcohol and 9
+         per cent of water; and diluted alcohol (proof spirit)
+         contains 45.5 per cent by weight of ethyl alcohol and
+         54.5 per cent of water.
+         [1913 Webster]
+
+   4. (Organic Chem.) A class of compounds analogous to vinic
+      alcohol in constitution. Chemically speaking, they are
+      hydroxides of certain organic radicals; as, the radical
+      ethyl forms common or {ethyl alcohol} ({C2H5.OH}); methyl
+      forms {methyl alcohol} ({CH3.OH}) or {wood spirit}; amyl
+      forms {amyl alcohol} ({C5H11.OH}) or {fusel oil}, etc.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>alcohol</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>ethanol \eth"an*ol\ ([e^]th"[a^]n*[add]l), n. (Chem.)
+   The organic compound {C2H5.OH}, the common {alcohol} which is
+   the intoxicating agent in beer, wine, and other fermented and
+   distilled liquors; called also {ethyl alcohol}. It is used
+   pure or denatured as a solvent or in medicines and colognes
+   and cleaning solutions, or mixed in gasoline as a fuel for
+   automobiles, and as a rocket fuel (as in the V-2 rocket).
+
+   Syn: ethyl alcohol, fermentation alcohol, grain alcohol.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>alcohol</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>alcohol
+     n 1: a liquor or brew containing alcohol as the active agent;
+          "alcohol (or drink) ruined him" [syn: {alcoholic
+          beverage}, {intoxicant}, {inebriant}]
+     2: any of a series of volatile hydroxyl compounds that are made
+        from hydrocarbons by distillation
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>argument</Word>
+  <Definitions>
+    <Definition>
+      <Word>argument</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>argument
+     
+        &lt;programming&gt; (Or "arg") A value or reference passed to a
+        {function}, {procedure}, {subroutine}, command or program, by
+        the caller.  For example, in the function
+     
+        	square(x) = x * x
+     
+        x is the {formal argument} or "parameter" and in the call
+     
+        	y = square(3+3)
+     
+        3+3 is the {actual argument}.  This will, in most cases,
+        execute the function square with x having the value 6.
+     
+        There are many different conventions for passing arguments to
+        functions and procedures including {call-by-value},
+        {call-by-name}, {call-by-need}.  These affect whether the
+        value of the argument is computed by the caller or the callee
+        (the function) and whether the callee can modify the value of
+        the argument as seen by the caller (if it is a variable).
+     
+        Arguments to functions are usually, following mathematical
+        notation, written in parentheses after the function name,
+        separated by commas.  Arguments to a program are usually given
+        after the command name, separated by spaces, e.g.:
+     
+        	cat myfile yourfile hisfile
+     
+        Here "cat" is the command and "myfile", "yourfile", and
+        "hisfile" are the arguments.
+     
+        See also: {curried function}.
+     
+        (2002-07-02)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>argument</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Argument \Ar"gu*ment\, n. [F. argument, L. argumentum, fr.
+   arguere to argue.]
+   1. Proof; evidence. [Obs.]
+      [1913 Webster]
+
+            There is.. no more palpable and convincing argument
+            of the existence of a Deity.          --Ray.
+      [1913 Webster]
+
+            Why, then, is it made a badge of wit and an argument
+            of parts for a man to commence atheist, and to cast
+            off all belief of providence, all awe and reverence
+            for religion?                         --South.
+      [1913 Webster]
+
+   2. A reason or reasons offered in proof, to induce belief, or
+      convince the mind; reasoning expressed in words; as, an
+      argument about, concerning, or regarding a proposition,
+      for or in favor of it, or against it.
+      [1913 Webster]
+
+   3. A process of reasoning, or a controversy made up of
+      rational proofs; argumentation; discussion; disputation.
+      [1913 Webster]
+
+            The argument is about things, but names. --Locke.
+      [1913 Webster]
+
+   4. The subject matter of a discourse, writing, or artistic
+      representation; theme or topic; also, an abstract or
+      summary, as of the contents of a book, chapter, poem.
+      [1913 Webster]
+
+            You and love are still my argument.   --Shak.
+      [1913 Webster]
+
+            The abstract or argument of the piece. --Jeffrey.
+      [1913 Webster]
+
+            [Shields] with boastful argument portrayed.
+                                                  --Milton.
+      [1913 Webster]
+
+   5. Matter for question; business in hand. [Obs.]
+      [1913 Webster]
+
+            Sheathed their swords for lack of argument. --Shak.
+      [1913 Webster]
+
+   6. (Astron.) The quantity on which another quantity in a
+      table depends; as, the altitude is the argument of the
+      refraction.
+      [1913 Webster]
+
+   7. (Math.) The independent variable upon whose value that of
+      a function depends. --Brande &amp; C.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>argument</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Argument \Ar"gu*ment\ ([a^]r"g[-u]*ment), v. i. [L.
+   argumentari.]
+   To make an argument; to argue. [Obs.] --Gower.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>argument</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>argument
+     n 1: a fact or assertion offered as evidence that something is
+          true; "it was a strong argument that his hypothesis was
+          true" [syn: {statement}]
+     2: a contentious speech act; a dispute where there is strong
+        disagreement; "they were involved in a violent argument"
+        [syn: {controversy}, {contention}, {contestation}, {disputation},
+         {disceptation}, {tilt}, {arguing}]
+     3: a discussion in which reasons are advanced for and against
+        some proposition or proposal; "the argument over foreign
+        aid goes on and on" [syn: {argumentation}, {debate}]
+     4: a summary of the subject or plot of a literary work or play
+        or movie; "the editor added the argument to the poem"
+        [syn: {literary argument}]
+     5: a variable in a logical or mathematical expression whose
+        value determines the dependent variable; if f(x)=y, x is
+        the independent variable
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

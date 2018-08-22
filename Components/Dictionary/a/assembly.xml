@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>assembly</Word>
+  <Definitions>
+    <Definition>
+      <Word>assembly</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>ASSEMBLY
+     
+        &lt;language&gt; An early system on the {IBM 702}.
+     
+        [Listed in CACM 2(5):1959-05-16].
+     
+        (1996-06-27)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>assembly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Assembly \As*sem"bly\, n.; pl. {Assemblies}. [F. assembl['e]e,
+   fr. assembler. See {Assemble}.]
+   1. A company of persons collected together in one place, and
+      usually for some common purpose, esp. for deliberation and
+      legislation, for worship, or for social entertainment.
+      [1913 Webster]
+
+   2. A collection of inanimate objects. [Obs.] --Howell.
+      [1913 Webster]
+
+   3. (Mil.) A beat of the drum or sound of the bugle as a
+      signal to troops to assemble.
+      [1913 Webster]
+
+   Note: In some of the United States, the legislature, or the
+         popular branch of it, is called the Assembly, or the
+         General Assembly. In the Presbyterian Church, the
+         General Assembly is the highest ecclesiastical
+         tribunal, composed of ministers and ruling elders
+         delegated from each presbytery; as, the General
+         Assembly of the Presbyterian Church in the United
+         States, or of Scotland.
+         [1913 Webster]
+
+   {Assembly room}, a room in which persons assemble, especially
+      for dancing.
+
+   {Unlawful assembly} (Law), a meeting of three or more persons
+      on a common plan, in such a way as to cause a reasonable
+      apprehension that they will disturb the peace
+      tumultuously.
+
+   {Westminster Assembly}, a convocation, consisting chiefly of
+      divines, which, by act of Parliament, assembled July 1,
+      1643, and remained in session some years. It framed the
+      ``Confession of Faith,'' the ``Larger Catechism,'' and the
+      ``Shorter Catechism,'' which are still received as
+      authority by Presbyterians, and are substantially accepted
+      by Congregationalists.
+      [1913 Webster]
+
+   Syn: See {Assemblage}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>assembly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>assembly
+     n 1: a group of machine parts that fit together to form a
+          self-contained unit
+     2: the act of constructing something (as a piece of machinery)
+        [syn: {fabrication}] [ant: {dismantling}]
+     3: a public facility to meet for open discussion [syn: {forum},
+         {meeting place}]
+     4: a group of persons gathered together for a common purpose
+     5: the social act of assembling; "they demanded the right of
+        assembly" [syn: {assemblage}, {gathering}] [ant: {dismantling}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>archimedes</Word>
+  <Definitions>
+    <Definition>
+      <Word>archimedes</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Archimedes
+     
+        &lt;computer&gt; A family of {microcomputers} produced by {Acorn
+        Computers}, Cambridge, UK.  The Archimedes, launched in June
+        1987, was the first {RISC} based {personal computer}
+        (predating {Apple Computer}'s {Power Mac} by some seven
+        years).  It uses the {Advanced RISC Machine} (ARM) processor
+        and includes Acorn's {multitasking} {operating system} and
+        {graphical user interface}, {RISC OS} on {ROM}, along with an
+        interpreter for Acorn's enhanced {BASIC}, {BASIC V}.
+     
+        The Archimedes was designed as the successor to Acorn's
+        sucessful {BBC Microcomputer} series and includes some
+        backward compatibility and a {6502} {emulator}.  Several
+        utilities are included free on disk (later in ROM) such as a
+        {text editor}, paint and draw programs.  Software emulators
+        are also available for the {IBM PC} as well as add-on {Intel}
+        processor cards.
+     
+        There have been several series of Archimedes: A300, A400,
+        A3000, A5000, A4000 and {RISC PC}.
+     
+        {Usenet FAQ
+        (ftp://rtfm.mit.edu/pub/usenet/news.answers/acorn/)}.
+        {Archive site list
+        (http://www.cs.vu.nl/~gerben/acorn/acorn-archives.txt)}.
+        {HENSA archive (ftp://micros.hensa.ac.uk/)}.  {Stuttgart
+        archive (ftp://ftp.uni-stuttgart.de/pub/systems/acorn)}.
+     
+        See also {Crisis Software}, {Warm Silence Software}.
+     
+        (1998-04-03)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>archimedes</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Archimedes \Ar`chi*me"des\, n. (Paleon.)
+   An extinct genus of Bryzoa characteristic of the
+   subcarboniferous rocks. Its form is that of a screw.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>archimedes</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Archimedes
+     n : Greek mathematician and physicist noted for his work in
+         hydrostatics and mechanics and geometry (287-212 BC)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

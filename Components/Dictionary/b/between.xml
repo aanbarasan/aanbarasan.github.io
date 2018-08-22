@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>between</Word>
+  <Definitions>
+    <Definition>
+      <Word>between</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Between, GA (town, FIPS 7640)
+  Location: 33.81305 N, 83.80891 W
+  Population (1990): 82 (36 housing units)
+  Area: 2.3 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>between</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Between \Be*tween"\, n.
+   Intermediate time or space; interval. [Poetic &amp; R.] --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>between</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Between \Be*tween"\, prep. [OE. bytwene, bitweonen, AS.
+   betwe['o]nan, betwe['o]num; prefix be- by + a form fr. AS.
+   tw[=a] two, akin to Goth. tweihnai two apiece. See {Twain},
+   and cf. {Atween}, {Betwixt}.]
+   1. In the space which separates; betwixt; as, New York is
+      between Boston and Philadelphia.
+      [1913 Webster]
+
+   2. Used in expressing motion from one body or place to
+      another; from one to another of two.
+      [1913 Webster]
+
+            If things should go so between them.  --Bacon.
+      [1913 Webster]
+
+   3. Belonging in common to two; shared by both.
+      [1913 Webster]
+
+            Castor and Pollux with only one soul between them.
+                                                  --Locke.
+      [1913 Webster]
+
+   4. Belonging to, or participated in by, two, and involving
+      reciprocal action or affecting their mutual relation; as,
+      opposition between science and religion.
+      [1913 Webster]
+
+            An intestine struggle, open or secret, between
+            authority and liberty.                --Hume.
+      [1913 Webster]
+
+   5. With relation to two, as involved in an act or attribute
+      of which another is the agent or subject; as, to judge
+      between or to choose between courses; to distinguish
+      between you and me; to mediate between nations.
+      [1913 Webster]
+
+   6. In intermediate relation to, in respect to time, quantity,
+      or degree; as, between nine and ten o'clock.
+      [1913 Webster]
+
+   {Between decks}, the space, or in the space, between the
+      decks of a vessel.
+
+   {Between ourselves}, {Between you and me}, {Between
+   themselves}, in confidence; with the understanding that the
+      matter is not to be communicated to others.
+      [1913 Webster]
+
+   Syn: {Between}, {Among}.
+
+   Usage: Between etymologically indicates only two; as, a
+          quarrel between two men or two nations; to be between
+          two fires, etc. It is however extended to more than
+          two in expressing a certain relation.
+
+                I . . . hope that between public business,
+                improving studies, and domestic pleasures,
+                neither melancholy nor caprice will find any
+                place for entrance.               --Johnson.
+          [1913 Webster] Among implies a mass or collection of
+          things or persons, and always supposes more than two;
+          as, the prize money was equally divided among the
+          ship's crew.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>between</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>between
+     adv 1: in the interval; "dancing all the dances with little rest
+            between" [syn: {betwixt}]
+     2: in between; "two houses with a tree between" [syn: {'tween}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

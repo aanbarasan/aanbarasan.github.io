@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>babies</Word>
+  <Definitions>
+    <Definition>
+      <Word>babies</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Baby \Ba"by\ (b[=a]"b[y^]), n.; pl. {Babies} (-b[i^]z). [Dim. of
+   babe.]
+   An infant or young child of either sex; a babe.
+   [1913 Webster]
+
+   2. A small image of an infant; a doll.
+      [1913 Webster]
+
+   {Babies in the eyes}, the minute reflection which one sees of
+      one's self in the eyes of another.
+      [1913 Webster]
+
+            She clung about his neck, gave him ten kisses,
+            Toyed with his locks, looked babies in his eyes.
+                                                  --Heywood.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

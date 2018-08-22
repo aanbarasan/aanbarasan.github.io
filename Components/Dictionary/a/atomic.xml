@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>atomic</Word>
+  <Definitions>
+    <Definition>
+      <Word>atomic</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>atomic
+     
+        &lt;jargon&gt; (From Greek "atomos", indivisible) Indivisible;
+        cannot be split up.
+     
+        For example, an instruction may be said to do several things
+        "atomically", i.e. all the things are done immediately, and
+        there is no chance of the instruction being half-completed or
+        of another being interspersed.  Used especially to convey that
+        an operation cannot be interrupted.
+     
+        An atomic {data type} has no internal structure visible to the
+        program.  It can be represented by a flat {domain} (all
+        elements are equally defined).  Machine {integers} and
+        {Booleans} are two examples.
+     
+        An atomic {database transaction} is one which is guaranteed to
+        complete successfully or not at all.  If an error prevents a
+        partially-performed transaction from proceeding to completion,
+        it must be "backed out" to prevent the database being left in
+        an inconsistent state.
+     
+        [{Jargon File}]
+     
+        (2000-04-03)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>atomic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Atomic \A*tom"ic\, Atomical \A*tom"ic*al\, a. [Cf. F. atomique.]
+   1. Of or pertaining to atoms.
+      [1913 Webster]
+
+   2. Extremely minute; tiny.
+      [1913 Webster]
+
+   {Atomic bomb}, see {atom bomb} in the vocabulary.
+
+   {Atomic philosophy}, or {Doctrine of atoms}, a system which,
+      assuming that atoms are endued with gravity and motion,
+      accounted thus for the origin and formation of all things.
+      This philosophy was first broached by Leucippus, was
+      developed by Democritus, and afterward improved by
+      Epicurus, and hence is sometimes denominated the Epicurean
+      philosophy.
+
+   {Atomic theory}, or the {Doctrine of definite proportions}
+      (Chem.), teaches that chemical combinations take place
+      between the supposed ultimate particles or atoms of
+      bodies, in some simple ratio, as of one to one, two to
+      three, or some other, always expressible in whole numbers.
+      
+
+   {Atomic weight} (Chem.), the weight of the atom of an element
+      as compared with the weight of the atom of hydrogen, taken
+      as a standard.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>atomic</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>atomic adj. [from Gk. `atomos', indivisible] 1. Indivisible; cannot be
+   split up. For example, an instruction may be said to do several things
+   `atomically', i.e., all the things are done immediately, and there is no
+   chance of the instruction being half-completed or of another being
+   interspersed. Used esp. to convey that an operation cannot be screwed up
+   by interrupts. "This routine locks the file and increments the file's
+   semaphore atomically." 2. [primarily techspeak] Guaranteed to complete
+   successfully or not at all, usu. refers to database transactions. If an
+   error prevents a partially-performed transaction from proceeding to
+   completion, it must be "backed out," as the database must not be left in
+   an inconsistent state.
+
+   Computer usage, in either of the above senses, has none of the
+   connotations that `atomic' has in mainstream English (i.e. of particles
+   of matter, nuclear explosions etc.).
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>atomic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>atomic
+     adj 1: of or relating to or comprising atoms; "atomic structure";
+            "atomic hydrogen"
+     2: (weapons) deriving destructive energy from  the release of
+        atomic energy; "nuclear war"; "nuclear weapons"; "atomic
+        bombs" [syn: {nuclear}] [ant: {conventional}]
+     3: immeasurably small [syn: {atomlike}, {minute}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

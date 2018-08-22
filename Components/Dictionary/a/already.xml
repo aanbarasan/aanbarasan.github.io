@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>already</Word>
+  <Definitions>
+    <Definition>
+      <Word>already</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Already \Al*read"y\, adv. [All (OE. al) + ready.]
+   Prior to some specified time, either past, present, or
+   future; by this time; previously. ``Joseph was in Egypt
+   already.'' --Exod. i. 5.
+   [1913 Webster]
+
+         I say unto you, that Elias is come already. --Matt.
+                                                  xvii. 12.
+   [1913 Webster]
+
+   Note: It has reference to past time, but may be used for a
+         future past; as, when you shall arrive, the business
+         will be already completed, or will have been already
+         completed.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>already</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>already
+     adv : prior to a specified or implied time; "she has already
+           graduated" [ant: {not yet}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>asleep</Word>
+  <Definitions>
+    <Definition>
+      <Word>asleep</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Asleep \A*sleep"\, a. &amp; adv. [Pref. a- + sleep.]
+   1. In a state of sleep; in sleep; dormant.
+      [1913 Webster]
+
+            Fast asleep the giant lay supine.     --Dryden.
+      [1913 Webster]
+
+            By whispering winds soon lulled asleep. --Milton.
+      [1913 Webster]
+
+   2. In the sleep of the grave; dead.
+      [1913 Webster]
+
+            Concerning them which are asleep . . . sorrow not,
+            even as others which have no hope.    --1 Thess. iv.
+                                                  13.
+      [1913 Webster]
+
+   3. Numbed, and, usually, tingling. --Udall.
+      [1913 Webster]
+
+            Leaning long upon any part maketh it numb, and, as
+            we call it, asleep.                   --Bacon.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>asleep</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>asleep
+     adj 1: in a state of sleep; "were all asleep when the phone rang";
+            "fell asleep at the wheel" [syn: {asleep(p)}] [ant: {awake(p)}]
+     2: lacking sensation; "my foot is asleep"; "numb with cold"
+        [syn: {asleep(p)}, {benumbed}, {numb}]
+     3: dead; "he is deceased"; "our dear departed friend" [syn: {asleep(p)},
+         {at peace(p)}, {at rest(p)}, {deceased}, {departed}, {gone}]
+     adv 1: into a sleeping state; "he fell asleep"
+     2: in the sleep of death
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

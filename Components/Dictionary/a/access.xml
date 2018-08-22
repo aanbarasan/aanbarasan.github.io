@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>access</Word>
+  <Definitions>
+    <Definition>
+      <Word>access</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Access
+     
+        1. &lt;language&gt; An English-like query language used in the
+        {Pick} {operating system}.
+     
+        2. &lt;database, product&gt; {Microsoft Access}.
+     
+        (1994-11-08)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>access</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Access \Ac*cess"\ (#; 277), n. [F. acc[`e]s, L. accessus, fr.
+   accedere. See {Accede}.]
+   1. A coming to, or near approach; admittance; admission;
+      accessibility; as, to gain access to a prince.
+      [1913 Webster]
+
+            I did repel his letters, and denied
+            His access to me.                     --Shak.
+      [1913 Webster]
+
+   2. The means, place, or way by which a thing may be
+      approached; passage way; as, the access is by a neck of
+      land. ``All access was thronged.'' --Milton.
+      [1913 Webster]
+
+   3. Admission to sexual intercourse.
+      [1913 Webster]
+
+            During coverture, access of the husband shall be
+            presumed, unless the contrary be shown.
+                                                  --Blackstone.
+      [1913 Webster]
+
+   4. Increase by something added; addition; as, an access of
+      territory. [In this sense accession is more generally
+      used.]
+      [1913 Webster]
+
+            I, from the influence of thy looks, receive
+            Access in every virtue.               --Milton.
+      [1913 Webster]
+
+   5. An onset, attack, or fit of disease.
+      [1913 Webster]
+
+            The first access looked like an apoplexy. --Burnet.
+      [1913 Webster]
+
+   6. A paroxysm; a fit of passion; an outburst; as, an access
+      of fury. [A Gallicism]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>access</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>access
+     n 1: the right to enter [syn: {entree}, {accession}, {admittance}]
+     2: the right to obtain or make use of or take advantage of
+        something (as services or membership)
+     3: a way of entering or leaving; "he took a wrong turn on the
+        access to the bridge" [syn: {approach}]
+     4: (computer science) the operation of reading or writing
+        stored information [syn: {memory access}]
+     5: the act of approaching or entering; "he gained access to the
+        building"
+     v 1: obtain or retrieve from a storage device; as of information
+          on a computer
+     2: reach or gain access to; "How does one access the attic in
+        this house?"; "I cannot get to the T.V. antenna, even if I
+        climb on the roof" [syn: {get at}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

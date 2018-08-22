@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>appendix</Word>
+  <Definitions>
+    <Definition>
+      <Word>appendix</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Appendix \Ap*pen"dix\, n.; pl. E. {Appendixes}, L. {Appendices}.
+   [L. appendix, -dicis, fr. appendere. See {Append}.]
+   1. Something appended or added; an appendage, adjunct, or
+      concomitant.
+      [1913 Webster]
+
+            Normandy became an appendix to England. --Sir M.
+                                                  Hale.
+      [1913 Webster]
+
+   2. Any literary matter added to a book, but not necessarily
+      essential to its completeness, and thus distinguished from
+      supplement, which is intended to supply deficiencies and
+      correct inaccuracies.
+      [1913 Webster]
+
+   3. (Anatomy) The vermiform appendix.
+      [Webster 1913 Suppl.]
+
+   Syn: See {Supplement}.
+        [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>appendix</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>appendix
+     n 1: supplementary material that is collected and appended at the
+          back of a book
+     2: a vestigial process that extends from the lower end of the
+        cecum and that resembles a small pouch [syn: {vermiform
+        appendix}, {vermiform process}, {cecal appendage}]
+     [also: {appendices} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

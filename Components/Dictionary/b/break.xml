@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>break</Word>
+  <Definitions>
+    <Definition>
+      <Word>break</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>break
+     
+        1. To cause to be {broken} (in any sense).  "Your latest patch
+        to the editor broke the paragraph commands."
+     
+        2. (Of a program) To stop temporarily, so that it may
+        debugged.  The place where it stops is a "{breakpoint}".
+     
+        3. To send an {EIA-232} break (two character widths of line
+        high) over a {serial line}.
+     
+        4. [Unix] To strike whatever key currently causes the tty
+        driver to send SIGINT to the current process.  Normally,
+        break, delete or {control-C} does this.
+     
+        5. "break break" may be said to interrupt a conversation (this
+        is an example of verb doubling).  This usage comes from radio
+        communications, which in turn probably came from landline
+        telegraph/teleprinter usage, as badly abused in the Citizen's
+        Band craze a few years ago.
+     
+        6. {pipeline break}.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>break</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Break \Break\ (br[=a]k), v. t. [imp. {broke} (br[=o]k), (Obs.
+   {Brake}); p. p. {Broken} (br[=o]"k'n), (Obs. {Broke}); p. pr.
+   &amp; vb. n. {Breaking}.] [OE. breken, AS. brecan; akin to OS.
+   brekan, D. breken, OHG. brehhan, G. brechen, Icel. braka to
+   creak, Sw. braka, br["a]kka to crack, Dan. br[ae]kke to
+   break, Goth. brikan to break, L. frangere. Cf. {Bray} to
+   pound, {Breach}, {Fragile}.]
+   1. To strain apart; to sever by fracture; to divide with
+      violence; as, to break a rope or chain; to break a seal;
+      to break an axle; to break rocks or coal; to break a lock.
+      --Shak.
+      [1913 Webster]
+
+   2. To lay open as by breaking; to divide; as, to break a
+      package of goods.
+      [1913 Webster]
+
+   3. To lay open, as a purpose; to disclose, divulge, or
+      communicate.
+      [1913 Webster]
+
+            Katharine, break thy mind to me.      --Shak.
+      [1913 Webster]
+
+   4. To infringe or violate, as an obligation, law, or promise.
+      [1913 Webster]
+
+            Out, out, hyena! these are thy wonted arts . . .
+            To break all faith, all vows, deceive, betray.
+                                                  --Milton
+      [1913 Webster]
+
+   5. To interrupt; to destroy the continuity of; to dissolve or
+      terminate; as, to break silence; to break one's sleep; to
+      break one's journey.
+      [1913 Webster]
+
+            Go, release them, Ariel;
+            My charms I'll break, their senses I'll restore.
+                                                  --Shak.
+      [1913 Webster]
+
+   6. To destroy the completeness of; to remove a part from; as,
+      to break a set.
+      [1913 Webster]
+
+   7. To destroy the arrangement of; to throw into disorder; to
+      pierce; as, the cavalry were not able to break the British
+      squares.
+      [1913 Webster]
+
+   8. To shatter to pieces; to reduce to fragments.
+      [1913 Webster]
+
+            The victim broke in pieces the musical instruments
+            with which he had solaced the hours of captivity.
+                                                  --Prescott.
+      [1913 Webster]
+
+   9. To exchange for other money or currency of smaller
+      denomination; as, to break a five dollar bill.
+      [1913 Webster]
+
+   10. To destroy the strength, firmness, or consistency of; as,
+       to break flax.
+       [1913 Webster]
+
+   11. To weaken or impair, as health, spirit, or mind.
+       [1913 Webster]
+
+             An old man, broken with the storms of state.
+                                                  --Shak.
+       [1913 Webster]
+
+   12. To diminish the force of; to lessen the shock of, as a
+       fall or blow.
+       [1913 Webster]
+
+             I'll rather leap down first, and break your fall.
+                                                  --Dryden.
+       [1913 Webster]
+
+   13. To impart, as news or information; to broach; -- with to,
+       and often with a modified word implying some reserve; as,
+       to break the news gently to the widow; to break a purpose
+       cautiously to a friend.
+       [1913 Webster]
+
+   14. To tame; to reduce to subjection; to make tractable; to
+       discipline; as, to break a horse to the harness or
+       saddle. ``To break a colt.'' --Spenser.
+       [1913 Webster]
+
+             Why, then thou canst not break her to the lute?
+                                                  --Shak.
+       [1913 Webster]
+
+   15. To destroy the financial credit of; to make bankrupt; to
+       ruin.
+       [1913 Webster]
+
+             With arts like these rich Matho, when he speaks,
+             Attracts all fees, and little lawyers breaks.
+                                                  --Dryden.
+       [1913 Webster]
+
+   16. To destroy the official character and standing of; to
+       cashier; to dismiss.
+       [1913 Webster]
+
+             I see a great officer broken.        --Swift.
+       [1913 Webster]
+
+   Note: With prepositions or adverbs: 
+         [1913 Webster]
+
+   {To break down}.
+       (a) To crush; to overwhelm; as, to break down one's
+           strength; to break down opposition.
+       (b) To remove, or open a way through, by breaking; as, to
+           break down a door or wall.
+
+   {To break in}.
+       (a) To force in; as, to break in a door.
+       (b) To train; to discipline; as, a horse well broken in.
+           
+
+   {To break of}, to rid of; to cause to abandon; as, to break
+      one of a habit.
+
+   {To break off}.
+       (a) To separate by breaking; as, to break off a twig.
+       (b) To stop suddenly; to abandon. ``Break off thy sins by
+           righteousness.'' --Dan. iv. 27.
+
+   {To break open}, to open by breaking. ``Open the door, or I
+      will break it open.'' --Shak.
+
+   {To break out}, to take or force out by breaking; as, to
+      break out a pane of glass.
+
+   {To break out a cargo}, to unstow a cargo, so as to unload it
+      easily.
+
+   {To break through}.
+       (a) To make an opening through, as, as by violence or the
+           force of gravity; to pass violently through; as, to
+           break through the enemy's lines; to break through the
+           ice.
+       (b) To disregard; as, to break through the ceremony.
+
+   {To break up}.
+       (a) To separate into parts; to plow (new or fallow
+           ground). ``Break up this capon.'' --Shak. ``Break up
+           your fallow ground.'' --Jer. iv. 3.
+       (b) To dissolve; to put an end to. ``Break up the
+           court.'' --Shak.
+
+   {To break} (one) {all up}, to unsettle or disconcert
+      completely; to upset. [Colloq.]
+      [1913 Webster]
+
+   Note: With an immediate object: 
+         [1913 Webster]
+
+   {To break the back}.
+       (a) To dislocate the backbone; hence, to disable totally.
+       (b) To get through the worst part of; as, to break the
+           back of a difficult undertaking.
+
+   {To break bulk}, to destroy the entirety of a load by
+      removing a portion of it; to begin to unload; also, to
+      transfer in detail, as from boats to cars.
+
+   {To break a code} to discover a method to convert coded
+      messages into the original understandable text.
+
+   {To break cover}, to burst forth from a protecting
+      concealment, as game when hunted.
+
+   {To break a deer} or {To break a stag}, to cut it up and
+      apportion the parts among those entitled to a share.
+
+   {To break fast}, to partake of food after abstinence. See
+      {Breakfast}.
+
+   {To break ground}.
+       (a) To open the earth as for planting; to commence
+           excavation, as for building, siege operations, and
+           the like; as, to break ground for a foundation, a
+           canal, or a railroad.
+       (b) Fig.: To begin to execute any plan.
+       (c) (Naut.) To release the anchor from the bottom.
+
+   {To break the heart}, to crush or overwhelm (one) with grief.
+      
+
+   {To break a house} (Law), to remove or set aside with
+      violence and a felonious intent any part of a house or of
+      the fastenings provided to secure it.
+
+   {To break the ice}, to get through first difficulties; to
+      overcome obstacles and make a beginning; to introduce a
+      subject.
+
+   {To break jail}, to escape from confinement in jail, usually
+      by forcible means.
+
+   {To break a jest}, to utter a jest. ``Patroclus . . . the
+      livelong day breaks scurril jests.'' --Shak.
+
+   {To break joints}, to lay or arrange bricks, shingles, etc.,
+      so that the joints in one course shall not coincide with
+      those in the preceding course.
+
+   {To break a lance}, to engage in a tilt or contest.
+
+   {To break the neck}, to dislocate the joints of the neck.
+
+   {To break no squares}, to create no trouble. [Obs.]
+
+   {To break a path}, {road}, etc., to open a way through
+      obstacles by force or labor.
+
+   {To break upon a wheel}, to execute or torture, as a criminal
+      by stretching him upon a wheel, and breaking his limbs
+      with an iron bar; -- a mode of punishment formerly
+      employed in some countries.
+
+   {To break wind}, to give vent to wind from the anus.
+      [1913 Webster]
+
+   Syn: To dispart; rend; tear; shatter; batter; violate;
+        infringe; demolish; destroy; burst; dislocate.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>break</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Break \Break\ (br[=a]k), v. i.
+   1. To come apart or divide into two or more pieces, usually
+      with suddenness and violence; to part; to burst asunder.
+      [1913 Webster]
+
+   2. To open spontaneously, or by pressure from within, as a
+      bubble, a tumor, a seed vessel, a bag.
+      [1913 Webster]
+
+            Else the bottle break, and the wine runneth out.
+                                                  --Math. ix.
+                                                  17.
+      [1913 Webster]
+
+   3. To burst forth; to make its way; to come to view; to
+      appear; to dawn.
+      [1913 Webster]
+
+            The day begins to break, and night is fled. --Shak.
+      [1913 Webster]
+
+            And from the turf a fountain broke,
+            and gurgled at our feet.              --Wordsworth.
+      [1913 Webster]
+
+   4. To burst forth violently, as a storm.
+      [1913 Webster]
+
+            The clouds are still above; and, while I speak,
+            A second deluge o'er our head may break. --Dryden.
+      [1913 Webster]
+
+   5. To open up; to be scattered; to be dissipated; as, the
+      clouds are breaking.
+      [1913 Webster]
+
+            At length the darkness begins to break. --Macaulay.
+      [1913 Webster]
+
+   6. To become weakened in constitution or faculties; to lose
+      health or strength.
+      [1913 Webster]
+
+            See how the dean begins to break;
+            Poor gentleman! he droops apace.      --Swift.
+      [1913 Webster]
+
+   7. To be crushed, or overwhelmed with sorrow or grief; as, my
+      heart is breaking.
+      [1913 Webster]
+
+   8. To fall in business; to become bankrupt.
+      [1913 Webster]
+
+            He that puts all upon adventures doth oftentimes
+            break, and come to poverty.           --Bacn.
+      [1913 Webster]
+
+   9. To make an abrupt or sudden change; to change the gait;
+      as, to break into a run or gallop.
+      [1913 Webster]
+
+   10. To fail in musical quality; as, a singer's voice breaks
+       when it is strained beyond its compass and a tone or note
+       is not completed, but degenerates into an unmusical sound
+       instead. Also, to change in tone, as a boy's voice at
+       puberty.
+       [1913 Webster]
+
+   11. To fall out; to terminate friendship.
+       [1913 Webster]
+
+             To break upon the score of danger or expense is to
+             be mean and narrow-spirited.         --Collier.
+       [1913 Webster]
+
+   Note: With prepositions or adverbs: 
+         [1913 Webster]
+
+   {To break away}, to disengage one's self abruptly; to come or
+      go away against resistance.
+      [1913 Webster]
+
+            Fear me not, man; I will not break away. --Shak.
+      [1913 Webster]
+
+   {To break down}.
+       (a) To come down by breaking; as, the coach broke down.
+       (b) To fail in any undertaking; to halt before successful
+           completion; as, the negotiations broke down due to
+           irreconcilable demands.
+       (c) To cease functioning or to malfunction; as, the car
+           broke down in the middle of the highway.
+           [1913 Webster +PJC]
+
+                 He had broken down almost at the outset.
+                                                  --Thackeray.
+           [1913 Webster]
+
+   {To break forth}, to issue; to come out suddenly, as sound,
+      light, etc. ``Then shall thy light break forth as the
+      morning.'' --Isa. lviii. 8;
+      [1913 Webster]
+
+   Note: often with into in expressing or giving vent to one's
+         feelings. ``Break forth into singing, ye mountains.''
+         --Isa. xliv. 23.
+         [1913 Webster]
+
+   {To break from}, to go away from abruptly.
+      [1913 Webster]
+
+            This radiant from the circling crowd he broke.
+                                                  --Dryden.
+      [1913 Webster]
+
+   {To break into}, to enter by breaking; as, to break into a
+      house.
+
+   {To break in upon}, to enter or approach violently or
+      unexpectedly. ``This, this is he; softly awhile; let us
+      not break in upon him.'' --Milton.
+
+   {To break loose}.
+       (a) To extricate one's self forcibly. ``Who would not,
+           finding way, break loose from hell?'' --Milton.
+       (b) To cast off restraint, as of morals or propriety.
+
+   {To break off}.
+       (a) To become separated by rupture, or with suddenness
+           and violence.
+       (b) To desist or cease suddenly. ``Nay, forward, old man;
+           do not break off so.'' --Shak.
+
+   {To break off from}, to desist from; to abandon, as a habit.
+      
+
+   {To break out}.
+       (a) To burst forth; to escape from restraint; to appear
+           suddenly, as a fire or an epidemic. ``For in the
+           wilderness shall waters break out, and stream in the
+           desert.'' --Isa. xxxv. 6
+       (b) To show itself in cutaneous eruptions; -- said of a
+           disease.
+       (c) To have a rash or eruption on the akin; -- said of a
+           patient.
+
+   {To break over}, to overflow; to go beyond limits.
+
+   {To break up}.
+       (a) To become separated into parts or fragments; as, the
+           ice break up in the rivers; the wreck will break up
+           in the next storm.
+       (b) To disperse. ``The company breaks up.'' --I. Watts.
+
+   {To break upon}, to discover itself suddenly to; to dawn
+      upon.
+
+   {To break with}.
+       (a) To fall out; to sever one's relations with; to part
+           friendship. ``It can not be the Volsces dare break
+           with us.'' --Shak. ``If she did not intend to marry
+           Clive, she should have broken with him altogether.''
+           --Thackeray.
+       (b) To come to an explanation; to enter into conference;
+           to speak. [Obs.] ``I will break with her and with her
+           father.'' --Shak.
+           [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>break</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Break \Break\ (br[=a]k), n. [See {Break}, v. t., and cf. {Brake}
+   (the instrument), {Breach}, {Brack} a crack.]
+   1. An opening made by fracture or disruption.
+      [1913 Webster]
+
+   2. An interruption of continuity; change of direction; as, a
+      break in a wall; a break in the deck of a ship.
+      Specifically:
+      (a) (Arch.) A projection or recess from the face of a
+          building.
+      (b) (Elec.) An opening or displacement in the circuit,
+          interrupting the electrical current.
+          [1913 Webster]
+
+   3. An interruption; a pause; as, a break in friendship; a
+      break in the conversation.
+      [1913 Webster]
+
+   4. An interruption in continuity in writing or printing, as
+      where there is an omission, an unfilled line, etc.
+      [1913 Webster]
+
+            All modern trash is
+            Set forth with numerous breaks and dashes. --Swift.
+      [1913 Webster]
+
+   5. The first appearing, as of light in the morning; the dawn;
+      as, the break of day; the break of dawn.
+      [1913 Webster]
+
+   6. A large four-wheeled carriage, having a straight body and
+      calash top, with the driver's seat in front and the
+      footman's behind.
+      [1913 Webster]
+
+   7. A device for checking motion, or for measuring friction.
+      See {Brake}, n. 9 &amp; 10.
+      [1913 Webster]
+
+   8. (Teleg.) See {Commutator}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>break</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>break 1. vt. To cause to be {broken} (in any sense). "Your latest patch
+   to the editor broke the paragraph commands." 2. v. (of a program) To
+   stop temporarily, so that it may debugged. The place where it stops is a
+   `breakpoint'. 3. [techspeak] vi. To send an RS-232 break (two character
+   widths of line high) over a serial comm line. 4. [Unix] vi. To strike
+   whatever key currently causes the tty driver to send SIGINT to the
+   current process. Normally, break (sense 3), delete or {control-C} does
+   this. 5. `break break' may be said to interrupt a conversation (this is
+   an example of verb doubling). This usage comes from radio
+   communications, which in turn probably came from landline
+   telegraph/teleprinter usage, as badly abused in the Citizen's Band craze
+   a few years ago.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>break</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>break
+     n 1: some abrupt occurrence that interrupts; "the telephone is an
+          annoying interruption"; "there was a break in the action
+          when a player was hurt" [syn: {interruption}]
+     2: an unexpected piece of good luck; "he finally got his big
+        break" [syn: {good luck}, {happy chance}]
+     3: (geology) a crack in the earth's crust resulting from the
+        displacement of one side with respect to the other; "they
+        built it right over a geological fault" [syn: {fault}, {geological
+        fault}, {shift}, {fracture}]
+     4: a personal or social separation (as between opposing
+        factions); "they hoped to avoid a break in relations"
+        [syn: {rupture}, {breach}, {severance}, {rift}, {falling
+        out}]
+     5: a pause from doing something (as work); "we took a 10-minute
+        break"; "he took time out to recuperate" [syn: {respite},
+        {recess}, {time out}]
+     6: the act of breaking something; "the breakage was
+        unavoidable" [syn: {breakage}, {breaking}]
+     7: a time interval during which there is a temporary cessation
+        of something [syn: {pause}, {intermission}, {interruption},
+         {suspension}]
+     8: breaking of hard tissue such as bone; "it was a nasty
+        fracture"; "the break seems to have been caused by a fall"
+        [syn: {fracture}]
+     9: the occurrence of breaking; "the break in the dam threatened
+        the valley"
+     10: the opening shot that scatters the balls in billiards or
+         pool
+     11: (tennis) a score consisting of winning a game when your
+         opponent was serving; "he was up two breaks in the second
+         set" [syn: {break of serve}]
+     12: an act of delaying or interrupting the continuity; "it was
+         presented without commercial breaks" [syn: {interruption},
+          {disruption}, {gap}]
+     13: a sudden dash; "he made a break for the open door"
+     14: any frame in which a bowler fails to make a strike or spare;
+         "the break in the eighth frame cost him the match" [syn:
+         {open frame}]
+     15: an escape from jail; "the breakout was carefully planned"
+         [syn: {breakout}, {jailbreak}, {gaolbreak}, {prisonbreak},
+          {prison-breaking}]
+     v 1: terminate; "She interrupted her pregnancy"; "break a lucky
+          streak"; "break the cycle of poverty" [syn: {interrupt}]
+     2: become separated into pieces or fragments; "The figurine
+        broke"; "The freshly baked loaf fell apart" [syn: {separate},
+         {split up}, {fall apart}, {come apart}]
+     3: destroy the integrity of; usually by force; cause to
+        separate into pieces or fragments; "He broke the glass
+        plate"; "She broke the match"
+     4: render inoperable or ineffective; "You broke the alarm clock
+        when you took it apart!"
+     5: ruin completely; "He busted my radio!" [syn: {bust}] [ant: {repair}]
+     6: act in disregard of laws and rules; "offend all laws of
+        humanity"; "violate the basic laws or human civilization";
+        "break a law" [syn: {transgress}, {offend}, {infract}, {violate},
+         {go against}, {breach}]
+     7: move away or escape suddenly; "The horses broke from the
+        stable"; "Three inmates broke jail"; "Nobody can break
+        out--this prison is high security" [syn: {break out}, {break
+        away}]
+     8: scatter or part; "The clouds broke after the heavy downpour"
+     9: force out or release suddenly and often violently something
+        pent up; "break into tears"; "erupt in anger" [syn: {burst},
+         {erupt}]
+     10: prevent completion; "stop the project"; "break off the
+         negociations" [syn: {break off}, {discontinue}, {stop}]
+     11: enter someone's property in an unauthorized manner, usually
+         with the intent to steal or commit a violent act;
+         "Someone broke in while I was on vacation"; "They broke
+         into my car and stole my radio!" [syn: {break in}]
+     12: make submissive, obedient, or useful; "The horse was tough
+         to break"; "I broke in the new intern" [syn: {break in}]
+     13: fail to agree with; be in violation of; as of rules or
+         patterns; "This sentence violates the rules of syntax"
+         [syn: {violate}, {go against}] [ant: {conform to}]
+     14: surpass in excellence; "She bettered her own record"; "break
+         a record" [syn: {better}]
+     15: make known to the public information that was previously
+         known only to a few people or that was meant to be kept a
+         secret; "The auction house would not disclose the price
+         at which the van Gogh had sold"; "The actress won't
+         reveal how old she is"; "bring out the truth"; "he broke
+         the news to her" [syn: {disclose}, {let on}, {bring out},
+          {reveal}, {discover}, {expose}, {divulge}, {impart}, {give
+         away}, {let out}]
+     16: come into being; "light broke over the horizon"; "Voices
+         broke in the air"
+     17: stop operating or functioning; "The engine finally went";
+         "The car died on the road"; "The bus we travelled in
+         broke down on the way to town"; "The coffee maker broke";
+         "The engine failed on the way to town"; "her eyesight
+         went after the accident" [syn: {fail}, {go bad}, {give
+         way}, {die}, {give out}, {conk out}, {go}, {break down}]
+     18: interrupt a continued activity; "She had broken with the
+         traditional patterns" [syn: {break away}]
+     19: make a rupture in the ranks of the enemy or one's own by
+         quitting or fleeing; "The ranks broke"
+     20: curl over and fall apart in surf or foam, of waves; "The
+         surf broke"
+     21: lessen in force or effect; "soften a shock"; "break a fall"
+         [syn: {dampen}, {damp}, {soften}, {weaken}]
+     22: be broken in; "If the new teacher won't break, we'll add
+         some stress"
+     23: come to an end; "The heat wave finally broke yesterday"
+     24: vary or interrupt a uniformity or continuity; "The flat
+         plain was broken by tall mesas"
+     25: cause to give up a habit; "She finally broke herself of
+         smoking cigarettes"
+     26: give up; "break cigarette smoking"
+     27: come forth or begin from a state of latency; "The first
+         winter storm broke over New York"
+     28: happen or take place; "Things have been breaking pretty well
+         for us in the past few months"
+     29: cause the failure or ruin of; "His peccadilloes finally
+         broke his marriage"; "This play will either make or break
+         the playwright" [ant: {make}]
+     30: invalidate by judicial action; "The will was broken"
+     31: discontinue an association or relation; go different ways;
+         "The business partners broke over a tax question"; "The
+         couple separated after 25 years of marriage"; "My friend
+         and I split up" [syn: {separate}, {part}, {split up}, {split},
+          {break up}]
+     32: assign to a lower position; reduce in rank; "She was demoted
+         because she always speaks up"; "He was broken down to
+         Sargeant" [syn: {demote}, {bump}, {relegate}, {kick
+         downstairs}] [ant: {promote}]
+     33: reduce to bankruptcy; "My daughter's fancy wedding is going
+         to break me!"; "The slump in the financial markets
+         smashed him" [syn: {bankrupt}, {ruin}, {smash}]
+     34: change directions suddenly
+     35: emerge from the surface of a body of water; "The whales
+         broke"
+     36: break down, literally or metaphorically; "The wall
+         collapsed"; "The business collapsed"; "The dam broke";
+         "The roof collapsed"; "The wall gave in"; "The roof
+         finally gave under the weight of the ice" [syn: {collapse},
+          {fall in}, {cave in}, {give}, {give way}, {founder}]
+     37: do a break dance; "Kids were break-dancing at the street
+         corner" [syn: {break dance}, {break-dance}]
+     38: exchange for smaller units of money; "I had to break a $100
+         bill just to buy the candy"
+     39: destroy the completeness of a set of related items; "The
+         book dealer would not break the set" [syn: {break up}]
+     40: make the opening shot that scatters the balls
+     41: separate from a clinch, in boxing; "The referee broke the
+         boxers"
+     42: go to pieces; "The lawn mower finally broke"; "The gears
+         wore out"; "The old chair finally fell apart completely"
+         [syn: {wear}, {wear out}, {bust}, {fall apart}]
+     43: break a piece from a whole; "break a branch from a tree"
+         [syn: {break off}, {snap off}]
+     44: become punctured or penetrated; "The skin broke"
+     45: pierce or penetrate; "The blade broke her skin"
+     46: be released or become known; of news; "News of her death
+         broke in the morning" [syn: {get out}, {get around}]
+     47: cease an action temporarily; "We pause for station
+         identification"; "let's break for lunch" [syn: {pause}, {intermit}]
+     48: interrupt the flow of current in; "break a circuit"
+     49: undergo breaking; "The simple vowels broke in many Germanic
+         languages"
+     50: find a flaw in; "break an alibi"; "break down a proof"
+     51: find the solution or key to; "break the code"
+     52: change suddenly from one tone quality or register to
+         another; "Her voice broke to a whisper when she started
+         to talk about her children"
+     53: happen; "Report the news as it develops"; "These political
+         movements recrudesce from time to time" [syn: {recrudesce},
+          {develop}]
+     54: become fractured; break or crack on the surface only; "The
+         glass cracked when it was heated" [syn: {crack}, {check}]
+     55: of the male voice in puberty; "his voice is breaking--he
+         should no longer sing in the choir"
+     56: fall sharply; "stock prices broke"
+     57: fracture a bone of; "I broke my foot while playing hockey"
+         [syn: {fracture}]
+     58: diminish or discontinue abruptly; "The patient's fever broke
+         last night"
+     59: weaken or destroy in spirit or body; "His resistance was
+         broken"; "a man broken by the terrible experience of
+         near-death"
+     [also: {broken}, {broke}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

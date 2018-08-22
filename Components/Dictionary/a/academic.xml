@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>academic</Word>
+  <Definitions>
+    <Definition>
+      <Word>academic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Academic \Ac`a*dem"ic\, Academical \Ac`a*dem"ic*al\, a. [L.
+   academicus: cf. F. acad['e]migue. See {Academy}.]
+   1. Belonging to the school or philosophy of Plato; as, the
+      Academic sect or philosophy.
+      [1913 Webster]
+
+   2. Belonging to an academy or other higher institution of
+      learning; scholarly; literary or classical, in distinction
+      from scientific. ``Academic courses.'' --Warburton.
+      ``Academical study.'' --Berkeley.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>academic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Academic \Ac`a*dem"ic\, n.
+   1. One holding the philosophy of Socrates and Plato; a
+      Platonist. --Hume.
+      [1913 Webster]
+
+   2. A member of an academy, college, or university; an
+      academician.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>academic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>academic
+     adj 1: associated with academia or an academy; "the academic
+            curriculum"; "academic gowns"
+     2: hypothetical or theoretical and not expected to produce an
+        immediate or practical result; "an academic discussion";
+        "an academic question"
+     3: marked by a narrow focus on or display of learning
+        especially its trivial aspects [syn: {donnish}, {pedantic}]
+     n : an educator who works at a college or university [syn: {academician},
+          {faculty member}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

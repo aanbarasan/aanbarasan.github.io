@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>available</Word>
+  <Definitions>
+    <Definition>
+      <Word>available</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Available \A*vail"a*ble\, a.
+   1. Having sufficient power, force, or efficacy, for the
+      object; effectual; valid; as, an available plea. [Obs.]
+      [1913 Webster]
+
+            Laws human are available by consent.  --Hooker.
+      [1913 Webster]
+
+   2. Such as one may avail one's self of; capable of being used
+      for the accomplishment of a purpose; usable; profitable;
+      advantageous; convertible into a resource; as, an
+      available measure; an available candidate.
+      [1913 Webster]
+
+            Struggling to redeem, as he did, the available
+            months and days out of so many that were
+            unavailable.                          --Carlyle.
+      [1913 Webster]
+
+            Having no available funds with which to pay the
+            calls on new shares.                  --H. Spenser.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>available</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>available
+     adj 1: obtainable or accessible and ready for use or service; "kept
+            a fire extinguisher available"; "much information is
+            available through computers"; "available in many
+            colors"; "the list of available candidates is
+            unusually long" [ant: {unavailable}]
+     2: not busy; not otherwise committed; "he was not available for
+        comment"; "he was available and willing to accompany her"
+        [syn: {uncommitted}]
+     3: convenient for use or disposal; "the house is available
+        after July 1"; "2000 square feet of usable office space"
+        [syn: {usable}, {useable}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

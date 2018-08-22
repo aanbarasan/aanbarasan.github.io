@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>accept</Word>
+  <Definitions>
+    <Definition>
+      <Word>accept</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>accept
+     
+        &lt;library, networking&gt; {Berkeley} {Unix} networking {socket}
+        library routine to satisfy a connection request from a remote
+        {host}.  A specified socket on the local host (which must be
+        capable of accepting the connection) is connected to the
+        requesting socket on the remote host.  The remote socket's
+        socket address is returned.
+     
+        {Unix manual pages}: accept(2), connect(2).
+     
+        (1994-11-08)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>accept</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Accept \Ac*cept"\ ([a^]k*s[e^]pt"), v. t. [imp. &amp; p. p.
+   {Accepted}; p. pr. &amp; vb. n. {Accepting}.] [F. accepter, L.
+   acceptare, freq. of accipere; ad + capere to take; akin to E.
+   heave.]
+   [1913 Webster]
+   1. To receive with a consenting mind (something offered); as,
+      to accept a gift; -- often followed by of.
+      [1913 Webster]
+
+            If you accept them, then their worth is great.
+                                                  --Shak.
+      [1913 Webster]
+
+            To accept of ransom for my son.       --Milton.
+      [1913 Webster]
+
+            She accepted of a treat.              --Addison.
+      [1913 Webster]
+
+   2. To receive with favor; to approve.
+      [1913 Webster]
+
+            The Lord accept thy burnt sacrifice. --Ps. xx. 3.
+      [1913 Webster]
+
+            Peradventure he will accept of me. --Gen. xxxii. 20.
+      [1913 Webster]
+
+   3. To receive or admit and agree to; to assent to; as, I
+      accept your proposal, amendment, or excuse.
+      [1913 Webster]
+
+   4. To take by the mind; to understand; as, How are these
+      words to be accepted?
+      [1913 Webster]
+
+   5. (Com.) To receive as obligatory and promise to pay; as, to
+      accept a bill of exchange. --Bouvier.
+      [1913 Webster]
+
+   6. In a deliberate body, to receive in acquittance of a duty
+      imposed; as, to accept the report of a committee. [This
+      makes it the property of the body, and the question is
+      then on its adoption.]
+      [1913 Webster]
+
+   {To accept a bill} (Law), to agree (on the part of the
+      drawee) to pay it when due.
+
+   {To accept service} (Law), to agree that a writ or process
+      shall be considered as regularly served, when it has not
+      been.
+
+   {To accept the person} (Eccl.), to show favoritism. ``God
+      accepteth no man's person.'' --Gal. ii. 6.
+      [1913 Webster]
+
+   Syn: To receive; take; admit. See {Receive}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>accept</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Accept \Ac*cept"\, a.
+   Accepted. [Obs.] --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>accept</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>accept
+     v 1: consider or hold as true; "I cannot accept the dogma of this
+          church"; "accept an argument" [ant: {reject}]
+     2: receive willingly something given or offered; "The only girl
+        who would have him was the miller's daughter"; "I won't
+        have this dog in my house!"; "Please accept my present"
+        [syn: {take}, {have}] [ant: {refuse}]
+     3: give an affirmative reply to; respond favorably to; "I
+        cannot accept your invitation"; "I go for this resolution"
+        [syn: {consent}, {go for}] [ant: {refuse}]
+     4: react favorably to; consider right and proper; "People did
+        not accept atonal music at that time"; "We accept the idea
+        of universal health care"
+     5: admit into a group or community; "accept students for
+        graduate study"; "We'll have to vote on whether or not to
+        admit a new member" [syn: {admit}, {take}, {take on}]
+     6: take on as one's own the expenses or debts of another
+        person; "I'll accept the charges"; "She agreed to bear the
+        responsibility" [syn: {bear}, {take over}, {assume}]
+     7: tolerate or accommodate oneself to; "I shall have to accept
+        these unpleasant working conditions"; "I swallowed the
+        insult"; "She has learned to live with her husband's
+        little idiosyncracies" [syn: {live with}, {swallow}]
+     8: be designed to hold or take; "This surface will not take the
+        dye" [syn: {take}]
+     9: of a deliberative body: receive (a report) officially, as
+        from a committee
+     10: make use of or accept for some purpose; "take a risk"; "take
+         an opportunity" [syn: {take}]
+     11: be sexually responsive to, used of a female domesticated
+         mammal; "The cow accepted the bull"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

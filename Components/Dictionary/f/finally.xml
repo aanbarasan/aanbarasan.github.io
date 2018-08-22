@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>finally</Word>
+  <Definitions>
+    <Definition>
+      <Word>finally</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Finally \Fi"nal*ly\, adv.
+   1. At the end or conclusion; ultimately; lastly; as, the
+      contest was long, but the Romans finally conquered.
+      [1913 Webster]
+
+            Whom patience finally must crown.     --Milton.
+      [1913 Webster]
+
+   2. Completely; beyond recovery.
+      [1913 Webster]
+
+            Not any house of noble English in Ireland was
+            utterly destroyed or finally rooted out. --Sir J.
+                                                  Davies.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>finally</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>finally
+     adv 1: after a long period of time or an especially long delay; "at
+            length they arrived" [syn: {eventually}, {at length}]
+     2: the item at the end; "last, I'll discuss family values"
+        [syn: {last}, {lastly}, {in conclusion}]
+     3: as the end result of a succession or process; "ultimately he
+        had to give in"; "at long last the winter was over" [syn:
+        {ultimately}, {in the end}, {at last}, {at long last}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

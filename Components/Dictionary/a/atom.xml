@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>atom</Word>
+  <Definitions>
+    <Definition>
+      <Word>atom</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Atom \At"om\, n. [L. atomus, Gr. ?, uncut, indivisible; 'a priv.
+   + ?, verbal adj. of ? to cut: cf. F. atome. See {Tome}.]
+   1. (Physics)
+      (a) An ultimate indivisible particle of matter.
+      (b) An ultimate particle of matter not necessarily
+          indivisible; a molecule.
+      (c) A constituent particle of matter, or a molecule
+          supposed to be made up of subordinate particles.
+          [1913 Webster]
+
+   Note: These three definitions correspond to different views
+         of the nature of the ultimate particles of matter. In
+         the case of the last two, the particles are more
+         correctly called molecules. --Dana.
+         [1913 Webster]
+
+   2. (Chem.) The smallest particle of matter that can enter
+      into combination; one of the elementary constituents of a
+      molecule.
+      [1913 Webster]
+
+   3. Anything extremely small; a particle; a whit.
+      [1913 Webster]
+
+            There was not an atom of water.       --Sir J. Ross.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>atom</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Atom \At"om\, v. t.
+   To reduce to atoms. [Obs.] --Feltham.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>atom</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>atom
+     n 1: (physics and chemistry) the smallest component of an element
+          having the chemical properties of the element
+     2: (nontechnical usage) a tiny piece of anything [syn: {molecule},
+         {particle}, {corpuscle}, {mote}, {speck}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

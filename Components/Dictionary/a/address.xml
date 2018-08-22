@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>address</Word>
+  <Definitions>
+    <Definition>
+      <Word>address</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>address
+     
+        1. &lt;networking&gt; {e-mail address}.
+     
+        2. &lt;networking&gt; {Internet address}.
+     
+        3. &lt;networking&gt; {MAC address}.
+     
+        4. &lt;storage, programming&gt; An unsigned integer used to select
+        one fundamental element of storage, usually known as a {word}
+        from a computer's {main memory} or other storage device.  The
+        {CPU} outputs addresses on its {address bus} which may be
+        connected to an {address decoder}, {cache controller}, {memory
+        management unit}, and other devices.
+     
+        While from a hardware point of view an address is indeed an
+        integer most {strongly typed} programming languages disallow
+        mixing integers and addresses, and indeed addresses of
+        different data types.  This is a fine example for {syntactic
+        salt}: the compiler could work without it but makes writing
+        bad programs more difficult.
+     
+        (1997-07-01)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>address</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Address \Ad*dress"\ ([a^]d*dr[e^]s"), v. t. [imp. &amp; p. p.
+   {Addressed} (-dr[e^]st"); p. pr. &amp; vb. n. {Addressing}.] [OE.
+   adressen to raise erect, adorn, OF. adrecier, to straighten,
+   address, F. adresser, fr. [`a] (L. ad) + OF. drecier, F.
+   dresser, to straighten, arrange. See {Dress}, v.]
+   1. To aim; to direct. [Obs.] --Chaucer.
+      [1913 Webster]
+
+            And this good knight his way with me addrest.
+                                                  --Spenser.
+      [1913 Webster]
+
+   2. To prepare or make ready. [Obs.]
+      [1913 Webster]
+
+            His foe was soon addressed.           --Spenser.
+      [1913 Webster]
+
+            Turnus addressed his men to single fight. --Dryden.
+      [1913 Webster]
+
+            The five foolish virgins addressed themselves at the
+            noise of the bridegroom's coming.     --Jer. Taylor.
+      [1913 Webster]
+
+   3. Reflexively: To prepare one's self; to apply one's skill
+      or energies (to some object); to betake.
+      [1913 Webster]
+
+            These men addressed themselves to the task.
+                                                  --Macaulay.
+      [1913 Webster]
+
+   4. To clothe or array; to dress. [Archaic]
+      [1913 Webster]
+
+            Tecla . . . addressed herself in man's apparel.
+                                                  --Jewel.
+      [1913 Webster]
+
+   5. To direct, as words (to any one or any thing); to make, as
+      a speech, petition, etc. (to any one, an audience).
+      [1913 Webster]
+
+            The young hero had addressed his players to him for
+            his assistance.                       --Dryden.
+      [1913 Webster]
+
+   6. To direct speech to; to make a communication to, whether
+      spoken or written; to apply to by words, as by a speech,
+      petition, etc., to speak to; to accost.
+      [1913 Webster]
+
+            Are not your orders to address the senate?
+                                                  --Addison.
+      [1913 Webster]
+
+            The representatives of the nation addressed the
+            king.                                 --Swift.
+      [1913 Webster]
+
+   7. To direct in writing, as a letter; to superscribe, or to
+      direct and transmit; as, he addressed a letter.
+      [1913 Webster]
+
+   8. To make suit to as a lover; to court; to woo.
+      [1913 Webster]
+
+   9. (Com.) To consign or intrust to the care of another, as
+      agent or factor; as, the ship was addressed to a merchant
+      in Baltimore.
+      [1913 Webster]
+
+   {To address one's self to}.
+      (a) To prepare one's self for; to apply one's self to.
+      (b) To direct one's speech or discourse to.
+
+   {To address the ball} (Golf), to take aim at the ball,
+      adjusting the grip on the club, the attitude of the body,
+      etc., to a convenient position.
+      [Webster 1913 Suppl. 1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>address</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Address \Ad*dress"\ ([a^]d*dr[e^]s"), v. i.
+   1. To prepare one's self. [Obs.] ``Let us address to tend on
+      Hector's heels.'' --Shak.
+      [1913 Webster]
+
+   2. To direct speech. [Obs.]
+      [1913 Webster]
+
+            Young Turnus to the beauteous maid addrest.
+                                                  --Dryden.
+      [1913 Webster]
+
+   Note: The intransitive uses come from the dropping out of the
+         reflexive pronoun.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>address</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Address \Ad*dress\, n. [Cf. F. adresse. See {Address}, v. t.]
+   [1913 Webster]
+   1. Act of preparing one's self. [Obs.] --Jer Taylor.
+      [1913 Webster]
+
+   2. Act of addressing one's self to a person; verbal
+      application.
+      [1913 Webster]
+
+   3. A formal communication, either written or spoken; a
+      discourse; a speech; a formal application to any one; a
+      petition; a formal statement on some subject or special
+      occasion; as, an address of thanks, an address to the
+      voters.
+      [1913 Webster]
+
+   4. Direction or superscription of a letter, or the name,
+      title, and place of residence of the person addressed.
+      [1913 Webster]
+
+   5. Manner of speaking to another; delivery; as, a man of
+      pleasing or insinuating address.
+      [1913 Webster]
+
+   6. Attention in the way one's addresses to a lady. --Addison.
+      [1913 Webster]
+
+   7. Skill; skillful management; dexterity; adroitness.
+      [1913 Webster]
+
+   Syn: Speech; discourse; harangue; oration; petition; lecture;
+        readiness; ingenuity; tact; adroitness.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>address</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>address
+     n 1: (computer science) the code that identifies where a piece of
+          information is stored [syn: {computer address}]
+     2: the place where a person or organization can be found or
+        communicated with
+     3: the act of delivering a formal spoken communication to an
+        audience; "he listened to an address on minor Roman poets"
+        [syn: {speech}]
+     4: the manner of speaking to another individual; "he failed in
+        his manner of address to the captain"
+     5: a sign in front of a house or business carrying the
+        conventional form by which its location is described
+     6: written directions for finding some location; written on
+        letters or packages that are to be delivered to that
+        location [syn: {destination}, {name and address}]
+     7: the stance assumed by a golfer in preparation for hitting a
+        golf ball
+     8: social skill [syn: {savoir-faire}]
+     v 1: speak to; "He addressed the crowd outside the window" [syn:
+          {turn to}]
+     2: give a speech to; "The chairman addressed the board of
+        trustees" [syn: {speak}]
+     3: put an address on (an envelope, for example) [syn: {direct}]
+     4: direct a question at someone
+     5: address or apply oneself to something, direct one's efforts
+        towards something, such as a question
+     6: greet, as with a prescribed form, title, or name; "He always
+        addresses me with `Sir'"; "Call me Mister"; "She calls him
+        by first name" [syn: {call}]
+     7: access or locate by address
+     8: deal with verbally or in some form of artistic expression;
+        "This book deals with incest"; "The course covered all of
+        Western Civilization"; "The new book treats the history of
+        China" [syn: {cover}, {treat}, {handle}, {plow}, {deal}]
+     9: speak to someone [syn: {accost}, {come up to}]
+     10: adjust and aim (a golf ball) at in preparation fo hitting
+     [also: {addrest}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

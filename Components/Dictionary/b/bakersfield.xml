@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bakersfield</Word>
+  <Definitions>
+    <Definition>
+      <Word>bakersfield</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Bakersfield, CA (city, FIPS 3526)
+  Location: 35.35770 N, 119.00455 W
+  Population (1990): 174820 (66175 housing units)
+  Area: 237.9 sq km (land), 3.4 sq km (water)
+  Zip code(s): 93301, 93304, 93306, 93307, 93308, 93309, 93311, 93313
+Bakersfield, MO (village, FIPS 3052)
+  Location: 36.52408 N, 92.14423 W
+  Population (1990): 292 (128 housing units)
+  Area: 3.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 65609
+Bakersfield, VT
+  Zip code(s): 05441
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bakersfield</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Bakersfield
+     n : a city in south central California at the southern end of
+         the San Joaquin Valley
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

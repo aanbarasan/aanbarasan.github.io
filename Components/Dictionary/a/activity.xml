@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>activity</Word>
+  <Definitions>
+    <Definition>
+      <Word>activity</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Activity \Ac*tiv"i*ty\, n.; pl. {Activities}. [Cf. F.
+   activit['e], LL. activitas.]
+   The state or quality of being active; nimbleness; agility;
+   vigorous action or operation; energy; active force; as, an
+   increasing variety of human activities. ``The activity of
+   toil.'' --Palfrey.
+   [1913 Webster]
+
+   Syn: Liveliness; briskness; quickness.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>activity</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>activity
+     n 1: any specific activity; "they avoided all recreational
+          activity" [ant: {inactivity}]
+     2: the state of being active; "his sphere of activity"; "he is
+        out of action" [syn: {action}, {activeness}] [ant: {inaction},
+         {inaction}, {inaction}]
+     3: an organic process that takes place in the body;
+        "respiratory activity" [syn: {bodily process}, {body
+        process}, {bodily function}]
+     4: (chemistry) the capacity of a substance to take part in a
+        chemical reaction; "catalytic activity"
+     5: a process existing in or produced by nature (rather than by
+        the intent of human beings); "the action of natural
+        forces"; "volcanic activity" [syn: {natural process}, {natural
+        action}, {action}]
+     6: the trait of being active; moving or acting rapidly and
+        energetically; "the level of activity declines with age"
+        [syn: {activeness}] [ant: {inactiveness}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

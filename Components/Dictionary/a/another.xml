@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>another</Word>
+  <Definitions>
+    <Definition>
+      <Word>another</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Another \An*oth"er\, pron. &amp; a. [An a, one + other.]
+   1. One more, in addition to a former number; a second or
+      additional one, similar in likeness or in effect.
+      [1913 Webster]
+
+            Another yet! -- a seventh! I 'll see no more.
+                                                  --Shak.
+      [1913 Webster]
+
+            Would serve to scale another Hero's tower. --Shak.
+      [1913 Webster]
+
+   2. Not the same; different.
+      [1913 Webster]
+
+            He winks, and turns his lips another way. --Shak.
+      [1913 Webster]
+
+   3. Any or some; any different person, indefinitely; any one
+      else; some one else.
+      [1913 Webster]
+
+            Let another man praise thee, and not thine own
+            mouth.                                --Prov. xxvii.
+                                                  2.
+      [1913 Webster]
+
+            While I am coming, another steppeth down before me.
+                                                  --John v. 7.
+      [1913 Webster]
+
+   Note: As a pronoun another may have a possessive another's,
+         pl. others, poss. pl. other'. It is much used in
+         opposition to one; as, one went one way, another
+         another. It is also used with one, in a reciprocal
+         sense; as, ``love one another,'' that is, let each love
+         the other or others. ``These two imparadised in one
+         another's arms.'' --Milton.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>another</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>another
+     adj 1: distinctly separate from the first; "that's another (or
+            different) issue altogether" [syn: {another(a)}, {different}]
+     2: one more or an added; "another chance"; "another cup of
+        coffee"; "an additional piece of pie" [syn: {another(a)},
+        {additional}]
+     3: any of various alternatives; some other; "put it off to
+        another (or some other) day" [syn: {another(a)}, {some
+        other}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

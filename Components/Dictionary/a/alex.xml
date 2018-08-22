@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>alex</Word>
+  <Definitions>
+    <Definition>
+      <Word>alex</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Alex
+     
+        &lt;language&gt; 1. A {polymorphic} language being developed by
+        Stephen Crawley &lt;sxc@itd.dtso.oz.au&gt; of Defence Science &amp; Tech
+        Org, Australia.  Alex has {abstract data type}s, {type
+        inference} and {inheritance}.
+     
+        2. &lt;language&gt; An {ISWIM}-like language with {exception
+        handling}.
+     
+        ["An Exception Handling Construct for Functional Languages",
+        M. Brez et al, in Proc ESOP88, LNCS 300, Springer 1988].
+     
+        3. &lt;tool&gt; A {scanner generator}.  {Alexis} is its input
+        language.
+     
+        ["Alex: A Simple and Efficient Scanner Generator", H.
+        Mossenbock, SIGPLAN Notices 21(5), May 1986].
+     
+        (1994-12-15)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>alex</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Alex, OK (town, FIPS 1250)
+  Location: 34.92016 N, 97.77940 W
+  Population (1990): 639 (294 housing units)
+  Area: 17.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 73002
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

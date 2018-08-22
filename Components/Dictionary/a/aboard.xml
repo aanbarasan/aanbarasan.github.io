@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>aboard</Word>
+  <Definitions>
+    <Definition>
+      <Word>aboard</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Aboard \A*board"\, adv. [Pref. a- on, in + board.]
+   1. On board; into or within a ship or boat; hence, into or
+      within a railway car.
+      [1913 Webster]
+
+   2. Alongside; as, close aboard.
+      [1913 Webster] (Naut.):
+
+   {To fall aboard of}, to strike a ship's side; to fall foul
+      of.
+
+   {To haul the tacks aboard}, to set the courses.
+
+   {To keep the land aboard}, to hug the shore.
+
+   {To lay (a ship) aboard}, to place one's own ship close
+      alongside of (a ship) for fighting.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>aboard</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Aboard \A*board"\, prep.
+   1. On board of; as, to go aboard a ship.
+      [1913 Webster]
+
+   2. Across; athwart. [Obs.]
+      [1913 Webster]
+
+            Nor iron bands aboard
+            The Pontic Sea by their huge navy cast. --Spenser.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>aboard</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>aboard
+     adv 1: on a ship, train, plane or other vehicle [syn: {onboard}]
+     2: on first or second or third base; "Their second homer with
+        Bob Allison aboard" [syn: {on base}]
+     3: side by side; "anchored close aboard another ship" [syn: {alongside}]
+     4: part of a group; "Bill's been aboard for three years now"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

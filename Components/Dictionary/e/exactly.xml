@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>exactly</Word>
+  <Definitions>
+    <Definition>
+      <Word>exactly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Exactly \Ex*act"ly\, adv.
+   In an exact manner; precisely according to a rule, standard,
+   or fact; accurately; strictly; correctly; nicely. ``Exactly
+   wrought.'' --Shak.
+   [1913 Webster]
+
+         His enemies were pleased, for he had acted exactly as
+         their interests required.                --Bancroft.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>exactly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>exactly
+     adv 1: indicating exactness or preciseness; "he was doing precisely
+            (or exactly) what she had told him to do"; "it was
+            just as he said--the jewel was gone"; "it has just
+            enough salt" [syn: {precisely}, {just}]
+     2: just as it should be; "`Precisely, my lord,' he said" [syn:
+        {precisely}, {on the nose}, {on the dot}, {on the button}]
+     3: in a precise manner; "she always expressed herself
+        precisely" [syn: {precisely}, {incisively}] [ant: {imprecisely},
+         {imprecisely}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

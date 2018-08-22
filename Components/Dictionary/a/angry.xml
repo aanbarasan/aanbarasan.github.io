@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>angry</Word>
+  <Definitions>
+    <Definition>
+      <Word>angry</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Angry \An"gry\, a. [Compar. {Angrier}; superl. {Angriest}.] [See
+   {Anger}.]
+   1. Troublesome; vexatious; rigorous. [Obs.]
+      [1913 Webster]
+
+            God had provided a severe and angry education to
+            chastise the forwardness of a young spirit. --Jer.
+                                                  Taylor.
+      [1913 Webster]
+
+   2. Inflamed and painful, as a sore.
+      [1913 Webster]
+
+   3. Touched with anger; under the emotion of anger; feeling
+      resentment; enraged; -- followed generally by with before
+      a person, and at before a thing.
+      [1913 Webster]
+
+            Be not grieved, nor angry with yourselves. --Gen.
+                                                  xlv. 5.
+      [1913 Webster]
+
+            Wherefore should God be angry at thy voice?
+                                                  --Eccles. v.
+                                                  6.
+      [1913 Webster]
+
+   4. Showing anger; proceeding from anger; acting as if moved
+      by anger; wearing the marks of anger; as, angry words or
+      tones; an angry sky; angry waves. ``An angry
+      countenance.'' --Prov. xxv. 23.
+      [1913 Webster]
+
+   5. Red. [R.]
+      [1913 Webster]
+
+            Sweet rose, whose hue, angry and brave. --Herbert.
+      [1913 Webster]
+
+   6. Sharp; keen; stimulated. [R.]
+      [1913 Webster]
+
+            I never ate with angrier appetite.    --Tennyson.
+      [1913 Webster]
+
+   Syn: Passionate; resentful; irritated; irascible; indignant;
+        provoked; enraged; incensed; exasperated; irate; hot;
+        raging; furious; wrathful; wroth; choleric; inflamed;
+        infuriated.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>angry</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>angry
+     adj 1: feeling or showing anger; "angry at the weather"; "angry
+            customers"; "an angry silence"; "sending angry letters
+            to the papers" [ant: {unangry(p)}]
+     2: (of the elements) as if showing violent anger; "angry clouds
+        on the horizon"; "furious winds"; "the raging sea" [syn: {furious},
+         {raging}, {tempestuous}, {wild}]
+     3: severely inflamed and painful; "an angry sore"
+     [also: {angriest}, {angrier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

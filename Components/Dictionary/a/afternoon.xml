@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>afternoon</Word>
+  <Definitions>
+    <Definition>
+      <Word>afternoon</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Afternoon \Aft"er*noon"\, n.
+   The part of the day which follows noon, between noon and
+   evening.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>afternoon</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>afternoon
+     n 1: the part of the day between noon and evening; "he spent a
+          quiet afternoon in the park"
+     2: a conventional expression of greeting or farewell [syn: {good
+        afternoon}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

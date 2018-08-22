@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>agent</Word>
+  <Definitions>
+    <Definition>
+      <Word>agent</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>agent
+     
+        &lt;networking&gt; In the {client-server} model, the part of the
+        system that performs information preparation and exchange on
+        behalf of a {client} or {server}.  Especially in the phrase
+        "intelligent agent" it implies some kind of automatic process
+        which can communicate with other agents to perform some
+        collective task on behalf of one or more humans.
+     
+        (1995-04-09)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>agent</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Agent \A"gent\, a. [L. agens, agentis, p. pr. of agere to act;
+   akin to Gr. ? to lead, Icel. aka to drive, Skr. aj. [root]2.]
+   Acting; -- opposed to {patient}, or sustaining, action.
+   [Archaic] ``The body agent.'' --Bacon.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>agent</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Agent \A"gent\, n.
+   1. One who exerts power, or has the power to act; an actor.
+      [1913 Webster]
+
+            Heaven made us agents, free to good or ill.
+                                                  --Dryden.
+      [1913 Webster]
+
+   2. One who acts for, or in the place of, another, by
+      authority from him; one intrusted with the business of
+      another; a substitute; a deputy; a factor.
+      [1913 Webster]
+
+   3. An active power or cause; that which has the power to
+      produce an effect, such as a physical, chemical, or
+      medicinal agent; as, heat is a powerful agent.
+      [1913 Webster]
+
+   4. (Biochem., Med.) a chemical substance having biological
+      effects; a drug.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>agent</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>agent
+     n 1: an active and efficient cause; capable of producing a
+          certain effect; "their research uncovered new disease
+          agents"
+     2: a substance that exerts some force or effect
+     3: a representative who acts on behalf of other persons or
+        organizations
+     4: a businessman who buys or sells for another in exchange for
+        a commission [syn: {factor}, {broker}]
+     5: any agent or representative of a federal agency or bureau
+        [syn: {federal agent}]
+     6: the semantic role of the animate entity that instigates or
+        causes the hapening denoted by the verb in the clause
+        [syn: {agentive role}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>case</Word>
+  <Definitions>
+    <Definition>
+      <Word>case</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>case
+     
+        1. &lt;programming&gt; {switch statement}.
+     
+        2. &lt;character&gt; Whether a character is a capital letter ("upper
+        case" - ABC..Z) or a small letter ("lower case" - abc..z).
+     
+        The term case comes from the printing trade when the use of
+        moving type was invented in the early Middle Ages (Caxton or
+        Gutenberg?) and the letters for each {font} were stored in a
+        box with two sections (or "cases"), the upper case was for the
+        capital letters and the lower case was for the small letters.
+        The Oxford Universal Dictionary of Historical Principles (Feb
+        1993, reprinted 1952) indicates that this usage of "case" (as
+        the box or frame used by a compositor in the printing trade)
+        was first used in 1588.
+     
+        (1996-03-01)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>case</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>CASE
+     
+        1. {Computer Aided Software Engineering}.
+     
+        2. {Common Application Service Element}.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>case</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Case \Case\, v. t. [imp. &amp; p. p. {Cased}; p. pr. &amp; vb. n.
+   {Casing}.]
+   1. To cover or protect with, or as with, a case; to inclose.
+      [1913 Webster]
+
+            The man who, cased in steel, had passed whole days
+            and nights in the saddle.             --Prescott.
+      [1913 Webster]
+
+   2. To strip the skin from; as, to case a box. [Obs.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>case</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Case \Case\, n. [F. cas, fr. L. casus, fr. cadere to fall, to
+   happen. Cf. {Chance}.]
+   1. Chance; accident; hap; opportunity. [Obs.]
+      [1913 Webster]
+
+            By aventure, or sort, or cas.         --Chaucer.
+      [1913 Webster]
+
+   2. That which befalls, comes, or happens; an event; an
+      instance; a circumstance, or all the circumstances;
+      condition; state of things; affair; as, a strange case; a
+      case of injustice; the case of the Indian tribes.
+      [1913 Webster]
+
+            In any case thou shalt deliver him the pledge.
+                                                  --Deut. xxiv.
+                                                  13.
+      [1913 Webster]
+
+            If the case of the man be so with his wife. --Matt.
+                                                  xix. 10.
+      [1913 Webster]
+
+            And when a lady's in the case
+            You know all other things give place. --Gay.
+      [1913 Webster]
+
+            You think this madness but a common case. --Pope.
+      [1913 Webster]
+
+            I am in case to justle a constable,   --Shak.
+      [1913 Webster]
+
+   3. (Med. &amp; Surg.) A patient under treatment; an instance of
+      sickness or injury; as, ten cases of fever; also, the
+      history of a disease or injury.
+      [1913 Webster]
+
+            A proper remedy in hypochondriacal cases.
+                                                  --Arbuthnot.
+      [1913 Webster]
+
+   4. (Law) The matters of fact or conditions involved in a
+      suit, as distinguished from the questions of law; a suit
+      or action at law; a cause.
+      [1913 Webster]
+
+            Let us consider the reason of the case, for nothing
+            is law that is not reason.            --Sir John
+                                                  Powell.
+      [1913 Webster]
+
+            Not one case in the reports of our courts. --Steele.
+      [1913 Webster]
+
+   5. (Gram.) One of the forms, or the inflections or changes of
+      form, of a noun, pronoun, or adjective, which indicate its
+      relation to other words, and in the aggregate constitute
+      its declension; the relation which a noun or pronoun
+      sustains to some other word.
+      [1913 Webster]
+
+            Case is properly a falling off from the nominative
+            or first state of word; the name for which, however,
+            is now, by extension of its signification, applied
+            also to the nominative.               --J. W. Gibbs.
+      [1913 Webster]
+
+   Note: Cases other than the nominative are oblique cases. Case
+         endings are terminations by which certain cases are
+         distinguished. In old English, as in Latin, nouns had
+         several cases distinguished by case endings, but in
+         modern English only that of the possessive case is
+         retained.
+         [1913 Webster]
+
+   {Action on the case} (Law), according to the old
+      classification (now obsolete), was an action for redress
+      of wrongs or injuries to person or property not specially
+      provided against by law, in which the whole cause of
+      complaint was set out in the writ; -- called also
+      {trespass on the case}, or simply {case}.
+
+   {All a case}, a matter of indifference. [Obs.] ``It is all a
+      case to me.'' --L'Estrange.
+
+   {Case at bar}. See under {Bar}, n.
+
+   {Case divinity}, casuistry.
+
+   {Case lawyer}, one versed in the reports of cases rather than
+      in the science of the law.
+
+   {Case stated} or {Case agreed on} (Law), a statement in
+      writing of facts agreed on and submitted to the court for
+      a decision of the legal points arising on them.
+
+   {A hard case}, an abandoned or incorrigible person. [Colloq.]
+      
+
+   {In any case}, whatever may be the state of affairs; anyhow.
+      
+
+   {In case}, or {In case that}, if; supposing that; in the
+      event or contingency; if it should happen that. ``In case
+      we are surprised, keep by me.'' --W. Irving.
+
+   {In good case}, in good condition, health, or state of body.
+      
+
+   {To put a case}, to suppose a hypothetical or illustrative
+      case.
+
+   Syn: Situation, condition, state; circumstances; plight;
+        predicament; occurrence; contingency; accident; event;
+        conjuncture; cause; action; suit.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>case</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Case \Case\, n. [F. cas, fr. L. casus, fr. cadere to fall, to
+   happen. Cf. {Chance}.]
+   1. Chance; accident; hap; opportunity. [Obs.]
+      [1913 Webster]
+
+            By aventure, or sort, or cas.         --Chaucer.
+      [1913 Webster]
+
+   2. That which befalls, comes, or happens; an event; an
+      instance; a circumstance, or all the circumstances;
+      condition; state of things; affair; as, a strange case; a
+      case of injustice; the case of the Indian tribes.
+      [1913 Webster]
+
+            In any case thou shalt deliver him the pledge.
+                                                  --Deut. xxiv.
+                                                  13.
+      [1913 Webster]
+
+            If the case of the man be so with his wife. --Matt.
+                                                  xix. 10.
+      [1913 Webster]
+
+            And when a lady's in the case
+            You know all other things give place. --Gay.
+      [1913 Webster]
+
+            You think this madness but a common case. --Pope.
+      [1913 Webster]
+
+            I am in case to justle a constable,   --Shak.
+      [1913 Webster]
+
+   3. (Med. &amp; Surg.) A patient under treatment; an instance of
+      sickness or injury; as, ten cases of fever; also, the
+      history of a disease or injury.
+      [1913 Webster]
+
+            A proper remedy in hypochondriacal cases.
+                                                  --Arbuthnot.
+      [1913 Webster]
+
+   4. (Law) The matters of fact or conditions involved in a
+      suit, as distinguished from the questions of law; a suit
+      or action at law; a cause.
+      [1913 Webster]
+
+            Let us consider the reason of the case, for nothing
+            is law that is not reason.            --Sir John
+                                                  Powell.
+      [1913 Webster]
+
+            Not one case in the reports of our courts. --Steele.
+      [1913 Webster]
+
+   5. (Gram.) One of the forms, or the inflections or changes of
+      form, of a noun, pronoun, or adjective, which indicate its
+      relation to other words, and in the aggregate constitute
+      its declension; the relation which a noun or pronoun
+      sustains to some other word.
+      [1913 Webster]
+
+            Case is properly a falling off from the nominative
+            or first state of word; the name for which, however,
+            is now, by extension of its signification, applied
+            also to the nominative.               --J. W. Gibbs.
+      [1913 Webster]
+
+   Note: Cases other than the nominative are oblique cases. Case
+         endings are terminations by which certain cases are
+         distinguished. In old English, as in Latin, nouns had
+         several cases distinguished by case endings, but in
+         modern English only that of the possessive case is
+         retained.
+         [1913 Webster]
+
+   {Action on the case} (Law), according to the old
+      classification (now obsolete), was an action for redress
+      of wrongs or injuries to person or property not specially
+      provided against by law, in which the whole cause of
+      complaint was set out in the writ; -- called also
+      {trespass on the case}, or simply {case}.
+
+   {All a case}, a matter of indifference. [Obs.] ``It is all a
+      case to me.'' --L'Estrange.
+
+   {Case at bar}. See under {Bar}, n.
+
+   {Case divinity}, casuistry.
+
+   {Case lawyer}, one versed in the reports of cases rather than
+      in the science of the law.
+
+   {Case stated} or {Case agreed on} (Law), a statement in
+      writing of facts agreed on and submitted to the court for
+      a decision of the legal points arising on them.
+
+   {A hard case}, an abandoned or incorrigible person. [Colloq.]
+      
+
+   {In any case}, whatever may be the state of affairs; anyhow.
+      
+
+   {In case}, or {In case that}, if; supposing that; in the
+      event or contingency; if it should happen that. ``In case
+      we are surprised, keep by me.'' --W. Irving.
+
+   {In good case}, in good condition, health, or state of body.
+      
+
+   {To put a case}, to suppose a hypothetical or illustrative
+      case.
+
+   Syn: Situation, condition, state; circumstances; plight;
+        predicament; occurrence; contingency; accident; event;
+        conjuncture; cause; action; suit.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>case</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Case \Case\ (k[=a]s), n. [OF. casse, F. caisse (cf. It. cassa),
+   fr. L. capsa chest, box, case, fr. capere to take, hold. See
+   {Capacious}, and cf. 4th {Chase}, {Cash}, {Enchase}, 3d
+   {Sash}.]
+   [1913 Webster]
+   1. A box, sheath, or covering; as, a case for holding goods;
+      a case for spectacles; the case of a watch; the case
+      (capsule) of a cartridge; a case (cover) for a book.
+      [1913 Webster]
+
+   2. A box and its contents; the quantity contained in a box;
+      as, a case of goods; a case of instruments.
+      [1913 Webster]
+
+   3. (Print.) A shallow tray divided into compartments or
+      ``boxes'' for holding type.
+      [1913 Webster]
+
+   Note: Cases for type are usually arranged in sets of two,
+         called respectively the upper and the lower case. The
+         {upper case} contains capitals, small capitals,
+         accented and marked letters, fractions, and marks of
+         reference: the {lower case} contains the small letters,
+         figures, marks of punctuation, quadrats, and spaces.
+         [1913 Webster]
+
+   4. An inclosing frame; a casing; as, a door case; a window
+      case.
+      [1913 Webster]
+
+   5. (Mining) A small fissure which admits water to the
+      workings. --Knight.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>case</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Case \Case\, v. i.
+   To propose hypothetical cases. [Obs.] ``Casing upon the
+   matter.'' --L'Estrange.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>case</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>CASE
+     Common Application Service Element (ISO, OSI)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>case</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>CASE
+     Computer Aided Software Engineering
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>case</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>case
+     n 1: a comprehensive term for any proceeding in a court of law
+          whereby an individual seeks a legal remedy; "the family
+          brought suit against the landlord" [syn: {lawsuit}, {suit},
+           {cause}, {causa}]
+     2: an occurrence of something; "it was a case of bad judgment";
+        "another instance occurred yesterday"; "but there is
+        always the famous example of the Smiths" [syn: {instance},
+         {example}]
+     3: a special set of circumstances; "in that event, the first
+        possibility is excluded"; "it may rain in which case the
+        picnic will be canceled" [syn: {event}]
+     4: a problem requiring investigation; "Perry Mason solved the
+        case of the missing heir"
+     5: the actual state of things; "that was not the case"
+     6: a statement of facts and reasons used to support an
+        argument; "he stated his case clearly"
+     7: a portable container for carrying several objects; "the
+        musicians left their instrument cases backstage"
+     8: a person who is subjected to experimental or other
+        observational procedures; someone who is an object of
+        investigation; "the subjects for this investigation were
+        selected randomly"; "the cases that we studied were drawn
+        from two different communities" [syn: {subject}, {guinea
+        pig}]
+     9: a person requiring professional services; "a typical case
+        was the suburban housewife described by a marriage
+        counselor"
+     10: the quantity contained in a case [syn: {caseful}]
+     11: a glass container used to store and display items in a shop
+         or museum or home [syn: {display case}, {showcase}]
+     12: a specific state of mind that is temporary; "a case of the
+         jitters"
+     13: nouns or pronouns or adjectives (often marked by inflection)
+         related in some way to other words in a sentence [syn: {grammatical
+         case}]
+     14: the housing or outer covering of something; "the clock has a
+         walnut case" [syn: {shell}, {casing}]
+     15: a person of a specified kind (usually with many
+         eccentricities); "a real character"; "a strange
+         character"; "a friendly eccentric"; "the capable type";
+         "a mental case" [syn: {character}, {eccentric}, {type}]
+     16: an enveloping structure or covering enclosing an animal or
+         plant organ or part [syn: {sheath}]
+     17: the enclosing frame around a door or window opening; "the
+         casings had rotted away and had to be replaced" [syn: {casing}]
+     18: bed linen consisting of a cover for a pillow; "the burglar
+         carried his loot in a pillowcase" [syn: {pillowcase}, {slip},
+          {pillow slip}]
+     v 1: look over, usually with the intention to rob; "They men
+          cased the housed"
+     2: enclose in, or as if in, a case; "my feet were encased in
+        mud" [syn: {encase}, {incase}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

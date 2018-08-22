@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>anymore</Word>
+  <Definitions>
+    <Definition>
+      <Word>anymore</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>More \More\, n.
+   1. A greater quantity, amount, or number; that which exceeds
+      or surpasses in any way what it is compared with.
+      [1913 Webster]
+
+            And the children of Israel did so, and gathered,
+            some more, some less.                 --Ex. xvi. 17.
+      [1913 Webster]
+
+   2. That which is in addition; something other and further; an
+      additional or greater amount.
+      [1913 Webster]
+
+            They that would have more and more can never have
+            enough.                               --L'Estrange.
+      [1913 Webster]
+
+            O! That pang where more than madness lies. --Byron.
+      [1913 Webster]
+
+   {Any more}.
+      (a) Anything or something additional or further; as, I do
+          not need any more.
+      (b) Adverbially: Further; beyond a certain time; as, do
+          not think any more about it.
+
+   {No more}, not anything more; nothing in addition.
+
+   {The more and less}, the high and low. [Obs.] --Shak. ``All
+      cried, both less and more.'' --Chaucer.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>anymore</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>anymore
+     adv : at the present or from now on; usually used with a negative;
+           "Alice doesn't live here anymore"; "the children
+           promised not to quarrel any more" [syn: {any longer}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ago</Word>
+  <Definitions>
+    <Definition>
+      <Word>ago</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ago \A*go"\, a. &amp; adv. [OE. ago, agon, p. p. of agon to go away,
+   pass by, AS. [=a]g[=a]n to pass away; [=a]- (cf. Goth. us-,
+   Ger. er-, orig. meaning out) + g[=a]n to go. See {Go}.]
+   Past; gone by; since; as, ten years ago; gone long ago.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ago</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ago
+     adj : gone by; or in the past; "two years ago"; "`agone' is an
+           archaic word for `ago'" [syn: {agone}]
+     adv : in the past; "long ago"; "sixty years ago my grandfather
+           came to the U.S."
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bacteria</Word>
+  <Definitions>
+    <Definition>
+      <Word>bacteria</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bacteria \Bac*te"ri*a\, n. pl.
+   See {Bacterium}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bacteria</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bacterium \Bac*te"ri*um\ (b[a^]k*t[=e]"r[i^]*[u^]m), n.; pl.
+   {Bacteria} (b[a^]k*t[=e]"r[i^]*[.a]). [NL., fr. Gr.
+   bakth`rion, ba`ktron, a staff: cf. F. bact['e]rie.] (Biol.)
+   A microscopic single-celled organism having no
+   distinguishable nucleus, belonging to the kingdom Monera.
+   Bacteria have varying shapes, usually taking the form of a
+   jointed rodlike filament, or a small sphere, but also in
+   certain cases having a branched form. Bacteria are destitute
+   of chlorophyll, but in those members of the phylum Cyanophyta
+   (the blue-green algae) other light-absorbing pigments are
+   present. They are the smallest of microscopic organisms which
+   have their own metabolic processes carried on within cell
+   membranes, viruses being smaller but not capable of living
+   freely. The bacteria are very widely diffused in nature, and
+   multiply with marvelous rapidity, both by fission and by
+   spores. Bacteria may require oxygen for their
+   energy-producing metabolism, and these are called {aerobes};
+   or may multiply in the absence of oxygen, these forms being
+   {anaerobes}. Certain species are active agents in
+   fermentation, while others appear to be the cause of certain
+   infectious diseases. The branch of science with studies
+   bacteria is {bacteriology}, being a division of
+   {microbiology}. See {Bacillus}.
+   [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bacteria</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bacteria
+     n : (microbiology) single-celled or noncellular spherical or
+         spiral or rod-shaped organisms lacking chlorophyll that
+         reproduce by fission; important as pathogens and for
+         biochemical properties; taxonomy is difficult; often
+         considered plants [syn: {bacterium}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

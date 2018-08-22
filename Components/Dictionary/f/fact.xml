@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fact</Word>
+  <Definitions>
+    <Definition>
+      <Word>fact</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>FACT
+     
+        {Fully Automated Compiling Technique}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fact</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>fact
+     
+        &lt;artificial intelligence, programming&gt; The kind of {clause}
+        used in {logic programming} which has no {subgoals} and so is
+        always true (always succeeds).  E.g.
+     
+        	wet(water).
+        	male(denis).
+     
+        This is in contrast to a {rule} which only succeeds if all its
+        subgoals do.  Rules usually contain {logic variables}, facts
+        rarely do, except for oddities like "equal(X,X).".
+     
+        (1996-10-20)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fact</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fact \Fact\ (f[a^]kt), n. [L. factum, fr. facere to make or do.
+   Cf. {Feat}, {Affair}, {Benefit}, {Defect}, {Fashion}, and
+   {-fy}.]
+   1. A doing, making, or preparing. [Obs.]
+      [1913 Webster]
+
+            A project for the fact and vending
+            Of a new kind of fucus, paint for ladies. --B.
+                                                  Jonson.
+      [1913 Webster]
+
+   2. An effect produced or achieved; anything done or that
+      comes to pass; an act; an event; a circumstance.
+      [1913 Webster]
+
+            What might instigate him to this devilish fact, I am
+            not able to conjecture.               --Evelyn.
+      [1913 Webster]
+
+            He who most excels in fact of arms.   --Milton.
+      [1913 Webster]
+
+   3. Reality; actuality; truth; as, he, in fact, excelled all
+      the rest; the fact is, he was beaten.
+      [1913 Webster]
+
+   4. The assertion or statement of a thing done or existing;
+      sometimes, even when false, improperly put, by a transfer
+      of meaning, for the thing done, or supposed to be done; a
+      thing supposed or asserted to be done; as, history abounds
+      with false facts.
+      [1913 Webster]
+
+            I do not grant the fact.              --De Foe.
+      [1913 Webster]
+
+            This reasoning is founded upon a fact which is not
+            true.                                 --Roger Long.
+      [1913 Webster]
+
+   Note: The term fact has in jurisprudence peculiar uses in
+         contrast with law; as, attorney at law, and attorney in
+         fact; issue in law, and issue in fact. There is also a
+         grand distinction between law and fact with reference
+         to the province of the judge and that of the jury, the
+         latter generally determining the fact, the former the
+         law. --Burrill --Bouvier.
+         [1913 Webster]
+
+   {Accessary before the fact}, or {Accessary after the fact}.
+      See under {Accessary}.
+
+   {Matter of fact}, an actual occurrence; a verity; used
+      adjectively: of or pertaining to facts; prosaic;
+      unimaginative; as, a matter-of-fact narration.
+
+   Syn: Act; deed; performance; event; incident; occurrence;
+        circumstance.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fact</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fact
+     n 1: a piece of information about circumstances that exist or
+          events that have occurred; "first you must collect all
+          the facts of the case"
+     2: a statement or assertion of verified information about
+        something that is the case or has happened; "he supported
+        his argument with an impressive array of facts"
+     3: an event known to have happened or something known to have
+        existed; "your fears have no basis in fact"; "how much of
+        the story is fact and how much fiction is hard to tell"
+     4: a concept whose truth can be proved; "scientific hypotheses
+        are not facts"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

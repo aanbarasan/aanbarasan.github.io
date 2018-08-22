@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>amelia</Word>
+  <Definitions>
+    <Definition>
+      <Word>amelia</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Amelia, LA (CDP, FIPS 1815)
+  Location: 29.66369 N, 91.10681 W
+  Population (1990): 2447 (818 housing units)
+  Area: 6.8 sq km (land), 0.7 sq km (water)
+  Zip code(s): 70340
+Amelia, NE
+  Zip code(s): 68711
+Amelia, OH (village, FIPS 1742)
+  Location: 39.02578 N, 84.21689 W
+  Population (1990): 1837 (736 housing units)
+  Area: 1.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 45102
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>amelia</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>amelia
+     n : congenital absence of an arm or leg
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

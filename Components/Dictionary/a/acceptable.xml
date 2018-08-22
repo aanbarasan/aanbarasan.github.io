@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>acceptable</Word>
+  <Definitions>
+    <Definition>
+      <Word>acceptable</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Acceptable \Ac*cept"a*ble\ (-s[e^]pt"[.a]*b'l; 277), a. [F.
+   acceptable, L. acceptabilis, fr. acceptare.]
+   Capable, worthy, or sure of being accepted or received with
+   pleasure; pleasing to a receiver; gratifying; agreeable;
+   welcome; as, an acceptable present, one acceptable to us.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>acceptable</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>acceptable
+     adj 1: worthy of acceptance or satisfactory; "acceptable levels of
+            radiation"; "performances varied from acceptable to
+            excellent" [ant: {unacceptable}]
+     2: judged to be in conformity with approved usage; "acceptable
+        English usage" [syn: {accepted}]
+     3: meeting requirements; "the step makes a satisfactory seat"
+        [syn: {satisfactory}]
+     4: adequate for the purpose; "the water was acceptable for
+        drinking"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

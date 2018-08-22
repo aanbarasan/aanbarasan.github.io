@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>barry</Word>
+  <Definitions>
+    <Definition>
+      <Word>barry</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Barry, IL (city, FIPS 3948)
+  Location: 39.69560 N, 91.03973 W
+  Population (1990): 1391 (610 housing units)
+  Area: 2.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 62312
+Barry, MN (city, FIPS 3718)
+  Location: 45.55847 N, 96.55973 W
+  Population (1990): 40 (18 housing units)
+  Area: 0.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 56210
+Barry, TX (city, FIPS 5708)
+  Location: 32.09868 N, 96.63788 W
+  Population (1990): 175 (86 housing units)
+  Area: 1.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 75102
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>barry</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Barry \Bar"ry\, a. (Her.)
+   Divided into bars; -- said of the field.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>anyway</Word>
+  <Definitions>
+    <Definition>
+      <Word>anyway</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Anyway \A"ny*way\, Anyways \A"ny*ways\, adv.
+   Anywise; at all. --Tennyson. Southey.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>anyway</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>anyway
+     adv 1: used to indicate that a statement explains or supports a
+            previous statement; "Anyhow, he is dead now"; "I think
+            they're asleep; anyhow, they're quiet"; "I don't know
+            what happened to it; anyway, it's gone"; "anyway,
+            there is another factor to consider"; "I don't know
+            how it started; in any case, there was a brief
+            scuffle"; "in any event, the government faced a
+            serious protest"; "but at any rate he got a knighthood
+            for it" [syn: {anyhow}, {in any case}, {at any rate},
+            {in any event}]
+     2: in any way whatsoever; "they came anyhow they could"; "get
+        it done anyway you can" [syn: {anyhow}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

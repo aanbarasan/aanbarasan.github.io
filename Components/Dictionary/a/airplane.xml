@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>airplane</Word>
+  <Definitions>
+    <Definition>
+      <Word>airplane</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>aeroplane \aer"*o*plane`\ aeroplane \a"["e]r*o*plane`\, n.
+   [a["e]ro- + plane.] (A["e]ronautics)
+   1. A light rigid plane used in a["e]rial navigation to oppose
+      sudden upward or downward movement in the air, as in
+      gliding machines; specif., such a plane slightly inclined
+      and driven forward as a lifting device in some flying
+      machines. Also called {airfoil}.
+      [Webster 1913 Suppl.]
+
+   2. hence, a heavier-than-air flying machine using such a
+      device to provide lift. In a modern aeroplane, the
+      airfoils are called the {wings}, and most of the lift is
+      derived from these surfaces. In contrast to helicopters,
+      the wings are fixed to the passenger compartment
+      (airframe) and do not move relative to the frame; thus
+      such a machine is called a {fixed-wing aircraft}. These
+      machines are called monoplanes, biplanes, triplanes, or
+      quadruplanes, according to the number of main supporting
+      planes (wings) used in their construction. After 1940 few
+      planes with more than one airfoil were constructed, and
+      these are used by hobbyists or for special purposes. Being
+      heavier than air they depend for their levitation on
+      motion imparted by the thrust from either propellers
+      driven by an engine, or, in a jet plane, by the reaction
+      from a high-velocity stream of gases expelled rearward
+      from a jet engine. They start from the ground by a run on
+      small wheels or runners, and are guided by a steering
+      apparatus consisting of horizontal and vertical movable
+      planes, which usually form part of the wings or tail.
+      There are many varieties of form and construction, which
+      in some cases are known by the names of their inventors.
+      In U.S., an aeroplane is usually called an {airplane} or
+      {plane}.
+      [Webster 1913 Suppl. +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>airplane</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>airplane \air"plane\ n.
+   a heavier-than-air aircraft. Same as {{aeroplane[2]}}.
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>airplane</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>airplane
+     n : an aircraft that has a fixed wing and is powered by
+         propellers or jets; "the flight was delayed due to
+         trouble with the airplane" [syn: {aeroplane}, {plane}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

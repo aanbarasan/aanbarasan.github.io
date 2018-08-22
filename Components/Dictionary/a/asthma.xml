@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>asthma</Word>
+  <Definitions>
+    <Definition>
+      <Word>asthma</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Asthma \Asth"ma\ (?; 277), n. [Gr. ? short-drawn breath, fr. ?
+   to blow, for ?: cf. Skr. v[=a], Goth. waian, to blow, E.
+   wind.] (Med.)
+   A disease, characterized by difficulty of breathing (due to a
+   spasmodic contraction of the bronchi), recurring at
+   intervals, accompanied with a wheezing sound, a sense of
+   constriction in the chest, a cough, and expectoration.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>asthma</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>asthma
+     n : respiratory disorder characterized by wheezing; usually of
+         allergic origin [syn: {asthma attack}, {bronchial asthma}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

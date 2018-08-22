@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>author</Word>
+  <Definitions>
+    <Definition>
+      <Word>author</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Author \Au"thor\ ([add]"th[~e]r), n. [OE. authour, autour, OF.
+   autor, F. auteur, fr. L. auctor, sometimes, but erroneously,
+   written autor or author, fr. augere to increase, to produce.
+   See {Auction}, n.]
+   1. The beginner, former, or first mover of anything; hence,
+      the efficient cause of a thing; a creator; an originator.
+      [1913 Webster]
+
+            Eternal King; thee, Author of all being. --Milton.
+      [1913 Webster]
+
+   2. One who composes or writes a book; a composer, as
+      distinguished from an editor, translator, or compiler.
+      [1913 Webster]
+
+            The chief glory of every people arises from its
+            authors.                              --Johnson.
+      [1913 Webster]
+
+   3. The editor of a periodical. [Obs.]
+      [1913 Webster]
+
+   4. An informant. [Archaic] --Chaucer.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>author</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Author \Au"thor\ ([add]"th[~e]r), v. t.
+   1. To occasion; to originate. [Obs.]
+      [1913 Webster]
+
+            Such an overthrow . . . I have authored. --Chapman.
+      [1913 Webster]
+
+   2. To tell; to say; to declare. [Obs.]
+      [1913 Webster]
+
+            More of him I dare not author.        --Massinger.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>author</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>author
+     n 1: writes (books or stories or articles or the like)
+          professionally (for pay) [syn: {writer}]
+     2: someone who originates or causes or initiates something; "he
+        was the generator of several complaints" [syn: {generator},
+         {source}]
+     v : be the author of; "She authored this play"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

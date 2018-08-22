@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>accurate</Word>
+  <Definitions>
+    <Definition>
+      <Word>accurate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Accurate \Ac"cu*rate\, a. [L. accuratus, p. p. and a., fr.
+   accurare to take care of; ad + curare to take care, cura
+   care. See {Cure}.]
+   1. In exact or careful conformity to truth, or to some
+      standard of requirement, the result of care or pains; free
+      from failure, error, or defect; exact; as, an accurate
+      calculator; an accurate measure; accurate expression,
+      knowledge, etc.
+      [1913 Webster]
+
+   2. Precisely fixed; executed with care; careful. [Obs.]
+      [1913 Webster]
+
+            Those conceive the celestial bodies have more
+            accurate influences upon these things below.
+                                                  --Bacon.
+      [1913 Webster]
+
+   Syn: Correct; exact; just; nice; particular.
+
+   Usage: {Accurate}, {Correct}, {Exact}, {Precise}. We speak of
+          a thing as correct with reference to some rule or
+          standard of comparison; as, a correct account, a
+          correct likeness, a man of correct deportment. We
+          speak of a thing as accurate with reference to the
+          care bestowed upon its execution, and the increased
+          correctness to be expected therefrom; as, an accurate
+          statement, an accurate detail of particulars. We speak
+          of a thing as exact with reference to that perfected
+          state of a thing in which there is no defect and no
+          redundance; as, an exact coincidence, the exact truth,
+          an exact likeness. We speak of a thing as precise when
+          we think of it as strictly conformed to some rule or
+          model, as if cut down thereto; as a precise conformity
+          instructions; precisely right; he was very precise in
+          giving his directions.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>accurate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>accurate
+     adj 1: conforming exactly or almost exactly to fact or to a
+            standard or performing with total accuracy; "an
+            accurate reproduction"; "the accounting was accurate";
+            "accurate measurements"; "an accurate scale" [ant: {inaccurate}]
+     2: (of ideas, images, representations, expressions)
+        characterized by perfect conformity to fact or truth ;
+        strictly correct; "a precise image"; "a precise
+        measurement" [syn: {exact}, {precise}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

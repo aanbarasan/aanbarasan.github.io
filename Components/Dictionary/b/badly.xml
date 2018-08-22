@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>badly</Word>
+  <Definitions>
+    <Definition>
+      <Word>badly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Badly \Bad"ly\, adv.
+   In a bad manner; poorly; not well; unskillfully; imperfectly;
+   unfortunately; grievously; so as to cause harm; disagreeably;
+   seriously.
+   [1913 Webster]
+
+   Note: Badly is often used colloquially for very much or very
+         greatly, with words signifying to want or need.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>badly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>badly
+     adv 1: to a severe or serious degree; "fingers so badly frozen they
+            had to be amputated"; "badly injured"; "a severely
+            impaired heart"; "is gravely ill"; "was seriously ill"
+            [syn: {severely}, {gravely}, {seriously}]
+     2: (`ill' is often used as a combining form) in a poor or
+        improper or unsatisfactory manner; not well; "he was ill
+        prepared"; "it ill befits a man to betray old friends";
+        "the car runs badly"; "he performed badly on the exam";
+        "the team played poorly"; "ill-fitting clothes"; "an
+        ill-conceived plan" [syn: {ill}, {poorly}] [ant: {well}]
+     3: evilly or wickedly; "treated his parents badly"; "to steal
+        is to act badly"
+     4: in a disobedient or naughty way; "he behaved badly in
+        school"; "he mischievously looked for a chance to
+        embarrass his sister"; "behaved naughtily when they had
+        guests and was sent to his room" [syn: {mischievously}, {naughtily}]
+     5: with great intensity (`bad' is a nonstandard variant for
+        `badly'); "the injury hurt badly"; "the buildings were
+        badly shaken"; "it hurts bad"; "we need water bad" [syn: {bad}]
+     6: very much; strongly; "I wanted it badly enough to work hard
+        for it"; "the cables had sagged badly"; "they were badly
+        in need of help"; "he wants a bicycle so bad he can taste
+        it" [syn: {bad}]
+     7: without skill or in a displeasing manner; "she writes
+        badly"; "I think he paints very badly" [ant: {well}]
+     8: in a disadvantageous way; to someone's disadvantage; "the
+        venture turned out badly for the investors"; "angry that
+        the case was settled disadvantageously for them" [syn: {disadvantageously}]
+        [ant: {well}, {well}]
+     9: unfavorably or with disapproval; "tried not to speak ill of
+        the dead"; "thought badly of him for his lack of concern"
+        [syn: {ill}] [ant: {well}]
+     10: with unusual distress or resentment or regret or emotional
+         display; "they took their defeat badly"; "took her
+         father's death badly"; "conducted himself very badly at
+         the time of the earthquake" [ant: {well}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

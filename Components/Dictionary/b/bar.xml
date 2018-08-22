@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>bar</Word>
+  <Definitions>
+    <Definition>
+      <Word>bar</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Bar
+   used to denote the means by which a door is bolted (Neh. 3:3); a
+   rock in the sea (Jonah 2:6); the shore of the sea (Job 38:10);
+   strong fortifications and powerful impediments, etc. (Isa. 45:2;
+   Amos 1:5); defences of a city (1 Kings 4:13). A bar for a door
+   was of iron (Isa. 45:2), brass (Ps. 107:16), or wood (Nah.
+   3:13).
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bar</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>bar
+     
+        1. &lt;programming, convention&gt; /bar/ The second {metasyntactic
+        variable}, after {foo} and before {baz}.  E.g. "Suppose
+        function FOO calls functions BAR..."
+     
+        2. Often appended to {foo} to produce {foobar}.
+     
+        [{Jargon File}]
+     
+        (1995-03-07)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bar</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bar \Bar\ (b[aum]r), n. [OE. barre, F. barre, fr. LL. barra, W.
+   bar the branch of a tree, bar, baren branch, Gael. &amp; Ir.
+   barra bar. [root]91.]
+   1. A piece of wood, metal, or other material, long in
+      proportion to its breadth or thickness, used as a lever
+      and for various other purposes, but especially for a
+      hindrance, obstruction, or fastening; as, the bars of a
+      fence or gate; the bar of a door.
+      [1913 Webster]
+
+            Thou shalt make bars of shittim wood. --Ex. xxvi.
+                                                  26.
+      [1913 Webster]
+
+   2. An indefinite quantity of some substance, so shaped as to
+      be long in proportion to its breadth and thickness; as, a
+      bar of gold or of lead; a bar of soap.
+      [1913 Webster]
+
+   3. Anything which obstructs, hinders, or prevents; an
+      obstruction; a barrier.
+      [1913 Webster]
+
+            Must I new bars to my own joy create? --Dryden.
+      [1913 Webster]
+
+   4. A bank of sand, gravel, or other matter, esp. at the mouth
+      of a river or harbor, obstructing navigation.
+      [1913 Webster]
+
+   5. Any railing that divides a room, or office, or hall of
+      assembly, in order to reserve a space for those having
+      special privileges; as, the bar of the House of Commons.
+      [1913 Webster]
+
+   6. (Law)
+      (a) The railing that incloses the place which counsel
+          occupy in courts of justice. Hence, the phrase at the
+          bar of the court signifies in open court.
+      (b) The place in court where prisoners are stationed for
+          arraignment, trial, or sentence.
+      (c) The whole body of lawyers licensed in a court or
+          district; the legal profession.
+      (d) A special plea constituting a sufficient answer to
+          plaintiff's action.
+          [1913 Webster]
+
+   7. Any tribunal; as, the bar of public opinion; the bar of
+      God.
+      [1913 Webster]
+
+   8. A barrier or counter, over which liquors and food are
+      passed to customers; hence, the portion of the room behind
+      the counter where liquors for sale are kept.
+      [1913 Webster]
+
+   9. (Her.) An ordinary, like a fess but narrower, occupying
+      only one fifth part of the field.
+      [1913 Webster]
+
+   10. A broad shaft, or band, or stripe; as, a bar of light; a
+       bar of color.
+       [1913 Webster]
+
+   11. (Mus.) A vertical line across the staff. Bars divide the
+       staff into spaces which represent measures, and are
+       themselves called measures.
+       [1913 Webster]
+
+   Note: A double bar marks the end of a strain or main division
+         of a movement, or of a whole piece of music; in
+         psalmody, it marks the end of a line of poetry. The
+         term bar is very often loosely used for measure, i.e.,
+         for such length of music, or of silence, as is included
+         between one bar and the next; as, a passage of eight
+         bars; two bars' rest.
+         [1913 Webster]
+
+   12. (Far.) pl.
+       (a) The space between the tusks and grinders in the upper
+           jaw of a horse, in which the bit is placed.
+       (b) The part of the crust of a horse's hoof which is bent
+           inwards towards the frog at the heel on each side,
+           and extends into the center of the sole.
+           [1913 Webster]
+
+   13. (Mining)
+       (a) A drilling or tamping rod.
+       (b) A vein or dike crossing a lode.
+           [1913 Webster]
+
+   14. (Arch.)
+       (a) A gatehouse of a castle or fortified town.
+       (b) A slender strip of wood which divides and supports
+           the glass of a window; a sash bar.
+           [1913 Webster]
+
+   {Bar shoe} (Far.), a kind of horseshoe having a bar across
+      the usual opening at the heel, to protect a tender frog
+      from injury.
+
+   {Bar shot}, a double headed shot, consisting of a bar, with a
+      ball or half ball at each end; -- formerly used for
+      destroying the masts or rigging in naval combat.
+
+   {Bar sinister} (Her.), a term popularly but erroneously used
+      for baton, a mark of illegitimacy. See {Baton}.
+
+   {Bar tracery} (Arch.), ornamental stonework resembling bars
+      of iron twisted into the forms required.
+
+   {Blank bar} (Law). See {Blank}.
+
+   {Case at bar} (Law), a case presently before the court; a
+      case under argument.
+
+   {In bar of}, as a sufficient reason against; to prevent.
+
+   {Matter in bar}, or {Defence in bar}, any matter which is a
+      final defense in an action.
+
+   {Plea in bar}, a plea which goes to bar or defeat the
+      plaintiff's action absolutely and entirely.
+
+   {Trial at bar} (Eng. Law), a trial before all the judges of
+      one the superior courts of Westminster, or before a quorum
+      representing the full court.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bar</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Bar \Bar\ (b[aum]r), v. t. [imp. &amp; p. p. {Barred} (b[aum]rd); p.
+   pr. &amp; vb. n. {Barring}.] [ F. barrer. See {Bar}, n.]
+   1. To fasten with a bar; as, to bar a door or gate.
+      [1913 Webster]
+
+   2. To restrict or confine, as if by a bar; to hinder; to
+      obstruct; to prevent; to prohibit; as, to bar the entrance
+      of evil; distance bars our intercourse; the statute bars
+      my right; the right is barred by time; a release bars the
+      plaintiff's recovery; -- sometimes with up.
+      [1913 Webster]
+
+            He barely looked the idea in the face, and hastened
+            to bar it in its dungeon.             --Hawthorne.
+      [1913 Webster]
+
+   3. To except; to exclude by exception.
+      [1913 Webster]
+
+            Nay, but I bar to-night: you shall not gauge me
+            By what we do to-night.               --Shak.
+      [1913 Webster]
+
+   4. To cross with one or more stripes or lines.
+      [1913 Webster]
+
+            For the sake of distinguishing the feet more
+            clearly, I have barred them singly.   --Burney.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bar</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>bar /bar/ n. 1. [very common] The second {metasyntactic variable},
+   after {foo} and before {baz}. "Suppose we have two functions: FOO and
+   BAR. FOO calls BAR...." 2. Often appended to {foo} to produce {foobar}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bar</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>BAR
+     Base Address Register (IC)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>bar</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>bar
+     n 1: a room or establishment where alcoholic drinks are served
+          over a counter; "he drowned his sorrows in whiskey at
+          the bar" [syn: {barroom}, {saloon}, {ginmill}, {taproom}]
+     2: a counter where you can obtain food or drink; "he bought a
+        hot dog and a coke at the bar"
+     3: a rigid piece of metal or wood; usually used as a fastening
+        or obstruction or weapon; "there were bars in the windows
+        to prevent escape"
+     4: musical notation for a repeating pattern of musical beats;
+        "the orchestra omitted the last twelve bars of the song"
+        [syn: {measure}]
+     5: an obstruction (usually metal) placed at the top of a goal;
+        "it was an excellent kick but the ball hit the bar"
+     6: the act of preventing; "there was no bar against leaving";
+        "money was allocated to study the cause and prevention of
+        influenza" [syn: {prevention}]
+     7: (meteorology) a unit of pressure equal to a million dynes
+        per square centimeter; "unfortunately some writers have
+        used bar for one dyne per square centimeter"
+     8: a submerged (or partly submerged) ridge in a river or along
+        a shore; "the boat ran aground on a submerged bar in the
+        river"
+     9: the body of individuals qualified to practice law in a
+        particular jurisdiction; "he was admitted to the bar in
+        New Jersey" [syn: {legal profession}, {legal community}]
+     10: a block of solid substance (such as soap or wax); "a bar of
+         chocolate" [syn: {cake}]
+     11: a portable .30 caliber magazine-fed automatic rifle operated
+         by gas pressure; used by United States troops in World
+         War I and in World War II and in the Korean War [syn: {Browning
+         automatic rifle}]
+     12: a horizontal rod that serves as a support for gymnasts as
+         they perform exercises
+     13: a heating element in an electric fire; "an electric fire
+         with three bars"
+     14: (law) a railing that encloses the part of the courtroom
+         where the judges and lawyers sit and the case is tried;
+         "spectators were not allowed past the bar"
+     v 1: prevent from entering; keep out; "He was barred from
+          membership in the club" [syn: {debar}, {exclude}]
+     2: render unsuitable for passage; "block the way"; "barricade
+        the streets"; "stop the busy road" [syn: {barricade}, {block},
+         {blockade}, {stop}, {block off}, {block up}]
+     3: expel, as if by official decree; "he was banished from his
+        own country" [syn: {banish}, {relegate}]
+     4: secure with, or as if with, bars; "He barred the door" [ant:
+         {unbar}]
+     [also: {barring}, {barred}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

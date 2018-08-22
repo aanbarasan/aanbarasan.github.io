@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>barely</Word>
+  <Definitions>
+    <Definition>
+      <Word>barely</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Barely \Bare"ly\, adv.
+   1. Without covering; nakedly.
+      [1913 Webster]
+
+   2. Without concealment or disguise.
+      [1913 Webster]
+
+   3. Merely; only.
+      [1913 Webster]
+
+            R. For now his son is duke.
+            W. Barely in title, not in revenue.   --Shak.
+      [1913 Webster]
+
+   4. But just; without any excess; with nothing to spare (of
+      quantity, time, etc.); hence, scarcely; hardly; as, there
+      was barely enough for all; he barely escaped.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>barely</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>barely
+     adv 1: by a small margin; "they could barely hear the speaker"; "we
+            hardly knew them"; "just missed being hit"; "had
+            scarcely rung the bell when the door flew open";
+            "would have scarce arrived before she would have found
+            some excuse to leave"- W.B.Yeats [syn: {hardly}, {just},
+             {scarcely}, {scarce}]
+     2: in a sparse or scanty way; "a barely furnished room" [syn: {scantily}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

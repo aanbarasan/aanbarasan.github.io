@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>area</Word>
+  <Definitions>
+    <Definition>
+      <Word>area</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Area \A"re*a\ ([=a]"r[-e]*[.a]; 277), n.; pl. {Areas} (-[.a]z) .
+   [L. area a broad piece of level ground. Cf. {Are}, n.]
+   1. Any plane surface, as of the floor of a room or church, or
+      of the ground within an inclosure; an open space in a
+      building.
+      [1913 Webster]
+
+            The Alban lake . . . looks like the area of some
+            vast amphitheater.                    --Addison.
+      [1913 Webster]
+
+   2. The inclosed space on which a building stands.
+      [1913 Webster]
+
+   3. The sunken space or court, giving ingress and affording
+      light to the basement of a building.
+      [1913 Webster]
+
+   4. An extent of surface; a tract of the earth's surface; a
+      region; as, vast uncultivated areas.
+      [1913 Webster]
+
+   5. (Geom.) The superficial contents of any figure; the
+      surface included within any given lines; superficial
+      extent; as, the area of a square or a triangle.
+      [1913 Webster]
+
+   6. (Biol.) A spot or small marked space; as, the germinative
+      area.
+      [1913 Webster]
+
+   7. Extent; scope; range; as, a wide area of thought.
+      [1913 Webster]
+
+            The largest area of human history and man's common
+            nature.                               --F. Harrison.
+      [1913 Webster]
+
+   {Dry area}. See under {Dry}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>area</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>area
+     n 1: a particular geographical region of indefinite boundary
+          (usually serving some special purpose or distinguished
+          by its people or culture or geography); "it was a
+          mountainous area"; "Bible country" [syn: {country}]
+     2: a particular environment or walk of life; "his social sphere
+        is limited"; "it was a closed area of employment"; "he's
+        out of my orbit" [syn: {sphere}, {domain}, {orbit}, {field},
+         {arena}]
+     3: a subject of study; "it was his area of specialization";
+        "areas of interest include..."
+     4: a part of a structure having some specific characteristic or
+        function; "the spacious cooking area provided plenty of
+        room for servants"
+     5: a part of an animal that has a special function or is
+        supplied by a given artery or nerve; "in the abdominal
+        region" [syn: {region}]
+     6: the extent of a 2-dimensional surface enclosed within a
+        boundary; "the area of a rectangle"; "it was about 500
+        square feet in area" [syn: {expanse}, {surface area}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

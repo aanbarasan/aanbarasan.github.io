@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>aware</Word>
+  <Definitions>
+    <Definition>
+      <Word>aware</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Aware \A*ware"\, a. [OE. iwar, AS. gew[ae]r, fr. w[ae]r wary.
+   The pref. ge- orig. meant together, completely. ?. See
+   {Wary}.]
+   1. Watchful; vigilant or on one's guard against danger or
+      difficulty.
+      [1913 Webster]
+
+   2. Apprised; informed; cognizant; conscious; as, he was aware
+      of the enemy's designs.
+      [1913 Webster]
+
+            Aware of nothing arduous in a task
+            They never undertook.                 --Cowper.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>aware</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>aware
+     adj 1: (sometimes followed by `of') having or showing realization
+            or perception; "was aware of his opponent's
+            hostility"; "became aware of her surroundings"; "aware
+            that he had exceeded the speed limit" [syn: {aware(p)}]
+            [ant: {unaware}]
+     2: bearing in mind; attentive to; "ever mindful of her health";
+        "mindful of his responsibilities"; "mindful of these
+        criticisms, I shall attempt to justify my action" [syn: {mindful}]
+        [ant: {unmindful}]
+     3: aware or knowing; "a witting tool of the Communists" [syn: {witting}]
+        [ant: {unwitting}]
+     4: (usually followed by `of') having knowledge or
+        understanding; "our youth are cognizant of the law"; "I am
+        well aware of his limitations" [syn: {cognizant}, {cognisant},
+         {well aware(p)}, {aware(p)}] [ant: {incognizant}]
+     5: alert and fully informed; "politically aware"; "a knowing
+        collector of rare books"; "the most...technically aware of
+        the novelists under thirty"- W.S.Graham; "surprisingly
+        knowledgeable about what was going on" [syn: {aware(p)}, {knowing},
+         {knowledgeable}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

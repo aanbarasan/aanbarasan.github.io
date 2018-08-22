@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>adorable</Word>
+  <Definitions>
+    <Definition>
+      <Word>adorable</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Adorable \A*dor"a*ble\, a. [L. adorabilis, fr. adorare: cf. F.
+   adorable.]
+   1. Deserving to be adored; worthy of divine honors.
+      [1913 Webster]
+
+            The adorable Author of Christianity.  --Cheyne.
+      [1913 Webster]
+
+   2. Worthy of the utmost love or respect.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>adorable</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>adorable
+     adj : lovable especially in a childlike or naive way [syn: {endearing},
+            {lovely}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

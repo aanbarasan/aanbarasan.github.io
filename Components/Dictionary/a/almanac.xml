@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>almanac</Word>
+  <Definitions>
+    <Definition>
+      <Word>almanac</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Almanac \Al"ma*nac\ (?; 277), n. [LL. almanac, almanach: cf. F.
+   almanach, Sp. almanaque, It. almanacco, all of uncertain
+   origin.]
+   A book or table, containing a calendar of days, and months,
+   to which astronomical data and various statistics are often
+   added, such as the times of the rising and setting of the sun
+   and moon, eclipses, hours of full tide, stated festivals of
+   churches, terms of courts, etc.
+   [1913 Webster]
+
+   {Nautical almanac}, an almanac, or year book, containing
+      astronomical calculations (lunar, stellar, etc.), and
+      other information useful to mariners.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>almanac</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>almanac
+     n 1: an annual publication including weather forecasts and other
+          miscellaneous information arranged according to the
+          calendar of a given year [syn: {farmer's calendar}]
+     2: an annual publication containing tabular information in a
+        particular field or fields arranged according to the
+        calendar of a given year
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

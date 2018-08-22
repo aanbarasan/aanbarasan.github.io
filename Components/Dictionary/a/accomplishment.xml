@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>accomplishment</Word>
+  <Definitions>
+    <Definition>
+      <Word>accomplishment</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Accomplishment \Ac*com"plish*ment\ (-ment), n. [F.
+   accomplissement, fr. accomplir.]
+   1. The act of accomplishing; entire performance; completion;
+      fulfillment; as, the accomplishment of an enterprise, of a
+      prophecy, etc.
+      [1913 Webster]
+
+   2. That which completes, perfects, or equips thoroughly;
+      acquirement; attainment; that which constitutes excellence
+      of mind, or elegance of manners, acquired by education or
+      training. ``My new accomplishment of dancing.''
+      --Churchill. ``Accomplishments befitting a station.''
+      --Thackeray.
+      [1913 Webster]
+
+            Accomplishments have taken virtue's place,
+            And wisdom falls before exterior grace. --Cowper.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>accomplishment</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>accomplishment
+     n 1: the action of accomplishing something [syn: {achievement}]
+     2: an ability that has been acquired by training [syn: {skill},
+         {acquirement}, {acquisition}, {attainment}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>balcony</Word>
+  <Definitions>
+    <Definition>
+      <Word>balcony</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Balcony \Bal"co*ny\ (b[a^]l"k[-o]*n[y^]; 277), n.; pl.
+   {Balconies} (b[a^]l"k[-o]*n[i^]z). [It. balcone; cf. It.
+   balco, palco, scaffold, fr. OHG. balcho, palcho, beam, G.
+   balken. See {Balk} beam.]
+   1. (Arch.) A platform projecting from the wall of a building,
+      usually resting on brackets or consoles, and inclosed by a
+      parapet; as, a balcony in front of a window. Also, a
+      projecting gallery in places of amusement; as, the balcony
+      in a theater.
+      [1913 Webster]
+
+   2. A projecting gallery once common at the stern of large
+      ships.
+      [1913 Webster]
+
+   Note: ``The accent has shifted from the second to the first
+         syllable within these twenty years.'' --Smart (1836).
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>balcony</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>balcony
+     n 1: an upper floor projecting from the rear over the main floor
+          in an auditorium
+     2: a platform projecting from the wall of a building and
+        surrounded by a balustrade or railing or parapet
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

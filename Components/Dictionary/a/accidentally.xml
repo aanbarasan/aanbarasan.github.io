@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>accidentally</Word>
+  <Definitions>
+    <Definition>
+      <Word>accidentally</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Accidentally \Ac`ci*den"tal*ly\, adv.
+   In an accidental manner; unexpectedly; by chance;
+   unintentionally; casually; fortuitously; not essentially.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>accidentally</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>accidentally
+     adv 1: without advance planning; "they met accidentally" [syn: {by
+            chance}, {circumstantially}, {unexpectedly}] [ant: {intentionally}]
+     2: in an incidental manner; "these magnificent achievements
+        were only incidentally influenced by Oriental models"
+        [syn: {incidentally}, {by chance}]
+     3: without intention; in an unintentional manner; "she hit him
+        unintentionally" [syn: {unintentionally}] [ant: {intentionally},
+         {intentionally}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

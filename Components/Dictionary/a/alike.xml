@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>alike</Word>
+  <Definitions>
+    <Definition>
+      <Word>alike</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Alike \A*like"\ ([.a]*l[imac]k), a. [AS. onl[=i]c, gel[=i]c;
+   pref. [=a] + like.]
+   Having resemblance or similitude; similar; without
+   difference. [Now used only predicatively.]
+   [1913 Webster]
+
+         The darkness and the light are both alike to thee.
+                                                  --Ps. cxxxix.
+                                                  12.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>alike</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Alike \A*like"\, adv. [AS. gel[=i]ce, onl[=i]ce.]
+   In the same manner, form, or degree; in common; equally; as,
+   we are all alike concerned in religion.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>alike</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>alike
+     adj : having the same or similar characteristics; "all politicians
+           are alike"; "they looked utterly alike"; "friends are
+           generaly alike in background and taste" [syn: {alike(p)},
+            {similar}, {like}] [ant: {unalike}]
+     adv 1: equally; "parents and teachers alike demanded reforms" [syn:
+             {likewise}]
+     2: in a like manner; "they walk alike"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

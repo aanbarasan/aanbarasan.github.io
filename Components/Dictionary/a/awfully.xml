@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>awfully</Word>
+  <Definitions>
+    <Definition>
+      <Word>awfully</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Awfully \Aw"ful*ly\, adv.
+   1. In an awful manner; in a manner to fill with terror or
+      awe; fearfully; reverently.
+      [1913 Webster]
+
+   2. Very; excessively. [Slang]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>awfully</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>awfully
+     adv 1: used as intensifiers; "terribly interesting"; "I'm awful
+            sorry" [syn: {terribly}, {awful}, {frightfully}]
+     2: of a dreadful kind; "there was a dreadfully bloody accident
+        on the road this morning" [syn: {dreadfully}, {horribly}]
+     3: in a terrible manner; "she sings terribly" [syn: {terribly},
+         {atrociously}, {abominably}, {abysmally}, {rottenly}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

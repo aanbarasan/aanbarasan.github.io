@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>backup</Word>
+  <Definitions>
+    <Definition>
+      <Word>backup</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>backup
+     
+        &lt;operating system&gt; (Sometimes "back up" when used as a verb) A
+        spare copy of a file, file system or other resource for use in
+        the event of failure or loss of the original.
+     
+        The term is most commonly used to refer to a copy of all the
+        files on a computer's {disks} which is made periodically and
+        kept on {magnetic tape} or other removable medium (also called
+        a "{dump}").
+     
+        This essential precaution is neglected by most new computer
+        users until the first time they experience a {disk crash} or
+        accidentally delete the only copy of the file they have been
+        working on for the last six months.
+     
+        Ideally the backup copies should be kept at a different site
+        or in a fire safe since, though your hardware may be insured
+        against fire, the data on it is almost certainly neither
+        insured nor easily replaced.
+     
+        See also {differential backup}, {incremental backup}, {full
+        backup}.  Compare {archive}.
+     
+        (2003-06-22)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>backup</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>back up \back" up\, v. i.
+   1. to move in a reverse direction; -- used of vehicles or
+      animals.
+      [PJC]
+
+   2. to accumulate due to a blockage of flow; as, a traffic
+      backup due to an accident; a sewage backup.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>backup</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>back up \back" up\, v. t.
+   1. to serve as a backup[3] for (another person or persons);
+      as, the patrolmen backed up the detectives as they went
+      inside to make the arrest; the center fielder backed up
+      the shortstop on the play.
+      [PJC]
+
+   2. (Computers) to make a backup[5] of; as, the sysop backed
+      up the purchasing data files every night.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>backup</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>backup \back"up\, n.
+   1. anything kept in reserve to serve as a substitute in case
+      of failure or unavailability of the normal or primary
+      object; -- used for devices, plans, people, etc. Also used
+      attributively; as, there was no backup for the electrical
+      supply; a backup motor; a backup generator.
+      [PJC]
+
+   2. (Music) a musician or group of musicians accompanying a
+      soloist, whether vocalists or instrumentalists.
+
+   Syn: accompaniment. [PJC]
+
+   3. a person or group of persons serving as reinforcement for
+      another or others; as, the policeman called for backup
+      when he was fired on.
+      [PJC]
+
+   4. an accumulation, overflow, or reverse flow (in traffic or
+      a liquid flow system) caused by a stoppage or other
+      malfunction.
+      [PJC]
+
+   5. (Computers) A copy of a program or data from a computer
+      onto a data-storage medium, usually one that may be
+      removed to safe storage at a distance from the computer;
+      it is used to preserve data for use in the contingency
+      that the original data on the computer may be lost or
+      become unusable. A backup that is removed from the
+      building housing the computer system (to provide
+      protection against loss of data in a disastrous event such
+      as a fire) is called off-site backup. Also used
+      attributively; as, backup copy.
+      [PJC]
+
+   6. (Computers) The act or process of creating a backup[5];
+      as, they performed a full system backup every weekend.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>backup</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>back up
+     v 1: give moral or psychological support, aid, or courage to;
+          "She supported him during the illness"; "Her children
+          always backed her up" [syn: {support}]
+     2: move backwards from a certain position; "The bully had to
+        back down" [syn: {back off}, {back down}]
+     3: establish as valid or genuine; "Can you back up your
+        claims?" [syn: {back}]
+     4: make a copy of (a computer file) especially for storage in
+        another place as a security cop; "You'd better back up
+        these files!"
+     5: become or cause to become obstructed; "The leaves clog our
+        drains in the Fall"; "The water pipe is backed up" [syn: {clog},
+         {choke off}, {clog up}, {congest}, {choke}, {foul}] [ant:
+         {unclog}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>backup</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>backup
+     n 1: an accumulation caused by clogging or a stoppage; "a traffic
+          backup on the main street"; "he discovered a backup in
+          the toilet"
+     2: someone who takes the place of another (as when things get
+        dangerous or difficult); "the star had a stand-in for
+        dangerous scenes"; "we need extra employees for summer
+        fill-ins" [syn: {stand-in}, {substitute}, {relief}, {reliever},
+         {backup man}, {fill-in}]
+     3: a subordinate musical part; provides background for more
+        important parts [syn: {accompaniment}, {musical
+        accompaniment}, {support}]
+     4: (computer science) a copy of a file or directory on a
+        separate storage device; "he made a backup in case the
+        original was accidentally damaged or erased" [syn: {computer
+        backup}]
+     5: the act of providing approval and support; "his vigorous
+        backing of the conservatives got him in trouble with
+        progressives" [syn: {backing}, {championship}, {patronage}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>
