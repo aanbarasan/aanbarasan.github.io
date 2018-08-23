@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>whimsical</Word>
+  <Definitions>
+    <Definition>
+      <Word>whimsical</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Whimsical \Whim"si*cal\, a. [From {Whimsey}.]
+   [1913 Webster]
+   1. Full of, or characterized by, whims; actuated by a whim;
+      having peculiar notions; queer; strange; freakish. ``A
+      whimsical insult.'' --Macaulay.
+      [1913 Webster]
+
+            My neighbors call me whimsical.       --Addison.
+      [1913 Webster]
+
+   2. Odd or fantastic in appearance; quaintly devised;
+      fantastic. ``A whimsical chair.'' --Evelyn.
+      [1913 Webster]
+
+   Syn: Quaint; capricious; fanciful; fantastic.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>whimsical</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>whimsical
+     adj : determined by chance or impulse or whim rather than by
+           necessity or reason; "a capricious refusal";
+           "authoritarian rulers are frequently capricious"; "the
+           victim of whimsical persecutions" [syn: {capricious}, {impulsive}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

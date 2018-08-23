@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>transferable</Word>
+  <Definitions>
+    <Definition>
+      <Word>transferable</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Transferable \Trans*fer"a*ble\ (?; 277), a. [Cf. F.
+   transf['e]rable.]
+   1. Capable of being transferred or conveyed from one place or
+      person to another.
+      [1913 Webster]
+
+   2. Negotiable, as a note, bill of exchange, or other evidence
+      of property, that may be conveyed from one person to
+      another by indorsement or other writing; capable of being
+      transferred with no loss of value; as, the stocks of most
+      public companies are transferable; some tickets are not
+      transferable.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>transferable</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>transferable
+     adj 1: capable of being moved or conveyed from one place to another
+            [syn: {movable}, {moveable}, {transferrable}, {transportable}]
+     2: legally transferable to the ownership of another;
+        "negotiable bonds" [syn: {assignable}, {conveyable}, {negotiable},
+         {transferrable}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rupert</Word>
+  <Definitions>
+    <Definition>
+      <Word>rupert</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Rupert, GA
+  Zip code(s): 31081
+Rupert, ID (city, FIPS 70660)
+  Location: 42.61806 N, 113.67370 W
+  Population (1990): 5455 (2129 housing units)
+  Area: 4.7 sq km (land), 0.0 sq km (water)
+Rupert, WV (town, FIPS 70828)
+  Location: 37.96584 N, 80.68731 W
+  Population (1990): 1104 (472 housing units)
+  Area: 2.0 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rupert</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Rupert
+     n : English leader (born in Germany) of the Royalist forces
+         during the English Civil War (1619-1682) [syn: {Prince
+         Rupert}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

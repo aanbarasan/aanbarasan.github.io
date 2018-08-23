@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>predisposition</Word>
+  <Definitions>
+    <Definition>
+      <Word>predisposition</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Predisposition \Pre*dis`po*si"tion\, n. [Pref. pre- +
+   disposition: cf. F. pr['e]disposition.]
+   1. The act of predisposing, or the state of being
+      predisposed; previous inclination, tendency, or
+      propensity; predilection; -- applied to the mind; as, a
+      predisposition to anger.
+      [1913 Webster]
+
+   2. Previous fitness or adaptation to any change, impression,
+      or purpose; susceptibility; -- applied to material things;
+      as, the predisposition of the body to disease.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>predisposition</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>predisposition
+     n 1: susceptibility to a pathogen [syn: {sensitivity}]
+     2: an inclination beforehand to interpret statements in a
+        particular way
+     3: a disposition in advance to react in a particular way
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

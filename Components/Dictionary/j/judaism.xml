@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>judaism</Word>
+  <Definitions>
+    <Definition>
+      <Word>judaism</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Judaism \Ju"da*ism\, prop. n. [L. Juda["i]smus: cf. F.
+   juda["i]sme.]
+   1. The religious doctrines and rites of the Jews as enjoined
+      in the laws of Moses, and for many adherents, in the
+      Talmud. --J. S. Mill.
+      [1913 Webster]
+
+   2. Conformity to the Jewish rites and ceremonies; the
+      practise of Judaism[1].
+      [1913 Webster]
+
+   3. The adherents of Judaism[1] collectively; jewry.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>judaism</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Judaism
+     n 1: Jews collectively who practice a religion based on the Torah
+          and the Talmud [syn: {Hebraism}, {Jewish religion}]
+     2: the monotheistic religion of the Jews having its spiritual
+        and ethical principles embodied chiefly in the Torah and
+        in the Talmud
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

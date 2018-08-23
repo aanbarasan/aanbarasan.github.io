@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>piggybacking</Word>
+  <Definitions>
+    <Definition>
+      <Word>piggybacking</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>piggybacking
+     
+        1. A method for passing {acknowledgement frame}s and {data
+        frame}s in the same direction along a line.
+     
+        2. The practice of increasing memory capacity by soldering
+        chips on top of other chips.  The chip-enable or high address
+        pins would be connected to the {address bus} by a flying lead.
+        Many {Ohio Superboard}s were expanded to a massive 8K of {RAM}
+        in this way.
+     
+        (1994-11-29)
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sum</Word>
+  <Definitions>
+    <Definition>
+      <Word>sum</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>sum
+     
+        1. &lt;theory&gt; In {domain theory}, the sum A + B of two {domain}s
+        contains all elements of both domains, modified to indicate
+        which part of the union they come from, plus a new {bottom}
+        element.  There are two constructor functions associated with
+        the sum:
+     
+        	inA : A -&gt; A+B       inB : B -&gt; A+B
+        	inA(a) = (0,a)	     inB(b) = (1,b)
+     
+        and a disassembly operation:
+     
+        	case d of {isA(x) -&gt; E1; isB(x) -&gt; E2}
+     
+        This can be generalised to arbitrary numbers of domains.
+     
+        See also {smash sum}, {disjoint union}.
+     
+        2. &lt;tool&gt; A {Unix} utility to calculate a 16-bit {checksum} of
+        the data in a file.  It also displays the size of the file,
+        either in {kilobyte}s or in 512-byte blocks.  The checksum may
+        differ on machines with 16-bit and 32-bit ints.
+     
+        {Unix manual page}: sum(1).
+     
+        (1995-03-16)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sum</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sum \Sum\, v. t. [imp. &amp; p. p. {Summed}; p. pr. &amp; vb. n.
+   {Summing}.] [Cf. F. sommer, LL. summare.]
+   1. To bring together into one whole; to collect into one
+      amount; to cast up, as a column of figures; to ascertain
+      the totality of; -- usually with up.
+      [1913 Webster]
+
+            The mind doth value every moment, and then the hour
+            doth rather sum up the moments, than divide the day.
+                                                  --Bacon.
+      [1913 Webster]
+
+   2. To bring or collect into a small compass; to comprise in a
+      few words; to condense; -- usually with up.
+      [1913 Webster]
+
+            ``Go to the ant, thou sluggard,'' in few words sums
+            up the moral of this fable.           --L'Estrange.
+      [1913 Webster]
+
+            He sums their virtues in himself alone. --Dryden.
+      [1913 Webster]
+
+   3. (Falconry) To have (the feathers) full grown; to furnish
+      with complete, or full-grown, plumage.
+      [1913 Webster]
+
+            But feathered soon and fledge
+            They summed their pens [wings].       --Milton.
+      [1913 Webster]
+
+   {Summing up}, a compendium or abridgment; a recapitulation; a
+      r['e]sum['e]; a summary.
+      [1913 Webster]
+
+   Syn: To cast up; collect; comprise; condense; comprehend;
+        compute.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sum</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sum \Sum\, n. [OE. summe, somme, OF. sume, some, F. somme, L.
+   summa, fr. summus highest, a superlative from sub under. See
+   {Sub-}, and cf. {Supreme}.]
+   1. The aggregate of two or more numbers, magnitudes,
+      quantities, or particulars; the amount or whole of any
+      number of individuals or particulars added together; as,
+      the sum of 5 and 7 is 12.
+      [1913 Webster]
+
+            Take ye the sum of all the congregation. --Num. i.
+                                                  2.
+      [1913 Webster]
+
+   Note: Sum is now commonly applied to an aggregate of numbers,
+         and number to an aggregate of persons or things.
+         [1913 Webster]
+
+   2. A quantity of money or currency; any amount, indefinitely;
+      as, a sum of money; a small sum, or a large sum. ``The sum
+      of forty pound.'' --Chaucer.
+      [1913 Webster]
+
+            With a great sum obtained I this freedom. --Acts
+                                                  xxii. 28.
+      [1913 Webster]
+
+   3. The principal points or thoughts when viewed together; the
+      amount; the substance; compendium; as, this is the sum of
+      all the evidence in the case; this is the sum and
+      substance of his objections.
+      [1913 Webster]
+
+   4. Height; completion; utmost degree.
+      [1913 Webster]
+
+            Thus have I told thee all my state, and brought
+            My story to the sum of earthly bliss. --Milton.
+      [1913 Webster]
+
+   5. (Arith.) A problem to be solved, or an example to be
+      wrought out. --Macaulay.
+      [1913 Webster]
+
+            A sum in arithmetic wherein a flaw discovered at a
+            particular point is ipso facto fatal to the whole.
+                                                  --Gladstone.
+      [1913 Webster]
+
+            A large sheet of paper . . . covered with long sums.
+                                                  --Dickens.
+      [1913 Webster]
+
+   {Algebraic sum}, as distinguished from arithmetical sum, the
+      aggregate of two or more numbers or quantities taken with
+      regard to their signs, as + or -, according to the rules
+      of addition in algebra; thus, the algebraic sum of -2, 8,
+      and -1 is 5.
+
+   {In sum}, in short; in brief. [Obs.] ``In sum, the gospel . .
+      . prescribes every virtue to our conduct, and forbids
+      every sin.'' --Rogers.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sum</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sum
+     n 1: a quantity of money; "he borrowed a large sum"; "the amount
+          he had in cash was insufficient" [syn: {sum of money}, {amount},
+           {amount of money}]
+     2: a quantity obtained by addition [syn: {amount}, {total}]
+     3: the final aggregate; "the sum of all our troubles did not
+        equal the misery they suffered" [syn: {summation}, {sum
+        total}]
+     4: the choicest or most essential or most vital part of some
+        idea or experience; "the gist of the prosecutor's
+        argument"; "the heart and soul of the Republican Party";
+        "the nub of the story" [syn: {kernel}, {substance}, {core},
+         {center}, {essence}, {gist}, {heart}, {heart and soul}, {inwardness},
+         {marrow}, {meat}, {nub}, {pith}, {nitty-gritty}]
+     5: the whole amount [syn: {total}, {totality}, {aggregate}]
+     6: the basic unit of money in Uzbekistan
+     7: a set containing all and only the members of two or more
+        given sets; "let C be the union of the sets A and B" [syn:
+         {union}, {join}]
+     v 1: be a summary of; "The abstract summarizes the main ideas in
+          the paper" [syn: {summarize}, {summarise}, {sum up}]
+     2: determine the sum of; "Add all the people in this town to
+        those of the neighboring town" [syn: {total}, {tot}, {tot
+        up}, {sum up}, {summate}, {tote up}, {add}, {add together},
+         {tally}, {add up}]
+     [also: {summing}, {summed}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

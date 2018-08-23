@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>university</Word>
+  <Definitions>
+    <Definition>
+      <Word>university</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>University, MS
+  Zip code(s): 38677
+University, VA
+  Zip code(s): 22903
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>university</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>University \U`ni*ver"si*ty\, n.; pl. {Universities}. [OE.
+   universite, L. universitas all together, the whole, the
+   universe, a number of persons associated into one body, a
+   society, corporation, fr. universus all together, universal:
+   cf. F. universit['e]. See {Universe}.]
+   1. The universe; the whole. [Obs.] --Dr. H. More.
+      [1913 Webster]
+
+   2. An association, society, guild, or corporation, esp. one
+      capable of having and acquiring property. [Obs.]
+      [1913 Webster]
+
+            The universities, or corporate bodies, at Rome were
+            very numerous. There were corporations of bakers,
+            farmers of the revenue, scribes, and others. --Eng.
+                                                  Cyc.
+      [1913 Webster]
+
+   3. An institution organized and incorporated for the purpose
+      of imparting instruction, examining students, and
+      otherwise promoting education in the higher branches of
+      literature, science, art, etc., empowered to confer
+      degrees in the several arts and faculties, as in theology,
+      law, medicine, music, etc. A university may exist without
+      having any college connected with it, or it may consist of
+      but one college, or it may comprise an assemblage of
+      colleges established in any place, with professors for
+      instructing students in the sciences and other branches of
+      learning. In modern usage, a university is expected to
+      have both an undergraduate division, granting bachelor's
+      degrees, and a graduate division, granting master's or
+      doctoral degrees, but there are some exceptions. In
+      addition, a modern university typically also supports
+      research by its faculty
+      [1913 Webster]
+
+            The present universities of Europe were, originally,
+            the greater part of them, ecclesiastical
+            corporations, instituted for the education of
+            churchmen . . . What was taught in the greater part
+            of those universities was suitable to the end of
+            their institutions, either theology or something
+            that was merely preparatory to theology. --A. Smith.
+      [1913 Webster]
+
+   Note: From the Roman words universitas, collegium, corpus,
+         are derived the terms university, college, and
+         corporation, of modern languages; and though these
+         words have obtained modified significations in modern
+         times, so as to be indifferently applicable to the same
+         things, they all agree in retaining the fundamental
+         signification of the terms, whatever may have been
+         added to them. There is now no university, college, or
+         corporation, which is not a juristical person in the
+         sense above explained [see def. 2, above]; wherever
+         these words are applied to any association of persons
+         not stamped with this mark, it is an abuse of terms.
+         --Eng. Cyc.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>university</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>university
+     n 1: the body of faculty and students at a university
+     2: establishment where a seat of higher learning is housed,
+        including administrative and living quarters as well as
+        facilities for research and teaching
+     3: a large and diverse institution of higher learning created
+        to educate for life and for a profession and to grant
+        degrees
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

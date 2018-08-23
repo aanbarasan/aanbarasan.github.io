@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>reciprocity</Word>
+  <Definitions>
+    <Definition>
+      <Word>reciprocity</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Reciprocity \Rec`i*proc"i*ty\ (r[e^]s`[i^]*pr[o^]s"[i^]*t[y^]),
+   n. [Cf. F. r['e]ciprocit['e]. See {Reciprocal}.]
+   1. Mutual action and reaction.
+      [1913 Webster]
+
+   2. Reciprocal advantages, obligations, or rights;
+      reciprocation.
+      [1913 Webster]
+
+   {Reciprocity treaty}, or {Treaty of reciprocity}, a treaty
+      concluded between two countries, conferring equal
+      privileges as regards customs or charges on imports, or in
+      other respects.
+      [1913 Webster]
+
+   Syn: Reciprocation; interchange; mutuality.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>reciprocity</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>reciprocity
+     n 1: a relation of mutual dependence or action or influence [syn:
+           {reciprocality}]
+     2: mutual exchange of commercial or other privileges
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

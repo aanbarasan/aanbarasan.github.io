@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>leak</Word>
+  <Definitions>
+    <Definition>
+      <Word>leak</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>leak
+     
+        &lt;programming&gt; With a qualifier, one of a class of
+        resource-management bugs that occur when resources are not
+        freed properly after operations on them are finished, so they
+        effectively disappear (leak out).  This leads to eventual
+        exhaustion as new allocation requests come in.
+     
+        One might refer to, say, a "window handle leak" in a {window
+        system}.
+     
+        See {memory leak}, {fd leak}.
+     
+        [{Jargon File}]
+     
+        (1995-04-18)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>leak</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Leak \Leak\, v. i. [imp. &amp; p. p. {Leaked} (l[=e]kt); p. pr. &amp;
+   vb. n. {Leaking}.] [Akin to D. lekken, G. lecken, lechen,
+   Icel. leka, Dan. l[ae]kke, Sw. l["a]cka, AS. leccan to wet,
+   moisten. See {Leak}, n.]
+   1. To let water or other fluid in or out through a hole,
+      crevice, etc.; as, the cask leaks; the roof leaks; the
+      boat leaks.
+      [1913 Webster]
+
+   2. To enter or escape, as a fluid, through a hole, crevice,
+      etc.; to pass gradually into, or out of, something; --
+      usually with in or out.
+      [1913 Webster]
+
+   {To leak out}, to be divulged gradually or clandestinely; to
+      become public; as, the facts leaked out.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>leak</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Leak \Leak\, a.
+   Leaky. [Obs.] --Spenser.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>leak</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Leak \Leak\ (l[=e]k), n. [Akin to D. lek leaky, a leak, G. leck,
+   Icel. lekr leaky, Dan. l[ae]k leaky, a leak, Sw. l["a]ck; cf.
+   AS. hlec full of cracks or leaky. Cf. {Leak}, v.]
+   1. A crack, crevice, fissure, or hole which admits water or
+      other fluid, or lets it escape; as, a leak in a roof; a
+      leak in a boat; a leak in a gas pipe. ``One leak will sink
+      a ship.'' --Bunyan.
+      [1913 Webster]
+
+   2. The entrance or escape of a fluid through a crack,
+      fissure, or other aperture; as, the leak gained on the
+      ship's pumps.
+      [1913 Webster]
+
+   3. (Elec.) A loss of electricity through imperfect
+      insulation; also, the point at which such loss occurs.
+      [Webster 1913 Suppl.]
+
+   4. an act of urinating; -- used mostly in the phrase
+
+   {take a leak}, i. e. to urinate. [vulgar]
+      [PJC]
+
+   5. The disclosure of information that is expected to be kept
+      confidential; as, leaks by the White House staff
+      infuriated Nixon; leaks by the Special Prosecutor were
+      criticized as illegal.
+      [PJC]
+
+   {To spring a leak}, to open or crack so as to let in water;
+      to begin to let in water; as, the ship sprung a leak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>leak</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>leak n. With qualifier, one of a class of resource-management bugs that
+   occur when resources are not freed properly after operations on them are
+   finished, so they effectively disappear (leak out). This leads to
+   eventual exhaustion as new allocation requests come in. {memory leak}
+   and {fd leak} have their own entries; one might also refer, to, say, a
+   `window handle leak' in a window system.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>leak</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>leak
+     n 1: an accidental hole that allows something (fluid or light
+          etc.) to enter or escape; "one of the tires developed a
+          leak"
+     2: soft watery rot in fruits and vegetables caused by fungi
+     3: a euphemism for urination; "he had to take a leak" [syn: {wetting},
+         {making water}, {passing water}]
+     4: the unwanted discharge of a fluid from some container; "they
+        tried to stop the escape of gas from the damaged pipe";
+        "he had to clean up the leak" [syn: {escape}, {leakage}, {outflow}]
+     5: unauthorized (especially deliberate) disclosure of
+        confidential information [syn: {news leak}]
+     v 1: tell anonymously; "The news were leaked to the paper"
+     2: be leaked; "The news leaked out despite his secrecy" [syn: {leak
+        out}]
+     3: enter or escape as through a hole or crack or fissure;
+        "Water leaked out of the can into the backpack"; "Gas
+        leaked into the basement"
+     4: have an opening that allows light or substances to enter or
+        go out; "The container leaked gasoline"; "the roof leaks
+        badly"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

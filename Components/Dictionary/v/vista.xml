@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>vista</Word>
+  <Definitions>
+    <Definition>
+      <Word>vista</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Vista, CA (city, FIPS 82996)
+  Location: 33.18878 N, 117.23822 W
+  Population (1990): 71872 (27418 housing units)
+  Area: 46.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 92083, 92084
+Vista, MO (village, FIPS 76390)
+  Location: 37.98879 N, 93.66383 W
+  Population (1990): 50 (25 housing units)
+  Area: 0.3 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>vista</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Vista \Vis"ta\, n.; pl. {Vistas}. [It., sight, view, fr. vedere,
+   p. p. visto, veduto, to see, fr. L. videre, visum. See
+   {View}, {Vision}.]
+   A view; especially, a view through or between intervening
+   objects, as trees; a view or prospect through an avenue, or
+   the like; hence, the trees or other objects that form the
+   avenue.
+   [1913 Webster]
+
+         The finished garden to the view
+         Its vistas opens, and its alleys green.  --Thomson.
+   [1913 Webster]
+
+         In the groves of their academy, at the end of every
+         vista, you see nothing but the gallows.  --Burke.
+   [1913 Webster]
+
+         The shattered tower which now forms a vista from his
+         window.                                  --Sir W.
+                                                  Scott.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>vista</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>vista
+     n : the visual percept of a region; "the most desirable feature
+         of the park are the beautiful views" [syn: {view}, {aspect},
+          {prospect}, {scene}, {panorama}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>toto</Word>
+  <Definitions>
+    <Definition>
+      <Word>toto</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>toto
+     
+        &lt;programming&gt; /toh-toh'/ The default scratch file name among
+        French-speaking programmers - in other words, a francophone
+        {foo}.  The phonetic mutations "titi", "tata", and "tutu"
+        canonically follow "toto", analogously to {bar}, {baz} and
+        {quux} in English.
+     
+        [{Jargon File}]
+     
+        (1995-04-18)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>toto</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Toto, GU (CDP, FIPS 73550)
+  Location: 13.46551 N, 144.77724 E
+  Population (1990): 2363 (597 housing units)
+  Area: 1.6 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

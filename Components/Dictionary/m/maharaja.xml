@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>maharaja</Word>
+  <Definitions>
+    <Definition>
+      <Word>maharaja</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>maharaja \maharaja\, maharajah \ma*ha*ra"jah\, n. [Skr.
+   mah[=a]r[=a]ja; mahat great + r[=a]ja king.]
+   A sovereign prince in India; a Hindu prince or king in India
+   ranking above a raja; -- a title given also to other persons
+   of high rank.
+   [1913 Webster + WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>maharaja</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>maharaja
+     n : a great raja; a Hindu prince or king in India ranking above
+         a raja [syn: {maharajah}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

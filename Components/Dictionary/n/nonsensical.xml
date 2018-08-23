@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nonsensical</Word>
+  <Definitions>
+    <Definition>
+      <Word>nonsensical</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Nonsensical \Non*sen"si*cal\, a.
+   Without sense; unmeaning; absurd; foolish; irrational;
+   preposterous. -- {Non*sen"si*cal*ly}, adv. --
+   {Non*sen"si*cal*ness}, n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nonsensical</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nonsensical
+     adj 1: completely devoid of wisdom or good sense; "the absurd
+            excuse that the dog ate his homework"; "that's a
+            cockeyed idea"; "ask a nonsensical question and get a
+            nonsensical answer"; "a contribution so small as to be
+            laughable"; "it is ludicrous to call a cottage a
+            mansion"; "a preposterous attempt to turn back the
+            pages of history"; "her conceited assumption of
+            universal interest in her rather dull children was
+            ridiculous" [syn: {absurd}, {cockeyed}, {derisory}, {idiotic},
+             {laughable}, {ludicrous}, {preposterous}, {ridiculous}]
+     2: having no intelligible meaning; "nonsense syllables"; "a
+        nonsensical jumble of words" [syn: {nonsense(a)}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

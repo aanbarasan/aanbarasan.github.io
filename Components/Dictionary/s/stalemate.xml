@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>stalemate</Word>
+  <Definitions>
+    <Definition>
+      <Word>stalemate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Stalemate \Stale"mate`\ (-m[=a]t`), n. (Chess)
+   The position of the king when he can not move without being
+   placed in check and there is no other piece which can be
+   moved.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stalemate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Stalemate \Stale"mate`\, v. t. (Chess)
+   To subject to a stalemate; hence, to bring to a stand.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stalemate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>stalemate
+     n 1: a situation in which no progress can be made or no
+          advancement is possible; "reached an impasse on the
+          negotiations" [syn: {deadlock}, {dead end}, {impasse}, {standstill}]
+     2: drawing position in chess: any of a player's possible moves
+        would place his king in check
+     v : subject to a stalemate
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

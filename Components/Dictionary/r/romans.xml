@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>romans</Word>
+  <Definitions>
+    <Definition>
+      <Word>romans</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Romans
+     n : a New Testament book containing an exposition of the
+         doctrines of Saint Paul; written in AD 58 [syn: {Epistle
+         of Paul the Apostle to the Romans}, {Epistle to the
+         Romans}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

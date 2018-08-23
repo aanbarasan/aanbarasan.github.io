@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nova</Word>
+  <Definitions>
+    <Definition>
+      <Word>nova</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Nova
+     
+        &lt;processor&gt; A {minicomputer}(?), introduced some time before
+        1978, with four 16-bit {accumulator}s, AC0 to AC3 and a 15 bit
+        {program counter}.  A later model also had a 15-bit {stack
+        pointer} and {frame pointer}.  AC2 and AC3 could be used for
+        indexed addresses and AC3 was used to store the return address
+        on a {subroutine} call.  Apart from the small {register set},
+        the NOVA was an ordinary {CPU} design.
+     
+        Memory could be access indirectly through addresses stored in
+        other memory locations.  If locations 0 to 3 were used for
+        this purpose, they were auto-incremented after being used.  If
+        locations 4 to 7 were used, they were auto-decremented.
+        Memory could be addressed in 16-bit words up to a maximum of
+        32K words (64K bytes).  The instruction cycle time was 500
+        {nanoseconds}(?) cycle time for each.  The Nova originally
+        used {core memory} though later on they gained {dynamic RAM}.
+     
+        Like the {PDP-8}, the {Data General} Nova was also copied, not
+        just in one, but two implementations - the {Data General
+        MN601} and {Fairchild 9440}.  Luckily, the NOVA was a more
+        mature design than the PDP-8.
+     
+        Another CPU, the {PACE}, was based on the NOVA design, but
+        featured 16-bit addresses (instead of the Nova's 15), more
+        {addressing mode}s and a 10-level {stack} (like the {Intel
+        8008}).
+     
+        [Date, speed, mini?]
+     
+        (1996-03-01)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nova</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Nova, OH
+  Zip code(s): 44859
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nova</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Nova \No"va\ (n[=o]"v[.a]), n.; pl. L. {Novae} (n[=o]"v[=e]), E.
+   {Novas} (n[=o]"v[.a]z). [L., fem. sing. of novus new.]
+   (Astron.)
+   A star which suddenly increases in brightness thousands of
+   times, then fades back to near its original intensity. It may
+   appear as a ``new'' star if its original brightness was too
+   low for routine observation. A star which suddenly increases
+   in brightness to many millions of times its original
+   intensity is a {supernova}, and the postulated mechanisms for
+   the increases of brightness of novae and supernovae are
+   different.
+
+   Note: The most important modern nov[ae] are:
+
+   {No"va Co*ro"n[ae] Bo`re*a"lis}[1866];
+
+   {No"va Cyg"ni}[1876];
+
+   {No"va An*dro"me*d[ae]}[1885];
+
+   {No"va Au*ri"g[ae]}[1891-92];
+
+   {No"va Per"se*i}[1901]. There are two nov[ae] called {Nova
+      Persei}. They are:
+   (a) A small nova which appeared in 1881.
+   (b) An extraordinary nova which appeared in Perseus in 1901.
+       It was first sighted on February 22, and for one night
+       (February 23) was the brightest star in the sky. By July
+       it had almost disappeared, after which faint surrounding
+       nebulous masses were discovered, apparently moving
+       radially outward from the star at incredible velocity.
+       [Webster 1913 Suppl. +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nova</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nova
+     n : a star that ejects some of its material in the form of a
+         cloud and become more luminous in the process
+     [also: {novae} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

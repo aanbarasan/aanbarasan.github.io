@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sausage</Word>
+  <Definitions>
+    <Definition>
+      <Word>sausage</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sausage \Sau"sage\ (?; 48), n. [F. saucisse, LL. salcitia,
+   salsicia, fr. salsa. See {Sauce}.]
+   1. An article of food consisting of meat (esp. pork) minced
+      and highly seasoned, and inclosed in a cylindrical case or
+      skin usually made of the prepared intestine of some
+      animal.
+      [1913 Webster]
+
+   2. A saucisson. See {Saucisson}. --Wilhelm.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sausage</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sausage
+     n 1: highly seasoned minced meat stuffed in casings
+     2: a small nonrigid airship used for observation or as a
+        barrage balloon [syn: {blimp}, {sausage balloon}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

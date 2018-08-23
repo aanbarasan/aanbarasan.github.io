@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>retrieval</Word>
+  <Definitions>
+    <Definition>
+      <Word>retrieval</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Retrieval \Re*triev"al\, n.
+   The act retrieving.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>retrieval</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>retrieval
+     n 1: (computer science) the operation of accessing information
+          from the computer's memory
+     2: the cognitive operation of accessing information in memory;
+        "my retrieval of people's names is very poor"
+     3: the act of regaining or saving something lost (or in danger
+        of becoming lost) [syn: {recovery}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

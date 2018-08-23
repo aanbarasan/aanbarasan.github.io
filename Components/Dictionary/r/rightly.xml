@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rightly</Word>
+  <Definitions>
+    <Definition>
+      <Word>rightly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rightly \Right"ly\, adv. [AS. richtlice.]
+   1. Straightly; directly; in front. [Obs.] --Shak.
+      [1913 Webster]
+
+   2. According to justice; according to the divine will or
+      moral rectitude; uprightly; as, duty rightly performed.
+      [1913 Webster]
+
+   3. Properly; fitly; suitably; appropriately.
+      [1913 Webster]
+
+            Eve rightly called, Mother of all mankind. --Milton.
+      [1913 Webster]
+
+   4. According to truth or fact; correctly; not erroneously;
+      exactly. ``I can not rightly say.'' --Shak.
+      [1913 Webster]
+
+            Thou didst not rightly see.           --Dryden.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rightly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rightly
+     adv : with honesty; "he was rightly considered the greatest singer
+           of his time" [syn: {justly}, {justifiedly}] [ant: {unjustly}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nickelodeon</Word>
+  <Definitions>
+    <Definition>
+      <Word>nickelodeon</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Jukebox \Juke"box\, n.
+   1. A phonograph or compact disc player with multiple discs,
+      requiring the insertion of coins prior to playing, and
+      allowing the user to select the playing of any disc in its
+      inventory. An early version was called the {nickelodeon}.
+      [PJC]
+
+   2. (Computers) a data-storage device having multiple compact
+      discs, of which only one may be on-line at any given time,
+      which permits the user (through computer commands) to
+      select on-line access to any disc from its inventory, in a
+      manner reminiscent of a musical jukebox[1].
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nickelodeon</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>nickelodeon \nick`el*o"de*on\, n. [Nickel + odeon.]
+   1. A place of entertainment, as for moving picture
+      exhibition, charging a fee or admission price of five
+      cents. [U. S.]
+      [Webster 1913 Suppl.]
+
+   2. An early version of a jukebox that was operated by
+      insertion of a nickel[2].
+      [PJC]
+
+   3. (capitalized) The name of a Cable Television channel,
+      specializing in programs for children. [Trademark]
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nickelodeon</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nickelodeon
+     n : a cabinet containing an automatic record player; records are
+         played by inserting a coin [syn: {jukebox}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

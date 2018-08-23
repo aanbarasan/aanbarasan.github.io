@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>severity</Word>
+  <Definitions>
+    <Definition>
+      <Word>severity</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Severity \Se*ver"i*ty\, n.; pl. {Severities}. [L. severitas: cf.
+   F. s['e]v['e]rit['e].]
+   The quality or state of being severe. Specifically: 
+   [1913 Webster]
+   (a) Gravity or austerity; extreme strictness; rigor;
+       harshness; as, the severity of a reprimand or a reproof;
+       severity of discipline or government; severity of
+       penalties. ``Strict age, and sour severity.'' --Milton.
+       [1913 Webster]
+   (b) The quality or power of distressing or paining; extreme
+       degree; extremity; intensity; inclemency; as, the
+       severity of pain or anguish; the severity of cold or
+       heat; the severity of the winter.
+       [1913 Webster]
+   (c) Harshness; cruel treatment; sharpness of punishment; as,
+       severity practiced on prisoners of war.
+       [1913 Webster]
+   (d) Exactness; rigorousness; strictness; as, the severity of
+       a test.
+       [1913 Webster]
+
+             Confining myself to the severity of truth.
+                                                  --Dryden.
+       [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>severity</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>severity
+     n 1: used of the degree of something undesirable e.g. pain or
+          weather [syn: {badness}]
+     2: something hard to endure; "the asperity of northern winters"
+        [syn: {asperity}, {grimness}, {hardship}, {rigor}, {rigour},
+         {rigorousness}]
+     3: excessive sternness; "severity of character"; "the harshness
+        of his punishment was inhuman"; "the rigors of boot camp"
+        [syn: {harshness}, {rigor}, {rigour}, {inclemency}, {hardness},
+         {stiffness}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

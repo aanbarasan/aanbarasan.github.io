@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pandora</Word>
+  <Definitions>
+    <Definition>
+      <Word>pandora</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Pandora
+     
+        &lt;language&gt; {Parlog} extended to allow {don't-know
+        nondeterminism}.
+     
+        ["Pandora: Non-Deterministic Parallel Logic Programming",
+        R. Bahgat et al, Proc 6th Intl Conf Logic Programming, MIT
+        Press 1989 pp. 471-486].
+     
+        (1995-04-27)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pandora</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Pandora, OH (village, FIPS 59738)
+  Location: 40.94768 N, 83.96123 W
+  Population (1990): 1009 (377 housing units)
+  Area: 1.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 45877
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pandora</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>pandore \pan"dore\ (p[a^]n"d[=o]r or p[a^]n*d[=o]r"), n. [F. See
+   {Bandore}.]
+   An ancient musical instrument, of the lute kind; a bandore.
+   [Written also {pandora}, {pandoura}. {pandure}, and
+   {pandoran}.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pandora</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pandora \Pan*do"ra\, prop. n. [L., fr. Gr. Pandw`ra; pa^s, pa^n,
+   all + dw^ron a gift.]
+   1. (Class. Myth.) A beautiful woman (all-gifted), whom
+      Jupiter caused Vulcan to make out of clay in order to
+      punish the human race, because Prometheus had stolen the
+      fire from heaven. Jupiter gave Pandora a box containing
+      all human ills, which, when the box was opened, escaped
+      and spread over the earth. Hope alone remained in the box.
+      Another version makes the box contain all the blessings of
+      the gods, which were lost to men when Pandora opened it.
+      [1913 Webster]
+
+   2. (Zo["o]l.) A genus of marine bivalves, in which one valve
+      is flat, the other convex.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pandora</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>PANDORA
+     Preserving and Accessing Networked Documentary Resources of Australia
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pandora</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Pandora
+     n : (Greek mythology) the first woman; created by Hephaestus on
+         orders from Zeus who presented her to Epimetheus along
+         with a box filled with evils
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

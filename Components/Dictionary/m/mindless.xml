@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mindless</Word>
+  <Definitions>
+    <Definition>
+      <Word>mindless</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mindless \Mind"less\, a.
+   1. Not indued with mind or intellectual powers; stupid;
+      unthinking.
+      [1913 Webster]
+
+   2. Unmindful; inattentive; heedless; careless.
+      [1913 Webster]
+
+            Cursed Athens, mindless of thy worth. --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mindless</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mindless
+     adj 1: lacking the thinking capacity characteristic of a conscious
+            being; "the shrieking of the mindless wind"
+     2: requiring little mental effort; "mindless tasks"
+     3: not mindful or attentive; "while thus unmindful of his steps
+        he stumbled"- G.B.Shaw [syn: {unmindful}, {forgetful}]
+        [ant: {mindful}]
+     4: complacently or inanely foolish [syn: {asinine}, {fatuous},
+        {inane}, {vacuous}]
+     5: not marked by the use of reason; "mindless violence";
+        "reasonless hostility"; "a senseless act" [syn: {reasonless},
+         {senseless}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

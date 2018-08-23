@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pancreas</Word>
+  <Definitions>
+    <Definition>
+      <Word>pancreas</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pancreas \Pan"cre*as\, n. [NL., fr. Gr. ?; pa^s, pa^n, all +
+   kre`as flesh, meat: cf. F. pancr['e]as.] (Anat.)
+   The sweetbread, a gland connected with the intestine of
+   nearly all vertebrates. It is usually elongated and
+   light-colored, and its secretion, called the pancreatic
+   juice, is discharged, often together with the bile, into the
+   upper part of the intestines, and is a powerful aid in
+   digestion. See Illust. of {Digestive apparatus}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pancreas</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pancreas
+     n : a large elongated exocrine gland located behind the stomach;
+         secretes pancreatic juice and insulin
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

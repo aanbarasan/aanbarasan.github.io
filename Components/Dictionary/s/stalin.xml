@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>stalin</Word>
+  <Definitions>
+    <Definition>
+      <Word>stalin</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Stalin
+     n : Russian leader who succeeded Lenin as head of the Communist
+         Party and created a totalitarian state by purging all
+         opposition (1879-1953) [syn: {Joseph Stalin}, {Iosif
+         Vissarionovich Dzhugashvili}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>uncanny</Word>
+  <Definitions>
+    <Definition>
+      <Word>uncanny</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Uncanny \Un*can"ny\, a.
+   Not canny; unsafe; strange; weird; ghostly. --Sir W. Scott.
+   -- {Un*can"ni*ness}, n. --G. Eliot.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>uncanny</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>uncanny
+     adj 1: suggesting the operation of supernatural influences; "an
+            eldritch screech"; "the three weird sisters";
+            "stumps...had uncanny shapes as of monstrous
+            creatures"- John Galsworthy; "an unearthly light"; "he
+            could hear the unearthly scream of some curlew
+            piercing the din"- Henry Kingsley [syn: {eldritch}, {weird},
+             {unearthly}]
+     2: beyond what is natural; "his uncanny sense of direction";
+        (`unco' is chiefly Scottish) [syn: {unco}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>licorice</Word>
+  <Definitions>
+    <Definition>
+      <Word>licorice</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Licorice \Lic"o*rice\ (l[i^]k"[-o]*r[i^]s), n. [OE. licoris,
+   through old French, fr. L. liquiritia, corrupted fr.
+   glycyrrhiza, Gr. glyky`rriza; glyky`s sweet + "ri`za root.
+   Cf. {Glycerin}, {Glycyrrhiza}, {Wort}.] [Written also
+   {liquorice}.]
+   1. (Bot.) A plant of the genus {Glycyrrhiza} ({Glycyrrhiza
+      glabra}), the root of which abounds with a sweet juice,
+      and is much used in demulcent compositions.
+      [1913 Webster]
+
+   2. The inspissated juice of licorice root, used as a
+      confection and for medicinal purposes.
+      [1913 Webster]
+
+   {Licorice fern} (Bot.), a name of several kinds of polypody
+      which have rootstocks of a sweetish flavor.
+
+   {Licorice sugar}. (Chem.) See {Glycyrrhizin}.
+
+   {Licorice weed} (Bot.), the tropical plant {Scapania dulcis}.
+      
+
+   {Mountain licorice} (Bot.), a kind of clover ({Trifolium
+      alpinum}), found in the Alps. It has large purplish
+      flowers and a sweetish perennial rootstock.
+
+   {Wild licorice}. (Bot.)
+      (a) The North American perennial herb {Glycyrrhiza
+          lepidota}.
+      (b) Certain broad-leaved cleavers ({Galium circ[ae]zans}
+          and {Galium lanceolatum}).
+      (c) The leguminous climber {Abrus precatorius}, whose
+          scarlet and black seeds are called {black-eyed
+          Susans}. Its roots are used as a substitute for those
+          of true licorice ({Glycyrrhiza glabra}).
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>licorice</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>licorice
+     n 1: deep-rooted coarse-textured plant native to the
+          Mediterranean region having blue flowers and pinnately
+          compound leaves; widely cultivated in Europe for its
+          long thick sweet roots [syn: {liquorice}, {Glycyrrhiza
+          glabra}]
+     2: a black candy flavored with the dried root of the licorice
+        plant [syn: {liquorice}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

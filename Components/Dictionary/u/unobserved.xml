@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unobserved</Word>
+  <Definitions>
+    <Definition>
+      <Word>unobserved</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unobserved
+     adj 1: not observed [syn: {unseen}]
+     2: not observed; "managed to slip away unobserved"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

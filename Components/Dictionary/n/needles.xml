@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>needles</Word>
+  <Definitions>
+    <Definition>
+      <Word>needles</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Needles, CA (city, FIPS 50734)
+  Location: 34.81413 N, 114.61322 W
+  Population (1990): 5191 (2337 housing units)
+  Area: 77.1 sq km (land), 1.1 sq km (water)
+  Zip code(s): 92363
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

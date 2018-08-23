@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unusually</Word>
+  <Definitions>
+    <Definition>
+      <Word>unusually</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Unusual \Un*u"su*al\, a.
+   Not usual; uncommon; rare; as, an unusual season; a person of
+   unusual grace or erudition. -- {Un*u"su*al*ly}, adv. --
+   {Un*u"su*al*ness}, n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>unusually</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unusually
+     adv : to a remarkably degree or extent; "she was unusually tall"
+           [syn: {remarkably}, {outstandingly}, {unco}] [ant: {normally}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

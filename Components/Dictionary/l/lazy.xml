@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lazy</Word>
+  <Definitions>
+    <Definition>
+      <Word>lazy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lazy \La"zy\, a. [Compar. {Lazier}; superl. {Laziest}.] [OE.
+   lasie, laesic, of uncertain origin; cf. F. las tired, L.
+   lassus, akin to E. late; or cf. LG. losig, lesig.]
+   1. Disinclined to action or exertion; averse to labor; idle;
+      shirking work. --Bacon.
+      [1913 Webster]
+
+   2. Inactive; slothful; slow; sluggish; as, a lazy stream.
+      ``The night owl's lazy flight.'' --Shak.
+      [1913 Webster]
+
+   3. Wicked; vicious. [Obs. or Prov. Eng.] --B. Jonson.
+      [1913 Webster]
+
+   {Lazy tongs}, a system of jointed bars capable of great
+      extension, originally made for picking up something at a
+      distance, now variously applied in machinery.
+
+   Syn: Idle; indolent; sluggish; slothful. See {Idle}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lazy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>lazy
+     adj 1: moving slowly and gently; "up a lazy river"; "lazy white
+            clouds"; "at a lazy pace"
+     2: disinclined to work or exertion; "faineant kings under whose
+        rule the country languished"; "an indolent hanger-on";
+        "too lazy to wash the dishes"; "shiftless idle youth";
+        "slothful employees"; "the unemployed are not necessarily
+        work-shy" [syn: {faineant}, {indolent}, {otiose}, {slothful},
+         {work-shy}]
+     [also: {laziest}, {lazier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mild</Word>
+  <Definitions>
+    <Definition>
+      <Word>mild</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mild \Mild\ (m[imac]ld), a. [Compar. {Milder}; superl.
+   {Mildest}.] [AS. milde; akin to OS. mildi, D. &amp; G. mild, OHG.
+   milti, Icel. mildr, Sw. &amp; Dan. mild, Goth. milds; cf. Lith.
+   melas dear, Gr. ? gladdening gifts.]
+   Gentle; pleasant; kind; soft; bland; clement; hence, moderate
+   in degree or quality; -- the opposite of harsh, severe,
+   irritating, violent, disagreeable, etc.; -- applied to
+   persons and things; as, a mild disposition; a mild eye; a
+   mild air; a mild medicine; a mild insanity.
+   [1913 Webster]
+
+         The rosy morn resigns her light
+         And milder glory to the noon.            --Waller.
+   [1913 Webster]
+
+         Adore him as a mild and merciful Being.  --Rogers.
+   [1913 Webster]
+
+   {Mild steel}, or {Low steel}, steel that has but little
+      carbon in it and is not readily hardened.
+      [1913 Webster]
+
+   Syn: Soft; gentle; bland; calm; tranquil; soothing; pleasant;
+        placid; meek; kind; tender; indulgent; clement;
+        mollifying; lenitive; assuasive. See {Gentle}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mild</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mild
+     adj 1: moderate in type or degree or effect or force; far from
+            extreme; "a mild winter storm"; "a mild fever";
+            "fortunately the pain was mild"; "a mild rebuke";
+            "mild criticism" [ant: {intense}]
+     2: humble in spirit or manner; suggesting retiring mildness or
+        even cowed submissiveness; "meek and self-effacing" [syn:
+        {meek}, {modest}]
+     3: mild and pleasant; "balmy days and nights"; "the climate was
+        mild and conducive to life or growth" [syn: {balmy}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

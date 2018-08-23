@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>porn</Word>
+  <Definitions>
+    <Definition>
+      <Word>porn</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>porn
+     n : creative activity (writing or pictures or films etc.) of no
+         literary or artistic value other than to stimulate sexual
+         desire [syn: {pornography}, {porno}, {erotica}, {smut}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

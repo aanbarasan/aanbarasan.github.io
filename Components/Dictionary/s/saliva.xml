@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>saliva</Word>
+  <Definitions>
+    <Definition>
+      <Word>saliva</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Saliva \Sa*li"va\, n. [L.; cf. Gr. ?.] (Physiol.)
+   The secretion from the salivary glands.
+   [1913 Webster]
+
+   Note: In man the saliva is a more or less turbid and slighty
+         viscid fluid, generally of an alkaline reaction, and is
+         secreted by the parotid, submaxillary, and sublingual
+         glands. In the mouth the saliva is mixed with the
+         secretion from the buccal glands. The secretions from
+         the individual salivary glands have their own special
+         characteristics, and these are not the same in all
+         animals. In man and many animals mixed saliva, i.e.,
+         saliva composed of the secretions of all three of the
+         salivary glands, is an important digestive fluid on
+         account of the presence of the peculiar enzyme,
+         ptyalin.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>saliva</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>saliva
+     n : a clear liquid secreted into the mouth by the salivary
+         glands and mucous glands of the mouth; moistens the mouth
+         and starts the digestion of starches [syn: {spit}, {spittle}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

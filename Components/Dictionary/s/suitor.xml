@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>suitor</Word>
+  <Definitions>
+    <Definition>
+      <Word>suitor</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Suitor \Suit"or\, n.
+   1. One who sues, petitions, or entreats; a petitioner; an
+      applicant.
+      [1913 Webster]
+
+            She hath been a suitor to me for her brother.
+                                                  --Shak.
+      [1913 Webster]
+
+   2. Especially, one who solicits a woman in marriage; a wooer;
+      a lover. --Sir P. Sidney.
+      [1913 Webster]
+
+   3.
+      (a) (Law) One who sues or prosecutes a demand in court; a
+          party to a suit, as a plaintiff, petitioner, etc.
+      (b) (O. Eng. Law) One who attends a court as plaintiff,
+          defendant, petitioner, appellant, witness, juror, or
+          the like.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>suitor</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>suitor
+     n : a man who courts a woman; "a suer for the hand of the
+         princess" [syn: {suer}, {wooer}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

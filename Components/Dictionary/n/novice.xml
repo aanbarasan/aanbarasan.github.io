@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>novice</Word>
+  <Definitions>
+    <Definition>
+      <Word>novice</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Novice, TX (city, FIPS 52668)
+  Location: 31.98746 N, 99.62494 W
+  Population (1990): 183 (101 housing units)
+  Area: 1.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 79538
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>novice</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Novice \Nov"ice\, n. [F., from L. novicius, novitius, new, from
+   novus new. See {New}, and cf. {Novitious}.]
+   1. One who is new in any business, profession, or calling;
+      one unacquainted or unskilled; one yet in the rudiments; a
+      beginner; a tyro.
+      [1913 Webster]
+
+            I am young; a novice in the trade.    --Dryden.
+      [1913 Webster]
+
+   2. One newly received into the church, or one newly converted
+      to the Christian faith. --1 Tim. iii. 6.
+      [1913 Webster]
+
+   3. (Eccl.) One who enters a religious house, whether of monks
+      or nuns, as a probationist. --Shipley.
+      [1913 Webster]
+
+            No poore cloisterer, nor no novys.    --Chaucer.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>novice</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Novice \Nov"ice\, a.
+   Like a novice; becoming a novice. [Obs.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>novice</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>novice
+     n 1: someone who has entered a religious order but has not taken
+          final vows [syn: {novitiate}]
+     2: someone new to a field or activity [syn: {beginner}, {tyro},
+         {tiro}, {initiate}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

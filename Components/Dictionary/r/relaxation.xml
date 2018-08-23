@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>relaxation</Word>
+  <Definitions>
+    <Definition>
+      <Word>relaxation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Relaxation \Re`lax*a"tion\ (r?`l?ks-?"sh?n;277), n. [L.
+   relaxatio; cf. F. relaxation.]
+   1. The act or process of relaxing, or the state of being
+      relaxed; as, relaxation of the muscles; relaxation of a
+      law.
+      [1913 Webster]
+
+   2. Remission from attention and effort; indulgence in
+      recreation, diversion, or amusement. ``Hours of careless
+      relaxation.'' --Macaulay.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>relaxation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>relaxation
+     n 1: (physiology) the gradual lengthening of inactive muscle or
+          muscle fibers
+     2: (physics) the exponential return of a system to equilibrium
+        after a disturbance [syn: {relaxation behavior}]
+     3: a state of refreshing tranquility [syn: {easiness}]
+     4: an occurrence of control or strength weakening; "the
+        relaxation of requirements"; "the loosening of his grip";
+        "the slackening of the wind" [syn: {loosening}, {slackening}]
+     5: freedom from activity (work or strain or responsibility);
+        "took his repose by the swimming pool" [syn: {rest}, {ease},
+         {repose}]
+     6: a method of solving simultaneous equations by guessing a
+        solution and then reducing the errors that result by
+        successive approximations until all the errors are less
+        than some specified amount [syn: {relaxation method}]
+     7: the act of making less strict [syn: {liberalization}, {liberalisation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>solstice</Word>
+  <Definitions>
+    <Definition>
+      <Word>solstice</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Solstice \Sol"stice\, n.[L. solstitium; sol the sun + sistere to
+   cause to stand, akin to stare to stand: cf. F. solstice. See
+   {Solar}, a., {Stand}, v. i.]
+   1. A stopping or standing still of the sun. [Obs.] --Sir T.
+      Browne.
+      [1913 Webster]
+
+   2. (Astron.)
+      (a) The point in the ecliptic at which the sun is farthest
+          from the equator, north or south, namely, the first
+          point of the sign Cancer and the first point of the
+          sign Capricorn, the former being the summer solstice,
+          latter the winter solstice, in northern latitudes; --
+          so called because the sun then apparently stands still
+          in its northward or southward motion.
+      (b) The time of the sun's passing the solstices, or
+          solstitial points, namely, about June 21 and December
+          21. See Illust. in Appendix.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>solstice</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>solstice
+     n : either of the two times of the year when the sun is at its
+         greatest distance from the celestial equator
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

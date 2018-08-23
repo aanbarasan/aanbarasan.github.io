@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>parks</Word>
+  <Definitions>
+    <Definition>
+      <Word>parks</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Parks, AR
+  Zip code(s): 72950
+Parks, LA (village, FIPS 59165)
+  Location: 30.21529 N, 91.82941 W
+  Population (1990): 400 (181 housing units)
+  Area: 1.4 sq km (land), 0.0 sq km (water)
+Parks, NE
+  Zip code(s): 69041
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>parks</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Parks
+     n : United States civil rights leader who refused to give up her
+         seat on a bus to a white man in Montgomery (Alabama) and
+         so triggered the national civil rights movement (born in
+         1913) [syn: {Rosa Parks}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

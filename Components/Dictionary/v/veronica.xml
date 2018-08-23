@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>veronica</Word>
+  <Definitions>
+    <Definition>
+      <Word>veronica</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Veronica
+     
+        &lt;information science&gt; Very Easy Rodent-Oriented Net-wide Index
+        to Computerized Archives.  Veronica offers a keyword search of
+        most {gopher} menu titles in the entire gopher web.  As
+        {archie} is to {FTP} archives, Veronica is to {Gopherspace}.
+        A Veronica search produces a menu of Gopher items, each of
+        which is a direct pointer to a Gopher data source.  Because
+        Veronica is accessed through a Gopher Client, it is easy to
+        use, and gives access to all types of data supported by the
+        Gopher {protocol}.
+     
+        To try Veronica, select it from the "Other Gophers" menu on
+        Minnesota's gopher server, or point your gopher at:
+     
+         Name=veronica (search menu items in most of GopherSpace)
+         Type=1
+         Port=70
+         Path=1/veronica
+         Host=gopher.scs.unr.edu
+     
+        {(gopher://gopher.scs.unr.edu/1/veronica)}.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>veronica</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Veronica \Ve*ron"i*ca\, n. [LL.; -- so called from Veronica, a
+   woman who, according to an old legend, as Christ was carrying
+   the cross, wiped his face with a cloth, which received an
+   impression of his countenance; Veronica is fr. MGr. ?, fr.
+   Macedonian ?, for Gr. ?, literally, carrying off victory,
+   victorious.]
+   1. A portrait or representation of the face of our Savior on
+      the alleged handkerchief of Saint Veronica, preserved at
+      Rome; hence, a representation of this portrait, or any
+      similar representation of the face of the Savior. Formerly
+      called also {Vernacle}, and {Vernicle}.
+      [1913 Webster]
+
+   2. (Bot.) A genus scrophulariaceous plants; the speedwell.
+      See {Speedwell}.
+      [1913 Webster]
+
+   Note: Several herbaceous species are common in both Europe
+         and America, most of which have small blue flowers. A
+         few shrubby species from New Zealand are sometimes
+         found in cultivation.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>veronica</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>VERONICA
+     Very Easy Rodent-Orientated Netwide Index of Computerized Archives
+     (Internet)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>veronica</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>veronica
+     n : any plant of the genus Veronica [syn: {speedwell}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

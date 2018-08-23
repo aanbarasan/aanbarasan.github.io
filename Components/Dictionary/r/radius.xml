@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>radius</Word>
+  <Definitions>
+    <Definition>
+      <Word>radius</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>RADIUS
+     
+        {Remote Authentication Dial-In User Service}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>radius</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Radius \Ra"di*us\ (r[=a]"d[i^]*[u^]s), n.; pl. L. {Radii}
+   (r[=a]"d[i^]*[imac]); E. {Radiuses}
+   (r[=a]"d[i^]*[u^]s*[e^]z). [L., a staff, rod, spoke of a
+   wheel, radius, ray. See {Ray} a divergent line.]
+   1. (Geom.) A right line drawn or extending from the center of
+      a circle to the periphery; the semidiameter of a circle or
+      sphere.
+      [1913 Webster]
+
+   2. (Anat.) The preaxial bone of the forearm, or brachium,
+      corresponding to the tibia of the hind limb. See Illust.
+      of {Artiodactyla}.
+      [1913 Webster]
+
+   Note: The radius is on the same side of the limb as the
+         thumb, or pollex, and in man it is so articulated that
+         its lower end is capable of partial rotation about the
+         ulna.
+         [1913 Webster]
+
+   3. (Bot.) A ray, or outer floret, of the capitulum of such
+      plants as the sunflower and the daisy. See {Ray}, 2.
+      [1913 Webster]
+
+   4. pl. (Zo["o]l.)
+      (a) The barbs of a perfect feather.
+      (b) Radiating organs, or color-markings, of the radiates.
+          [1913 Webster]
+
+   5. The movable limb of a sextant or other angular instrument.
+      --Knight.
+      [1913 Webster]
+
+   {Radius bar} (Mach.), a bar pivoted at one end, about which
+      it swings, and having its other end attached to a piece
+      which it causes to move in a circular arc.
+
+   {Radius of curvature}. See under {Curvature}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>radius</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>RADIUS
+     Remote Authentication Dial-In User Service (RFC 2865)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>radius</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>radius
+     n 1: the length of a line segment between the center and
+          circumference of a circle or sphere [syn: {r}]
+     2: a straight line from the center to the perimeter of a circle
+        (or from the center to the surface of a sphere)
+     3: a circular region whose area is indicated by the length of
+        its radius; "they located it within a radius of 2 miles"
+     4: the outer and slightly shorter of the two bones of the human
+        forearm
+     5: support consisting of a radial member of a wheel joining the
+        hub to the rim [syn: {spoke}]
+     [also: {radii} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>makeover</Word>
+  <Definitions>
+    <Definition>
+      <Word>makeover</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>make over
+     v 1: use again in altered form; "retread an old plot" [syn: {rework},
+           {retread}]
+     2: make new; "She is remaking her image" [syn: {remake}, {refashion},
+         {redo}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>makeover</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>makeover
+     n 1: an overall beauty treatment (involving a person's hair style
+          and cosmetics and clothing) intended to change or
+          improve a person's appearance
+     2: a complete reconstruction and renovation of something; "the
+        blighted neighborhood underwent a total makeover"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

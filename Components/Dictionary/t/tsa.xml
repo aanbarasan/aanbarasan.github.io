@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tsa</Word>
+  <Definitions>
+    <Definition>
+      <Word>tsa</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>TSA
+     Target Service Agent (Novell, Netware, SMS)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tsa</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>TSA
+     Telecommunication Society of Australia (org., Australia)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tsa</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>TSA
+     n : an agency established in 2001 to safeguard United States
+         transportation systems and insure safe air travel [syn: {Transportation
+         Safety Administration}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

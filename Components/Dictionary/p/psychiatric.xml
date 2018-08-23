@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>psychiatric</Word>
+  <Definitions>
+    <Definition>
+      <Word>psychiatric</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Psychiatric \Psy`chi*at"ric\, a. (Med.)
+   Of or pertaining to psychiatry.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>psychiatric</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>psychiatric
+     adj : relating to or used in or engaged in the practice of
+           psychiatry; "psychiatric disorder"; "psychiatric
+           hospital" [syn: {psychiatrical}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

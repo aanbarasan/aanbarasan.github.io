@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>underworld</Word>
+  <Definitions>
+    <Definition>
+      <Word>underworld</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Underworld \Un"der*world`\, n.
+   1. The lower of inferior world; the world which is under the
+      heavens; the earth.
+      [1913 Webster]
+
+            That overspreads (with such a reverence)
+            This underworld.                      --Daniel.
+      [1913 Webster]
+
+   2. The mythological place of departed souls; Hades.
+      [1913 Webster]
+
+   3. The portion of the world which is below the horizon; the
+      opposite side of the world; the antipodes. [R.]
+      [1913 Webster]
+
+            Fresh as the first beam glittering on a sail,
+            That brings our friends up from the underworld.
+                                                  --Tennyson.
+      [1913 Webster]
+
+   4. The inferior part of mankind. [R.] --Atterbury.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>underworld</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>underworld
+     n 1: the criminal class
+     2: (religion) the world of the dead; "he didn't want to go to
+        hell when he died" [syn: {Hel}, {Hell}, {Hades}, {infernal
+        region}, {netherworld}, {Scheol}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

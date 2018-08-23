@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>uranium</Word>
+  <Definitions>
+    <Definition>
+      <Word>uranium</Word>
+      <Dictionary>
+        <Id>elements</Id>
+        <Name>Elements database 20001107</Name>
+      </Dictionary>
+      <WordDefinition>uranium
+Symbol: U
+Atomic number: 92
+Atomic weight: (231)
+White radioactive metallic element belonging to the actinoids. Three
+natural isotopes, U-238, U-235 and U-234. Uranium-235 is used as the fuel
+for nuclear reactors and weapons. Discovered by Martin H. Klaproth in 1789.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>uranium</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Uranium \U*ra"ni*um\, n. [NL., from Uranus the planet. See
+   {Uranus}.] (Chem.)
+   An element of the chromium group, found in certain rare
+   minerals, as pitchblende, uranite, etc., and reduced as a
+   heavy, hard, nickel-white metal which is quite permanent. Its
+   yellow oxide is used to impart to glass a delicate
+   greenish-yellow tint which is accompanied by a strong
+   fluorescence, and its black oxide is used as a pigment in
+   porcelain painting. Symbol U. Atomic weight 239.
+   [1913 Webster]
+
+   Note: Uranium was discovered in the state of an oxide by
+         Klaproth in 1789, and so named in honor of Herschel's
+         discovery of the planet Uranus in 1781.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>uranium</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>uranium
+     n : a heavy toxic silvery-white radioactive metallic element;
+         occurs in many isotopes; used for nuclear fuels and
+         nuclear weapons [syn: {U}, {atomic number 92}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

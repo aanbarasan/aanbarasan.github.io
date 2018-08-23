@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>locomotion</Word>
+  <Definitions>
+    <Definition>
+      <Word>locomotion</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Locomotion \Lo`co*mo"tion\, n. [L. locus place + motio motion:
+   cf. F. locomotion. See {Local}, and {Motion}.]
+   1. The act of moving from place to place. `` Animal
+      locomotion.'' --Milton.
+      [1913 Webster]
+
+   2. The power of moving from place to place, characteristic of
+      the higher animals and some of the lower forms of plant
+      life.
+      [1913 Webster]
+
+   3. The name of a song and a dance, briefly popular in the
+      1960's; as, do the locomotion.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>locomotion</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>locomotion
+     n 1: the power or ability to move [syn: {motive power}, {motivity}]
+     2: self-propelled movement [syn: {travel}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

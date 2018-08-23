@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>prague</Word>
+  <Definitions>
+    <Definition>
+      <Word>prague</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Prague, NE (village, FIPS 39975)
+  Location: 41.30971 N, 96.80859 W
+  Population (1990): 282 (138 housing units)
+  Area: 0.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 68050
+Prague, OK (city, FIPS 60500)
+  Location: 35.48822 N, 96.69427 W
+  Population (1990): 2308 (1070 housing units)
+  Area: 5.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 74864
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>prague</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Prague
+     n : the capital and largest city of the Czech Republic in the
+         western part of the countryi; a cultural and commercial
+         center since the 14th century [syn: {Praha}, {Prag}, {Czech
+         capital}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

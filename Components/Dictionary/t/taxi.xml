@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>taxi</Word>
+  <Definitions>
+    <Definition>
+      <Word>taxi</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>taxi \tax"i\, n.
+   1. same as {taxicab}.
+      [PJC]
+
+   2. any vehicle that carries passengers for a fare, as a water
+      taxi.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>taxi</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>taxicab \tax"i*cab\, n.
+   an automobile with a professional driver which can be hired
+   to carry passengers; -- also called a {taxi}, and informally
+   called a {cab} or a {hack}. The driver of a taxicab is
+   referred to as a {cab driver} or {cabbie}, and sometimes as a
+   {chauffeur} or {hackie}.
+
+   Note: Taxicabs may be engaged by a prior appointment made,
+         e.g. by telephone, or they may cruise for passengers,
+         i.e. they may drive in city streets and stop to pick up
+         pasengers when they are signalled by a prospective
+         passenger. The act of signalling a taxicab (usually by
+         a wave of the arm) is often called
+
+   {to hail a cab} or
+
+   {to flag down a cab}.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>taxi</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>taxi
+     n : a car driven by a person whose job is to take passengers
+         where they want to go in exchange for money [syn: {cab},
+         {hack}, {taxicab}]
+     v 1: travel slowly; "The plane taxied down the runway"
+     2: ride in a taxicab
+     [also: {taxying}, {taxies} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

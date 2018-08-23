@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>various</Word>
+  <Definitions>
+    <Definition>
+      <Word>various</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Various \Va"ri*ous\, a. [L. varius. Cf. {Vair}.]
+   [1913 Webster]
+   1. Different; diverse; several; manifold; as, men of various
+      names; various occupations; various colors.
+      [1913 Webster]
+
+            So many and so various laws are given. --Milton.
+      [1913 Webster]
+
+            A wit as various, gay, grave, sage, or wild.
+                                                  --Byron.
+      [1913 Webster]
+
+   2. Changeable; uncertain; inconstant; variable.
+      [1913 Webster]
+
+            A man so various, that he seemed to be
+            Not one, but all mankind's epitome.   --Dryden.
+      [1913 Webster]
+
+            The names of mixed modes . . . are very various.
+                                                  --Locke.
+      [1913 Webster]
+
+   3. Variegated; diversified; not monotonous.
+      [1913 Webster]
+
+            A happy rural seat of various view.   --Milton.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>various</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>various
+     adj 1: of many different kinds purposefully arranged but lacking
+            any uniformity; "assorted sizes"; "his disguises are
+            many and various"; "various experiments have failed to
+            disprove the theory"; "cited various reasons for his
+            behavior" [syn: {assorted}]
+     2: considered individually; "the respective club members";
+        "specialists in their several fields"; "the various
+        reports all agreed" [syn: {respective(a)}, {several(a)}, {various(a)}]
+     3: distinctly dissimilar or unlike; "diverse parts of the
+        country"; "celebrities as diverse as Bob Hope and Bob
+        Dylan"; "animals as various as the jaguar and the cavy and
+        the sloth" [syn: {diverse}]
+     4: having great diversity or variety; "his various achievements
+        are impressive"; "his vast and versatile erudition" [syn:
+        {versatile}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

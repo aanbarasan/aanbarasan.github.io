@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>kansas</Word>
+  <Definitions>
+    <Definition>
+      <Word>kansas</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Kansas, AL (town, FIPS 39280)
+  Location: 33.90178 N, 87.55334 W
+  Population (1990): 230 (107 housing units)
+  Area: 2.3 sq km (land), 0.0 sq km (water)
+Kansas, IL (village, FIPS 38986)
+  Location: 39.55386 N, 87.93995 W
+  Population (1990): 887 (402 housing units)
+  Area: 2.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 61933
+Kansas, OH
+  Zip code(s): 44841
+Kansas, OK (town, FIPS 38600)
+  Location: 36.20448 N, 94.79089 W
+  Population (1990): 556 (212 housing units)
+  Area: 3.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 74347
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>kansas</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Kansas \Kan"sas\, prop. n.
+   A state of the central United States, bordering the
+   Mississippi River to the west.
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>kansas</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Kansas \Kan"sas\, prop. n. pl. (Ethnol.)
+   A tribe of Indians allied to the Winnebagoes and Osages. They
+   formerly inhabited the region which is now the State of
+   Kansas, but were removed to the Indian Territory.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>kansas</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Kansas
+     n 1: a state in midwestern United States [syn: {Sunflower State},
+           {KS}]
+     2: a member of the Siouan people of the Kansas river valley in
+        Kansas [syn: {Kansa}]
+     3: a river in northeastern Kansas; flows eastward to become a
+        tributary of the Missouri River [syn: {Kansas River}, {Kaw
+        River}]
+     4: the Dhegiha dialect spoken by the Kansa people [syn: {Kansa}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

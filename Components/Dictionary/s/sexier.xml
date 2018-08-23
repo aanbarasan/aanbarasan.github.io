@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sexier</Word>
+  <Definitions>
+    <Definition>
+      <Word>sexier</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sexy
+     adj 1: marked by or tending to arouse sexual desire or interest;
+            "feeling sexy"; "sexy clothes"; "sexy poses"; "a sexy
+            book"; "sexy jokes" [ant: {unsexy}]
+     2: exciting sexual desire [syn: {aphrodisiac}, {aphrodisiacal}]
+        [ant: {anaphrodisiac}]
+     [also: {sexiest}, {sexier}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sexier</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sexier
+     See {sexy}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>summary</Word>
+  <Definitions>
+    <Definition>
+      <Word>summary</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Summary \Sum"ma*ry\, a. [Cf. F. sommaire. See {Sum}.]
+   1. Formed into a sum; summed up; reduced into a narrow
+      compass, or into few words; short; brief; concise;
+      compendious; as, a summary statement of facts.
+      [1913 Webster]
+
+   2. Hence, rapidly performed; quickly executed; as, a summary
+      process; to take summary vengeance.
+      [1913 Webster]
+
+   Syn: Short; brief; concise; compendious; succinct.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>summary</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Summary \Sum"ma*ry\, n.; pl. {Summaries}. [F. sommaire, or L.
+   summarium. See {Summary}, a.]
+   A general or comprehensive statement; an abridged account; an
+   abstract, abridgment, or compendium, containing the sum or
+   substance of a fuller account.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>summary</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>summary
+     adj 1: performed speedily and without formality; "a summary
+            execution"; "summary justice" [syn: {drumhead}]
+     2: briefly giving the gist of something; "a short and
+        compendious book"; "a compact style is brief and pithy";
+        "succinct comparisons"; "a summary formulation of a
+        wide-ranging subject" [syn: {compendious}, {compact}, {succinct}]
+     n : a briefstatement that presents the main points in a concise
+         form; "he gave a summary of the conclusions"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

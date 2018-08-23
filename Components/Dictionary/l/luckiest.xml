@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>luckiest</Word>
+  <Definitions>
+    <Definition>
+      <Word>luckiest</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lucky \Luck"y\, a. [Compar. {Luckier}; superl. {Luckiest}.]
+   1. Favored by luck; fortunate; meeting with good success or
+      good fortune; -- said of persons; as, a lucky adventurer.
+      `` Lucky wight.'' --Spenser.
+      [1913 Webster]
+
+   2. Producing, or resulting in, good by chance, or
+      unexpectedly; favorable; auspicious; fortunate; as, a
+      lucky mistake; a lucky cast; a lucky hour.
+      [1913 Webster]
+
+            We doubt not of a fair and lucky war. --Shak.
+
+   Syn: Successful; fortunate; prosperous; auspicious.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>luckiest</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>lucky
+     adj 1: blessed with good fortune; "considered himself lucky that
+            the tornado missed his house"; "a lucky guess"
+     2: having or bringing good fortune; "my lucky day" [ant: {unlucky}]
+     3: tending to favor or bring good luck; "miracles are
+        auspicious accidents"; "encouraging omens"; "a favorable
+        time to ask for a raise"; "lucky stars"; "a prosperous
+        moment to make a decision" [syn: {auspicious}, {encouraging},
+         {favorable}, {favourable}, {prosperous}]
+     [also: {luckiest}, {luckier}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>luckiest</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>luckiest
+     See {lucky}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>optometrist</Word>
+  <Definitions>
+    <Definition>
+      <Word>optometrist</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Optometrist \Op*tom"e*trist\, n.
+   One who is skilled in or practices optometry, especially one
+   who examines the eyes for defects in vision and prescribes
+   the proper lenses to correct any defects discovered.
+   [Webster 1913 Suppl. +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>optometrist</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>optometrist
+     n : a person skilled in testing for defects of vision in order
+         to prescribe corrective glasses [syn: {oculist}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

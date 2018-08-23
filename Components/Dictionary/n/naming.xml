@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>naming</Word>
+  <Definitions>
+    <Definition>
+      <Word>naming</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Name \Name\ (n[=a]m), v. t. [imp. &amp; p. p. {Named} (n[=a]md); p.
+   pr. &amp; vb. n. {Naming}.] [AS. namian. See {Name}, n.]
+   1. To give a distinctive name or appellation to; to entitle;
+      to denominate; to style; to call.
+      [1913 Webster]
+
+            She named the child Ichabod.          --1 Sam. iv.
+                                                  21.
+      [1913 Webster]
+
+            Thus was the building left
+            Ridiculous, and the work Confusion named. --Milton.
+      [1913 Webster]
+
+   2. To mention by name; to utter or publish the name of; to
+      refer to by distinctive title; to mention.
+      [1913 Webster]
+
+            None named thee but to praise.        --Halleck.
+      [1913 Webster]
+
+            Old Yew, which graspest at the stones
+            That name the underlying dead.        --Tennyson.
+      [1913 Webster]
+
+   3. To designate by name or specifically for any purpose; to
+      nominate; to specify; to appoint; as, to name a day for
+      the wedding; to name someone as ambassador.
+      [1913 Webster]
+
+            Whom late you have named for consul.  --Shak.
+      [1913 Webster]
+
+   4. (House of Commons) To designate (a member) by name, as the
+      Speaker does by way of reprimand.
+      [1913 Webster]
+
+   Syn: To denominate; style; term; call; mention; specify;
+        designate; nominate.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>naming</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>naming
+     adj : inclined to or serving for the giving of names; "the
+           appellative faculty of children"; "the appellative
+           function of some primitive rites" [syn: {appellative},
+           {naming(a)}]
+     n 1: the verbal act of naming; "the part he failed was the naming
+          of state capitals"
+     2: the act of putting a person into a non-elective position;
+        "the appointment had to be approved by the whole
+        committee" [syn: {appointment}, {assignment}, {designation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>jabber</Word>
+  <Definitions>
+    <Definition>
+      <Word>jabber</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>jabber
+     
+        &lt;networking&gt; An event that occurs when a device on a network
+        using the {LAT} {protocol} continues to broadcast its
+        availability even though its availability status is known by
+        the network.
+     
+        (1996-05-10)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>jabber</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Jabber \Jab"ber\, v. i. [imp. &amp; p. p. {Jabbered}; p. pr. &amp; vb.
+   n. {Jabbering}.] [Cf. {Gibber}, {Gabble}.]
+   To talk rapidly, indistinctly, or unintelligibly; to utter
+   gibberish or nonsense; to chatter. --Swift.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>jabber</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Jabber \Jab"ber\, v. t.
+   To utter rapidly or indistinctly; to gabble; as, to jabber
+   French. --Addison.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>jabber</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Jabber \Jab"ber\, n.
+   Rapid or incoherent talk, with indistinct utterance;
+   gibberish. --Swift.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>jabber</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>jabber
+     n : rapid and indistinct speech [syn: {jabbering}, {gabble}]
+     v : talk in a noisy, excited, or declamatory manner [syn: {rant},
+          {mouth off}, {spout}, {rabbit on}, {rave}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

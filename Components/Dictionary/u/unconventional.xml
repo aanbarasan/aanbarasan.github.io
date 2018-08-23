@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unconventional</Word>
+  <Definitions>
+    <Definition>
+      <Word>unconventional</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unconventional
+     adj 1: not conforming to accepted rules or standards; "her
+            unconventional dress and hair style" [ant: {conventional}]
+     2: not conventional or conformist; "unconventional life styles"
+        [ant: {conventional}, {conventional}]
+     3: not conforming to legality, moral law, or social convention;
+        "an unconventional marriage"; "improper banking practices"
+        [syn: {improper}, {unlawful}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

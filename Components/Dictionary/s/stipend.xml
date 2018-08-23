@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>stipend</Word>
+  <Definitions>
+    <Definition>
+      <Word>stipend</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Stipend \Sti"pend\, n. [L. stipendium; stips, gen. stipis, a
+   gift, donation, given in small coin + pendere to weigh or pay
+   out.]
+   Settled pay or compensation for services, whether paid daily,
+   monthly, or annually.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stipend</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Stipend \Sti"pend\, v. t.
+   To pay by settled wages. [R.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stipend</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>stipend
+     n : a sum of money allotted on a regular basis; usually for some
+         specific purpose
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pierce</Word>
+  <Definitions>
+    <Definition>
+      <Word>pierce</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Pierce, CO (town, FIPS 59005)
+  Location: 40.63286 N, 104.75464 W
+  Population (1990): 823 (287 housing units)
+  Area: 1.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 80650
+Pierce, ID (city, FIPS 62740)
+  Location: 46.49266 N, 115.79849 W
+  Population (1990): 746 (323 housing units)
+  Area: 2.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 83546
+Pierce, NE (city, FIPS 39100)
+  Location: 42.19947 N, 97.52772 W
+  Population (1990): 1615 (662 housing units)
+  Area: 2.2 sq km (land), 0.1 sq km (water)
+  Zip code(s): 68767
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pierce</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pierce \Pierce\, v. t. [imp. &amp; p. p. {Pierced}; p. pr. &amp; vb. n.
+   {Piercing}.] [OE. percen, F. percer, OF. percier, perchier,
+   parchier; perh. fr. (assumed) LL. pertusiare for pertusare,
+   fr. L. pertundere, pertusum, to beat, push, bore through; per
+   through + tundere to beat: cf. OF. pertuisier to pierce, F.
+   pertuis a hole. Cf. {Contuse}, {Parch}, {Pertuse}.]
+   1. To thrust into, penetrate, or transfix, with a pointed
+      instrument. ``I pierce . . . her tender side.'' --Dryden.
+      [1913 Webster]
+
+   2. To penetrate; to enter; to force a way into or through; to
+      pass into or through; as, to pierce the enemy's line; a
+      shot pierced the ship.
+      [1913 Webster]
+
+   3. Fig.: To penetrate; to affect deeply; as, to pierce a
+      mystery. ``Pierced with grief.'' --Pope.
+      [1913 Webster]
+
+            Can no prayers pierce thee?           --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pierce</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pierce \Pierce\, v. i.
+   To enter; to penetrate; to make a way into or through
+   something, as a pointed instrument does; -- used literally
+   and figuratively.
+   [1913 Webster]
+
+         And pierced to the skin, but bit no more. --Spenser.
+   [1913 Webster]
+
+         She would not pierce further into his meaning. --Sir P.
+                                                  Sidney.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pierce</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Pierce
+     n : 14th President of the United States (1804-1869) [syn: {Franklin
+         Pierce}, {President Pierce}]
+     v 1: cut or make a way through; "the knife cut through the
+          flesh"; "The path pierced the jungle"; "Light pierced
+          through the forest"
+     2: move or affect (a person's emotions, bodily feelings, etc.)
+        deeply or sharply; "The cold pierced her bones"; "Her
+        words pierced the students"
+     3: sound sharply or shrilly; "The scream pierced the night"
+     4: penetrate or cut through with a sharp instrument [syn: {thrust}]
+     5: make a hole into; "The needle pierced her flesh"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

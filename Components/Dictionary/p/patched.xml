@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>patched</Word>
+  <Definitions>
+    <Definition>
+      <Word>patched</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Patch \Patch\, v. t. [imp. &amp; p. p. {Patched}; p. pr. &amp; vb. n.
+   {Patching}.]
+   1. To mend by sewing on a piece or pieces of cloth, leather,
+      or the like; as, to patch a coat.
+      [1913 Webster]
+
+   2. To mend with pieces; to repair with pieces festened on; to
+      repair clumsily; as, to patch the roof of a house.
+      [1913 Webster]
+
+   3. To adorn, as the face, with a patch or patches.
+      [1913 Webster]
+
+            Ladies who patched both sides of their faces.
+                                                  --Spectator.
+      [1913 Webster]
+
+   4. To make of pieces or patches; to repair as with patches;
+      to arrange in a hasty or clumsy manner; -- generally with
+      up; as, to patch up a truce. ``If you'll patch a
+      quarrel.'' --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>patched</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>patched
+     adj 1: mended usually clumsily by covering a hole with a patch;
+            "patched jeans"
+     2: having spots or patches (small areas of contrasting color or
+        texture); "a field patched with ice and snow"; "a
+        black-and-white spotted cow" [syn: {spotted}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

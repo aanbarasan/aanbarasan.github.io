@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>silverware</Word>
+  <Definitions>
+    <Definition>
+      <Word>silverware</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Silverware \Sil"ver*ware`\, n.
+   Dishes, vases, ornaments, and utensils of various sorts, made
+   of silver.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>silverware</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>silverware
+     n : tableware made of silver or silver plate or pewter or
+         stainless steel
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

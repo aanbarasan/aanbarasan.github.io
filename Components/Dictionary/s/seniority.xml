@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>seniority</Word>
+  <Definitions>
+    <Definition>
+      <Word>seniority</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Seniority \Sen*ior"i*ty\, n.
+   The quality or state of being senior.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>seniority</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>seniority
+     n 1: higher rank than that of others especially by reason of
+          longer service [syn: {senior status}, {higher status}, {higher
+          rank}]
+     2: the property of being long-lived [syn: {longevity}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

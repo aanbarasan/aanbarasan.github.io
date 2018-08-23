@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>manhood</Word>
+  <Definitions>
+    <Definition>
+      <Word>manhood</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Manhood \Man"hood\, n. [Man- + -hood.]
+   1. The state of being man as a human being, or man as
+      distinguished from a child or a woman.
+      [1913 Webster]
+
+   2. Manly quality; virility; courage; bravery; resolution.
+      [1913 Webster]
+
+            I am ashamed
+            That thou hast power to shake my manhood thus.
+                                                  --Shak.
+      [1913 Webster]
+
+   3. The genitalia of a male human.
+      [PJC]
+
+   4. The condition of being a human being.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>manhood</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>manhood
+     n 1: the state of being a man; manly qualities
+     2: the quality of being human; "he feared the speedy decline of
+        all manhood" [syn: {humanness}, {humanity}]
+     3: the status of being a man
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

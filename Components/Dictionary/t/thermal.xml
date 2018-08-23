@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>thermal</Word>
+  <Definitions>
+    <Definition>
+      <Word>thermal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Thermal \Ther"mal\, a. [L. thermae hot springs, fr. Gr. ?, pl.
+   of ? heat, fr. ? hot, warm, ? to warm, make hot; perhaps akin
+   to L. formus warm, and E. forceps.]
+   1. Of or pertaining to heat; warm; hot; as, the thermal unit;
+      thermal waters.
+      [1913 Webster]
+
+            The thermal condition of the earth.   --J. D.
+                                                  Forbes.
+      [1913 Webster]
+
+   2. caused by or affected by heat; as, thermal springs.
+      [PJC]
+
+   3. designed to retain heat; as, thermal underwear.
+      [PJC]
+
+   {Thermal conductivity}, {Thermal spectrum}. See under
+      {Conductivity}, and {Spectrum}.
+
+   {Thermal unit} (Physics), a unit chosen for the comparison or
+      calculation of quantities of heat. The unit most commonly
+      employed is the amount of heat necessary to raise the
+      temperature of one gram or one pound of water from zero to
+      one degree Centigrade. See {Calorie}, and under {Unit}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>thermal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>thermal
+     adj 1: relating to or associated with heat; "thermal movements of
+            molecules"; "thermal capacity"; "thermic energy"; "the
+            caloric effect of sunlight" [syn: {thermic}, {caloric}]
+            [ant: {nonthermal}]
+     2: of or relating to hot a hot spring; "thermal water"
+     3: caused by or designed to retain heat; "a thermal burn";
+        "thermal underwear"
+     n : rising current of warm air
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

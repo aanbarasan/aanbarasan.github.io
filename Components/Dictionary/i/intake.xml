@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>intake</Word>
+  <Definitions>
+    <Definition>
+      <Word>intake</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Intake \In"take`\, n.
+   1. The place where water, air, or other substance is taken
+      into a pipe, conduit, or machine; -- opposed to {outlet}.
+      [1913 Webster]
+
+   2. the beginning of a contraction or narrowing in a tube or
+      cylinder.
+      [1913 Webster]
+
+   3. The quantity taken in; as, the intake of air.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>intake</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>intake
+     n 1: the process of taking food into the body through the mouth
+          (as by eating) [syn: {consumption}, {ingestion}, {uptake}]
+     2: an opening through which fluid is admitted to a tube or
+        container
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

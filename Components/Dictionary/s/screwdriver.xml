@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>screwdriver</Word>
+  <Definitions>
+    <Definition>
+      <Word>screwdriver</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Screw-driver \Screw"-driv`er\, n.
+   A tool for turning screws so as to drive them into their
+   place. It has a thin end which enters the nick in the head of
+   the screw.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>screwdriver</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>screwdriver
+     n 1: a hand tool for driving screws; has a tip that fits into the
+          head of a screw
+     2: a cocktail made with vodka and orange juice
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

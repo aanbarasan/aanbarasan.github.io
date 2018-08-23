@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>inherent</Word>
+  <Definitions>
+    <Definition>
+      <Word>inherent</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Inherent \In*her"ent\, a. [L. inhaerens, -entis, p. pr. of
+   inhaerere: cf. F. inh['e]rent. See {Inhere}.]
+   Permanently existing in something; inseparably attached or
+   connected; naturally pertaining to; innate; inalienable; as,
+   polarity is an inherent quality of the magnet; the inherent
+   right of men to life, liberty, and protection. ``A most
+   inherent baseness.'' --Shak.
+   [1913 Webster]
+
+         The sore disease which seems inherent in civilization.
+                                                  --Southey.
+
+   Syn: Innate; inborn; native; natural; inbred; inwrought;
+        inseparable; essential; indispensable.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>inherent</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>inherent
+     adj 1: existing as an essential constituent or characteristic; "the
+            Ptolemaic system with its built-in concept of
+            periodicity"; "a constitutional inability to tell the
+            truth" [syn: {built-in}, {constitutional}, {inbuilt},
+            {integral}]
+     2: present at birth but not necessarily hereditary; acquired
+        during fetal development [syn: {congenital}, {inborn}, {innate}]
+     3: in the nature of something though not readily apparent;
+        "shortcomings inherent in our approach"; "an underlying
+        meaning" [syn: {implicit in(p)}, {underlying}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

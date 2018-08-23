@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>yeast</Word>
+  <Definitions>
+    <Definition>
+      <Word>yeast</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Yeast \Yeast\, n. [OE. [yogh]eest, [yogh]est, AS. gist; akin to
+   D. gest, gist, G. gischt, g["a]scht, OHG. jesan, jerian, to
+   ferment, G. gischen, g["a]schen, g["a]hren, Gr. ? boiled,
+   zei^n to boil, Skr. yas. [root]111.]
+   [1913 Webster]
+   1. The foam, or troth (top yeast), or the sediment (bottom
+      yeast), of beer or other in fermentation, which contains
+      the yeast plant or its spores, and under certain
+      conditions produces fermentation in saccharine or
+      farinaceous substances; a preparation used for raising
+      dough for bread or cakes, and making it light and puffy;
+      barm; ferment.
+      [1913 Webster]
+
+   2. Spume, or foam, of water.
+      [1913 Webster]
+
+            They melt thy yeast of waves, which mar
+            Alike the Armada's pride, or spoils of Trafalgar.
+                                                  --Byron.
+      [1913 Webster]
+      [1913 Webster]
+
+   {Yeast cake}, a mealy cake impregnated with the live germs of
+      the yeast plant, and used as a conveniently transportable
+      substitute for yeast.
+
+   {Yeast plant} (Bot.), the vegetable organism, or fungus, of
+      which beer yeast consists. The yeast plant is composed of
+      simple cells, or granules, about one three-thousandth of
+      an inch in diameter, often united into filaments which
+      reproduce by budding, and under certain circumstances by
+      the formation of spores. The name is extended to other
+      ferments of the same genus. See {Saccharomyces}.
+
+   {Yeast powder}, a baling powder, -- used instead of yeast in
+      leavening bread.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>yeast</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>yeast
+     n 1: a commercial leavening agent containing yeast cells; used to
+          raise the dough in making bread and for fermenting beer
+          or whiskey [syn: {barm}]
+     2: any of various single-celled fungi that reproduce asexually
+        by budding or division
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

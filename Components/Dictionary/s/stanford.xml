@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>stanford</Word>
+  <Definitions>
+    <Definition>
+      <Word>stanford</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Stanford, CA (CDP, FIPS 73906)
+  Location: 37.42405 N, 122.16489 W
+  Population (1990): 18097 (4770 housing units)
+  Area: 7.1 sq km (land), 0.1 sq km (water)
+  Zip code(s): 94305
+Stanford, IL (village, FIPS 72260)
+  Location: 40.43395 N, 89.22012 W
+  Population (1990): 620 (234 housing units)
+  Area: 1.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 61774
+Stanford, KY (city, FIPS 73110)
+  Location: 37.53186 N, 84.66269 W
+  Population (1990): 2686 (1159 housing units)
+  Area: 7.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 40484
+Stanford, MT (town, FIPS 70675)
+  Location: 47.15201 N, 110.21844 W
+  Population (1990): 529 (269 housing units)
+  Area: 1.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 59479
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stanford</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Stanford
+     n 1: United States railroad executive and founder of Stanford
+          University (1824-1893) [syn: {Leland Stanford}]
+     2: a university in California [syn: {Stanford University}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

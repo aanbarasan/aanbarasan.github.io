@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>woken</Word>
+  <Definitions>
+    <Definition>
+      <Word>woken</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>woken
+     See {wake}
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>woken</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>wake
+     n 1: the consequences of an event (especially a catastrophic
+          event); "the aftermath of war"; "in the wake of the
+          accident no one knew how many had been injured" [syn: {aftermath},
+           {backwash}]
+     2: an island in the western Pacific between Guam and Hawaii
+        [syn: {Wake Island}]
+     3: the wave that spreads behind a boat as it moves forward;
+        "the motorboat's wake capsized the canoe" [syn: {backwash}]
+     4: a vigil held over a corpse the night before burial; "there's
+        no weeping at an Irish wake" [syn: {viewing}]
+     v 1: be awake, be alert, be there [ant: {sleep}]
+     2: stop sleeping; "She woke up to the sound of the alarm clock"
+        [syn: {wake up}, {awake}, {arouse}, {awaken}, {come alive},
+         {waken}] [ant: {fall asleep}]
+     3: arouse or excite feelings and passions; "The ostentatious
+        way of living of the rich ignites the hatred of the poor";
+        "The refugees' fate stirred up compassion around the
+        world"; "Wake old feelings of hatred" [syn: {inflame}, {stir
+        up}, {ignite}, {heat}, {fire up}]
+     4: make aware of; "His words woke us to terrible facts of the
+        situation"
+     5: cause to become awake or conscious; "He was roused by the
+        drunken men in the street"; "Please wake me at 6 AM."
+        [syn: {awaken}, {waken}, {rouse}, {wake up}, {arouse}]
+        [ant: {cause to sleep}]
+     [also: {woken}, {woke}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

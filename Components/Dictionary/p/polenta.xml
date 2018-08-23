@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>polenta</Word>
+  <Definitions>
+    <Definition>
+      <Word>polenta</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Polenta \Po*len"ta\, n. [It., fr. L. polenta peeled barley.]
+   Pudding made of Indian meal; also, porridge made of chestnut
+   meal. [Italy]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>polenta</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>polenta
+     n : a thick mush made of cornmeal boiled in stock or water
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

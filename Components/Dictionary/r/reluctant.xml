@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>reluctant</Word>
+  <Definitions>
+    <Definition>
+      <Word>reluctant</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Reluctant \Re*luc"tant\ (-tant), a. [L. reluctans, -antis, p.
+   pr. of reluctari. See {Reluct}.]
+   1. Striving against; opposed in desire; unwilling;
+      disinclined; loth.
+      [1913 Webster]
+
+            Reluctant, but in vain.               --Milton.
+      [1913 Webster]
+
+            Reluctant now I touched the trembling string.
+                                                  --Tickell.
+      [1913 Webster]
+
+   2. Proceeding from an unwilling mind; granted with
+      reluctance; as, reluctant obedience. --Mitford.
+      [1913 Webster]
+
+   Syn: Averse; unwilling; loth; disinclined; repugnant;
+        backward; coy. See {Averse}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>reluctant</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>reluctant
+     adj 1: unwillingness to do something contrary to your custom; "a
+            reluctant smile"; "loath to admit a mistake";
+            "unwilling to face facts" [syn: {loath}, {loth}]
+     2: unwilling to become involved; "they were usually reluctant
+        to socialize"; "reluctant to help"
+     3: not eager; "foreigners stubbornly uneager to accept our
+        ways"; "fresh from college and uneager for the moment to
+        marry him"; "reluctant to help"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

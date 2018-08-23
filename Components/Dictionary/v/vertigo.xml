@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>vertigo</Word>
+  <Definitions>
+    <Definition>
+      <Word>vertigo</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Vertigo \Ver"ti*go\ (?; 277), n.; pl. E. {Vertigoes}, L.
+   {Vertigines}. [L., fr. vertere to turn. See {Verse}.]
+   1. (Med.) Dizziness or swimming of the head; an affection of
+      the head in which objects, though stationary, appear to
+      move in various directions, and the person affected finds
+      it difficult to maintain an erect posture; giddiness.
+      --Quian.
+      [1913 Webster]
+
+   2. (Zo["o]l.) Any one of numerous species of small land
+      snails belonging to the genus {Vertigo}, having an
+      elongated or conical spiral shell and usually teeth in the
+      aperture.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>vertigo</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>vertigo
+     n : a reeling sensation; feeling about to fall [syn: {dizziness},
+          {giddiness}, {lightheadedness}]
+     [also: {vertigoes} (pl), {vertigines} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

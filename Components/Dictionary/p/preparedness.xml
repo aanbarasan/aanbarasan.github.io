@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>preparedness</Word>
+  <Definitions>
+    <Definition>
+      <Word>preparedness</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Prepared \Pre*pared"\, a.
+   Made fit or suitable; adapted; ready; as, prepared food;
+   prepared questions. -- {Pre*par"ed*ly}, adv. --Shak. --
+   {Pre*par"ed*ness}, n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>preparedness</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>preparedness
+     n : the state of having been made ready or prepared for use or
+         action (especially military action); "putting them in
+         readiness"; "their preparation was more than adequate"
+         [syn: {readiness}, {preparation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>steamer</Word>
+  <Definitions>
+    <Definition>
+      <Word>steamer</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Steamer \Steam"er\ (-[~e]r), n.
+   1. A vessel propelled by steam; a steamship or steamboat.
+      [1913 Webster]
+
+   2. A steam fire engine. See under {Steam}.
+      [1913 Webster]
+
+   3. A road locomotive for use on common roads, as in
+      agricultural operations.
+      [1913 Webster]
+
+   4. A vessel in which articles are subjected to the action of
+      steam, as in washing, in cookery, and in various processes
+      of manufacture.
+      [1913 Webster]
+
+   5. (Zo["o]l.) The steamer duck.
+      [1913 Webster]
+
+   {Steamer duck} (Zo["o]l.), a sea duck ({Tachyeres cinereus}),
+      native of Patagonia and Terra del Fuego, which swims and
+      dives with great agility, but which, when full grown, is
+      incapable of flight, owing to its very small wings. Called
+      also {loggerhead}, {race horse}, and {side-wheel duck}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>steamer</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>steamer
+     n 1: a clam that is usually steamed in the shell [syn: {soft-shell
+          clam}, {steamer clam}, {long-neck clam}]
+     2: a cooking utensil that can be used to cook food by steaming
+        it
+     3: a ship powered by one or more steam engines [syn: {steamship}]
+     4: an edible clam with thin oval-shaped shell found in coastal
+        regions of the United States and Europe [syn: {soft-shell
+        clam}, {steamer clam}, {long-neck clam}, {Mya arenaria}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

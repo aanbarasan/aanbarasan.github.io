@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>noggin</Word>
+  <Definitions>
+    <Definition>
+      <Word>noggin</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Noggin \Nog"gin\, n. [Ir. noigin, or Gael. noigean. Cf. 1st
+   {Nog}.]
+   1. A small mug or cup.
+      [1913 Webster]
+
+   2. A measure equivalent to a gill. Hence: a small quantity of
+      a beverage. [Prov. Eng.]
+      [1913 Webster]
+
+   3. The head (of a person). [slang]
+
+   Syn: noodle, noddle.
+        [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>noggin</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>noggin
+     n : informal terms for a human head [syn: {attic}, {bean}, {bonce},
+          {noodle}, {dome}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

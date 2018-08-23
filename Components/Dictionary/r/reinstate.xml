@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>reinstate</Word>
+  <Definitions>
+    <Definition>
+      <Word>reinstate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Reinstate \Re`in*state"\ (-st?t"), v. t.
+   To place again in possession, or in a former state; to
+   restore to a state from which one had been removed; to
+   instate again; as, to reinstate a king in the possession of
+   the kingdom.
+   [1913 Webster]
+
+         For the just we have said already thet some of them
+         were reinstated in their pristine happiness and
+         felicity.                                --Glanvill.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>reinstate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>reinstate
+     v 1: restore to the previous state or rank
+     2: bring back into original existence, use, function, or
+        position; "restore law and order"; "reestablish peace in
+        the region"; "restore the emperor to the throne" [syn: {restore},
+         {reestablish}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

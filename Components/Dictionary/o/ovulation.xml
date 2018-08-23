@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ovulation</Word>
+  <Definitions>
+    <Definition>
+      <Word>ovulation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>ovulation \o`vu*la"tion\, n. (Physiol.)
+   The formation of ova or eggs in the ovary, and the discharge
+   of the same. In the human female the discharge occurs about
+   halfway between menstruation times.
+   [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ovulation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ovulation
+     n : the expulsion of an ovum from the ovary (usually midway in
+         the menstrual cycle) [ant: {anovulation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

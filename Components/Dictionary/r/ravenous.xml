@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ravenous</Word>
+  <Definitions>
+    <Definition>
+      <Word>ravenous</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ravenous \Rav"en*ous\ (r[a^]v"'n*[u^]s), a. [From 2d {Raven}.]
+   1. Devouring with rapacious eagerness; furiously voracious;
+      hungry even to rage; as, a ravenous wolf or vulture.
+      [1913 Webster]
+
+   2. Eager for prey or gratification; as, a ravenous appetite
+      or desire.
+      [1913 Webster] -- {Rav"en*ous*ly}, adv. --
+      {Rav"en*ous*ness}, n.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ravenous</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ravenous
+     adj 1: extremely hungry; "they were tired and famished for food and
+            sleep"; "a ravenous boy"; "the family was starved and
+            ragged"; "fell into the esurient embrance of a
+            predatory enemy" [syn: {famished}, {sharp-set}, {starved},
+             {esurient}]
+     2: devouring or craving food in great quantities; "edacious
+        vultures"; "a rapacious appetite"; "ravenous as wolves";
+        "voracious sharks" [syn: {edacious}, {esurient}, {rapacious},
+         {ravening}, {voracious}, {wolfish}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

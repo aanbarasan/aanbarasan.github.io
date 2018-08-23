@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>worrying</Word>
+  <Definitions>
+    <Definition>
+      <Word>worrying</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Worry \Wor"ry\, v. t. [imp. &amp; p. p. {Worried}; p. pr. &amp; vb. n.
+   {Worrying}.] [OE. worowen, wirien, to strangle, AS. wyrgan in
+   [=a]wyrgan; akin to D. worgen, wurgen, to strangle, OHG.
+   wurgen, G. w["u]rgen, Lith. verszti, and perhaps to E.
+   wring.]
+   [1913 Webster]
+   1. To harass by pursuit and barking; to attack repeatedly;
+      also, to tear or mangle with the teeth.
+      [1913 Webster]
+
+            A hellhound that doth hunt us all to death;
+            That dog that had his teeth before his eyes,
+            To worry lambs and lap their gentle blood. --Shak.
+      [1913 Webster]
+
+   2. To harass or beset with importunity, or with care an
+      anxiety; to vex; to annoy; to torment; to tease; to fret;
+      to trouble; to plague. ``A church worried with
+      reformation.'' --South.
+      [1913 Webster]
+
+            Let them rail,
+            And worry one another at their pleasure. --Rowe.
+      [1913 Webster]
+
+            Worry him out till he gives consent.  --Swift.
+      [1913 Webster]
+
+   3. To harass with labor; to fatigue. [Colloq.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>worrying</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>worrying
+     adj : causing distress or worry or anxiety; "distressing (or
+           disturbing) news"; "lived in heroic if something
+           distressful isolation"; "a disturbing amount of crime";
+           "a revelation that was most perturbing"; "a new and
+           troubling thought"; "in a particularly worrisome
+           predicament"; "a worrying situation"; "a worrying time"
+           [syn: {distressing}, {distressful}, {disturbing}, {perturbing},
+            {troubling}, {worrisome}]
+     n 1: the act of harassing someone [syn: {badgering}, {torment}, {bedevilment}]
+     2: the act of moving something by repeated tugs or pushes;
+        "vigorous worrying finally loosened the saw"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>waltz</Word>
+  <Definitions>
+    <Definition>
+      <Word>waltz</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Waltz \Waltz\, n. [G. walzer, from walzen to roll, revolve,
+   dance, OHG. walzan to roll; akin to AS. wealtan. See
+   {Welter}.]
+   A dance performed by two persons in circular figures with a
+   whirling motion; also, a piece of music composed in triple
+   measure for this kind of dance.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>waltz</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Waltz \Waltz\, v. i. [imp. &amp; p. p. {Waltzed}; p. pr. &amp; vb. n.
+   {Waltzing}.]
+   To dance a waltz.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>waltz</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>waltz
+     n 1: an assured victory (especially in an election) [syn: {walk-in}]
+     2: music composed in triple time for waltzing
+     3: a ballroom dance in triple time with a strong accent on the
+        first beat [syn: {valse}]
+     v : dance a waltz [syn: {waltz around}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

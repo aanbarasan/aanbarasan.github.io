@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mandatory</Word>
+  <Definitions>
+    <Definition>
+      <Word>mandatory</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mandatory \Man"da*to*ry\, a. [L. mandatorius.]
+   1. Containing a command; preceptive; directory.
+      [1913 Webster]
+
+   2. Obligatory; compulsory; required by authority.
+      [PJC]
+
+   3. (Law) Not optional; not able to be modified or
+      disregarded; as, seven mandatory clauses in the contract.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mandatory</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mandatory \Man"da*to*ry\, n.
+   Same as {Mandatary}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mandatory</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mandatory
+     adj : required by rule; "in most schools physical education are
+           compulsory"; "attendance is mandatory"; "required
+           reading" [syn: {compulsory}, {required}]
+     n 1: the recipient of a mandate [syn: {mandatary}]
+     2: a territory surrendered by Turkey or Germany after World War
+        I and put under the tutelage of some other European power
+        until they ar able to stand by themselves [syn: {mandate}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

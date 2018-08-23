@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>oreo</Word>
+  <Definitions>
+    <Definition>
+      <Word>oreo</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>oreo \oreo\ n.
+   A confection consisting of a white cream filling sandwiched
+   between two chocolate cookies.
+
+   Syn: oreo cookie.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>oreo</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>oreo
+     n : chocolate cookie with white cream filling [syn: {oreo cookie}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

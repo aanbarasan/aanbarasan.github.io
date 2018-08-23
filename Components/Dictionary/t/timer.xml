@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>timer</Word>
+  <Definitions>
+    <Definition>
+      <Word>timer</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Timer \Tim"er\, n.
+   1. A timekeeper; especially, a watch by which small intervals
+      of time can be measured; a kind of stop watch. It is used
+      for timing the speed of horses, machinery, etc.
+      [1913 Webster]
+
+   2. (Internal-combustion Engines) In electric ignition, an
+      adjustable device for automatically timing the spark.
+      [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>timer</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>timer
+     n 1: a timepiece that measures a time interval and signals its
+          end
+     2: (sports) an official who keeps track of the time elapsed
+        [syn: {timekeeper}]
+     3: a regulator that activates or deactivates a mechanism at set
+        times
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

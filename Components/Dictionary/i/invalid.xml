@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>invalid</Word>
+  <Definitions>
+    <Definition>
+      <Word>invalid</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Invalid \In"va*lid\ (?; 277), n. [F. invalide, n. &amp; a., L.
+   invalidus, a. See {Invalid} null.]
+   A person who is weak and infirm; one who is disabled for
+   active service; especially, one in chronic ill health who is
+   unable to care for himself.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>invalid</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Invalid \In"va*lid\, a. [See {Invalid}, n.]
+   Not well; feeble; infirm; sickly; as, he had an invalid
+   daughter.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>invalid</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Invalid \In"va*lid\, v. t.
+   1. To make or render invalid or infirm. ``Invalided, bent,
+      and almost blind.'' --Dickens.
+      [1913 Webster]
+
+   2. To classify or enroll as an invalid.
+      [1913 Webster]
+
+            Peace coming, he was invalided on half pay.
+                                                  --Carlyle.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>invalid</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Invalid \In*val"id\, a. [Pref. in- not + valid: cf. F. invalide,
+   L. invalidus infirm, weak. Cf. {Invalid} infirm.]
+   [1913 Webster]
+   1. Of no force, weight, or cogency; not valid; weak.
+      [1913 Webster]
+
+   2. (Law) Having no force, effect, or efficacy; void; null;
+      as, an invalid contract or agreement.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>invalid</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>invalid
+     adj 1: having no cogency or legal force; "invalid reasoning"; "an
+            invalid driver's license" [ant: {valid}]
+     2: no longer valid; "the license is invalid"
+     n : someone who is incapacitated by a chronic illness or injury
+         [syn: {shut-in}]
+     v 1: force to retire, remove from active duty, as of firemen
+     2: injure permanently; "He was disabled in a car accident"
+        [syn: {disable}, {incapacitate}, {handicap}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

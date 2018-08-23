@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>psychotherapy</Word>
+  <Definitions>
+    <Definition>
+      <Word>psychotherapy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Psychotherapy \Psy`cho*ther"a*py\, n. [Psycho- + therapy.]
+   (Med.)
+   Psychotherapeutics.
+   [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>psychotherapy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>psychotherapy
+     n 1: the branch of psychiatry concerned with psychological
+          methods [syn: {psychotherapeutics}, {mental hygiene}]
+     2: the treatment of mental or emotional problems by
+        psychological means
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

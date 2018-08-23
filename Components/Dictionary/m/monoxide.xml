@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>monoxide</Word>
+  <Definitions>
+    <Definition>
+      <Word>monoxide</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Monoxide \Mo*nox"ide\, n. [Mon- + oxide.] (Chem.)
+   An oxide containing one atom of oxygen in each molecule; as,
+   barium monoxide.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>monoxide</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>monoxide
+     n : an oxide containing just one atom of oxygen in the molecule
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

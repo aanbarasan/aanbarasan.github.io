@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>trilogy</Word>
+  <Definitions>
+    <Definition>
+      <Word>trilogy</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Trilogy
+     
+        &lt;language&gt; A {strongly typed} {logic programming} language
+        with numerical {constraint}-solving over the {natural
+        numbers}, developed by Paul Voda &lt;voda@voda.ii.fmph.uniba.sk&gt;
+        at {UBC} in 1988.  Trilogy is syntactically a blend of
+        {Prolog}, {Lisp}, and {Pascal}.  It contains three types of
+        {clauses}: {predicates} ({backtracking} but no assignable
+        variables), procedures (if-then-else but no backtracking;
+        assignable variables), and {subroutines} (like procedures, but
+        with input and {system calls}; callable only from top level or
+        from other subroutines).
+     
+        Development of Trilogy I stopped in 1991.  Trilogy II,
+        developed by Paul Voda 1988-92, was a {declarative} general
+        purpose programming language, used for teaching and to write
+        {CL}.
+     
+        {(http://www.fmph.uniba.sk/~voda)}.
+     
+        ["The Constraint Language Trilogy: Semantics and
+        Computations", P. Voda, Complete Logic Systems, 741 Blueridge
+        Ave, North Vancouver BC, V7R 2J5].
+     
+        (2000-04-08)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>trilogy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Trilogy \Tril"o*gy\, n. [Gr. trilogi`a; pref. tri- (see {Tri-})
+   + lo`gos speech, discourse: cf. F. trilogie.]
+   A series of three dramas which, although each of them is in
+   one sense complete, have a close mutual relation, and form
+   one historical and poetical picture. Shakespeare's `` Henry
+   VI.'' is an example.
+   [1913 Webster]
+
+         On the Greek stage, a drama, or acted story, consisted
+         in reality of three dramas, called together a trilogy,
+         and performed consecutively in the course of one day.
+                                                  --Coleridge.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>trilogy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>trilogy
+     n : a set of three literary or dramatic works related in subject
+         or theme
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

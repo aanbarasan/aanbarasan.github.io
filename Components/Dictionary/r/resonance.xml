@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>resonance</Word>
+  <Definitions>
+    <Definition>
+      <Word>resonance</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Resonance \Res"o*nance\ (r?z"?-nans), n. [Cf. F. r['e]sonance,
+   L. resonantia an echo.]
+   1. The act of resounding; the quality or state of being
+      resonant.
+      [1913 Webster]
+
+   2. (Acoustics) A prolongation or increase of any sound,
+      either by reflection, as in a cavern or apartment the
+      walls of which are not distant enough to return a distinct
+      echo, or by the production of vibrations in other bodies,
+      as a sounding-board, or the bodies of musical instruments.
+      [1913 Webster]
+
+   3. (Physics) A phenomenon in which a vibration or other
+      cyclic process (such as tide cycles) of large amplitude is
+      produced by smaller impulses, when the frequency of the
+      external impulses is close to that of the natural cycling
+      frequency of the process in that system.
+
+   Note: The shattering of a glass object when impinged upon by
+         sound of a certain frequency is one example of this
+         phenomenon; another is the very large tides in certain
+         basins such as that of the Bay of Fundy, which has a
+         natural cycling frequency close to that of the tidal
+         cycle.
+         [PJC]
+
+   4. (Electronics) An electric phenomenon corresponding to that
+      of acoustic resonance, due to the existance of certain
+      relations of the capacity, inductance, resistance, and
+      frequency of an alternating circuit; the tuning of a radio
+      transmitter or receiver to send or detect waves of
+      specific frequencies depends on this phenomenon.
+      [Webster 1913 Suppl. +PJC]
+
+   {Pulmonary resonance} (Med.), the sound heard on percussing
+      over the lungs.
+
+   {Vocal resonance} (Med.), the sound transmitted to the ear
+      when auscultation is made while the patient is speaking.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>resonance</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>resonance
+     n 1: an excited state of a stable particle causing a sharp
+          maximum in the probability of absorption of
+          electromagnetic radiation
+     2: a vibration of large amplitude produced by a relatively
+        small vibration near the same frequency of vibration as
+        the natural frequency of the resonating system
+     3: having the character of a loud deep sound; the quality of
+        being resonant [syn: {plangency}, {reverberance}, {ringing},
+         {sonorousness}, {sonority}, {vibrancy}]
+     4: relation of mutual understanding or trust and agreement
+        between people [syn: {rapport}]
+     5: the quality imparted to voiced speech sounds by the action
+        of the resonating chambers of the throat and mouth and
+        nasal cavities
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

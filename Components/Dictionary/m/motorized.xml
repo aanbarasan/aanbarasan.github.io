@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>motorized</Word>
+  <Definitions>
+    <Definition>
+      <Word>motorized</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>motorized \motorized\ adj.
+   1. same as {motored}; as, a motorized wheelchair. Opposite of
+      {unmotorized}. [Narrower terms: {bimotored ; {trimotored
+      ]
+
+   Syn: motored.
+        [WordNet 1.5]
+
+   2. Equipped with vehicles to permit rapid movement from place
+      to place.
+
+   Syn: mechanized.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>motorized</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>motorized
+     adj 1: equipped with a motor or motors; "a motorized wheelchair"
+            [syn: {motorised}, {motored}] [ant: {unmotorized}]
+     2: using vehicles; "motorized warfare" [syn: {mechanized}, {mechanised}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

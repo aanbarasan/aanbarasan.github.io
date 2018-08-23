@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>speakerphone</Word>
+  <Definitions>
+    <Definition>
+      <Word>speakerphone</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>speakerphone
+     n : a telephone with a microphone and loudspeaker; can be used
+         without picking up a handset; several people can
+         participate in a call at the same time
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

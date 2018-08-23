@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>replacement</Word>
+  <Definitions>
+    <Definition>
+      <Word>replacement</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Replacement \Re*place"ment\ (-ment), n.
+   1. The act of replacing.
+      [1913 Webster]
+
+   2. (Crystallog.) The removal of an edge or an angle by one or
+      more planes.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>replacement</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>replacement
+     n 1: an event in which one thing is substituted for another; "the
+          replacement of lost blood by a transfusion of donor
+          blood" [syn: {substitution}, {permutation}, {transposition},
+           {switch}]
+     2: the act of furnishing an equivalent person or thing in the
+        place of another; "replacing the star will not be easy"
+        [syn: {replacing}]
+     3: someone who takes the place of another person [syn: {surrogate},
+         {alternate}]
+     4: a person or thing that takes or can take the place of
+        another [syn: {substitute}]
+     5: filling again by supplying what has been used up [syn: {refilling},
+         {replenishment}, {renewal}]
+     6: a person who follows next in order; "he was President
+        Lincoln's successor" [syn: {successor}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

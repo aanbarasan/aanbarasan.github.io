@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>wellmeaning</Word>
+  <Definitions>
+    <Definition>
+      <Word>wellmeaning</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Well-meaning \Well"-mean`ing\, a.
+   Having a good intention.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wellmeaning</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>well-meaning
+     adj 1: not unfriendly or threatening; "her well-meaning words were
+            received in silence"; "the exasperation of
+            a...well-meaning cow worried by dogs" [syn: {unthreatening}]
+     2: marked by good intentions though often producing unfortunate
+        results; "a well-intentioned but clumsy waiter"; "a
+        well-meaning but tactless fellow"; "the son's well-meaning
+        efforts threw a singular chill upon the father's
+        admirers"- S.W.Maughm; "blunt but well-meant criticism"
+        [syn: {well-intentioned}, {well-meant}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>meticulously</Word>
+  <Definitions>
+    <Definition>
+      <Word>meticulously</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Meticulous \Me*tic"u*lous\, a. [L. meticulosus, fr. metus fear:
+   cf. F. m['e]ticuleux.]
+   Timid; fearful. [archaic]
+   [1913 Webster]
+
+   2. Taking great care to get every detail correct; working
+      thoroughly and with precision; as, meticulous workmanship.
+      [PJC] -- {Me*tic"u*lous*ly}, adv.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>meticulously</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>meticulously
+     adv : in a meticulous manner; "the set was meticulously authentic"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

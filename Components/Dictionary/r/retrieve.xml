@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>retrieve</Word>
+  <Definitions>
+    <Definition>
+      <Word>retrieve</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Retrieve
+     
+        &lt;language&gt; A {query language} inspired {JPLDIS} which led to
+        {Vulcan} and then to {dBASE II}, developed by {Tymshare Corp}
+        in the 1960s.
+     
+        (1998-04-29)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>retrieve</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Retrieve \Re*trieve"\, v. i. (Sport.)
+   To discover and bring in game that has been killed or
+   wounded; as, a dog naturally inclined to retrieve. --Walsh.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>retrieve</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Retrieve \Re*trieve"\, n.
+   1. A seeking again; a discovery. [Obs.] --B. Jonson.
+      [1913 Webster]
+
+   2. The recovery of game once sprung; -- an old sporting term.
+      [Obs.] --Nares.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>retrieve</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Retrieve \Re*trieve"\, v. t. [imp. &amp; p. p. {Retrieved}; p. pr. &amp;
+   vb. n. {Retrieving}.] [OE. retreven, OF. retrover to find
+   again, recover (il retroevee finds again), F. retrouver;
+   pref. re- re- + OF. trover to find, F. trouver. See
+   {Trover}.]
+   1. To find again; to recover; to regain; to restore from loss
+      or injury; as, to retrieve one's character; to retrieve
+      independence.
+      [1913 Webster]
+
+            With late repentance now they would retrieve
+            The bodies they forsook, and wish to live. --Dryden
+      [1913 Webster]
+
+   2. To recall; to bring back.
+      [1913 Webster]
+
+            To retrieve them from their cold, trivial conceits.
+                                                  --Berkeley.
+      [1913 Webster]
+
+   3. To remedy the evil consequence of, to repair, as a loss or
+      damadge.
+      [1913 Webster]
+
+            Accept my sorrow, and retrieve my fall. --Prior.
+      [1913 Webster]
+
+            There is much to be done . . . and much to be
+            retrieved.                            --Burke.
+      [1913 Webster]
+
+   Syn: To recover; regain; recruit; repair; restore.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>retrieve</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>retrieve
+     v 1: get or find back; recover the use of; "She regained control
+          of herself"; "She found her voice and replied quickly"
+          [syn: {recover}, {find}, {regain}]
+     2: of trained dogs
+     3: recall knowledge from memory; have a recollection; "I can't
+        remember saying any such thing"; "I can't think what her
+        last name was"; "can you remember her phone number?"; "Do
+        you remember that he once loved you?"; "call up memories"
+        [syn: {remember}, {recall}, {call back}, {call up}, {recollect},
+         {think}] [ant: {forget}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

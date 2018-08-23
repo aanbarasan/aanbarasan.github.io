@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unimportant</Word>
+  <Definitions>
+    <Definition>
+      <Word>unimportant</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unimportant
+     adj 1: not important; "a relatively unimportant feature of the
+            system"; "the question seems unimportant" [ant: {important}]
+     2: not important or noteworthy [syn: {insignificant}] [ant: {significant}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

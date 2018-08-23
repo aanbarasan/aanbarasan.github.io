@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>quota</Word>
+  <Definitions>
+    <Definition>
+      <Word>quota</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Quota \Quo"ta\ (kw[=o]"t[.a]), n. [LL., fr. L. quota (sc. pars),
+   fr. quotus which or what in number, of what number, how many,
+   fr. quot how many, akin to quis, qui, who: cf. It. quota a
+   share. See {Who}.]
+   1. A proportional part or share; the share or proportion
+      assigned to each in a division. ``Quota of troops and
+      money.'' --Motley.
+      [1913 Webster]
+
+   2. a share of effort required to be performed, or a share of
+      resources required to be contributed to some common
+      purpose.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>quota</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>quota
+     n 1: a prescribed number; "all the salesmen met their quota for
+          the month"
+     2: a proportional share assigned to each participant
+     3: a limitation on imports; "the quota for Japanese imports was
+        negotiated"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

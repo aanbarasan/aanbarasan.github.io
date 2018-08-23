@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>wherein</Word>
+  <Definitions>
+    <Definition>
+      <Word>wherein</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Wherein \Where*in"\, adv.
+   [1913 Webster]
+   1. In which; in which place, thing, time, respect, or the
+      like; -- used relatively.
+      [1913 Webster]
+
+            Her clothes wherein she was clad.     --Chaucer.
+      [1913 Webster]
+
+            There are times wherein a man ought to be cautious
+            as well as innocent.                  --Swift.
+      [1913 Webster]
+
+   2. In what; -- used interrogatively.
+      [1913 Webster]
+
+            Yet ye say, Wherein have we wearied him! --Mal. ii.
+                                                  17.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wherein</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>wherein
+     adv 1: in regard to which; "a case wherein he took an active part"
+     2: in the course or during which; "a period wherein he did not
+        work"
+     3: in which; where; "the particular state wherein you reside"
+     4: in what; "wherein consists this matter?"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

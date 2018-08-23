@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>wildeyed</Word>
+  <Definitions>
+    <Definition>
+      <Word>wildeyed</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>agitated \agitated\ adj.
+   1. troubled emotionally and usually deeply. Opposite of
+      {unagitated}. agitated parents
+
+   Note: Narrower terms are: {demoniac, demoniacal ; distraught,
+         overwrought; {disturbed, jolted, shaken}; {feverish,
+         hectic}; {frantic, frenetic, phrenetic, frenzied};
+         {psychedelic ; {rampageous, raging, frenzied ;
+         {wild-eyed . Also See: discomposed, excited, impatient,
+         tense, unquiet, unsteady.
+         [WordNet 1.5]
+
+   2. 1 throwing oneself from side to side.
+
+   Syn: tossing
+        [WordNet 1.5]
+
+   3. physically disturbed or set in motion; as, the agitated
+      mixture foamed and bubbled. Opposite of {unagitated} and
+      {left alone}, {allowed to stand}.
+
+   Note: [Narrower terms are: {churning, churned-up, roiling,
+         roiled, roily, turbulent ; {stirred}.]
+         [WordNet 1.5 +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wildeyed</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>wild-eyed
+     adj 1: appearing extremely agitated; "crowded the wild-eyed animals
+            into a truck"
+     2: not sensible about practical matters; unrealistic; "as
+        quixotic as a restoration of medieval knighthood"; "a
+        romantic disregard for money"; "a wild-eyed dream of a
+        world state" [syn: {quixotic}, {romantic}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

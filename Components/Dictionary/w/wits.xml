@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>wits</Word>
+  <Definitions>
+    <Definition>
+      <Word>wits</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>wits
+     n : the basic human power of intelligent thought and perception;
+         "he used his wits to get ahead"; "I was scared out of my
+         wits"; "he still had all his marbles and was in full
+         possession of a lively mind" [syn: {marbles}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

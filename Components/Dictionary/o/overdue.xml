@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>overdue</Word>
+  <Definitions>
+    <Definition>
+      <Word>overdue</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>overdue \o"ver*due"\, a.
+   Due and more than due; delayed beyond the proper time of
+   arrival, payment, return, etc.; as, an overdue vessel; an
+   overdue note; a book overdue at the library; an overdue
+   payment.
+   [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>overdue</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>overdue
+     adj : past due; not paid at the scheduled time; "an overdue
+           installment"; "a delinquent account" [syn: {delinquent}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

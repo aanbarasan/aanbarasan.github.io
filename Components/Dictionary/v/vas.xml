@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>vas</Word>
+  <Definitions>
+    <Definition>
+      <Word>vas</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Vas \Vas\, n.; pl. {Vasa}. [L., a vessel. See {Vase}.] (Anat.)
+   A vessel; a duct.
+   [1913 Webster]
+
+   {Vas deferens}; pl. {Vasa deferentia}. [L. vas vessel +
+      deferens carrying down.] (Anat.) The excretory duct of a
+      testicle; a spermatic duct.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>vas</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>VAS
+     Value Added Services
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>vas</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>vas
+     n : a tube in which a body fluid circulates [syn: {vessel}]
+     [also: {vasa} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

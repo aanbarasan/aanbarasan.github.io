@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>semblance</Word>
+  <Definitions>
+    <Definition>
+      <Word>semblance</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Semblance \Sem"blance\, n. [F. See {Semblable}, a.]
+   1. Seeming; appearance; show; figure; form.
+      [1913 Webster]
+
+            Thier semblance kind, and mild their gestures were.
+                                                  --Fairfax.
+      [1913 Webster]
+
+   2. Likeness; resemblance, actual or apparent; similitude; as,
+      the semblance of worth; semblance of virtue.
+      [1913 Webster]
+
+            Only semblances or imitations of shells. --Woodward.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>semblance</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>semblance
+     n 1: an outward or token appearance or form that is deliberately
+          misleading; "he hoped his claims would have a semblance
+          of authenticity"; "he tried to give his falsehood the
+          gloss of moral sanction"; "the situation soon took on a
+          different color" [syn: {gloss}, {color}, {colour}]
+     2: an erroneous mental representation [syn: {illusion}]
+     3: picture consisting of a graphic image of a person or thing
+        [syn: {likeness}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

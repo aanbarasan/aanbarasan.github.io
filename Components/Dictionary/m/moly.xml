@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>moly</Word>
+  <Definitions>
+    <Definition>
+      <Word>moly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Moly \Mo"ly\, n. [L., fr. Gr. ?.]
+   1. A fabulous herb of occult power, having a black root and
+      white blossoms, said by Homer to have been given by Hermes
+      to Ulysses to counteract the spells of Circe. --Milton.
+      [1913 Webster]
+
+   2. (Bot.) A kind of garlic ({Allium Moly}) with large yellow
+      flowers; -- called also {golden garlic}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>johnny</Word>
+  <Definitions>
+    <Definition>
+      <Word>johnny</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Johnny \John"ny\, n.; pl. {Johnnies}.
+   1. A familiar diminutive of {John}.
+      [1913 Webster]
+
+   2. (Zo["o]l.) A sculpin. [Local cant]
+      [1913 Webster]
+
+   {Johny Crapaud}, a jocose designation of a Frenchman, or of
+      the French people, collectively.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>johnny</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Johnny
+     n : `johnny' was applied as a nickname for Confederate soldiers
+         by the Federal soldiers in the American Civil War;
+         `grayback' derived from their gray Confederate uniforms
+         [syn: {Rebel}, {Reb}, {Johnny Reb}, {grayback}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

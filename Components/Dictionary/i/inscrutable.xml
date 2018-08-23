@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>inscrutable</Word>
+  <Definitions>
+    <Definition>
+      <Word>inscrutable</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Inscrutable \In*scru"ta*ble\, a. [L. inscrutabilis : cf. F.
+   inscrutable. See {In-} not, and {Scrutiny}.]
+   Unsearchable; incapable of being searched into and understood
+   by inquiry or study; impossible or difficult to be explained
+   or accounted for satisfactorily; obscure; incomprehensible;
+   as, an inscrutable design or event.
+   [1913 Webster]
+
+         'T is not in man
+         To yield a reason for the will of Heaven
+         Which is inscrutable.                    --Beau. &amp; Fl.
+   [1913 Webster]
+
+         Waiving a question so inscrutable as this. --De
+                                                  Quincey.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>inscrutable</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>inscrutable
+     adj : of an obscure nature; "the new insurance policy is written
+           without cryptic or mysterious terms"; "a deep dark
+           secret"; "the inscrutible workings of Providence"; "in
+           its mysterious past it encompasses all the dim origins
+           of life"- Rachel Carson; "rituals totally mystifying to
+           visitors from other lands" [syn: {cryptic}, {cryptical},
+            {deep}, {mysterious}, {mystifying}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

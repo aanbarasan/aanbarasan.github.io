@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>virtual</Word>
+  <Definitions>
+    <Definition>
+      <Word>virtual</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>virtual
+     
+        &lt;jargon, architecture&gt; (Via the technical term {virtual
+        memory}, probably from the term "virtual image" in optics)
+        1. Common alternative to {logical}; often used to refer to the
+        artificial objects (like addressable {virtual memory} larger
+        than physical memory) created by a computer system to help the
+        system control access to shared resources.
+     
+        2. Simulated; performing the functions of something that isn't
+        really there.  An imaginative child's doll may be a virtual
+        playmate.
+     
+        Opposite of {real} or physical.
+     
+        [{Jargon File}]
+     
+        (1994-11-30)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>virtual</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Virtual \Vir"tu*al\ (?; 135), a. [Cf. F. virtuel. See {Virtue}.]
+   1. Having the power of acting or of invisible efficacy
+      without the agency of the material or sensible part;
+      potential; energizing.
+      [1913 Webster]
+
+            Heat and cold have a virtual transition, without
+            communication of substance.           --Bacon.
+      [1913 Webster]
+
+            Every kind that lives,
+            Fomented by his virtual power, and warmed. --Milton.
+      [1913 Webster]
+
+   2. Being in essence or effect, not in fact; as, the virtual
+      presence of a man in his agent or substitute.
+      [1913 Webster]
+
+            A thing has a virtual existence when it has all the
+            conditions necessary to its actual existence.
+                                                  --Fleming.
+      [1913 Webster]
+
+            To mask by slight differences in the manners a
+            virtual identity in the substance.    --De Quincey.
+      [1913 Webster]
+
+   {Principle of virtual velocities} (Mech.), the law that when
+      several forces are in equilibrium, the algebraic sum of
+      their virtual moments is equal to zero.
+
+   {Virtual focus} (Opt.), the point from which rays, having
+      been rendered divergent by reflection of refraction,
+      appear to issue; the point at which converging rays would
+      meet if not reflected or refracted before they reach it.
+      
+
+   {Virtual image}. (Optics) See under {Image}.
+
+   {Virtual moment} (of a force) (Mech.), the product of the
+      intensity of the force multiplied by the virtual velocity
+      of its point of application; -- sometimes called {virtual
+      work}.
+
+   {Virtual velocity} (Mech.), a minute hypothetical
+      displacement, assumed in analysis to facilitate the
+      investigation of statical problems. With respect to any
+      given force of a number of forces holding a material
+      system in equilibrium, it is the projection, upon the
+      direction of the force, of a line joining its point of
+      application with a new position of that point indefinitely
+      near to the first, to which the point is conceived to have
+      been moved, without disturbing the equilibrium of the
+      system, or the connections of its parts with each other.
+      Strictly speaking, it is not a velocity but a length.
+
+   {Virtual work}. (Mech.) See {Virtual moment}, above.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>virtual</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>virtual adj. [via the technical term `virtual memory', prob. from the
+   term `virtual image' in optics] 1. Common alternative to {logical};
+   often used to refer to the artificial objects (like addressable virtual
+   memory larger than physical memory) simulated by a computer system as a
+   convenient way to manage access to shared resources. 2. Simulated;
+   performing the functions of something that isn't really there. An
+   imaginative child's doll may be a virtual playmate. Oppose {real}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>virtual</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>virtual
+     adj 1: being actually such in almost every respect; "a practical
+            failure"; "the once elegant temple lay in virtual
+            ruin" [syn: {virtual(a)}, {practical(a)}]
+     2: being such in essence or effect though not in actual fact;
+        "a virtual dependence on charity"; "a virtual revolution";
+        "virtual reality" [syn: {virtual(a)}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

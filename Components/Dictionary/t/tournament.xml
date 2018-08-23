@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tournament</Word>
+  <Definitions>
+    <Definition>
+      <Word>tournament</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tournament \Tour"na*ment\, n. [OE. turnement, tornement, OF.
+   torneiement, tornoiement, F. tournoiement a turning or
+   wheeling round. See {Tourney}.]
+   1. A mock fight, or warlike game, formerly in great favor, in
+      which a number of combatants were engaged, as an
+      exhibition of their address and bravery; hence,
+      figuratively, a real battle. ``In battle and in
+      tourneyment.'' --Chaucer.
+      [1913 Webster]
+
+            With cruel tournament the squadrons join. --Milton.
+      [1913 Webster]
+
+   Note: It different from the joust, which was a trial of skill
+         between one man and another.
+         [1913 Webster]
+
+   2. Any contest of skill in which there are many contestents
+      for championship; as, a chess tournament.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tournament</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tournament
+     n 1: a sporting competition in which contestants play a series of
+          games to decide the winner [syn: {tourney}]
+     2: a series of jousts between knights contesting for a prize
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

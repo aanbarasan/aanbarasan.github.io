@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pixie</Word>
+  <Definitions>
+    <Definition>
+      <Word>pixie</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pixy \Pix"y\, Pixie \Pix"ie\, n.; pl. {Pixies}. [For Pucksy,
+   from Puck.]
+   1. An old English name for a fairy; an elf. [Written also
+      {picksy}.]
+      [1913 Webster]
+
+   2. (Bot.) A low creeping evergreen plant ({Pyxidanthera
+      barbulata}), with mosslike leaves and little white
+      blossoms, found in New Jersey and southward, where it
+      flowers in earliest spring.
+      [1913 Webster]
+
+   {Pixy ring}, a fairy ring or circle. [Prov. Eng.]
+
+   {Pixy stool} (Bot.), a toadstool or mushroom. [Prov. Eng.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pixie</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pixie
+     n 1: (folklore) fairies that are somewhat mischievous [syn: {elf},
+           {hob}, {gremlin}, {pixy}, {brownie}, {imp}]
+     2: creeping evergreen shrub having narrow overlapping leaves
+        and early white star-shaped flowers; of the pine barrens
+        of New Jersey and the Carolinas [syn: {pyxie}, {pixy}, {Pyxidanthera
+        barbulata}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

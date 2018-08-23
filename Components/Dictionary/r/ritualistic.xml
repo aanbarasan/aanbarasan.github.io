@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ritualistic</Word>
+  <Definitions>
+    <Definition>
+      <Word>ritualistic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ritualistic \Rit`u*al*is"tic\, a.
+   Pertaining to, or in accordance with, a ritual; adhering to
+   ritualism.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ritualistic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ritualistic
+     adj : of or characterized by or adhering to ritualism; "a feudal
+           or ritualistic society"; "the ritualistic killing of a
+           sheep"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>saturnalia</Word>
+  <Definitions>
+    <Definition>
+      <Word>saturnalia</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Saturnalia \Sat`ur*na"li*a\, n. pl. [L. See {Saturn}.]
+   1. (Rom. Antiq.) The festival of Saturn, celebrated in
+      December, originally during one day, but afterward during
+      seven days, as a period of unrestrained license and
+      merriment for all classes, extending even to the slaves.
+      [1913 Webster]
+
+   2. Hence: A period or occasion of general license, in which
+      the passions or vices have riotous indulgence.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>saturnalia</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Saturnalia
+     n 1: an orgiastic festival in ancient Rome in honor of Saturn
+     2: a wild gathering involving excessive drinking and
+        promiscuity [syn: {orgy}, {debauch}, {debauchery}, {riot},
+         {bacchanal}, {bacchanalia}, {drunken revelry}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

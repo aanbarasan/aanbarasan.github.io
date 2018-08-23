@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>laundered</Word>
+  <Definitions>
+    <Definition>
+      <Word>laundered</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Launder \Laun"der\, v. t. [imp. &amp; p. p. {Laundered}
+   (l[add]n"d[~e]rd or l[aum]n"d[~e]rd); p. pr. &amp; vb. n.
+   {Laundering}.]
+   1. To wash, as clothes; to wash, and to smooth with a
+      flatiron or mangle; to wash and iron; as, to launder
+      shirts.
+      [1913 Webster]
+
+   2. To lave; to wet. [Obs.] --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

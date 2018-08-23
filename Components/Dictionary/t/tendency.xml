@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tendency</Word>
+  <Definitions>
+    <Definition>
+      <Word>tendency</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tendency \Tend"en*cy\, n.; pl. {Tendencies}. [L. tendents,
+   -entis, p. pr. of tendere: cf. F. tendance. See {Tend} to
+   move.]
+   Direction or course toward any place, object, effect, or
+   result; drift; causal or efficient influence to bring about
+   an effect or result.
+   [1913 Webster]
+
+         Writings of this kind, if conducted with candor, have a
+         more particular tendency to the good of their country.
+                                                  --Addison.
+   [1913 Webster]
+
+         In every experimental science, there is a tendency
+         toward perfection.                       --Macaulay.
+   [1913 Webster]
+
+   Syn: Disposition; inclination; proneness; drift; scope; aim.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tendency</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tendency
+     n 1: an attitude of mind especially one that favors one
+          alternative over others; "he had an inclination to give
+          up too easily"; "a tendency to be too strict" [syn: {inclination},
+           {disposition}]
+     2: an inclination to do something; "he felt leanings toward
+        frivolity" [syn: {leaning}, {propensity}]
+     3: a characteristic likelihood of or natural disposition toward
+        a certain condition or character or effect; "the alkaline
+        inclination of the local waters"; "fabric with a tendency
+        to shrink" [syn: {inclination}]
+     4: a general direction in which something tends to move; "the
+        shoreward tendency of the current"; "the trend of the
+        stock market" [syn: {trend}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

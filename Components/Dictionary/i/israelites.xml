@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>israelites</Word>
+  <Definitions>
+    <Definition>
+      <Word>israelites</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Israelites
+     n : the ethnic group claiming descent from Abraham and Isaac
+         (especially from Isaac's son Jacob); the nation whom God
+         chose to receive his revelation and with whom God chose
+         to make a covenant (Exodus 19) [syn: {Hebrews}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

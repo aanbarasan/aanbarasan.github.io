@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pedestrian</Word>
+  <Definitions>
+    <Definition>
+      <Word>pedestrian</Word>
+      <Dictionary>
+        <Id>devils</Id>
+        <Name>THE DEVIL'S DICTIONARY ((C)1911 Released April 15 1993)</Name>
+      </Dictionary>
+      <WordDefinition>PEDESTRIAN, n.  The variable (an audible) part of the roadway for an
+automobile.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pedestrian</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pedestrian \Pe*des"tri*an\, a.
+   Going on foot; performed on foot; as, a pedestrian journey.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pedestrian</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pedestrian \Pe*des"tri*an\, n.
+   A walker; one who journeys on foot; a foot traveler; specif.,
+   a professional walker or runner.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pedestrian</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pedestrian
+     adj : lacking wit or imagination; "a pedestrian movie plot" [syn:
+           {prosaic}, {prosy}, {earthbound}]
+     n : a person who travels by foot [syn: {walker}, {footer}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mandelbrot</Word>
+  <Definitions>
+    <Definition>
+      <Word>mandelbrot</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Mandelbrot
+     n : French mathematician (born in Poland) noted for inventing
+         fractals (born in 1924) [syn: {Benoit Mandelbrot}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

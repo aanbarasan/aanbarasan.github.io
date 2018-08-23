@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unfit</Word>
+  <Definitions>
+    <Definition>
+      <Word>unfit</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Unfit \Un*fit"\, v. t. [1st pref. un- + fit.]
+   To make unsuitable or incompetent; to deprive of the
+   strength, skill, or proper qualities for anything; to
+   disable; to incapacitate; to disqualify; as, sickness unfits
+   a man for labor; sin unfits us for the society of holy
+   beings.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>unfit</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Unfit \Un*fit"\, a. [Pref. un- + fit.]
+   Not fit; unsuitable. -- {Un*fit"ly}, adv. -- {Un*fit"ness},
+   n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>unfit</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unfit
+     adj 1: below the required standards for a purpose; "an unfit
+            parent"; "unfit for human consumption" [ant: {fit}]
+     2: not in good physical or mental condition; out of condition;
+        "fat and very unfit"; "certified as unfit for army
+        service"; "drunk and unfit for service" [ant: {fit}]
+     3: physically unsound or diseased; "has a bad back"; "a bad
+        heart"; "bad teeth"; "an unsound limb"; "unsound teeth"
+        [syn: {bad}, {unsound}]
+     v : make unfit or unsuitable; "Your income disqualifies you"
+         [syn: {disqualify}, {indispose}] [ant: {qualify}]
+     [also: {unfitting}, {unfitted}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

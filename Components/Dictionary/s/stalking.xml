@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>stalking</Word>
+  <Definitions>
+    <Definition>
+      <Word>stalking</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Stalk \Stalk\, v. i. [imp. &amp; p. p. {Stalked} (st[add]kt); p. pr.
+   &amp; vb. n. {Stalking}.] [AS. st[ae]lcan, stealcian to go
+   slowly; cf. stealc high, elevated, Dan. stalke to stalk;
+   probably akin to 1st stalk.]
+   1. To walk slowly and cautiously; to walk in a stealthy,
+      noiseless manner; -- sometimes used with a reflexive
+      pronoun. --Shak.
+      [1913 Webster]
+
+            Into the chamber he stalked him full still.
+                                                  --Chaucer.
+      [1913 Webster]
+
+            [Bertran] stalks close behind her, like a witch's
+            fiend,
+            Pressing to be employed.              --Dryden.
+      [1913 Webster]
+
+   2. To walk behind something as a screen, for the purpose of
+      approaching game; to proceed under cover.
+      [1913 Webster]
+
+            The king . . . crept under the shoulder of his led
+            horse; . . . ``I must stalk,'' said he. --Bacon.
+      [1913 Webster]
+
+            One underneath his horse, to get a shoot doth stalk.
+                                                  --Drayton.
+      [1913 Webster]
+
+   3. To walk with high and proud steps; -- usually implying the
+      affectation of dignity, and indicating dislike. The word
+      is used, however, especially by the poets, to express
+      dignity of step.
+      [1913 Webster]
+
+            With manly mien he stalked along the ground.
+                                                  --Dryden.
+      [1913 Webster]
+
+            Then stalking through the deep,
+            He fords the ocean.                   --Addison.
+      [1913 Webster]
+
+            I forbear myself from entering the lists in which he
+            has long stalked alone and unchallenged. --Merivale.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stalking</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>stalking
+     adj : moving silently and deliberately; especially pursuing
+           stealthily and persistently; "we watched the stalking
+           tiger approach his prey"; "a stalking specter on the
+           castle walls at midnight"
+     n 1: a hunt for game carried on by stalking or waiting in ambush
+          [syn: {stalk}, {still hunt}]
+     2: the act of following prey stealthily [syn: {stalk}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

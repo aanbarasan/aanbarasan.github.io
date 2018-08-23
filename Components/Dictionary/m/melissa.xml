@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>melissa</Word>
+  <Definitions>
+    <Definition>
+      <Word>melissa</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Melissa, TX (city, FIPS 47496)
+  Location: 33.28261 N, 96.57719 W
+  Population (1990): 557 (250 housing units)
+  Area: 4.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 75454
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>melissa</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Melissa \Me*lis"sa\, n. [NL., fr. Gr. me`lissa a bee, honey.]
+   (Bot.)
+   A genus of labiate herbs, including the balm, or bee balm
+   ({Melissa officinalis}).
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>melissa</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Melissa
+     n : a genus of Old World mints of the family Labiatae [syn: {genus
+         Melissa}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

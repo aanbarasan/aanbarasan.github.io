@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mathematical</Word>
+  <Definitions>
+    <Definition>
+      <Word>mathematical</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mathematical \Math`e*mat"ic*al\, a. [See {Mathematic}.]
+   Of or pertaining to mathematics; according to mathematics;
+   hence, theoretically precise; accurate; as, mathematical
+   geography; mathematical instruments; mathematical exactness.
+   -- {Math`e*mat"ic*al*ly}, adv.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mathematical</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mathematical
+     adj 1: of or pertaining to or of the nature of mathematics; "a
+            mathematical textbook"; "slide rules and other
+            mathematical instruments"; "a mathematical solution to
+            a problem"; "mathematical proof"
+     2: relating to or having ability to think in or work with
+        numbers; "tests for rating numerical aptitude"; "a
+        mathematical whiz" [syn: {numerical}] [ant: {verbal}]
+     3: beyond question; "a mathematical certainty"
+     4: statistically possible though highly improbable; "have a
+        mathematical chance of making the playoffs"
+     5: characterized by the exactness or precision of mathematics;
+        "mathematical precision"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

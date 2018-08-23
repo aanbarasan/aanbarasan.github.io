@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>reposition</Word>
+  <Definitions>
+    <Definition>
+      <Word>reposition</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Reposition \Re`po*si"tion\ (r[-e]`p[-o]*z[i^]sh"[u^]n), n. [L.
+   repositio.]
+   The act of repositing; a laying up.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>reposition</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>reposition
+     n : depositing in a warehouse [syn: {repositing}, {storage}, {warehousing}]
+     v 1: change place or direction; "Shift one's position" [syn: {shift},
+           {dislodge}]
+     2: place into another position
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

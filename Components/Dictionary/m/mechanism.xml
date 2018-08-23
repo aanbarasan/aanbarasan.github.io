@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mechanism</Word>
+  <Definitions>
+    <Definition>
+      <Word>mechanism</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mechanism \Mech"an*ism\, n. [Cf. F. m['e]canisme, L. mechanisma.
+   See {Mechanic}.]
+   1. The arrangement or relation of the parts of a machine; the
+      parts of a machine, taken collectively; the arrangement or
+      relation of the parts of anything as adapted to produce an
+      effect; as, the mechanism of a watch; the mechanism of a
+      sewing machine; the mechanism of a seed pod.
+      [1913 Webster]
+
+   2. The series of causal relations that operate to produce an
+      effect in any system; as, the mechanism of a chemical
+      reaction.
+      [PJC]
+
+   3. Mechanical operation or action.
+      [1913 Webster]
+
+            He acknowledges nothing besides matter and motion;
+            so that all must be performed either by mechanism or
+            accident.                             --Bentley.
+      [1913 Webster]
+
+   4. (Kinematics) An ideal machine; a combination of movable
+      bodies constituting a machine, but considered only with
+      regard to relative movements.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mechanism</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mechanism
+     n 1: the atomic process that occurs during a chemical reaction;
+          "he determined unique mechanisms for the photochemical
+          reactions" [syn: {chemical mechanism}]
+     2: the technical aspects of doing something; "a mechanism of
+        social control"; "mechanisms of communication"; "the
+        mechanics of prose style" [syn: {mechanics}]
+     3: a natural object resembling a machine in structure or
+        function; "the mechanism of the ear"; "the mechanism of
+        infection"
+     4: (philosophy) the philosophical theory that all phenomena can
+        be explained in terms of physical or biological causes
+     5: device consisting of a piece of machinery; has moving parts
+        that perform some function
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>marion</Word>
+  <Definitions>
+    <Definition>
+      <Word>marion</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Marion, AL (city, FIPS 46768)
+  Location: 32.63155 N, 87.31760 W
+  Population (1990): 4211 (1459 housing units)
+  Area: 27.4 sq km (land), 0.3 sq km (water)
+  Zip code(s): 36756
+Marion, AR (city, FIPS 44180)
+  Location: 35.20652 N, 90.20346 W
+  Population (1990): 4391 (1568 housing units)
+  Area: 9.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 72364
+Marion, IA (city, FIPS 49485)
+  Location: 42.03440 N, 91.58955 W
+  Population (1990): 20403 (7998 housing units)
+  Area: 24.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 52302
+Marion, IL (city, FIPS 46916)
+  Location: 37.73281 N, 88.94135 W
+  Population (1990): 14545 (6666 housing units)
+  Area: 27.7 sq km (land), 0.1 sq km (water)
+  Zip code(s): 62959
+Marion, IN (city, FIPS 46908)
+  Location: 40.54910 N, 85.66699 W
+  Population (1990): 32618 (14000 housing units)
+  Area: 32.3 sq km (land), 0.1 sq km (water)
+  Zip code(s): 46952, 46953
+Marion, KS (city, FIPS 44750)
+  Location: 38.34894 N, 97.01574 W
+  Population (1990): 1906 (913 housing units)
+  Area: 4.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 66861
+Marion, KY (city, FIPS 50034)
+  Location: 37.33146 N, 88.07918 W
+  Population (1990): 3320 (1555 housing units)
+  Area: 8.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 42064
+Marion, LA (village, FIPS 48645)
+  Location: 32.89981 N, 92.23946 W
+  Population (1990): 775 (336 housing units)
+  Area: 8.3 sq km (land), 0.0 sq km (water)
+Marion, MA
+  Zip code(s): 02738
+Marion, MI (village, FIPS 51660)
+  Location: 44.10276 N, 85.14703 W
+  Population (1990): 807 (369 housing units)
+  Area: 2.5 sq km (land), 0.1 sq km (water)
+  Zip code(s): 49665
+Marion, MS (town, FIPS 45160)
+  Location: 32.42762 N, 88.64835 W
+  Population (1990): 1359 (520 housing units)
+  Area: 7.5 sq km (land), 0.0 sq km (water)
+Marion, MT
+  Zip code(s): 59925
+Marion, NC (city, FIPS 41420)
+  Location: 35.68255 N, 82.00859 W
+  Population (1990): 4765 (2256 housing units)
+  Area: 8.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 28752
+Marion, ND (city, FIPS 50780)
+  Location: 46.60953 N, 98.33478 W
+  Population (1990): 169 (92 housing units)
+  Area: 2.2 sq km (land), 0.4 sq km (water)
+  Zip code(s): 58466
+Marion, NY
+  Zip code(s): 14505
+Marion, OH (city, FIPS 47754)
+  Location: 40.58493 N, 83.12792 W
+  Population (1990): 34075 (14243 housing units)
+  Area: 20.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 43302
+Marion, SC (city, FIPS 44575)
+  Location: 34.17588 N, 79.39999 W
+  Population (1990): 7658 (2982 housing units)
+  Area: 9.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 29571
+Marion, SD (city, FIPS 40860)
+  Location: 43.42399 N, 97.26063 W
+  Population (1990): 831 (371 housing units)
+  Area: 2.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 57043
+Marion, TX (city, FIPS 46692)
+  Location: 29.57360 N, 98.14305 W
+  Population (1990): 984 (369 housing units)
+  Area: 2.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 78124
+Marion, VA (town, FIPS 49464)
+  Location: 36.83873 N, 81.51405 W
+  Population (1990): 6630 (2795 housing units)
+  Area: 10.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 24354
+Marion, WI (city, FIPS 49400)
+  Location: 44.67122 N, 88.88739 W
+  Population (1990): 1242 (554 housing units)
+  Area: 4.8 sq km (land), 0.2 sq km (water)
+  Zip code(s): 54950
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

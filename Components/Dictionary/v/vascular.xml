@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>vascular</Word>
+  <Definitions>
+    <Definition>
+      <Word>vascular</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Vascular \Vas"cu*lar\, a. [L. vasculum a small vessel, dim. of
+   vas vessel: cf. F. vasculaire. See {Vase}, and cf. Vessel.]
+   [1913 Webster]
+   1. (Biol.)
+      (a) Consisting of, or containing, vessels as an essential
+          part of a structure; full of vessels; specifically
+          (Bot.), pertaining to, or containing, special ducts,
+          or tubes, for the circulation of sap.
+      (b) Operating by means of, or made up of an arrangement
+          of, vessels; as, the vascular system in animals,
+          including the arteries, veins, capillaries, lacteals,
+          etc.
+      (c) Of or pertaining to the vessels of animal and
+          vegetable bodies; as, the vascular functions.
+          [1913 Webster]
+
+   2. (Bot.) Of or pertaining to the higher division of plants,
+      that is, the ph[ae]nogamous plants, all of which are
+      vascular, in distinction from the cryptogams, which to a
+      large extent are cellular only.
+      [1913 Webster]
+
+   {Vascular plants} (Bot.), plants composed in part of vascular
+      tissue, as all flowering plants and the higher
+      cryptogamous plants, or those of the class {Pteridophyta}.
+      Cf. {Cellular plants}, {Cellular}.
+
+   {Vascular system} (Bot.), the body of associated ducts and
+      woody fiber; the fibrovascular part of plants.
+
+   {Vascular tissue} (Bot.), vegetable tissue composed partly of
+      ducts, or sap tubes.
+
+   {Water vascular system} (Zo["o]l.), a system of vessels in
+      annelids, nemerteans, and many other invertebrates,
+      containing a circulating fluid analogous to blood, but not
+      of the same composition. In annelids the fluid which they
+      contain is usually red, but in some it is green, in others
+      yellow, or whitish.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>vascular</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>vascular
+     adj : of or relating to or having vessels that conduct and
+           circulate fluids; "vascular constriction"; "a vascular
+           bundle" [ant: {avascular}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

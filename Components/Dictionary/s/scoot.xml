@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>scoot</Word>
+  <Definitions>
+    <Definition>
+      <Word>scoot</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Scoot \Scoot\, v. i.
+   To walk fast; to go quickly; to run hastily away. [Colloq. &amp;
+   Humorous, U. S.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>scoot</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>scoot
+     v : run or move very quickly or hastily; "She dashed into the
+         yard" [syn: {dart}, {dash}, {scud}, {flash}, {shoot}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

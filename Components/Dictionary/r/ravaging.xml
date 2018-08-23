@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ravaging</Word>
+  <Definitions>
+    <Definition>
+      <Word>ravaging</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ravage \Rav"age\, v. t. [imp. &amp; p. p. {Ravaged}
+   (r[a^]v"[asl]jd); p. pr. &amp; vb. n. {Ravaging}
+   (r[a^]v"[asl]*j[i^]ng).] [F. ravager. See {Ravage}, n.]
+   To lay waste by force; to desolate by violence; to commit
+   havoc or devastation upon; to spoil; to plunder; to consume.
+   [1913 Webster]
+
+         Already C[ae]sar
+         Has ravaged more than half the globe.    --Addison.
+   [1913 Webster]
+
+         His lands were daily ravaged, his cattle driven away.
+                                                  --Macaulay.
+   [1913 Webster]
+
+   Syn: To despoil; pillage; plunder; sack; spoil; devastate;
+        desolate; destroy; waste; ruin.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ravaging</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ravaging
+     adj : ruinously destructive and wasting; "a ravaging illness"
+     n : plundering with excessive damage and destruction [syn: {devastation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

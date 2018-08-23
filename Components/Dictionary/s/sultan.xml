@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sultan</Word>
+  <Definitions>
+    <Definition>
+      <Word>sultan</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Sultan, WA (town, FIPS 68260)
+  Location: 47.86460 N, 121.80430 W
+  Population (1990): 2236 (859 housing units)
+  Area: 6.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 98294
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sultan</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sultan \Sul"tan\, n. [F. sultan (cf. Sp. soldan, It. sultano,
+   soldano), Ar. sult[=a]n sultan, dominion. Cf. {Soldan}.]
+   A ruler, or sovereign, of a Mohammedan state; specifically,
+   the ruler of the Turks; the Padishah, or Grand Seignior; --
+   officially so called.
+   [1913 Webster]
+
+   {Sultan flower}. (Bot.) See {Sweet sultan}, under {Sweet}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sultan</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sultan
+     n : the ruler of a Muslim country (especially of the former
+         Ottoman Empire) [syn: {grand Turk}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

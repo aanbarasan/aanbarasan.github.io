@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>payback</Word>
+  <Definitions>
+    <Definition>
+      <Word>payback</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pay back
+     v 1: act or give recompensation in recognition of someone's
+          behavior or actions [syn: {reward}, {repay}]
+     2: take vengeance on or get even; "We'll get them!"; "That'll
+        fix him good!"; "This time I got him" [syn: {pay off}, {get},
+         {fix}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>payback</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>payback
+     n 1: financial return or reward (especially returns equal to the
+          initial investment)
+     2: the act of taking revenge (harming someone in retaliation
+        for something harmful that they have done) especially in
+        the next life; "Vengeance is mine; I will repay, saith the
+        Lord"--Romans 12:19; "For vengeance I would do nothing.
+        This nation is too great to look for mere revenge"--James
+        Garfield; "he swore vengeance on the man who betrayed
+        him"; "the swiftness of divine retribution" [syn: {vengeance},
+         {retribution}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

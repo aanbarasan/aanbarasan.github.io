@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>interjection</Word>
+  <Definitions>
+    <Definition>
+      <Word>interjection</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Interjection \In`ter*jec"tion\, n. [L. interjectio: cf. F.
+   interjection. See {Interject}.]
+   [1913 Webster]
+   1. The act of interjecting or throwing between; also, that
+      which is interjected.
+      [1913 Webster]
+
+            The interjection of laughing.         --Bacon.
+      [1913 Webster]
+
+   2. (Gram.) A word or form of speech thrown in to express
+      emotion or feeling, as O! Alas! Ha ha! Begone! etc.
+      Compare {Exclamation}.
+      [1913 Webster]
+
+            An interjection implies a meaning which it would
+            require a whole grammatical sentence to expound, and
+            it may be regarded as the rudiment of such a
+            sentence. But it is a confusion of thought to rank
+            it among the parts of speech.         --Earle.
+      [1913 Webster]
+
+            How now! interjections? Why, then, some be of
+            laughing, as, ah, ha, he!             --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>interjection</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>interjection
+     n 1: an abrupt emphatic exclamation expressing emotion [syn: {ejaculation}]
+     2: the action of interjecting or interposing an action or
+        remark that interrupts [syn: {interposition}, {interpolation},
+         {interpellation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

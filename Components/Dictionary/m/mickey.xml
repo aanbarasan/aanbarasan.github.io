@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mickey</Word>
+  <Definitions>
+    <Definition>
+      <Word>mickey</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>mickey
+     
+        &lt;unit, humour&gt; The unit of resolution of {mouse} movement.
+     
+        It has been suggested that the "disney" will become a
+        benchmark unit for animation graphics performance.
+     
+        [{Jargon File}]
+     
+        (1999-06-30)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mickey</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mick \Mick\, Mickey \Mickey\n.
+   a person of Irish descent; -- an ethnic slur, offensive and
+   disparaging.
+
+   Syn: Paddy.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mickey</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>mickey n. The resolution unit of mouse movement. It has been suggested
+   that the `disney' will become a benchmark unit for animation graphics
+   performance.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mickey</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Mickey
+     n : (slur) a person of Irish descent [syn: {Paddy}, {Mick}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rapidly</Word>
+  <Definitions>
+    <Definition>
+      <Word>rapidly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rapidly \Rap"id*ly\ (r[a^]p"[i^]d*l[y^]), adv.
+   In a rapid manner.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rapidly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rapidly
+     adv : with rapid movements; "he works quickly" [syn: {quickly}, {speedily},
+            {chop-chop}, {apace}] [ant: {slowly}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>projection</Word>
+  <Definitions>
+    <Definition>
+      <Word>projection</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>projection
+     
+        &lt;theory&gt; In domain theory, a {function}, f, which is (a)
+        {idempotent}, i.e.  f(f(x))=f(x) and (b) whose result is no
+        more defined than its argument.  E.g. F(x)=bottom or F(x)=x.
+     
+        In {reduction} systems, a function which returns some
+        {component} of its argument.  E.g. head, tail, \ (x,y) . x.
+        In a {graph reduction} system the function can just return a
+        pointer to part of its argument and does not need to build any
+        new graph.
+     
+        (1997-01-29)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>projection</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Projection \Pro*jec"tion\, n. [L. projectio: cf. F. projection.]
+   [1913 Webster]
+   1. The act of throwing or shooting forward.
+      [1913 Webster]
+
+   2. A jutting out; also, a part jutting out, as of a building;
+      an extension beyond something else.
+      [1913 Webster]
+
+   3. The act of scheming or planning; also, that which is
+      planned; contrivance; design; plan. --Davenant.
+      [1913 Webster]
+
+   4. (Persp.) The representation of something; delineation;
+      plan; especially, the representation of any object on a
+      perspective plane, or such a delineation as would result
+      were the chief points of the object thrown forward upon
+      the plane, each in the direction of a line drawn through
+      it from a given point of sight, or central point; as, the
+      projection of a sphere. The several kinds of projection
+      differ according to the assumed point of sight and plane
+      of projection in each.
+      [1913 Webster]
+
+   5. (Geog.) Any method of representing the surface of the
+      earth upon a plane.
+      [1913 Webster]
+
+   {Conical projection}, a mode of representing the sphere, the
+      spherical surface being projected upon the surface of a
+      cone tangent to the sphere, the point of sight being at
+      the center of the sphere.
+
+   {Cylindric projection}, a mode of representing the sphere,
+      the spherical surface being projected upon the surface of
+      a cylinder touching the sphere, the point of sight being
+      at the center of the sphere.
+
+   {Globular}, {Gnomonic}, {Orthographic}, {projection},etc. See
+      under {Globular}, {Gnomonic}, etc.
+
+   {Mercator's projection}, a mode of representing the sphere in
+      which the meridians are drawn parallel to each other, and
+      the parallels of latitude are straight lines whose
+      distance from each other increases with their distance
+      from the equator, so that at all places the degrees of
+      latitude and longitude have to each other the same ratio
+      as on the sphere itself.
+
+   {Oblique projection}, a projection made by parallel lines
+      drawn from every point of a figure and meeting the plane
+      of projection obliquely.
+
+   {Polar projection}, a projection of the sphere in which the
+      point of sight is at the center, and the plane of
+      projection passes through one of the polar circles.
+
+   {Powder of projection} (Alchemy.), a certain powder cast into
+      a crucible or other vessel containing prepared metal or
+      other matter which is to be thereby transmuted into gold.
+      
+
+   {Projection of a point on a plane} (Descriptive Geom.), the
+      foot of a perpendicular to the plane drawn through the
+      point.
+
+   {Projection of a straight line of a plane}, the straight line
+      of the plane connecting the feet of the perpendiculars let
+      fall from the extremities of the given line.
+      [1913 Webster]
+
+   Syn: See {Protuberance}.
+        [1913 Webster]
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>projection</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Projection \Pro*jec"tion\, n. [L. projectio: cf. F. projection.]
+   [1913 Webster]
+   1. The act of throwing or shooting forward.
+      [1913 Webster]
+
+   2. A jutting out; also, a part jutting out, as of a building;
+      an extension beyond something else.
+      [1913 Webster]
+
+   3. The act of scheming or planning; also, that which is
+      planned; contrivance; design; plan. --Davenant.
+      [1913 Webster]
+
+   4. (Persp.) The representation of something; delineation;
+      plan; especially, the representation of any object on a
+      perspective plane, or such a delineation as would result
+      were the chief points of the object thrown forward upon
+      the plane, each in the direction of a line drawn through
+      it from a given point of sight, or central point; as, the
+      projection of a sphere. The several kinds of projection
+      differ according to the assumed point of sight and plane
+      of projection in each.
+      [1913 Webster]
+
+   5. (Geog.) Any method of representing the surface of the
+      earth upon a plane.
+      [1913 Webster]
+
+   {Conical projection}, a mode of representing the sphere, the
+      spherical surface being projected upon the surface of a
+      cone tangent to the sphere, the point of sight being at
+      the center of the sphere.
+
+   {Cylindric projection}, a mode of representing the sphere,
+      the spherical surface being projected upon the surface of
+      a cylinder touching the sphere, the point of sight being
+      at the center of the sphere.
+
+   {Globular}, {Gnomonic}, {Orthographic}, {projection},etc. See
+      under {Globular}, {Gnomonic}, etc.
+
+   {Mercator's projection}, a mode of representing the sphere in
+      which the meridians are drawn parallel to each other, and
+      the parallels of latitude are straight lines whose
+      distance from each other increases with their distance
+      from the equator, so that at all places the degrees of
+      latitude and longitude have to each other the same ratio
+      as on the sphere itself.
+
+   {Oblique projection}, a projection made by parallel lines
+      drawn from every point of a figure and meeting the plane
+      of projection obliquely.
+
+   {Polar projection}, a projection of the sphere in which the
+      point of sight is at the center, and the plane of
+      projection passes through one of the polar circles.
+
+   {Powder of projection} (Alchemy.), a certain powder cast into
+      a crucible or other vessel containing prepared metal or
+      other matter which is to be thereby transmuted into gold.
+      
+
+   {Projection of a point on a plane} (Descriptive Geom.), the
+      foot of a perpendicular to the plane drawn through the
+      point.
+
+   {Projection of a straight line of a plane}, the straight line
+      of the plane connecting the feet of the perpendiculars let
+      fall from the extremities of the given line.
+      [1913 Webster]
+
+   Syn: See {Protuberance}.
+        [1913 Webster]
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>projection</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>projection
+     n 1: a prediction made by extrapolating from past observations
+     2: the projection of an image from a film onto a screen
+     3: a planned undertaking [syn: {project}]
+     4: any structure that branches out from a central support
+     5: any solid convex shape that juts out from something
+     6: (psychiatry) a defense mechanism by which your own traits
+        and emotions are attributed to someone else
+     7: the acoustic phenomenon that gives sound a penetrating
+        quality; "our ukuleles have been designed to have superior
+        sound and projection"; "a prime ingredient of public
+        speaking is projection of the voice" [syn: {acoustic
+        projection}, {sound projection}]
+     8: the representation of a figure or solid on a plane as it
+        would look from a particular direction
+     9: the act of projecting out from something [syn: {protrusion},
+         {jut}, {jutting}]
+     10: the act of expelling or projecting or ejecting [syn: {expulsion},
+          {ejection}, {forcing out}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

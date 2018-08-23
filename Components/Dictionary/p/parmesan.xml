@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>parmesan</Word>
+  <Definitions>
+    <Definition>
+      <Word>parmesan</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Parmesan \Par`me*san"\, a. [F. parmesan, It. parmigiano.]
+   1. Of or pertaining to Parma in Italy.
+      [1913 Webster]
+
+   2. Parmesan cheese.
+      [PJC]
+
+   {Parmesan cheese}, a kind of cheese of a rich flavor, though
+      from skimmed milk, made in Parma, Italy.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>parmesan</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Parmesan
+     n : hard dry sharp-flavored Italian cheese; often grated
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

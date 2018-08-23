@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>shaggy</Word>
+  <Definitions>
+    <Definition>
+      <Word>shaggy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Shaggy \Shag"gy\, a. [Compar. {Shaggier}; superl. {Shaggiest}.]
+   [From {Shag}, n.]
+   Rough with long hair or wool.
+   [1913 Webster]
+
+         About his shoulders hangs the shaggy skin. --Dryden.
+   [1913 Webster]
+
+   2. Rough; rugged; jaggy. --Milton.
+      [1913 Webster]
+
+            [A rill] that winds unseen beneath the shaggy fell.
+                                                  --Keble.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>shaggy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>shaggy
+     adj 1: used of hair; thick and poorly groomed; "bushy locks"; "a
+            shaggy beard" [syn: {bushy}]
+     2: having a very rough nap or covered with hanging shags;
+        "junipers with shagged trunks"; "shaggy rugs" [syn: {shagged}]
+     [also: {shaggiest}, {shaggier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>probation</Word>
+  <Definitions>
+    <Definition>
+      <Word>probation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Probation \Pro*ba"tion\, n. [L. probatio, fr. probare to try,
+   examine, prove: cf. F. probation. See {Prove}.]
+   [1913 Webster]
+   1. The act of proving; also, that which proves anything;
+      proof. [Obs.]
+      [1913 Webster]
+
+            When by miracle God dispensed great gifts to the
+            laity, . . . he gave probation that he intended that
+            all should prophesy and preach.       --Jer. Taylor.
+      [1913 Webster]
+
+   2. Any proceeding designed to ascertain truth, to determine
+      character, qualification, etc.; examination; trial; as, to
+      engage a person on probation. Hence, specifically:
+      (a) The novitiate which a person must pass in a convent,
+          to probe his or her virtue and ability to bear the
+          severities of the rule.
+      (b) The trial of a ministerial candidate's qualifications
+          prior to his ordination, or to his settlement as a
+          pastor.
+      (c) Moral trial; the state of man in the present life, in
+          which he has the opportunity of proving his character,
+          and becoming qualified for a happier state.
+          [1913 Webster]
+
+                No [view of human life] seems so reasonable as
+                that which regards it as a state of probation.
+                                                  --Paley.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>probation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>probation
+     n 1: a trial period during which your character and abilities are
+          tested to see whether you are suitable for work or for
+          membership
+     2: a trial period during which an offender has time to redeem
+        himself or herself
+     3: (law) a way of dealing with offenders without imprisoning
+        them; a defendant found guilty of a crime is released by
+        the court without imprisonment subject to conditions
+        imposed by the court; "probation is part of the sentencing
+        process"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

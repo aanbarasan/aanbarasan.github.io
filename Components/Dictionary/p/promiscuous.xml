@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>promiscuous</Word>
+  <Definitions>
+    <Definition>
+      <Word>promiscuous</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Promiscuous \Pro*mis"cu*ous\, a. [L. promiscuus; pro before, in
+   place of, for + miscere to mix. See {Mix}. ]
+   [1913 Webster]
+   1. Consisting of individuals united in a body or mass without
+      order; mingled; confused; undistinguished; as, a
+      promiscuous crowd or mass.
+      [1913 Webster]
+
+            A wild, where weeds and flowers promiscuous shoot.
+                                                  --Pope.
+      [1913 Webster]
+
+   2. Distributed or applied without order or discrimination;
+      not restricted to an individual; common; indiscriminate;
+      as, promiscuous love or intercourse.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>promiscuous</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>promiscuous
+     adj 1: not selective of a single class or person; "Clinton was
+            criticized for his promiscuous solicitation of
+            campaign money"
+     2: casual and unrestrained in sexual behavior; "her easy
+        virtue"; "he was told to avoid loose (or light) women";
+        "wanton behavior" [syn: {easy}, {light}, {loose}, {sluttish},
+         {wanton}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

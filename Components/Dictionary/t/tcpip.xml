@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tcpip</Word>
+  <Definitions>
+    <Definition>
+      <Word>tcpip</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>TCPIP
+     
+        Normally written "{TCP/IP}".
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tcpip</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>TCP/IP
+     
+        &lt;protocol&gt; {Transmission Control Protocol} over
+        {Internet Protocol}.
+     
+        The {de facto} {standard} {Ethernet} {protocols} incorporated
+        into {4.2BSD} {Unix}.  TCP/IP was developed by {DARPA} for
+        {internetworking} and encompasses both {network layer} and
+        {transport layer} protocols.  While {TCP} and {IP} specify two
+        protocols at specific {protocol layers}, TCP/IP is often used
+        to refer to the entire {DoD} {protocol} suite based upon
+        these, including {telnet}, {FTP}, {UDP} and {RDP}.
+     
+        See also {ICMP}, {SMTP}, {SNMP}.
+     
+        (1995-03-17)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tcpip</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>TCP/IP /T'C-P I'P/ n. 1. [Transmission Control Protocol/Internet
+   Protocol] The wide-area-networking protocol that makes the Internet
+   work, and the only one most hackers can speak the name of without
+   laughing or retching. Unlike such allegedly `standard' competitors such
+   as X.25, DECnet, and the ISO 7-layer stack, TCP/IP evolved primarily by
+   actually being _used_, rather than being handed down from on high by a
+   vendor or a heavily-politicized standards committee. Consequently, it
+   (a) works, (b) actually promotes cheap cross-platform connectivity, and
+   (c) annoys the hell out of corporate and governmental empire-builders
+   everywhere. Hackers value all three of these properties. See
+   {creationism}. 2. [Amateur Packet Radio] Formerly expanded as "The Crap
+   Phil Is Pushing". The reference is to Phil Karn, KA9Q, and the context
+   was an ongoing technical/political war between the majority of sites
+   still running AX.25 and the TCP/IP relays. TCP/IP won.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tcpip</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>TCPIP
+     Transmission Control Protocol/Internet Protocol (RFC 793, IP), "TCP/IP"
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tcpip</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>TCP/IP
+     n : a set of protocols (including TCP) developed for the
+         internet in the 1970s to get data from one network device
+         to another [syn: {transmission control protocol/internet
+         protocol}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

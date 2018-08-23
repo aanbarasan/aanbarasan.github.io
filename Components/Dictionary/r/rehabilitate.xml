@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rehabilitate</Word>
+  <Definitions>
+    <Definition>
+      <Word>rehabilitate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rehabilitate \Re`ha*bil"i*tate\ (r?`h?*b?l"?*t?t), v. t. [imp. &amp;
+   p. p. {Rehabilitated} (-t?`t?d); p. pr. &amp; vb. n.
+   {Rehabilitating}.] [Pref. re- re- + habilitate: cf. LL.
+   rehabilitare, F. r['e]habiliter.]
+   To invest or clothe again with some right, authority, or
+   dignity; to restore to a former capacity; to reinstate; to
+   qualify again; to restore, as a delinquent, to a former
+   right, rank, or privilege lost or forfeited; -- a term of
+   civil and canon law.
+   [1913 Webster]
+
+         Restoring and rehabilitating the party.  --Burke.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rehabilitate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rehabilitate
+     v 1: reinstall politically; "Deng Xiao Ping was rehabilitated
+          several times throughout his lifetime" [ant: {purge}]
+     2: restore to a state of good condition or operation
+     3: help to re-adapt, as to a former state of health or good
+        repute; "The prisoner was successfully rehabilitated";
+        "After a year in the mental clinic, the patient is now
+        rehabilitated"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

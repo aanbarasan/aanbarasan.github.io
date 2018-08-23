@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unsatisfied</Word>
+  <Definitions>
+    <Definition>
+      <Word>unsatisfied</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unsatisfied
+     adj 1: not having been satisfied [syn: {unsated}, {unsatiated}]
+     2: worried and uneasy [syn: {restless}, {ungratified}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

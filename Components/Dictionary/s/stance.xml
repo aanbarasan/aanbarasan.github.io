@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>stance</Word>
+  <Definitions>
+    <Definition>
+      <Word>stance</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Stance \Stance\ (st[a^]ns), n. [OF. estance. See {Stanza}.]
+   1. A stanza. [Obs.] --Chapman.
+      [1913 Webster]
+
+   2. A station; a position; a site. [Scot.] --Sir W. Scott.
+      [1913 Webster]
+
+   3. (Golf, Baseball) The position of a player's feet, relative
+      to each other and to the ball, when he is making a stroke
+      or at bat.
+      [Webster 1913 Suppl. +PJC]
+
+   4. the mental attitude, position, or approach a person adopts
+      in respect to something.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stance</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>stance
+     n 1: standing posture
+     2: a rationalized mental attitude [syn: {position}, {posture}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

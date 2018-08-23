@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rarified</Word>
+  <Definitions>
+    <Definition>
+      <Word>rarified</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rarified
+     adj 1: having low density; "rare gasses"; "lightheaded from the
+            rarefied mountain air" [syn: {rare}, {rarefied}]
+     2: reserved for an elite group [syn: {rarefied}]
+     3: of high moral or intellectual value; elevated in nature or
+        style; "an exalted ideal"; "argue in terms of high-flown
+        ideals"- Oliver Franks; "a noble and lofty concept" [syn:
+        {exalted}, {high-flown}, {high-minded}, {lofty}, {rarefied},
+         {idealistic}, {noble-minded}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

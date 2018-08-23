@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>resetting</Word>
+  <Definitions>
+    <Definition>
+      <Word>resetting</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>reset
+     n : device for resetting instruments or controls
+     v 1: set anew; "They re-set the date on the clock"
+     2: set to zero; "reset instruments and dials"
+     3: adjust again after an initial failure [syn: {readjust}]
+     [also: {resetting}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>resetting</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>resetting
+     See {reset}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

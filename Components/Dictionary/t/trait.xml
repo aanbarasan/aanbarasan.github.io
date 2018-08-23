@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>trait</Word>
+  <Definitions>
+    <Definition>
+      <Word>trait</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Trait \Trait\, n. [F., fr. L. tractus, fr. trahere to draw. See
+   {Trace}, v., and cf. {Tract} a region, {Trace} a strap,
+   {Tret}.]
+   [1913 Webster]
+   1. A stroke; a touch.
+      [1913 Webster]
+
+            By this single trait Homer makes an essential
+            difference between the Iliad and Odyssey. --Broome.
+      [1913 Webster]
+
+   2. A distinguishing or marked feature; a peculiarity; as, a
+      trait of character.
+      [1913 Webster]
+
+   Note: Formerly pronounced tr[=a], as in French, and still so
+         pronounced to some extent in England.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>trait</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>trait
+     n : a distinguishing feature of your personal nature
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

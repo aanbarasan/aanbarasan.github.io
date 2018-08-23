@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>scott</Word>
+  <Definitions>
+    <Definition>
+      <Word>scott</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Scott, AR
+  Zip code(s): 72142
+Scott, LA (town, FIPS 68475)
+  Location: 30.23769 N, 92.09050 W
+  Population (1990): 4912 (1909 housing units)
+  Area: 16.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 70583
+Scott, OH (village, FIPS 71080)
+  Location: 40.98861 N, 84.58410 W
+  Population (1990): 339 (129 housing units)
+  Area: 2.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 45886
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>scott</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Scott
+     n 1: award-winning United States film actor (1928-1999) [syn: {George
+          C. Scott}]
+     2: English explorer who reached the South Pole just a month
+        after Amundsen; he and his party died on the return
+        journey (1868-1912) [syn: {Robert Scott}, {Robert Falcon
+        Scott}]
+     3: United States general who was a hero of the War of 1812 and
+        who defeated Santa Anna in the Mexican War (1786-1866)
+        [syn: {Winfield Scott}]
+     4: British author of historical novels and ballads (1771-1832)
+        [syn: {Walter Scott}, {Sir Walter Scott}]
+     5: United States slave who sued for liberty after living in a
+        non-slave state; caused the Supreme Court to declare the
+        Missouri Compromise unconstitutional (1795?-1858) [syn: {Dred
+        Scott}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

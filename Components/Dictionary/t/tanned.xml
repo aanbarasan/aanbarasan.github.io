@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tanned</Word>
+  <Definitions>
+    <Definition>
+      <Word>tanned</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tan \Tan\, v. t. [imp. &amp; p. p. {Tanned}; p. pr. &amp; vb. n.
+   {Tanning}.] [F. tanner, LL. tannare. See {Tan}, n.]
+   1. To convert (the skin of an animal) into leather, as by
+      usual process of steeping it in an infusion of oak or some
+      other bark, whereby it is impregnated with tannin, or
+      tannic acid (which exists in several species of bark), and
+      is thus rendered firm, durable, and in some degree
+      impervious to water.
+      [1913 Webster]
+
+   Note: The essential result in tanning is due to the fact that
+         the tannins form, with gelatins and albuminoids, a
+         series of insoluble compounds which constitute leather.
+         Similar results may be produced by the use of other
+         reagents in place of tannin, as alum, and some acids or
+         chlorides, which are employed in certain processes of
+         tanning.
+         [1913 Webster]
+
+   2. To make brown; to imbrown, as by exposure to the rays of
+      the sun; as, to tan the skin.
+      [1913 Webster]
+
+   3. To thrash or beat; to flog; to switch; as, to tan a
+      disobedient child's hide. [Colloq.]
+      [Webster 1913 Suppl. +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tanned</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tan
+     adj : of a light yellowish-brown color
+     n 1: a browning of the skin resulting from exposure to the rays
+          of the sun [syn: {suntan}, {sunburn}, {burn}]
+     2: a light brown [syn: {topaz}]
+     3: ratio of the opposite to the adjacent side of a right-angled
+        triangle [syn: {tangent}]
+     v 1: treat skins and hides with tannic acid so as to convert them
+          into leather
+     2: get a tan, from wind or sun [syn: {bronze}]
+     [also: {tanning}, {tanned}, {tannest}, {tanner}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tanned</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tanned
+     adj 1: (of skin) having a tan color from exposure to the sun; "a
+            young bronzed Apollo" [syn: {bronzed}, {browned}, {suntanned}]
+     2: converted to leather by a tanning agent [ant: {untanned}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tanned</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tanned
+     See {tan}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

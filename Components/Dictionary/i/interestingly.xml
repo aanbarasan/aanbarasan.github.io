@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>interestingly</Word>
+  <Definitions>
+    <Definition>
+      <Word>interestingly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Interestingly \In"ter*est*ing*ly\, adv.
+   In an interesting manner.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>interestingly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>interestingly
+     adv : in an interesting manner; "when he ceases to be just
+           interestingly neurotic and...gets locked up"- Time
+           [ant: {uninterestingly}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

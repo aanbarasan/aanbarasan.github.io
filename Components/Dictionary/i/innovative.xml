@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>innovative</Word>
+  <Definitions>
+    <Definition>
+      <Word>innovative</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Innovative \In"no*va*tive\, a.
+   Characterized by, or introducing, innovations. --Fitzed.
+   Hall.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>innovative</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>innovative
+     adj 1: ahead of the times; "the advanced teaching methods"; "had
+            advanced views on the subject"; "a forward-looking
+            corporation"; "is British industry innovative enough?"
+            [syn: {advanced}, {forward-looking}, {modern}]
+     2: being or producing something like nothing done or
+        experienced or created before; "stylistically innovative
+        works"; "innovative members of the artistic community"; "a
+        mind so innovational, so original" [syn: {innovational}, {groundbreaking}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

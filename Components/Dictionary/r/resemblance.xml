@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>resemblance</Word>
+  <Definitions>
+    <Definition>
+      <Word>resemblance</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Resemblance \Re*sem"blance\ (-blans), n. [Cf. F. ressemblance.
+   See {Resemble}.]
+   1. The quality or state of resembling; likeness; similitude;
+      similarity.
+      [1913 Webster]
+
+            One main end of poetry and painting is to please;
+            they bear a great resemblance to each other.
+                                                  --Dryden.
+      [1913 Webster]
+
+   2. That which resembles, or is similar; a representation; a
+      likeness.
+      [1913 Webster]
+
+            These sensible things, which religion hath allowed,
+            are resemblances formed according to things
+            spiritual.                            --Hooker.
+      [1913 Webster]
+
+   3. A comparison; a simile. [Obs.] --Chaucer.
+      [1913 Webster]
+
+   4. Probability; verisimilitude. [Obs.] --Shak.
+      [1913 Webster]
+
+   Syn: Likeness; similarity; similitude; semblance;
+        representation; image.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>resemblance</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>resemblance
+     n : similarity in appearance or external or superficial details
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

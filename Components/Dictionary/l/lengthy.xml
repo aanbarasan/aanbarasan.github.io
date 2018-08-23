@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lengthy</Word>
+  <Definitions>
+    <Definition>
+      <Word>lengthy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lengthy \Length"y\ (-[y^]), a. [Compar. {Lengthier}
+   (-[i^]*[~e]r); superl. {Lengthiest}.]
+   Having length; rather long or too long; prolix; not brief; --
+   said chiefly of discourses, writings, and the like. ``Lengthy
+   periods.'' --Washington. ``Some lengthy additions.'' --Byron.
+   ``These would be details too lengthy.'' --Jefferson. ``To cut
+   short lengthy explanations.'' --Trench.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lengthy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>lengthy
+     adj : relatively long in duration; tediously protracted; "a
+           drawn-out argument"; "an extended discussion"; "a
+           lengthy visit from her mother-in-law"; "a prolonged and
+           bitter struggle"; "protracted negotiations" [syn: {drawn-out},
+            {extended}, {prolonged}, {protracted}]
+     [also: {lengthiest}, {lengthier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nary</Word>
+  <Definitions>
+    <Definition>
+      <Word>nary</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nary
+     adj : (used with singular count nouns) colloquial for `not a' or
+           `not one' or `never a'; "heard nary a sound" [syn: {nary(a)}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

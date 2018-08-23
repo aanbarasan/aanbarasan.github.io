@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>integer</Word>
+  <Definitions>
+    <Definition>
+      <Word>integer</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>integer
+     
+        &lt;mathematics&gt; (Or "whole number") One of the {finite} numbers
+        in the infinite set
+     
+        	..., -3, -2, -1, 0, 1, 2, 3, ...
+     
+        An {inductive definition} of an integer is a number that is
+        either zero or an integer plus or minus one.  An integer is a
+        number with no fractional part.  If written as a {fixed-point}
+        number, the part after the decimal (or other base) point will
+        be zero.
+     
+        A {natural number} is a non-negative integer.
+     
+        (2002-04-07)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>integer</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Integer \In"te*ger\, n. [L. integer untouched, whole, entire.
+   See {Entire}.]
+   A complete entity; a whole number, in contradistinction to a
+   fraction or a mixed number.
+   [1913 Webster]
+
+   {Complex integer} (Theory of Numbers), an expression of the
+      form a + b[root]-1, where a and b are real integers.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>integer</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>integer
+     n : any of the natural numbers (positive or negative) or zero
+         [syn: {whole number}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

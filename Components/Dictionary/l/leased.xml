@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>leased</Word>
+  <Definitions>
+    <Definition>
+      <Word>leased</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lease \Lease\ (l[=e]s), v. t. [imp. &amp; p. p. {Leased}; p. pr. &amp;
+   vb. n. {Leasing}.] [F. laisser, OF. laissier, lessier, to
+   leave, transmit, L. laxare to loose, slacken, from laxus
+   loose, wide. See {Lax}, and cf. {Lesser}.]
+   1. To grant to another by lease the possession of, as of
+      lands, tenements, and hereditaments; to let; to demise;
+      as, a landowner leases a farm to a tenant; -- sometimes
+      with out.
+      [1913 Webster]
+
+            There were some [houses] that were leased out for
+            three lives.                          --Addison.
+      [1913 Webster]
+
+   2. To hold under a lease; to take lease of; as, a tenant
+      leases his land from the owner.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>leased</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>leased
+     adj : hired for the exclusive temporary use of a group of
+           travelers; "a chartered plane"; "the chartered buses
+           arrived on time" [syn: {chartered}, {hired}] [ant: {unchartered}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>separation</Word>
+  <Definitions>
+    <Definition>
+      <Word>separation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Separation \Sep`a*ra"tion\, n. [L. separatio: cf. F.
+   s['e]paration.]
+   The act of separating, or the state of being separated, or
+   separate. Specifically:
+   (a) Chemical analysis.
+   (b) Divorce.
+   (c) (Steam Boilers) The operation of removing water from
+       steam.
+       [1913 Webster]
+
+   {Judicial separation} (Law), a form of divorce; a separation
+      of man and wife which has the effect of making each a
+      single person for all legal purposes but without ability
+      to contract a new marriage. --Mozley &amp; W.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>separation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>separation
+     n 1: the act of dividing or disconnecting
+     2: coming apart [syn: {breakup}, {detachment}]
+     3: the state of lacking unity [ant: {union}]
+     4: the distance between things; "fragile items require
+        separation and cushioning" [syn: {interval}]
+     5: sorting one thing from others; "the separation of wheat from
+        chaff"; "the separation of mail by postal zones"
+     6: the social act of separating or parting company; "the
+        separation of church and state"
+     7: the space where a division or parting occurs; "he hid in the
+        separation between walls"
+     8: termination of employment (by resignation or dismissal)
+     9: (law) the cessation of cohabitation of man and wife (either
+        by mutual agreement or under a court order) [syn: {legal
+        separation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

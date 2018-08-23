@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>stimulation</Word>
+  <Definitions>
+    <Definition>
+      <Word>stimulation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Stimulation \Stim`u*la"tion\, n. [L. stimulatio: cf. F.
+   stimulation.]
+   1. The act of stimulating, or the state of being stimulated.
+      [1913 Webster]
+
+   2. (Physiol.) The irritating action of various agents
+      (stimuli) on muscles, nerves, or a sensory end organ, by
+      which activity is evoked; especially, the nervous impulse
+      produced by various agents on nerves, or a sensory end
+      organ, by which the part connected with the nerve is
+      thrown into a state of activity; irritation.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stimulation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>stimulation
+     n 1: the act of arousing an organism to action
+     2: any stimulating information or event; acts to arouse action
+        [syn: {stimulus}, {stimulant}, {input}]
+     3: (physiology) the effect of a stimulus (on nerves or organs
+        etc.)
+     4: mutual sexual stimulation prior to sexual intercourse [syn:
+        {foreplay}, {arousal}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

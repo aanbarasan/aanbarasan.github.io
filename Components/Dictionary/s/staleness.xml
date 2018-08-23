@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>staleness</Word>
+  <Definitions>
+    <Definition>
+      <Word>staleness</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Staleness \Stale"ness\, n.
+   The quality or state of being stale.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>staleness</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>staleness
+     n 1: unoriginality as a result of being dull and hackneyed [syn:
+          {triteness}]
+     2: having lost purity and freshness as a consequence of aging
+        [ant: {freshness}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

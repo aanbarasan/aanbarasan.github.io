@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lawless</Word>
+  <Definitions>
+    <Definition>
+      <Word>lawless</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lawless \Law"less\, a.
+   1. Contrary to, or unauthorized by, law; illegal; as, a
+      lawless claim.
+      [1913 Webster]
+
+            He needs no indirect nor lawless course. --Shak.
+      [1913 Webster]
+
+   2. Not subject to, or restrained by, the law of morality or
+      of society; as, lawless men or behavior.
+      [1913 Webster]
+
+   3. Not subject to the laws of nature; uncontrolled.
+      [1913 Webster]
+
+            Or, meteorlike, flame lawless through the void.
+                                                  --Pope.
+      -- {Law"less*ly}, adv. -- {Law"less*ness}, n.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lawless</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>lawless
+     adj 1: without law or control; "the system is economically
+            inefficient and politically anarchic" [syn: {anarchic},
+             {anarchical}]
+     2: lax in enforcing laws; "an open town" [syn: {open}, {wide-open}]
+     3: disobedient to or defiant of law; "lawless bands roaming the
+        plains" [syn: {outlaw(a)}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>yodel</Word>
+  <Definitions>
+    <Definition>
+      <Word>yodel</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Yodel \Yo"del\, Yodle \Yo"dle\, v. t. &amp; i. [imp. &amp; p. p.
+   {Yodeled}, {Yodled}; p. pr. &amp; vb. n. {Yodeling}, {Yodling}.]
+   [G. jodeln.]
+   To sing in a manner common among the Swiss and Tyrolese
+   mountaineers, by suddenly changing from the head voice, or
+   falsetto, to the chest voice, and the contrary; to warble.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>yodel</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Yodel \Yo"del\, Yodle \Yo"dle\, n.
+   A song sung by yodeling, as by the Swiss mountaineers.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>yodel</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>yodel
+     n : a songlike cry in which the voice fluctuates rapidly between
+         the normal voice and falsetto
+     v : sing by changing register; sing by yodeling; "The Austrians
+         were yodeling in the mountains" [syn: {warble}, {descant}]
+     [also: {yodelling}, {yodelled}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

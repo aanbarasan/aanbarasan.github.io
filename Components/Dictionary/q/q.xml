@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>q</Word>
+  <Definitions>
+    <Definition>
+      <Word>q</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Q
+     
+        &lt;language&gt; A very {high level language} by Per Bothner based
+        on {lazy} generalised sequences.  Q has {lexical scope}, and
+        some support for {logic programming}[?] and {constraint}
+        programming.  The language includes small subsets of {Common
+        Lisp} and {Scheme}.
+     
+        Q was a test-bed for programming language ideas.  Where {APL}
+        uses {arrays} for looping, Q uses generalised sequences which
+        may be infinite and may be stored or calculated on demand.  It
+        has {macros}, {primitives} to run programs, and an
+        {interactive} command language.
+     
+        Q is implemented in {C++}, and comes with an {interpreter},
+        {compiler} framework, libraries, and documentation.  It runs
+        on {Linux} and {SUN-4} and should work on any 32-bit {Unix}.
+     
+        Latest version: 1, as of 1993-06-07.  Development stopped in
+        1994.
+     
+        {Home (http://kelso.bothner.com/~per/software/#Q )}.
+     
+        E-mail: Per Bothner &lt;per@bothner.com&gt;.
+     
+        (2000-05-22)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>q</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Q \Q\ (k[=u]),
+   the seventeenth letter of the English alphabet, has but one
+   sound (that of k), and is always followed by u, the two
+   letters together being sounded like kw, except in some words
+   in which the u is silent. See Guide to Pronunciation, [sect]
+   249. Q is not found in Anglo-Saxon, cw being used instead of
+   qu; as in cwic, quick; cwen, queen. The name (k[=u]) is from
+   the French ku, which is from the Latin name of the same
+   letter; its form is from the Latin, which derived it, through
+   a Greek alphabet, from the Ph[oe]nician, the ultimate origin
+   being Egyptian.
+   [1913 Webster] Etymologically, q or qu is most nearly related
+   to a (ch, tch), p, q, and wh; as in cud, quid, L. equus,
+   ecus, horse, Gr. ?, whence E. equine, hippic; L. quod which,
+   E. what; L. aquila, E. eaqle; E. kitchen, OE. kichene, AS.
+   cycene, L. coquina.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>q</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Q
+     n : the 17th letter of the Roman alphabet
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

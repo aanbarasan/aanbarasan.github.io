@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>masses</Word>
+  <Definitions>
+    <Definition>
+      <Word>masses</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mass
+     adj 1: occurring widely (as to many people); "mass destruction"
+            [syn: {large-scale}]
+     2: gathered or tending to gather into a mass or whole;
+        "aggregate expenses include expenses of all divisions
+        combined for the entire year"; "the aggregated amount of
+        indebtedness" [syn: {aggregate}, {aggregated}, {aggregative}]
+     n 1: the property of a body that causes it to have weight in a
+          gravitational field
+     2: (often followed by `of') a large number or amount or extent;
+        "a batch of letters"; "a deal of trouble"; "a lot of
+        money"; "he made a mint on the stock market"; "it must
+        have cost plenty" [syn: {batch}, {deal}, {flock}, {good
+        deal}, {great deal}, {hatful}, {heap}, {lot}, {mess}, {mickle},
+         {mint}, {muckle}, {peck}, {pile}, {plenty}, {pot}, {quite
+        a little}, {raft}, {sight}, {slew}, {spate}, {stack}, {tidy
+        sum}, {wad}, {whole lot}, {whole slew}]
+     3: an ill-structured collection of similar things (objects or
+        people)
+     4: (Roman Catholic Church and Protestant Churches) the
+        celebration of the Eucharist
+     5: a body of matter without definite shape; "a huge ice mass"
+     6: the common people generally; "separate the warriors from the
+        mass"; "power to the people" [syn: {multitude}, {masses},
+        {hoi polloi}, {people}]
+     7: the property of something that is great in magnitude; "it is
+        cheaper to buy it in bulk"; "he received a mass of
+        correspondence"; "the volume of exports" [syn: {bulk}, {volume}]
+     8: a musical setting for a Mass; "they played a Mass composed
+        by Beethoven"
+     9: a sequence of prayers constituting the Christian eucharistic
+        rite; "the priest said Mass"
+     v : join together into a mass or collect or form a mass; "Crowds
+         were massing outside the palace"
+     [also: {masses} (pl)]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>masses</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>masses
+     n : the common people generally; "separate the warriors from the
+         mass"; "power to the people" [syn: {multitude}, {mass}, {hoi
+         polloi}, {people}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>masses</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>masses
+     See {mass}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

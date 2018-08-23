@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>restless</Word>
+  <Definitions>
+    <Definition>
+      <Word>restless</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Restless \Rest"less\, a. [AS. restle['a]s.]
+   1. Never resting; unquiet; uneasy; continually moving; as, a
+      restless child. --Chaucer. ``Restless revolution day by
+      day.'' --Milton.
+      [1913 Webster]
+
+   2. Not satisfied to be at rest or in peace; averse to repose
+      or quiet; eager for change; discontented; as, restless
+      schemers; restless ambition; restless subjects. ``Restless
+      at home, and ever prone to range.'' --Dryden.
+      [1913 Webster]
+
+   3. Deprived of rest or sleep.
+      [1913 Webster]
+
+            Restless he passed the remnants of the night.
+                                                  --Dryden.
+      [1913 Webster]
+
+   4. Passed in unquietness; as, the patient has had a restless
+      night.
+      [1913 Webster]
+
+   5. Not affording rest; as, a restless chair. --Cowper.
+      [1913 Webster]
+
+   {Restless thrush}. (Zo["o]l.) See {Grinder}, 3.
+      [1913 Webster]
+
+   Syn: Unquiet; uneasy; disturbed; disquieted; sleepless;
+        agitated; unsettled; roving; wandering.
+        [1913 Webster] -- {Rest"less*ly}, adv.-
+        {Rest"less*ness}, n.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>restless</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>restless
+     adj 1: unable to relax or be still; "a constant fretful stamping of
+            hooves"; "itchy for excitement"; "a restless child"
+            [syn: {fidgety}, {fretful}, {itchy}]
+     2: worried and uneasy [syn: {ungratified}, {unsatisfied}]
+     3: ceaselessly in motion; "the restless sea"; "the restless
+        wind"
+     4: marked by a lack of quiet; not conducive to rest; "spent a
+        restless night"; "fell into an uneasy sleep" [syn: {uneasy}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>maximum</Word>
+  <Definitions>
+    <Definition>
+      <Word>maximum</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Maximum \Max"i*mum\, n.; pl. {Maxima}. [L., neut. from maximus
+   the greatest. See {Maxim}.]
+   The greatest quantity or value attainable in a given case;
+   or, the greatest value attained by a quantity which first
+   increases and then begins to decrease; the highest point or
+   degree; -- opposed to {minimum}.
+   [1913 Webster]
+
+         Good legislation is the art of conducting a nation to
+         the maximum of happiness, and the minimum of misery.
+                                                  --P.
+                                                  Colquhoun.
+   [1913 Webster]
+
+   {Maximum thermometer}, a thermometer that registers the
+      highest degree of temperature attained in a given time, or
+      since its last adjustment.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>maximum</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Maximum \Max"i*mum\, a.
+   Greatest in quantity or highest in degree attainable or
+   attained; as, a maximum consumption of fuel; maximum
+   pressure; maximum heat.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>maximum</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>maximum
+     adj : the greatest or most complete or best possible; "maximal
+           expansion"; "maximum pressure" [syn: {maximal}] [ant: {minimal},
+            {minimal}]
+     n 1: the largest possible quantity [syn: {upper limit}] [ant: {minimum}]
+     2: the greatest possible degree; "he tried his utmost" [syn: {utmost},
+         {uttermost}, {level best}]
+     3: the point on a curve where the tangent changes from positive
+        on the left to negative on the right [ant: {minimum}]
+     [also: {maxima} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

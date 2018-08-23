@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>largely</Word>
+  <Definitions>
+    <Definition>
+      <Word>largely</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Largely \Large"ly\, adv.
+   In a large manner. --Dryden. --Milton.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>largely</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>largely
+     adv 1: in large part; mainly or chiefly; "These accounts are
+            largely inactive" [syn: {mostly}, {for the most part}]
+     2: on a large scale; "the sketch was so largely drawn that you
+        could see it from the back row"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

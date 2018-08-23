@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>spineless</Word>
+  <Definitions>
+    <Definition>
+      <Word>spineless</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Spineless \Spine"less\, a.
+   1. Having no spine, or vertebral column.
+      [1913 Webster]
+
+   2. Having no thorns or barbs.
+      [PJC]
+
+   3. lacking in strength of character; cowardly, in a physical
+      or moral sense.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>spineless</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>spineless
+     adj 1: weak in willpower [syn: {namby-pamby}, {wishy-washy}]
+     2: lacking courage or vitality; "he was a yellow gutless worm";
+        "a spineless craven fellow" [syn: {gutless}] [ant: {gutsy}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

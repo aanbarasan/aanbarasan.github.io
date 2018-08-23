@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>outmoded</Word>
+  <Definitions>
+    <Definition>
+      <Word>outmoded</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>outmoded \outmoded\ adj.
+   1. same as {old-fashioned}, a., 3.
+
+   Syn: antique, demode, old-fashioned[3], old-hat(predicate),
+        out-of-date, out of fashion(predicate), out of
+        style(predicate), passe, passee.
+        [WordNet 1.5]
+
+   2. Unacceptable because it is inferior to current standards,
+      procedures, or technology.
+
+   Syn: obsolete, outdated, out-of-date, superannuated,
+        old-fashioned[2].
+        [WordNet 1.5 +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>outmoded</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>outmoded
+     adj : out of fashion; "a suit of rather antique appearance";
+           "demode (or outmoded) attire"; "outmoded ideas" [syn: {antique},
+            {demode}, {ex}, {old-fashioned}, {old-hat(p)}, {passe},
+            {passee}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

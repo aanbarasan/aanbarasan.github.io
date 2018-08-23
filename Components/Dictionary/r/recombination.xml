@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>recombination</Word>
+  <Definitions>
+    <Definition>
+      <Word>recombination</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Recombination \Re*com`bi*na"tion\ (r?*k?m`b?*n?"sh?n), n.
+   Combination a second or additional time.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>recombination</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>recombination
+     n 1: (genetics) a combining of genes or characters different from
+          what they were in the parents
+     2: (physics) a combinng of charges or transfer of electrons in
+        a gas that results in the neutralization of ions;
+        important for ions arising from the passage of high-energy
+        particles
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>whoa</Word>
+  <Definitions>
+    <Definition>
+      <Word>whoa</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Whoa \Whoa\, interj.
+   Stop; stand; hold. See {Ho}, 2.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>whoa</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ho \Ho\, Hoa \Hoa\ (h[=o]), interj. [Cf. F. &amp; G. ho.]
+   1. Halloo! attend! -- a call to excite attention, or to give
+      notice of approach. ``What noise there, ho?'' --Shak.
+      ``Ho! who's within?'' --Shak.
+      [1913 Webster]
+
+   2. [Perhaps corrupted fr. hold; but cf. F. hau stop! and E.
+      whoa.] Stop! stand still! hold! -- a word now used by
+      teamsters, but formerly to order the cessation of
+      anything. [Written also {whoa}, and, formerly, {hoo}.]
+      [1913 Webster]
+
+            The duke . . . pulled out his sword and cried
+            ``Hoo!''                              --Chaucer.
+      [1913 Webster]
+
+            An herald on a scaffold made an hoo.  --Chaucer.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

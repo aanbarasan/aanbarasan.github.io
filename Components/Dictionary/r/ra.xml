@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ra</Word>
+  <Definitions>
+    <Definition>
+      <Word>ra</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ra \Ra\ (r[aum]), n.
+   A roe; a deer. [Obs.] --Chaucer.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ra</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ra- \Ra-\
+   A prefix, from the Latin re and ad combined, coming to us
+   through the French and Italian. See {Re-}, and {Ad-}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ra</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>RA
+     Registration Authority (PKI, ITU, cryptography)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ra</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>RA
+     Remote Access (BBS)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ra</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Ra
+     n 1: an intensely radioactive metallic element that occurs in
+          minute amounts in uranium ores [syn: {radium}, {atomic
+          number 88}]
+     2: (astronomy) the angular distance eastward along the
+        celestial equator from the vernal equinox to the
+        intersection of the hour circle that passes through the
+        body; expressed in hours and minutes and second; used with
+        declination to specify positions on the celestial sphere;
+        "one hour of right ascension equals fifteen degrees" [syn:
+         {right ascension}, {celestial longitude}]
+     3: ancient hawk-headed Egyptian sun god; a universal creator
+        [syn: {Re}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

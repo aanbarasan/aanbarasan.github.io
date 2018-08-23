@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>revolutionize</Word>
+  <Definitions>
+    <Definition>
+      <Word>revolutionize</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Revolutionize \Rev`o*lu"tion*ize\, v. t. [imp. &amp; p. p.
+   {Revolutioniezed}; p. pr. &amp; vb. n. {Revolutionizing}.]
+   To change completely, as by a revolution; as, to
+   revolutionize a government. --Ames.
+   [1913 Webster]
+
+         The gospel . . . has revolutionized his soul. --J. M.
+                                                  Mason.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>revolutionize</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>revolutionize
+     v 1: change radically; "E-mail revolutionized communication in
+          academe" [syn: {revolutionise}, {overturn}]
+     2: overthrow by a revolution, of governments
+     3: fill with revolutionary ideas [syn: {revolutionise}, {inspire}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>manhattan</Word>
+  <Definitions>
+    <Definition>
+      <Word>manhattan</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Manhattan, IL (village, FIPS 46357)
+  Location: 41.42602 N, 87.98874 W
+  Population (1990): 2059 (756 housing units)
+  Area: 3.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 60442
+Manhattan, KS (city, FIPS 44250)
+  Location: 39.19010 N, 96.58998 W
+  Population (1990): 37712 (15558 housing units)
+  Area: 28.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 66502
+Manhattan, MT (town, FIPS 47575)
+  Location: 45.85744 N, 111.33021 W
+  Population (1990): 1034 (417 housing units)
+  Area: 1.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 59741
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>manhattan</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Manhattan
+     n 1: one of the five boroughs of New York City
+     2: a cocktail made with whiskey and sweet vermouth with a dash
+        of bitters
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

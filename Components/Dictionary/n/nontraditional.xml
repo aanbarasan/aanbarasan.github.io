@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nontraditional</Word>
+  <Definitions>
+    <Definition>
+      <Word>nontraditional</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nontraditional
+     adj : not conforming to or in accord with tradition;
+           "nontraditional designs"; "nontraditional practices"
+           [syn: {untraditional}] [ant: {traditional}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

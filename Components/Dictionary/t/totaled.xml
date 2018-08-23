@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>totaled</Word>
+  <Definitions>
+    <Definition>
+      <Word>totaled</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Total \To"tal\, v. t. [imp. &amp; p. p. {Totaled}or {Totalled}; p.
+   pr. &amp; vb. n. {Totaling} or {Totalling}.]
+   1. To bring to a total; also, to reach as a total; to amount
+      to. [Colloq.]
+      [Webster 1913 Suppl.]
+
+   2. to determine the total of (a set of numbers); to add; --
+      often used with up; as, to total up the bill.
+      [PJC]
+
+   3. To damage beyond repair; -- used especially of vehicles
+      damaged in an accident; as, he skid on an ice patch and
+      totaled his Mercedes against a tree. From total loss.
+      [colloq.]
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>totaled</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>totaled
+     adj : used of automobiles; completely demolished; "the insurance
+           adjuster declared the automobile totaled"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

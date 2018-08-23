@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pariah</Word>
+  <Definitions>
+    <Definition>
+      <Word>pariah</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pariah \Pa"ri*ah\, n. [From Tamil paraiyan, pl. paraiyar, one of
+   the low caste, fr. parai a large drum, because they beat the
+   drums at certain festivals.]
+   [1913 Webster]
+   1. One of an aboriginal people of Southern India, regarded by
+      the four castes of the Hindus as of very low grade. They
+      are usually the serfs of the Sudra agriculturalists. See
+      {Caste}. --Balfour (Cyc. of India).
+      [1913 Webster]
+
+   2. An outcast; one despised by society.
+      [1913 Webster]
+
+   {Pariah dog} (Zo["o]l.), a mongrel race of half-wild dogs
+      which act as scavengers in Oriental cities.
+
+   {Pariah kite} (Zo["o]l.), a species of kite ({Milvus
+      govinda}) which acts as a scavenger in India.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pariah</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pariah
+     n : a person who is rejected (from society or home) [syn: {outcast},
+          {castaway}, {Ishmael}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

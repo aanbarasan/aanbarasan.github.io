@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tesla</Word>
+  <Definitions>
+    <Definition>
+      <Word>tesla</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Tesla, WV
+  Zip code(s): 26629
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tesla</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tesla
+     n 1: a unit of magnetic flux density equal to one weber per
+          square meter
+     2: United States electrical engineer and inventor (born in
+        Croatia but of Serbian descent) who discovered the
+        principles of alternating currents and developed the first
+        alternating-current induction motor and the Tesla coil and
+        several forms of oscillators (1856-1943) [syn: {Nikola
+        Tesla}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

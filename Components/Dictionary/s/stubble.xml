@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>stubble</Word>
+  <Definitions>
+    <Definition>
+      <Word>stubble</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Stubble \Stub"ble\, n. [OE. stobil, stoble, OF. estouble,
+   estuble, F. ['e]tuele, LL. stupla, stupula, L. stipula
+   stubble, stalk; cf. D. &amp; G. stopped, OHG. stupfila. Cf.
+   {Stipule}.]
+   The stumps of wheat, rye, barley, oats, or buckwheat, left in
+   the ground; the part of the stalk left by the scythe or
+   sickle. ``After the first crop is off, they plow in the
+   wheast stubble.'' --Mortimer.
+   [1913 Webster]
+
+   {Stubble goose} (Zo["o]l.), the graylag goose. [Prov. Eng.]
+      --Chaucer.
+
+   {Stubble rake}, a rake with long teeth for gleaning in
+      stubble.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stubble</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>stubble
+     n : material consisting of seed coverings and small pieces of
+         stem or leaves that have been separated from the seeds
+         [syn: {chaff}, {husk}, {shuck}, {stalk}, {straw}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>optimum</Word>
+  <Definitions>
+    <Definition>
+      <Word>optimum</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>optimum \optimum\ adj.
+   Best possible or most desirable; -- usually under a
+   restriction expressed or implied; as, an optimum return on
+   capital; optimum concentration of a drug; an optimum result.
+
+   Syn: optimal.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>optimum</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>optimum \optimum\ n.
+   The most favorable condition, greatest degree, or largest
+   amount possible under given circumstances.
+   [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>optimum</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>optimum
+     adj : most desirable possible under a restriction expressed or
+           implied; "an optimum return on capital"; "optimal
+           concentration of a drug" [syn: {optimal}]
+     n : most favorable condition or greatest degree or amount
+         possible under given circumstances
+     [also: {optima} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

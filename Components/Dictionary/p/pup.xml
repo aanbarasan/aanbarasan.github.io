@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pup</Word>
+  <Definitions>
+    <Definition>
+      <Word>pup</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pup \Pup\, n. [See {Puppy}.] (Zo["o]l.)
+   (a) A young dog; a puppy.
+   (b) a young seal.
+       [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pup</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pup \Pup\, v. i. [imp. &amp; p. p. {Pupped}; p. pr. &amp; vb. n.
+   {Pupping}.]
+   To bring forth whelps or young, as the female of the canine
+   species.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pup</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>PUP
+     PARC Universal packet Protocol (PARC)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pup</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>PUP
+     Product UPgrade (MS)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pup</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pup
+     n 1: young of any of various canines such as a dog or wolf [syn:
+          {whelp}]
+     2: an inexperienced young person [syn: {puppy}]
+     v : birth; "the dog whelped" [syn: {whelp}]
+     [also: {pupping}, {pupped}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

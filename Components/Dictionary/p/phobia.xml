@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>phobia</Word>
+  <Definitions>
+    <Definition>
+      <Word>phobia</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>phobia
+     n : an anxiety disorder characterized by extreme and irrational
+         fear of simple things or social situations; "phobic
+         disorder is a general term for all phobias" [syn: {phobic
+         disorder}, {phobic neurosis}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

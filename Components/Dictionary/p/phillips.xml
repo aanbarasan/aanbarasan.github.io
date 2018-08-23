@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>phillips</Word>
+  <Definitions>
+    <Definition>
+      <Word>phillips</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Phillips, ME
+  Zip code(s): 04966
+Phillips, NE (village, FIPS 39030)
+  Location: 40.89803 N, 98.21488 W
+  Population (1990): 316 (126 housing units)
+  Area: 0.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 68865
+Phillips, OK (town, FIPS 58500)
+  Location: 34.50230 N, 96.22389 W
+  Population (1990): 161 (65 housing units)
+  Area: 1.4 sq km (land), 0.0 sq km (water)
+Phillips, TX
+  Zip code(s): 79007
+Phillips, WI (city, FIPS 62450)
+  Location: 45.69561 N, 90.39770 W
+  Population (1990): 1592 (757 housing units)
+  Area: 6.9 sq km (land), 1.8 sq km (water)
+  Zip code(s): 54555
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

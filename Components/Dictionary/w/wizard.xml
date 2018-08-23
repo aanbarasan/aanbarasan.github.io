@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>wizard</Word>
+  <Definitions>
+    <Definition>
+      <Word>wizard</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Wizard
+   a pretender to supernatural knowledge and power, "a knowing
+   one," as the original Hebrew word signifies. Such an one was
+   forbidden on pain of death to practise his deceptions (Lev.
+   19:31; 20:6, 27; 1 Sam. 28:3; Isa. 8:19; 19:3).
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wizard</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>wizard
+     
+        1. A person who knows how a complex piece of software or
+        hardware works (that is, who {grok}s it); especially someone
+        who can find and fix bugs quickly in an emergency.  Someone is
+        a {hacker} if he or she has general hacking ability, but is a
+        wizard with respect to something only if he or she has
+        specific detailed knowledge of that thing.  A good hacker
+        could become a wizard for something given the time to study
+        it.
+     
+        2. A person who is permitted to do things forbidden to
+        ordinary people; one who has {wheel} privileges on a system.
+     
+        3. A Unix expert, especially a Unix systems programmer.  This
+        usage is well enough established that "Unix Wizard" is a
+        recognised job title at some corporations and to most
+        headhunters.
+     
+        See {guru}, {lord high fixer}.  See also {deep magic}, {heavy
+        wizardry}, {incantation}, {magic}, {mutter}, {rain dance},
+        {voodoo programming}, {wave a dead chicken}.
+     
+        4. An interactive help utility that guides the user through a
+        potentially complex task, such as configuring a {PPP} driver
+        to work with a new {modem}.  Wizards are often implemented as
+        a sequence of {dialog boxes} which the user can move forward
+        and backward through, filling in the details required.  The
+        implication is that the expertise of a human wizard in one of
+        the above senses is encapsulated in the software wizard,
+        allowing the average user to perform expertly.
+     
+        [{Jargon File}]
+     
+        (1998-09-07)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wizard</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Wizard \Wiz"ard\, n. [Probably from wise + -ard.]
+   1. A wise man; a sage. [Obs.]
+      [1913 Webster]
+
+            See how from far upon the eastern road
+            The star-led wizards [Magi] haste with odors sweet!
+                                                  --Milton.
+      [1913 Webster]
+
+   2. One devoted to the black art; a magician; a conjurer; a
+      sorcerer; an enchanter.
+      [1913 Webster]
+
+            The wily wizard must be caught.       --Dryden.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wizard</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Wizard \Wiz"ard\, a.
+   1. Enchanting; charming. --Collins.
+      [1913 Webster]
+
+   2. Haunted by wizards.
+      [1913 Webster]
+
+            Where Deva spreads her wizard stream. --Milton.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wizard</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>wizard n. 1. Transitively, a person who knows how a complex piece of
+   software or hardware works (that is, who {grok}s it); esp. someone who
+   can find and fix bugs quickly in an emergency. Someone is a {hacker} if
+   he or she has general hacking ability, but is a wizard with respect to
+   something only if he or she has specific detailed knowledge of that
+   thing. A good hacker could become a wizard for something given the time
+   to study it. 2. The term `wizard' is also used intransitively of someone
+   who has extremely high-level hacking or problem-solving ability. 3. A
+   person who is permitted to do things forbidden to ordinary people; one
+   who has {wheel} privileges on a system. 4. A Unix expert, esp. a Unix
+   systems programmer. This usage is well enough established that `Unix
+   Wizard' is a recognized job title at some corporations and to most
+   headhunters. See {guru}, {lord high fixer}. See also {deep magic},
+   {heavy wizardry}, {incantation}, {magic}, {mutter}, {rain dance},
+   {voodoo programming}, {wave a dead chicken}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wizard</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>wizard
+     adj : possessing or using or characteristic of or appropriate to
+           supernatural powers; "charming incantations"; "magic
+           signs that protect against adverse influence"; "a
+           magical spell"; "'tis now the very witching time of
+           night"- Shakespeare; "wizard wands"; "wizardly powers"
+           [syn: {charming}, {magic}, {magical}, {sorcerous}, {witching(a)},
+            {wizard(a)}, {wizardly}]
+     n 1: someone who is dazzlingly skilled in any field [syn: {ace},
+          {adept}, {champion}, {sensation}, {maven}, {mavin}, {virtuoso},
+           {genius}, {hotshot}, {star}, {superstar}, {whiz}, {whizz},
+           {wiz}]
+     2: one who practices magic or sorcery [syn: {sorcerer}, {magician},
+         {necromancer}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>towed</Word>
+  <Definitions>
+    <Definition>
+      <Word>towed</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tow \Tow\, v. t. [imp. &amp; p. p. {Towed} (t[=o]d); p. pr. &amp; vb. n.
+   {Towing}.] [OE. towen, to[yogh]en; akin to OFries. toga to
+   pull about, OHG. zog[=o]n, Icel. toga, AS. tohline a towline,
+   and AS. te['o]n to draw, p. p. getogen. See {Tug}.]
+   To draw or pull through the water, as a vessel of any kind,
+   by means of a rope.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

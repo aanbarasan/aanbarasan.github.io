@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>perimeter</Word>
+  <Definitions>
+    <Definition>
+      <Word>perimeter</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Perimeter \Per*im"e*ter\, n. [Gr. ?; ? around + ? measure: cf.
+   F. p['e]rim[`e]tre.]
+   1. (Geom.) The outer boundary of a body or figure, or the sum
+      of all the sides.
+      [1913 Webster]
+
+   2. An instrument for determining the extent and shape of the
+      field of vision.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>perimeter</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>perimeter
+     n 1: the boundary line or the area immediately inside the
+          boundary [syn: {margin}, {border}]
+     2: a line enclosing a plane areas
+     3: the size of something as given by the distance around it
+        [syn: {circumference}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

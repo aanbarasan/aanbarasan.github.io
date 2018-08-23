@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>latch</Word>
+  <Definitions>
+    <Definition>
+      <Word>latch</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>latch
+     
+        A digital logic circuit used to store one or more bits.  A
+        latch has a data input, a clock input and an output.  When the
+        clock input is active, data on the input is "latched" or
+        stored and transfered to the output either immediately or when
+        the clock input goes inactive.  The output will then retain
+        its value until the clock goes active again.
+     
+        See also {flip-flop}.
+     
+        (1995-02-03)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>latch</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Latch \Latch\, v. t. [imp. &amp; p. p. {Latched} (l[a^]cht); p. pr.
+   &amp; vb. n. {Latching}.] [OE. lacchen. See {Latch}. n.]
+   1. To catch so as to hold. [Obs.]
+      [1913 Webster]
+
+            Those that remained threw darts at our men, and
+            latching our darts, sent them again at us.
+                                                  --Golding.
+      [1913 Webster]
+
+   2. To catch or fasten by means of a latch.
+      [1913 Webster]
+
+            The door was only latched.            --Locke.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>latch</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Latching \Latch"ing\, n. (Naut.)
+   A loop or eye formed on the head rope of a bonnet, by which
+   it is attached to the foot of a sail; -- called also {latch}
+   and {lasket}. [Usually in pl.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>latch</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Latch \Latch\ (l[a^]ch), v. t. [Cf. F. l['e]cher to lick (of
+   German origin). Cf. {Lick}.]
+   To smear; to anoint. [Obs.] --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>latch</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Latch \Latch\, n. [OE. lacche, fr. lacchen to seize, As.
+   l[ae]ccan.]
+   1. That which fastens or holds; a lace; a snare. [Obs.]
+      --Rom. of R.
+      [1913 Webster]
+
+   2. A movable piece which holds anything in place by entering
+      a notch or cavity; specifically, the catch which holds a
+      door or gate when closed, though it be not bolted.
+      [1913 Webster]
+
+   3. (Naut.) A latching.
+      [1913 Webster]
+
+   4. A crossbow. [Obs.] --Wright.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>latch</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>latch
+     n 1: spring-loaded doorlock that can only be opened from the
+          outside with a key [syn: {door latch}]
+     2: catch for fastening a door or gate; a bar that can be
+        lowered or slid into a groove
+     v : fasten with a latch; "latch the door"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

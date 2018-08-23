@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>selected</Word>
+  <Definitions>
+    <Definition>
+      <Word>selected</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Select \Se*lect"\, v. t. [imp. &amp; p. p. {Selected}; p. pr. &amp; vb.
+   n. {Selecting}.]
+   To choose and take from a number; to take by preference from
+   among others; to pick out; to cull; as, to select the best
+   authors for perusal. ``One peculiar nation to select.''
+   --Milton.
+   [1913 Webster]
+
+         The pious chief . . .
+         A hundred youths from all his train selects. --Dryden.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>selected</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>selected
+     adj : chosen in preference to another [ant: {unselected}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

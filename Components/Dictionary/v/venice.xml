@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>venice</Word>
+  <Definitions>
+    <Definition>
+      <Word>venice</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Venice, CA
+  Zip code(s): 90291
+Venice, FL (city, FIPS 73900)
+  Location: 27.09790 N, 82.43275 W
+  Population (1990): 16922 (12449 housing units)
+  Area: 19.2 sq km (land), 1.2 sq km (water)
+  Zip code(s): 34285
+Venice, IL (city, FIPS 77473)
+  Location: 38.67205 N, 90.16875 W
+  Population (1990): 3571 (1445 housing units)
+  Area: 4.9 sq km (land), 0.0 sq km (water)
+  Zip code(s): 62090
+Venice, LA
+  Zip code(s): 70091
+Venice, UT
+  Zip code(s): 84701
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>venice</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Venice
+     n : the provincial capital of Veneto; built on 118 islands
+         within a lagoon in the Gulf of Venice; has canals instead
+         of streets; one of Italy's major ports and a famous
+         tourist attraction [syn: {Venezia}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

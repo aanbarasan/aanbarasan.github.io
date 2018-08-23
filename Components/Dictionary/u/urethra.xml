@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>urethra</Word>
+  <Definitions>
+    <Definition>
+      <Word>urethra</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Urethra \U*re"thra\, n. [L., fr. Gr. ?. See {Urine}.] (Anat.)
+   The canal by which the urine is conducted from the bladder
+   and discharged.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>urethra</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>urethra
+     n : duct through which urine is discharged in most mammals and
+         which serves as the male genital duct
+     [also: {urethrae} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

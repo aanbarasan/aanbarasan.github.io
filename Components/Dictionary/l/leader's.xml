@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>leader's</Word>
+  <Definitions>
+    <Definition>
+      <Word>leader's</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>leaders \leaders\ n.
+   the body of people who lead a group; the leadership[3]; as,
+   they hung the leaders of the insurrection.
+
+   Syn: leadership.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>leader's</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>leaders
+     n : the body of people who lead a group; "the national
+         leadership adopted his plan" [syn: {leadership}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

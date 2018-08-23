@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sample</Word>
+  <Definitions>
+    <Definition>
+      <Word>sample</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>sample
+     
+        &lt;digital signal processing&gt; The result of measuring the
+        amplitude of an analog signal at a specified time.  In
+        {digital signal processing} a sample is a signed or unsigned
+        number and the number of samples per second is called the
+        {sample rate}.
+     
+        (2001-06-06)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sample</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sample \Sam"ple\, n. [OE. sample, asaumple, OF. essample,
+   example, fr. L. exemplum. See {Example}, and cf. {Ensample},
+   {Sampler}.]
+   1. Example; pattern. [Obs.] --Spenser. ``A sample to the
+      youngest.'' --Shak.
+      [1913 Webster]
+
+            Thus he concludes, and every hardy knight
+            His sample followed.                  --Fairfax.
+      [1913 Webster]
+
+   2. A part of anything presented for inspection, or shown as
+      evidence of the quality of the whole; a specimen; as,
+      goods are often purchased by samples.
+      [1913 Webster]
+
+            I design this but for a sample of what I hope more
+            fully to discuss.                     --Woodward.
+      [1913 Webster]
+
+   Syn: Specimen; example. See {Specimen}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sample</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sample \Sam"ple\, v. t.
+   1. To make or show something similar to; to match. --Bp.
+      Hall.
+      [1913 Webster]
+
+   2. To take or to test a sample or samples of; as, to sample
+      sugar, teas, wools, cloths.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sample</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sample
+     n 1: a small part of something intended as representative of the
+          whole
+     2: items selected at random from a population and used to test
+        hypotheses about the population [syn: {sample distribution},
+         {sampling}]
+     3: all or part of a natural object that is collected and
+        preserved as an example of its class
+     v : take a sample of; "Try these new crackers"; "Sample the
+         regional dishes" [syn: {try}, {try out}, {taste}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>persuasive</Word>
+  <Definitions>
+    <Definition>
+      <Word>persuasive</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Persuasive \Per*sua"sive\, a. [Cf. F. persuasif.]
+   Tending to persuade; having the power of persuading; as,
+   persuasive eloquence. ``Persuasive words.'' --Milton.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>persuasive</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Persuasive \Per*sua"sive\, n.
+   That which persuades; an inducement; an incitement; an
+   exhortation. -- {Per*sua"sive*ly}, adv. --
+   {Per*sua"sive*ness}, n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>persuasive</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>persuasive
+     adj 1: tending or intended or having the power to induce action or
+            belief; "persuasive eloquence"; "a most persuasive
+            speaker" [ant: {dissuasive}]
+     2: capable of convincing; "a persuasive argument"; "the
+        evidence is persuasive but not conclusive"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

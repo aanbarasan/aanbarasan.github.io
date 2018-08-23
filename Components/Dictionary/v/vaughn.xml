@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>vaughn</Word>
+  <Definitions>
+    <Definition>
+      <Word>vaughn</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Vaughn, MT
+  Zip code(s): 59487
+Vaughn, NM (town, FIPS 82570)
+  Location: 34.60656 N, 105.21228 W
+  Population (1990): 633 (371 housing units)
+  Area: 14.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 88353
+Vaughn, WA
+  Zip code(s): 98394
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

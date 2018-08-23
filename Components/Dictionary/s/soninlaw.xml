@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>soninlaw</Word>
+  <Definitions>
+    <Definition>
+      <Word>soninlaw</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Son-in-law \Son"-in-law`\, n.; pl. {Sons-in-law}.
+   The husband of one's daughter; a man in his relationship to
+   his wife's parents.
+   [1913 Webster]
+
+         To take me as for thy son in lawe.       --Chaucer.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>soninlaw</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>son-in-law
+     n : the husband of your daughter
+     [also: {sons-in-law} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

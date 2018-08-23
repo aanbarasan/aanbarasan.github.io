@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>workings</Word>
+  <Definitions>
+    <Definition>
+      <Word>workings</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>workings
+     n 1: the internal mechanism of a device [syn: {works}]
+     2: a mine or quarry that is being or has been worked [syn: {working}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

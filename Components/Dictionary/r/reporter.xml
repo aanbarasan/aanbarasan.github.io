@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>reporter</Word>
+  <Definitions>
+    <Definition>
+      <Word>reporter</Word>
+      <Dictionary>
+        <Id>devils</Id>
+        <Name>THE DEVIL'S DICTIONARY ((C)1911 Released April 15 1993)</Name>
+      </Dictionary>
+      <WordDefinition>REPORTER, n.  A writer who guesses his way to the truth and dispels it
+with a tempest of words.
+
+    "More dear than all my bosom knows, O thou
+    Whose 'lips are sealed' and will not disavow!"
+    So sang the blithe reporter-man as grew
+    Beneath his hand the leg-long "interview."
+                                                          Barson Maith
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>reporter</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Reporter \Re*port"er\ (-[~e]r), n.
+   One who reports. Specifically:
+   (a) An officer or person who makes authorized statements of
+       law proceedings and decisions, or of legislative debates.
+   (b) One who reports speeches, the proceedings of public
+       meetings, news, etc., for the newspapers.
+       [1913 Webster]
+
+             Of our tales judge and reportour.    --Chaucer.
+       [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>reporter</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>reporter
+     n : a person who investigates and reports or edits news stories
+         [syn: {newsman}, {newsperson}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

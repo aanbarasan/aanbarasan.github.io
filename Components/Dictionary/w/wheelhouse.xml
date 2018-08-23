@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>wheelhouse</Word>
+  <Definitions>
+    <Definition>
+      <Word>wheelhouse</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Wheelhouse \Wheel"house`\, n. (Naut.)
+      (a) A small house on or above a vessel's deck, containing
+          the steering wheel.
+      (b) A paddle box. See under {Paddle}.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wheelhouse</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>wheelhouse
+     n : an enclosed compartment from which a vessel can be navigated
+         [syn: {pilothouse}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

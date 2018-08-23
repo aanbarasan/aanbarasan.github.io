@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>peasant</Word>
+  <Definitions>
+    <Definition>
+      <Word>peasant</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Peasant \Peas"ant\, n. [OF. pa["i]sant (the i being perh. due to
+   confusion with the p. pr. of verbs), pa["i]san, F. paysan,
+   fr. OF. &amp; F. pays country, fr. L. pagus the country. See
+   {Pagan}.]
+   A countryman; a rustic; especially, one of the lowest class
+   of tillers of the soil in European countries.
+   [1913 Webster]
+
+   Syn: Countryman; rustic; swain; hind.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>peasant</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Peasant \Peas"ant\, a.
+   Rustic, rural. --Spenser.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>peasant</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>peasant
+     n 1: a country person [syn: {provincial}, {bucolic}]
+     2: one of a (chiefly European) class of agricultural laborers
+     3: a crude uncouth ill-bred person lacking culture or
+        refinement [syn: {barbarian}, {boor}, {churl}, {Goth}, {tyke},
+         {tike}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

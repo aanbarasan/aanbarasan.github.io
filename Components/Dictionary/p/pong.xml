@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pong</Word>
+  <Definitions>
+    <Definition>
+      <Word>pong</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Pong
+     
+        &lt;games&gt; A computer game invented in 1972 by {Atari}'s Nolan
+        Bushnell.  The game is a minimalist rendering of table tennis.
+        Each of the two players are represented as a white slab,
+        controllable by a knob, which deflects a bouncing ball.  The
+        goal of the game is to "AVOID MISSING BALL FOR HIGH SCORE".
+     
+        {Yahoo
+       
+     (http://www.yahoo.com/Recreation/Games/Video_Games/Classic_Arcade_Games/Titles/Pong/)}.
+     
+        (1997-11-23)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pong</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pong
+     n : an unpleasant smell [syn: {niff}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

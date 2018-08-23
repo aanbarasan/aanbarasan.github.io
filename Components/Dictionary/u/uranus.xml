@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>uranus</Word>
+  <Definitions>
+    <Definition>
+      <Word>uranus</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Uranus
+     
+        Hideyuki Nakashima &lt;nakashim@el.go.jp&gt;, 1993.  A logic-based
+        knowledge representation language.  An extension of Prolog
+        written in Common Lisp, with Lisp-like syntax.  Extends Prolog
+        with a multiple world mechanism, plus term descriptions to
+        provide functional programming.
+     
+        {(ftp://etlport.etl.go.jp/pub/uranus/ftp)}.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>uranus</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Uranus \U"ra*nus\ (-n[u^]s), n. [L. Uranus, Gr. O'yrano`s
+   Uranus, o'yrano`s heaven, sky. Cf. {Uranium}.]
+   [1913 Webster]
+   1. (Gr. Myth.) The son or husband of Gaia (Earth), and father
+      of Chronos (Time) and the Titans.
+      [1913 Webster]
+
+   2. (Astron.) One of the primary planets. It is about
+      1,800,000,000 miles from the sun, about 36,000 miles in
+      diameter, and its period of revolution round the sun is
+      nearly 84 of our years.
+      [1913 Webster]
+
+   Note: This planet has also been called {Herschel}, from Sir
+         William Herschel, who discovered it in 1781, and who
+         named it {Georgium Sidus}, in honor of George III.,
+         then King of England.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>uranus</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Uranus
+     n 1: (Greek mythology) god of the heavens; son and husband of
+          Gaea and father of the Titans in ancient mythology [syn:
+           {Ouranos}]
+     2: a giant planet with a ring of ice particles; 7th from the
+        sun
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

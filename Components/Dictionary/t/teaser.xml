@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>teaser</Word>
+  <Definitions>
+    <Definition>
+      <Word>teaser</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Teaser \Teas"er\, n.
+   1. One who teases or vexes.
+      [1913 Webster]
+
+   2. (Zo["o]l.) A jager gull. [Prov. Eng.]
+      [1913 Webster]
+
+   3. (Elec.) A shunt winding on field magnets for maintaining
+      their magnetism when the main circuit is open.
+      [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>teaser</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>teaser
+     n 1: a worker who teases wool
+     2: someone given to teasing (as by mocking or stirring
+        curiosity) [syn: {tease}, {annoyer}, {vexer}]
+     3: an advertisement that offers something free in order to
+        arouse customers' interest
+     4: a particularly baffling problem that is said to have a
+        correct solution; "he loved to solve chessmate puzzles";
+        "that's a real puzzler" [syn: {puzzle}, {puzzler}, {mystifier}]
+     5: an attention-getting opening presented at the start of a
+        television show
+     6: a flat at each side of the stage to prevent the audience
+        from seeing into the wings [syn: {tormenter}, {tormentor}]
+     7: a device for teasing wool; "a teaser is used to disentangle
+        the fibers"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

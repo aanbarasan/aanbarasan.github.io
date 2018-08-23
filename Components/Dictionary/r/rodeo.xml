@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rodeo</Word>
+  <Definitions>
+    <Definition>
+      <Word>rodeo</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Rodeo, CA (CDP, FIPS 62490)
+  Location: 38.04547 N, 122.23770 W
+  Population (1990): 7589 (2804 housing units)
+  Area: 19.4 sq km (land), 4.7 sq km (water)
+  Zip code(s): 94572
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rodeo</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rodeo \Ro*de"o\, n. [SP., a going round.]
+   A round-up. See {Round-up}. [Western U.S.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rodeo</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rodeo
+     n 1: an exhibition of cowboy skills
+     2: an enclosure for cattle that have been rounded up
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

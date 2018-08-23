@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>warrior</Word>
+  <Definitions>
+    <Definition>
+      <Word>warrior</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Warrior, AL (city, FIPS 79944)
+  Location: 33.81391 N, 86.80820 W
+  Population (1990): 3280 (1330 housing units)
+  Area: 15.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 35180
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>warrior</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Warrior \War"rior\ (?; 277), n. [OE. werreour, OF. werreour,
+   guerreor, from guerre, werre, war. See {War}, and {Warray}.]
+   A man engaged or experienced in war, or in the military life;
+   a soldier; a champion.
+   [1913 Webster]
+
+         Warriors old with ordered spear and shield. --Milton.
+   [1913 Webster]
+
+   {Warrior ant} (Zo["o]l.), a reddish ant ({Formica sanguinea})
+      native of Europe and America. It is one of the species
+      which move in armies to capture and enslave other ants.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>warrior</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>warrior
+     n : someone engaged in or experienced in warfare
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

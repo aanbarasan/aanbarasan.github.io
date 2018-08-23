@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>transcribe</Word>
+  <Definitions>
+    <Definition>
+      <Word>transcribe</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Transcribe \Tran*scribe"\ (tr[a^]n*skr[imac]b"), v. t. [imp. &amp;
+   p. p. {Transcribed}; p. pr. &amp; vb. n. {Transcribing}.] [L.
+   transcribere, transcriptum; trans across, over + scribere to
+   write. See {Scribe}.]
+   To write over again, or in the same words; to copy; as, to
+   transcribe Livy or Tacitus; to transcribe a letter.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>transcribe</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>transcribe
+     v 1: write out from speech, notes, etc.; "Transcribe the oral
+          history of this tribe"
+     2: rewrite in a different script; "The Sanskrit text had to be
+        transliterated" [syn: {transliterate}]
+     3: rewrite or arrange a piece of music for an instrument or
+        medium other than that originally intended
+     4: make a phonetic transcription of; "The anthropologist
+        transcribed the sentences of the native informant"
+     5: convert the genetic information in (a strand of DNA) into a
+        strand of RNA, especially messenger RNA
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

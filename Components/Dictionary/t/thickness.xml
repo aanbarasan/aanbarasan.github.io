@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>thickness</Word>
+  <Definitions>
+    <Definition>
+      <Word>thickness</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Thickness \Thick"ness\, n. [AS. ?icnes.]
+   The quality or state of being thick (in any of the senses of
+   the adjective).
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>thickness</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>thickness
+     n 1: the dimension through an object as opposed to its length or
+          width [ant: {thinness}]
+     2: used of a line or mark [syn: {heaviness}]
+     3: resistance to flow [ant: {thinness}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

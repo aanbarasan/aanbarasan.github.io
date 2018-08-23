@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>stressed</Word>
+  <Definitions>
+    <Definition>
+      <Word>stressed</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>stressed
+     adj 1: suffering severe physical strain or distress; "he dropped
+            out of the race, clearly distressed and having
+            difficulty breathing"; "the victim was in a bad way
+            and needed immediate attention" [syn: {distressed}, {in
+            a bad way(p)}]
+     2: bearing a stress or accent; "an iambic foot consists of an
+        unstressed syllable followed by a stressed syllable as in
+        `delay'" [ant: {unstressed}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

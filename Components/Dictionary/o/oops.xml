@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>oops</Word>
+  <Definitions>
+    <Definition>
+      <Word>oops</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>OOPS
+     
+        "OOPS: A Knowledge Representation Language", D. Vermeir, Proc
+        19th Intl Hawaii Conf on System Sciences, IEEE (Jan 1986)
+        pp.156-157.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>oops</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>OOPS
+     Object Oriented Program Support (OOP)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>oops</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>OOPS
+     Object-Oriented Programming System (OOP)
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>starry</Word>
+  <Definitions>
+    <Definition>
+      <Word>starry</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Starry \Star"ry\ (st[aum]r"r[y^]), a.
+   1. Abounding with stars; adorned with stars. ``Above the
+      starry sky.'' --Pope.
+      [1913 Webster]
+
+   2. Consisting of, or proceeding from, the stars; stellar;
+      stellary; as, starry light; starry flame.
+      [1913 Webster]
+
+            Do not Christians and Heathens, Jews and Gentiles,
+            poets and philosophers, unite in allowing the starry
+            influence?                            --Sir W.
+                                                  Scott.
+      [1913 Webster]
+
+   3. Shining like stars; sparkling; as, starry eyes.
+      [1913 Webster]
+
+   4. Arranged in rays like those of a star; stellate.
+      [1913 Webster]
+
+   {Starry ray} (Zo["o]l.), a European skate ({Raia radiata});
+      -- so called from the stellate bases of the dorsal spines.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>starry</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>starry
+     adj : abounding with or resembling stars; "a starry night";
+           "starry eyes" [ant: {starless}]
+     [also: {starriest}, {starrier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

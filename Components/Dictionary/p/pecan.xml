@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pecan</Word>
+  <Definitions>
+    <Definition>
+      <Word>pecan</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pecan \Pe*can"\, n. [Cf. F. pacane the nut.] (Bot.)
+   A species of hickory ({Carya oliv[ae]formis}), growing in
+   North America, chiefly in the Mississippi valley and in
+   Texas, where it is one of the largest of forest trees; also,
+   its fruit, a smooth, oblong nut, an inch or an inch and a
+   half long, with a thin shell and well-flavored meat. [Written
+   also {pacane}.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pecan</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pecan
+     n 1: wood of a pecan tree
+     2: tree of southern United States and Mexico cultivated for its
+        nuts [syn: {pecan tree}, {Carya illinoensis}, {Carya
+        illinoinsis}]
+     3: smooth brown oval nut of south central United States
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

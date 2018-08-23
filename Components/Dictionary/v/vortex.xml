@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>vortex</Word>
+  <Definitions>
+    <Definition>
+      <Word>vortex</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Vortex \Vor"tex\, n.; pl. E. {Vortexes}, L. {Vortices}. [L.
+   vortex, vertex, -icis, fr. vortere, vertere, to turn. See
+   {Vertex}.]
+   [1913 Webster]
+   1. A mass of fluid, especially of a liquid, having a whirling
+      or circular motion tending to form a cavity or vacuum in
+      the center of the circle, and to draw in towards the
+      center bodies subject to its action; the form assumed by a
+      fluid in such motion; a whirlpool; an eddy.
+      [1913 Webster]
+
+   2. (Cartesian System) A supposed collection of particles of
+      very subtile matter, endowed with a rapid rotary motion
+      around an axis which was also the axis of a sun or a
+      planet. Descartes attempted to account for the formation
+      of the universe, and the movements of the bodies composing
+      it, by a theory of vortices.
+      [1913 Webster]
+
+   3. (Zo["o]l.) Any one of numerous species of small
+      Turbellaria belonging to {Vortex} and allied genera. See
+      Illustration in Appendix.
+      [1913 Webster]
+
+   {Vortex atom} (Chem.), a hypothetical ring-shaped mass of
+      elementary matter in continuous vortical motion. It was
+      conveniently regarded in certain early mathematical models
+      as the typical form and structure of the chemical atom,
+      but is no longer considered a useful model, having been
+      superseded by quantum mechanics.
+
+   {Vortex wheel}, a kind of turbine.
+      [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>vortex</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>VORTEX
+     Varian Omnitasking Real Time EXecutive (???) (OS, Varian)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>vortex</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>vortex
+     n 1: the shape of something rotating rapidly [syn: {whirl}, {swirl},
+           {convolution}]
+     2: a powerful circular current of water (usually the resulting
+        of conflicting tides) [syn: {whirlpool}, {maelstrom}]
+     [also: {vortices} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

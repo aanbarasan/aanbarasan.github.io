@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>moore</Word>
+  <Definitions>
+    <Definition>
+      <Word>moore</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Moore, ID (city, FIPS 54100)
+  Location: 43.73412 N, 113.36606 W
+  Population (1990): 190 (83 housing units)
+  Area: 0.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 83255
+Moore, MT (town, FIPS 51550)
+  Location: 46.97493 N, 109.69488 W
+  Population (1990): 211 (100 housing units)
+  Area: 0.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 59464
+Moore, OK (city, FIPS 49200)
+  Location: 35.32950 N, 97.47470 W
+  Population (1990): 40318 (14824 housing units)
+  Area: 55.7 sq km (land), 0.3 sq km (water)
+  Zip code(s): 73160, 73165, 73170
+Moore, SC
+  Zip code(s): 29369
+Moore, TX
+  Zip code(s): 78057
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>moore</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Moore
+     n 1: United States composer of works noted for their use of the
+          American vernacular (1893-1969) [syn: {Douglas Moore}]
+     2: English actor and comedian who appeared on television and in
+        films (born in 1935) [syn: {Dudley Moore}, {Dudley Stuart
+        John Moore}]
+     3: English philosopher (1873-1958) [syn: {G. E. Moore}, {George
+        Edward Moore}]
+     4: Irish poet who wrote nostalgic and patriotic verse
+        (1779-1852) [syn: {Thomas Moore}]
+     5: United States poet noted for irony and wit (1887-1872) [syn:
+         {Marianne Moore}, {Marianne Craig Moore}]
+     6: British sculptor whose works are monumental organic forms
+        (1898-1986) [syn: {Henry Moore}, {Henry Spencer Moore}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

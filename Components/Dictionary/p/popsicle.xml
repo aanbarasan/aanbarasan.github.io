@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>popsicle</Word>
+  <Definitions>
+    <Definition>
+      <Word>popsicle</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>popsicle
+     n : ice cream or water ice on a small wooden stick; "in England
+         a popsicle is called an ice lolly" [syn: {ice lolly}, {lolly},
+          {lollipop}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

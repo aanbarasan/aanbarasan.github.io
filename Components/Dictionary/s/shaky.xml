@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>shaky</Word>
+  <Definitions>
+    <Definition>
+      <Word>shaky</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Shaky \Shak"y\, a. [Compar. {Shakier}; superl. {Shakiest}.]
+   1. Shaking or trembling; as, a shaky spot in a marsh; a shaky
+      hand. --Thackeray.
+      [1913 Webster]
+
+   2. Full of shakes or cracks; cracked; as, shaky timber.
+      --Gwilt.
+      [1913 Webster]
+
+   3. Easily shaken; tottering; unsound; as, a shaky
+      constitution; shaky business credit. [Colloq.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>shaky</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>shaky
+     adj 1: inclined to shake as from weakness or defect; "a rickety
+            table"; "a wobbly chair with shaky legs"; "the ladder
+            felt a little wobbly"; "the bridge still stands though
+            one of the arches is wonky" [syn: {rickety}, {wobbly},
+             {wonky}]
+     2: vibrating slightly and irregularly; as e.g. with fear or
+        cold or like the leaves of an aspen in a breeze; "a
+        quaking bog"; "the quaking child asked for more";
+        "quivering leaves of a poplar tree"; "with shaking knees";
+        "seemed shaky on her feet"; "sparkling light from the
+        shivering crystals of the chandelier"; "trembling hands"
+        [syn: {quaking}, {quivering}, {shaking}, {shivering}, {trembling}]
+     3: not secure; beset with difficulties; "a shaky marriage"
+        [syn: {precarious}]
+     [also: {shakiest}, {shakier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

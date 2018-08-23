@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pivotal</Word>
+  <Definitions>
+    <Definition>
+      <Word>pivotal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pivotal \Piv"ot*al\, a.
+   Of or pertaining to a pivot or turning point; belonging to,
+   or constituting, a pivot; of the nature of a pivot; as, the
+   pivotalopportunity of a career; the pivotal position in a
+   battle.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pivotal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pivotal
+     adj : being of crucial importance; "a pivotal event"; "Its pivotal
+           location has also exposed it to periodic invasions"-
+           Henry Kissinger; "the polar events of this study"; "a
+           polar principal" [syn: {polar}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

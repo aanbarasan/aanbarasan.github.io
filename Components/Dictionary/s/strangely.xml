@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>strangely</Word>
+  <Definitions>
+    <Definition>
+      <Word>strangely</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Strangely \Strange"ly\, adv.
+   1. As something foreign, or not one's own; in a manner
+      adapted to something foreign and strange. [Obs.] --Shak.
+      [1913 Webster]
+
+   2. In the manner of one who does not know another; distantly;
+      reservedly; coldly.
+      [1913 Webster]
+
+            You all look strangely on me.         --Shak.
+      [1913 Webster]
+
+            I do in justice charge thee . . .
+            That thou commend it strangely to some place
+            Where chance may nurse or end it.     --Shak.
+      [1913 Webster]
+
+   3. In a strange manner; in a manner or degree to excite
+      surprise or wonder; wonderfully.
+      [1913 Webster]
+
+            How strangely active are the arts of peace!
+                                                  --Dryden.
+      [1913 Webster]
+
+            It would strangely delight you to see with what
+            spirit he converses.                  --Law.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>strangely</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>strangely
+     adv 1: in a strange way; "he was strangely silent"
+     2: in a strange manner; "a queerly inscribed sheet of paper";
+        "he acted kind of funny" [syn: {queerly}, {oddly}, {funnily},
+         {funny}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>intestate</Word>
+  <Definitions>
+    <Definition>
+      <Word>intestate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Intestate \In*tes"tate\, n. (Law)
+   A person who dies without making a valid will. --Blackstone.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>intestate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Intestate \In*tes"tate\, a. [L. intestatus; pref. in- not +
+   testatus, p. p. of testari to make a will: cf. F. intestat.
+   See {Testament}.]
+   [1913 Webster]
+   1. Without having made a valid will; without a will; as, to
+      die intestate. --Blackstone.
+      [1913 Webster]
+
+            Airy succeeders of intestate joys.    --Shak.
+      [1913 Webster]
+
+   2. Not devised or bequeathed; not disposed of by will; as, an
+      intestate estate.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>intestate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>intestate
+     adj : having made no legally valid will before death or not
+           disposed of by a legal will; "he died intestate";
+           "intestate property" [ant: {testate}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

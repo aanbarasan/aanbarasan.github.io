@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mineral</Word>
+  <Definitions>
+    <Definition>
+      <Word>mineral</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Mineral, CA
+  Zip code(s): 96063
+Mineral, IL (village, FIPS 49516)
+  Location: 41.38189 N, 89.83647 W
+  Population (1990): 250 (106 housing units)
+  Area: 0.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 61344
+Mineral, VA (town, FIPS 52120)
+  Location: 38.00727 N, 77.90659 W
+  Population (1990): 471 (202 housing units)
+  Area: 2.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 23117
+Mineral, WA
+  Zip code(s): 98355
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mineral</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mineral \Min"er*al\, n. [F. min['e]ral, LL. minerale, fr. minera
+   mine. See {Mine}, v. i.]
+   [1913 Webster]
+   1. An inorganic species or substance occurring in nature,
+      having a definite chemical composition and usually a
+      distinct crystalline form. Rocks, except certain glassy
+      igneous forms, are either simple minerals or aggregates of
+      minerals.
+      [1913 Webster]
+
+   2. A mine. [Obs.] --Shak.
+      [1913 Webster]
+
+   3. Anything which is neither animal nor vegetable, as in the
+      most general classification of things into three kingdoms
+      (animal, vegetable, and mineral).
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mineral</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mineral \Min"er*al\, a.
+   1. Of or pertaining to minerals; consisting of a mineral or
+      of minerals; as, a mineral substance.
+      [1913 Webster]
+
+   2. Impregnated with minerals; as, mineral waters.
+      [1913 Webster]
+
+   {Mineral acids} (Chem.), inorganic acids, as sulphuric,
+      nitric, phosphoric, hydrochloric, acids, etc., as
+      distinguished from the {organic acids}.
+
+   {Mineral blue}, the name usually given to azurite, when
+      reduced to an impalpable powder for coloring purposes.
+
+   {Mineral candle}, a candle made of paraffin.
+
+   {Mineral caoutchouc}, an elastic mineral pitch, a variety of
+      bitumen, resembling caoutchouc in elasticity and softness.
+      See {Caoutchouc}, and {Elaterite}.
+
+   {Mineral chameleon} (Chem.) See {Chameleon mineral}, under
+      {Chameleon}.
+
+   {Mineral charcoal}. See under {Charcoal}.
+
+   {Mineral cotton}. See {Mineral wool} (below).
+
+   {Mineral green}, a green carbonate of copper; malachite.
+
+   {Mineral kingdom} (Nat. Sci.), that one of the three grand
+      divisions of nature which embraces all inorganic objects,
+      as distinguished from plants or animals.
+
+   {Mineral oil}. See {Naphtha}, and {Petroleum}.
+
+   {Mineral paint}, a pigment made chiefly of some natural
+      mineral substance, as red or yellow iron ocher.
+
+   {Mineral patch}. See {Bitumen}, and {Asphalt}.
+
+   {Mineral right}, the right of taking minerals from land.
+
+   {Mineral salt} (Chem.), a salt of a mineral acid.
+
+   {Mineral tallow}, a familiar name for {hatchettite}, from its
+      fatty or spermaceti-like appearance.
+
+   {Mineral water}. See under {Water}.
+
+   {Mineral wax}. See {Ozocerite}.
+
+   {Mineral wool}, a fibrous wool-like material, made by blowing
+      a powerful jet of air or steam through melted slag. It is
+      a poor conductor of heat.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mineral</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mineral
+     adj 1: relating to minerals; "mineral elements"; "mineral deposits"
+     2: of or containing or derived from minerals; "a mineral
+        deposit"; "mineral water" [ant: {animal}, {vegetable}]
+     3: composed of matter other than plant or animal; "the
+        inorganic mineral world"
+     n : solid homogeneous inorganic substances occurring in nature
+         having a definite chemical composition
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

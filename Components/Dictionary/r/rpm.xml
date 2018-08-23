@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rpm</Word>
+  <Definitions>
+    <Definition>
+      <Word>rpm</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>RPM
+     
+        &lt;operating system, tool&gt; A {Unix} {package}-management system
+        that helps installation of software packages; similar to an
+        install program.
+     
+        [More details?  Reference?  Expansion?]
+     
+        (1996-03-07)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rpm</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>rpm
+     
+        {rotation per minute}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rpm</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>RPM
+     Radio Packet Modem (Motorola)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rpm</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>RPM
+     Redhat Package Manager (Linux)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rpm</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>RPM
+     Remote Port Module (Ascend)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rpm</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rpm
+     n : rate of revolution of a motor; "the engine was doing 6000
+         revs" [syn: {revolutions per minute}, {rev}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

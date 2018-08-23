@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nozzle</Word>
+  <Definitions>
+    <Definition>
+      <Word>nozzle</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Nozzle \Noz"zle\, n. [A dim. of nose. [root]261.] [Written also
+   {nosle}.]
+   1. The nose; the snout; hence, the projecting vent of
+      anything; as, the nozzle of a bellows.
+      [1913 Webster]
+
+   2. Specifically:
+      (a) A short tube, usually tapering, forming the vent of a
+          hose or pipe.
+      (b) A short outlet, or inlet, pipe projecting from the end
+          or side of a hollow vessel, as a steam-engine cylinder
+          or a steam boiler.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nozzle</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nozzle
+     n 1: a projecting spout from which a fluid is discharged [syn: {nose}]
+     2: informal terms for the nose [syn: {beak}, {honker}, {hooter},
+         {snoot}, {snout}, {schnozzle}, {schnoz}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

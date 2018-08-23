@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>restraint</Word>
+  <Definitions>
+    <Definition>
+      <Word>restraint</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Restraint \Re*straint"\, n. [OF. restraincte, fr. restrainct, F.
+   restreint, p. p. of restraindre, restrendre. See {Restrain}.]
+   1. The act or process of restraining, or of holding back or
+      hindering from motion or action, in any manner; hindrance
+      of the will, or of any action, physical or mental.
+      [1913 Webster]
+
+            No man was altogether above the restrains of law,
+            and no man altogether below its protection.
+                                                  --Macaulay.
+      [1913 Webster]
+
+   2. The state of being restrained.
+      [1913 Webster]
+
+   3. That which restrains, as a law, a prohibition, or the
+      like; limitation; restriction.
+      [1913 Webster]
+
+            For one restraint, lords of the world besides.
+                                                  --Milton.
+      [1913 Webster]
+
+   Syn: Repression; hindrance; check; stop; curb;?oercion;
+        confinement; limitation; restriction.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>restraint</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>restraint
+     n 1: the of act controlling by restraining someone or something;
+          "the unlawful restraint of trade"
+     2: discipline in personal and social activities; "he was a
+        model of polite restraint"; "she never lost control of
+        herself" [syn: {control}] [ant: {unrestraint}]
+     3: the state of being physically constrained; "dogs should be
+        kept under restraint" [syn: {constraint}]
+     4: a rule or condition that limits freedom; "legal restraints";
+        "restraints imposed on imports"
+     5: lack of ornamentation; "the room was simply decorated with
+        great restraint" [syn: {chasteness}, {simplicity}]
+     6: a device that retards something's motion; "the car did not
+        have proper restraints fitted" [syn: {constraint}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

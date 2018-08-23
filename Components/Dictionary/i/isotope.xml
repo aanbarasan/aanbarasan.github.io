@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>isotope</Word>
+  <Definitions>
+    <Definition>
+      <Word>isotope</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>isotope
+     n : one of two or more atoms with the same atomic number but
+         with different numbers of neutrons
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

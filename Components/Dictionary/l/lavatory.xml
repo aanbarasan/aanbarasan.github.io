@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lavatory</Word>
+  <Definitions>
+    <Definition>
+      <Word>lavatory</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lavatory \Lav"a*to*ry\, a.
+   Washing, or cleansing by washing.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lavatory</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lavatory \Lav"a*to*ry\, n.; pl. {Lavatories}. [L. lavatorium:
+   cf. lavatoire. See {Lave} to wash, and cf. {Laver}.]
+   1. A place for washing.
+      [1913 Webster]
+
+   2. A basin or other vessel for washing in.
+      [1913 Webster]
+
+   3. A wash or lotion for a diseased part.
+      [1913 Webster]
+
+   4. A place where gold is obtained by washing.
+      [1913 Webster]
+
+   5. A room containing one or more sinks for washing, as well
+      as one or more toilet fixtures; also called {bathroom},
+      {toilet}, and sometimes {commode}. Commode and toilet may
+      refer to a room with only a toilet fixture, but without a
+      sink.
+
+   Syn: toilet, lavatory, can, facility, john, privy, bathroom.
+        [WordNet 1.5 +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lavatory</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>lavatory
+     n 1: a room equipped with toilet facilities [syn: {toilet}, {lav},
+           {can}, {john}, {privy}, {bathroom}]
+     2: a bathroom or lavatory sink that is permanently installed
+        and connected to a water supply and drainpipe; where you
+        wash your hands and face; "he ran some water in the basin
+        and splashed it on his face" [syn: {washbasin}, {basin}, {washbowl},
+         {washstand}]
+     3: a toilet that is cleaned of waste by the flow of water
+        through it [syn: {flush toilet}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

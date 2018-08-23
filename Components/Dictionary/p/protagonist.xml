@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>protagonist</Word>
+  <Definitions>
+    <Definition>
+      <Word>protagonist</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Protagonist \Pro*tag"o*nist\, n. [Gr. prwtagonisth`s; prw^tos
+   first + 'agonisth`s an actor, combatant, fr. 'agw`n a
+   contest.]
+   One who takes the leading part in a drama; hence, one who
+   takes lead in some great scene, enterprise, conflict, or the
+   like.
+   [1913 Webster]
+
+         Shakespeare, the protagonist on the great of modern
+         poetry.                                  --De Quincey.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>protagonist</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>protagonist
+     n 1: a person who backs a politician or a team etc.; "all their
+          supporters came out for the game"; "they are friends of
+          the library" [syn: {supporter}, {champion}, {admirer}, {booster},
+           {friend}]
+     2: the principal character in a work of fiction [syn: {agonist}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

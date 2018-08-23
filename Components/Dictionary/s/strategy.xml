@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>strategy</Word>
+  <Definitions>
+    <Definition>
+      <Word>strategy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Strategy \Strat"e*gy\, n. [Gr. ?: cf. F. strat['e]gie. See
+   {Stratagem}.]
+   1. The science of military command, or the science of
+      projecting campaigns and directing great military
+      movements; generalship.
+      [1913 Webster]
+
+   2. The use of stratagem or artifice.
+      [1913 Webster]
+
+   3. a plan of action encompassing the methods to be adopted
+      from beginning to end of a task or endeavor, focussing on
+      the general methods; -- contrasted with tactics, which is
+      a plan for accomplishing subgoals of lesser extent than
+      the primary goal. Thus, a strategy is a plan for winning a
+      war, and a tactic is a plan for winning a battle.
+
+   4. Biol. A behavior evolved and exhibited by a living
+      organism to accomplish some important goal, as a foraging
+      strategy.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>strategy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>strategy
+     n 1: an elaborate and systematic plan of action [syn: {scheme}]
+     2: the branch of military science dealing with military command
+        and the planning and conduct of a war
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

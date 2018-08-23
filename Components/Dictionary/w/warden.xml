@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>warden</Word>
+  <Definitions>
+    <Definition>
+      <Word>warden</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Warden, LA
+  Zip code(s): 71232
+Warden, WA (town, FIPS 76160)
+  Location: 46.96789 N, 119.04699 W
+  Population (1990): 1639 (543 housing units)
+  Area: 3.9 sq km (land), 0.0 sq km (water)
+  Zip code(s): 98857
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>warden</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Warden \Ward"en\, n. [OE. wardein, OF. wardein, gardein,
+   gardain, F. gardien. See {Guardian}, and {Ward} guard.]
+   [1913 Webster]
+   1. A keeper; a guardian; a watchman.
+      [1913 Webster]
+
+            He called to the warden on the . . . battlements.
+                                                  --Sir. W.
+                                                  Scott.
+      [1913 Webster]
+
+   2. An officer who keeps or guards; a keeper; as, the warden
+      of a prison.
+      [1913 Webster]
+
+   3. A head official; as, the warden of a college; specifically
+      (Eccl.), a churchwarden.
+      [1913 Webster]
+
+   4. [Properly, a keeping pear.] A large, hard pear, chiefly
+      used for baking and roasting. [Obs.]
+      [1913 Webster]
+
+            I would have had him roasted like a warden. --Beau.
+                                                  &amp; Fl.
+      [1913 Webster]
+
+   {Warden pie}, a pie made of warden pears. [Obs.] --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>warden</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>warden
+     n : the chief official in charge of a prison [syn: {warder}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

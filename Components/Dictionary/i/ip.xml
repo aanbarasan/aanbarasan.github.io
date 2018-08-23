@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ip</Word>
+  <Definitions>
+    <Definition>
+      <Word>ip</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>IP
+     
+        {Internet Protocol}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ip</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>IP
+     Intellectual Property
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ip</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>IP
+     Intelligent Peripheral (IN)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ip</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>IP
+     Intelligent Peripheral
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ip</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>IP
+     Internet Protocol [version 4] (RFC 791)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ip</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>IP
+     Instruction Pointer [register] (CPU, Intel, assembler)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ip</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>IP
+     Information Provider
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ip</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>IP
+     n : the sciences concerned with gathering and manipulating and
+         storing and retrieving and classifying recorded
+         information [syn: {information science}, {informatics}, {information
+         processing}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

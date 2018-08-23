@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>polypropylene</Word>
+  <Definitions>
+    <Definition>
+      <Word>polypropylene</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>polypropylene
+     n : a polymer of propylene used as a thermoplastic molding
+         material [syn: {polypropene}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mt</Word>
+  <Definitions>
+    <Definition>
+      <Word>mt</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>mt
+     
+        &lt;networking&gt; The {country code} for Malta.
+     
+        (1999-01-27)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mt</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>MT \MT\ n.
+   A {metric ton}, a unit of weight equivalent to 1000
+   kilograms. [abbr.]
+
+   Syn: metric ton, tonne, t.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mt</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>MT
+     Machine [assisted] Translation
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mt</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>MT
+     Mannesmann Tally [gmbh] (manufacturer)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mt</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>MT
+     Message Transfer / Type
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mt</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>MT
+     Mobile Termination (GSM, mobile-systems)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mt</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>MT
+     Moluccas Time [+0830] (TZ)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mt</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>MT
+     n 1: a unit of weight equivalent to 1000 kilograms [syn: {metric
+          ton}, {tonne}, {t}]
+     2: a state in northwestern United States on the Canadian border
+        [syn: {Montana}, {Treasure State}]
+     3: the use of computers to translate from one language to
+        another [syn: {machine translation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

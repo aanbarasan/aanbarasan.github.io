@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>virile</Word>
+  <Definitions>
+    <Definition>
+      <Word>virile</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Virile \Vi"rile\ (?; 277), a. [L. virilis, fr. vir a man; akin
+   to AS. wer: cf. F. viril. See {Werewolf}, {World}, and cf.
+   {Decemvir}, {Virago}, {Virtue}.]
+   Having the nature, properties, or qualities, of an adult man;
+   characteristic of developed manhood; hence, masterful;
+   forceful; specifically, capable of begetting; -- opposed to
+   womanly, feminine, and puerile; as, virile age, virile power,
+   virile organs.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>virile</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>virile
+     adj 1: characterized by energy and vigor; "a virile and ever
+            stronger free society"; "a new and virile leadership"
+     2: characteristic of a man; "a deep male voice"; "manly sports"
+        [syn: {male}, {manful}, {manlike}, {manly}]
+     3: (of a male) able to copulate [syn: {potent}] [ant: {impotent}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

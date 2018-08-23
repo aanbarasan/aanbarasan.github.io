@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>spinner</Word>
+  <Definitions>
+    <Definition>
+      <Word>spinner</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Spinner \Spin"ner\, n.
+   1. One who, or that which, spins one skilled in spinning; a
+      spinning machine.
+      [1913 Webster]
+
+   2. A spider. ``Long-legged spinners.'' --Shak.
+      [1913 Webster]
+
+   3. (Zo["o]l.) A goatsucker; -- so called from the peculiar
+      noise it makes when darting through the air.
+      [1913 Webster]
+
+   4. (Zo["o]l.) A spinneret.
+      [1913 Webster]
+
+   {Ring spinner}, a machine for spinning, in which the twist,
+      given to the yarn by a revolving bobbin, is regulated by
+      the drag of a small metal loop which slides around a ring
+      encircling the bobbin, instead of by a throstle.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>spinner</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>spinner
+     n 1: someone who spins (who twists fibers into threads) [syn: {spinster},
+           {thread maker}]
+     2: board game equipment that consists of a dial and an arrow
+        that is spun to determine the next move in the game
+     3: fisherman's lure; revolves when drawn through the water
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

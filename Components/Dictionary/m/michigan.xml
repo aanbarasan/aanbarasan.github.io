@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>michigan</Word>
+  <Definitions>
+    <Definition>
+      <Word>michigan</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Michigan
+     n 1: a midwestern state in north central United States in the
+          Great Lakes region [syn: {Wolverine State}, {Great Lakes
+          State}, {MI}]
+     2: the 3rd largest of the Great Lakes; the largest fresh-water
+        lake entirely within the United States borders [syn: {Lake
+        Michigan}]
+     3: a gambling card game in which chips are placed on the ace
+        and king and queen and jack of separate suits (taken from
+        a separate deck); a player plays the lowest card of a suit
+        in his hand and successively higher cards are played until
+        the sequence stops; the player who plays a card matching
+        one in the layout wins all the chips on that card [syn: {Chicago},
+         {Newmarket}, {boodle}, {stops}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

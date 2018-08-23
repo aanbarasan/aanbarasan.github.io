@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>racing</Word>
+  <Definitions>
+    <Definition>
+      <Word>racing</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Race \Race\, v. i. [imp. &amp; p. p. {Raced} (r[=a]st); p. pr. &amp; vb.
+   n. {Racing} (r[=a]"s[i^]ng).]
+   1. To run swiftly; to contend in a race; as, the animals
+      raced over the ground; the ships raced from port to port.
+      [1913 Webster]
+
+   2. (Steam Mach.) To run too fast at times, as a marine engine
+      or screw, when the screw is lifted out of water by the
+      action of a heavy sea.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>racing</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Racing \Ra"cing\ (r[=a]"s[i^]ng),
+   a. &amp; n. from {Race}, v. t. &amp; i.
+   [1913 Webster]
+
+   {Racing crab} (Zo["o]l.), an ocypodian.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>racing</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>racing
+     n : the sport of engaging in contests of speed
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>kilometer</Word>
+  <Definitions>
+    <Definition>
+      <Word>kilometer</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Kilometer \Kil"o*me`ter\, Kilometre \Kil"o*me`tre\, n. [F.
+   kilometre. See {Kilogram}, and {Meter}.]
+   A measure of length, being a thousand meters. It is equal to
+   3,280.84 feet, or 0.62137119 of a mile.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>kilometer</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>kilometer
+     n : a metric unit of length equal to 1000 meters (or 0.621371
+         miles) [syn: {kilometre}, {km}, {klick}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

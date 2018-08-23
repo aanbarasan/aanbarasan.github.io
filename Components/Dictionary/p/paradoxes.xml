@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>paradoxes</Word>
+  <Definitions>
+    <Definition>
+      <Word>paradoxes</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>paradox \par"a*dox\ (p[a^]r"[.a]*d[o^]ks), n.; pl. {paradoxes}
+   (p[a^]r"[.a]*d[o^]ks*[e^]z). [F. paradoxe, L. paradoxum, fr.
+   Gr. para`doxon; para` beside, beyond, contrary to + dokei^n
+   to think, suppose, imagine. See {Para-}, and {Dogma}.]
+   A tenet or proposition contrary to received opinion; an
+   assertion or sentiment seemingly contradictory, or opposed to
+   common sense; that which in appearance or terms is absurd,
+   but yet may be true in fact.
+   [1913 Webster]
+
+         A gloss there is to color that paradox, and make it
+         appear in show not to be altogether unreasonable.
+                                                  --Hooker.
+   [1913 Webster]
+
+         This was sometime a paradox, but now the time gives it
+         proof.                                   --Shak.
+   [1913 Webster]
+
+   {Hydrostatic paradox}. See under {Hydrostatic}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

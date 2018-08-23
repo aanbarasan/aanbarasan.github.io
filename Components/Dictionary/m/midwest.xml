@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>midwest</Word>
+  <Definitions>
+    <Definition>
+      <Word>midwest</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Midwest, WY (town, FIPS 52445)
+  Location: 43.41132 N, 106.27753 W
+  Population (1990): 495 (252 housing units)
+  Area: 1.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 82643
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>midwest</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Midwest \Midwest\ n.
+   The north central region of the U. S.
+
+   Syn: Middle West.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>midwest</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Midwest
+     n : the north central region of the United States (sometimes
+         called the heartland or the breadbasket of America) [syn:
+          {Middle West}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

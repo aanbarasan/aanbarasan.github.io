@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>repaired</Word>
+  <Definitions>
+    <Definition>
+      <Word>repaired</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Repair \Re*pair"\, v. t. [imp. &amp; p. p. {Repaired} (-p?rd"); p.
+   pr. &amp; vb. n. {Repairing}.] [F. r['e]parer, L. reparare; pref.
+   re- re- + parare to prepare. See {Pare}, and cf.
+   {Reparation}.]
+   1. To restore to a sound or good state after decay, injury,
+      dilapidation, or partial destruction; to renew; to
+      restore; to mend; as, to repair a house, a road, a shoe,
+      or a ship; to repair a shattered fortune.
+      [1913 Webster]
+
+            Secret refreshings that repair his strength.
+                                                  --Milton.
+      [1913 Webster]
+
+            Do thou, as thou art wont, repair
+            My heart with gladness.               --Wordsworth.
+      [1913 Webster]
+
+   2. To make amends for, as for an injury, by an equivalent; to
+      indemnify for; as, to repair a loss or damage.
+      [1913 Webster]
+
+            I 'll repair the misery thou dost bear. --Shak.
+      [1913 Webster]
+
+   Syn: To restore, recover; renew; amend; mend; retrieve;
+        recruit.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>repaired</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>repaired
+     adj 1: mended or put in working order; "a reconditioned sewing
+            machine"; "a repaired vacuum cleaner"; "the broken
+            lock is now fixed" [syn: {reconditioned}, {fixed}]
+     2: made ready for service [syn: {maintained}, {serviced}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

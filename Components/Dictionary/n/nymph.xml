@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nymph</Word>
+  <Definitions>
+    <Definition>
+      <Word>nymph</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>nymph \nymph\ (n[i^]mf), n. [L. nympha nymph, bride, young
+   woman, Gr. ny`mfh: cf. F. nymphe. Cf. {Nuptial}.]
+   [1913 Webster]
+   1. (Class. Myth.) A goddess of the mountains, forests,
+      meadows, or waters.
+      [1913 Webster]
+
+            Where were ye, nymphs, when the remorseless deep
+            Closed o'er the head of your loved Lycidas?
+                                                  --Milton.
+      [1913 Webster]
+
+   2. Hence: A lovely young girl; a maiden; a damsel.
+      [1913 Webster]
+
+            Nymph, in thy orisons
+            Be all my sins remembered.            --Shak.
+      [1913 Webster]
+
+   3. (Zo["o]l.) The pupa of an insect; a chrysalis.
+      [1913 Webster]
+
+   4. (Zo["o]l.) Any one of a subfamily (Najades) of butterflies
+      including the purples, the fritillaries, the peacock
+      butterfly, etc.; -- called also {naiad}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nymph</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nymph
+     n 1: (classical mythology) a minor nature goddess usually
+          depicted as a beautiful maiden; "the ancient Greeks
+          believed that nymphs inhabited forests and bodies of
+          water"
+     2: a larva of an insect with incomplete metamorphosis (as the
+        dragonfly or mayfly)
+     3: a voluptuously beautiful young woman [syn: {houri}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

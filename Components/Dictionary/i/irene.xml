@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>irene</Word>
+  <Definitions>
+    <Definition>
+      <Word>irene</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Irene, SD (city, FIPS 31940)
+  Location: 43.08366 N, 97.15808 W
+  Population (1990): 464 (195 housing units)
+  Area: 0.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 57037
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

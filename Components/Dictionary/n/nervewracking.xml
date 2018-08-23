@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nervewracking</Word>
+  <Definitions>
+    <Definition>
+      <Word>nervewracking</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>nerve-racking \nerve-racking\ (n[~e]rv"-r[a^]k`[i^]ng), adj.
+   Extremely irritating to the nerves; stressful; trying; as,
+   nerve-wracking noise. [Also spelled {nerve-wracking}.]
+
+   Syn: stressful, trying.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nervewracking</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>nerve-wracking \nerve-wracking\ (n[~e]rv"-r[a^]k`[i^]ng), adj.
+   Same as {nerve-racking}.
+
+   Syn: stressful, trying.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nervewracking</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nerve-wracking
+     adj : extremely irritating to the nerves; "nerve-racking noise";
+           "the stressful days before a war"; "a trying day at the
+           office" [syn: {nerve-racking}, {stressful}, {trying}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

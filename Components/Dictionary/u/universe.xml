@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>universe</Word>
+  <Definitions>
+    <Definition>
+      <Word>universe</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Universe \U"ni*verse\, n. [L. universum, from universus
+   universal; unus one + vertere, versum, to turn, that is,
+   turned into one, combined into one whole; cf. F. univers. See
+   {One}, and {Verse}.]
+   All created things viewed as constituting one system or
+   whole; the whole body of things, or of phenomena; the to~
+   pa^n of the Greeks, the mundus of the Latins; the world;
+   creation.
+   [1913 Webster]
+
+         How may I
+         Adore thee, Author of this universe
+         And all this good to man!                --Milton.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>universe</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>universe
+     n 1: everything that exists anywhere; "they study the evolution
+          of the universe"; "the biggest tree in existence" [syn:
+          {existence}, {creation}, {world}, {cosmos}, {macrocosm}]
+     2: (statistics) the entire aggregation of items from which
+        samples can be drawn; "it is an estimate of the mean of
+        the population" [syn: {population}]
+     3: everything stated or assumed in a given discussion [syn: {universe
+        of discourse}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

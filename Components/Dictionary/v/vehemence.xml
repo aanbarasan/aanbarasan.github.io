@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>vehemence</Word>
+  <Definitions>
+    <Definition>
+      <Word>vehemence</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Vehemence \Ve"he*mence\, n. [L. vehementia: cf. F.
+   v['e]h['e]mence.]
+   [1913 Webster]
+   1. The quality pr state of being vehement; impetuous force;
+      impetuosity; violence; fury; as, the vehemence.
+      [1913 Webster]
+
+   2. Violent ardor; great heat; animated fervor; as, the
+      vehemence of love, anger, or other passions.
+      [1913 Webster]
+
+            I . . . tremble at his vehemence of temper.
+                                                  --Addison.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>vehemence</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>vehemence
+     n 1: intensity or forcefulness of expression; "the vehemence of
+          his denial"; "his emphasis on civil rights" [syn: {emphasis}]
+     2: the property of being wild or turbulent; "the storm's
+        violence" [syn: {ferocity}, {fierceness}, {furiousness}, {fury},
+         {violence}, {wildness}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>urinal</Word>
+  <Definitions>
+    <Definition>
+      <Word>urinal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Urinal \U"ri*nal\, n. [L. urinal, fr. urina urine: cf. F.
+   urinal.]
+   [1913 Webster]
+   1. A vessel for holding urine; especially, a bottle or tube
+      for holding urine for inspection.
+      [1913 Webster]
+
+   2. A place or convenience for urinating purposes.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>urinal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>urinal
+     n : a plumbing fixture (usually attached to the wall) used by
+         men to urinate
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

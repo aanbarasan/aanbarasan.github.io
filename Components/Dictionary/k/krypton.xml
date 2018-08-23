@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>krypton</Word>
+  <Definitions>
+    <Definition>
+      <Word>krypton</Word>
+      <Dictionary>
+        <Id>elements</Id>
+        <Name>Elements database 20001107</Name>
+      </Dictionary>
+      <WordDefinition>krypton
+Symbol: Kr
+Atomic number: 36
+Atomic weight: 83.80
+Colorless gaseous element, belongs to the noble gases. Occurs in the air,
+0.0001% by volume. It can be extracted from liquid air by fractional
+distillation. Generally not isolated, but used with other inert gases in
+fluorescent lamps. Five natural isotopes, and five radioactive isotopes.
+Kr-85, the most stable radioactive isotope, has a half-life of 10.76
+years and is produced in fission reactors. Practically inert, though known
+to form compounds with {fluorine}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>krypton</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>KRYPTON
+     
+        A {frame} language.
+     
+        ["An Essential Hybrid Reasoning System: Knowledge and Symbol
+        Level Accounts of KRYPTON", R.J. Brachman et al, Proc
+        IJCAI-85, 1985].
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>krypton</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Noble \No"ble\, a. [Compar. {Nobler}; superl. {Noblest}.] [F.
+   noble, fr. L. nobilis that can be or is known, well known,
+   famous, highborn, noble, fr. noscere to know. See {know}.]
+   1. Possessing eminence, elevation, dignity, etc.; above
+      whatever is low, mean, degrading, or dishonorable;
+      magnanimous; as, a noble nature or action; a noble heart.
+      [1913 Webster]
+
+            Statues, with winding ivy crowned, belong
+            To nobler poets for a nobler song.    --Dryden.
+      [1913 Webster]
+
+   2. Grand; stately; magnificent; splendid; as, a noble
+      edifice.
+      [1913 Webster]
+
+   3. Of exalted rank; of or pertaining to the nobility;
+      distinguished from the masses by birth, station, or title;
+      highborn; as, noble blood; a noble personage.
+      [1913 Webster]
+
+   Note: Noble is used in the formation of self-explaining
+         compounds; as, noble-born, noble-hearted, noble-minded.
+         [1913 Webster]
+
+   {Noble gas} (Chem.), a gaseous element belonging to group
+      VIII of the periodic table of elements, not combining with
+      other elements under normal reaction conditions;
+      specifically, {helium}, {neon}, {argon}, {krypton},
+      {xenon}, or {radon}; also called {inert gas}.
+
+   {Noble metals} (Chem.), silver, gold, and platinum; -- so
+      called from their resistance to oxidation by air and to
+      dissolution by acids. Copper, mercury, aluminium,
+      palladium, rhodium, iridium, and osmium are sometimes
+      included.
+      [1913 Webster]
+
+   Syn: Honorable; worthy; dignified; elevated; exalted;
+        superior; sublime; great; eminent; illustrious;
+        renowned; stately; splendid; magnificent; grand;
+        magnanimous; generous; liberal; free.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>krypton</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Krypton \Kryp"ton\ (kr[i^]p"t[o^]n), n. [NL., fr. Gr. krypto`n,
+   neut. of krypto`s hidden.] (Chem.)
+   An inert gaseous element of the argon (noble gas) group, of
+   atomic number 36, occurring in air to the extent of about one
+   volume in a million. It was discovered by Ramsay and Travers
+   in 1898. Boiling point, -152.3[deg] C.; melting point,
+   -156.6[deg] C.; symbol, Kr; atomic weight, 83.8.
+   [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>krypton</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>krypton
+     n : a colorless element that is one of the six inert gasses;
+         occurs in trace amounts in air [syn: {Kr}, {atomic number
+         36}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sabotage</Word>
+  <Definitions>
+    <Definition>
+      <Word>sabotage</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sabotage \Sa`bo`tage"\, n. [F.]
+   1.
+      (a) Scamped work.
+      (b) Malicious waste or destruction of an employer's
+          property or injury to his interests by workmen during
+          labor troubles.
+
+   2. any surreptitious destruction of property or obstruction
+      of activity by persons not known to be hostile; -- in war,
+      such actions carried out behind enemy lines by agents or
+      local sympathisers of the hostile power.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sabotage</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sabotage
+     n : a deliberate act of destruction or disruption in which
+         equipment is damaged
+     v : destroy property or hinder normal operations; "The
+         Resistance sabotaged railroad operations during the war"
+         [syn: {undermine}, {countermine}, {counteract}, {subvert},
+          {weaken}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

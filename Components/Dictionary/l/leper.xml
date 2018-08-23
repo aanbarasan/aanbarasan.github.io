@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>leper</Word>
+  <Definitions>
+    <Definition>
+      <Word>leper</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Leper \Lep"er\ (l[e^]p"[~e]r), n. [OE. lepre leprosy, F.
+   l[`e]pre, L. leprae, lepra, fr. Gr. le`pra, fr. lepro`s
+   scaly, fr. le`pos scale, le`pein to peel.]
+   A person affected with leprosy.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>leper</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>leper
+     n 1: a person afflicted with leprosy [syn: {lazar}]
+     2: a pariah who is avoided by others
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

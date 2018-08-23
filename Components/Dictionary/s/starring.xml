@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>starring</Word>
+  <Definitions>
+    <Definition>
+      <Word>starring</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Star \Star\ (st[aum]r), v. t. [imp. &amp; p. p. {Starred}
+   (st[aum]rd); p. pr. &amp; vb. n. {Starring}.]
+   To set or adorn with stars, or bright, radiating bodies; to
+   bespangle; as, a robe starred with gems. ``A sable curtain
+   starred with gold.'' --Young.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>starring</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>star
+     adj : indicating the most important performer or role; "the
+           leading man"; "prima ballerina"; "prima donna"; "a star
+           figure skater"; "the starring role"; "a stellar role";
+           "a stellar performance" [syn: {leading(p)}, {prima(p)},
+            {star(p)}, {starring(p)}, {stellar(a)}]
+     n 1: (astronomy) a celestial body of hot gases that radiates
+          energy derived from thermonuclear reactions in the
+          interior
+     2: someone who is dazzlingly skilled in any field [syn: {ace},
+        {adept}, {champion}, {sensation}, {maven}, {mavin}, {virtuoso},
+         {genius}, {hotshot}, {superstar}, {whiz}, {whizz}, {wizard},
+         {wiz}]
+     3: any celestial body visible (as a point of light) from the
+        Earth at night
+     4: a plane figure with 5 or more points; often used as an
+        emblem
+     5: an actor who plays a principal role [syn: {principal}, {lead}]
+     6: a performer who receives prominent billing [syn: {headliner}]
+     7: a star-shaped character * used in printing [syn: {asterisk}]
+     8: the topology of a network whose components are connected to
+        a hub [syn: {star topology}]
+     v 1: feature as the star; "The movie stars Dustin Hoffman as an
+          autistic man"
+     2: be the star in a performance
+     3: mark with an asterisk; "Linguists star unacceptable
+        sentences" [syn: {asterisk}]
+     [also: {starring}, {starred}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>starring</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>starring
+     adj : indicating the most important performer or role; "the
+           leading man"; "prima ballerina"; "prima donna"; "a star
+           figure skater"; "the starring role"; "a stellar role";
+           "a stellar performance" [syn: {leading(p)}, {prima(p)},
+            {star(p)}, {starring(p)}, {stellar(a)}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>starring</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>starring
+     See {star}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

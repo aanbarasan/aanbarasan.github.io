@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>population</Word>
+  <Definitions>
+    <Definition>
+      <Word>population</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Population \Pop`u*la"tion\, n. [L. populatio: cf. F.
+   population.]
+   1. The act or process of populating; multiplication of
+      inhabitants.
+      [1913 Webster]
+
+   2. The whole number of people, or inhabitants, in a country,
+      or portion of a country; as, a population of ten millions.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>population</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>population
+     n 1: the people who inhabit a territory or state; "the population
+          seemed to be well fed and clothed"
+     2: a group of organisms of the same species populating a given
+        area; "they hired hunters to keep down the deer
+        population"
+     3: (statistics) the entire aggregation of items from which
+        samples can be drawn; "it is an estimate of the mean of
+        the population" [syn: {universe}]
+     4: the number of inhabitants (either the total number or the
+        number of a particular race or class) in a given place
+        (country or city etc.); "people come and go, but the
+        population of this town has remained approximately
+        constant for the past decade"; "the African-American
+        population of Salt Lake City has been increasing"
+     5: the act of populating (causing to live in a place); "he
+        deplored the population of colonies with convicted
+        criminals"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

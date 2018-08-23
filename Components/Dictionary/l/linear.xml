@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>linear</Word>
+  <Definitions>
+    <Definition>
+      <Word>linear</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>left-brained \left"-brained`\, a.
+   Exhibiting intellectual or personality characteristics
+   suggesting dominance of linguistic or logical modes of
+   thought, which are usually controlled by the left cerebral
+   hemisphere; as, left-brained pedants unable to appreciate
+   music; also referred to as {linear}. See {linear}[3].
+   Contrasted with {right-brained}.
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>linear</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Linear \Lin"e*ar\ (l[i^]n"[-e]*[~e]r), a. [L. linearis,
+   linearius, fr. linea line: cf. F. lin['e]aire. See 3d
+   {Line}.]
+   1. Of or pertaining to a line; consisting of lines; in a
+      straight direction; lineal.
+      [1913 Webster]
+
+   2. (Bot.) Like a line; narrow; of the same breadth
+      throughout, except at the extremities; as, a linear leaf.
+      [1913 Webster]
+
+   3. Thinking in a step-by-step analytical and logical fashion;
+      contrasted with {holistic}, i.e. thinking in terms of
+      complex interrelated patterns; as, linear thinkers.
+      [PJC]
+
+            Linear thinkers concluded that by taking the world
+            apart, the actions of people were more predictable
+            and controllable.                     --David Morris
+                                                  (Conference
+                                                  presentation,
+                                                  Fairfield
+                                                  University,
+                                                  October 31,
+                                                  1997)
+
+   {Linear differential equation} (Math.), an equation which is
+      of the first degree, when the expression which is equated
+      to zero is regarded as a function of the dependent
+      variable and its differential coefficients.
+
+   {Linear equation} (Math.), an equation of the first degree
+      between two variables; -- so called because every such
+      equation may be considered as representing a right line.
+      
+
+   {Linear measure}, the measurement of length.
+
+   {Linear numbers} (Math.), such numbers as have relation to
+      length only: such is a number which represents one side of
+      a plane figure. If the plane figure is square, the linear
+      figure is called a root.
+
+   {Linear problem} (Geom.), a problem which may be solved
+      geometrically by the use of right lines alone.
+
+   {Linear transformation} (Alg.), a change of variables where
+      each variable is replaced by a function of the first
+      degree in the new variable.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>linear</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>linear
+     adj 1: designating or involving an equation whose terms are of the
+            first degree [syn: {additive}] [ant: {nonlinear}]
+     2: of or in or along or relating to a line; involving a single
+        dimension; "a linear foot" [syn: {one-dimensional}] [ant:
+        {planar}, {cubic}]
+     3: of a circuit or device having an output that is proportional
+        to the input; "analogue device"; "linear amplifier" [syn:
+        {analogue}, {analog}] [ant: {digital}]
+     4: of a leaf shape; long and narrow [syn: {elongate}]
+     5: measured lengthwise; "cost of lumber per running foot" [syn:
+         {running(a)}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

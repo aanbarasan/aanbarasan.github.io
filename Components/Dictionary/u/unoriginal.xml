@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unoriginal</Word>
+  <Definitions>
+    <Definition>
+      <Word>unoriginal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unoriginal
+     adj : not original; not being or productive of something fresh and
+           unusual; "the manuscript contained unoriginal
+           emendations"; "his life had been unoriginal, conforming
+           completely to the given pattern"- Gwethalyn Graham
+           [ant: {original}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

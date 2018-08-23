@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>upbringing</Word>
+  <Definitions>
+    <Definition>
+      <Word>upbringing</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>upbringing
+     n 1: properties acquired during a person's formative years
+     2: raising someone to be an accepted member of the community;
+        "they debated whether nature or nurture was more
+        important" [syn: {breeding}, {bringing up}, {fostering}, {fosterage},
+         {nurture}, {raising}, {rearing}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

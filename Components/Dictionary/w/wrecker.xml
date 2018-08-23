@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>wrecker</Word>
+  <Definitions>
+    <Definition>
+      <Word>wrecker</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Wrecker \Wreck"er\, n.
+   1. One who causes a wreck, as by false lights, and the like.
+      [1913 Webster]
+
+   2. One who searches fro, or works upon, the wrecks of
+      vessels, etc. Specifically:
+      (a) One who visits a wreck for the purpose of plunder.
+      (b) One who is employed in saving property or lives from a
+          wrecked vessel, or in saving the vessel; as, the
+          wreckers of Key West.
+          [1913 Webster]
+
+   3. A vessel employed by wreckers.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wrecker</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>wrecker
+     n 1: someone who demolishes or dismantles buildings as a job
+     2: someone who commits sabotage or deliberately causes wrecks
+        [syn: {saboteur}, {diversionist}]
+     3: a truck equipped to hoist and pull wrecked cars (or to
+        remove cars from no-parking zones) [syn: {tow truck}, {tow
+        car}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

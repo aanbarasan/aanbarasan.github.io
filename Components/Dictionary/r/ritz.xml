@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ritz</Word>
+  <Definitions>
+    <Definition>
+      <Word>ritz</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Ritz
+     n 1: Swiss hotelier who created a chain of elegant hotels
+          (1850-1918) [syn: {Cesar Ritz}]
+     2: ostentatious display of elegance; "they put on the ritz"
+     3: an ostentatiously elegant hotel
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

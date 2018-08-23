@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>kindergarten</Word>
+  <Definitions>
+    <Definition>
+      <Word>kindergarten</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Kindergarten \Kin"der*gar`ten\, n. [G., lit., children's garden;
+   kinder (pl. of kind child, akin to E. kin kindred) + garten
+   garden.]
+   1. A class within a primary school or a separate school for
+      young children, usually between the ages of four and six
+      years, designed to adapt children to the classroom
+      environment before beginning academic training, on the
+      theory that education should be begun by gratifying and
+      cultivating the normal aptitude for exercise, play,
+      observation, imitation, and construction; -- a name given
+      by Friedrich Froebel, a German educator, who introduced
+      this method of training, in rooms opening on a garden.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>kindergarten</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>kindergarten
+     n : a preschool for children age 4 to 6 to prepare them for
+         primary school
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

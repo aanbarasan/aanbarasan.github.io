@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>toluca</Word>
+  <Definitions>
+    <Definition>
+      <Word>toluca</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Toluca, IL (city, FIPS 75653)
+  Location: 41.00534 N, 89.13317 W
+  Population (1990): 1315 (588 housing units)
+  Area: 2.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 61369
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

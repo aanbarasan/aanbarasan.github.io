@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mothy</Word>
+  <Definitions>
+    <Definition>
+      <Word>mothy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mothy \Moth"y\, a.
+   Infested with moths; moth-eaten. ``An old mothy saddle.''
+   --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mothy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mothy
+     adj 1: worn or eaten away by (or as if by) moths; "moth-eaten
+            blankets" [syn: {moth-eaten}]
+     2: infested with moths
+     [also: {mothiest}, {mothier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

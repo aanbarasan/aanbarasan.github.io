@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>wallpaper</Word>
+  <Definitions>
+    <Definition>
+      <Word>wallpaper</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>wallpaper
+     
+        1. A file containing a listing (e.g. assembly listing) or a
+        transcript, especially a file containing a transcript of all
+        or part of a login session.  (The idea was that the paper for
+        such listings was essentially good only for wallpaper, as
+        evidenced at {Stanford}, where it was used to cover windows).
+     
+        The term is now rare, especially since other systems have
+        developed other terms for it (e.g. PHOTO on {TWENEX}).
+        However, the {Unix} world doesn't have an equivalent term, so
+        perhaps wallpaper will take hold there.  The term probably
+        originated on {ITS}, where the commands to begin and end
+        transcript files were ":WALBEG" and ":WALEND", with default
+        file "WALL PAPER" (the space was a path delimiter).
+     
+        2. The background pattern used on graphical workstations under
+        the {Microsoft Windows} {graphical user interface} to
+        {MS-DOS}.
+     
+        (1994-12-22)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wallpaper</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Paper \Pa"per\ (p[=a]"p[~e]r), n. [F. papier, fr. L. papyrus
+   papyrus, from which the Egyptians made a kind of paper, Gr.
+   pa`pyros. Cf. {Papyrus}.]
+   1. A substance in the form of thin sheets or leaves intended
+      to be written or printed on, or to be used in wrapping. It
+      is made of rags, straw, bark, wood, or other fibrous
+      material, which is first reduced to pulp, then molded,
+      pressed, and dried.
+      [1913 Webster]
+
+   2. A sheet, leaf, or piece of such substance.
+      [1913 Webster]
+
+   3. A printed or written instrument; a document, essay, or the
+      like; a writing; as, a paper read before a scientific
+      society.
+      [1913 Webster]
+
+            They brought a paper to me to be signed. --Dryden.
+      [1913 Webster]
+
+   4. A printed sheet appearing periodically; a newspaper; a
+      journal; as, a daily paper.
+      [1913 Webster]
+
+   5. Negotiable evidences of indebtedness; notes; bills of
+      exchange, and the like; as, the bank holds a large amount
+      of his paper.
+      [1913 Webster]
+
+   6. Decorated hangings or coverings for walls, made of paper.
+      See {Paper hangings}, below.
+      [1913 Webster]
+
+   7. A paper containing (usually) a definite quantity; as, a
+      paper of pins, tacks, opium, etc.
+      [1913 Webster]
+
+   8. A medicinal preparation spread upon paper, intended for
+      external application; as, cantharides paper.
+      [1913 Webster]
+
+   9. pl. Documents establishing a person's identity, or status,
+      or attesting to some right, such as the right to drive a
+      vehicle; as, the border guard asked for his papers.
+      [PJC]
+
+   Note: Paper is manufactured in sheets, the trade names of
+         which, together with the regular sizes in inches, are
+         shown in the following table. But paper makers vary the
+         size somewhat.
+         [1913 Webster]
+         [1913 Webster]
+
+   Note: In the manufacture of books, etc., a sheet, of whatever
+         size originally, is termed, when folded once, a folio;
+         folded twice, a quarto, or 4to; three times, an octavo,
+         or 8vo; four times, a sextodecimo, or 16mo; five times,
+         a 32mo; three times, with an offcut folded twice and
+         set in, a duodecimo, or 12mo; four times, with an
+         offcut folded three times and set in, a 24mo.
+         [1913 Webster]
+
+   Note: Paper is often used adjectively or in combination,
+         having commonly an obvious signification; as, paper
+         cutter or paper-cutter; paper knife, paper-knife, or
+         paperknife; paper maker, paper-maker, or papermaker;
+         paper mill or paper-mill; paper weight, paper-weight,
+         or paperweight, etc.
+         [1913 Webster]
+
+   {Business paper}, checks, notes, drafts, etc., given in
+      payment of actual indebtedness; -- opposed to
+      accommodation paper.
+
+   {Fly paper}, paper covered with a sticky preparation, -- used
+      for catching flies.
+
+   {Laid paper}. See under {Laid}.
+
+   {Paper birch} (Bot.), the canoe birch tree ({Betula
+      papyracea}).
+
+   {Paper blockade}, an ineffective blockade, as by a weak naval
+      force.
+
+   {Paper boat} (Naut.), a boat made of water-proof paper.
+
+   {Paper car wheel} (Railroad), a car wheel having a steel
+      tire, and a center formed of compressed paper held between
+      two plate-iron disks. --Forney.
+
+   {Paper credit}, credit founded upon evidences of debt, such
+      as promissory notes, duebills, etc.
+
+   {Paper hanger}, one who covers walls with paper hangings.
+
+   {Paper hangings}, paper printed with colored figures, or
+      otherwise made ornamental, prepared to be pasted against
+      the walls of apartments, etc.; wall paper.
+
+   {Paper house}, an audience composed of people who have come
+      in on free passes. [Cant]
+
+   {Paper money}, notes or bills, usually issued by government
+      or by a banking corporation, promising payment of money,
+      and circulated as the representative of coin.
+
+   {Paper mulberry}. (Bot.) See under Mulberry.
+
+   {Paper muslin}, glazed muslin, used for linings, etc.
+
+   {Paper nautilus}. (Zo["o]l.) See {Argonauta}.
+
+   {Paper reed} (Bot.), the papyrus.
+
+   {Paper sailor}. (Zo["o]l.) See Argonauta.
+
+   {Paper stainer}, one who colors or stamps wall paper. --De
+      Colange.
+
+   {Paper wasp} (Zo["o]l.), any wasp which makes a nest of
+      paperlike material, as the yellow jacket.
+
+   {Paper weight}, any object used as a weight to prevent loose
+      papers from being displaced by wind, or otherwise.
+
+   {on paper}.
+      (a) in writing; as, I would like to see that on paper.
+      (b) in theory, though not necessarily in paractice.
+      (c) in the design state; planned, but not yet put into
+          practice.
+
+   {Parchment paper}. See {Papyrine}.
+
+   {Tissue paper}, thin, gauzelike paper, such as is used to
+      protect engravings in books.
+
+   {Wall paper}. Same as {Paper hangings}, above.
+
+   {Waste paper}, paper thrown aside as worthless or useless,
+      except for uses of little account.
+
+   {Wove paper}, a writing paper with a uniform surface, not
+      ribbed or watermarked.
+
+   {paper tiger}, a person or group that appears to be powerful
+      and dangerous but is in fact weak and ineffectual.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wallpaper</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Wall \Wall\, n. [AS. weall, from L. vallum a wall, vallus a
+   stake, pale, palisade; akin to Gr. ? a nail. Cf. {Interval}.]
+   [1913 Webster]
+   1. A work or structure of stone, brick, or other materials,
+      raised to some height, and intended for defense or
+      security, solid and permanent inclosing fence, as around a
+      field, a park, a town, etc., also, one of the upright
+      inclosing parts of a building or a room.
+      [1913 Webster]
+
+            The plaster of the wall of the King's palace. --Dan.
+                                                  v. 5.
+      [1913 Webster]
+
+   2. A defense; a rampart; a means of protection; in the
+      plural, fortifications, in general; works for defense.
+      [1913 Webster]
+
+            The waters were a wall unto them on their right
+            hand, and on their left.              --Ex. xiv. 22.
+      [1913 Webster]
+
+            In such a night,
+            Troilus, methinks, mounted the Troyan walls. --Shak.
+      [1913 Webster]
+
+            To rush undaunted to defend the walls. --Dryden.
+      [1913 Webster]
+
+   3. An inclosing part of a receptacle or vessel; as, the walls
+      of a steam-engine cylinder.
+      [1913 Webster]
+
+   4. (Mining)
+      (a) The side of a level or drift.
+      (b) The country rock bounding a vein laterally. --Raymond.
+          [1913 Webster]
+
+   Note: Wall is often used adjectively, and also in the
+         formation of compounds, usually of obvious
+         signification; as in wall paper, or wall-paper; wall
+         fruit, or wall-fruit; wallflower, etc.
+         [1913 Webster]
+
+   {Blank wall}, Blind wall, etc. See under {Blank}, {Blind},
+      etc.
+
+   {To drive to the wall}, to bring to extremities; to push to
+      extremes; to get the advantage of, or mastery over.
+
+   {To go to the wall}, to be hard pressed or driven; to be the
+      weaker party; to be pushed to extremes.
+
+   {To take the wall}. to take the inner side of a walk, that
+      is, the side next the wall; hence, to take the precedence.
+      ``I will take the wall of any man or maid of Montague's.''
+      --Shak.
+
+   {Wall barley} (Bot.), a kind of grass ({Hordeum murinum})
+      much resembling barley; squirrel grass. See under
+      {Squirrel}.
+
+   {Wall box}. (Mach.) See {Wall frame}, below.
+
+   {Wall creeper} (Zo["o]l.), a small bright-colored bird
+      ({Tichodroma muraria}) native of Asia and Southern Europe.
+      It climbs about over old walls and cliffs in search of
+      insects and spiders. Its body is ash-gray above, the wing
+      coverts are carmine-red, the primary quills are mostly red
+      at the base and black distally, some of them with white
+      spots, and the tail is blackish. Called also {spider
+      catcher}.
+
+   {Wall cress} (Bot.), a name given to several low cruciferous
+      herbs, especially to the mouse-ear cress. See under
+      {Mouse-ear}.
+
+   {Wall frame} (Mach.), a frame set in a wall to receive a
+      pillow block or bearing for a shaft passing through the
+      wall; -- called also {wall box}.
+
+   {Wall fruit}, fruit borne by trees trained against a wall.
+
+   {Wall gecko} (Zo["o]l.), any one of several species of Old
+      World geckos which live in or about buildings and run over
+      the vertical surfaces of walls, to which they cling by
+      means of suckers on the feet.
+
+   {Wall lizard} (Zo["o]l.), a common European lizard ({Lacerta
+      muralis}) which frequents houses, and lives in the chinks
+      and crevices of walls; -- called also {wall newt}.
+
+   {Wall louse}, a wood louse.
+
+   {Wall moss} (Bot.), any species of moss growing on walls.
+
+   {Wall newt} (Zo["o]l.), the wall lizard. --Shak.
+
+   {Wall paper}, paper for covering the walls of rooms; paper
+      hangings.
+
+   {Wall pellitory} (Bot.), a European plant ({Parictaria
+      officinalis}) growing on old walls, and formerly esteemed
+      medicinal.
+
+   {Wall pennywort} (Bot.), a plant ({Cotyledon Umbilicus})
+      having rounded fleshy leaves. It is found on walls in
+      Western Europe.
+
+   {Wall pepper} (Bot.), a low mosslike plant ({Sedum acre})
+      with small fleshy leaves having a pungent taste and
+      bearing yellow flowers. It is common on walls and rocks in
+      Europe, and is sometimes seen in America.
+
+   {Wall pie} (Bot.), a kind of fern; wall rue.
+
+   {Wall piece}, a gun planted on a wall. --H. L. Scott.
+
+   {Wall plate} (Arch.), a piece of timber placed horizontally
+      upon a wall, and supporting posts, joists, and the like.
+      See Illust. of {Roof}.
+
+   {Wall rock}, granular limestone used in building walls. [U.
+      S.] --Bartlett.
+
+   {Wall rue} (Bot.), a species of small fern ({Asplenium
+      Ruta-muraria}) growing on walls, rocks, and the like.
+
+   {Wall spring}, a spring of water issuing from stratified
+      rocks.
+
+   {Wall tent}, a tent with upright cloth sides corresponding to
+      the walls of a house.
+
+   {Wall wasp} (Zo["o]l.), a common European solitary wasp
+      ({Odynerus parietus}) which makes its nest in the crevices
+      of walls.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wallpaper</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>wallpaper n. 1. A file containing a listing (e.g., assembly listing) or
+   a transcript, esp. a file containing a transcript of all or part of a
+   login session. (The idea was that the paper for such listings was
+   essentially good only for wallpaper, as evidenced at Stanford, where it
+   was used to cover windows.) Now rare, esp. since other systems have
+   developed other terms for it (e.g., PHOTO on TWENEX). However, the Unix
+   world doesn't have an equivalent term, so perhaps {wallpaper} will take
+   hold there. The term probably originated on ITS, where the commands to
+   begin and end transcript files were `:WALBEG' and `:WALEND', with
+   default file `WALL PAPER' (the space was a path delimiter). 2. The
+   background pattern used on graphical workstations (this is techspeak
+   under the `Windows' graphical user interface to MS-DOS). 3. `wallpaper
+   file' n. The file that contains the wallpaper information before it is
+   actually printed on paper. (Even if you don't intend ever to produce a
+   real paper copy of the file, it is still called a wallpaper file.)
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wallpaper</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>wallpaper
+     n : a decorative paper for the walls of rooms
+     v : cover with wallpaper [syn: {paper}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

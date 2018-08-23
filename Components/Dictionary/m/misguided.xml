@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>misguided</Word>
+  <Definitions>
+    <Definition>
+      <Word>misguided</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>misguided
+     adj 1: poorly conceived or thought out; "an ill-conceived plan to
+            take over the company" [syn: {ill-conceived}]
+     2: wrong in e.g. opinion or judgment; "well-meaning but
+        misguided teachers"; "a mistaken belief"; "mistaken
+        identity" [syn: {mistaken}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

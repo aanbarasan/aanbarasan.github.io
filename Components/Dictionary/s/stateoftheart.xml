@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>stateoftheart</Word>
+  <Definitions>
+    <Definition>
+      <Word>stateoftheart</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>state of the art
+     n : the highest degree of development of an art or technique at
+         a particular time; "the state of the art in space travel"
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stateoftheart</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>state-of-the-art
+     adj : the highest level of development at a particular time
+           (especially the present time); "state-of-the-art
+           technology"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

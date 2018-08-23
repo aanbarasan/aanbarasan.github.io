@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>relentless</Word>
+  <Definitions>
+    <Definition>
+      <Word>relentless</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Relentless \Re*lent"less\, a.
+   Unmoved by appeals for sympathy or forgiveness; insensible to
+   the distresses of others; destitute of tenderness;
+   unrelenting; unyielding; unpitying; as, a prey to relentless
+   despotism.
+   [1913 Webster]
+
+         For this the avenging power employs his darts, . . .
+         Thus will persist, relentless in his ire. --Dryden.
+   [1913 Webster] -- {Re*lent"less*ly}, adv. --
+   {Re*lent"less*ness}, n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>relentless</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>relentless
+     adj 1: not to be placated or appeased or moved by entreaty; "grim
+            determination"; "grim necessity"; "Russia's final
+            hour, it seemed, approached with inexorable
+            certainty"; "relentless persecution"; "the stern
+            demands of parenthood" [syn: {grim}, {inexorable}, {stern},
+             {unappeasable}, {unforgiving}, {unrelenting}]
+     2: never-ceasing; "the relentless beat of the drums" [syn: {persistent},
+         {unrelenting}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

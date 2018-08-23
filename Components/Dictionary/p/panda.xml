@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>panda</Word>
+  <Definitions>
+    <Definition>
+      <Word>panda</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>panda \pan"da\ (p[a^]n"d[.a]), n. (Zo["o]l.)
+   1. A small Asiatic mammal ({Ailurus fulgens}) having fine
+      soft fur, which inhabits the mountains of Northern India.
+      It was once thought to be related to the bears, but is now
+      believed to be more closely related to raccoons. It has
+      reddish-brown fur on the back and sides, and black fur on
+      the legs and underside. Called also the {lesser panda}.
+      [1913 Webster +PJC]
+
+   2. The {giant panda} ({Ailuropoda melanoleuca}), a bearlike
+      black-and white mammal now found wild only in the central
+      forests of China, which lives mainly on on bamboo. It is
+      an endangered species, and is a popular attraction in the
+      few zoos which have bveen able to obtain specimens.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>panda</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>panda
+     n 1: large black-and-white herbivorous mammal of bamboo forests
+          of China and Tibet; in some classifications considered a
+          member of the bear family or of a separate family
+          Ailuropodidae [syn: {giant panda}, {panda bear}, {coon
+          bear}, {Ailuropoda melanoleuca}]
+     2: reddish-brown Old World raccoon-like carnivore; in some
+        classifications considered unrelated to the giant pandas
+        [syn: {lesser panda}, {red panda}, {bear cat}, {cat bear},
+         {Ailurus fulgens}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

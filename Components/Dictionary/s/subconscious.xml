@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>subconscious</Word>
+  <Definitions>
+    <Definition>
+      <Word>subconscious</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Subconscious \Sub*con"scious\, a.
+   1. Occurring without the possibility or the fact of an
+      attendant consciousness; -- said of states of the soul.
+      [1913 Webster]
+
+   2. Partially conscious; feebly conscious.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>subconscious</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>subconscious
+     adj : just below the level of consciousness
+     n : psychic activity just below the level of awareness [syn: {subconscious
+         mind}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

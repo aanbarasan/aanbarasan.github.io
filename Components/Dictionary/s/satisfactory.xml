@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>satisfactory</Word>
+  <Definitions>
+    <Definition>
+      <Word>satisfactory</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Satisfactory \Sat`is*fac"to*ry\, a. [Cf. F. satisfactoire.]
+   1. Giving or producing satisfaction; yielding content;
+      especially, relieving the mind from doubt or uncertainty,
+      and enabling it to rest with confidence; sufficient; as, a
+      satisfactory account or explanation.
+      [1913 Webster]
+
+   2. Making amends, indemnification, or recompense; causing to
+      cease from claims and to rest content; compensating;
+      atoning; as, to make satisfactory compensation, or a
+      satisfactory apology.
+      [1913 Webster]
+
+            A most wise and sufficient means of redemption and
+            salvation, by the satisfactory and meritorious death
+            and obedience of the incarnate Son of God, Jesus
+            Christ.                               --Bp.
+                                                  Sanderson.
+      [1913 Webster] -- {Sat`is*fac"to*ri*ly}, adv. --
+      {Sat`is*fac"to*ri*ness}, n.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>satisfactory</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>satisfactory
+     adj 1: giving satisfaction; "satisfactory living conditions"; "his
+            grades were satisfactory" [ant: {unsatisfactory}]
+     2: meeting requirements; "the step makes a satisfactory seat"
+        [syn: {acceptable}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

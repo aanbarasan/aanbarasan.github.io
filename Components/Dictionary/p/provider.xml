@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>provider</Word>
+  <Definitions>
+    <Definition>
+      <Word>provider</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>provider
+     
+        {Internet Access Provider}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>provider</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Provider \Pro*vid"er\, n.
+   One who provides, furnishes, or supplies; one who procures
+   what is wanted.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>provider</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>provider
+     n 1: someone whose business is to supply a particular service or
+          commodity [syn: {supplier}]
+     2: someone who provides the means for subsistence
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

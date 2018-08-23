@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unfair</Word>
+  <Definitions>
+    <Definition>
+      <Word>unfair</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Unfair \Un*fair"\, v. t. [1st pref. un- + fair.]
+   To deprive of fairness or beauty. [R.] --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>unfair</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Unfair \Un*fair"\, a. [AS. unf[ae]ger unlovely. See {Un-} not,
+   and {Fair}, a.]
+   Not fair; not honest; not impartial; disingenuous; using or
+   involving trick or artifice; dishonest; unjust; unequal.
+   [1913 Webster]
+
+         You come, like an unfair merchant, to charge me with
+         being in your debt.                      --Swift.
+   [1913 Webster] -- {Un*fair"ly}, adv. -- {Un*fair"ness}, n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>unfair</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unfair
+     adj 1: showing favoritism [syn: {partial}] [ant: {impartial}]
+     2: not fair; marked by injustice or partiality or deception;
+        "used unfair methods"; "it was an unfair trial"; "took an
+        unfair advantage" [syn: {unjust}] [ant: {fair}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

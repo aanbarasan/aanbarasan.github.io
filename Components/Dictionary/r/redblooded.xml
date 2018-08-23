@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>redblooded</Word>
+  <Definitions>
+    <Definition>
+      <Word>redblooded</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>red-blooded
+     adj : endowed with or exhibiting great bodily or mental health; "a
+           hearty glow of health" [syn: {hearty}, {full-blooded},
+           {lusty}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

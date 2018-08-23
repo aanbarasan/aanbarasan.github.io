@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>wimp</Word>
+  <Definitions>
+    <Definition>
+      <Word>wimp</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>WIMP
+     
+        &lt;operating system&gt; Windows, Icons, Menus and Pointers
+        (or maybe Windows, Icons, Mouse, {Pull-down menu}s).
+     
+        The style of {graphical user interface} invented at {Xerox
+        PARC}, popularised by the {Apple Macintosh} and now available
+        in other varieties such as the {X Window System},
+        {OSF}/{Motif}, {NeWS} and {RISC OS}.
+     
+        See {menuitis}, {user-obsequious}, {window system}.
+     
+        (1995-05-02)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wimp</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>WIMP
+     Window, Icon, Menu, Pointing device
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wimp</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>wimp
+     n 1: a person who lacks confidence, is irresolute and wishy-washy
+          [syn: {chicken}, {crybaby}]
+     2: a hypothetical subatomic particle of large mass that
+        interacts weakly with ordinary matter through gravitation;
+        postulated as a constituent of the dark matter of the
+        universe [syn: {weakly interacting massive particle}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

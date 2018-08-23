@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>output</Word>
+  <Definitions>
+    <Definition>
+      <Word>output</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>output
+     
+        &lt;architecture&gt; {Data} transferred from a computer system to
+        the outside world via some kind of {output device}.
+     
+        Opposite: {input}.
+     
+        (1997-04-28)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>output</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Output \Out"put`\, n.
+   1. The amount or quantity of a material or product that is
+      produced by a mine, factory, or any system for production
+      of commercial goods, such as the amount of coal or ore put
+      out from one or more mines, or the quantity of material
+      produced by, or turned out from, one or more furnaces or
+      mills, in a given time; production.
+      [1913 Webster +PJC]
+
+   2. The materials, profits, or information produced by any
+      system.
+      [PJC]
+
+   3. (Physiol.) That which is thrown out as products of the
+      metabolic activity of the body; the egesta other than the
+      f[ae]ces. See {Income}.
+      [1913 Webster]
+
+   Note: The output consists of: (a) The respiratory products of
+         the lungs, skin, and alimentary canal, consisting
+         chiefly of carbonic acid and water with small
+         quantities of hydrogen and carbureted hydrogen. (b)
+         Perspiration, consisting chiefly of water and salts.
+         (c) The urine, which is assumed to contain all the
+         nitrogen truly excreted by the body, besides a large
+         quantity of saline matters and water. --Foster.
+         [1913 Webster]
+
+   4. The power, voltage, or current produced by a device to
+      generate or regulate electrical power; as, the power
+      supply had a maximum output of 250 milliamps.
+      [PJC]
+
+   5. (Computers) The data or information produced by operation
+      of a computer program or subroutine for transfer to
+      another program or to an external device. The output of
+      one program may be used as the {input} to another program.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>output</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>output
+     n 1: final product; the things produced [syn: {end product}]
+     2: production of a certain amount [syn: {yield}]
+     3: signal that comes out of an electronic system [syn: {output
+        signal}]
+     4: the quantity of something (as a commodity) that is created
+        (usually within a given period of time); "production was
+        up in the second quarter" [syn: {yield}, {production}]
+     5: what is produced in a given time period [syn: {outturn}, {turnout}]
+     v : to create or manufacture a specific amount; "the computer is
+         outputting the data from the job I'm running"
+     [also: {outputting}, {outputted}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

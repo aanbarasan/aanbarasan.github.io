@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>omelet</Word>
+  <Definitions>
+    <Definition>
+      <Word>omelet</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>omelet \om"e*let\, omelette \om"e*lette\, n. [F. omelette, OF.
+   amelette, alumete, alumelle, perh. fr. L. lamella. Cf.
+   {Lamella}.] (Cookery)
+   A dish consisting of eggs beaten up with a little flour,
+   etc., and cooked in a frying pan until just set into a
+   semisolid consistency; it may be folded around e.g. ham or
+   cheese or jelly; as, a plain omelet. When additional
+   ingredients are mixed in, the names of the ingredients may be
+   mentioned in the name of the omelet; as, a ham and cheese
+   omelet; a bacon and cheese omelet
+   [1913 Webster + WordNet 1.5 + PJC]
+
+   {western omelet} an omelet containing chopped pieces of ham,
+      onion, and green peppers.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>omelet</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>omelet
+     n : beaten eggs or an egg mixture cooked until just set; may be
+         folded around e.g. ham or cheese or jelly [syn: {omelette}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

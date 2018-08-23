@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>parental</Word>
+  <Definitions>
+    <Definition>
+      <Word>parental</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Parental \Pa*ren"tal\, a. [L. parentalis.]
+   1. Of or pertaining to a parent or to parents; as, parental
+      authority; parental obligations; parental affection.
+      [1913 Webster]
+
+   2. Becoming to, or characteristic of, parents; tender;
+      affectionate; devoted; as, parental care.
+      [1913 Webster]
+
+            The careful course and parental provision of nature.
+                                                  --Sir T.
+                                                  Browne.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>parental</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>parental
+     adj 1: designating the generation of organisms from which hybrid
+            offspring are produced [ant: {filial}]
+     2: relating to or characteristic of or befitting a parent;
+        "parental guidance" [syn: {maternal}, {paternal}] [ant: {filial}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

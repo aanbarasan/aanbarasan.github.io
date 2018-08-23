@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>traumatic</Word>
+  <Definitions>
+    <Definition>
+      <Word>traumatic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Traumatic \Trau*mat"ic\, a. [L. traumaticus, Gr. ?, from ?, ?, a
+   wound: cf. F. traumatique.] (Med.)
+   (a) Of or pertaining to wounds; applied to wounds. --Coxe.
+   (b) Adapted to the cure of wounds; vulnerary. --Wiseman.
+   (c) Produced by wounds; as, traumatic tetanus. -- n. A
+       traumatic medicine.
+       [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>traumatic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>traumatic
+     adj 1: of or relating to a physical injury or wound to the body
+     2: psychologically painful
+     3: causing physical or especially psychological injury; "a
+        stabbing remark"; "few experiences are more traumatic than
+        losing a child"; "wounding and false charges of
+        disloyalty" [syn: {stabbing}, {wounding}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

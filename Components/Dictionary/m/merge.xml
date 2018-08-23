@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>merge</Word>
+  <Definitions>
+    <Definition>
+      <Word>merge</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Merge \Merge\, v. i.
+   To be sunk, swallowed up, or lost.
+   [1913 Webster]
+
+         Native irresolution had merged in stronger motives.
+                                                  --I. Taylor.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>merge</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>merge \merge\ (m[~e]rj), v. t. [imp. &amp; p. p. {Merged}
+   (m[~e]rjd); p. pr. &amp; vb. n. {Merging} (m[~e]r"j[i^]ng).] [L.
+   mergere, mersum. Cf. {Emerge}, {Immerse}, {Marrow}.]
+   To cause to be swallowed up; to immerse; to sink; to absorb.
+   [1913 Webster]
+
+         To merge all natural . . . sentiment in inordinate
+         vanity.                                  --Burke.
+   [1913 Webster]
+
+         Whig and Tory were merged and swallowed up in the
+         transcendent duties of patriots.         --De Quincey.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>merge</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>merge
+     v 1: become one; "Germany unified officially in 1990"; "Will the
+          two Koreas unify?" [syn: {unify}, {unite}] [ant: {disunify}]
+     2: mix together different elements; "The colors blend well"
+        [syn: {blend}, {flux}, {mix}, {conflate}, {commingle}, {immix},
+         {fuse}, {coalesce}, {meld}, {combine}]
+     3: join or combine; "We merged our resources" [syn: {unite}, {unify}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

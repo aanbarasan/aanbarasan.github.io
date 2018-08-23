@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pasties</Word>
+  <Definitions>
+    <Definition>
+      <Word>pasties</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pasty \Pas"ty\, n.; pl. {Pasties}. [OF. past['e], F. p[^a]t['e].
+   See {Paste}, and cf. {Patty}.]
+   A pie consisting usually of meat wholly surrounded with a
+   crust made of a sheet of paste, and often baked without a
+   dish; a meat pie. ``If ye pinch me like a pasty.'' --Shak.
+   ``Apple pasties.'' --Dickens.
+   [1913 Webster]
+
+         A large pasty baked in a pewter platter. --Sir W.
+                                                  Scott.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pasties</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pasties
+     n : a pair of adhesive patches worn to cover the nipples of
+         exotic dancers and striptease performers
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>snipped</Word>
+  <Definitions>
+    <Definition>
+      <Word>snipped</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Snip \Snip\, v. t. [imp. &amp; p. p. {Snipped}; p. pr. &amp; vb. n.
+   {Snipping}.] [D. snippen; akin to G. schnippen.]
+   To cut off the nip or neb of, or to cut off at once with
+   shears or scissors; to clip off suddenly; to nip; hence, to
+   break off; to snatch away.
+   [1913 Webster]
+
+         Curbed and snipped in my younger years by fear of my
+         parents from those vicious excrescences to which that
+         age was subject.                         --Fuller.
+   [1913 Webster]
+
+         The captain seldom ordered anything out of the ship's
+         stores . . . but I snipped some of it for my own share.
+                                                  --De Foe.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>snipped</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>snip
+     n 1: a small piece of anything (especially a piece that has been
+          snipped off) [syn: {snippet}, {snipping}]
+     2: the act of clipping or snipping [syn: {clip}, {clipping}]
+     v 1: sever or remove by pinching or snipping; "nip off the
+          flowers" [syn: {nip}, {nip off}, {clip}, {snip off}]
+     2: cultivate, tend, and cut back the growth of; "dress the
+        plants in the garden" [syn: {clip}, {crop}, {trim}, {lop},
+         {dress}, {prune}, {cut back}]
+     [also: {snipping}, {snipped}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>snipped</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>snipped
+     See {snip}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

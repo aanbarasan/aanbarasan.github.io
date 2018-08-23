@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>likewise</Word>
+  <Definitions>
+    <Definition>
+      <Word>likewise</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Likewise \Like"wise`\ (l[imac]k"w[imac]z`), adv. &amp; conj. [See
+   {Wise}, n.]
+   In like manner; also; moreover; too. See {Also}.
+   [1913 Webster]
+
+         Go, and do thou likewise.                --Luke x. 37.
+   [1913 Webster]
+
+         For he seeth that wise men die; likewise the fool and
+         the brutish person perish.               --Ps. xlix.
+                                                  10.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>likewise</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>likewise
+     adv 1: in like or similar manner; "He was similarly affected";
+            "some people have little power to do good, and have
+            likewise little strength to resist evil"- Samuel
+            Johnson [syn: {similarly}]
+     2: in addition; "he has a Mercedes, too" [syn: {besides}, {too},
+         {also}, {as well}]
+     3: equally; "parents and teachers alike demanded reforms" [syn:
+         {alike}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

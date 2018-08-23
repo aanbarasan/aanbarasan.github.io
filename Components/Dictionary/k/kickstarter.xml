@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>kickstarter</Word>
+  <Definitions>
+    <Definition>
+      <Word>kickstarter</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>kick starter
+     n : a starter (as on a motorcycle) that is activated with the
+         foot and the weight of the body [syn: {kick start}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

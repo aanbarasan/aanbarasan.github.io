@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>metric</Word>
+  <Definitions>
+    <Definition>
+      <Word>metric</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>metric
+     
+        {software metric}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>metric</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Metric \Met"ric\ (m[e^]t"r[i^]k), a. [L. metricus, Gr. ?: cf. F.
+   m['e]trique. See {Meter} rhythm.]
+   1. Relating to measurement; involving, or proceeding by,
+      measurement.
+      [1913 Webster]
+
+   2. Of or pertaining to the meter as a standard of
+      measurement; of or pertaining to the decimal system of
+      measurement of which a meter is the unit; as, the metric
+      system; a metric measurement.
+      [1913 Webster]
+
+   {Metric analysis} (Chem.), analysis by volume; volumetric
+      analysis.
+
+   {Metric system}, See {metric system} in the vocabulary.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>metric</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>metric
+     adj 1: based on the meter as a standard of measurement; "the metric
+            system"; "metrical equivalents" [syn: {metrical}]
+     2: the rhythmic arrangement of syllables [syn: {measured}, {metrical}]
+     n 1: a function of a topological space that gives, for any two
+          points in the space, a value equal to the distance
+          between them [syn: {metric function}]
+     2: a decimal unit of measurement of the metric system (based on
+        meters and kilograms and seconds); "convert all the
+        measurements to metric units"; "it is easier to work in
+        metric" [syn: {metric unit}]
+     3: a system of related measures that facilitates the
+        quantification of some particular characteristic [syn: {system
+        of measurement}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

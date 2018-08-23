@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>spook</Word>
+  <Definitions>
+    <Definition>
+      <Word>spook</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Spook \Spook\ (sp[=oo]k), n. [D. spook; akin to G. spuk, Sw.
+   sp["o]ke, Dan. sp["o]gelse a specter, sp["o]ge to play,
+   sport, joke, sp["o]g a play, joke.]
+   1. A spirit; a ghost; an apparition; a hobgoblin. [Written
+      also {spuke}.] --Ld. Lytton.
+      [1913 Webster]
+
+   2. (Zo["o]l.) The chim[ae]ra.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>spook</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>spook
+     n 1: someone unpleasantly strange or eccentric [syn: {creep}, {weirdo},
+           {weirdie}, {weirdy}]
+     2: a mental representation of some haunting experience; "he
+        looked like he had seen a ghost"; "it aroused specters
+        from his past" [syn: {ghost}, {shade}, {wraith}, {specter},
+         {spectre}]
+     v : frighten or scare, and often provoke into a violent action;
+         "The noise spooked the horse"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

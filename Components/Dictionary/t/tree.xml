@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tree</Word>
+  <Definitions>
+    <Definition>
+      <Word>tree</Word>
+      <Dictionary>
+        <Id>devils</Id>
+        <Name>THE DEVIL'S DICTIONARY ((C)1911 Released April 15 1993)</Name>
+      </Dictionary>
+      <WordDefinition>TREE, n.  A tall vegetable intended by nature to serve as a penal
+apparatus, though through a miscarriage of justice most trees bear
+only a negligible fruit, or none at all.  When naturally fruited, the
+tree is a beneficient agency of civilization and an important factor
+in public morals.  In the stern West and the sensitive South its fruit
+(white and black respectively) though not eaten, is agreeable to the
+public taste and, though not exported, profitable to the general
+welfare.  That the legitimate relation of the tree to justice was no
+discovery of Judge Lynch (who, indeed, conceded it no primacy over the
+lamp-post and the bridge-girder) is made plain by the following
+passage from Morryster, who antedated him by two centuries:
+
+        While in yt londe I was carried to see ye Ghogo tree, whereof
+    I had hearde moch talk; but sayynge yt I saw naught remarkabyll in
+    it, ye hed manne of ye villayge where it grewe made answer as
+    followeth:
+        "Ye tree is not nowe in fruite, but in his seasonne you shall
+    see dependynge fr. his braunches all soch as have affroynted ye
+    King his Majesty."
+        And I was furder tolde yt ye worde "Ghogo" sygnifyeth in yr
+    tong ye same as "rapscal" in our owne.
+                                               _Trauvells in ye Easte_
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tree</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>tree
+     
+        &lt;mathematics, data&gt; A {directed acyclic graph}; i.e. a {graph}
+        wherein there is only one route between any pair of {nodes},
+        and there is a notion of "toward top of the tree" (i.e. the
+        {root node}), and its opposite direction, toward the {leaves}.
+        A tree with n nodes has n-1 edges.
+     
+        Although maybe not part of the widest definition of a tree, a
+        common constraint is that no node can have more than one
+        parent.  Moreover, for some applications, it is necessary to
+        consider a node's {daughter} nodes to be an ordered {list},
+        instead of merely a {set}.
+     
+        As a data structure in computer programs, trees are used in
+        everything from {B-trees} in {databases} and {file systems}, to
+        {game trees} in {game theory}, to {syntax trees} in a human or
+        computer {languages}.
+     
+        (1998-11-12)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tree</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tree \Tree\ (tr[=e]), n. [OE. tree, tre, treo, AS. tre['o],
+   tre['o]w, tree, wood; akin to OFries. tr[=e], OS. treo, trio,
+   Icel. tr[=e], Dan. tr[ae], Sw. tr["a], tr["a]d, Goth. triu,
+   Russ. drevo, W. derw an oak, Ir. darag, darog, Gr. dry^s a
+   tree, oak, do`ry a beam, spear shaft, spear, Skr. dru tree,
+   wood, d[=a]ru wood. [root]63, 241. Cf. {Dryad}, {Germander},
+   {Tar}, n., {Trough}.]
+   [1913 Webster]
+   1. (Bot.) Any perennial woody plant of considerable size
+      (usually over twenty feet high) and growing with a single
+      trunk.
+      [1913 Webster]
+
+   Note: The kind of tree referred to, in any particular case,
+         is often indicated by a modifying word; as forest tree,
+         fruit tree, palm tree, apple tree, pear tree, etc.
+         [1913 Webster]
+
+   2. Something constructed in the form of, or considered as
+      resembling, a tree, consisting of a stem, or stock, and
+      branches; as, a genealogical tree.
+      [1913 Webster]
+
+   3. A piece of timber, or something commonly made of timber;
+      -- used in composition, as in axletree, boottree,
+      chesstree, crosstree, whiffletree, and the like.
+      [1913 Webster]
+
+   4. A cross or gallows; as Tyburn tree.
+      [1913 Webster]
+
+            [Jesus] whom they slew and hanged on a tree. --Acts
+                                                  x. 39.
+      [1913 Webster]
+
+   5. Wood; timber. [Obs.] --Chaucer.
+      [1913 Webster]
+
+            In a great house ben not only vessels of gold and of
+            silver but also of tree and of earth. --Wyclif (2
+                                                  Tim. ii. 20).
+      [1913 Webster]
+
+   6. (Chem.) A mass of crystals, aggregated in arborescent
+      forms, obtained by precipitation of a metal from solution.
+      See {Lead tree}, under {Lead}.
+      [1913 Webster]
+
+   {Tree bear} (Zo["o]l.), the raccoon. [Local, U. S.]
+
+   {Tree beetle} (Zo["o]l.) any one of numerous species of
+      beetles which feed on the leaves of trees and shrubs, as
+      the May beetles, the rose beetle, the rose chafer, and the
+      goldsmith beetle.
+
+   {Tree bug} (Zo["o]l.), any one of numerous species of
+      hemipterous insects which live upon, and suck the sap of,
+      trees and shrubs. They belong to {Arma}, {Pentatoma},
+      {Rhaphigaster}, and allied genera.
+
+   {Tree cat} (Zool.), the common paradoxure ({Paradoxurus
+      musang}).
+
+   {Tree clover} (Bot.), a tall kind of melilot ({Melilotus
+      alba}). See {Melilot}.
+
+   {Tree crab} (Zo["o]l.), the purse crab. See under {Purse}.
+
+   {Tree creeper} (Zo["o]l.), any one of numerous species of
+      arboreal creepers belonging to {Certhia}, {Climacteris},
+      and allied genera. See {Creeper}, 3.
+
+   {Tree cricket} (Zo["o]l.), a nearly white arboreal American
+      cricket ({Ecanthus niv[oe]us}) which is noted for its loud
+      stridulation; -- called also {white cricket}.
+
+   {Tree crow} (Zo["o]l.), any one of several species of Old
+      World crows belonging to {Crypsirhina} and allied genera,
+      intermediate between the true crows and the jays. The tail
+      is long, and the bill is curved and without a tooth.
+
+   {Tree dove} (Zo["o]l.) any one of several species of East
+      Indian and Asiatic doves belonging to {Macropygia} and
+      allied genera. They have long and broad tails, are chiefly
+      arboreal in their habits, and feed mainly on fruit.
+
+   {Tree duck} (Zo["o]l.), any one of several species of ducks
+      belonging to {Dendrocygna} and allied genera. These ducks
+      have a long and slender neck and a long hind toe. They are
+      arboreal in their habits, and are found in the tropical
+      parts of America, Africa, Asia, and Australia.
+
+   {Tree fern} (Bot.), an arborescent fern having a straight
+      trunk, sometimes twenty or twenty-five feet high, or even
+      higher, and bearing a cluster of fronds at the top. Most
+      of the existing species are tropical.
+
+   {Tree fish} (Zo["o]l.), a California market fish
+      ({Sebastichthys serriceps}).
+
+   {Tree frog}. (Zo["o]l.)
+      (a) Same as {Tree toad}.
+      (b) Any one of numerous species of Old World frogs
+          belonging to {Chiromantis}, {Rhacophorus}, and allied
+          genera of the family {Ranid[ae]}. Their toes are
+          furnished with suckers for adhesion. The flying frog
+          (see under {Flying}) is an example.
+
+   {Tree goose} (Zo["o]l.), the bernicle goose.
+
+   {Tree hopper} (Zo["o]l.), any one of numerous species of
+      small leaping hemipterous insects which live chiefly on
+      the branches and twigs of trees, and injure them by
+      sucking the sap. Many of them are very odd in shape, the
+      prothorax being often prolonged upward or forward in the
+      form of a spine or crest.
+
+   {Tree jobber} (Zo["o]l.), a woodpecker. [Obs.]
+
+   {Tree kangaroo}. (Zo["o]l.) See {Kangaroo}.
+
+   {Tree lark} (Zo["o]l.), the tree pipit. [Prov. Eng.]
+
+   {Tree lizard} (Zo["o]l.), any one of a group of Old World
+      arboreal lizards ({Dendrosauria}) comprising the
+      chameleons.
+
+   {Tree lobster}. (Zo["o]l.) Same as {Tree crab}, above.
+
+   {Tree louse} (Zo["o]l.), any aphid; a plant louse.
+
+   {Tree moss}. (Bot.)
+      (a) Any moss or lichen growing on trees.
+      (b) Any species of moss in the form of a miniature tree.
+          
+
+   {Tree mouse} (Zo["o]l.), any one of several species of
+      African mice of the subfamily {Dendromyin[ae]}. They have
+      long claws and habitually live in trees.
+
+   {Tree nymph}, a wood nymph. See {Dryad}.
+
+   {Tree of a saddle}, a saddle frame.
+
+   {Tree of heaven} (Bot.), an ornamental tree ({Ailantus
+      glandulosus}) having long, handsome pinnate leaves, and
+      greenish flowers of a disagreeable odor.
+
+   {Tree of life} (Bot.), a tree of the genus Thuja; arbor
+      vit[ae].
+
+   {Tree onion} (Bot.), a species of garlic ({Allium
+      proliferum}) which produces bulbs in place of flowers, or
+      among its flowers.
+
+   {Tree oyster} (Zo["o]l.), a small American oyster ({Ostrea
+      folium}) which adheres to the roots of the mangrove tree;
+      -- called also {raccoon oyster}.
+
+   {Tree pie} (Zo["o]l.), any species of Asiatic birds of the
+      genus {Dendrocitta}. The tree pies are allied to the
+      magpie.
+
+   {Tree pigeon} (Zo["o]l.), any one of numerous species of
+      longwinged arboreal pigeons native of Asia, Africa, and
+      Australia, and belonging to {Megaloprepia}, {Carpophaga},
+      and allied genera.
+
+   {Tree pipit}. (Zo["o]l.) See under {Pipit}.
+
+   {Tree porcupine} (Zo["o]l.), any one of several species of
+      Central and South American arboreal porcupines belonging
+      to the genera {Ch[ae]tomys} and {Sphingurus}. They have an
+      elongated and somewhat prehensile tail, only four toes on
+      the hind feet, and a body covered with short spines mixed
+      with bristles. One South American species ({Sphingurus
+      villosus}) is called also {couiy}; another ({Sphingurus
+      prehensilis}) is called also {c[oe]ndou}.
+
+   {Tree rat} (Zo["o]l.), any one of several species of large
+      ratlike West Indian rodents belonging to the genera
+      {Capromys} and {Plagiodon}. They are allied to the
+      porcupines.
+
+   {Tree serpent} (Zo["o]l.), a tree snake.
+
+   {Tree shrike} (Zo["o]l.), a bush shrike.
+
+   {Tree snake} (Zo["o]l.), any one of numerous species of
+      snakes of the genus {Dendrophis}. They live chiefly among
+      the branches of trees, and are not venomous.
+
+   {Tree sorrel} (Bot.), a kind of sorrel ({Rumex Lunaria})
+      which attains the stature of a small tree, and bears
+      greenish flowers. It is found in the Canary Islands and
+      Tenerife.
+
+   {Tree sparrow} (Zo["o]l.) any one of several species of small
+      arboreal sparrows, especially the American tree sparrow
+      ({Spizella monticola}), and the common European species
+      ({Passer montanus}).
+
+   {Tree swallow} (Zo["o]l.), any one of several species of
+      swallows of the genus {Hylochelidon} which lay their eggs
+      in holes in dead trees. They inhabit Australia and
+      adjacent regions. Called also {martin} in Australia.
+
+   {Tree swift} (Zo["o]l.), any one of several species of swifts
+      of the genus {Dendrochelidon} which inhabit the East
+      Indies and Southern Asia.
+
+   {Tree tiger} (Zo["o]l.), a leopard.
+
+   {Tree toad} (Zo["o]l.), any one of numerous species of
+      amphibians belonging to {Hyla} and allied genera of the
+      family {Hylid[ae]}. They are related to the common frogs
+      and toads, but have the tips of the toes expanded into
+      suckers by means of which they cling to the bark and
+      leaves of trees. Only one species ({Hyla arborea}) is
+      found in Europe, but numerous species occur in America and
+      Australia. The common tree toad of the Northern United
+      States ({Hyla versicolor}) is noted for the facility with
+      which it changes its colors. Called also {tree frog}. See
+      also {Piping frog}, under {Piping}, and {Cricket frog},
+      under {Cricket}.
+
+   {Tree warbler} (Zo["o]l.), any one of several species of
+      arboreal warblers belonging to {Phylloscopus} and allied
+      genera.
+
+   {Tree wool} (Bot.), a fine fiber obtained from the leaves of
+      pine trees.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tree</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tree \Tree\, v. t. [imp. &amp; p. p. {Treed}; p. pr. &amp; vb. n.
+   {Treeing}.]
+   1. To drive to a tree; to cause to ascend a tree; as, a dog
+      trees a squirrel. --J. Burroughs.
+      [1913 Webster]
+
+   2. To place upon a tree; to fit with a tree; to stretch upon
+      a tree; as, to tree a boot. See {Tree}, n., 3.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tree</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tree
+     n 1: a tall perennial woody plant having a main trunk and
+          branches forming a distinct elevated crown; includes
+          both gymnosperms and angiosperms
+     2: a figure that branches from a single root; "genealogical
+        tree" [syn: {tree diagram}]
+     3: English actor and theatrical producer noted for his lavish
+        productions of Shakespeare (1853-1917) [syn: {Sir Herbert
+        Beerbohm Tree}]
+     v : chase a bear up a tree with dogs and kill it
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

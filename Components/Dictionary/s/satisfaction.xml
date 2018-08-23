@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>satisfaction</Word>
+  <Definitions>
+    <Definition>
+      <Word>satisfaction</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Satisfaction \Sat`is*fac"tion\, n. [OE. satisfaccioun, F.
+   satisfaction, fr. L. satisfactio, fr. satisfacere to satisfy.
+   See {Satisfy}.]
+   1. The act of satisfying, or the state of being satisfied;
+      gratification of desire; contentment in possession and
+      enjoyment; repose of mind resulting from compliance with
+      its desires or demands.
+      [1913 Webster]
+
+            The mind having a power to suspend the execution and
+            satisfaction of any of its desires.   --Locke.
+      [1913 Webster]
+
+   2. Settlement of a claim, due, or demand; payment;
+      indemnification; adequate compensation.
+      [1913 Webster]
+
+            We shall make full satisfaction.      --Shak.
+      [1913 Webster]
+
+   3. That which satisfies or gratifies; atonement.
+      [1913 Webster]
+
+            Die he, or justice must; unless for him
+            Some other, able, and as willing, pay
+            The rigid satisfaction, death for death. --Milton.
+      [1913 Webster]
+
+   Syn: Contentment; content; gratification; pleasure;
+        recompense; compensation; amends; remuneration;
+        indemnification; atonement.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>satisfaction</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>satisfaction
+     n 1: the contentment you feel when you have done something right;
+          "the chef tasted the sauce with great satisfaction"
+          [ant: {dissatisfaction}]
+     2: state of being gratified; great satisfaction; "dull
+        repetitious work gives no gratification"; "to my immense
+        gratification he arrived on time" [syn: {gratification}]
+     3: compensation for a wrong; "we were unable to get
+        satisfaction from the local store" [syn: {atonement}, {expiation}]
+     4: act of fulfilling a desire or need or appetite; "the
+        satisfaction of their demand for better services"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

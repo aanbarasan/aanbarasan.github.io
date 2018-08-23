@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>justifiable</Word>
+  <Definitions>
+    <Definition>
+      <Word>justifiable</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Justifiable \Jus"ti*fi`a*ble\, a. [Cf. F. justifiable. See
+   {Justify}.]
+   Capable of being justified, or shown to be just.
+   [1913 Webster]
+
+         Just are the ways of God,
+         And justifiable to men.                  --Milton.
+
+   Syn: Defensible; vindicable; warrantable; excusable;
+        exculpable; authorizable. -- {Jus"ti*fi`a*ble*ness}, n.
+        -- {Jus"ti*fi`a*bly}, adv.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>justifiable</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>justifiable
+     adj : capable of being justified
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

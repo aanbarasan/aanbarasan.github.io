@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>transporter</Word>
+  <Definitions>
+    <Definition>
+      <Word>transporter</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Transporter \Trans*port"er\, n.
+   One who transports.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>transporter</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>transporter
+     n 1: a long truck for carrying motor vehicles [syn: {car
+          transporter}]
+     2: a crane for moving material with dispatch as in loading and
+        unloading ships
+     3: a moving belt that transports objects (as in a factory)
+        [syn: {conveyer belt}, {conveyor belt}, {conveyer}, {conveyor}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

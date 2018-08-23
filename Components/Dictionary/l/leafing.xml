@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>leafing</Word>
+  <Definitions>
+    <Definition>
+      <Word>leafing</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Leaf \Leaf\, Leaf out \Leaf out\(l[=e]f), v. i. [imp. &amp; p. p.
+   {Leafed} (l[=e]ft); p. pr. &amp; vb. n. {Leafing}.]
+   To shoot out leaves; to produce leaves; to leave; as, the
+   trees leaf in May. --Sir T. Browne.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>leafing</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>leafing
+     n : (botany) the process of forming leaves [syn: {foliation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

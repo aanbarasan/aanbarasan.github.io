@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pest</Word>
+  <Definitions>
+    <Definition>
+      <Word>pest</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pest \Pest\, n. [L. pestis: cf. F. peste.]
+   1. A fatal epidemic disease; a pestilence; specif., the
+      plague.
+      [1913 Webster]
+
+            England's sufferings by that scourge, the pest.
+                                                  --Cowper.
+      [1913 Webster]
+
+   2. Anything which resembles a pest; one who, or that which,
+      is troublesome, noxious, mischievous, or destructive; a
+      nuisance. ``A pest and public enemy.'' --South.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pest</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>PEST
+     Parameter Estimation by Sequential Testing
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pest</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pest
+     n : a persistently annoying person [syn: {blighter}, {cuss}, {pesterer},
+          {gadfly}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

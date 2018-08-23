@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>veritable</Word>
+  <Definitions>
+    <Definition>
+      <Word>veritable</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Veritable \Ver"i*ta*ble\, a. [F. v['e]ritable. See {Verity}.]
+   Agreeable to truth or to fact; actual; real; true; genuine.
+   ``The veritable Deity.'' --Sir W. Hamilton. --
+   {Ver"i*ta*bly}, adv.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>veritable</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>veritable
+     adj 1: often used as intensifiers; "a regular morass of details";
+            "a regular nincompoop"; "he's a veritable swine" [syn:
+             {regular(a)}, {veritable(a)}]
+     2: not counterfeit or copied; "an authentic signature"; "a bona
+        fide manuscript"; "an unquestionable antique";
+        "photographs taken in a veritable bull ring" [syn: {authentic},
+         {bona fide}, {unquestionable}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

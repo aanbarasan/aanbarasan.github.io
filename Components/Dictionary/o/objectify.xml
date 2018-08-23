@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>objectify</Word>
+  <Definitions>
+    <Definition>
+      <Word>objectify</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Objectify \Ob*jec"ti*fy\, v. t. [Object + -fy.]
+   To cause to become an object; to cause to assume the
+   character of an object; to represent or consider as an
+   object; to render objective. --J. D. Morell.
+   [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>objectify</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>objectify
+     v 1: make external or objective, or give reality to; "language
+          externalizes our thoughts" [syn: {exteriorize}, {exteriorise},
+           {externalize}, {externalise}]
+     2: make impersonal or present as an object; "Will computers
+        depersonalize human interactions?"; "Pornography
+        objectifies women" [syn: {depersonalize}, {depersonalise}]
+        [ant: {personalize}, {personalize}]
+     [also: {objectified}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

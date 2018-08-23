@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>muttering</Word>
+  <Definitions>
+    <Definition>
+      <Word>muttering</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mutter \Mut"ter\, v. i. [imp. &amp; p. p. {Muttered}; p. pr. &amp; vb.
+   n. {Muttering}.] [Prob. of imitative origin; cf. L. muttire,
+   mutire.]
+   1. To utter words indistinctly or with a low voice and lips
+      partly closed; esp., to utter indistinct complaints or
+      angry expressions; to grumble; to growl.
+      [1913 Webster]
+
+            Wizards that peep, and that mutter.   --Is. viii.
+                                                  19.
+      [1913 Webster]
+
+            Meantime your filthy foreigner will stare,
+            And mutter to himself.                --Dryden.
+      [1913 Webster]
+
+   2. To sound with a low, rumbling noise.
+      [1913 Webster]
+
+            Thick lightnings flash, the muttering thunder rolls.
+                                                  --Pope.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>muttering</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>muttering
+     adj : speaking low and indistinctly; "a mumbling parson stood
+           beside the dying man"; "muttering crowds of onlookers"
+           [syn: {mumbling}]
+     n 1: a low continuous indistinct sound; often accompanied by
+          movement of the lips without the production of
+          articulate speech [syn: {mutter}, {murmur}, {murmuring},
+           {murmuration}, {mussitation}]
+     2: a complaint uttered in a low and indistinct tone [syn: {grumble},
+         {grumbling}, {murmur}, {murmuring}, {mutter}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

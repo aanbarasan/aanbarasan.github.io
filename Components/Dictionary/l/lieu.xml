@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lieu</Word>
+  <Definitions>
+    <Definition>
+      <Word>lieu</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lieu \Lieu\ (l[=u]), n. [F., OF. also liu, leu, lou, fr. L.
+   locus place. See {Local}, {Locus}.]
+   Place; room; stead; -- used only in the phrase in lieu of,
+   that is, instead of.
+   [1913 Webster]
+
+         The plan of extortion had been adopted in lieu of the
+         scheme of confiscation.                  --Burke.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lieu</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>lieu
+     n : the function or position properly or customarily occupied or
+         served by another; "can you go in my stead?"; "took his
+         place"; "in lieu of" [syn: {stead}, {position}, {place}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>jasmine</Word>
+  <Definitions>
+    <Definition>
+      <Word>jasmine</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Jasmine \Jas"mine\, n. [F. jasmin, Sp. jazmin, Ar. y[=a]sm[=i]n,
+   Pers. y[=a]sm[=i]n; cf. It. gesmino, gelsomino. Cf.
+   {Jessamine}.] (Bot.)
+   A shrubby plant of the genus {Jasminum}, bearing flowers of a
+   peculiarly fragrant odor. The {Jasminum officinale}, common
+   in the south of Europe, bears white flowers. The Arabian
+   jasmine is {Jasminum Sambac}, and, with {Jasminum
+   angustifolia}, comes from the East Indies. The yellow false
+   jasmine in the {Gelseminum sempervirens} (see {Gelsemium}).
+   Several other plants are called jasmine in the West Indies,
+   as species of {Calotropis} and {Faramea}. [Written also
+   {jessamine}.]
+   [1913 Webster]
+
+   {Cape jasmine}, or {Cape jessamine}, the {Gardenia florida},
+      a shrub with fragrant white flowers, a native of China,
+      and hardy in the Southern United States.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>jasmine</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>jasmine
+     n : any of several shrubs and vines of the genus Jasminum
+         chiefly native to Asia
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

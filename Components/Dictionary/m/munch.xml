@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>munch</Word>
+  <Definitions>
+    <Definition>
+      <Word>munch</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>munch
+     
+        To transform information in a serial fashion, often requiring
+        large amounts of computation.  To trace down a data structure.
+        Related to {crunch} and nearly synonymous with {grovel}, but
+        connotes less pain.
+     
+        Often confused with {mung}.
+     
+        [{Jargon File}]
+     
+        (1995-01-10)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>munch</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Munch \Munch\, v. t. &amp; i. [imp. &amp; p. p. {Munched}; p. pr. &amp; vb.
+   n. {Munching}.] [Prob. akin to mumble: cf. also F. manger to
+   eat (cf. {Mange}), and m[^a]cher to cher (cf. {Masticate}).
+   See {Mumble}.]
+   To chew with a grinding, crunching sound, as a beast chews
+   provender; to chew deliberately or in large mouthfuls.
+   [Formerly written also {maunch} and {mounch}.]
+   [1913 Webster]
+
+         I could munch your good dry oats.        --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>munch</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>munch vt. [often confused with {mung}, q.v.] To transform information
+   in a serial fashion, often requiring large amounts of computation. To
+   trace down a data structure. Related to {crunch} and nearly synonymous
+   with {grovel}, but connotes less pain.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>munch</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Munch
+     n 1: Norwegian painter (1863-1944) [syn: {Edvard Munch}]
+     2: a large bite; "he tried to talk between munches on the
+        sandwich"
+     v : chew noisily; "The children crunched the celery sticks"
+         [syn: {crunch}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

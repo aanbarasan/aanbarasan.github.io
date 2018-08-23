@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sagan</Word>
+  <Definitions>
+    <Definition>
+      <Word>sagan</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>sagan
+     
+        &lt;jargon&gt; /say'gn/ (From Carl Sagan's TV series "Cosmos")
+        Billions and billions.  A large quantity of anything.
+     
+        "There's a sagan different ways to tweak Emacs."  "The US
+        Government spends sagans on bombs and welfare - hard to say
+        which is more destructive."
+     
+        [{Jargon File}]
+     
+        (1999-10-12)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sagan</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>sagan /say'gn/ n. [from Carl Sagan's TV series "Cosmos"; think
+   "billions and billions"] A large quantity of anything. "There's a sagan
+   different ways to tweak EMACS." "The U.S. Government spends sagans on
+   bombs and welfare -- hard to say which is more destructive."
+
+
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

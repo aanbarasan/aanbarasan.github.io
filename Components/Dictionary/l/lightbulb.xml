@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lightbulb</Word>
+  <Definitions>
+    <Definition>
+      <Word>lightbulb</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>lightbulb \lightbulb\, light bulb \light bulb\n.
+   A glass bulb with metallic contacts on the outside connected
+   to a wire filament (usually tungsten) inside that emits light
+   when heated by passage of electricity through the filament;
+   -- used as the replaceable light-emitting component of an
+   electric lamp, flashlight, lighting fixture, etc.
+
+   Syn: light bulb, bulb, incandescent lamp, electric light,
+        electric-light bulb.
+        [WordNet 1.5 +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lightbulb</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>lightbulb \lightbulb\, light bulb \light bulb\n.
+   A glass bulb with metallic contacts on the outside connected
+   to a wire filament (usually tungsten) inside that emits light
+   when heated by passage of electricity through the filament;
+   -- used as the replaceable light-emitting component of an
+   electric lamp, flashlight, lighting fixture, etc.
+
+   Syn: light bulb, bulb, incandescent lamp, electric light,
+        electric-light bulb.
+        [WordNet 1.5 +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lightbulb</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>light bulb
+     n : electric lamp consisting of a glass bulb containing a wire
+         filament (usually tungsten) that emits light when heated
+         [syn: {lightbulb}, {bulb}, {incandescent lamp}, {electric
+         light}, {electric-light bulb}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lightbulb</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>lightbulb
+     n : electric lamp consisting of a glass bulb containing a wire
+         filament (usually tungsten) that emits light when heated
+         [syn: {light bulb}, {bulb}, {incandescent lamp}, {electric
+         light}, {electric-light bulb}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>surname</Word>
+  <Definitions>
+    <Definition>
+      <Word>surname</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Surname \Sur"name`\, n. [Pref. sur + name; really a substitution
+   for OE. sournoun, from F. surnom. See {Sur-}, and {Noun},
+   {Name}.]
+   1. A name or appellation which is added to, or over and
+      above, the baptismal or Christian name, and becomes a
+      family name.
+      [1913 Webster]
+
+   Note: Surnames originally designated occupation, estate,
+         place of residence, or some particular thing or event
+         that related to the person; thus, Edmund Ironsides;
+         Robert Smith, or the smith; William Turner. Surnames
+         are often also patronymics; as, John Johnson.
+         [1913 Webster]
+
+   2. An appellation added to the original name; an agnomen.
+      ``My surname, Coriolanus.'' --Shak.
+      [1913 Webster]
+
+   Note: This word has been sometimes written sirname, as if it
+         signified sire-name, or the name derived from one's
+         father.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>surname</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Surname \Sur*name"\, v. t. [imp. &amp; p. p. {Surnamed}; p. pr. &amp;
+   vb. n. {Surnaming}.] [Cf. F. surnommer.]
+   To name or call by an appellation added to the original name;
+   to give a surname to.
+   [1913 Webster]
+
+         Another shall subscribe with his hand unto the Lord,
+         and surname himself by the name of Israel. --Isa. xliv.
+                                                  5.
+   [1913 Webster]
+
+         And Simon he surnamed Peter.             --Mark iii.
+                                                  16.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>surname</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>surname
+     n : the name used to identify the members of a family (as
+         distinguished from each member's given name) [syn: {family
+         name}, {cognomen}, {last name}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

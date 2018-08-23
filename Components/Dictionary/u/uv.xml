@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>uv</Word>
+  <Definitions>
+    <Definition>
+      <Word>uv</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>UV
+     n : radiation lying in the ultraviolet range; wave lengths
+         shorter than light but longer than X rays [syn: {ultraviolet},
+          {ultraviolet radiation}, {ultraviolet light}, {ultraviolet
+         illumination}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

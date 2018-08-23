@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>loads</Word>
+  <Definitions>
+    <Definition>
+      <Word>loads</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>loads \loads\ n.
+   A large quantity; a lot; as, loads of fun. [informal]
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>loads</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>loads
+     n : a large number or amount; "made lots of new friends"; "she
+         amassed a mountain of newspapers" [syn: {tons}, {dozens},
+          {heaps}, {lots}, {mountain}, {piles}, {scores}, {stacks},
+          {rafts}, {slews}, {wads}, {oodles}, {gobs}, {scads}, {lashings}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

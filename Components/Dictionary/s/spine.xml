@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>spine</Word>
+  <Definitions>
+    <Definition>
+      <Word>spine</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Spine \Spine\, n. [L. spina thorn, the spine; akin to spica a
+   point: cf. OF. espine, F. ['e]pine. Cf. {Spike}, {Spinet} a
+   musical instrument, {Spinny}.]
+   1. (Bot.) A sharp appendage to any of a plant; a thorn.
+      [1913 Webster]
+
+   2. (Zo["o]l.)
+      (a) A rigid and sharp projection upon any part of an
+          animal.
+      (b) One of the rigid and undivided fin rays of a fish.
+          [1913 Webster]
+
+   3. (Anat.) The backbone, or spinal column, of an animal; --
+      so called from the projecting processes upon the
+      vertebr[ae].
+      [1913 Webster]
+
+   4. Anything resembling the spine or backbone; a ridge.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>spine</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>spine
+     n 1: the series of vertebrae forming the axis of the skeleton and
+          protecting the spinal cord; "the fall broke his back"
+          [syn: {spinal column}, {vertebral column}, {backbone}, {back},
+           {rachis}]
+     2: any pointed projection [syn: {spur}]
+     3: a sharp-pointed tip on a stem or leaf [syn: {thorn}, {prickle},
+         {pricker}, {sticker}]
+     4: a sharp rigid animal process or appendage; as a porcupine
+        quill or a ridge on a bone or a ray of a fish fin
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

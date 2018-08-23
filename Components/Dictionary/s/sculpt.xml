@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sculpt</Word>
+  <Definitions>
+    <Definition>
+      <Word>sculpt</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sculpt
+     v 1: create by shaping stone or wood or any other hard material;
+          "sculpt a swan out of a block of ice" [syn: {sculpture}]
+     2: shape (a material like stone or wood) by whittling away at
+        it; "She is sculpting the block of marble into an image of
+        her husband" [syn: {sculpture}, {grave}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

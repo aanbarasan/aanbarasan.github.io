@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mooch</Word>
+  <Definitions>
+    <Definition>
+      <Word>mooch</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>mooch \mooch\ v. t.
+   1. to ask for and get free; to borrow without intending to
+      repay; to sponge; -- usually with objects of small value;
+      as, he mooched a few cigarettes from me.
+
+   Syn: bum, cadge, grub, sponge.
+        [WordNet 1.5]
+
+   2. To beg for.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mooch</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mooch
+     v : ask for and get free; be a parasite [syn: {bum}, {cadge}, {grub},
+          {sponge}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

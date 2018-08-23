@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>uprising</Word>
+  <Definitions>
+    <Definition>
+      <Word>uprising</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Uprising \Up*ris"ing\, n.
+   1. Act of rising; also, a steep place; an ascent. ``The steep
+      uprising of the hill.'' --Shak.
+      [1913 Webster]
+
+   2. An insurrection; a popular revolt. --J. P. Peters.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>uprising</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>uprising
+     n : organized opposition to authority; a conflict in which one
+         faction tries to wrest control from another [syn: {rebellion},
+          {insurrection}, {revolt}, {rising}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

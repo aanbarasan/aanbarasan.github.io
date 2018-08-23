@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>newsletter</Word>
+  <Definitions>
+    <Definition>
+      <Word>newsletter</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>newsletter
+     
+        &lt;publication&gt; A periodically published work containing news
+        and announcements on some subject, typically with a small
+        circulation.  Newsletters are a common application for {DTP}
+        and may be distributed by {electronic mail}.
+     
+        (1996-12-10)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>newsletter</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>newsletter \news"let`ter\, news-letter \news"-let`ter\, n.
+   A circular letter, written or printed for the purpose of
+   disseminating news. This was the name given to the earliest
+   English newspapers.
+
+   Syn: newssheet.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>newsletter</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>newsletter \news"let`ter\, news-letter \news"-let`ter\, n.
+   A circular letter, written or printed for the purpose of
+   disseminating news. This was the name given to the earliest
+   English newspapers.
+
+   Syn: newssheet.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>newsletter</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>newsletter
+     n : report or open letter giving informal or confidential news
+         of interest to a special group [syn: {newssheet}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

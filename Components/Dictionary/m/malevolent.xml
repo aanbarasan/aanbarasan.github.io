@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>malevolent</Word>
+  <Definitions>
+    <Definition>
+      <Word>malevolent</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Malevolent \Ma*lev"o*lent\, a. [L. malevolens, -entis; male ill
+   + volens, p. pr. of velle to be willing or disposed, to wish.
+   See {Malice}, and {Voluntary}.]
+   Wishing evil; disposed to injure others; rejoicing in
+   another's misfortune.
+   [1913 Webster]
+
+   Syn: Ill-disposed; envious; mischievous; evil-minded;
+        spiteful; malicious; malignant; rancorous.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>malevolent</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>malevolent
+     adj 1: wishing or appearing to wish evil to others; arising from
+            intense ill will or hatred; "a gossipy malevolent old
+            woman"; "failure made him malevolent toward those who
+            were successful" [syn: {malicious}] [ant: {benevolent}]
+     2: extremely malevolent or malicious; "the malignant tongues of
+        gossipers" [syn: {malignant}]
+     3: having or exerting a malignant influence; "malevolent
+        stars"; "a malefic force" [syn: {malefic}, {malign}, {evil}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

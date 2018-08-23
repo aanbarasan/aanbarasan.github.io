@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>initials</Word>
+  <Definitions>
+    <Definition>
+      <Word>initials</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Initials \In*i"tials\, n. pl.
+   The first letters of a person's first and last name, and
+   sometimes also the first letters of the middle name or names;
+   as, sign your initials in the margin; people identified only
+   by their initials.
+   [PJC]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

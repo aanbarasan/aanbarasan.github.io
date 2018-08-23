@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>jackinthebox</Word>
+  <Definitions>
+    <Definition>
+      <Word>jackinthebox</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Jack-in-a-box \Jack-in-a-box\
+   1. (Bot.) A tropical tree ({Hernandia sonora}), which bears a
+      drupe that rattles when dry in the inflated calyx.
+      [1913 Webster]
+
+   2. A child's toy, consisting of a box, out of which, when the
+      lid is raised, a figure (usually a clown) springs; also
+      called {jack-in-the-box}.
+      [1913 Webster]
+
+   3. (Mech.) An epicyclic train of bevel gears for transmitting
+      rotary motion to two parts in such a manner that their
+      relative rotation may be variable; applied to driving the
+      wheels of tricycles, road locomotives, and to cotton
+      machinery, etc.; an equation box; a jack frame; -- called
+      also {compensating gearing}.
+      [1913 Webster]
+
+   4. A large wooden screw turning in a nut attached to the
+      crosspiece of a rude press.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>jackinthebox</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>jack-in-the-box
+     n : plaything consisting of a toy clown that jumps out of a box
+         when the lid is opened
+     [also: {jacks-in-the-box} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

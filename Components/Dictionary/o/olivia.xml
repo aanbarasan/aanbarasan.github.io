@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>olivia</Word>
+  <Definitions>
+    <Definition>
+      <Word>olivia</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Olivia, MN (city, FIPS 48256)
+  Location: 44.77581 N, 94.99709 W
+  Population (1990): 2623 (1156 housing units)
+  Area: 5.9 sq km (land), 0.0 sq km (water)
+  Zip code(s): 56277
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

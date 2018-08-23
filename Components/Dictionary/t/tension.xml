@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tension</Word>
+  <Definitions>
+    <Definition>
+      <Word>tension</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tension \Ten"sion\, n. [L. tensio, from tendere, tensum, to
+   stretch: cf. F. tension. See {Tense}, a.]
+   1. The act of stretching or straining; the state of being
+      stretched or strained to stiffness; the state of being
+      bent strained; as, the tension of the muscles, tension of
+      the larynx.
+      [1913 Webster]
+
+   2. Fig.: Extreme strain of mind or excitement of feeling;
+      intense effort.
+      [1913 Webster]
+
+   3. The degree of stretching to which a wire, cord, piece of
+      timber, or the like, is strained by drawing it in the
+      direction of its length; strain. --Gwilt.
+      [1913 Webster]
+
+   4. (Mech.) The force by which a part is pulled when forming
+      part of any system in equilibrium or in motion; as, the
+      tension of a srting supporting a weight equals that
+      weight.
+      [1913 Webster]
+
+   5. A device for checking the delivery of the thread in a
+      sewing machine, so as to give the stitch the required
+      degree of tightness.
+      [1913 Webster]
+
+   6. (Physics) Expansive force; the force with which the
+      particles of a body, as a gas, tend to recede from each
+      other and occupy a larger space; elastic force;
+      elasticity; as, the tension of vapor; the tension of air.
+      [1913 Webster]
+
+   7. (Elec.) The quality in consequence of which an electric
+      charge tends to discharge itself, as into the air by a
+      spark, or to pass from a body of greater to one of less
+      electrical potential. It varies as the quantity of
+      electricity upon a given area.
+      [1913 Webster]
+
+   {Tension brace}, or {Tension member} (Engin.), a brace or
+      member designed to resist tension, or subjected to
+      tension, in a structure.
+
+   {Tension rod} (Engin.), an iron rod used as a tension member
+      to strengthen timber or metal framework, roofs, or the
+      like.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tension</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tension
+     n 1: feelings of hostility that are not manifest; "he could sense
+          her latent hostility to him"; "the diplomats' first
+          concern was to reduce international tensions" [syn: {latent
+          hostility}]
+     2: (psychology) a state of mental or emotional strain or
+        suspense; "he suffered from fatigue and emotional
+        tension"; "stress is a vasoconstrictor" [syn: {tenseness},
+         {stress}]
+     3: the physical condition of being stretched or strained; "it
+        places great tension on the leg muscles"; "he could feel
+        the tenseness of her body" [syn: {tensity}, {tenseness}, {tautness}]
+     4: a balance between and interplay of opposing elements or
+        tendencies (especially in art or literature); "there is a
+        tension created between narrative time and movie time";
+        "there is a tension between these approaches to
+        understanding history"
+     5: (physics) a stress that produces an elongation of an elastic
+        physical body; "the direction of maximum tension moves
+        asymptotically toward the direction of the shear"
+     6: the action of stretching something tight; "tension holds the
+        belt in the pulleys"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

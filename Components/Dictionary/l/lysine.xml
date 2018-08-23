@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lysine</Word>
+  <Definitions>
+    <Definition>
+      <Word>lysine</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>lysine
+     n : an essential amino acid found in proteins; occurs especially
+         in gelatin and casein
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>memorabilia</Word>
+  <Definitions>
+    <Definition>
+      <Word>memorabilia</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>memorabilia \mem`o*ra*bil"i*a\, n. pl. [L., fr. memorabilis
+   memorable. See {Memorable}.]
+   1. Things remarkable and worthy of remembrance or record;
+      also, the record of them.
+      [1913 Webster]
+
+   2. Mementos of past events; souvenirs.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>memorabilia</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>memorabilia
+     n : a record of things worth remembering
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

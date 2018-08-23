@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>invincible</Word>
+  <Definitions>
+    <Definition>
+      <Word>invincible</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Invincible \In*vin"ci*ble\, a. [L. invincibilis: cf. F.
+   invincible. See {In-} not, and {Vincible}.]
+   Incapable of being conquered, overcome, or subdued;
+   unconquerable; insuperable; as, an invincible army, or
+   obstacle.
+   [1913 Webster]
+
+         Lead forth to battle these my sons
+         Invincible.                              --Milton.
+   -- {In*vin"ci*ble*ness}, n. -- {In*vin"ci*bly}, adv.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>invincible</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>invincible
+     adj : incapable of being overcome or subdued; "an invincible
+           army"; "her invincible spirit" [syn: {unbeatable}, {unvanquishable}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

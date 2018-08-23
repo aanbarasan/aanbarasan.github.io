@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nerves</Word>
+  <Definitions>
+    <Definition>
+      <Word>nerves</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nerves
+     n 1: an uneasy psychological state; "he suffered an attack of
+          nerves" [syn: {nervousness}]
+     2: control of your emotions; "this kind of tension is not good
+        for my nerves"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

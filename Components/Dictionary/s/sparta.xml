@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sparta</Word>
+  <Definitions>
+    <Definition>
+      <Word>sparta</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Sparta, GA (city, FIPS 72584)
+  Location: 33.27712 N, 82.97160 W
+  Population (1990): 1710 (650 housing units)
+  Area: 4.7 sq km (land), 0.0 sq km (water)
+Sparta, IL (city, FIPS 71448)
+  Location: 38.15278 N, 89.71554 W
+  Population (1990): 4853 (2006 housing units)
+  Area: 24.7 sq km (land), 0.3 sq km (water)
+  Zip code(s): 62286
+Sparta, KY (city, FIPS 72372)
+  Location: 38.67633 N, 84.90384 W
+  Population (1990): 133 (66 housing units)
+  Area: 2.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 41086
+Sparta, MI (village, FIPS 75420)
+  Location: 43.15791 N, 85.70936 W
+  Population (1990): 3968 (1585 housing units)
+  Area: 4.9 sq km (land), 0.0 sq km (water)
+  Zip code(s): 49345
+Sparta, MO (city, FIPS 69302)
+  Location: 37.00168 N, 93.08320 W
+  Population (1990): 751 (347 housing units)
+  Area: 1.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 65753
+Sparta, NC (town, FIPS 63680)
+  Location: 36.50375 N, 81.12130 W
+  Population (1990): 1957 (915 housing units)
+  Area: 6.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 28675
+Sparta, NJ
+  Zip code(s): 07871
+Sparta, OH (village, FIPS 73950)
+  Location: 40.39471 N, 82.69963 W
+  Population (1990): 201 (70 housing units)
+  Area: 0.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 43350
+Sparta, TN (city, FIPS 70180)
+  Location: 35.93447 N, 85.47315 W
+  Population (1990): 4681 (2034 housing units)
+  Area: 16.2 sq km (land), 0.0 sq km (water)
+Sparta, WI (city, FIPS 75325)
+  Location: 43.94276 N, 90.80975 W
+  Population (1990): 7788 (3266 housing units)
+  Area: 12.7 sq km (land), 0.2 sq km (water)
+  Zip code(s): 54656
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sparta</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Sparta
+     n : an ancient Greek city famous for military prowess; the
+         dominant city of the Peloponnesus prior to the 4th
+         century BC
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

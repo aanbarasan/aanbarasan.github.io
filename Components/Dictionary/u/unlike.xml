@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unlike</Word>
+  <Definitions>
+    <Definition>
+      <Word>unlike</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Unlike \Un*like"\, a.
+   1. Not like; dissimilar; diverse; having no resemblance; as,
+      the cases are unlike.
+      [1913 Webster]
+
+   2. Not likely; improbable; unlikely. [Obsoles.]
+      [1913 Webster]
+
+   {Unlike quantities} (Math.), quantities expressed by letters
+      which are different or of different powers, as a, b, c,
+      a^{2}, a^{3}, x^{n}, and the like.
+
+   {Unlike signs} (Math.), the signs plus (+) and minus (-).
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>unlike</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unlike
+     adj 1: not like; marked by dissimilarity; "for twins they are very
+            unlike"; "people are profoundly different" [syn: {dissimilar},
+             {different}] [ant: {like}]
+     2: not equal in amount; "they distributed unlike (or unequal)
+        sums to the various charities" [syn: {unequal}] [ant: {like}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

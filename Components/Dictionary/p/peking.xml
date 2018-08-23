@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>peking</Word>
+  <Definitions>
+    <Definition>
+      <Word>peking</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Peking
+     n : capital of the People's Republic of China in the Hebei
+         province in northeastern China; 2nd largest Chinese city
+         [syn: {Beijing}, {Peiping}, {capital of Red China}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

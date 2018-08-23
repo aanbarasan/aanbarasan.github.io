@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>kelp</Word>
+  <Definitions>
+    <Definition>
+      <Word>kelp</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Kelp \Kelp\ (k[e^]lp), n. [Formerly kilpe; of unknown origin.]
+   1. The calcined ashes of seaweed, -- formerly much used in
+      the manufacture of glass, now used in the manufacture of
+      iodine.
+      [1913 Webster]
+
+   2. (Bot.) Any large blackish seaweed.
+      [1913 Webster]
+
+   Note: {Laminaria} is the common kelp of Great Britain;
+         {Macrocystis pyrifera} and {Nereocystis Lutkeana} are
+         the great kelps of the Pacific Ocean.
+         [1913 Webster]
+
+   {Kelp crab} (Zo["o]l.), a California spider crab ({Epialtus
+      productus}), found among seaweeds, which it resembles in
+      color.
+
+   {Kelp salmon} (Zo["o]l.), a serranoid food fish ({Serranus
+      clathratus}) of California. See {Cabrilla}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>kelp</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>kelp
+     n : large brown seaweeds having fluted leathery fronds
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>wen</Word>
+  <Definitions>
+    <Definition>
+      <Word>wen</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Wen \Wen\ (w[e^]n), n. [AS. wenn; akin to D. wen, LG. wenne.]
+   (Med.)
+   An indolent, encysted tumor of the skin; especially, a
+   sebaceous cyst.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wen</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Wyn \Wyn\, Wynn \Wynn\, n. Also Wen \Wen\ [AS. w[=e]n.]
+   One of the runes (?) adopted into the Anglo-Saxon, or Old
+   English, alphabet. It had the value of modern English w, and
+   was replaced from about a. d. 1280 at first by uu, later by
+   w.
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wen</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>wen
+     n : a common cyst of the skin; filled with fatty matter (sebum)
+         that is secreted by a sebaceous gland that has been
+         blocked [syn: {sebaceous cyst}, {pilar cyst}, {steatocystoma}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

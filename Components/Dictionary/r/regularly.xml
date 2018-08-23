@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>regularly</Word>
+  <Definitions>
+    <Definition>
+      <Word>regularly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Regularly \Reg"u*lar*ly\, adv.
+   In a regular manner; in uniform order; methodically; in due
+   order or time.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>regularly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>regularly
+     adv 1: in a regular manner; "letters arrived regularly from his
+            children" [syn: {on a regular basis}] [ant: {irregularly}]
+     2: having a regular form; "regularly shaped objects" [ant: {irregularly}]
+     3: in a regular way without variation; "try to breathe evenly"
+        [ant: {irregularly}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

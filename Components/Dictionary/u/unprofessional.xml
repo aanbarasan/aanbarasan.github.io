@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unprofessional</Word>
+  <Definitions>
+    <Definition>
+      <Word>unprofessional</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unprofessional
+     adj : not characteristic of or befitting a profession or one
+           engaged in a profession; "described in unprofessional
+           language so that high school students could understand
+           it"; "was censured for unprofessional conduct";
+           "unprofessional repairs" [ant: {professional}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

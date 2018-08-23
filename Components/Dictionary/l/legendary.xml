@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>legendary</Word>
+  <Definitions>
+    <Definition>
+      <Word>legendary</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Legendary \Leg"end*a*ry\ (l[e^]j"[e^]n*d[asl]*r[y^]), a.
+   Of or pertaining to a legend or to legends; consisting of
+   legends; like a legend; fabulous. ``Legendary writers.''
+   --Bp. Lloyd.
+   [1913 Webster]
+
+         Legendary stories of nurses and old women. --Bourne.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>legendary</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Legendary \Leg"end*a*ry\, n. [Cf. OF. legendaire, LL.
+   legendarius.]
+   1. A book of legends; a tale or narrative.
+      [1913 Webster]
+
+            Read the Countess of Pembroke's ``Arcadia,'' a
+            gallant legendary full of pleasurable accidents.
+                                                  --James I.
+      [1913 Webster]
+
+   2. One who relates legends. --Bp. Lavington.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>legendary</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>legendary
+     adj 1: so celebrated as to having taken on the nature of a legend;
+            "the legendary exploits of the arctic trailblazers"
+     2: celebrated in fable or legend; "the fabled Paul Bunyan and
+        his blue ox"; "legendary exploits of Jesse James" [syn: {fabled}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

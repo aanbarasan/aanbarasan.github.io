@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rhyming</Word>
+  <Definitions>
+    <Definition>
+      <Word>rhyming</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rhyme \Rhyme\, v. i. [imp. &amp; p. p. {Rhymed};p. pr. &amp; vb. n.
+   {Rhyming}.] [OE. rimen, rymen, AS. r[=i]man to count: cf. F.
+   rimer to rhyme. See {Rhyme}, n.]
+   1. To make rhymes, or verses. ``Thou shalt no longer ryme.''
+      --Chaucer.
+      [1913 Webster]
+
+            There marched the bard and blockhead, side by side,
+            Who rhymed for hire, and patronized for pride.
+                                                  --Pope.
+      [1913 Webster]
+
+   2. To accord in rhyme or sound.
+      [1913 Webster]
+
+            And, if they rhymed and rattled, all was well.
+                                                  --Dryden.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rhyming</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rhyming
+     adj : having corrnesponding sounds especially terminal sounds;
+           "rhymed verse"; "rhyming words" [syn: {rhymed}, {riming}]
+           [ant: {unrhymed}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

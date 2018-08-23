@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>timberlake</Word>
+  <Definitions>
+    <Definition>
+      <Word>timberlake</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Timber Lake, SD (city, FIPS 63620)
+  Location: 45.42762 N, 101.07417 W
+  Population (1990): 517 (252 housing units)
+  Area: 1.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 57656
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>timberlake</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Timberlake, NC
+  Zip code(s): 27583
+Timberlake, OH (village, FIPS 76834)
+  Location: 41.66460 N, 81.44286 W
+  Population (1990): 833 (307 housing units)
+  Area: 0.6 sq km (land), 0.0 sq km (water)
+Timberlake, VA (CDP, FIPS 78688)
+  Location: 37.32316 N, 79.24989 W
+  Population (1990): 10314 (4126 housing units)
+  Area: 22.8 sq km (land), 0.2 sq km (water)
+  Zip code(s): 24502
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>regularity</Word>
+  <Definitions>
+    <Definition>
+      <Word>regularity</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Regularity \Reg`u*lar"i*ty\ (-l?r"?*t?), n. [Cf. F.
+   r['e]gularit['e].]
+   The condition or quality of being regular; as, regularity of
+   outline; the regularity of motion.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>regularity</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>regularity
+     n 1: a property of polygons: the property of having equal sides
+          and equal angles [syn: {geometrical regularity}]
+     2: the quality of being characterized by a fixed principle or
+        rate; "he was famous for the regularity of his habits"
+        [ant: {irregularity}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

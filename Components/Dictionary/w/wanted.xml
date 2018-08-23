@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>wanted</Word>
+  <Definitions>
+    <Definition>
+      <Word>wanted</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Want \Want\, v. t. [imp. &amp; p. p. {Wanted}; p. pr. &amp; vb. n.
+   {Wanting}.]
+   [1913 Webster]
+   1. To be without; to be destitute of, or deficient in; not to
+      have; to lack; as, to want knowledge; to want judgment; to
+      want learning; to want food and clothing.
+      [1913 Webster]
+
+            They that want honesty, want anything. --Beau. &amp; Fl.
+      [1913 Webster]
+
+            Nor think, though men were none,
+            That heaven would want spectators, God want praise.
+                                                  --Milton.
+      [1913 Webster]
+
+            The unhappy never want enemies.       --Richardson.
+      [1913 Webster]
+
+   2. To have occasion for, as useful, proper, or requisite; to
+      require; to need; as, in winter we want a fire; in summer
+      we want cooling breezes.
+      [1913 Webster]
+
+   3. To feel need of; to wish or long for; to desire; to crave.
+      `` What wants my son?'' --Addison.
+      [1913 Webster]
+
+            I want to speak to you about something. --A.
+                                                  Trollope.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wanted</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>wanted
+     adj 1: desired or wished for or sought; "couldn't keep her eyes off
+            the wanted toy"; "a wanted criminal"; "a wanted
+            poster" [ant: {unwanted}]
+     2: freely permitted or invited; "invited guests" [syn: {invited}]
+     3: characterized by feeling or showing fond affection for; "a
+        cherished friend"; "children are precious"; "a treasured
+        heirloom"; "so good to feel wanted" [syn: {cherished}, {precious},
+         {treasured}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

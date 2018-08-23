@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>moderately</Word>
+  <Definitions>
+    <Definition>
+      <Word>moderately</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Moderately \Mod"er*ate*ly\, adv.
+   In a moderate manner or degree; to a moderate extent.
+   [1913 Webster]
+
+         Each nymph but moderately fair.          --Waller.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>moderately</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>moderately
+     adv 1: to a moderately sufficient extent or degree; "the shoes are
+            priced reasonably"; "he is fairly clever with
+            computers"; "they lived comfortably within reason"
+            [syn: {reasonably}, {within reason}, {somewhat}, {fairly},
+             {middling}, {passably}] [ant: {unreasonably}, {unreasonably}]
+     2: in a moderate manner; "he drinks moderately" [syn: {with
+        moderation}] [ant: {immoderately}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

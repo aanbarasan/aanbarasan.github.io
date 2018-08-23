@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>patternmatching</Word>
+  <Definitions>
+    <Definition>
+      <Word>patternmatching</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>pattern matching
+     
+        1. A function is defined to take arguments of a particular
+        type, form or value.  When applying the function to its actual
+        arguments it is necessary to match the type, form or value of
+        the actual arguments against the formal arguments in some
+        definition.  For example, the function
+     
+        	length []     = 0
+        	length (x:xs) = 1 + length xs
+     
+        uses pattern matching in its argument to distinguish a null
+        list from a non-null one.
+     
+        There are well known {algorithm} for translating pattern
+        matching into conditional expressions such as "if" or "case".
+        E.g. the above function could be transformed to
+     
+        	length l = case l of
+        		   []   -&gt; 0
+        		   x:xs -&gt; 1 : length xs
+     
+        Pattern matching is usually performed in textual order though
+        there are languages which match more specific patterns before
+        less specific ones.
+     
+        2. Descriptive of a type of language or utility such as {awk}
+        or {Perl} which is suited to searching for strings or patterns
+        in input data, usually using some kind of {regular
+        expression}.
+     
+        (1994-11-28)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>patternmatching</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pattern matching \Pat"tern match"ing\, n. [See {pattern}.]
+   a technique in automated data analysis, usually performed on
+   a computer, by which a group of characteristic properties of
+   an unknown object is compared with the comparable groups of
+   characteristics of a set of known objects, to discover the
+   idenity or proper classification of the unknown object.
+
+   Note: There are two major types of pattern matching,
+         statistical pattern matching and syntactic pattern
+         matching. In statistical pattern matching, the criteria
+         used to recognize identity or class membership vary,
+         but in general some combination of the differences in
+         the groups of characteristics of known and unknown
+         objects are considered to be a measure of the
+         difference ("distance") between them, and the closest
+         known object or objects are viewed as presenting the
+         most likely identity or class for the unknown object.
+         In syntactic pattern matching, a set of known patterns,
+         e.g. as in the possible order of parts of speech in a
+         language, is defined, and the unknown pattern is
+         compared to find that known pattern or patterns which
+         matches the unknown exactly. In general, statistical
+         pattern matching is used where properties of objects
+         with continuous values are being compared, and
+         syntactic pattern matching where a complex arrangement
+         of at least two different objects may be built by
+         application of a set of rules (a "grammar") for
+         combining the objects in a specified order. Examples of
+         the latter are natural and formal languages.
+         [PJC]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

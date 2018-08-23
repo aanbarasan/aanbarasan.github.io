@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>racer</Word>
+  <Definitions>
+    <Definition>
+      <Word>racer</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Racer \Ra"cer\ (r[=a]"s[~e]r), n.
+   1. One who, or that which, races, or contends in a race;
+      esp., a race horse.
+      [1913 Webster]
+
+            And bade the nimblest racer seize the prize. --Pope.
+      [1913 Webster]
+
+   2. (Zo["o]l.) The common American black snake.
+      [1913 Webster]
+
+   3. (Mil.) One of the circular iron or steel rails on which
+      the chassis of a heavy gun is turned.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>racer</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>racer
+     n 1: someone who drives racing cars at high speeds [syn: {race
+          driver}, {automobile driver}]
+     2: a fast car that competes in races [syn: {race car}, {racing
+        car}]
+     3: an animal that races
+     4: slender fast-moving North American snakes
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

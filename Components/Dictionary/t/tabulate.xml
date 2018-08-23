@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tabulate</Word>
+  <Definitions>
+    <Definition>
+      <Word>tabulate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tabulate \Tab"u*late\, v. t. [imp. &amp; p. p. {Tabulated}; p. pr. &amp;
+   vb. n. {Tabulating}.] [L. tabula a table. See {Tabular}.]
+   1. To form into a table or tables; to reduce to tables or
+      synopses.
+      [1913 Webster]
+
+            A philosophy is not worth the having, unless its
+            results may be tabulated, and put in figures. --I.
+                                                  Taylor.
+      [1913 Webster]
+
+   2. To shape with a flat surface.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tabulate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tabulate
+     v 1: arrange in tabular form [syn: {tabularize}, {tabularise}]
+     2: shape or cut with a flat surface
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

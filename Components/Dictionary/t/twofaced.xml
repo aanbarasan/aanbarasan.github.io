@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>twofaced</Word>
+  <Definitions>
+    <Definition>
+      <Word>twofaced</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>two-faced
+     adj 1: marked by deliberate deceptiveness especially by pretending
+            one set of feelings and acting under the influence of
+            another; "she was a deceitful scheming little thing"-
+            Israel Zangwill; "a double-dealing double agent"; "a
+            double-faced infernal traitor and schemer"-
+            W.M.Thackeray [syn: {ambidextrous}, {deceitful}, {double-dealing},
+             {duplicitous}, {Janus-faced}, {double-faced}, {double-tongued}]
+     2: having two faces--one looking to the future and one to the
+        past; "Janus the two-faced god" [syn: {Janus-faced}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

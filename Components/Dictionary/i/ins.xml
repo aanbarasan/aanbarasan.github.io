@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ins</Word>
+  <Definitions>
+    <Definition>
+      <Word>ins</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>INS
+     n : an agency in the Department of Justice that enforces laws
+         and regulations for the admission of foreign-born persons
+         to the United States [syn: {Immigration and
+         Naturalization Service}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

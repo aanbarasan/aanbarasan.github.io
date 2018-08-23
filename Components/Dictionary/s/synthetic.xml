@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>synthetic</Word>
+  <Definitions>
+    <Definition>
+      <Word>synthetic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Synthetic \Syn*thet"ic\, Synthetical \Syn*thet"ic*al\, a. [Gr.
+   ?: cf. F. synth['e]tique.]
+   1. Of or pertaining to synthesis; consisting in synthesis or
+      composition; as, the synthetic method of reasoning, as
+      opposed to analytical.
+      [1913 Webster]
+
+            Philosophers hasten too much from the analytic to
+            the synthetic method; that is, they draw general
+            conclusions from too small a number of particular
+            observations and experiments.         --Bolingbroke.
+      [1913 Webster]
+
+   2. (Chem.) Artificial. Cf. {Synthesis}, 2.
+      [1913 Webster]
+
+   3. (Zo["o]l.) Comprising within itself structural or other
+      characters which are usually found only in two or more
+      diverse groups; -- said of species, genera, and higher
+      groups. See the Note under {Comprehensive}, 3.
+      [1913 Webster]
+
+   {Synthetic language}, or {Synthetical language}, an
+      inflectional language, or one characterized by grammatical
+      endings; -- opposed to {analytic language}. --R. Morris.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>synthetic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>synthetic
+     adj 1: not of natural origin; prepared or made artificially;
+            "man-made fibers"; "synthetic leather" [syn: {man-made},
+             {semisynthetic}]
+     2: involving or of the nature of synthesis (combining separate
+        elements to form a coherent whole) as opposed to analysis;
+        "limnology is essentially a synthetic science composed of
+        elements...that extend well beyond the limits of biology"-
+        P.S.Welch [syn: {synthetical}] [ant: {analytic}]
+     3: systematic combining of root and modifying elements into
+        single words [ant: {analytic}]
+     4: of a proposition whose truth value is determined by
+        observation or facts; "`all men are arrogant' is a
+        synthetic proposition" [syn: {synthetical}] [ant: {analytic}]
+     5: artificial as if portrayed in a film; "a novel with flat
+        celluloid characters" [syn: {celluloid}]
+     6: not genuine or natural; "counterfeit rhetoric that
+        flourishes when passions are synthetic"- George Will
+     n : a compound made artificially by chemical reactions
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

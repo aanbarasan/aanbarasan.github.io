@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>torrid</Word>
+  <Definitions>
+    <Definition>
+      <Word>torrid</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Torrid \Tor"rid\, a. [L. torridus, fr. torrere to parch, to
+   burn, akin to E. Thist: cf. F. torride. See {Thirst}.]
+   1. Parched; dried with heat; as, a torrid plain or desert.
+      ``Barca or Cyrene's torrid soil.'' --Milton.
+      [1913 Webster]
+
+   2. Violenty hot; drying or scorching with heat; burning;
+      parching. ``Torrid heat.'' --Milton.
+      [1913 Webster]
+
+   {Torrid zone} (Geog.), that space or board belt of the earth,
+      included between the tropics, over which the sun is
+      vertical at some period of every year, and the heat is
+      always great.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>torrid</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>torrid
+     adj 1: characterized by intense emotion; "ardent love"; "an ardent
+            lover"; "a burning enthusiasm"; "a fervent desire to
+            change society"; "a fervent admirer"; "fiery oratory";
+            "an impassioned appeal"; "a torrid love affair" [syn:
+            {ardent}, {burning(a)}, {fervent}, {fervid}, {fiery},
+            {impassioned}, {perfervid}]
+     2: emotionally charged and vigorously energetic; "a torrid
+        dance"; "torrid jazz bands"; "hot trumpets and torrid
+        rhythms"
+     3: burning hot; extremely and unpleasantly hot; "the torrid
+        noonday sun"; "sultry sands of the dessert" [syn: {sultry}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

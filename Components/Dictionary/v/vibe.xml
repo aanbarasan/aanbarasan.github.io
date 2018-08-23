@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>vibe</Word>
+  <Definitions>
+    <Definition>
+      <Word>vibe</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>vibe
+     n : a distinctive emotional atmosphere; sensed intuitively; "it
+         gave me a nostalgic vibe"; "that man gives off bad vibes"
+         [syn: {vibration}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

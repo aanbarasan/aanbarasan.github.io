@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>proverbial</Word>
+  <Definitions>
+    <Definition>
+      <Word>proverbial</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Proverbial \Pro*ver"bi*al\, a. [L. proverbialis: cf. F.
+   proverbial.]
+   1. Mentioned or comprised in a proverb; used as a proverb;
+      hence, commonly known; as, a proverbial expression; his
+      meanness was proverbial.
+      [1913 Webster]
+
+            In case of excesses, I take the German proverbial
+            cure, by a hair of the same beast, to be the worst.
+                                                  --Sir W.
+                                                  Temple.
+      [1913 Webster]
+
+   2. Of or pertaining to proverbs; resembling a proverb. ``A
+      proverbial obscurity.'' --Sir T. Browne.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>proverbial</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>proverbial
+     adj 1: of or relating to or resembling or expressed in a proverb;
+            "he kicked the proverbial bucket"; "the proverbial
+            grasshopper"
+     2: widely known and spoken of; "her proverbial lateness"; "the
+        proverbial absentiminded professor"; "your proverbial
+        dizzy blonde"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sputum</Word>
+  <Definitions>
+    <Definition>
+      <Word>sputum</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sputum \Spu"tum\ (sp[=u]"t[u^]m), n.; pl. {Sputa} (-t[.a]). [L.,
+   from spuere, sputum, to spit.]
+   That which is expectorated; a salival discharge; spittle;
+   saliva.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sputum</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sputum
+     n : expectorated matter; saliva mixed with discharges from the
+         respiratory passages; in ancient and medieval physiology
+         it was believed to cause sluggishness [syn: {phlegm}]
+     [also: {sputa} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

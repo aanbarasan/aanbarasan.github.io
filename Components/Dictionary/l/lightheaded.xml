@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lightheaded</Word>
+  <Definitions>
+    <Definition>
+      <Word>lightheaded</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Light-headed \Light"-head`ed\ (l[imac]t"h[e^]d`[e^]d), a.
+   1. Disordered in the head; dizzy; feeling faint; delirious.
+      [WordNet sense 1] --Walpole.
+
+   Syn: faint, swooning, lightheaded.
+        [1913 Webster + WordNet 1.5]
+
+   2. Thoughtless; heedless; volatile; unsteady; fickle; loose;
+      lacking seriousness; given to frivolity; as, light-headed
+      teenagers. [WordNet sense 2] ``Light-headed, weak men.''
+      --Clarendon.
+
+   Syn: airheaded, dizzy, empty-headed, featherbrained, giddy,
+        lightheaded, silly.
+        [1913 Webster + WordNet 1.5] -- {Light"-head`ed*ness},
+        n.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lightheaded</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>light-headed
+     adj 1: weak and likely to lose consciousness; "suddenly felt faint
+            from the pain"; "was sick and faint from hunger";
+            "felt light in the head"; "a swooning fit";
+            "light-headed with wine"; "light-headed from lack of
+            sleep" [syn: {faint}, {light}, {swooning}, {lightheaded}]
+     2: lacking seriousness; given to frivolity; "a dizzy blonde";
+        "light-headed teenagers"; "silly giggles" [syn: {airheaded},
+         {dizzy}, {empty-headed}, {featherbrained}, {giddy}, {lightheaded},
+         {silly}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lightheaded</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>lightheaded
+     adj 1: weak and likely to lose consciousness; "suddenly felt faint
+            from the pain"; "was sick and faint from hunger";
+            "felt light in the head"; "a swooning fit";
+            "light-headed with wine"; "light-headed from lack of
+            sleep" [syn: {faint}, {light}, {swooning}, {light-headed}]
+     2: lacking seriousness; given to frivolity; "a dizzy blonde";
+        "light-headed teenagers"; "silly giggles" [syn: {airheaded},
+         {dizzy}, {empty-headed}, {featherbrained}, {giddy}, {light-headed},
+         {silly}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

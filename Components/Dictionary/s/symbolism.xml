@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>symbolism</Word>
+  <Definitions>
+    <Definition>
+      <Word>symbolism</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Symbolism \Sym"bol*ism\, n.
+   1. The act of symbolizing, or the state of being symbolized;
+      as, symbolism in Christian art is the representation of
+      truth, virtues, vices, etc., by emblematic colors, signs,
+      and forms.
+      [1913 Webster]
+
+   2. A system of symbols or representations.
+      [1913 Webster]
+
+   3. (Chem.)
+      (a) The practice of using symbols, or the system of
+          notation developed thereby.
+      (b) A combining together of parts or ingredients. [Obs.]
+          [1913 Webster]
+
+   4. (Theol.) The science of creeds; symbolics.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>symbolism</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>symbolism
+     n 1: a system of symbols and symbolic representations
+     2: the practice of investing things with symbolic meaning [syn:
+         {symbolization}, {symbolisation}]
+     3: an artistic movement in the late 19th century that tried to
+        express abstract or mystical ideas through the symbolic
+        use of images
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

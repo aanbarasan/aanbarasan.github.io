@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>paging</Word>
+  <Definitions>
+    <Definition>
+      <Word>paging</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>paging
+     
+        &lt;operating system&gt; A technique for increasing the memory space
+        available by moving infrequently-used parts of a program's
+        working memory from {RAM} to a secondary storage medium,
+        usually disk.  The unit of transfer is called a page.
+     
+        A {memory management unit} (MMU) monitors accesses to memory
+        and splits each address into a page number (the most
+        significant bits) and an offset within that page (the lower
+        bits).  It then looks up the page number in its page table.
+        The page may be marked as paged in or paged out.  If it is
+        paged in then the memory access can proceed after translating
+        the {virtual address} to a {physical address}.  If the
+        requested page is paged out then space must be made for it by
+        paging out some other page, i.e. copying it to disk.  The
+        requested page is then located on the area of the disk
+        allocated for "{swap space}" and is read back into {RAM}.  The
+        page table is updated to indicate that the page is paged in
+        and its physical address recorded.
+     
+        The MMU also records whether a page has been modified since it
+        was last paged in.  If it has not been modified then there is
+        no need to copy it back to disk and the space can be reused
+        immediately.
+     
+        Paging allows the total memory requirements of all running
+        tasks (possibly just one) to exceed the amount of {physical
+        memory}, whereas {swapping} simply allows multiple processes
+        to run concurrently, so long as each process on its own fits
+        within {physical memory}.
+     
+        (1996-11-22)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>paging</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Page \Page\, v. t. [imp. &amp; p. p. {Paged} (p[=a]jd); p. pr. &amp; vb.
+   n. {Paging} (p[=a]"j[i^]ng).]
+   To mark or number the pages of, as a book or manuscript; to
+   furnish with folios.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>paging</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Paging \Pa"ging\, n.
+   The marking or numbering of the pages of a book.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>paging</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>paging
+     n 1: calling out the name of a person (especially by a
+          loudspeaker system); "the public address system in the
+          hospital was used for paging"
+     2: the system of numbering pages [syn: {pagination}, {folio}, {page
+        number}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

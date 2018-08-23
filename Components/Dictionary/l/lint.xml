@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lint</Word>
+  <Definitions>
+    <Definition>
+      <Word>lint</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>lint
+     
+        A {Unix} {C} language processor which carries out more
+        thorough checks on the code than is usual with C {compiler}s.
+     
+        Lint is named after the bits of fluff it supposedly picks from
+        programs.  Judging by references on {Usenet} this term has
+        become a shorthand for {desk check} at some non-Unix shops,
+        even in languages other than {C}.  Also used as {delint}.
+     
+        [{Jargon File}]
+     
+        (1994-11-14)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lint</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lint \Lint\ (l[i^]nt), n. [AS. l[=i]net flax, hemp, fr. l[=i]n
+   flax; or, perh. borrowed fr. L. linteum a linen cloth, linen,
+   from linteus linen, a., fr. linum flax, lint. See {Linen}.]
+   1. Flax.
+      [1913 Webster]
+
+   2. Linen scraped or otherwise made into a soft, downy or
+      fleecy substance for dressing wounds and sores; also, fine
+      ravelings, down, fluff, or loose short fibers from yarn or
+      fabrics.
+      [1913 Webster]
+
+   {Lint doctor} (Calico-printing Mach.), a scraper to remove
+      lint from a printing cylinder.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lint</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>lint [from Unix's `lint(1)', named for the bits of fluff it supposedly
+   picks from programs] 1. vt. To examine a program closely for style,
+   language usage, and portability problems, esp. if in C, esp. if via use
+   of automated analysis tools, most esp. if the Unix utility `lint(1)' is
+   used. This term used to be restricted to use of `lint(1)' itself, but
+   (judging by references on Usenet) it has become a shorthand for {desk
+   check} at some non-Unix shops, even in languages other than C. Also as
+   v. {delint}. 2. n. Excess verbiage in a document, as in "This draft has
+   too much lint".
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lint</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>lint
+     n 1: fine ravellings of cotton or linen fibers
+     2: cotton or linen fabric with the nap raised on one side; used
+        to dress wounds
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

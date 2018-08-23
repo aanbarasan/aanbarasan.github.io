@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>letdown</Word>
+  <Definitions>
+    <Definition>
+      <Word>letdown</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>let down
+     v 1: move something or somebody to a lower position; "take down
+          the vase from the shelf" [syn: {lower}, {take down}, {get
+          down}, {bring down}] [ant: {raise}]
+     2: fail to meet the hopes or expectations of; "Her boyfriend
+        let her down when he did not propose marriage" [syn: {disappoint}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>letdown</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>letdown
+     n : a feeling of dissatisfaction that results when your
+         expectations are not realized; "his hopes were so high he
+         was doomed to disappointment" [syn: {disappointment}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

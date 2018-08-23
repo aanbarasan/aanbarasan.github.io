@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>withhold</Word>
+  <Definitions>
+    <Definition>
+      <Word>withhold</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Withhold \With*hold"\, v. t. [imp. {Withheld}; p. p. {Withheld},
+   Obs. or Archaic {Withholden}; p. pr. &amp; vb. n. {Withholding}.]
+   [With again, against, back + hold.]
+   [1913 Webster]
+   1. To hold back; to restrain; to keep from action.
+      [1913 Webster]
+
+            Withhold, O sovereign prince, your hasty hand
+            From knitting league with him.        --Spenser.
+      [1913 Webster]
+
+   2. To retain; to keep back; not to grant; as, to withhold
+      assent to a proposition.
+      [1913 Webster]
+
+            Forbid who will, none shall from me withhold
+            Longer thy offered good.              --Milton.
+      [1913 Webster]
+
+   3. To keep; to maintain; to retain. [Obs.]
+      [1913 Webster]
+
+            To withhold it the more easily in heart. --Chaucer.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>withhold</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>withhold
+     v 1: hold back; refuse to hand over or share; "The father is
+          withholding the allowance until the son cleans his room"
+          [syn: {keep back}]
+     2: retain and refrain from disbursing; of payments; "My
+        employer is withholding taxes" [syn: {deduct}, {recoup}]
+     [also: {withheld}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

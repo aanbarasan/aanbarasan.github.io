@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pathologically</Word>
+  <Definitions>
+    <Definition>
+      <Word>pathologically</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pathologic \Path`o*log"ic\, Pathological \Path`o*log"ic*al\, a.
+   [Gr. ?: cf. F. pathologique.]
+   1. Of or pertaining to pathology.
+      [1913 Webster]
+
+   2. (Med.) caused by or due to disease; abnormal; morbid; as,
+      pathological tissue; a pathological condition.
+      [Webster 1913 Suppl.] -- {Path`o*log"ic*al*ly}, adv.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pathologically</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pathologically
+     adv : with respect to pathology; "pathologically interesting
+           results"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>larynx</Word>
+  <Definitions>
+    <Definition>
+      <Word>larynx</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>larynx \lar"ynx\ (l[a^]r"[i^][ng]ks; 277), n. [NL. from Gr.
+   la`rygx, la`ryggos.] (Anat.)
+   The expanded upper end of the windpipe or trachea, connected
+   with the hyoid bone or cartilage. It contains the vocal
+   cords, which produce the voice by their vibrations, when they
+   are stretched and a current of air passes between them. The
+   larynx is connected with the pharynx by an opening, the
+   glottis, which, in mammals, is protected by a lidlike
+   epiglottis.
+   [1913 Webster]
+
+   Note: In the framework of the human larynx, the thyroid
+         cartilage, attached to the hyoid bone, makes the
+         protuberance on the front of the neck known as Adam's
+         apple, and is articulated below to the ringlike cricoid
+         cartilage. This is narrow in front and high behind,
+         where, within the thyroid, it is surmounted by the two
+         arytenoid cartilages, from which the vocal cords pass
+         forward to be attached together to the front of the
+         thyroid. See {Syrinx}.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>larynx</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>larynx
+     n : a cartilaginous structure at the top of the trachea;
+         contains elastic vocal cords that are the source of the
+         vocal tone in speech [syn: {voice box}]
+     [also: {larynges} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

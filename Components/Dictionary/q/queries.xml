@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>queries</Word>
+  <Definitions>
+    <Definition>
+      <Word>queries</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Query \Que"ry\, n.; pl. {Queries}. [L. quaere, imperative sing.
+   of quaerere, quaesitum to seek or search for, to ask,
+   inquire. Cf. {Acquire}, {Conquer}, {Exquisite}, {Quest},
+   {Require}.]
+   1. A question; an inquiry to be answered or solved.
+      [1913 Webster]
+
+            I shall conclude with proposing only some queries,
+            in order to a . . . search to be made by others.
+                                                  --Sir I.
+                                                  Newton.
+      [1913 Webster]
+
+   2. A question in the mind; a doubt; as, I have a query about
+      his sincerity.
+      [1913 Webster]
+
+   3. An interrogation point [?] as the sign of a question or a
+      doubt.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

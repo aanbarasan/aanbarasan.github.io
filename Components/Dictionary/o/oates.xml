@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>oates</Word>
+  <Definitions>
+    <Definition>
+      <Word>oates</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Oates
+     n 1: English conspirator who claimed that there was a Jesuit plot
+          to assassinate Charles II (1649-1705) [syn: {Titus Oates}]
+     2: United States writer (born in 1938) [syn: {Joyce Carol Oates}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

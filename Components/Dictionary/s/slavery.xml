@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>slavery</Word>
+  <Definitions>
+    <Definition>
+      <Word>slavery</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Slavery \Slav"er*y\, n.; pl. {Slaveries}. [See 2d {Slave}.]
+   1. The condition of a slave; the state of entire subjection
+      of one person to the will of another.
+      [1913 Webster]
+
+            Disguise thyself as thou wilt, still, slavery, said
+            I, still thou art a bitter draught!   --Sterne.
+      [1913 Webster]
+
+            I wish, from my soul, that the legislature of this
+            state [Virginia] could see the policy of a gradual
+            abolition of slavery. It might prevent much future
+            mischief.                             --Washington.
+      [1913 Webster]
+
+   2. A condition of subjection or submission characterized by
+      lack of freedom of action or of will.
+      [1913 Webster]
+
+            The vulgar slaveries rich men submit to. --C. Lever.
+      [1913 Webster]
+
+            There is a slavery that no legislation can abolish,
+            -- the slavery of caste.              --G. W. Cable.
+      [1913 Webster]
+
+   3. The holding of slaves.
+      [1913 Webster]
+
+   Syn: Bondage; servitude; inthrallment; enslavement;
+        captivity; bond service; vassalage.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>slavery</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>slavery
+     n 1: the state of being under the control of another person [syn:
+           {bondage}, {thrall}, {thralldom}, {thraldom}]
+     2: the practice of owning slaves [syn: {slaveholding}]
+     3: work done under harsh conditions for little or no pay
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

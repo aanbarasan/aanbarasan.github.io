@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nt</Word>
+  <Definitions>
+    <Definition>
+      <Word>nt</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>NT
+     
+        1. {Network Termination}.
+     
+        2. New Technology, as in {Windows NT}.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nt</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>NT
+     [Windows] New Technology (MS, OS, Windows)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nt</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>NT
+     Netzwerk Terminator, Network Terminator (ISDN)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nt</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>NT
+     Nome Time [-1100] (TZ)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nt</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>NT
+     n : an organization concerned to preserve historic monuments and
+         buildings and places of historical interest or natural
+         beauty; founded in 1895 and supported by endowment and
+         private subscription [syn: {National Trust}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

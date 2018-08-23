@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>li</Word>
+  <Definitions>
+    <Definition>
+      <Word>li</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>li
+     
+        &lt;networking&gt; The {country code} for Liechtenstein.
+     
+        (1999-01-27)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>li</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Li \Li\ (l[=e]), n.
+   1. A Chinese measure of distance, being a little more than
+      one third of a mile.
+      [1913 Webster]
+
+   2. A Chinese copper coin; a cash. See {Cash}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>li</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Puntello \Pun*tel"lo\, n.; pl. {-li}. [It., dim. of punto
+   point.] (Sculpture)
+   One of the points sometimes drilled as guides for cutting
+   away superfluous stone.
+   [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>li</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>LI
+     Lawful Interception (ETSI)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>li</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>li
+     adj : being one more than fifty [syn: {fifty-one}, {51}]
+     n 1: a soft silver-white univalent element of the alkali metal
+          group; the lightest metal known; occurs in several
+          minerals [syn: {lithium}, {atomic number 3}]
+     2: Chinese distance measure; approximately 0.5 kilometers
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ways</Word>
+  <Definitions>
+    <Definition>
+      <Word>ways</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>-ways \-ways\
+   A suffix formed from way by the addition of the adverbial -s
+   (see {-wards}). It is often used interchangeably with wise;
+   as, endways or endwise; noways or nowise, etc.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ways</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ways
+     n 1: the property of distance in general; "it's a long way to
+          Moscow"; "he went a long ways" [syn: {way}]
+     2: structure consisting of a sloping way down to the water from
+        the place where ships are built or repaired [syn: {shipway},
+         {slipway}]
+     adv : n is between 2 and infinity; "They split the loot four ways"
+           [syn: {n-ways}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

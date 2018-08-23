@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>utility</Word>
+  <Definitions>
+    <Definition>
+      <Word>utility</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Utility \U*til"i*ty\, n. [OE. utilite, F. utilit['e], L.
+   utilitas, fr. utilis useful. See {Utile}.]
+   [1913 Webster]
+   1. The quality or state of being useful; usefulness;
+      production of good; profitableness to some valuable end;
+      as, the utility of manure upon land; the utility of the
+      sciences; the utility of medicines.
+      [1913 Webster]
+
+            The utility of the enterprises was, however, so
+            great and obvious that all opposition proved
+            useless.                              --Macaulay.
+      [1913 Webster]
+
+   2. (Polit. Econ.) Adaptation to satisfy the desires or wants;
+      intrinsic value. See Note under {Value}, 2.
+      [1913 Webster]
+
+            Value in use is utility, and nothing else, and in
+            political economy should be called by that name and
+            no other.                             --F. A.
+                                                  Walker.
+      [1913 Webster]
+
+   3. Happiness; the greatest good, or happiness, of the
+      greatest number, -- the foundation of utilitarianism. --J.
+      S. Mill.
+      [1913 Webster]
+
+   Syn: Usefulness; advantageous; benefit; profit; avail;
+        service.
+
+   Usage: {Utility}, {Usefulness}. Usefulness has an Anglo-Saxon
+          prefix, utility is Latin; and hence the former is used
+          chiefly of things in the concrete, while the latter is
+          employed more in a general and abstract sense. Thus,
+          we speak of the utility of an invention, and the
+          usefulness of the thing invented; of the utility of an
+          institution, and the usefulness of an individual. So
+          beauty and utility (not usefulness) are brought into
+          comparison. Still, the words are often used
+          interchangeably.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>utility</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>utility
+     adj 1: used of beef; usable but inferior [syn: {utility(a)}, {utility-grade}]
+     2: capable of substituting in any of several positions on a
+        team; "a utility infielder" [syn: {utility(a)}, {substitute(a)}]
+     n 1: a company that performs a public service; subject to
+          government regulation [syn: {public utility}, {public-service
+          corporation}]
+     2: the quality of being of practical use [syn: {usefulness}]
+        [ant: {inutility}, {inutility}]
+     3: the service provided by a utility company; "the cost of
+        utilities never decreases"
+     4: (economics) a measure that is to be maximized in any
+        situation involving choice
+     5: (computer science) a program designed for general support of
+        the processes of a computer; "a computer system provides
+        utility programs to perform the tasks needed by most
+        users" [syn: {utility program}, {service program}]
+     6: a facility composed of one or more pieces of equipment
+        connected to or part of a structure and designed to
+        provide a service such as heat or electricity or water or
+        sewage disposal; "the price of the house included all
+        utilities"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

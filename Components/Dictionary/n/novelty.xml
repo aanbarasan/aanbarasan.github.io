@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>novelty</Word>
+  <Definitions>
+    <Definition>
+      <Word>novelty</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Novelty, MO (town, FIPS 53516)
+  Location: 40.01257 N, 92.20743 W
+  Population (1990): 143 (71 housing units)
+  Area: 0.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 63460
+Novelty, OH
+  Zip code(s): 44072
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>novelty</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Novelty \Nov"el*ty\, n.; pl. {Novelties}. [OF. novelt['e], F.
+   nouveaut['e], L. novellitas.]
+   1. The quality or state of being novel; newness; freshness;
+      recentness of origin or introduction.
+      [1913 Webster]
+
+            Novelty is the great parent of pleasure. --South.
+      [1913 Webster]
+
+   2. Something novel; a new or strange thing.
+      [1913 Webster]
+
+   3. A small mass-produced article of little value; a
+      knickknack.
+
+   Syn: knickknack.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>novelty</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>novelty
+     n 1: originality by virtue of being refreshingly novel [syn: {freshness}]
+     2: originality by virtue of being new and surprising [syn: {freshness}]
+     3: a small inexpensive mass-produced article [syn: {knickknack}]
+     4: cheap showy jewelry or ornament on clothing [syn: {bangle},
+        {bauble}, {gaud}, {gewgaw}, {fallal}, {trinket}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>typo</Word>
+  <Definitions>
+    <Definition>
+      <Word>typo</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>typo
+     
+        {typographical error}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>typo</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Typo \Ty"po\, n. [An abbreviation of typographer.]
+   A compositor. [Colloq.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>typo</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Typo \Ty"po\, n. [An abbreviation of typographical error.]
+   a typographical error; an error in typing, printing, etc.
+   [Colloq.]
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>typo</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>typo
+     n : a mistake in printed matter resulting from mechanical
+         failures of some kind [syn: {misprint}, {erratum}, {typographical
+         error}, {literal error}, {literal}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

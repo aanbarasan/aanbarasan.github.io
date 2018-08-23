@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>vet</Word>
+  <Definitions>
+    <Definition>
+      <Word>vet</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>vet
+     n 1: a doctor who practices veterinary medicine [syn: {veterinarian},
+           {veterinary}, {veterinary surgeon}]
+     2: a person who has served in the armed forces [syn: {veteran},
+         {ex-serviceman}]
+     v 1: work as a veterinarian; "She vetted for the farms in the
+          area for many years"
+     2: examine carefully; "Someone should vet this report before it
+        goes out"
+     3: provide (a person) with medical care
+     4: provide veterinary care for
+     [also: {vetting}, {vetted}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

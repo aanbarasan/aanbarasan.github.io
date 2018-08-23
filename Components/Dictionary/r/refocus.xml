@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>refocus</Word>
+  <Definitions>
+    <Definition>
+      <Word>refocus</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>refocus
+     v 1: focus anew
+     2: focus anew; "The group needs to refocus its goals"
+     3: put again into focus or focus more sharply; "refocus the
+        image until it is very sharp"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

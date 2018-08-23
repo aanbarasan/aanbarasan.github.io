@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>procreate</Word>
+  <Definitions>
+    <Definition>
+      <Word>procreate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Procreate \Pro"cre*ate\, v. t. [imp. &amp; p. p. {Procreated}; p.
+   pr. &amp; vb. n. {Procreating}.] [L. procreatus, p. p. of
+   procreare; pro forward, forth + create to create.]
+   To generate and produce; to beget; to engender.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>procreate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>procreate
+     v : have offspring or young; "The deer in our neighborhood
+         reproduce madly"; "The Catholic Church tells people to
+         procreate, no matter what their economic situation may
+         be" [syn: {reproduce}, {multiply}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

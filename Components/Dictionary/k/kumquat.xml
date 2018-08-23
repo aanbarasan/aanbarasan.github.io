@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>kumquat</Word>
+  <Definitions>
+    <Definition>
+      <Word>kumquat</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>kumquat \kum"quat\, n. [Chin. kin keu.] (Bot.)
+   any of several trees or shrubs of the genus {Fortunella}
+   (formerly {Citrus}) of the rue family ({Rutaceae})
+   (especially {Citrus Japonica}) growing in China and Japan
+   bearing small orange-colored edible fruits with thick
+   sweet-flavored skin and sour pulp; also, any of the small
+   acid, orange-colored citrus fruits of such plants, used
+   mostly for preserves. [Also spelled {cumquat}.]
+   [1913 Webster + WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>kumquat</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>kumquat
+     n 1: any of several trees or shrubs of the genus Fortunella
+          bearing small orange-colored edible fruits with thick
+          sweet-flavored skin and sour pulp [syn: {cumquat}, {kumquat
+          tree}]
+     2: small oval citrus fruit with thin sweet rind and very acid
+        pulp
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

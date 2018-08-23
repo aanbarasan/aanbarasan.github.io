@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tense</Word>
+  <Definitions>
+    <Definition>
+      <Word>tense</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>tense
+     
+        Of programs, very clever and efficient.  A tense piece of code
+        often got that way because it was highly {bum}med, but
+        sometimes it was just based on a great idea.  A comment in a
+        clever routine by Mike Kazar, once a grad-student hacker at
+        CMU: "This routine is so tense it will bring tears to your
+        eyes."  A tense programmer is one who produces tense code.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tense</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tense \Tense\, n. [OF. tens, properly, time, F. temps time,
+   tense. See {Temporal} of time, and cf. {Thing}.] (Gram.)
+   One of the forms which a verb takes by inflection or by
+   adding auxiliary words, so as to indicate the time of the
+   action or event signified; the modification which verbs
+   undergo for the indication of time.
+   [1913 Webster]
+
+   Note: The primary simple tenses are three: those which
+         express time past, present, and future; but these admit
+         of modifications, which differ in different languages.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tense</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tense \Tense\, a. [L. tensus, p. p. of tendere to stretch. See
+   {Tend} to move, and cf. {Toise}.]
+   Stretched tightly; strained to stiffness; rigid; not lax; as,
+   a tense fiber.
+   [1913 Webster]
+
+         The temples were sunk, her forehead was tense, and a
+         fatal paleness was upon her.             --Goldsmith.
+   [1913 Webster] -- {Tense"ly}, adv. -- {Tense"ness}, n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tense</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>tense adj. Of programs, very clever and efficient. A tense piece of
+   code often got that way because it was highly {bum}med, but sometimes it
+   was just based on a great idea. A comment in a clever routine by Mike
+   Kazar, once a grad-student hacker at CMU: "This routine is so tense it
+   will bring tears to your eyes." A tense programmer is one who produces
+   tense code.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tense</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tense
+     adj 1: in or of a state of physical or nervous tension [ant: {relaxed}]
+     2: pronounced with relatively tense tongue muscles (e.g., the
+        vowel sound in `beat') [ant: {lax}]
+     3: taut or rigid; stretched tight; "tense piano strings" [ant:
+        {lax}]
+     n : a grammatical category of verbs used to express distinctions
+         of time
+     v 1: stretch or force to the limit; "strain the rope" [syn: {strain}]
+     2: increase the tension on; "tense a rope"
+     3: become tense or tenser; "He tensed up when he saw his
+        opponent enter the room" [syn: {tense up}] [ant: {relax}]
+     4: make tense and uneasy or nervous or anxious; [syn: {strain},
+         {tense up}] [ant: {relax}, {relax}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rogue</Word>
+  <Definitions>
+    <Definition>
+      <Word>rogue</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>rogue
+     
+        &lt;games&gt; [Unix] A Dungeons-and-Dragons-like game using
+        character graphics, written under BSD Unix and subsequently
+        ported to other Unix systems.  The original BSD "curses(3)"
+        screen-handling package was hacked together by Ken Arnold to
+        support "rogue(6)" and has since become one of Unix's most
+        important and heavily used application libraries.  Nethack,
+        Omega, Larn, and an entire subgenre of computer dungeon games
+        all took off from the inspiration provided by "rogue(6)".  See
+        also {nethack}.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rogue</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rogue \Rogue\, n. [F. rogue proud, haughty, supercilious; cf.
+   Icel. hr?kr a rook, croaker (cf. {Rook} a bird), or Armor.
+   rok, rog, proud, arogant.]
+   1. (Eng.Law) A vagrant; an idle, sturdy beggar; a vagabond; a
+      tramp.
+      [1913 Webster]
+
+   Note: The phrase rogues and vagabonds is applied to a large
+         class of wandering, disorderly, or dissolute persons.
+         They were formerly punished by being whipped and having
+         the gristle of the right ear bored with a hot iron.
+         [1913 Webster]
+
+   2. A deliberately dishonest person; a knave; a cheat.
+      [1913 Webster]
+
+            The rogue and fool by fits is fair and wise. --Pope.
+      [1913 Webster]
+
+   3. One who is pleasantly mischievous or frolicsome; hence,
+      often used as a term of endearment.
+      [1913 Webster]
+
+            Ah, you sweet little rogue, you!      --Shak.
+      [1913 Webster]
+
+   4. An elephant that has separated from a herd and roams about
+      alone, in which state it is very savage.
+      [1913 Webster]
+
+   5. (Hort.) A worthless plant occuring among seedlings of some
+      choice variety.
+      [1913 Webster]
+
+   {Rogues' gallery}, a collection of portraits of rogues or
+      criminals, for the use of the police authorities.
+
+   {Rogue's march}, derisive music performed in driving away a
+      person under popular indignation or official sentence, as
+      when a soldier is drummed out of a regiment.
+
+   {Rogue's yarn}, yarn of a different twist and color from the
+      rest, inserted into the cordage of the British navy, to
+      identify it if stolen, or for the purpose of tracing the
+      maker in case of defect. Different makers are required to
+      use yarns of different colors.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rogue</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rogue \Rogue\, v. i.
+   To wander; to play the vagabond; to play knavish tricks.
+   [Obs.] --Spenser.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rogue</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rogue \Rogue\, v. t.
+   1. To give the name or designation of rogue to; to decry.
+      [Obs.] --Cudworth.
+      [1913 Webster]
+
+   2. (Hort.) To destroy (plants that do not come up to a
+      required standard).
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rogue</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>rogue 1. [Unix] n. A Dungeons-and-Dragons-like game using character
+   graphics, written under BSD Unix and subsequently ported to other Unix
+   systems. The original BSD `curses(3)' screen-handling package was hacked
+   together by Ken Arnold primarily to support games, and the development
+   of `rogue(6)' popularized its use; it has since become one of Unix's
+   most important and heavily used application libraries. Nethack, Omega,
+   Larn, Angband, and an entire subgenre of computer dungeon games (all
+   known as `roguelikes') all took off from the inspiration provided by
+   `rogue(6)'; the popular Windows game Diablo, though graphics-intensive,
+   has very similar play logic. See also {nethack}, {moria}, {Angband}. 2.
+   [Usenet] adj. An {ISP} which permits net abuse (usually in the form of
+   {spam}ming) by its customers, or which itself engages in such
+   activities. Rogue ISPs are sometimes subject to {IDP}s or {UDP}s.
+   Sometimes deliberately misspelled as "rouge".
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rogue</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rogue
+     n : a deceitful and unreliable scoundrel [syn: {knave}, {rascal},
+          {rapscallion}, {scalawag}, {scallywag}, {varlet}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

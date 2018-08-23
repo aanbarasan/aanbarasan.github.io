@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ricardo</Word>
+  <Definitions>
+    <Definition>
+      <Word>ricardo</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Ricardo
+     n : English economist who argued that the laws of supply and
+         demand should operate in a free market (1772-1823) [syn:
+         {David Ricardo}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

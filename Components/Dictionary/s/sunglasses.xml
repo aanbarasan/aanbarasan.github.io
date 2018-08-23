@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sunglasses</Word>
+  <Definitions>
+    <Definition>
+      <Word>sunglasses</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sunglass \Sun"glass`\, n.; pl. {Sunglasses}.
+   A convex lens of glass for producing heat by converging the
+   sun's rays into a focus. ``Lighting a cigar with a
+   sunglass.'' --Hawthorne.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sunglasses</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sunglasses
+     n : spectacles that are darkened or polarized to protect the
+         eyes from the glare of the sun; "he was wearing a pair of
+         mirrored shades" [syn: {dark glasses}, {shades}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

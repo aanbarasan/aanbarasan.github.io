@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>vantage</Word>
+  <Definitions>
+    <Definition>
+      <Word>vantage</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Vantage \Van"tage\, v. t.
+   To profit; to aid. [Obs.] --Spenser.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>vantage</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Vantage \Van"tage\ (v[.a]n"t[asl]j; 48), n. [Aphetic form of OE.
+   avantage, fr. F. avantage. See {Advantage}.]
+   [1913 Webster]
+   1. superior or more favorable situation or opportunity; gain;
+      profit; advantage. [R.]
+      [1913 Webster]
+
+            O happy vantage of a kneeling knee!   --Shak.
+      [1913 Webster]
+
+   2. (Lawn Tennis) The first point after deuce.
+      [1913 Webster]
+
+   Note: When the server wins this point, it is called vantage
+         in; when the receiver, or striker out, wins, it is
+         called vantage out.
+         [1913 Webster]
+
+   {To have at vantage}, to have the advantage of; to be in a
+      more favorable condition than. ``He had them at vantage,
+      being tired and harassed with a long march.'' --Bacon.
+
+   {Vantage ground}, superiority of state or place; the place or
+      condition which gives one an advantage over another. ``The
+      vantage ground of truth. --Bacon.
+      [1913 Webster]
+
+            It is these things that give him his actual
+            standing, and it is from this vantage ground that he
+            looks around him.                     --I. Taylor.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>vantage</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>vantage
+     n 1: place or situation affording some advantage (especially a
+          comprehensive view or commanding perspective)
+     2: the quality of having a superior or more favorable position;
+        "the experience gave him the advantage over me" [syn: {advantage}]
+        [ant: {disadvantage}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

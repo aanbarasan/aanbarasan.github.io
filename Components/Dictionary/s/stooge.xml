@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>stooge</Word>
+  <Definitions>
+    <Definition>
+      <Word>stooge</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>stooge
+     n 1: a person of unquestioning obedience [syn: {flunky}, {flunkey},
+           {yes-man}]
+     2: a victim of ridicule or pranks [syn: {butt}, {goat}, {laughingstock}]
+     v 1: cruise in slow or routine flights
+     2: act as the stooge; "His role was to stooge for the popular
+        comedian"
+     3: act as a stooge, in a compliant or subordinate manner; "He
+        stooged for the flamboyant Senator"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

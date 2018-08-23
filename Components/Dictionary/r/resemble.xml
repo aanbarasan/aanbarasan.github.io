@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>resemble</Word>
+  <Definitions>
+    <Definition>
+      <Word>resemble</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Resemble \Re*sem"ble\ (r?-z?m"b'l), v. t. [imp. &amp; p. p.
+   {Resembled} (-b'ld); p. pr. &amp; vb. n. {Resembling} (-bl?ng).]
+   [F. ressembler; pref. re- re- + sembler to seem, resemble,
+   fr. L. similare, simulare, to imitate, fr. similis like,
+   similar. See {Similar}.]
+   1. To be like or similar to; to bear the similitude of,
+      either in appearance or qualities; as, these brothers
+      resemble each other.
+      [1913 Webster]
+
+            We will resemble you in that.         --Shak.
+      [1913 Webster]
+
+   2. To liken; to compare; to represent as like. [Obs.]
+      [1913 Webster]
+
+            The other . . .
+            He did resemble to his lady bright.   --Spenser.
+      [1913 Webster]
+
+   3. To counterfeit; to imitate. [Obs.] ``They can so well
+      resemble man's speech.'' --Holland.
+      [1913 Webster]
+
+   4. To cause to imitate or be like. [R.] --H. Bushnell.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>resemble</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>resemble
+     v : appear like; be similar or bear a likeness to; "She
+         resembles her mother very much"; "This paper resembles my
+         own work"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

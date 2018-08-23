@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nomenclature</Word>
+  <Definitions>
+    <Definition>
+      <Word>nomenclature</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Nomenclature \No"men*cla`ture\, n. [L. nomenclatura: cf. F.
+   nomenclature. See {Nomenclator}.]
+   1. A name. [Obs.] --Bacon.
+      [1913 Webster]
+
+   2. A vocabulary, dictionary, or glossary. [R.]
+      [1913 Webster]
+
+   3. The technical names used in any particular branch of
+      science or art, or by any school or individual; as, the
+      nomenclature of botany or of chemistry; the nomenclature
+      of Lavoisier and his associates.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nomenclature</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nomenclature
+     n : a system of words used in a particular discipline; "legal
+         terminology"; "the language of sociology" [syn: {terminology},
+          {language}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tigers</Word>
+  <Definitions>
+    <Definition>
+      <Word>tigers</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Tigers
+     n : a terrorist organization in Sri Lanka that began in 1970 as
+         a student protest over the limited university access for
+         Tamil students; currently seeks to establish an
+         independent Tamil state called Eelam; relies on guerilla
+         strategy including terrorist tactics that target key
+         government and military personnel; "the Tamil Tigers
+         perfected suicide bombing as a weapon of war" [syn: {Liberation
+         Tigers of Tamil Eelam}, {LTTE}, {Tamil Tigers}, {World
+         Tamil Association}, {World Tamil Movement}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

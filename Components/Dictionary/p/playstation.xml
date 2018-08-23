@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>playstation</Word>
+  <Definitions>
+    <Definition>
+      <Word>playstation</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Playstation
+     
+        &lt;games, hardware&gt; The leading family of {games consoles}, from
+        {Sony Corporation} consisting of the original Playstation
+        (PS1) and the Playstation 2 (PS2).
+     
+        The basic Playstations consist of a small box containing the
+        processor and a {DVD} reader, with video outputs to connect to
+        a TV, sockets for two game controllers, and a socket for one
+        or two memory cards.  The PS2 also has {USB} sockets.
+     
+        The PS2 can run PS1 software because the PS2's I/O processor
+        is the same as the PS1's CPU.
+     
+        {Home (http://www.scea.sony.com/playstation/)}.
+     
+        {FAQ
+        (http://www.flex.net/users/cjayc/vgfa/system/sony_psx.txt)}.
+     
+        [Dates?  Features?]
+     
+        (2003-07-29)
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>jeopardize</Word>
+  <Definitions>
+    <Definition>
+      <Word>jeopardize</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>jeopardize \jeop"ard*ize\, v. t. [imp. &amp; p. p. {Jeopardized}; p.
+   pr. &amp; vb. n. {Jeopardizing}.]
+   To expose to loss or injury; to risk.
+
+   Syn: jeopard.
+        [1913 Webster]
+
+              That he should jeopardize his willful head
+              Only for spite at me.               --H. Taylor.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>jeopardize</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>jeopardize
+     v 1: pose a threat to; present a danger to; "The pollution is
+          endangering the crops" [syn: {endanger}, {jeopardise}, {menace},
+           {threaten}, {imperil}, {peril}]
+     2: put at risk; "I will stake my good reputation for this"
+        [syn: {venture}, {hazard}, {adventure}, {stake}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

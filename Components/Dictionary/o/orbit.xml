@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>orbit</Word>
+  <Definitions>
+    <Definition>
+      <Word>orbit</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Orbit
+     
+        A {Scheme} compiler.
+     
+        ["Orbit: An Optimising Compiler for Scheme", D.A. Kranz et al,
+        SIGPLAN Notices 21(7):281-292 (Jul 1986)].
+     
+        (1994-10-28)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>orbit</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Orbit \Or"bit\, n. [L. orbita a track or rut made by a wheel,
+   course, circuit, fr. orbis a circle: cf. F. orbite. See 2d
+   {Orb}.]
+   1. (Astron.) The path described by a heavenly body in its
+      periodical revolution around another body; as, the orbit
+      of Jupiter, of the earth, of the moon.
+      [1913 Webster]
+
+   2. An orb or ball. [Rare &amp; Improper]
+      [1913 Webster]
+
+            Roll the lucid orbit of an eye.       --Young.
+      [1913 Webster]
+
+   3. (Anat.) The cavity or socket of the skull in which the eye
+      and its appendages are situated.
+      [1913 Webster]
+
+   4. (Zo["o]l.) The skin which surrounds the eye of a bird.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>orbit</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>orbit
+     n 1: the (usually elliptical) path described by one celestial
+          body in its revolution about another; "he plotted the
+          orbit of the moon" [syn: {celestial orbit}]
+     2: a particular environment or walk of life; "his social sphere
+        is limited"; "it was a closed area of employment"; "he's
+        out of my orbit" [syn: {sphere}, {domain}, {area}, {field},
+         {arena}]
+     3: an area in which something acts or operates or has power or
+        control: "the range of a supersonic jet"; "the ambit of
+        municipal legislation"; "within the compass of this
+        article"; "within the scope of an investigation"; "outside
+        the reach of the law"; "in the political orbit of a world
+        power" [syn: {scope}, {range}, {reach}, {compass}, {ambit}]
+     4: the path of an electron around the nucleus of an atom [syn:
+        {electron orbit}]
+     5: the bony cavity in the skull containing the eyeball [syn: {eye
+        socket}, {cranial orbit}, {orbital cavity}]
+     v : move in an orbit; "The moon orbits around the Earth"; "The
+         planets are orbiting the sun"; "electrons orbit the
+         nucleus" [syn: {revolve}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

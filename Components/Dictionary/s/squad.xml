@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>squad</Word>
+  <Definitions>
+    <Definition>
+      <Word>squad</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Squad \Squad\ (skw[o^]d), n. [F. escouade, fr. Sp. escuadra, or
+   It. squadra, (assumed) LL. exquadrare to square; L. ex +
+   quadra a square. See {Square}.]
+   1. (Mil.) A small party of men assembled for drill,
+      inspection, or other purposes.
+      [1913 Webster]
+
+   2. Hence, any small party.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>squad</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Squad \Squad\, n.
+   Sloppy mud. [Prov. Eng.] --Tennyson.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>squad</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>squad
+     n 1: a smallest army unit
+     2: a cooperative unit [syn: {team}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

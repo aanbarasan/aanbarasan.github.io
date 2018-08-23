@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>wichita</Word>
+  <Definitions>
+    <Definition>
+      <Word>wichita</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Wichita, KS (city, FIPS 79000)
+  Location: 37.68735 N, 97.34267 W
+  Population (1990): 304011 (135069 housing units)
+  Area: 298.2 sq km (land), 5.8 sq km (water)
+  Zip code(s): 67202, 67203, 67204, 67205, 67208, 67209, 67210, 67211, 67212, 67213, 67214, 67215, 67216, 67217, 67218, 67223, 67226, 67227, 67228, 67230, 67231, 67232, 67233, 67235, 67236
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wichita</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Wichitas \Wich"i*tas\ (w[i^]ch"[i^]*t[add]z), prop. n. pl.;
+   sing. {Wichita} (w[i^]ch"[i^]*t[add]). (Ethnol.)
+   A tribe of Indians native of the region between the Arkansas
+   and Red rivers. They are related to the Pawnees. See
+   {Pawnees}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wichita</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Wichita
+     n 1: a member of the Caddo people formerly living between Kansas
+          and central Texas
+     2: the largest city in Kansas; located in southern Kansas on
+        the Arkansas River
+     3: the Caddoan language spoken by the Wichita people
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

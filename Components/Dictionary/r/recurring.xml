@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>recurring</Word>
+  <Definitions>
+    <Definition>
+      <Word>recurring</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Recur \Re*cur"\ (r?*k?r"), v. i. [imp. &amp; p. p. {Recurred}
+   (-k?rd"); p. pr. &amp; vb. n. {Recurring}.] [L. recurrere; pref.
+   re- re- + currere to run. See {Current}.]
+   1. To come back; to return again or repeatedly; to come again
+      to mind.
+      [1913 Webster]
+
+            When any word has been used to signify an idea, the
+            old idea will recur in the mind when the word is
+            heard.                                --I. Watts.
+      [1913 Webster]
+
+   2. To occur at a stated interval, or according to some
+      regular rule; as, the fever will recur to-night.
+      [1913 Webster]
+
+   3. To resort; to have recourse; to go for help.
+      [1913 Webster]
+
+            If, to avoid succession in eternal existence, they
+            recur to the ``punctum stans'' of the schools, they
+            will thereby very little help us to a more positive
+            idea of infinite duration.            --Locke.
+      [1913 Webster]
+
+   {Recurring decimal} (Math.), a circulating decimal. See under
+      {Decimal}.
+
+   {Recurring series} (Math.), an algebraic series in which the
+      coefficients of the several terms can be expressed by
+      means of certain preceding coefficients and constants in
+      one uniform manner.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>recurring</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>recurring
+     adj : coming back; "a revenant ghost" [syn: {revenant}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>recurring</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>recur
+     v 1: happen or occur again; "This is a recurring story" [syn: {repeat}]
+     2: return in thought or speech to something [syn: {go back}]
+     3: have recourse to; "The government resorted to rationing
+        meat" [syn: {fall back}, {resort}]
+     [also: {recurring}, {recurred}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>recurring</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>recurring
+     See {recur}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

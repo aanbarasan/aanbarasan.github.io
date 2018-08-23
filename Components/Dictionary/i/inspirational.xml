@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>inspirational</Word>
+  <Definitions>
+    <Definition>
+      <Word>inspirational</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Inspirational \In`spi*ra"tion*al\, a.
+   1. Pertaining to inspiration.
+      [1913 Webster]
+
+   2. Imparting inspiration[2]; as, an inspirational sermon.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>inspirational</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>inspirational
+     adj : imparting a divine influence on the mind and soul
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

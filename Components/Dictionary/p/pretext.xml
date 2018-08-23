@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pretext</Word>
+  <Definitions>
+    <Definition>
+      <Word>pretext</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pretext \Pre"text\ (?; 277), n. [F. pr['e]texte, L. praetextum,
+   fr. praetextus, p. p. of praetexere to weave before, allege
+   as an excuse; prae before + texere to weave. See {Text}.]
+   Ostensible reason or motive assigned or assumed as a color or
+   cover for the real reason or motive; pretense; disguise.
+   [1913 Webster]
+
+         They suck the blood of those they depend on, under a
+         pretext of service and kindness.         --L'Estrange.
+   [1913 Webster]
+
+         With how much or how little pretext of reason. --Dr. H.
+                                                  More.
+   [1913 Webster]
+
+   Syn: Pretense; excuse; semblance; disguise; appearance. See
+        {Pretense}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pretext</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pretext
+     n 1: something serving to conceal plans; a fictitious reason that
+          is concocted in order to conceal the real reason [syn: {stalking-horse}]
+     2: an artful or simulated semblance; "under the guise of
+        friendship he betrayed them" [syn: {guise}, {pretense}, {pretence}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

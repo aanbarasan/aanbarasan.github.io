@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>orthopedic</Word>
+  <Definitions>
+    <Definition>
+      <Word>orthopedic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Orthopedic \Or`tho*ped"ic\, Orthopedical \Or`tho*ped"ic*al\, a.
+   (Med.)
+   Of, pertaining to, or employed in, orthopedics; relating to
+   the prevention or cure of deformities of children, or, in
+   general, of the human body at any age; as, orthopedic
+   surgery; an orthopedic hospital.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>orthopedic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>orthopedic
+     adj : of or relating to or employed in orthopedics; "orthopedic
+           shoes" [syn: {orthopaedic}, {orthopedical}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

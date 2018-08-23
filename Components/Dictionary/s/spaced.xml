@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>spaced</Word>
+  <Definitions>
+    <Definition>
+      <Word>spaced</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Space \Space\, v. t. [imp. &amp; p. p. {Spaced}; p. pr. &amp; vb. n.
+   {Spacong}.] [Cf. F. espacer. See {Space}, n.] (Print.)
+   To arrange or adjust the spaces in or between; as, to space
+   words, lines, or letters.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>spaced</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>spaced
+     adj 1: spaced apart [syn: {separated}]
+     2: arranged with spaces between; often used as a combining
+        form; "widely spaced eyes" [ant: {unspaced}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

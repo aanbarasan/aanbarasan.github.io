@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sanctity</Word>
+  <Definitions>
+    <Definition>
+      <Word>sanctity</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sanctity \Sanc"ti*ty\, n.; pl. {Sanctities}. [L. sanctitas, from
+   sanctus holy. See {Saint}.]
+   1. The state or quality of being sacred or holy; holiness;
+      saintliness; moral purity; godliness.
+      [1913 Webster]
+
+            To sanctity she made no pretense, and, indeed,
+            narrowly escaped the imputation of irreligion.
+                                                  --Macaulay.
+      [1913 Webster]
+
+   2. Sacredness; solemnity; inviolability; religious binding
+      force; as, the sanctity of an oath.
+      [1913 Webster]
+
+   3. A saint or holy being. [R.]
+      [1913 Webster]
+
+            About him all the sanctities of heaven. --Milton.
+      [1913 Webster]
+
+   Syn: Holiness; godliness; piety; devotion; goodness; purity;
+        religiousness; sacredness; solemnity. See the Note under
+        {Religion}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sanctity</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sanctity
+     n : the quality of being holy [syn: {holiness}] [ant: {unholiness}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

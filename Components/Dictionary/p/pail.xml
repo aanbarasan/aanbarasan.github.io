@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pail</Word>
+  <Definitions>
+    <Definition>
+      <Word>pail</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pail \Pail\ (p[=a]l), n. [OE. paile, AS. p[ae]gel a wine vessel,
+   a pail, akin to D. &amp; G. pegel a watermark, a gauge rod, a
+   measure of wine, Dan. p[ae]gel half a pint.]
+   A vessel of wood or tin, etc., usually cylindrical and having
+   a bail, -- used esp. for carrying liquids, as water or milk,
+   etc.; a bucket. It may, or may not, have a cover. --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pail</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pail
+     n 1: a roughly cylindrical that is vessel open at the top [syn: {bucket}]
+     2: the quantity contained in a pail [syn: {pailful}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

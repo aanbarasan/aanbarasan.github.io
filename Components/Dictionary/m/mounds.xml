@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mounds</Word>
+  <Definitions>
+    <Definition>
+      <Word>mounds</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Mounds, IL (city, FIPS 50777)
+  Location: 37.11484 N, 89.20125 W
+  Population (1990): 1407 (568 housing units)
+  Area: 3.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 62964
+Mounds, OK (town, FIPS 49550)
+  Location: 35.87466 N, 96.05973 W
+  Population (1990): 980 (428 housing units)
+  Area: 2.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 74047
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

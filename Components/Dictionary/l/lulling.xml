@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lulling</Word>
+  <Definitions>
+    <Definition>
+      <Word>lulling</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lull \Lull\ (l[u^]l), v. t. [imp. &amp; p. p. {Lulled} (l[u^]ld); p.
+   pr. &amp; vb. n. {Lulling}.] [Akin to OD. lullen to sing to
+   sleep, G. lullen, Dan. lulle, Sw. lulla; all of imitative
+   origin. Cf. {Loll}, {Lollard}.]
+   To cause to rest by soothing influences; to compose; to calm;
+   to soothe; to quiet. `` To lull him soft asleep.'' --Spenser.
+   [1913 Webster]
+
+         Such sweet compulsion doth in music lie,
+         To lull the daughters of necessity.      --Milton.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lulling</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>lulling
+     adj : causing to become tranquil [syn: {calming}, {quietening}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

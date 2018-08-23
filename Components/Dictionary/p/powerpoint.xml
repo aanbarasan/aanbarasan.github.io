@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>powerpoint</Word>
+  <Definitions>
+    <Definition>
+      <Word>powerpoint</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Powerpoint
+     
+        &lt;graphics, tool&gt; A {Microsoft} application for creating
+        presentations, speeches, slides, etc.
+     
+        (1996-08-26)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>powerpoint</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>power point
+     n : a wall socket [syn: {point}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

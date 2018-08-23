@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>technical</Word>
+  <Definitions>
+    <Definition>
+      <Word>technical</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Technical \Tech"nic*al\, a. [Gr. ?, fr. ? an art, probably from
+   the same root as ?, ?, to bring forth, produce, and perhaps
+   akin to E. text: cf. F. technique.]
+   Of or pertaining to the useful or mechanic arts, or to any
+   science, business, or the like; specially appropriate to any
+   art, science, or business; as, the words of an indictment
+   must be technical. --Blackstone.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>technical</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>technical
+     adj 1: of or relating to technique; "technical innovation in recent
+            novels"; "technical details"
+     2: characterizing or showing skill in or specialized knowledge
+        of applied arts and sciences; "a technical problem";
+        "highly technical matters hardly suitable for the general
+        public"; "a technical report"; "producing the A-bomb was a
+        challenge to the technical people of this country";
+        "technical training"; "technical language" [ant: {nontechnical}]
+     3: of or relating to proficiency in a practical skill; "no
+        amount of technical skill and craftsmanship can take the
+        place of vital interest"- John Dewey
+     4: of or relating to a practical subject that is organized
+        according to scientific principles; "technical college";
+        "technological development" [syn: {technological}]
+     5: resulting from or dependent on market factors rather than
+        fundamental economic considerations; "analysts content
+        that the stock market is due for a technical rally"; "the
+        fall is only a technical correction"
+     6: of production of chemicals for commercial purposes
+        especially on a large scale; "technical (or commercial)
+        sulfuric acid"
+     n 1: a pickup truck with a gun mounted on it
+     2: (basketball) a foul that that can be assessed on a player or
+        a coach or a team for unsportsmanlike conduct; does not
+        usually involve physical contact during play [syn: {technical
+        foul}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

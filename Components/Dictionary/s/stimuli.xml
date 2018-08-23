@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>stimuli</Word>
+  <Definitions>
+    <Definition>
+      <Word>stimuli</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Stimulus \Stim"u*lus\, n.; pl. {Stimuli}. [L., for stigmulus,
+   akin to L. instigare to stimulate. See {Instigare}, {Stick},
+   v. t.]
+   1. A goad; hence, something that rouses the mind or spirits;
+      an incentive; as, the hope of gain is a powerful stimulus
+      to labor and action.
+      [1913 Webster]
+
+   2. That which excites or produces a temporary increase of
+      vital action, either in the whole organism or in any of
+      its parts; especially (Physiol.), any substance or agent
+      capable of evoking the activity of a nerve or irritable
+      muscle, or capable of producing an impression upon a
+      sensory organ or more particularly upon its specific end
+      organ.
+      [1913 Webster]
+
+   Note: Of the stimuli applied to the sensory apparatus,
+         physiologists distinguish two kinds: (a) {Homologous
+         stimuli}, which act only upon the end organ, and for
+         whose action the sense organs are especially adapted,
+         as the rods and cones of the retina for the vibrations
+         of the either. (b) {Heterologous stimuli}, which are
+         mechanical, chemical, electrical, etc., and act upon
+         the nervous elements of the sensory apparatus along
+         their entire course, producing, for example, the flash
+         of light beheld when the eye is struck. --Landois &amp;
+         Stirling.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stimuli</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>stimulus
+     n : any stimulating information or event; acts to arouse action
+         [syn: {stimulation}, {stimulant}, {input}]
+     [also: {stimuli} (pl)]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stimuli</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>stimuli
+     See {stimulus}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

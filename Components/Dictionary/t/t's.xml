@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>t's</Word>
+  <Definitions>
+    <Definition>
+      <Word>t's</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>TS
+     
+        Typed Smalltalk.
+     
+        A {Smalltalk} by Ralph Johnson &lt;johnson@speedy.cs.uiuc.edu&gt; of
+        the {University of Illinois}.
+     
+        ["TS: An Optimising Compiler for Smalltalk", R.E. Johnson et
+        al, SIGPLAN Notices 23(11) (Nov 1988)].
+     
+        (1995-01-12)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>t's</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>TS
+     Time Stamp
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>t's</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>TS
+     Time Slot
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>t's</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>TS
+     Transport Stream
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>t's</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>TS
+     Traffic Shaping
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>t's</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>TS
+     TriState (IC)
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

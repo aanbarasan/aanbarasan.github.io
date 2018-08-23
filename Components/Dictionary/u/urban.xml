@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>urban</Word>
+  <Definitions>
+    <Definition>
+      <Word>urban</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Urban \Ur"ban\, a. [L. urbanus belonging to the ?ity or town,
+   refined, polished, fr. urbs, urbis, a city: cf. F. urbain.
+   Cf. {Urbane}.]
+   [1913 Webster]
+   1. Of or belonging to a city or town; as, an urban
+      population.
+      [1913 Webster]
+
+   2. Belonging to, or suiting, those living in a city;
+      cultivated; polite; urbane; as, urban manners.
+      [1913 Webster]
+
+   {Urban servitude}. See {Predial servitude}, under
+      {Servitude}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>urban</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>urban
+     adj 1: relating to or concerned with a city or densely populated
+            area; "urban sociology"; "urban development"
+     2: located in or characteristic of a city or city life; "urban
+        property owners"; "urban affairs"; "urban manners" [ant: {rural}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

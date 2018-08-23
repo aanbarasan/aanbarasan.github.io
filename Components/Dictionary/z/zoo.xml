@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>zoo</Word>
+  <Definitions>
+    <Definition>
+      <Word>zoo</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Zoo
+     
+        {Berkeley Yacc}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>zoo</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>zoo
+     
+        &lt;tool, file format&gt; A data {compression} program and format by
+        Rahul Dhesi.  Zoo is reported to use the same {Lempel Ziv}
+        algorithm as {LHA}.  It is available for many {platforms} and
+        {source} is available.  .zoo archives are handled by many
+        other PC archiving programs.
+     
+        Version 2.10 was released in 1989.  Search the web for zoo210
+        to obtain an executable.
+     
+        {Description (http://sources.isc.org/archiver/zoo2.txt)}.
+     
+        (2000-07-05)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>zoo</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Zoo- \Zo"["o]-\
+   A combining form from Gr. zwo^,n an animal, as in
+   zo["o]genic, zo["o]logy, etc.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>zoo</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>zoo
+     n : the facility where wild animals are housed for exhibition
+         [syn: {menagerie}, {zoological garden}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

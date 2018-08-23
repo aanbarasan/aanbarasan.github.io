@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>zork</Word>
+  <Definitions>
+    <Definition>
+      <Word>zork</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Zork
+     
+        &lt;games&gt; /zork/ The second of the great early experiments in
+        computer fantasy gaming; see {ADVENT}.  Zork was originally
+        written on {MIT-DM} during the late 1970s, later distributed
+        with {BSD Unix} as a patched, sourceless {RT-11} {Fortran}
+        binary (see {retrocomputing}) and commercialised as "The Zork
+        Trilogy" by {Infocom}.  The Fortran source was later rewritten
+        for portability and released to {Usenet} under the name
+        "Dungeon".
+     
+        Both Fortran "Dungeon" and translated {C} versions are
+        available from many {FTP archives}.
+     
+        [{Jargon File}]
+     
+        (1998-09-21)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>zork</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>Zork /zork/ n. The second of the great early experiments in computer
+   fantasy gaming; see {ADVENT}. Originally written on MIT-DM during
+   1977-1979, later distributed with BSD Unix (as a patched, sourceless
+   RT-11 FORTRAN binary; see {retrocomputing}) and commercialized as `The
+   Zork Trilogy' by {Infocom}. The FORTRAN source was later rewritten for
+   portability and released to Usenet under the name "Dungeon". Both
+   FORTRAN "Dungeon" and translated C versions are available at many FTP
+   sites. See also {grue}.
+
+
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

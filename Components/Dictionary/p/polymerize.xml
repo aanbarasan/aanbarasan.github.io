@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>polymerize</Word>
+  <Definitions>
+    <Definition>
+      <Word>polymerize</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Polymerize \Pol"y*mer*ize\, v. i. (Chem.)
+   To change into another substance having the same atomic
+   proportions, but a higher molecular weight; to undergo
+   polymerization; thus, aldehyde polymerizes in forming
+   paraldehyde.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>polymerize</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Polymerize \Pol"y*mer*ize\, v. t. (Chem.)
+   To cause polymerization of; to produce polymers from; to
+   increase the molecular weight of, without changing the atomic
+   proportions; thus, certain acids polymerize aldehyde.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>polymerize</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>polymerize
+     v 1: cause (a compound) to polymerize [syn: {polymerise}]
+     2: undergo polymerization [syn: {polymerise}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

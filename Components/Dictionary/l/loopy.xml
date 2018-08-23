@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>loopy</Word>
+  <Definitions>
+    <Definition>
+      <Word>loopy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>loopy
+     adj : informal or slang terms for mentally irregular; "it used to
+           drive my husband balmy" [syn: {balmy}, {barmy}, {bats},
+            {batty}, {bonkers}, {buggy}, {cracked}, {crackers}, {daft},
+            {dotty}, {fruity}, {haywire}, {kooky}, {kookie}, {loco},
+            {loony}, {nuts}, {nutty}, {round the bend}, {around
+           the bend}, {wacky}, {whacky}]
+     [also: {loopiest}, {loopier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

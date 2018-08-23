@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>wealth</Word>
+  <Definitions>
+    <Definition>
+      <Word>wealth</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Wealth \Wealth\, n. [OE. welthe, from wele; cf. D. weelde
+   luxury. See {Weal} prosperity.]
+   [1913 Webster]
+   1. Weal; welfare; prosperity; good. [Obs.] ``Let no man seek
+      his own, but every man another's wealth.'' --1 Cor. x. 24.
+      [1913 Webster]
+
+   2. Large possessions; a comparative abundance of things which
+      are objects of human desire; esp., abundance of worldly
+      estate; affluence; opulence; riches.
+      [1913 Webster]
+
+            I have little wealth to lose.         --Shak.
+      [1913 Webster]
+
+            Each day new wealth, without their care, provides.
+                                                  --Dryden.
+      [1913 Webster]
+
+            Wealth comprises all articles of value and nothing
+            else.                                 --F. A.
+                                                  Walker.
+      [1913 Webster]
+
+   3. (Econ.)
+      (a) In the private sense, all pooperty which has a money
+          value.
+      (b) In the public sense, all objects, esp. material
+          objects, which have economic utility.
+      (c) Specif. called {personal wealth}. Those energies,
+          faculties, and habits directly contributing to make
+          people industrially efficient.
+          [Webster 1913 Suppl.]
+
+   {Active wealth}. See under {Active}.
+      [1913 Webster]
+
+   Syn: Riches; affluence; opulence; abundance.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wealth</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>wealth
+     n 1: the state of being rich and affluent; having a plentiful
+          supply of material goods and money; "great wealth is not
+          a sign of great intelligence" [syn: {wealthiness}] [ant:
+           {poverty}]
+     2: the quality of profuse abundance; "she has a wealth of
+        talent"
+     3: an abundance of material possessions and resources [syn: {riches}]
+     4: property that has economic utility: a monetary value or an
+        exchange value
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

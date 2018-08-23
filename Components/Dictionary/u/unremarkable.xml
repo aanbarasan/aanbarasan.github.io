@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unremarkable</Word>
+  <Definitions>
+    <Definition>
+      <Word>unremarkable</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unremarkable
+     adj : found in the ordinary course of events; "a placid everyday
+           scene"; "it was a routine day"; "there's nothing quite
+           like a real...train conductor to add color to a
+           quotidian commute"- Anita Diamant [syn: {everyday}, {mundane},
+            {quotidian}, {routine}, {workaday}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

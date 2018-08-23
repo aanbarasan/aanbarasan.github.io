@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>subjective</Word>
+  <Definitions>
+    <Definition>
+      <Word>subjective</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Subjective \Sub*jec"tive\, a. [L. subjectivus: cf. F.
+   subjectif.]
+   1. Of or pertaining to a subject.
+      [1913 Webster]
+
+   2. Especially, pertaining to, or derived from, one's own
+      consciousness, in distinction from external observation;
+      ralating to the mind, or intellectual world, in
+      distinction from the outward or material excessively
+      occupied with, or brooding over, one's own internal
+      states.
+      [1913 Webster]
+
+   Note: In the philosophy of the mind, subjective denotes what
+         is to be referred to the thinking subject, the ego;
+         objective, what belongs to the object of thought, the
+         non-ego. See {Objective}, a., 2. --Sir W. Hamilton.
+         [1913 Webster]
+
+   3. (Lit. &amp; Art) Modified by, or making prominent, the
+      individuality of a writer or an artist; as, a subjective
+      drama or painting; a subjective writer.
+      [1913 Webster]
+
+   Syn: See {Objective}.
+        [1913 Webster]
+
+   {Subjective sensation} (Physiol.), one of the sensations
+      occurring when stimuli due to internal causes excite the
+      nervous apparatus of the sense organs, as when a person
+      imagines he sees figures which have no objective reality.
+      [1913 Webster] -- {Sub*jec"tive*ly}, adv. --
+      {Sub*jec"tive*ness}, n.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>subjective</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>subjective
+     adj 1: taking place within the mind and modified by individual
+            bias; "a subjective judgment" [ant: {objective}]
+     2: of a mental act performed entirely within the mind; "a
+        cognition is an immanent act of mind" [syn: {immanent}]
+        [ant: {transeunt}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

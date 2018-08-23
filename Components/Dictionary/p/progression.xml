@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>progression</Word>
+  <Definitions>
+    <Definition>
+      <Word>progression</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Progression \Pro*gres"sion\, n. [L. progressio: cf. F.
+   progression.]
+   [1913 Webster]
+   1. The act of moving forward; a proceeding in a course;
+      motion onward.
+      [1913 Webster]
+
+   2. Course; passage; lapse or process of time.
+      [1913 Webster]
+
+            I hope, in a short progression, you will be wholly
+            immerged in the delices and joys of religion.
+                                                  --Evelyn.
+      [1913 Webster]
+
+   3. (Math.) Regular or proportional advance in increase or
+      decrease of numbers; continued proportion, arithmetical,
+      geometrical, or harmonic.
+      [1913 Webster]
+
+   4. (Mus.) A regular succession of tones or chords; the
+      movement of the parts in harmony; the order of the
+      modulations in a piece from key to key.
+      [1913 Webster]
+
+   {Arithmetical progression}, a progression in which the terms
+      increase or decrease by equal differences, as the numbers
+      [lbrace2]2, 4, 6, 8, 1010, 8, 6, 4, 2[rbrace2] by the
+      difference 2.
+      [1913 Webster]
+
+   {Geometrical progression}, a progression in which the terms
+      increase or decrease by equal ratios, as the numbers
+      [lbrace2]2, 4, 8, 16, 32, 6464, 32, 16, 8, 4, 2[rbrace2]
+      by a continual multiplication or division by 2.
+      [1913 Webster]
+
+   {Harmonic progression}, a progression in which the terms are
+      the reciprocals of quantities in arithmetical progression,
+      as 1/2, 1/4, 1/6, 1/8, 1/10.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>progression</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>progression
+     n 1: a series with a definite pattern of advance [syn: {patterned
+          advance}]
+     2: a movement forward; "he listened for the progress of the
+        troops" [syn: {progress}, {advance}]
+     3: the act of moving forward toward a goal [syn: {progress}, {procession},
+         {advance}, {advancement}, {forward motion}, {onward
+        motion}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

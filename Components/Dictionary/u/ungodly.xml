@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ungodly</Word>
+  <Definitions>
+    <Definition>
+      <Word>ungodly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ungodly \Un*god"ly\, a.
+   1. Not godly; not having regard for God; disobedient to God;
+      wicked; impious; sinful.
+      [1913 Webster]
+
+   2. Polluted by sin or wickedness.
+      [1913 Webster]
+
+            The hours of this ungodly day.        --Shak.
+      [1913 Webster]
+      [1913 Webster] -- {Un*god"li*ly}, adv. --
+      {Un*god"li*ness}, n.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ungodly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ungodly
+     adj 1: characterized by iniquity; wicked because it is believed to
+            be a sin; "iniquitous deeds"; "he said it was sinful
+            to wear lipstick"; "ungodly acts" [syn: {iniquitous},
+            {sinful}]
+     2: lacking piety and reverence for a god [syn: {impious}]
+     [also: {ungodliest}, {ungodlier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

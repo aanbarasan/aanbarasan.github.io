@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nonalcoholic</Word>
+  <Definitions>
+    <Definition>
+      <Word>nonalcoholic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nonalcoholic
+     adj : used of beverages; not containing alcohol; "nonalcoholic
+           beverages"; "soft drinks" [syn: {soft}] [ant: {alcoholic}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

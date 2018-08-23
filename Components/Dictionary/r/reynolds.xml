@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>reynolds</Word>
+  <Definitions>
+    <Definition>
+      <Word>reynolds</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Reynolds, GA (town, FIPS 64876)
+  Location: 32.55896 N, 84.09699 W
+  Population (1990): 1166 (474 housing units)
+  Area: 2.9 sq km (land), 0.0 sq km (water)
+  Zip code(s): 31076
+Reynolds, IL (village, FIPS 63420)
+  Location: 41.33131 N, 90.67280 W
+  Population (1990): 583 (235 housing units)
+  Area: 0.9 sq km (land), 0.0 sq km (water)
+  Zip code(s): 61279
+Reynolds, IN (town, FIPS 63918)
+  Location: 40.74872 N, 86.87366 W
+  Population (1990): 528 (220 housing units)
+  Area: 1.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 47980
+Reynolds, ND (city, FIPS 66260)
+  Location: 47.67108 N, 97.10843 W
+  Population (1990): 299 (128 housing units)
+  Area: 1.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 58275
+Reynolds, NE (village, FIPS 41235)
+  Location: 40.06039 N, 97.33587 W
+  Population (1990): 104 (54 housing units)
+  Area: 0.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 68429
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>reynolds</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Reynolds
+     n : English portrait painter and first president of the Royal
+         Academy (1723-1792) [syn: {Sir Joshua Reynolds}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

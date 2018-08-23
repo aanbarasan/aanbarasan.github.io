@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>plants</Word>
+  <Definitions>
+    <Definition>
+      <Word>plants</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>plants
+     
+        ["The Algorithmic Beauty of Plants", Przemyslaw Prusinkiewicz,
+        Aristid Lindenmayer. New York: Springer-Verlag, 1990.
+        3-54097297-8].
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

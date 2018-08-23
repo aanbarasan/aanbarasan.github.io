@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tango</Word>
+  <Definitions>
+    <Definition>
+      <Word>tango</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tango \Tan"go\ (t[a^][ng]"g[=o]; Sp. t[aum][ng]"g[=o]), n.; pl.
+   {Tangos} (-g[=o]z). [Sp., a certain dance.]
+      (a) A difficult dance in two-four time characterized by
+          graceful posturing, frequent pointing positions, and a
+          great variety of steps, including the cross step and
+          turning steps. The dance is of Spanish origin, and is
+          believed to have been in its original form a part of
+          the fandango.
+      (b) Any of various popular forms derived from this.
+      (c) a musical tune appropriate for this dance.
+          [Webster 1913 Suppl. +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tango</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tango
+     n 1: a ballroom dance of Latin-American origin
+     2: music written in duple time for dancing the tango
+     v : dance a tango
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

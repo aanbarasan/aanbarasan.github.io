@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tomato</Word>
+  <Definitions>
+    <Definition>
+      <Word>tomato</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Tomato, AR
+  Zip code(s): 72381
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tomato</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tomato \To*ma"to\, n.; pl. {Tomatoes}. [Sp. or Pg. tomate, of
+   American Indian origin; cf. Mexican tomail.] (Bot.)
+   The fruit of a plant of the Nightshade family ({Lycopersicum
+   esculentun}); also, the plant itself. The fruit, which is
+   called also {love apple}, is usually of a rounded, flattened
+   form, but often irregular in shape. It is of a bright red or
+   yellow color, and is eaten either cooked or uncooked.
+   [1913 Webster]
+
+   {Tomato gall} (Zo["o]l.), a large gall consisting of a mass
+      of irregular swellings on the stems and leaves of
+      grapevines. They are yellowish green, somewhat tinged with
+      red, and produced by the larva of a small two-winged fly
+      ({Lasioptera vitis}).
+
+   {Tomato sphinx} (Zo["o]l.), the adult or imago of the {tomato
+      worm}. It closely resembles the tobacco hawk moth. Called
+      also {tomato hawk moth}. See Illust. of {Hawk moth}.
+
+   {Tomato worm} (Zo["o]l.), the larva of a large hawk moth
+      ({Manduca quinquemaculata}, {Protoparce quinquemaculata},
+      {Sphinx quinquemaculata}, or {Macrosila quinquemaculata})
+      which feeds upon the leaves of the tomato and potato
+      plants, often doing considerable damage. Called also
+      {tomato hornworm} and {potato worm}, and in the Southern
+      U. S. {tobacco fly}.
+      [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tomato</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tomato
+     n 1: mildly acid red or yellow pulpy fruit eaten as a vegetable
+     2: native to South America; widely cultivated in many varieties
+        [syn: {love apple}, {tomato plant}, {Lycopersicon
+        esculentum}]
+     [also: {tomatoes} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

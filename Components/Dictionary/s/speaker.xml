@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>speaker</Word>
+  <Definitions>
+    <Definition>
+      <Word>speaker</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>speaker
+     
+        1. &lt;hardware&gt; {loudspeaker}.
+     
+        2. The person who is (assumed to be) talking.
+     
+        (1996-12-01)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>speaker</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Speaker \Speak"er\, n.
+   1. One who speaks. Specifically:
+      (a) One who utters or pronounces a discourse; usually, one
+          who utters a speech in public; as, the man is a good
+          speaker, or a bad speaker.
+      (b) One who is the mouthpiece of others; especially, one
+          who presides over, or speaks for, a delibrative
+          assembly, preserving order and regulating the debates;
+          as, the Speaker of the House of Commons, originally,
+          the mouthpiece of the House to address the king; the
+          Speaker of a House of Representatives.
+          [1913 Webster]
+
+   2. A book of selections for declamation. [U. S.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>speaker</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>speaker
+     n 1: someone who expresses in language; someone who talks
+          (especially someone who delivers a public speech or
+          someone especially garrulous); "the speaker at
+          commencement"; "an utterer of useful maxims" [syn: {talker},
+           {utterer}, {verbalizer}, {verbaliser}]
+     2: electro-acoustic transducer that converts electrical signals
+        into sounds loud enough to be heard at a distance [syn: {loudspeaker},
+         {speaker unit}, {loudspeaker system}, {speaker system}]
+     3: the presiding officer of a deliberative assembly; "the
+        leader of the majority party is the Speaker of the House
+        of Representatives"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

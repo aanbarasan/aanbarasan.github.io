@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>septum</Word>
+  <Definitions>
+    <Definition>
+      <Word>septum</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Septum \Sep"tum\, n.; pl. {Septa}. [L. septum, saeptum, an
+   inclosure, hedge, fence, fr. sepire, saepire, to hedge in,
+   inclose.]
+   1. A wall separating two cavities; a partition; as, the nasal
+      septum.
+      [1913 Webster]
+
+   2. (Bot.) A partition that separates the cells of a fruit.
+      [1913 Webster]
+
+   3. (Zo["o]l.)
+      (a) One of the radial calcareous plates of a coral.
+      (b) One of the transverse partitions dividing the shell of
+          a mollusk, or of a rhizopod, into several chambers.
+          See Illust. under {Nautilus}.
+      (c) One of the transverse partitions dividing the body
+          cavity of an annelid.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>septum</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>septum
+     n 1: (anatomy) a dividing partition between two tissues or
+          cavities
+     2: a partition or wall especially in an ovary
+     [also: {septa} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

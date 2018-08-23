@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>montgomery</Word>
+  <Definitions>
+    <Definition>
+      <Word>montgomery</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Montgomery, AL (city, FIPS 51000)
+  Location: 32.35440 N, 86.28429 W
+  Population (1990): 187106 (76636 housing units)
+  Area: 349.6 sq km (land), 1.9 sq km (water)
+  Zip code(s): 36104, 36105, 36106, 36107, 36108, 36109, 36110, 36111, 36116, 36117
+Montgomery, GA (CDP, FIPS 52332)
+  Location: 31.94418 N, 81.10908 W
+  Population (1990): 4327 (1655 housing units)
+  Area: 13.5 sq km (land), 2.1 sq km (water)
+Montgomery, IL (village, FIPS 50218)
+  Location: 41.72990 N, 88.34147 W
+  Population (1990): 4267 (1705 housing units)
+  Area: 9.1 sq km (land), 0.3 sq km (water)
+  Zip code(s): 60538
+Montgomery, IN (town, FIPS 50688)
+  Location: 38.66522 N, 87.04712 W
+  Population (1990): 351 (147 housing units)
+  Area: 0.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 47558
+Montgomery, LA (town, FIPS 51620)
+  Location: 31.66449 N, 92.88917 W
+  Population (1990): 645 (332 housing units)
+  Area: 3.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 71454
+Montgomery, MA
+  Zip code(s): 01085
+Montgomery, MI (village, FIPS 55220)
+  Location: 41.77693 N, 84.80599 W
+  Population (1990): 388 (140 housing units)
+  Area: 2.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 49255
+Montgomery, MN (city, FIPS 43738)
+  Location: 44.43919 N, 93.58053 W
+  Population (1990): 2399 (1019 housing units)
+  Area: 3.9 sq km (land), 0.0 sq km (water)
+  Zip code(s): 56069
+Montgomery, NY (village, FIPS 48142)
+  Location: 41.52202 N, 74.23821 W
+  Population (1990): 2696 (950 housing units)
+  Area: 3.5 sq km (land), 0.1 sq km (water)
+  Zip code(s): 12549
+Montgomery, OH (city, FIPS 51716)
+  Location: 39.24730 N, 84.34762 W
+  Population (1990): 9753 (3462 housing units)
+  Area: 13.1 sq km (land), 0.0 sq km (water)
+Montgomery, PA (borough, FIPS 50632)
+  Location: 41.17093 N, 76.87520 W
+  Population (1990): 1631 (649 housing units)
+  Area: 1.4 sq km (land), 0.1 sq km (water)
+  Zip code(s): 17752
+Montgomery, TX (city, FIPS 49128)
+  Location: 30.39119 N, 95.69577 W
+  Population (1990): 356 (174 housing units)
+  Area: 10.8 sq km (land), 0.1 sq km (water)
+  Zip code(s): 77356
+Montgomery, WV (city, FIPS 55468)
+  Location: 38.17385 N, 81.31847 W
+  Population (1990): 2449 (969 housing units)
+  Area: 4.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 25136
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>montgomery</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Montgomery
+     n 1: Canadian novelist (1874-1942) [syn: {L. M. Montgomery}, {Lucy
+          Maud Montgomery}]
+     2: English general during World War II; won victories over
+        Rommel in North Africa and led British ground forces in
+        the invasion of Normandy (1887-1976) [syn: {Bernard Law
+        Montgomery}, {Sir Bernard Law Montgomery}, {1st Viscount
+        Montgomery of Alamein}]
+     3: the state capital of Alabama on the Mobile River [syn: {capital
+        of Alabama}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>radiator</Word>
+  <Definitions>
+    <Definition>
+      <Word>radiator</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Radiator \Ra"di*a`tor\ (r[=a]"d[i^]*[=a]`t[~e]r), n.
+   1. That which radiates or emits rays, whether of light or
+      heat; especially, that part of a heating apparatus from
+      which the heat is radiated or diffused; as, a steam
+      radiator.
+      [1913 Webster]
+
+   2. Any of various devices for cooling an internal substance
+      by radiation, as a system of rings on a gun barrel for
+      cooling it, or a nest of tubes with large radiating
+      surface for cooling circulating water, as in an
+      automobile.
+      [Webster 1913 Suppl.]
+
+   3. (Wireless Teleg.) An oscillator.
+      [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>radiator</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>radiator
+     n 1: any object that radiates energy
+     2: heater consisting of a series of pipes for circulating steam
+        or hot water to heat rooms or buildings
+     3: a mechanism consisting of a metal honeycomb through which
+        hot fluids circulate; heat is transferred from the fluid
+        through the honeycomb to the airstream that is created
+        either by the motion of the vehicle or by a fan
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

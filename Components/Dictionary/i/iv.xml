@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>iv</Word>
+  <Definitions>
+    <Definition>
+      <Word>iv</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>IV
+     Initialisation Vector (cryptography)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>iv</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>IV
+     InformationsVerarbeitung
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>iv</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>iv
+     adj : being one more than three [syn: {four}, {4}]
+     n 1: the cardinal number that is the sum of three and one [syn: {four},
+           {4}, {tetrad}, {quatern}, {quaternion}, {quaternary}, {quaternity},
+           {quartet}, {quadruplet}, {foursome}, {Little Joe}]
+     2: administration of nutrients through a vein [syn: {intravenous
+        feeding}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

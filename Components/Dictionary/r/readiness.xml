@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>readiness</Word>
+  <Definitions>
+    <Definition>
+      <Word>readiness</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Readiness \Read"i*ness\, n.
+   The state or quality of being ready; preparation; promptness;
+   aptitude; willingness.
+   [1913 Webster]
+
+         They received the word with all readiness of mind.
+                                                  --Acts xvii.
+                                                  11.
+   [1913 Webster]
+
+   Syn: Facility; quickness; expedition; promptitude;
+        promptness; aptitude; aptness; knack; skill; expertness;
+        dexterity; ease; cheerfulness. See {Facility}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>readiness</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>readiness
+     n 1: the state of having been made ready or prepared for use or
+          action (especially military action); "putting them in
+          readiness"; "their preparation was more than adequate"
+          [syn: {preparedness}, {preparation}]
+     2: prompt willingness; "readiness to continue discussions"
+     3: (psychology) a temporary readiness to respond in a
+        particular way; "the subjects' set led them to solve
+        problems the familiar way and to overlook the simpler
+        solution"; "his instructions deliberately gave them the
+        wrong set" [syn: {set}]
+     4: a natural effortlessness; "they conversed with great
+        facility"; "a happy readiness of conversation"--Jane
+        Austen [syn: {facility}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

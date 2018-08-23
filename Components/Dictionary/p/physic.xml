@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>physic</Word>
+  <Definitions>
+    <Definition>
+      <Word>physic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Physic \Phys"ic\, n. [OE. phisike, fisike, OF. phisique, F.
+   physique knowledge of nature, physics, L. physica, physice,
+   fr. Gr. ?, fr. fysiko`s natural, from fy`sis nature, fr. ? to
+   produce, grow, akin to E. be. See {Be}, and cf. {Physics},
+   {Physique}.]
+   1. The art of healing diseases; the science of medicine; the
+      theory or practice of medicine. ``A doctor of physik.''
+      --Chaucer.
+      [1913 Webster]
+
+   2. A specific internal application for the cure or relief of
+      sickness; a remedy for disease; a medicine.
+      [1913 Webster]
+
+   3. Specifically, a medicine that purges; a cathartic.
+      [1913 Webster]
+
+   4. A physician. [R.] --Shak.
+      [1913 Webster]
+
+   {Physic nut} (Bot.), a small tropical American euphorbiaceous
+      tree ({Jatropha Curcas}), and its seeds, which are well
+      flavored, but contain a drastic oil which renders them
+      dangerous if eaten in large quantities.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>physic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Physic \Phys"ic\, v. t. [imp. &amp; p. p. {Physiced}; p. pr. &amp; vb.
+   n. {Physicking}.]
+   1. To treat with physic or medicine; to administer medicine
+      to, esp. a cathartic; to operate on as a cathartic; to
+      purge.
+      [1913 Webster]
+
+   2. To work on as a remedy; to heal; to cure.
+      [1913 Webster]
+
+            The labor we delight in physics pain. --Shak.
+      [1913 Webster]
+
+            A mind diseased no remedy can physic. --Byron.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>physic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>physic
+     n : a purging medicine; stimulates evacuation of the bowels
+         [syn: {purgative}, {cathartic}, {aperient}]
+     [also: {physicking}, {physicked}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

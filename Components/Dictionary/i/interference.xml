@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>interference</Word>
+  <Definitions>
+    <Definition>
+      <Word>interference</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Interference \In`ter*fer"ence\, n. [See {Interfere}.]
+   [1913 Webster]
+   1. The act or state of interfering; as, the stoppage of a
+      machine by the interference of some of its parts; a
+      meddlesome interference in the business of others.
+      [1913 Webster]
+
+   2. (Physics) The mutual influence, under certain conditions,
+      as from streams of light, or pulsations of sound, or,
+      generally, two waves or vibrations of any kind, producing
+      certain characteristic phenomena, as colored fringes, dark
+      bands, or darkness, in the case of light, silence or
+      increased intensity in sounds; neutralization or
+      superposition of waves generally.
+      [1913 Webster]
+
+   Note: The term is most commonly applied to light, and the
+         undulatory theory of light affords the proper
+         explanation of the phenomena which are considered to be
+         produced by the superposition of waves, and are thus
+         substantially identical in their origin with the
+         phenomena of heat, sound, waves of water, and the like.
+         [1913 Webster]
+
+   3. (Patent Law) The act or state of interfering, or of
+      claiming a right to the same invention.
+      [1913 Webster]
+
+   {Interference figures} (Optics), the figures observed when
+      certain sections of crystallized bodies are viewed in
+      converging polarized light; thus, a section of a uniaxial
+      crystal, cut normal to the vertical axis, shows a series
+      of concentric colored rings with a single black cross; --
+      so called because produced by the interference of luminous
+      waves.
+
+   {Interference fringe}. (Optics) See {Fringe}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>interference</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>interference
+     n 1: a policy of intervening in the affairs of other countries
+          [syn: {intervention}] [ant: {nonintervention}, {nonintervention}]
+     2: the act of hindering or obstructing or impeding [syn: {hindrance}]
+     3: electrical or acoustic activity that can disturb
+        communication [syn: {noise}, {disturbance}]
+     4: (American football) the act of obstructing someone's path
+        with your body; "he threw a rolling block into the line
+        backer" [syn: {blocking}, {block}]
+     5: any obstruction that impedes or is burdensome [syn: {hindrance},
+         {hitch}, {preventive}, {preventative}, {encumbrance}, {incumbrance}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

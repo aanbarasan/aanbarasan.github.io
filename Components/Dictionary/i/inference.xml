@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>inference</Word>
+  <Definitions>
+    <Definition>
+      <Word>inference</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>inference
+     
+        &lt;logic&gt; The logical process by which new facts are derived
+        from known facts by the application of {inference rule}s.
+     
+        See also {symbolic inference}, {type inference}.
+     
+        (1995-03-20)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>inference</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Inference \In"fer*ence\, n. [From {Infer}.]
+   [1913 Webster]
+   1. The act or process of inferring by deduction or induction.
+      [1913 Webster]
+
+            Though it may chance to be right in the conclusions,
+            it is yet unjust and mistaken in the method of
+            inference.                            --Glanvill.
+      [1913 Webster]
+
+   2. That which inferred; a truth or proposition drawn from
+      another which is admitted or supposed to be true; a
+      conclusion; a deduction. --Milton.
+      [1913 Webster]
+
+            These inferences, or conclusions, are the effects of
+            reasoning, and the three propositions, taken all
+            together, are called syllogism, or argument. --I.
+                                                  Watts.
+
+   Syn: Conclusion; deduction; consequence.
+
+   Usage: {Inference}, {Conclusion}. An inference is literally
+          that which is brought in; and hence, a deduction or
+          induction from premises, -- something which follows as
+          certainly or probably true. A conclusion is stronger
+          than an inference; it shuts us up to the result, and
+          terminates inquiry. We infer what is particular or
+          probable; we conclude what is certain. In a chain of
+          reasoning we have many inferences, which lead to the
+          ultimate conclusion. ``An inference is a proposition
+          which is perceived to be true, because of its
+          connection with some known fact.'' ``When something is
+          simply affirmed to be true, it is called a
+          proposition; after it has been found to be true by
+          several reasons or arguments, it is called a
+          conclusion.'' --I. Taylor.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>inference</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>inference
+     n : the reasoning involved in drawing a conclusion or making a
+         logical judgment on the basis of circumstantial evidence
+         and prior conclusions rather than on the basis of direct
+         observation [syn: {illation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

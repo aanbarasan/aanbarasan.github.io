@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unanimous</Word>
+  <Definitions>
+    <Definition>
+      <Word>unanimous</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Unanimous \U*nan"i*mous\, a. [L. unanimus, unanimus; unus one +
+   animus mind: cf. F. unanime. See {Unit}, and {Animate}.]
+   1. Being of one mind; agreeing in opinion, design, or
+      determination; consentient; not discordant or dissentient;
+      harmonious; as, the assembly was unanimous; the members of
+      the council were unanimous. ``Both in one faith
+      unanimous.'' --Milton.
+      [1913 Webster]
+
+   2. Formed with unanimity; indicating unanimity; having the
+      agreement and consent of all; agreed upon without the
+      opposition or contradiction of any; as, a unanimous
+      opinion; a unanimous vote.
+      [1913 Webster] -- {U*nan"i*mous*ly}, adv. --
+      {U*nan"i*mous*ness}, n.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>unanimous</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unanimous
+     adj 1: in complete agreement; "a unanimous decision" [syn: {consentaneous},
+             {consentient}]
+     2: acting together as a single undiversified whole; "a solid
+        voting bloc" [syn: {solid}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

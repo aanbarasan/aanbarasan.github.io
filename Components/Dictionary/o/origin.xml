@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>origin</Word>
+  <Definitions>
+    <Definition>
+      <Word>origin</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Origin \Or"i*gin\, n. [F. origine, L. origo, -iginis, fr. oriri
+   to rise, become visible; akin to Gr. 'orny`nai to stir up,
+   rouse, Skr. [.r], and perh. to E. run.]
+   [1913 Webster]
+   1. The first existence or beginning of anything; the birth.
+      [1913 Webster]
+
+            This mixed system of opinion and sentiment had its
+            origin in the ancient chivalry.       --Burke.
+      [1913 Webster]
+
+   2. That from which anything primarily proceeds; the fountain;
+      the spring; the cause; the occasion.
+      [1913 Webster]
+
+   3. (Anat.) The point of attachment or end of a muscle which
+      is fixed during contraction; -- in contradistinction to
+      {insertion}.
+      [1913 Webster]
+
+   {Origin of co["o]rdinate axes} (Math.), the point where the
+      axes intersect. See Note under {Ordinate}.
+      [1913 Webster]
+
+   Syn: Commencement; rise; source; spring; fountain;
+        derivation; cause; root; foundation.
+
+   Usage: {Origin}, {Source}. Origin denotes the rise or
+          commencement of a thing; source presents itself under
+          the image of a fountain flowing forth in a continuous
+          stream of influences. The origin of moral evil has
+          been much disputed, but no one can doubt that it is
+          the source of most of the calamities of our race.
+          [1913 Webster]
+
+                I think he would have set out just as he did,
+                with the origin of ideas -- the proper starting
+                point of a grammarian, who is to treat of their
+                signs.                            --Tooke.
+          [1913 Webster]
+
+                Famous Greece,
+                That source of art and cultivated thought
+                Which they to Rome, and Romans hither, brought.
+                                                  --Waller.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>origin</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>origin
+     n 1: the place where something begins, where it springs into
+          being; "the Italian beginning of the Renaissance";
+          "Jupiter was the origin of the radiation"; "Pittsburgh
+          is the source of the Ohio River"; "communism's Russian
+          root" [syn: {beginning}, {root}, {rootage}, {source}]
+     2: properties attributable to your ancestry; "he comes from
+        good origins" [syn: {descent}, {extraction}]
+     3: an event that is a beginning; a first part or stage of
+        subsequent events [syn: {origination}, {inception}]
+     4: the point of intersection of coordinate axes; where the
+        values of the coordinates are all zero
+     5: the descendants of one individual; "his entire lineage has
+        been warriors" [syn: {lineage}, {line}, {line of descent},
+         {descent}, {bloodline}, {blood line}, {blood}, {pedigree},
+         {ancestry}, {parentage}, {stemma}, {stock}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

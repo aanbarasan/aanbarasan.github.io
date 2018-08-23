@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>thursday</Word>
+  <Definitions>
+    <Definition>
+      <Word>thursday</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Thursday \Thurs"day\, n. [OE. [thorn]ursdei, [thorn]orsday, from
+   the Scand. name Thor + E. day. Icel. [thorn][=o]rr Thor, the
+   god of thunder, is akin to AS. [thorn]unor thunder; D.
+   Donderdag Thursday, G. Donnerstag, Icel. [thorn][=o]rsdagr,
+   Sw. &amp; Dan. Torsdag. [root]52. See {Thor}, {Thunder}, and
+   {Day}.]
+   The fifth day of the week, following Wednesday and preceding
+   Friday.
+   [1913 Webster]
+
+   {Holy Thursday}. See under {Holy}.
+      [1913 Webster]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>thursday</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Thursday
+     n : the fifth day of the week; the fourth working day [syn: {Th}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

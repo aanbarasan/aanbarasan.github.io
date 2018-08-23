@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>paired</Word>
+  <Definitions>
+    <Definition>
+      <Word>paired</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>paired \paired\ (p[^a]rd), adj.
+   1. Organized into compatible pairs; -- used of gloves, socks,
+      etc. See {pair}[1], v. t.
+
+   Syn: mated.
+        [WordNet 1.5]
+
+   2. (Botany) Growing in pairs on either side of a stem; -- of
+      leaves etc. {alternate}
+
+   Syn: opposite.
+        [WordNet 1.5]
+
+   3. Mated sexually.
+      [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>paired</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pair \Pair\, v. i. [imp. &amp; p. p. {Paired}; p. pr. &amp; vb. n.
+   {Pairing}.]
+   1. To be joined in pairs; to couple; to mate, as for
+      breeding.
+      [1913 Webster]
+
+   2. To suit; to fit, as a counterpart.
+      [1913 Webster]
+
+            My heart was made to fit and pair with thine.
+                                                  --Rowe.
+      [1913 Webster]
+
+   3. Same as {To pair off}. See phrase below.
+      [1913 Webster]
+
+   {To pair off}, to separate from a group in pairs or couples;
+      specif. (Parliamentary Cant), to agree with one of the
+      opposite party or opinion to abstain from voting on
+      specified questions or issues. See {Pair}, n., 6.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>paired</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>paired
+     adj 1: used of gloves, socks, etc. [syn: {mated}]
+     2: of leaves etc; growing in pairs on either side of a stem;
+        "opposite leaves" [syn: {opposite}] [ant: {alternate}]
+     3: mated sexually
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

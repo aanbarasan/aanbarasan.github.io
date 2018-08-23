@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>roy</Word>
+  <Definitions>
+    <Definition>
+      <Word>roy</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Roy, MT
+  Zip code(s): 59471
+Roy, NM (village, FIPS 65070)
+  Location: 35.94537 N, 104.19628 W
+  Population (1990): 362 (212 housing units)
+  Area: 5.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 87743
+Roy, UT (city, FIPS 65110)
+  Location: 41.17260 N, 112.04497 W
+  Population (1990): 24603 (7935 housing units)
+  Area: 17.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 84067
+Roy, WA (city, FIPS 60160)
+  Location: 47.00116 N, 122.54430 W
+  Population (1990): 258 (105 housing units)
+  Area: 0.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 98580
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>roy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Roy \Roy\ (roi), n. [F. roi.]
+   A king. [obs.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>roy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Roy \Roy\, a.
+   Royal. [Obs.] --Chapman.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unaware</Word>
+  <Definitions>
+    <Definition>
+      <Word>unaware</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Unaware \Un`a*ware"\, a.
+   Not aware; not noticing; giving no heed; thoughtless;
+   inattentive. --Swift.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>unaware</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Unaware \Un`a*ware"\, adv.
+   Unawares. [Poetic] --Dryden.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>unaware</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unaware
+     adj 1: (often followed by `of') not aware; "seemed unaware of the
+            scrutiny"; "unaware of the danger they were in";
+            "unaware of the newborn hope"; "the most unaware
+            person I've known" [ant: {aware(p)}]
+     2: not aware or knowing; "an unwitting subject in an
+        experiment" [syn: {unwitting}] [ant: {witting}]
+     3: (often followed by `of') lacking knowledge or awareness;
+        "incognizant of the new political situation" [syn: {incognizant}]
+        [ant: {cognizant}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

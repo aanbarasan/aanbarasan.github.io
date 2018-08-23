@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>predatory</Word>
+  <Definitions>
+    <Definition>
+      <Word>predatory</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Predatory \Pred"a*to*ry\, a. [L. praedatorius, fr. praedari to
+   plunder, fr. praeda prey. See {Prey}.]
+   1. Characterized by plundering; practicing rapine;
+      plundering; pillaging; as, a predatory excursion; a
+      predatory party. ``A predatory war.'' --Macaulay.
+      [1913 Webster]
+
+   2. Hungry; ravenous; as, predatory spirits. [Obs.]
+      [1913 Webster]
+
+            Exercise . . . maketh the spirits more hot and
+            predatory.                            --Bacon.
+      [1913 Webster]
+
+   3. (Zo["o]l.) Living by preying upon other animals;
+      carnivorous.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>predatory</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>predatory
+     adj 1: characterized by plundering or pillaging or marauding;
+            "bands of marauding Indians"; "predatory warfare"; "a
+            raiding party" [syn: {marauding}, {raiding}]
+     2: living by preying on other animals especially by catching
+        living prey; "a predatory bird"; "the rapacious wolf";
+        "raptorial birds"; "ravening wolves"; "a vulturine taste
+        for offal" [syn: {rapacious}, {raptorial}, {ravening}, {vulturine},
+         {vulturous}]
+     3: living by or given to victimizing others for personal gain;
+        "predatory capitalists"; "a predatory, insensate society
+        in which innocence and decency can prove fatal"- Peter S.
+        Prescott; "a predacious kind of animal--the early
+        geological gangster"- W.E.Swinton [syn: {predaceous}, {predacious}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

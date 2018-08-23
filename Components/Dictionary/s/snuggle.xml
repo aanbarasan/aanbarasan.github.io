@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>snuggle</Word>
+  <Definitions>
+    <Definition>
+      <Word>snuggle</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Snuggle \Snug"gle\, v. t. [imp. &amp; p. p. {Snuggled}; p. pr. &amp; vb.
+   n. {Snuggling}.] [Freq. of snug.]
+   To move one way and the other so as to get a close place; to
+   lie close for comfort; to cuddle; to nestle.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>snuggle</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>snuggle
+     n : a close and affectionate (and often prolonged) embrace [syn:
+          {cuddle}, {nestle}]
+     v 1: move or arrange oneself in a comfortable and cozy position;
+          "We cuddled against each other to keep warm"; "The
+          children snuggled into their sleeping bags" [syn: {cuddle},
+           {nestle}, {nest}, {nuzzle}, {draw close}]
+     2: position comfortably; "The baby nestled her head in her
+        mother's elbow" [syn: {nestle}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

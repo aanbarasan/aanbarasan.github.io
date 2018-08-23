@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>thumb</Word>
+  <Definitions>
+    <Definition>
+      <Word>thumb</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>thumb
+     
+        &lt;jargon&gt; The slider or "bubble" on a window system
+        {scrollbar}.  So called because moving it allows you to browse
+        through the contents of a text window in a way analogous to
+        thumbing through a book.
+     
+        [{Jargon File}]
+     
+        (1995-03-14)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>thumb</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Thumb
+     
+        &lt;processor&gt; An extension to the {Advanced RISC Machine}
+        architecture, announced on 06 March 1995 by {Advanced RISC
+        Machines} Ltd.  By identifying the critical subset of the ARM
+        {instruction set} and encoding it into 16 bits, ARM has
+        succeeded in reducing typical program size by 30-40% from
+        ARM's already excellent code density.  Since this Thumb
+        instruction set uses less memory for program storage, cost is
+        further reduced.
+     
+        All Thumb-aware {processor core}s combine the capability to
+        execute both the 32-bit ARM and the 16-bit Thumb instruction
+        sets.  Careful design of the Thumb instructions allow them to
+        be decompressed into full ARM instructions transparently
+        during normal instruction decoding without any performance
+        penalty.  This differs from other 32-bit processors, like the
+        {Intel 486SX}, with a 16-bit data bus, which require two
+        16-bit memory accesses to execute every 32-bit instruction and
+        so halve performance.
+     
+        The patented Thumb decompressor has been carefully designed
+        with only a small amount of circuitry additional to the
+        existing instruction decoder, so chip size and thus cost do
+        not significantly increase.  Designers can easily interleave
+        fast ARM instructions (for performance critical parts of a
+        program) with compact Thumb code to save memory.
+     
+        (1995-03-14)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>thumb</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Thumb \Thumb\, v. t. [imp. &amp; p. p. {Thumbed}; p. pr. &amp; vb. n.
+   {Thumbing}.]
+   1. To handle awkwardly. --Johnson.
+      [1913 Webster]
+
+   2. To play with the thumbs, or with the thumbs and fingers;
+      as, to thumb over a tune.
+      [1913 Webster]
+
+   3. To soil or wear with the thumb or the fingers; to soil, or
+      wear out, by frequent handling; also, to cover with the
+      thumb; as, to thumb the touch-hole of a cannon.
+      [1913 Webster]
+
+            He gravely informed the enemy that all his cards had
+            been thumbed to pieces, and begged them to let him
+            have a few more packs.                --Macaulay.
+      [1913 Webster]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>thumb</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Thumb \Thumb\, n. [OE. thombe, thoumbe, [thorn]ume, AS.
+   [thorn][=u]ma; akin to OFries. th[=u]ma, D. duim, G. daumen,
+   OHG. d[=u]mo, Icel. [thorn]umall, Dan. tommelfinger, Sw.
+   tumme, and perhaps to L. tumere to swell. [root]56. Cf.
+   {Thimble}, {Tumid}.]
+   The short, thick first digit of the human hand, differing
+   from the other fingers in having but two phalanges; the
+   pollex. See {Pollex}.
+   [1913 Webster]
+
+         Upon his thumb he had of gold a ring.    --Chaucer.
+   [1913 Webster]
+
+   {Thumb band}, a twist of anything as thick as the thumb.
+      --Mortimer.
+
+   {Thumb blue}, indigo in the form of small balls or lumps,
+      used by washerwomen to blue linen, and the like.
+
+   {Thumb latch}, a door latch having a lever formed to be
+      pressed by the thumb.
+
+   {Thumb mark}.
+   (a) The mark left by the impression of a thumb, as on the
+       leaves of a book. --Longfellow.
+   (b) The dark spot over each foot in finely bred black and tan
+       terriers.
+
+   {Thumb nut}, a nut for a screw, having wings to grasp between
+      the thumb and fingers in turning it; also, a nut with a
+      knurled rim for the same perpose.
+
+   {Thumb ring}, a ring worn on the thumb. --Shak.
+
+   {Thumb stall}.
+   (a) A kind of thimble or ferrule of iron, or leather, for
+       protecting the thumb in making sails, and in other work.
+   (b) (Mil.) A buckskin cushion worn on the thumb, and used to
+       close the vent of a cannon while it is sponged, or
+       loaded.
+
+   {Under one's thumb}, completely under one's power or
+      influence; in a condition of subservience. [Colloq.]
+      [1913 Webster]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>thumb</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Thumb \Thumb\, v. i.
+   To play with the thumb or thumbs; to play clumsily; to thrum.
+   [1913 Webster]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>thumb</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>thumb n. The slider on a window-system scrollbar. So called because
+   moving it allows you to browse through the contents of a text window in
+   a way analogous to thumbing through a book.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>thumb</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>thumb
+     n 1: the thick short innermost digit of the forelimb [syn: {pollex}]
+     2: the part of a glove that provides a covering for the thumb
+     3: a convex molding having a cross section in the form of a
+        quarter of a circle or of an ellipse [syn: {ovolo}, {quarter
+        round}]
+     v 1: travel by getting free rides from motorists [syn: {hitchhike},
+           {hitch}]
+     2: look through a book or other written material; "He thumbed
+        through the report"; "She leafed through the volume" [syn:
+         {flick}, {flip}, {riffle}, {leaf}, {riff}]
+     3: feel or handle with the fingers; "finger the binding of the
+        book" [syn: {finger}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

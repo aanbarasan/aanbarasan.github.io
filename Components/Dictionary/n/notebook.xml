@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>notebook</Word>
+  <Definitions>
+    <Definition>
+      <Word>notebook</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>notebook
+     
+        1. &lt;computer&gt; {laptop computer}.
+     
+        2. &lt;tool&gt; {Labtech Notebook}.
+     
+        (1998-01-05)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>notebook</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Notebook \Note"book`\, n.
+   1. A book in which notes or memorandums are written.
+      [1913 Webster]
+
+   2. A book in which notes of hand are registered.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>notebook</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>notebook
+     n 1: a book with blank pages for recording notes or memoranda
+     2: a small compact portable computer [syn: {notebook computer}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

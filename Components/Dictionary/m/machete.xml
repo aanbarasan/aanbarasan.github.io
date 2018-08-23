@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>machete</Word>
+  <Definitions>
+    <Definition>
+      <Word>machete</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Machete \Ma*che"te\ (m[.a]*sh[e^]t"[-e]; Sp.
+   m[.a]*ch[=a]"t[asl]), n. [Sp.]
+   A large heavy knife resembling a broadsword, often two or
+   three feet in length, -- used by the inhabitants of Spanish
+   America as a hatchet to cut their way through thickets, and
+   for various other purposes. --J. Stevens.
+
+   Syn: matchet.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>machete</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>matchet \matchet\ n.
+   a large heavy knife used in Central and South America as a
+   weapon or for cutting vegetation; usually called {machete}.
+
+   Syn: machete, panga.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>machete</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>machete
+     n : a large heavy knife used in Central and South America as a
+         weapon or for cutting vegetation [syn: {matchet}, {panga}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

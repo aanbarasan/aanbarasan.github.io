@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pretzel</Word>
+  <Definitions>
+    <Definition>
+      <Word>pretzel</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pretzel \Pret"zel\, n. [G. pretzel, bretzel. Cf. {Bretzel}.]
+   A kind of German biscuit or cake in the form of a twisted
+   ring, salted on the outside.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pretzel</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pretzel
+     n : glazed and salted cracker typically in the shape of a loose
+         knot
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>reflector</Word>
+  <Definitions>
+    <Definition>
+      <Word>reflector</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Reflector \Re*flect"or\ (-[~e]r), n. [Cf. F. r['e]flecteur.]
+   1. One who, or that which, reflects. --Boyle.
+      [1913 Webster]
+
+   2. (Physics)
+      (a) Something having a polished surface for reflecting
+          light or heat, as a mirror, a speculum, etc.
+      (b) A reflecting telescope.
+      (c) A device for reflecting sound.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>reflector</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>reflector
+     n 1: device that reflects radiation
+     2: optical telescope consisting of a large concave mirror that
+        produces an image that is magnified by the eyepiece;
+        "Isaac Newton invented the reflecting telescope in 1668"
+        [syn: {reflecting telescope}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

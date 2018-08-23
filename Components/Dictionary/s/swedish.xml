@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>swedish</Word>
+  <Definitions>
+    <Definition>
+      <Word>swedish</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Swedish \Swed"ish\, a. [Cf. G. schwedisch, Sw. svensk.]
+   Of or pertaining to Sweden or its inhabitants.
+   [1913 Webster]
+
+   {Swedish turnip}. (Bot.) See under {Turnip}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>swedish</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Swedish \Swed"ish\, n.
+   The language of Swedes.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>swedish</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Swedish
+     adj : of or relating to or characteristic of Sweden or its people
+           or culture or language; "the Swedish King"; "Swedish
+           punch"; "Swedish umlauts"
+     n : a Scandinavian language that is the official language of
+         Sweden and one of two official languages of Finland
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

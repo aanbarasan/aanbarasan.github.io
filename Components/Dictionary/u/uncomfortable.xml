@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>uncomfortable</Word>
+  <Definitions>
+    <Definition>
+      <Word>uncomfortable</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Uncomfortable \Un*com"fort*a*ble\, a.
+   1. Feeling discomfort; uneasy; as, to be uncomfortable on
+      account of one's position.
+      [1913 Webster]
+
+   2. Causing discomfort; disagreeable; unpleasant; as, an
+      uncomfortable seat or situation.
+      [1913 Webster]
+
+            The most dead, uncomfortable time of the year.
+                                                  --Addison.
+      [1913 Webster] -- {Un*com"fort*a*ble*ness}, n. --
+      {Un*com"fort*a*bly}, adv.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>uncomfortable</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>uncomfortable
+     adj 1: conducive to or feeling mental discomfort; "this kind of
+            life can prove disruptive and uncomfortable"; "the
+            uncomfortable truth"; "grew uncomfortable beneath his
+            appraising eye"; "an uncomfortable way of surprising
+            me just when I felt surest"; "the teacher's presence
+            at the conference made the child very uncomfortable"
+            [ant: {comfortable}]
+     2: providing or experiencing physical discomfort; "an
+        uncomfortable chair"; "an uncomfortable day in the hot
+        sun" [ant: {comfortable}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

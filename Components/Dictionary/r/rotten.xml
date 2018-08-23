@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rotten</Word>
+  <Definitions>
+    <Definition>
+      <Word>rotten</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rotten \Rot"ten\, a. [Icel. rotinn; akin to Sw. rutten, Dan.
+   radden. See {Rot}.]
+   Having rotted; putrid; decayed; as, a rotten apple; rotten
+   meat. Hence:
+   (a) Offensive to the smell; fetid; disgusting.
+       [1913 Webster]
+
+             You common cry of curs! whose breath I hate
+             As reek of the rotten fens.          --Shak.
+       [1913 Webster]
+   (b) Not firm or trusty; unsound; defective; treacherous;
+       unsafe; as, a rotten plank, bone, stone. ``The deepness
+       of the rotten way.'' --Knolles.
+       [1913 Webster]
+
+   {Rotten borough}. See under {Borough}.
+
+   {Rotten stone} (Min.), a soft stone, called also Tripoli
+      (from the country from which it was formerly brought),
+      used in all sorts of finer grinding and polishing in the
+      arts, and for cleaning metallic substances. The name is
+      also given to other friable siliceous stones applied to
+      like uses.
+      [1913 Webster]
+
+   Syn: Putrefied; decayed; carious; defective; unsound;
+        corrupt; deceitful; treacherous.
+        [1913 Webster] -- {Rot"ten*ly}, adv. -- {Rot"ten*ness},
+        n.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rotten</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rotten
+     adj 1: very bad; "a lousy play"; "it's a stinking world" [syn: {icky},
+             {crappy}, {lousy}, {shitty}, {stinking}, {stinky}]
+     2: having rotted or disintegrated; usually implies foulness;
+        "dead and rotten in his grave" [ant: {unrotten}]
+     3: damaged by decay; hence unsound and useless; "rotten floor
+        boards"; "rotted beams"; "a decayed foundation" [syn: {decayed},
+         {rotted}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>wadded</Word>
+  <Definitions>
+    <Definition>
+      <Word>wadded</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>wad
+     n 1: (often followed by `of') a large number or amount or extent;
+          "a batch of letters"; "a deal of trouble"; "a lot of
+          money"; "he made a mint on the stock market"; "it must
+          have cost plenty" [syn: {batch}, {deal}, {flock}, {good
+          deal}, {great deal}, {hatful}, {heap}, {lot}, {mass}, {mess},
+           {mickle}, {mint}, {muckle}, {peck}, {pile}, {plenty}, {pot},
+           {quite a little}, {raft}, {sight}, {slew}, {spate}, {stack},
+           {tidy sum}, {whole lot}, {whole slew}]
+     2: a wad of something chewable as tobacco [syn: {chew}, {chaw},
+         {cud}, {quid}, {plug}]
+     v 1: compress into a wad; "wad paper into the box" [syn: {pack},
+          {bundle}, {compact}]
+     2: crowd or pack to capacity; "the theater was jampacked" [syn:
+         {jam}, {jampack}, {ram}, {chock up}, {cram}]
+     [also: {wadding}, {wadded}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wadded</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>wadded
+     See {wad}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

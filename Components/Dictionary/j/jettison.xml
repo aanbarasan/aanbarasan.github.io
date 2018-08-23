@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>jettison</Word>
+  <Definitions>
+    <Definition>
+      <Word>jettison</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Jettison \Jet"ti*son\ n. [See {Jetsam}.]
+   [1913 Webster]
+   1. (Mar. Law) The throwing overboard of goods from necessity,
+      in order to lighten a vessel in danger of wreck.
+      [1913 Webster]
+
+   2. See {Jetsam}, 1.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>jettison</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>jettison
+     v 1: throw away, of something encumbering
+     2: throw as from an airplane
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

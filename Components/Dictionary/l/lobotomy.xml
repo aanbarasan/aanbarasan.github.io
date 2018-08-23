@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lobotomy</Word>
+  <Definitions>
+    <Definition>
+      <Word>lobotomy</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>lobotomy
+     
+        1. What a hacker subjected to formal management training is
+        said to have undergone.  At {IBM} and elsewhere this term is
+        used by both hackers and low-level management; the latter
+        doubtless intend it as a joke.
+     
+        2. The act of removing the processor from a {microcomputer} in
+        order to replace or upgrade it.  Some very cheap {clone}
+        systems are sold in "lobotomised" form - everything but the
+        brain.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lobotomy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>lobotomy \lobotomy\ n. (Med., Surgery)
+   The surgical interruption of nerve tracts to and from the
+   frontal lobe of the brain, by cutting into the brain.
+
+   Syn: prefrontal lobotomy, prefrontal leucotomy.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lobotomy</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>lobotomy n. 1. What a hacker subjected to formal management training is
+   said to have undergone. At IBM and elsewhere this term is used by both
+   hackers and low-level management; the latter doubtless intend it as a
+   joke. 2. The act of removing the processor from a microcomputer in order
+   to replace or upgrade it. Some very cheap {clone} systems are sold in
+   `lobotomized' form -- everything but the brain.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lobotomy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>lobotomy
+     n : surgical interruption of nerve tracts to and from the
+         frontal lobe of the brain; often results in marked
+         cognitive and personality changes [syn: {leukotomy}, {leucotomy},
+          {prefrontal lobotomy}, {prefrontal leukotomy}, {prefrontal
+         leucotomy}, {frontal lobotomy}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

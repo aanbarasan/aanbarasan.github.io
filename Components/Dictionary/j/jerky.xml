@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>jerky</Word>
+  <Definitions>
+    <Definition>
+      <Word>jerky</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>jerky \jerk"y\, n. [Corrupted from Peruv. charqui dried beef.]
+   Meat, especially beef, that has been cut in strips and dried;
+   meat that has been jerked; see first {jerk}, v.; as, beef
+   jerky
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>jerky</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>jerky \jerk"y\, a.
+   1. Moving by jerks and starts; characterized by abrupt
+      transitions; as, a jerky vehicle; a jerky style.
+      [1913 Webster]
+
+   2. Foolish; ridiculous; stupid. [slang]
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>jerky</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>jerky
+     adj : not having a steady rhythm; "an arrhythmic heartbeat" [syn:
+           {arrhythmic}, {jerking}, {unsteady}]
+     n : meat cut in strips and dried in the sun [syn: {jerked meat}]
+     [also: {jerkiest}, {jerkier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nsf</Word>
+  <Definitions>
+    <Definition>
+      <Word>nsf</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>NSF
+     
+        {National Science Foundation}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nsf</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>NSF
+     National Science Foundation (org., USA)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nsf</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>NSF
+     Norges StandardiseringsForbund (org., Norway)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nsf</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>NSF
+     n : an independent agency of the federal government responsible
+         for the promotion of progress in science and engineering
+         by supporting programs in research and education [syn: {Nationaol
+         Science Foundation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

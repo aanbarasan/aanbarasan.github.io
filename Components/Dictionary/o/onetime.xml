@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>onetime</Word>
+  <Definitions>
+    <Definition>
+      <Word>onetime</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>one time
+     adv : on one occasion; "once I ran into her" [syn: {once}, {in one
+           case}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>onetime</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>onetime
+     adj : belonging to some prior time; "erstwhile friend"; "our
+           former glory"; "the once capital of the state"; "her
+           quondam lover" [syn: {erstwhile(a)}, {former(a)}, {once(a)},
+            {onetime(a)}, {quondam(a)}, {sometime(a)}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

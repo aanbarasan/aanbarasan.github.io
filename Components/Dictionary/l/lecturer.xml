@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lecturer</Word>
+  <Definitions>
+    <Definition>
+      <Word>lecturer</Word>
+      <Dictionary>
+        <Id>devils</Id>
+        <Name>THE DEVIL'S DICTIONARY ((C)1911 Released April 15 1993)</Name>
+      </Dictionary>
+      <WordDefinition>LECTURER, n.  One with his hand in your pocket, his tongue in your ear
+and his faith in your patience.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lecturer</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lecturer \Lec"tur*er\ (-[~e]r), n.
+   One who lectures; an assistant preacher.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lecturer</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>lecturer
+     n 1: a public lecturer at certain universities [syn: {lector}, {reader}]
+     2: someone who lectures professionally
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

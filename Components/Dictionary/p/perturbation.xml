@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>perturbation</Word>
+  <Definitions>
+    <Definition>
+      <Word>perturbation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Perturbation \Per`tur*ba"tion\, n. [L. perturbatio: cf. F.
+   perturbation.]
+   1. The act of perturbing, or the state of being perturbed;
+      esp., agitation of mind.
+      [1913 Webster]
+
+   2. (Astron.) A disturbance in the regular elliptic or other
+      motion of a heavenly body, produced by some force
+      additional to that which causes its regular motion; as,
+      the perturbations of the planets are caused by their
+      attraction on each other. --Newcomb.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>perturbation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>perturbation
+     n 1: an unhappy and worried mental state; "there was too much
+          anger and disturbance"; "she didn't realize the upset
+          she caused me" [syn: {disturbance}, {upset}]
+     2: (physics) a secondary influence on a system that causes it
+        to deviate slightly
+     3: activity that is an intrusion or interruption; "he looked
+        around for the source of the disturbance"; "there was a
+        disturbance of neural function" [syn: {disturbance}]
+     4: a disposition that is confused or nervous and upset [syn: {fluster}]
+     5: the act of causing disorder [syn: {disruption}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

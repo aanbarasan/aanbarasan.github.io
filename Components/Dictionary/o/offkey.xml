@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>offkey</Word>
+  <Definitions>
+    <Definition>
+      <Word>offkey</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>off-key \off-key\ adj. &amp; adv.
+   Deviating from the proper pitch; -- of a musical note or
+   series of notes; as, an off-key note; to sing off-key.
+
+   Syn: false, sour.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>offkey</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>off-key
+     adj : inaccurate in pitch; "a false (or sour) note"; "her singing
+           was off key" [syn: {false}, {sour}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sensitivity</Word>
+  <Definitions>
+    <Definition>
+      <Word>sensitivity</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sensitivity \Sen`si*tiv"i*ty\, n.
+   The quality or state of being sensitive; -- used chiefly in
+   science and the arts; as, the sensitivity of iodized silver.
+   [1913 Webster]
+
+         Sensitivity and emotivity have also been used as the
+         scientific term for the capacity of feeling. --Hickok.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sensitivity</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sensitivity
+     n 1: (physiology) responsiveness to external stimuli;
+          "sensitivity to pain" [syn: {sensitiveness}, {sensibility}]
+     2: the ability to respond to physical stimuli or to register
+        small physical amounts or differences; "a galvanometer of
+        extreme sensitivity"
+     3: sensitivity to emotional feelings (of self and others) [syn:
+         {sensitiveness}]
+     4: susceptibility to a pathogen [syn: {predisposition}]
+     5: the ability to respond to affective changes in your
+        interpersonal environment [syn: {sensitiveness}] [ant: {insensitivity},
+         {insensitivity}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rebellion</Word>
+  <Definitions>
+    <Definition>
+      <Word>rebellion</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rebellion \Re*bel"lion\ (r[-e]*b[e^]l"y[u^]n), n. [F.
+   r['e]bellion, L. rebellio. See {Rebel}, v. i. Among the
+   Romans rebellion was originally a revolt or open resistance
+   to their government by nations that had been subdued in war.
+   It was a renewed war.]
+   1. The act of rebelling; open and avowed renunciation of the
+      authority of the government to which one owes obedience,
+      and resistance to its officers and laws, either by levying
+      war, or by aiding others to do so; an organized uprising
+      of subjects for the purpose of coercing or overthrowing
+      their lawful ruler or government by force; revolt;
+      insurrection.
+      [1913 Webster]
+
+            No sooner is the standard of rebellion displayed
+            than men of desperate principles resort to it.
+                                                  --Ames.
+      [1913 Webster]
+
+   2. Open resistance to, or defiance of, lawful authority.
+      [1913 Webster]
+
+   {Commission of rebellion} (Eng. Law), a process of contempt
+      issued on the nonappearance of a defendant, -- now
+      abolished. --Wharton. --Burrill.
+      [1913 Webster]
+
+   Syn: Insurrection; sedition; revolt; mutiny; resistance;
+        contumacy. See {Insurrection}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rebellion</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rebellion
+     n 1: refusal to accept some authority or code or convention;
+          "each generation must have its own rebellion"; "his body
+          was in rebellion against fatigue"
+     2: organized opposition to authority; a conflict in which one
+        faction tries to wrest control from another [syn: {insurrection},
+         {revolt}, {rising}, {uprising}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

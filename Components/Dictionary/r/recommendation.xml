@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>recommendation</Word>
+  <Definitions>
+    <Definition>
+      <Word>recommendation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Recommendation \Rec`om*men*da"tion\ (r?k`?m*m?n*d?"sh?n), n.
+   [Cf. F. recommandation.]
+   1. The act of recommending.
+      [1913 Webster]
+
+   2. That which recommends, or commends to favor; anything
+      procuring, or tending to procure, a favorable reception,
+      or to secure acceptance and adoption; as, he brought
+      excellent recommendations.
+      [1913 Webster]
+
+   3. The state of being recommended; esteem. [R.]
+      [1913 Webster]
+
+            The burying of the dead . . . hath always been had
+            in an extraordinary recommendation amongst the
+            ancient.                              --Sir T.
+                                                  North.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>recommendation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>recommendation
+     n 1: something (as a course of action) that is recommeended as
+          advisable
+     2: something that recommends (or expresses commendation) of a
+        person or thing as worthy or desirable [syn: {testimonial},
+         {good word}]
+     3: any quality or characteristic that gains a person a
+        favorable reception or acceptance or admission; "her
+        pleasant personality is already a recommendation"; "his
+        wealth was not a passport into the exclusive circles of
+        society" [syn: {passport}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

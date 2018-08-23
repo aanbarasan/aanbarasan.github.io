@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>promotion</Word>
+  <Definitions>
+    <Definition>
+      <Word>promotion</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>promotion \pro*mo"tion\ (pr[-o]*m[=o]"sh[u^]n), n. [L. promotio:
+   cf. F. promotion.]
+   The act of promoting, advancing, or encouraging; the act of
+   exalting in rank or honor; also, the condition of being
+   advanced, encouraged, or exalted in honor; preferment.
+   --Milton.
+   [1913 Webster]
+
+         Promotion cometh neither from the east, nor from the
+         west, nor from the south.                --Ps. lxxv. 6.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>promotion</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>promotion
+     n 1: a message issued in behalf of some product or cause or idea
+          or person or institution [syn: {publicity}, {promotional
+          material}, {packaging}]
+     2: act of raising in rank or position [ant: {demotion}]
+     3: encouragement of the progress or growth or acceptance of
+        something [syn: {furtherance}, {advancement}]
+     4: the advancement of some enterprise; "his experience in
+        marketing resulted in the forwarding of his career" [syn:
+        {forwarding}, {furtherance}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

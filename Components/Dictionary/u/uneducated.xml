@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>uneducated</Word>
+  <Definitions>
+    <Definition>
+      <Word>uneducated</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>uneducated
+     adj 1: not having a good education [ant: {educated}]
+     2: not adequately educated in the use of numerical terms and
+        concepts
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

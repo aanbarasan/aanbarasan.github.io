@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>testosterone</Word>
+  <Definitions>
+    <Definition>
+      <Word>testosterone</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Testosterone \Tes*tos"ter*one\ (t[e^]s*t[o^]s"t[~e]r*[=o]n), n.
+   [testes + o + sterone a steroid ketone.]
+   a steroid hormone ({C19H28O2}) produced mostly in the testes,
+   which is responsible for producing the secondary sexual
+   characteristics of males.
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>testosterone</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>testosterone
+     n : a potent androgenic hormone produced chiefly by the testes;
+         responsible for the development of male secondary sex
+         characteristics
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

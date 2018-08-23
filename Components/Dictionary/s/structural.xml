@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>structural</Word>
+  <Definitions>
+    <Definition>
+      <Word>structural</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Structural \Struc"tur*al\, a.
+   1. Of or pertaining to structure; affecting structure; as, a
+      structural error.
+      [1913 Webster]
+
+   2. (Biol.) Of or pertaining to organit structure; as, a
+      structural element or cell; the structural peculiarities
+      of an animal or a plant.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>structural</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>structural
+     adj 1: relating to or caused by structure, especially political or
+            economic structure; "structural unemployment in a
+            technological society"
+     2: relating to or having or characterized by structure;
+        "structural engineer"; "structural errors"; "structural
+        simplicity"
+     3: affecting or involved in structure or construction; "the
+        structural details of a house such as beams and joists and
+        rafters; not ornamental elements"; "structural damage"
+     4: concerned with systematic structure in a particular field of
+        study
+     5: pertaining to geological structure; "geomorphological
+        features of the Black Hills"; "morphological features of
+        granite"; "structural effects of folding and faulting of
+        the earth's surface" [syn: {geomorphologic}, {geomorphological},
+         {morphologic}, {morphological}]
+     6: relating to or concerned with the morphology of plants and
+        animals; "morphological differences" [syn: {morphologic},
+        {morphological}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

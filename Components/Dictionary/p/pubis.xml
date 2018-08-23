@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pubis</Word>
+  <Definitions>
+    <Definition>
+      <Word>pubis</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pubis \Pu"bis\, n. [NL. See {Pubes}.] (Anat.)
+   The ventral and anterior of the three principal bones
+   composing either half of the pelvis; sharebone; pubic bone.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pubis</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pubis
+     n : one of the three sections of the hipbone; together the two
+         pubic bones form the front of the pelvis [syn: {pubic
+         bone}, {os pubis}]
+     [also: {pubes} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

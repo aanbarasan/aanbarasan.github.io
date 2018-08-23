@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pricing</Word>
+  <Definitions>
+    <Definition>
+      <Word>pricing</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Price \Price\, v. t. [imp. &amp; p. p. {Priced}; p. pr. &amp; vb. n.
+   {Pricing}.]
+   1. To pay the price of. [Obs.]
+      [1913 Webster]
+
+            With thine own blood to price his blood. --Spenser.
+      [1913 Webster]
+
+   2. To set a price on; to value. See {Prize}.
+      [1913 Webster]
+
+   3. To ask the price of; as, to price eggs. [Colloq.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pricing</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pricing
+     n : the evaluation of something in terms of its price
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>manihot</Word>
+  <Definitions>
+    <Definition>
+      <Word>manihot</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Manihoc \Man"i*hoc\, Manihot \Man"i*hot\, n.
+   See {Manioc}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>manihot</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Manioc \Ma"ni*oc\, n. [Pg. mandioca, fr. Braz.] (Bot.)
+   The tropical plants ({Manihot utilissima}, and {Manihot
+   Aipi}), from which cassava and tapioca are prepared; also,
+   cassava. [Written also {mandioc}, {manihoc}, {manihot}.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>manihot</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Manihot
+     n : genus of economically important tropical plants: cassava
+         [syn: {genus Manihot}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

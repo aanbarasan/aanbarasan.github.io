@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>publicly</Word>
+  <Definitions>
+    <Definition>
+      <Word>publicly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Publicly \Pub"lic*ly\, adv.
+   1. With exposure to popular view or notice; without
+      concealment; openly; as, property publicly offered for
+      sale; an opinion publicly avowed; a declaration publicly
+      made.
+      [1913 Webster]
+
+   2. In the name of the community. --Addison.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>publicly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>publicly
+     adv 1: in a manner accessible to or observable by the public;
+            openly; "she admitted publicly to being a communist"
+            [syn: {publically}, {in public}] [ant: {privately}]
+     2: by the public or the people generally; "publicly provided
+        medical care"; "publicly financed schools" [ant: {privately}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

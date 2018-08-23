@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pineapple</Word>
+  <Definitions>
+    <Definition>
+      <Word>pineapple</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Pine Apple, AL (town, FIPS 59880)
+  Location: 31.87373 N, 86.98768 W
+  Population (1990): 365 (227 housing units)
+  Area: 8.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 36768
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pineapple</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>fragmentation grenade \fragmentation grenade\ n. (Mil.)
+   A type of hand grenade designed to burst into multiple
+   fragments upon detonation of the explosive charge; the
+   fragments fly away at high velocity, killing or wounding
+   persons nearby. Contrasted to {concussion grenade}. The
+   common type of fragmentation grenade used by the American
+   military was sometimes jocosely referred to as a {pineapple}
+   from its reticulated surface appearance, resembling that of
+   the fruit.
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pineapple</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pineapple \Pine"ap`ple\, n. (Bot.)
+   A tropical plant ({Ananassa sativa}); also, its fruit; -- so
+   called from the resemblance of the latter, in shape and
+   external appearance, to the cone of the pine tree. Its origin
+   is unknown, though conjectured to be American.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pineapple</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pineapple
+     n 1: a tropical American plant bearing a large fleshy edible
+          fruit with a terminal tuft of stiff leaves; widely
+          cultivated in the tropics [syn: {pineapple plant}, {Ananas
+          comosus}]
+     2: large sweet fleshy tropical fruit with a terminal tuft of
+        stiff leaves; widely cultivated [syn: {ananas}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>std</Word>
+  <Definitions>
+    <Definition>
+      <Word>std</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>STD
+     
+        1. {state transition diagram}.
+     
+        2. {Internet} standard.
+     
+        A subseries of {Request For Comments} (RFC) that specify
+        {Internet} {standard}s.  The official list of Internet
+        standards is {STD 1}.
+     
+        See also {For Your Information}.
+     
+        {rfc.net (http://www.rfc.net/)}.
+     
+        (1994-11-30)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>std</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>STD
+     Secondary Transmitted Data
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>std</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>STD
+     SeT Direction [flag] (assembler)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>std</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>STD
+     Subscriber Trunk Dialing
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>std</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>STD
+     State Transition Diagram
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>std</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>STD
+     Suspend To Disk (BIOS, ACPI)
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

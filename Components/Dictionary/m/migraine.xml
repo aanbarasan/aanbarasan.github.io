@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>migraine</Word>
+  <Definitions>
+    <Definition>
+      <Word>migraine</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Megrim \Me"grim\, n. [OE. migrim, migrene, F. migraine, LL.
+   hemigrania, L. hemicrania, hemicranium, Gr. ?; ?- half + ?
+   skull. See {Hemi-} and {Cranium}, and cf. {Hemicrania},
+   {Migraine}.]
+   1. A kind of sick or nervous headache, usually periodical and
+      confined to one side of the head; now more commonly called
+      {migraine headache} or {migraine}.
+      [1913 Webster +PJC]
+
+   2. A fancy; a whim; a freak; a humor; esp., in the plural,
+      lowness of spirits.
+      [1913 Webster]
+
+            These are his megrims, firks, and melancholies.
+                                                  --Ford.
+      [1913 Webster]
+
+   3. pl. (Far.) A sudden vertigo in a horse, succeeded
+      sometimes by unconsciousness, produced by an excess of
+      blood in the brain; a mild form of apoplexy. --Youatt.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>migraine</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>migraine \mi*graine"\, n. [F. migraine, LL. hemigrania, L.
+   hemicrania, hemicranium, Gr. "hmikrani`a; "hmi- half +
+   krani`on skull. See {Hemi-} and {Cranium}, and cf.
+   {Hemicrania}, {Migraine}.]
+   1. A kind of intense sick or nervous headache, usually
+      periodical and confined to one side of the head; called
+      also {migraine headache}. Same as {megrim}. --
+      {Mi*grain"ous}, a.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>migraine</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>migraine
+     n : a severe recurring vascular headache; occurs more frequently
+         in women than men [syn: {megrim}, {sick headache}, {hemicrania}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

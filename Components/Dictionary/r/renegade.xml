@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>renegade</Word>
+  <Definitions>
+    <Definition>
+      <Word>renegade</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Renegade \Ren"e*gade\ (r?n"?-g?d), n. [Sp. renegado, LL.
+   renegatus, fr. renegare to deny; L. pref. re- re- + negare to
+   deny. See {Negation}, and cf. {Runagate}.]
+   One faithless to principle or party. Specifically:
+   (a) An apostate from Christianity or from any form of
+       religious faith.
+       [1913 Webster]
+
+             James justly regarded these renegades as the most
+             serviceable tools that he could employ. --Macaulay.
+       [1913 Webster]
+   (b) One who deserts from a military or naval post; a
+       deserter. --Arbuthnot.
+   (c) A common vagabond; a worthless or wicked fellow.
+       [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>renegade</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>renegade
+     adj : having deserted a cause or principle; "some provinces had
+           proved recreant"; "renegade supporters of the usurper"
+           [syn: {recreant}]
+     n 1: someone who rebels and becomes an outlaw
+     2: a disloyal person who betrays or deserts his cause or
+        religion or political party or friend etc. [syn: {deserter},
+         {apostate}, {turncoat}, {recreant}, {ratter}]
+     v : break with established customs [syn: {rebel}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

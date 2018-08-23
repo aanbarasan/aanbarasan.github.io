@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>uncertainly</Word>
+  <Definitions>
+    <Definition>
+      <Word>uncertainly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Uncertainly \Un*cer"tain*ly\, adv.
+   In an uncertain manner.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>uncertainly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>uncertainly
+     adv 1: in an unsteady manner; "he walked unsteadily toward the
+            exit"; "The wounded soldier was swinging unsteadily on
+            his legs" [syn: {unsteadily}, {falteringly}] [ant: {steadily}]
+     2: showing lack of certainty; "he paused uncertainly"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

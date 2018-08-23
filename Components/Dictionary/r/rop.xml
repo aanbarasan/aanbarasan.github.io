@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rop</Word>
+  <Definitions>
+    <Definition>
+      <Word>rop</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pluto \Plu"to\, [Also spelled {rop. .]n. [L., fr. Gr. ?.]
+   1. (Class. Myth.) The son of Saturn and Rhea, brother of
+      Jupiter and Neptune; the dark and gloomy god of the Lower
+      World.
+      [1913 Webster]
+
+   2. The ninth planet of the Solar System, the smallest (5700
+      km radius) and most distant from the sun. The suggestion
+      has been made that it more closely resembles a large close
+      comet than a planet. Its orbit has an eccentricity of
+      0.248, larger than that of any other planet; it varies
+      from 4.44 to 7.37 billion km distance from the sun.
+      [PJC]
+
+            Pluto is an oddball among its eight sister planets.
+            It's the smallest in both size and mass, and has the
+            most elliptical orbit. It moves in a plane tilted
+            markedly away from the other planets' orbits.
+            Moreover, Pluto is the only planet made almost
+            entirely of ice.                      --Ron Cohen
+                                                  (Science News,
+                                                  Feb. 27, 1999,
+                                                  p. 139)
+
+   {Pluto monkey} (Zo["o]l.), a long-tailed African monkey
+      ({Cercopithecus pluto}), having side whiskers. The general
+      color is black, more or less grizzled; the frontal band is
+      white.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rop</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>ROP
+     Remote Operations Service (IBM, OS/2)
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

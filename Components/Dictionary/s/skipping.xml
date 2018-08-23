@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>skipping</Word>
+  <Definitions>
+    <Definition>
+      <Word>skipping</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Skip \Skip\, v. i. [imp. &amp; p. p. {Skipped}; p. pr. &amp; vb. n.
+   {Skipping}.] [OE. skippen, of uncertain origin; cf. Icel.
+   skopa run, skoppa to spin like a top, OSw. &amp; dial. Sw.
+   skimmpa to run, skimpa, skompa, to hop, skip; or Ir. sgiob to
+   snatch, Gael. sgiab to start or move suddenly, to snatch, W.
+   ysgipio to snatch.]
+   1. To leap lightly; to move in leaps and hounds; -- commonly
+      implying a sportive spirit.
+      [1913 Webster]
+
+            The lamb thy riot dooms to bleed to-day,
+            Had he thy reason, would he skip and play? --Pope.
+      [1913 Webster]
+
+            So she drew her mother away skipping, dancing, and
+            frisking fantastically.               --Hawthorne.
+      [1913 Webster]
+
+   2. Fig.: To leave matters unnoticed, as in reading, speaking,
+      or writing; to pass by, or overlook, portions of a thing;
+      -- often followed by over.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>skipping</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>skip
+     n 1: a gait in which steps and hops alternate
+     2: a mistake resulting from neglect [syn: {omission}]
+     v 1: bypass; "He skipped a row in the text and so the sentence
+          was incomprehensible" [syn: {jump}, {pass over}, {skip
+          over}]
+     2: intentionally fail to attend; "cut class" [syn: {cut}]
+     3: jump lightly [syn: {hop}, {hop-skip}]
+     4: leave suddenly; "She persuaded him to decamp"; "skip town"
+        [syn: {decamp}, {vamoose}]
+     5: bound off one point after another [syn: {bound off}]
+     6: cause to skip over a surface; "Skip a stone across the pond"
+        [syn: {skim}, {skitter}]
+     [also: {skipping}, {skipped}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>skipping</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>skipping
+     See {skip}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

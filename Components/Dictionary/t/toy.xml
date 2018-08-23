@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>toy</Word>
+  <Definitions>
+    <Definition>
+      <Word>toy</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>toy
+     
+        A computer system; always used with qualifiers.
+     
+        1. "nice toy": One that supports the speaker's hacking style
+        adequately.
+     
+        2. "just a toy": A machine that yields insufficient
+        {computron}s for the speaker's preferred uses.  This is not
+        condemnatory, as is {bitty box}; toys can at least be fun.  It
+        is also strongly conditioned by one's expectations; Cray XMP
+        users sometimes consider the Cray-1 a "toy", and certainly all
+        RISC boxes and mainframes are toys by their standards.  See
+        also {Get a real computer!}.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>toy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Toy \Toy\ (toi), n. [D. tuid tools, implements, stuff, trash,
+   speeltuig playthings, toys; akin to G. zeug stuff, materials,
+   MNG. ziuc, Icel. tygi gear; all ultimately from the root of
+   E. tug, v. t.; cf. G. zeugen to beget, MHG. ziugen to beget,
+   make ready, procure. See {Tug}, v. t.]
+   [1913 Webster]
+   1. A plaything for children; a bawble. --Cowper.
+      [1913 Webster]
+
+   2. A thing for amusement, but of no real value; an article of
+      trade of little value; a trifle.
+      [1913 Webster]
+
+            They exchange for knives, glasses, and such toys,
+            great abundance of gold and pearl.    --Abr. Abbot.
+      [1913 Webster]
+
+   3. A wild fancy; an odd conceit; idle sport; folly; trifling
+      opinion.
+      [1913 Webster]
+
+            To fly about playing their wanton toys. --Spenser.
+      [1913 Webster]
+
+            What if a toy take 'em in the heels now, and they
+            all run away.                         --Beau. &amp; Fl.
+      [1913 Webster]
+
+            Nor light and idle toys my lines may vainly swell.
+                                                  --Drayton.
+      [1913 Webster]
+
+   4. Amorous dalliance; play; sport; pastime. --Milton.
+      [1913 Webster]
+
+            To dally thus with death is no fit toy. --Spenser.
+      [1913 Webster]
+
+   5. An old story; a silly tale. --Shak.
+      [1913 Webster]
+
+   6. [Probably the same word.] A headdress of linen or woolen,
+      that hangs down over the shoulders, worn by old women of
+      the lower classes; -- called also {toy mutch}. [Scot.]
+      ``Having, moreover, put on her clean toy, rokelay, and
+      scarlet plaid.'' --Sir W. Scott.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>toy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Toy \Toy\, v. i. [imp. &amp; p. p. {toyed}; p. pr. &amp; vb. n.
+   {toying}.]
+   To dally amorously; to trifle; to play.
+   [1913 Webster]
+
+         To toy, to wanton, dally, smile and jest. --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>toy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Toy \Toy\, v. t.
+   To treat foolishly. [Obs.] --E. Dering (1576).
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>toy</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>toy n. A computer system; always used with qualifiers. 1. `nice toy':
+   One that supports the speaker's hacking style adequately. 2. `just a
+   toy': A machine that yields insufficient {computron}s for the speaker's
+   preferred uses. This is not condemnatory, as is {bitty box}; toys can at
+   least be fun. It is also strongly conditioned by one's expectations;
+   Cray XMP users sometimes consider the Cray-1 a `toy', and certainly all
+   RISC boxes and mainframes are toys by their standards. See also {Get a
+   real computer!}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>toy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>toy
+     n 1: an artifact designed to be played with [syn: {plaything}]
+     2: a nonfunctional replica of something else (frequently used
+        as a modifier); "a toy stove"
+     3: copy that reproduces something in greatly reduced size [syn:
+         {miniature}]
+     4: any of several breeds of very small dogs kept purely as pets
+        [syn: {toy dog}]
+     v 1: behave carelessly or indifferently; "Play about with a young
+          girl's affection" [syn: {dally}, {play}, {flirt}]
+     2: manipulate manually or in one's mind or imagination; "She
+        played nervously with her wedding ring"; "Don't fiddle
+        with the screws"; "He played with the idea of running for
+        the Senate" [syn: {fiddle}, {diddle}, {play}]
+     3: engage in an activity as if it were a game rather than take
+        it seriously; "They played games on their opponents";
+        "play the stockmarket"; "play with her feelings"; "toy
+        with an idea" [syn: {play}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

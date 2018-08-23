@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>invalidated</Word>
+  <Definitions>
+    <Definition>
+      <Word>invalidated</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Invalidate \In*val"i*date\, v. t. [imp. &amp; p. p. {Invalidated};
+   p. pr. &amp; vb. n. {Invalidating}.] [From {Invalid} null.]
+   To render invalid; to weaken or lessen the force of; to
+   destroy the authority of; to render of no force or effect; to
+   overthrow; as, to invalidate an agreement or argument.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>invalidated</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>invalidated \invalidated\ adj.
+   deprived of legal force.
+
+   Syn: nullified.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>invalidated</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>invalidated
+     adj : deprived of legal force [syn: {nullified}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

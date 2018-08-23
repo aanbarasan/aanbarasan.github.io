@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>summons</Word>
+  <Definitions>
+    <Definition>
+      <Word>summons</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Summons \Sum"mons\, v. t.
+   To summon. [R. or Colloq.] --Swift.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>summons</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Summons \Sum"mons\, n.; pl. {Summonses}. [OE. somouns, OF.
+   sumunse, semonse, semonce, F. semonce, semondre to summon,
+   OF. p. p. semons. See {Summon}, v.]
+   1. The act of summoning; a call by authority, or by the
+      command of a superior, to appear at a place named, or to
+      attend to some duty.
+      [1913 Webster]
+
+            Special summonses by the king.        --Hallam.
+      [1913 Webster]
+
+            This summons . . . unfit either to dispute or
+            disobey.                              --Bp. Fell.
+      [1913 Webster]
+
+            He sent to summon the seditious, and to offer
+            pardon; but neither summons nor pardon was regarded.
+                                                  --Sir J.
+                                                  Hayward.
+      [1913 Webster]
+
+   2. (Law) A warning or citation to appear in court; a written
+      notification signed by the proper officer, to be served on
+      a person, warning him to appear in court at a day
+      specified, to answer to the plaintiff, testify as a
+      witness, or the like.
+      [1913 Webster]
+
+   3. (Mil.) A demand to surrender.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>summons</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>summons
+     n 1: a request to be present; "they came at his bidding" [syn: {bidding}]
+     2: an order to appear in person at a given place and time
+     3: a writ issued by authority of law; usually compels the
+        defendant's attendance in a civil suit; failure to appear
+        results in a default judgment against the defendant [syn:
+        {process}]
+     v : call in an official matter, such as to attend court [syn: {summon},
+          {cite}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

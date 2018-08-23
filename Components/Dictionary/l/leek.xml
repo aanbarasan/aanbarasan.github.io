@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>leek</Word>
+  <Definitions>
+    <Definition>
+      <Word>leek</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Leek
+   (Heb. hatsir; the Allium porrum), rendered "grass" in 1 Kings
+   18:5, 2 Kings 19:26, Job 40:15, etc.; "herb" in Job 8:12; "hay"
+   in Prov. 27:25, and Isa. 15:6; "leeks" only in Num. 11:5. This
+   Hebrew word seems to denote in this last passage simply herbs,
+   such as lettuce or savoury herbs cooked as kitchen vegetables,
+   and not necessarily what are now called leeks. The leek was a
+   favourite vegetable in Egypt, and is still largely cultivated
+   there and in Palestine.
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>leek</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Leek \Leek\ (l[=e]k), n. [AS. le['a]c; akin to D. look, G.
+   lauch, OHG. louh, Icel. laukr, Sw. l["o]k, Dan l["o]g. Cf.
+   {Garlic}.] (Bot.)
+   A plant of the genus {Allium} ({Allium Porrum}), having
+   broadly linear succulent leaves rising from a loose oblong
+   cylindrical bulb. The flavor is stronger than that of the
+   common onion.
+   [1913 Webster]
+
+   {Wild leek}, in America, a plant ({Allium tricoccum}) with a
+      cluster of ovoid bulbs and large oblong elliptical leaves.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>leek</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>leek
+     n 1: plant having a large slender white bulb and flat overlapping
+          dark green leaves; used in cooking; believed derived
+          from the wild Allium ampeloprasum [syn: {scallion}, {Allium
+          porrum}]
+     2: related to onions; white cylindrical bulb and flat
+        dark-green leaves
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

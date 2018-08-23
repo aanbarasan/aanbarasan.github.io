@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>plural</Word>
+  <Definitions>
+    <Definition>
+      <Word>plural</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Plural \Plu"ral\, a. [L. pluralis, from plus, pluris, more; cf.
+   F. pluriel, OF. plurel. See {Plus}.]
+   Relating to, or containing, more than one; designating two or
+   more; as, a plural word.
+   [1913 Webster]
+
+         Plural faith, which is too much by one.  --Shak.
+   [1913 Webster]
+
+   {Plural number} (Gram.), the number which designates more
+      than one. See {Number}, n., 8.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>plural</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Plural \Plu"ral\, n. (Gram.)
+   The plural number; that form of a word which expresses or
+   denotes more than one; a word in the plural form.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>plural</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>plural
+     adj : grammatical number category referring to two or more items
+           or units [ant: {singular}]
+     n : the form of a word that is used to denote more than one
+         [syn: {plural form}] [ant: {singular}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

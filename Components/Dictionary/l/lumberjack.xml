@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lumberjack</Word>
+  <Definitions>
+    <Definition>
+      <Word>lumberjack</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>lumberjack \lum"ber*jack`\ n.
+   1. a person who works at lumbering; a lumberman.
+
+   Syn: lumberman, timberman.
+        [WordNet 1.5]
+
+   2. (Zool.) The grey jay. [Canadian]
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lumberjack</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>lumberjack
+     n 1: a person who fells trees [syn: {lumberman}, {feller}, {faller}]
+     2: a short warm outer jacket [syn: {lumber jacket}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tolerable</Word>
+  <Definitions>
+    <Definition>
+      <Word>tolerable</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tolerable \Tol"er*a*ble\, a. [L. tolerabilis: cf. F.
+   tol['e]rable. See {Tolerate}.]
+   1. Capable of being borne or endured; supportable, either
+      physically or mentally.
+      [1913 Webster]
+
+            As may affect the earth with cold and heat
+            Scarce tolerable.                     --Milton.
+      [1913 Webster]
+
+   2. Moderately good or agreeable; not contemptible; not very
+      excellent or pleasing, but such as can be borne or
+      received without disgust, resentment, or opposition;
+      passable; as, a tolerable administration; a tolerable
+      entertainment; a tolerable translation. --Dryden.
+      [1913 Webster] -- {Tol"er*a*ble*ness}, n. --
+      {Tol"er*a*bly}, adv.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tolerable</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tolerable
+     adj 1: able to be tolerated or endured; "the climate is at least
+            tolerable" [ant: {intolerable}]
+     2: neither good nor bad; "an indifferent performance"; "a
+        gifted painter but an indifferent actor"; "her work at the
+        office is passable"; "a so-so golfer"; "feeling only
+        so-so"; "prepared a tolerable dinner"; "a tolerable
+        working knowledge of French" [syn: {indifferent}, {passable},
+         {so-so(p)}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

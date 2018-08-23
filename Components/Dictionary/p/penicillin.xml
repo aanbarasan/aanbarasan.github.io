@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>penicillin</Word>
+  <Definitions>
+    <Definition>
+      <Word>penicillin</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>penicillin \pen`i*cil"lin\, n. [From Penicillium, the fungus
+   genus from which it was first isolated.] (Chem.)
+   Any of a variety of substances having a structure containing
+   a beta-lactam ring fused to a thiirane ring, to which a
+   carboxyl group is attached, most commonly referring to
+   {benzyl penicillin}. They are notable as powerful
+   antibacterial agents of relatively low toxicity which have
+   found extensive use in medicine for treating bacterial
+   infections. They are categorized as one of the classes of
+   beta-lactam antibiotic. They are produced naturally by some
+   fungi and bacteria, and industrial production processes
+   almost invariably start from some form of the penicillin
+   nucleus produced by fermentation of microorganisms. The
+   fermentation products are then chemically modified to produce
+   derivatives of enhanced potency, safety, or antibacterial
+   spectrum. The first penicillin to see extensive use
+   clinically (during World War II) was {penicillin G}, also
+   called {benzypenicillin}, and commonly simply ``penicillin''.
+   [PJC]
+
+   Note: [hand]The characteristic portion of the structure
+         characterizing a penicillin is the bicyclic structure
+         3,3-Dimethyl-7-oxo-4-thia-1-azabicylo[3.2.0]heptane-2-carboxylic
+         acid. The different penicillins have varying acyl
+         groups forming an amide bond with a nitrogen attached
+         to the 6-carbon of this nucleus. This distinguishes it
+         from the other classes of beta-lactam antibiotic, the
+         {cephalosporins}, {thienamycins} and {sulfazecin}.
+         [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>penicillin</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lactam \Lac"tam\, n. [Lactone + amido.] (Chem.)
+   One of a series of anhydrides of an amido type, analogous to
+   the lactones, as oxindol; a cyclic amide.
+   [1913 Webster]
+
+   {beta-lactam} or {[beta]-lactam},
+   (a) a lactam in which the amide bond is contained within a
+       four-membered ring, which includes the amide nitrogen and
+       the carbonyl carbon.
+   (b) an antibiotic containing a beta-lactam, such as a
+       {penicillin}, {cephalosporin}, or {carbapenem}; also
+       called a {beta-lactam antibiotic}. [informal, laboratory
+       slang]
+       [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>penicillin</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>penicillin
+     n : any of various antibiotics obtained from penicillium molds
+         (or produced synthetically) and used in the treatment of
+         various infections and diseases
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

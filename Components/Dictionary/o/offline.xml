@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>offline</Word>
+  <Definitions>
+    <Definition>
+      <Word>offline</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>off-line
+     
+        &lt;jargon&gt; (Or "offline")
+     
+        1. Not directly connected to the computer (e.g., an off-line
+        {tape drive}), or with connection suspended ("take the
+        {printer} off-line").
+     
+        Contrast {background}, {on-line}.
+     
+        2. Not now or not here.  "Let's take this discussion
+        off-line."  Specifically used on {Usenet} to suggest that a
+        discussion be moved off a public {newsgroup} to {e-mail}.
+     
+        See also {off-line world}.
+     
+        [{Jargon File}]
+     
+        (1996-02-02)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>offline</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>off-line \off-line\ adj.
+   1. (Computers) Not connected; -- of computers or computer
+      peripherals normally connected or intended to be connected
+      to other computers by a communications line; as, we can't
+      print the document because the printer is off-line.
+      [Narrower terms: {disconnected, not ready, off};
+      {unconnected ] {on-line}
+
+   Syn: offline, off line(predicate).
+        [WordNet 1.5]
+
+   2. Hence: (fig.) Outside of or after a meeting or formal
+      discussion; as, we can discuss the details off-line; -- a
+      term used at meetings and conferences to suggest
+      postponing detailed discussion of a topic so as not to
+      occupy the time of a large group most of whom may not be
+      interested.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>offline</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>offline adv. Not now or not here. "Let's take this discussion offline."
+   Specifically used on {Usenet} to suggest that a discussion be moved off
+   a public newsgroup to email.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>offline</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>off-line
+     adj 1: not on a regular route of a transportation system; "an
+            off-line ticket office" [ant: {on-line}]
+     2: not connected to a computer network; "off-line resources"
+        [ant: {on-line}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

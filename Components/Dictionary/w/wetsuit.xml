@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>wetsuit</Word>
+  <Definitions>
+    <Definition>
+      <Word>wetsuit</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>wet suit
+     n : a close-fitting garment made of a permeable material; worn
+         in cold water (as by skin divers) to retain body heat
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

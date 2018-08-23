@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unused</Word>
+  <Definitions>
+    <Definition>
+      <Word>unused</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Unused \Un*used"\, a.
+   1. Not used; as, an unused book; an unused apartment.
+      [1913 Webster]
+
+   2. Not habituated; unaccustomed.
+      [1913 Webster]
+
+            Unused to bend, impatient of control. --Thomson.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>unused</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unused
+     adj 1: not yet used or soiled; "a fresh shirt"; "a fresh sheet of
+            paper"; "an unused envelope" [syn: {fresh}]
+     2: not yet put into use; "we boughtt an unused car for a
+        change"
+     3: not in active use; "the machinery sat idle during the
+        strike"; "idle hands" [syn: {idle}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

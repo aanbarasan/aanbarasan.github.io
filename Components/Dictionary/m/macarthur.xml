@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>macarthur</Word>
+  <Definitions>
+    <Definition>
+      <Word>macarthur</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>MacArthur, WV (CDP, FIPS 49564)
+  Location: 37.75704 N, 81.20949 W
+  Population (1990): 1595 (709 housing units)
+  Area: 7.5 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>macarthur</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Macarthur, PA
+  Zip code(s): 15001
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>macarthur</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>MacArthur
+     n : United States general who served as chief of staff and
+         commanded Allied forces in the South Pacific during World
+         War II; he accepted the surrender of Japan (1880-1964)
+         [syn: {Douglas MacArthur}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

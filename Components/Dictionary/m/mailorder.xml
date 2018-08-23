@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mailorder</Word>
+  <Definitions>
+    <Definition>
+      <Word>mailorder</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>mail-order buying \mail-order buying\, mail-order \mail-order\n.
+   The buying and selling of goods to be shipped from the vendor
+   through the mail to the purchaser. Information about to be
+   purchased may be found in catalogs, advertisements, on the
+   web, etc., and purchase orders transmitted to the vendor by
+   mail, telephone, or internet connection.
+   [WordNet 1.5 +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mailorder</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mail order
+     n : a purchase negotiated by mail
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

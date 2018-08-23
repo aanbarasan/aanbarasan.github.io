@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nit</Word>
+  <Definitions>
+    <Definition>
+      <Word>nit</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Nit \Nit\ (n[i^]t), n. [AS. hnitu; akin to D. neet, G. niss,
+   OHG. niz; cf. Gr. koni`s, koni`dos, Icel. gnit, Sw. gnet,
+   Dan. gnid, Russ. &amp; Pol. gnida, Bohem. hnida, W. nedd.]
+   (Zo["o]l.)
+   The egg of a louse or other small insect.
+   [1913 Webster]
+
+   {Nit grass} (Bot.), a pretty annual European grass
+      ({Gastridium lendigerum}), with small spikelets somewhat
+      resembling a nit. It is also found in California and
+      Chile.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nit</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nit
+     n 1: a luminance unit equal to 1 candle per square meter measured
+          perpendicular to the rays from the source
+     2: egg or young of an insect parasitic on mammals especially a
+        sucking louse; often attached to a hair or item of
+        clothing
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

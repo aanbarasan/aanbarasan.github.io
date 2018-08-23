@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>prettier</Word>
+  <Definitions>
+    <Definition>
+      <Word>prettier</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pretty \Pret"ty\, a. [Compar. {Prettier}; superl. {Prettiest}.]
+   [OE. prati, AS. pr[ae]ttig, pr[ae]tig, crafty, sly, akin to
+   pr[ae]t, pr[ae]tt, deceit, trickery, Icel. prettugr tricky,
+   prettr a trick; probably fr. Latin, perhaps through Celtic;
+   cf. W. praith act, deed, practice, LL. practica execution,
+   practice, plot. See {Practice}.]
+   1. Pleasing by delicacy or grace; attracting, but not
+      striking or impressing; of a pleasing and attractive form
+      a color; having slight or diminutive beauty; neat or
+      elegant without elevation or grandeur; pleasingly, but not
+      grandly, conceived or expressed; as, a pretty face; a
+      pretty flower; a pretty poem.
+      [1913 Webster]
+
+            This is the prettiest lowborn lass that ever
+            Ran on the greensward.                --Shak.
+      [1913 Webster]
+
+   2. Moderately large; considerable; as, he had saved a pretty
+      fortune. ``Wavering a pretty while.'' --Evelyn.
+      [1913 Webster]
+
+   3. Affectedly nice; foppish; -- used in an ill sense.
+      [1913 Webster]
+
+            The pretty gentleman is the most complaisant in the
+            world.                                --Spectator.
+      [1913 Webster]
+
+   4. Mean; despicable; contemptible; -- used ironically; as, a
+      pretty trick; a pretty fellow.
+      [1913 Webster]
+
+   5. Stout; strong and brave; intrepid; valiant. [Scot.]
+      [1913 Webster]
+
+            [He] observed they were pretty men, meaning not
+            handsome.                             --Sir W.
+                                                  Scott.
+      [1913 Webster]
+
+   Syn: Elegant; neat; fine. See {Handsome}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>prettier</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pretty
+     adj 1: pleasing by delicacy or grace; not imposing; "pretty girl";
+            "pretty song"; "pretty room"
+     2: (used ironically) unexpectedly bad; "a pretty mess"; "a
+        pretty kettle of fish"
+     adv : used as an intensifier (`jolly' is used informally in
+           Britain); "pretty big"; "pretty bad"; "jolly decent of
+           him" [syn: {jolly}]
+     [also: {prettied}, {prettiest}, {prettier}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>prettier</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>prettier
+     See {pretty}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

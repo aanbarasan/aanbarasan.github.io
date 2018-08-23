@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ringer</Word>
+  <Definitions>
+    <Definition>
+      <Word>ringer</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ringer \Ring"er\, n.
+   1. One who, or that which, rings; especially, one who rings
+      chimes on bells.
+      [1913 Webster]
+
+   2. (Mining) A crowbar. --Simmonds.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ringer</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ringer \Ring"er\, n. (Horse Racing)
+   A horse that is not entitled to take part in a race, but is
+   fraudulently got into it.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ringer</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ringer
+     n 1: a person who rings church bells (as for summoning the
+          congregation) [syn: {toller}, {bell ringer}]
+     2: a person who is almost identical to another [syn: {dead
+        ringer}, {clone}]
+     3: a contestant entered in a competition under false pretenses
+     4: (horseshoes) the successful throw of a horseshoe or quoit so
+        as to encircle a stake or peg
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

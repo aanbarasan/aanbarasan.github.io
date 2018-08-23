@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>maximize</Word>
+  <Definitions>
+    <Definition>
+      <Word>maximize</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Maximize \Max"i*mize\, v. t. [L. maximus greatest.]
+   To increase to the highest degree. --Bentham.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>maximize</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>maximize
+     v 1: make as big or large as possible; "Maximize your profits!"
+          [syn: {maximise}] [ant: {minimize}, {minimize}]
+     2: make the most of; "He maximized his role" [syn: {maximise}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

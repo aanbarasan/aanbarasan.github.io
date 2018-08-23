@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>vistas</Word>
+  <Definitions>
+    <Definition>
+      <Word>vistas</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Vista \Vis"ta\, n.; pl. {Vistas}. [It., sight, view, fr. vedere,
+   p. p. visto, veduto, to see, fr. L. videre, visum. See
+   {View}, {Vision}.]
+   A view; especially, a view through or between intervening
+   objects, as trees; a view or prospect through an avenue, or
+   the like; hence, the trees or other objects that form the
+   avenue.
+   [1913 Webster]
+
+         The finished garden to the view
+         Its vistas opens, and its alleys green.  --Thomson.
+   [1913 Webster]
+
+         In the groves of their academy, at the end of every
+         vista, you see nothing but the gallows.  --Burke.
+   [1913 Webster]
+
+         The shattered tower which now forms a vista from his
+         window.                                  --Sir W.
+                                                  Scott.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

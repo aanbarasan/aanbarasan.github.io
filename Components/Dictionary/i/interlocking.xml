@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>interlocking</Word>
+  <Definitions>
+    <Definition>
+      <Word>interlocking</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>interlocking \in`ter*lock"ing\, a.
+   Connected together in such a manner that the parts work
+   together as a single unit, or in a coordianted manner.
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>interlocking</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>interlocking
+     adj : linked or locked closely together as by dovetailing [syn: {interlacing},
+            {interlinking}, {interwoven}]
+     n 1: contact by fitting together; "the engagement of the clutch";
+          "the meshing of gears" [syn: {engagement}, {mesh}, {meshing}]
+     2: the act of interlocking or meshing; "an interlocking of arms
+        by the police held the crowd in check" [syn: {mesh}, {meshing},
+         {interlock}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

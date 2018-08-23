@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mahatma</Word>
+  <Definitions>
+    <Definition>
+      <Word>mahatma</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mahatma \Ma*hat"ma\, n. [Skr. mah[=a]tman, lit., great-souled,
+   wise.] (Theosophy)
+   One of a class of sages, or ``adepts,'' reputed to have
+   knowledge and powers of a higher order than those of ordinary
+   men.
+
+   Note: The title was popularly applied to Mohandas Karamchand
+         Gandhi in tribute to his wisdom, though not implying
+         any supernatural powers; he is thus often referred to
+         as Mahatma Ghandi or The Mahatma. He was most noted for
+         his advocacy of non-violence in resisting oppression,
+         and played an important role in convincing Great
+         Britain to grant independence to India and Pakistan. --
+         {Ma*hat"ma*ism}, n.
+         [Webster 1913 Suppl. +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mahatma</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mahatma
+     n : (Hinduism) term of respect for a Brahmin sage
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

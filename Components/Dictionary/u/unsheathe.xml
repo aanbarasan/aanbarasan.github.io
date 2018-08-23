@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unsheathe</Word>
+  <Definitions>
+    <Definition>
+      <Word>unsheathe</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Unsheathe \Un*sheathe"\, v. t. [1st pref. un- + sheath.]
+   To deprive of a sheath; to draw from the sheath or scabbard,
+   as a sword.
+   [1913 Webster]
+
+   {To unsheathe the sword}, to make war.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>unsheathe</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unsheathe
+     v : draw from a sheathe or scabbard; "the knight unsheathed his
+         sword" [ant: {sheathe}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

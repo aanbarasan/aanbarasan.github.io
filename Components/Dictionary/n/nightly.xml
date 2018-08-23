@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nightly</Word>
+  <Definitions>
+    <Definition>
+      <Word>nightly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Nightly \Night"ly\, a.
+   Of or pertaining to the night, or to every night; happening
+   or done by night, or every night; as, nightly shades; he kept
+   nightly vigils.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nightly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Nightly \Night"ly\, adv.
+   At night; every night.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nightly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nightly
+     adj : happening every night; "nightly television now goes on until
+           3:00 or 4:00 a.m."
+     adv : at the end of each day; "she checks on her roses nightly"
+           [syn: {every night}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

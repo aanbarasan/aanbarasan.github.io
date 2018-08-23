@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>soiled</Word>
+  <Definitions>
+    <Definition>
+      <Word>soiled</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Soil \Soil\ (soil), v. t. [imp. &amp; p. p. {Soiled} (soild); p. pr.
+   &amp; vb. n. {Soiling}.] [OF. saoler, saouler, to satiate, F.
+   so[^u]ler, L. satullare, fr. satullus, dim. of satur sated.
+   See {Satire}.]
+   To feed, as cattle or horses, in the barn or an inclosure,
+   with fresh grass or green food cut for them, instead of
+   sending them out to pasture; hence (such food having the
+   effect of purging them), to purge by feeding on green food;
+   as, to soil a horse.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>soiled</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>soiled
+     adj : soiled or likely to soil with dirt or grime; "dirty unswept
+           sidewalks"; "a child in dirty overalls"; "dirty slums";
+           "piles of dirty dishes"; "put his dirty feet on the
+           clean sheet"; "wore an unclean shirt"; "mining is a
+           dirty job"; "Cinderella did the dirty work while her
+           sisters preened themselves" [syn: {dirty}, {unclean}]
+           [ant: {clean}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

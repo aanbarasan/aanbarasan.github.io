@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>signature</Word>
+  <Definitions>
+    <Definition>
+      <Word>signature</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>signature
+     
+        1. A set of function symbols with {arities}.
+     
+        2. &lt;messaging&gt; (Or sig) A few lines of information about the
+        sender of an {electronic mail} message or {news} {posting}.
+        Most {Unix} mail and news software will {automagically} append
+        a signature from a file called .signature in the user's {home
+        directory} to outgoing mail and news.
+     
+        A signature should give your real name and your {e-mail
+        address} since, though these appear in the {headers} of your
+        messages, they may be {munged} by intervening software.  It is
+        currently (1994) hip to include the {URL} of your {home page}
+        on the {World-Wide Web} in your sig.
+     
+        The composition of one's sig can be quite an art form,
+        including an {ASCII} logo or one's choice of witty sayings
+        (see {sig quote}, {fool file}).  However, large sigs are a
+        waste of {bandwidth}, and it has been observed that the size
+        of one's sig block is usually inversely proportional to one's
+        prestige on the net.
+     
+        See also {doubled sig}, {sig virus}.
+     
+        2. &lt;programming&gt; A concept very similar to {abstract base
+        classes} except that they have their own {hierarchy} and can
+        be applied to compiled {classes}.  Signatures provide a means
+        of separating {subtyping} and {inheritance}.  They are
+        implemented in {C++} as patches to {GCC} 2.5.2 by Gerald
+        Baumgartner &lt;gb@cs.purdue.edu&gt;.
+     
+        {(ftp://ftp.cs.purdue.edu/pub/gb/)}.
+     
+        (2001-01-05)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>signature</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Signature \Sig"na*ture\, v. t.
+   To mark with, or as with, a signature or signatures.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>signature</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Signature \Sig"na*ture\, n. [F. (cf. It. signatura, segnatura,
+   Sp. &amp; LL. signatura), from L. signare, signatum. See {Sign},
+   v. t.]
+   1. A sign, stamp, or mark impressed, as by a seal.
+      [1913 Webster]
+
+            The brain, being well furnished with various traces,
+            signatures, and images.               --I. Watts.
+      [1913 Webster]
+
+            The natural and indelible signature of God, which
+            human souls . . . are supposed to be stamped with.
+                                                  --Bentley.
+      [1913 Webster]
+
+   2. Especially, the name of any person, written with his own
+      hand, employed to signify that the writing which precedes
+      accords with his wishes or intentions; a sign manual; an
+      autograph.
+      [1913 Webster]
+
+   3. (Physiol.) An outward mark by which internal
+      characteristics were supposed to be indicated.
+      [1913 Webster]
+
+            Some plants bear a very evident signature of their
+            nature and use.                       --Dr. H. More.
+      [1913 Webster]
+
+   4. (Old Med.) A resemblance between the external characters
+      of a disease and those of some physical agent, for
+      instance, that existing between the red skin of scarlet
+      fever and a red cloth; -- supposed to indicate this agent
+      in the treatment of the disease.
+      [1913 Webster]
+
+   5. (Mus.) The designation of the key (when not C major, or
+      its relative, A minor) by means of one or more sharps or
+      flats at the beginning of the staff, immediately after the
+      clef, affecting all notes of the same letter throughout
+      the piece or movement. Each minor key has the same
+      signature as its relative major.
+      [1913 Webster]
+
+   6. (Print.)
+      (a) A letter or figure placed at the bottom of the first
+          page of each sheet of a book or pamphlet, as a
+          direction to the binder in arranging and folding the
+          sheets.
+      (b) The printed sheet so marked, or the form from which it
+          is printed; as, to reprint one or more signatures.
+          [1913 Webster]
+
+   Note: Star signatures (as A*, 1*) are the same characters,
+         with the addition of asterisks, used on the first pages
+         of offcuts, as in 12mo sheets.
+         [1913 Webster]
+
+   7. (Pharm.) That part of a prescription which contains the
+      directions to the patient. It is usually prefaced by S or
+      Sig. (an abbreviation for the Latin signa, imperative of
+      signare to sign or mark).
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>signature</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>signature
+     n 1: your name written in your own handwriting
+     2: a distinguishing style; "this room needs a woman's touch"
+        [syn: {touch}]
+     3: a melody used to identify a performer or a dance band or
+        radio/tv program [syn: {signature tune}, {theme song}]
+     4: the sharps or flats that follow the clef and indicate the
+        key [syn: {key signature}]
+     5: a sheet with several pages printed on it; it folds to page
+        size and is bound with other signatures to form a book
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

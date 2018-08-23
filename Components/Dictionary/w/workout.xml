@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>workout</Word>
+  <Definitions>
+    <Definition>
+      <Word>workout</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>work out
+     v 1: come up with; "His colleagues worked out his interesting
+          idea"; "We worked up an ad for our client" [syn: {work
+          up}]
+     2: happen in a certain way, leading to, producing, or resulting
+        in a certain outcome, often well; "Things worked out in an
+        interesting way"; "Not everything worked out in the end
+        and we were disappointed"
+     3: work out in detail; "elaborate a plan" [syn: {elaborate}]
+     4: do physical exercise; "She works out in the gym every day"
+        [syn: {exercise}]
+     5: be calculated; "The fees work out to less than $1,000"
+     6: make a mathematical calculation or computation [syn: {calculate},
+         {cipher}, {cypher}, {compute}, {reckon}, {figure}]
+     7: find the solution to (a problem or question) or understand
+        the meaning of; "did you solve the problem?"; "Work out
+        your problems with the boss"; "this unpleasant situation
+        isn't going to work itself out"; "did you get it?"; "Did
+        you get my meaning?"; "He could not work the math problem"
+        [syn: {solve}, {figure out}, {puzzle out}, {lick}, {work}]
+     8: give a work-out to; "Some parents exercise their infants";
+        "My personal trainer works me hard"; "work one's muscles"
+        [syn: {exercise}, {work}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>workout</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>workout
+     n : the activity of exerting your muscles in various ways to
+         keep fit; "the doctor recommended regular exercise"; "he
+         did some exercising"; "the physical exertion required by
+         his work kept him fit" [syn: {exercise}, {exercising}, {physical
+         exercise}, {physical exertion}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

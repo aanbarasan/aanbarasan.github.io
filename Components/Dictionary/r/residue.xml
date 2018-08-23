@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>residue</Word>
+  <Definitions>
+    <Definition>
+      <Word>residue</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Residue \Res"i*due\ (r?z"?-d?), n. [F. r['e]sidu, L. residuum,
+   fr. residuus that is left behind, remaining, fr. residere to
+   remain behind. See {Reside}, and cf. {Residuum}.]
+   1. That which remains after a part is taken, separated,
+      removed, or designated; remnant; remainder.
+      [1913 Webster]
+
+            The residue of them will I deliver to the sword.
+                                                  --Jer. xv. 9.
+      [1913 Webster]
+
+            If church power had then prevailed over its victims,
+            not a residue of English liberty would have been
+            saved.                                --I. Taylor.
+      [1913 Webster]
+
+   2. (Law) That part of a testeator's estate wwhich is not
+      disposed of in his will by particular and special legacies
+      and devises, and which remains after payment of debts and
+      legacies.
+      [1913 Webster]
+
+   3. (Chem.) That which remains of a molecule after the removal
+      of a portion of its constituents; hence, an atom or group
+      regarded as a portion of a molecule; a {moiety} or
+      {group}; -- used as nearly equivalent to {radical}, but in
+      a more general sense.
+      [1913 Webster +PJC]
+
+   Note: The term radical is sometimes restricted to groups
+         containing carbon, the term residue and {moiety} being
+         applied to the others.
+         [1913 Webster]
+
+   4. (Theory of Numbers) Any positive or negative number that
+      differs from a given number by a multiple of a given
+      modulus; thus, if 7 is the modulus, and 9 the given
+      number, the numbers -5, 2, 16, 23, etc., are residues.
+      [1913 Webster]
+
+   Syn: Rest; remainder; remnant; balance; residuum; remains;
+        leavings; relics.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>residue</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>residue
+     n 1: matter that remains after something has been removed
+     2: something left after other parts have been taken away;
+        "there was no remainder"; "he threw away the rest"; "he
+        took what he wanted and I got the balance" [syn: {remainder},
+         {balance}, {residual}, {residuum}, {rest}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

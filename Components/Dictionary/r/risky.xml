@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>risky</Word>
+  <Definitions>
+    <Definition>
+      <Word>risky</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Risky \Risk"y\, a.
+   Attended with risk or danger; hazardous. ``A risky matter.''
+   --W. Collins.
+   [1913 Webster]
+
+         Generalization are always risky.         --Lowell.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>risky</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>risky
+     adj 1: involving risk or danger; "skydiving is a hazardous sport";
+            "extremely risky going out in the tide and fog"; "a
+            venturesome journey in wintertime"; "a venturous
+            enterprise" [syn: {hazardous}, {venturesome}, {venturous}]
+     2: not financially safe or secure; "a bad investment"; "high
+        risk investments"; "anything that promises to pay too much
+        can't help being risky"; "speculative business
+        enterprises" [syn: {bad}, {insecure}, {high-risk}, {speculative}]
+     [also: {riskiest}, {riskier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

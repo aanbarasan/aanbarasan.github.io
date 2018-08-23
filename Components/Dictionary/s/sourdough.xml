@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sourdough</Word>
+  <Definitions>
+    <Definition>
+      <Word>sourdough</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sourdough
+     adj : leavened with a small amount of fermented dough; "sourdough
+           bread" [syn: {sourdough(a)}]
+     n 1: a leaven of dough in which fermentation is active; used by
+          pioneers for making bread
+     2: a settler or prospector (especially in western United States
+        or northwest Canada and Alaska)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unlikely</Word>
+  <Definitions>
+    <Definition>
+      <Word>unlikely</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Unlikely \Un*like"ly\, a.
+   1. Not likely; improbable; not to be reasonably expected; as,
+      an unlikely event; the thing you mention is very unlikely.
+      [1913 Webster]
+
+   2. Not holding out a prospect of success; likely to fail;
+      unpromising; as, unlikely means. --Hooker.
+      [1913 Webster]
+
+   3. Not such as to inspire liking; unattractive; disagreeable.
+      [Obs.] ``The unlikely eld of me.'' --Chaucer.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>unlikely</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Unlikely \Un*like"ly\, adv.
+   In an unlikely manner.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>unlikely</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unlikely
+     adj 1: not likely to be true or to occur or to have occurred;
+            "legislation on the question is highly unlikely"; "an
+            improbable event" [syn: {improbable}] [ant: {probable}]
+     2: has little chance of being the case or coming about; "an
+        unlikely story"; "an unlikely candidate for reelection";
+        "a butcher is unlikely to preach vegetarianism" [ant: {likely}]
+     3: having a probability to low to inspire belief [syn: {improbable},
+         {unbelievable}, {unconvincing}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>strapped</Word>
+  <Definitions>
+    <Definition>
+      <Word>strapped</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Strap \Strap\, v. t. [imp. &amp; p. p. {Strapped}; p. pr. &amp; vb. n.
+   {Strapping}.]
+   1. To beat or chastise with a strap.
+      [1913 Webster]
+
+   2. To fasten or bind with a strap. --Cowper.
+      [1913 Webster]
+
+   3. To sharpen by rubbing on a strap, or strop; as, to strap a
+      razor.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>strapped</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>strap
+     n 1: an elongated leather strip (or or strip of similar material)
+          for binding things together or holding something in
+          position
+     2: hanger consisting of a loop of leather suspended from the
+        ceiling of a bus or train; passengers hold onto it
+     3: a band that goes over the shoulder and supports a garment or
+        bag [syn: {shoulder strap}]
+     4: whip consisting of a strip of leather used in flogging
+     v 1: tie with a strap [ant: {unstrap}]
+     2: beat severely with a whip or rod; "The teacher often flogged
+        the students"; "The children were severely trounced" [syn:
+         {flog}, {welt}, {whip}, {lather}, {lash}, {slash}, {trounce}]
+     3: sharpen with a strap; "strap a razor"
+     4: secure (a sprained joint) with a strap
+     [also: {strapping}, {strapped}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>strapped</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>strapped
+     See {strap}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

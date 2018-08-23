@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sipping</Word>
+  <Definitions>
+    <Definition>
+      <Word>sipping</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sip \Sip\ (s[i^]p), v. t. [imp. &amp; p. p. {Sipped} (s[i^]pt); p.
+   pr. &amp; vb. n. {Sipping}.] [OE. sippen; akin to OD. sippen, and
+   AS. s?pan to sip, suck up, drink. See {Sup}, v. t.]
+   1. To drink or imbibe in small quantities; especially, to
+      take in with the lips in small quantities, as a liquid;
+      as, to sip tea. ``Every herb that sips the dew.''
+      --Milton.
+      [1913 Webster]
+
+   2. To draw into the mouth; to suck up; as, a bee sips nectar
+      from the flowers.
+      [1913 Webster]
+
+   3. To taste the liquor of; to drink out of. [Poetic]
+      [1913 Webster]
+
+            They skim the floods, and sip the purple flowers.
+                                                  --Dryden.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sipping</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sip
+     n : a small drink [syn: {nip}]
+     v : drink in sips; "She was sipping her tea"
+     [also: {sipping}, {sipped}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sipping</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sipping
+     See {sip}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

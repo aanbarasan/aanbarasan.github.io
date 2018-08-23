@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>untested</Word>
+  <Definitions>
+    <Definition>
+      <Word>untested</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>untested
+     adj 1: not tried or tested by experience; "unseasoned artillery
+            volunteers"; "still untested in battle"; "an
+            illustrator untried in mural painting" [syn: {unseasoned},
+             {untried}]
+     2: not yet proved or subjected to testing; "an untested drug";
+        "untested theory"; "an untried procedure" [syn: {untried}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>wool</Word>
+  <Definitions>
+    <Definition>
+      <Word>wool</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Wool
+   one of the first material used for making woven cloth (Lev.
+   13:47, 48, 52, 59; 19:19). The first-fruit of wool was to be
+   offered to the priests (Deut. 18:4). The law prohibiting the
+   wearing of a garment "of divers sorts, as of woollen and linen
+   together" (Deut. 22:11) may, like some other laws of a similar
+   character, have been intended to express symbolically the
+   separateness and simplicity of God's covenant people. The wool
+   of Damascus, famous for its whiteness, was of great repute in
+   the Tyrian market (Ezek. 27:18).
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wool</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>WOOL
+     
+        Window Object Oriented Language.  A small {Common Lisp}-like
+        extension language.  It claims to be the fastest interpreted
+        language in {C} with {run-time types}.  Colas Nahaboo
+        &lt;colas@sophia.inria.fr&gt;.  Version 1 is used as the kernel
+        language of the {GWM} window manager.  Version 2 has an object
+        system.
+     
+        {(ftp://export.lcs.mit.edu/contrib/gwm)}.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wool</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Wool \Wool\ (w[oo^]l), n. [OE. wolle, wulle, AS. wull; akin to
+   D. wol, OHG. wolla, G. wolle, Icel. &amp; Sw. ull, Dan. uld,
+   Goth, wulla, Lith. vilna, Russ. volna, L. vellus, Skr.
+   [=u]r[.n][=a] wool, v[.r] to cover. [root]146, 287. Cf.
+   {Flannel}, {Velvet}.]
+   [1913 Webster]
+   1. The soft and curled, or crisped, species of hair which
+      grows on sheep and some other animals, and which in
+      fineness sometimes approaches to fur; -- chiefly applied
+      to the fleecy coat of the sheep, which constitutes a most
+      essential material of clothing in all cold and temperate
+      climates.
+      [1913 Webster]
+
+   Note: Wool consists essentially of keratin.
+         [1913 Webster]
+
+   2. Short, thick hair, especially when crisped or curled.
+      [1913 Webster]
+
+            Wool of bat and tongue of dog.        --Shak.
+      [1913 Webster]
+
+   3. (Bot.) A sort of pubescence, or a clothing of dense,
+      curling hairs on the surface of certain plants.
+      [1913 Webster]
+
+   {Dead pulled wool}, wool pulled from a carcass.
+
+   {Mineral wool}. See under {Mineral}.
+
+   {Philosopher's wool}. (Chem.) See {Zinc oxide}, under {Zinc}.
+      
+
+   {Pulled wool}, wool pulled from a pelt, or undressed hide.
+
+   {Slag wool}. Same as {Mineral wool}, under {Mineral}.
+
+   {Wool ball}, a ball or mass of wool.
+
+   {Wool burler}, one who removes little burs, knots, or
+      extraneous matter, from wool, or the surface of woolen
+      cloth.
+
+   {Wool comber}.
+      (a) One whose occupation is to comb wool.
+      (b) A machine for combing wool.
+
+   {Wool grass} (Bot.), a kind of bulrush ({Scirpus Eriophorum})
+      with numerous clustered woolly spikes.
+
+   {Wool scribbler}. See {Woolen scribbler}, under {Woolen}, a.
+      
+
+   {Wool sorter's disease} (Med.), a disease, resembling
+      malignant pustule, occurring among those who handle the
+      wool of goats and sheep.
+
+   {Wool staple}, a city or town where wool used to be brought
+      to the king's staple for sale. [Eng.]
+
+   {Wool stapler}.
+      (a) One who deals in wool.
+      (b) One who sorts wool according to its staple, or its
+          adaptation to different manufacturing purposes.
+
+   {Wool winder}, a person employed to wind, or make up, wool
+      into bundles to be packed for sale.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wool</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>wool
+     n 1: a fabric made from the hair of sheep [syn: {woolen}, {woollen}]
+     2: fiber sheared from animals (such as sheep) and twisted into
+        yarn for weaving
+     3: outer coat of especially sheep and yaks [syn: {fleece}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

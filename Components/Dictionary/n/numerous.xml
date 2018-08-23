@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>numerous</Word>
+  <Definitions>
+    <Definition>
+      <Word>numerous</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Numerous \Nu"mer*ous\, a. [L. numerosus. See {Number}.]
+   1. Consisting of a great number of units or individual
+      objects; being many; as, a numerous army; numerous
+      objections.
+      [1913 Webster]
+
+            Such and so numerous was their chivalry. --Milton.
+      [1913 Webster]
+
+   2. Consisting of poetic numbers; rhythmical; measured and
+      counted; melodious; musical. [Obs.]
+      [1913 Webster]
+
+            Such prompt eloquence
+            Flowed from their lips, in prose or numerous verse.
+                                                  --Milton.
+      [1913 Webster] -- {Nu"mer*ous*ly}, adv. --
+      {Nu"mer*ous*ness}, n.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>numerous</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>numerous
+     adj : amounting to a large indefinite number; "numerous times";
+           "the family was numerous"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

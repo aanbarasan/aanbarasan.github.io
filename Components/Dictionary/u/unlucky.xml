@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unlucky</Word>
+  <Definitions>
+    <Definition>
+      <Word>unlucky</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Unlucky \Un*luck"y\, a.
+   1. Not lucky; not successful; unfortunate; ill-fated;
+      unhappy; as, an unlucky man; an unlucky adventure; an
+      unlucky throw of dice; an unlucky game.
+      [1913 Webster]
+
+   Note: This word is properly applied to incidents in which
+         failure results from chance or fortuity, as in games of
+         hazard, rather than from lack or feebleness of effort.
+         [1913 Webster]
+
+   2. Bringing bad luck; ill-omened; inauspicious.
+      [1913 Webster]
+
+            Haunt me not with that unlucky face.  --Dryden.
+      [1913 Webster]
+
+   3. Mischievous; as, an unlucky wag. [Colloq.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>unlucky</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unlucky
+     adj 1: having or bringing misfortune; "Friday the 13th is an
+            unlucky date" [syn: {luckless}] [ant: {lucky}]
+     2: marked by or promising bad fortune; "their business venture
+        was doomed from the start"; "an ill-fated business
+        venture"; "an ill-starred romance"; "the unlucky prisoner
+        was again put in irons"- W.H.Prescott [syn: {doomed}, {ill-fated},
+         {ill-omened}, {ill-starred}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

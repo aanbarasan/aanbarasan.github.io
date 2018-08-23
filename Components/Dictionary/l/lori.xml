@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lori</Word>
+  <Definitions>
+    <Definition>
+      <Word>lori</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Loris \Lo"ris\, n. [Loris, or lori, the indigenous East Indian
+   name.] (Zo["o]l.)
+   Any one of several species of small lemurs of the genus
+   {Stenops}. They have long, slender limbs and large eyes, and
+   are arboreal in their habits. The slender loris ({Stenops
+   gracilis}), of Ceylon, in one of the best known species.
+   [Written also {lori}.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lori</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lori \Lo"ri\, n. (Zo["o]l.)
+   Same as {Lory}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

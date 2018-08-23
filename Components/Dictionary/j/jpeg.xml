@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>jpeg</Word>
+  <Definitions>
+    <Definition>
+      <Word>jpeg</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>JPEG
+     
+        {Joint Photographic Experts Group}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>jpeg</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Compression \Com*pres"sion\, n. [L. compressio: cf. F.
+   compression.]
+   1. The act of compressing, or state of being compressed.
+      ``Compression of thought.'' --Johnson.
+      [1913 Webster]
+
+   2. (Computers) reduction of the space required for storage
+      (of binary data) by an algorithm which converts the data
+      to a smaller number of bits while preserving the
+      information content. The act of compressing [3].
+
+   Note: Compression may be {lossless compression}, in which all
+         of the information in the original data is preserved,
+         and the original data may be recovered in form
+         identical to its original form; or {lossy compression},
+         in which some of the information in the original data
+         is lost, and decompression results in a data form
+         slightly different from the original. {Lossy
+         compression} is used, for example, to compress audio or
+         video recordings, and sometimes images, where the
+         slight differences in the original data and the data
+         recovered after {lossy compression} may be
+         imperceptable to the human eye or ear. The {JPEG}
+         format is produced by a {lossy compression} algorithm.
+         [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>jpeg</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>JPEG \JPEG\ n. [Acronym from Joint Picture Experts Group.]
+   (Computers)
+   A standardized format for storing graphic data in binary
+   computer files, allowing over 16 million different colors. It
+   allows for lossy compression, i. e. the compression of data
+   into a form which re-expands into an image close, but not
+   identical to the original image. Files stored in this format
+   usually carry the extension jpg or jpeg. Compare {GIF}.
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>jpeg</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>JPEG
+     Joint Photographics Expert Group (org., JTC1, RFC 1521, JPEG)
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

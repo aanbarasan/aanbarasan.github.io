@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>seibert</Word>
+  <Definitions>
+    <Definition>
+      <Word>seibert</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Seibert, CO (town, FIPS 69040)
+  Location: 39.29813 N, 102.86835 W
+  Population (1990): 181 (108 housing units)
+  Area: 0.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 80834
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

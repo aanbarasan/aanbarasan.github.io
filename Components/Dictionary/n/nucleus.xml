@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nucleus</Word>
+  <Definitions>
+    <Definition>
+      <Word>nucleus</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Nucleus \Nu"cle*us\, n.; pl. E. {Nucleuses}, L. {Nuclei}. [L., a
+   kernel, dim. fr. nux, nucis, nut. Cf. {Newel} post.]
+   [1913 Webster]
+   1. A kernel; hence, a central mass or point about which
+      matter is gathered, or to which accretion is made; the
+      central or material portion; -- used both literally and
+      figuratively.
+      [1913 Webster]
+
+            It must contain within itself a nucleus of truth.
+                                                  --I. Taylor.
+      [1913 Webster]
+
+   2. (Astron.) The body or the head of a comet.
+      [1913 Webster]
+
+   3. (Bot.)
+      (a) An incipient ovule of soft cellular tissue.
+      (b) A whole seed, as contained within the seed coats.
+          [1913 Webster]
+
+   4. (Biol.) A body, usually spheroidal, in a eukaryotic cell,
+      distinguished from the surrounding protoplasm by a
+      difference in refrangibility and in behavior towards
+      chemical reagents, which contains the chromosomal genetic
+      material, including the chromosomal DNA. It is more or
+      less protoplasmic, and consists of a clear fluid
+      (achromatin) through which extends a network of fibers
+      (chromatin) in which may be suspended a second rounded
+      body, the nucleolus (see {Nucleoplasm}). See {Cell
+      division}, under {Division}.
+      [1913 Webster +PJC]
+
+   Note: The nucleus is sometimes termed the endoplast or
+         endoblast, and in the protozoa is supposed to be
+         concerned in the female part of the reproductive
+         process. See {Karyokinesis}.
+         [1913 Webster]
+
+   5. (Zo["o]l.)
+      (a) The tip, or earliest part, of a univalve or bivalve
+          shell.
+      (b) The central part around which additional growths are
+          added, as of an operculum.
+      (c) A visceral mass, containing the stomach and other
+          organs, in Tunicata and some mollusks.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nucleus</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nucleus
+     n 1: a part of the cell containing DNA and RNA and responsible
+          for growth and reproduction [syn: {cell nucleus}, {karyon}]
+     2: the positively charged dense center of an atom
+     3: a small group of indispensable persons or things; "five
+        periodicals make up the core of their publishing program"
+        [syn: {core}, {core group}]
+     4: (astronomy) the center of the head of a comet; consists of
+        small solid particles of ice and frozen gas that vaporizes
+        on approaching the sun to form the coma and tail
+     5: any histologically identifiable mass of neural cell bodies
+        in the brain or spinal cord
+     [also: {nuclei} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

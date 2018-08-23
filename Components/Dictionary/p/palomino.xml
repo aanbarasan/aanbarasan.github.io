@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>palomino</Word>
+  <Definitions>
+    <Definition>
+      <Word>palomino</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>palomino \pal`o*mi"no\ (p[a^]l`[u^]*m[=e]"n[-o]) n. [Sp.
+   palomino, resembling a dove.]
+   A horse of light tan or golden color with cream or white mane
+   and tail, and often having white markings on the legs and
+   face.
+   [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>palomino</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>palomino
+     n : a horse of light tan or golden color with cream or white
+         mane and tail
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

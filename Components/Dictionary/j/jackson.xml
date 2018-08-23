@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>jackson</Word>
+  <Definitions>
+    <Definition>
+      <Word>jackson</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Jackson, AL (city, FIPS 38152)
+  Location: 31.53254 N, 87.89301 W
+  Population (1990): 5819 (2217 housing units)
+  Area: 39.1 sq km (land), 0.2 sq km (water)
+  Zip code(s): 36545
+Jackson, CA (city, FIPS 36980)
+  Location: 38.35050 N, 120.77352 W
+  Population (1990): 3545 (1618 housing units)
+  Area: 7.9 sq km (land), 0.0 sq km (water)
+  Zip code(s): 95642
+Jackson, GA (city, FIPS 41596)
+  Location: 33.29212 N, 83.96217 W
+  Population (1990): 4076 (1491 housing units)
+  Area: 10.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 30233
+Jackson, KY (city, FIPS 39952)
+  Location: 37.55765 N, 83.37973 W
+  Population (1990): 2466 (995 housing units)
+  Area: 6.7 sq km (land), 0.2 sq km (water)
+Jackson, LA (town, FIPS 37830)
+  Location: 30.83420 N, 91.21020 W
+  Population (1990): 3891 (974 housing units)
+  Area: 11.4 sq km (land), 0.0 sq km (water)
+Jackson, MI (city, FIPS 41420)
+  Location: 42.24320 N, 84.40477 W
+  Population (1990): 37446 (15689 housing units)
+  Area: 28.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 49201, 49202, 49203
+Jackson, MN (city, FIPS 31562)
+  Location: 43.62436 N, 94.98897 W
+  Population (1990): 3559 (1613 housing units)
+  Area: 9.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 56143
+Jackson, MO (city, FIPS 35648)
+  Location: 37.38032 N, 89.65446 W
+  Population (1990): 9256 (3711 housing units)
+  Area: 21.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 63755
+Jackson, MS (city, FIPS 36000)
+  Location: 32.32050 N, 90.20759 W
+  Population (1990): 196637 (79374 housing units)
+  Area: 282.3 sq km (land), 5.2 sq km (water)
+  Zip code(s): 39201, 39202, 39203, 39204, 39206, 39209, 39211, 39212, 39213, 39216, 39269
+Jackson, MT
+  Zip code(s): 59736
+Jackson, NC (town, FIPS 34000)
+  Location: 36.39034 N, 77.41979 W
+  Population (1990): 592 (260 housing units)
+  Area: 2.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 27845
+Jackson, NE (village, FIPS 24355)
+  Location: 42.44879 N, 96.56590 W
+  Population (1990): 230 (97 housing units)
+  Area: 0.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 68743
+Jackson, NH
+  Zip code(s): 03846
+Jackson, NJ
+  Zip code(s): 08527
+Jackson, OH (city, FIPS 37842)
+  Location: 39.04572 N, 82.62921 W
+  Population (1990): 6144 (2820 housing units)
+  Area: 12.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 45640
+Jackson, PA
+  Zip code(s): 18825
+Jackson, SC (town, FIPS 36205)
+  Location: 33.32845 N, 81.79220 W
+  Population (1990): 1681 (734 housing units)
+  Area: 9.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 29831
+Jackson, TN (city, FIPS 37640)
+  Location: 35.63370 N, 88.82853 W
+  Population (1990): 48949 (20739 housing units)
+  Area: 104.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 38301, 38305
+Jackson, WI (village, FIPS 37675)
+  Location: 43.32091 N, 88.16387 W
+  Population (1990): 2486 (981 housing units)
+  Area: 4.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 53037
+Jackson, WY (town, FIPS 40120)
+  Location: 43.47400 N, 110.76388 W
+  Population (1990): 4472 (2236 housing units)
+  Area: 5.2 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>jackson</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Jackson
+     n 1: English film actress who later became a member of Parliament
+          (born in 1936) [syn: {Glenda Jackson}]
+     2: United States singer who began singing with his four
+        brothers and later became a highly successful star during
+        the 1980s (born in 1958) [syn: {Michael Jackson}, {Michael
+        Joe Jackson}]
+     3: United States singer who did much to popularize gospel music
+        (1911-1972) [syn: {Mahalia Jackson}]
+     4: United States civil rights leader who led a national
+        anti-discrimination campaign and ran for presidential
+        nomination (born in 1941) [syn: {Jesse Jackson}, {Jesse
+        Louis Jackson}]
+     5: United States writer of romantic novels about the unjust
+        treatment of Native Americans (1830-1885) [syn: {Helen
+        Hunt Jackson}, {Helen Maria Fiske Hunt Jackson}]
+     6: general in the Confederate Army during the Civil War whose
+        troops at the first Battle of Bull Run stood like a stone
+        wall (1824-1863) [syn: {Thomas Jackson}, {Thomas J.
+        Jackson}, {Thomas Jonathan Jackson}, {Stonewall Jackson}]
+     7: 7th president of the US; successfully defended New Orleans
+        from the British in 1815; expanded the power of the
+        presidency (1767-1845) [syn: {Andrew Jackson}, {Old
+        Hickory}]
+     8: a town in western Wyoming
+     9: a town in western Tennessee
+     10: capital of the state of Mississippi on the Pearl river [syn:
+          {capital of Mississippi}]
+     11: a town in south central Michigan
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>stanley</Word>
+  <Definitions>
+    <Definition>
+      <Word>stanley</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Stanley, IA (city, FIPS 74955)
+  Location: 42.64196 N, 91.81172 W
+  Population (1990): 116 (52 housing units)
+  Area: 0.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 50671
+Stanley, ID (city, FIPS 76780)
+  Location: 44.21579 N, 114.93698 W
+  Population (1990): 71 (68 housing units)
+  Area: 1.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 83278
+Stanley, KS
+  Zip code(s): 66221, 66223, 66224
+Stanley, LA (village, FIPS 72800)
+  Location: 31.96347 N, 93.90347 W
+  Population (1990): 131 (55 housing units)
+  Area: 5.7 sq km (land), 0.0 sq km (water)
+Stanley, NC (town, FIPS 64500)
+  Location: 35.35650 N, 81.09754 W
+  Population (1990): 2823 (1122 housing units)
+  Area: 5.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 28164
+Stanley, ND (city, FIPS 75380)
+  Location: 48.31683 N, 102.38646 W
+  Population (1990): 1371 (678 housing units)
+  Area: 4.4 sq km (land), 0.0 sq km (water)
+Stanley, NM
+  Zip code(s): 87056
+Stanley, NY
+  Zip code(s): 14561
+Stanley, VA (town, FIPS 75024)
+  Location: 38.57912 N, 78.50473 W
+  Population (1990): 1186 (498 housing units)
+  Area: 2.9 sq km (land), 0.0 sq km (water)
+  Zip code(s): 22851
+Stanley, WI (city, FIPS 76625)
+  Location: 44.96255 N, 90.94276 W
+  Population (1990): 2011 (880 housing units)
+  Area: 7.7 sq km (land), 0.1 sq km (water)
+  Zip code(s): 54768
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stanley</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Stanley
+     n 1: United States inventor who built a steam-powered automobile
+          (1849-1918) [syn: {Francis Edgar Stanley}]
+     2: Welsh journalist and explorer who led an expedition to
+        Africa in search of David Livingstone and found him in
+        Tanzania in 1871; he and Livingstone together tried to
+        find the source of the Nile River (1841-1904) [syn: {Henry
+        M. Stanley}, {Sir Henry Morton Stanley}, {John Rowlands}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

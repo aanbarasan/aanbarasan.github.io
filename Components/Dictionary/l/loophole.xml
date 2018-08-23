@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>loophole</Word>
+  <Definitions>
+    <Definition>
+      <Word>loophole</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Loophole \Loop"hole`\, n.
+   1. (Mil.) A small opening, as in the walls of fortification,
+      or in the bulkhead of a ship, through which small arms or
+      other weapons may be discharged at an enemy.
+      [1913 Webster]
+
+   2. A hole or aperture that gives a passage, or the means of
+      escape or evasion.
+      [1913 Webster]
+
+   3. An amibiguity or unintended omission in a law, rule,
+      regulation, or contract which allows a party to circumvent
+      the intent of the text and avoid its obligations under
+      certain circumstances. -- used usually in a negative
+      sense; -- distinguished from {escape clause} in that the
+      latter usually is included to deliberately allow evasion
+      of obligation under certain specified and foreseen
+      circumstances; as, a loophole in the law big enough to
+      drive a truck through.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>loophole</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>loophole
+     n 1: an ambiguity (especially one in the text of a law or
+          contract) that makes it possible to evade a difficulty
+          or obligation
+     2: a small hole in a fortified wall; for observation or
+        discharging weapons
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

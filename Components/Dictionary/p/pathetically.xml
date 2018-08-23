@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pathetically</Word>
+  <Definitions>
+    <Definition>
+      <Word>pathetically</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pathetical \Pa*thet"ic*al\, a.
+   Pathetic. [R.] -- {Pa*thet"ic*al*ly}, adv. --
+   {Pa*thet"ic*al*ness}, n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pathetically</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pathetically
+     adv 1: in a manner arousing sympathy and compassion; "the sick
+            child cried pathetically" [syn: {pitiably}]
+     2: arousing scornful pity; "they had pathetically little
+        money"; "it was pathetically bad"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

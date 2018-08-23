@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>val</Word>
+  <Definitions>
+    <Definition>
+      <Word>val</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>VAL
+     
+        1. Value-oriented Algorithmic Language.  J.B. Dennis, MIT
+        1979.  Single assignment language, designed for MIT dataflow
+        machine.  Based on CLU, has iteration and error handling,
+        lacking in recursion and I/O.  "A Value- Oriented Algorithmic
+        Language", W.B. Ackermann et al, MIT LCS TR-218, June 1979.
+        "The VAL Language: Description and Analysis", J.R. McGraw,
+        TOPLAS 4(1):44-82 (Jan 1982).
+     
+        2. &lt;language, robotics&gt; Variable Assembly Language.
+        Unimation.  Language for industrial robots.  Version: VAL II -
+        "VAL II: A New Robot Control System for Automatic
+        Manufacturing", B.E. Shimano et al, Proc IEEE Intl Conf on
+        Robotics 1984, pp.278-292.
+     
+        3. VHDL Annotation Language.  Stanford.
+        {(ftp://wilbur.stanford.edu/pub/valbin-sun3-4.0-0.1.3.tar.Z)}.
+        Source in Ada available from Larry M. Augustin
+        &lt;lma@sierra.stanford.edu&gt;.
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

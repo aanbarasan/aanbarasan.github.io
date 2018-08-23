@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>valuable</Word>
+  <Definitions>
+    <Definition>
+      <Word>valuable</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Valuable \Val"u*a*ble\, n.
+   A precious possession; a thing of value, especially a small
+   thing, as an article of jewelry; -- used mostly in the
+   plural.
+   [1913 Webster]
+
+         The food and valuables they offer to the gods. --Tylor.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>valuable</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Valuable \Val"u*a*ble\, a.
+   1. Having value or worth; possessing qualities which are
+      useful and esteemed; precious; costly; as, a valuable
+      horse; valuable land; a valuable cargo.
+      [1913 Webster]
+
+   2. Worthy; estimable; deserving esteem; as, a valuable
+      friend; a valuable companion.
+      [1913 Webster]
+
+   {Valuable consideration} (Law), an equivalent or compensation
+      having value given for a thing purchased, as money,
+      marriage, services, etc. --Blackstone. --Bouvier.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>valuable</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>valuable
+     adj 1: having great material or monetary value especially for use
+            or exchange; "another human being equally valuable in
+            the sight of God"; "a valuable diamond" [ant: {worthless}]
+     2: having worth or merit or value; "a valuable friend"; "a good
+        and worthful man" [syn: {worthful}]
+     3: of great importance or use or service; "useful information";
+        "valuable advice" [syn: {useful}, {of value}]
+     n : something of value; "all our valuables were stolen"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

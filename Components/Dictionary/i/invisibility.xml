@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>invisibility</Word>
+  <Definitions>
+    <Definition>
+      <Word>invisibility</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Invisibility \In*vis`i*bil"i*ty\, n.; pl. {Invisibilities}. [L.
+   invisibilitas: cf. F. invisibilit['e].]
+   The state or quality of being invisible; also, that which is
+   invisible. ``Atoms and invisibilities.'' --Landor.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>invisibility</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>invisibility
+     n : the quality of not being perceivable by the eye [syn: {invisibleness}]
+         [ant: {visibility}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

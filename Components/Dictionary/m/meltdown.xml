@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>meltdown</Word>
+  <Definitions>
+    <Definition>
+      <Word>meltdown</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>meltdown
+     
+        {network meltdown}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>meltdown</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>melt down
+     v : reduce or cause to be reduced from a solid to a liquid
+         state, usually by heating; "melt butter"; "melt down
+         gold"; "The wax melted in the sun" [syn: {melt}, {run}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>meltdown</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>meltdown
+     n 1: severe overheating of the core of a nuclear reactor
+          resulting in the core melting and radiation escaping
+          [syn: {nuclear meltdown}]
+     2: a disaster comparable to a nuclear meltdown; "there is
+        little likelihood of a meltdown comparable to the American
+        banking collapse in March 1933"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

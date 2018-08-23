@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>peaceful</Word>
+  <Definitions>
+    <Definition>
+      <Word>peaceful</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Peaceful \Peace"ful\, a.
+   1. Possessing or enjoying peace; not disturbed by war,
+      tumult, agitation, anxiety, or commotion; quiet; tranquil;
+      as, a peaceful time; a peaceful country; a peaceful end.
+      [1913 Webster]
+
+   2. Not disposed or tending to war, tumult or agitation;
+      pacific; mild; calm; peaceable; as, peaceful words.
+      [1913 Webster]
+
+   Syn: See {Peaceable}.
+        [1913 Webster] --{Peace"ful*ly}, adv.. --
+        {Peace"ful*ness}, n.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>peaceful</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>peaceful
+     adj 1: not disturbed by strife or turmoil or war; "a peaceful
+            nation"; "peaceful times"; "a far from peaceful
+            Christmas"; "peaceful sleep" [ant: {unpeaceful}]
+     2: peacefully resistant in response to injustice; "passive
+        resistance" [syn: {passive}]
+     3: (of groups) not violent or disorderly; "the right of
+        peaceful assembly" [syn: {law-abiding}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

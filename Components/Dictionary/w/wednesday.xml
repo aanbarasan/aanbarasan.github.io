@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>wednesday</Word>
+  <Definitions>
+    <Definition>
+      <Word>wednesday</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Wednesday \Wednes"day\ (?; 48), n. [OE. wednesdai, wodnesdei,
+   AS. W[=o]dnes d[ae]g, i. e., Woden's day (a translation of L.
+   dies Mercurii); fr. W[=o]den the highest god of the Teutonic
+   peoples, but identified with the Roman god Mercury; akin to
+   OS. W[=o]dan, OHG. Wuotan, Icel. O[eth]inn, D. woensdag
+   Wednesday, Icel. [=o][eth]insdagr, Dan. &amp; Sw. onsdag. See
+   {Day}, and cf. {Woden}, {Wood}, a.]
+   The fourth day of the week; the next day after Tuesday.
+   [1913 Webster]
+
+   {Ash Wednesday}. See in the Vocabulary.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wednesday</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Wednesday
+     n : the fourth day of the week; the third working day [syn: {Wed}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

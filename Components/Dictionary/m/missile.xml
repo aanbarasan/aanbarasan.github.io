@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>missile</Word>
+  <Definitions>
+    <Definition>
+      <Word>missile</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Missile \Mis"sile\, a. [L. missils, fr. mittere, missum, to
+   cause to go, to send, to throw; cf. Lith. mesti to throw: cf.
+   F. missile. Cf. {Admit}, {Dismiss}, {Mass} the religious
+   service, {Message}, {Mission}.]
+   Capable of being thrown; adapted for hurling or to be
+   projected from the hand, or from any instrument or engine[2],
+   so as to strike an object at a distance.
+   [1913 Webster]
+
+         We bend the bow, or wing the missile dart. --Pope.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>missile</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Missile \Mis"sile\, n. [L. missile.]
+   1. A weapon thrown or projected or intended to be projected,
+      as a lance, an arrow, or a bullet.
+      [1913 Webster]
+
+   2. A rocket-propelled device designed to fly through the air
+      and deliver a warhead of explosive materials to a target.
+      [PJC]
+
+   Note: Numerous types of rocket-propelled missile[2] are now
+         used in modern warfare. Some types with names
+         indicating their range or function are: {antiaircraft
+         missile}; {ballistic missile}; {cruise missile};
+         {antiballistic missile missile}; {air-to-air missile};
+         {air-to-ground missile}; {guided missile};
+         {intercontinental ballistic missile} (IBM);
+         {intermediate range ballistic missile} (IRBM);
+         {surface-to-air missile}.
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>missile</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>missile
+     n 1: rocket carrying passengers or instruments or a warhead
+     2: a weapon that is thrown or projected [syn: {projectile}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

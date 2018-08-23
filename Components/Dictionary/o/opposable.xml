@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>opposable</Word>
+  <Definitions>
+    <Definition>
+      <Word>opposable</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Opposable \Op*pos"a*ble\, a.
+   1. Capable of being opposed or resisted.
+      [1913 Webster]
+
+   2. Capable of being placed opposite something else; as, the
+      thumb is opposable to the forefinger.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>opposable</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>opposable
+     adj : capable of being placed opposite to something; "the thumb is
+           opposable to the forefinger" [syn: {apposable}] [ant: {unopposable}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

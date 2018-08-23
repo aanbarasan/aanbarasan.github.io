@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>regimen</Word>
+  <Definitions>
+    <Definition>
+      <Word>regimen</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Regimen \Reg"i*men\ (r?j"?*m?n), n. [L. regimen, -inis, fr.
+   regere to guide, to rule. See {Right}, and cf. {Regal},
+   {R['e]gime}, {Regiment}.]
+   1. Orderly government; system of order; adminisration.
+      --Hallam.
+      [1913 Webster]
+
+   2. Any regulation or remedy which is intended to produce
+      beneficial effects by gradual operation; esp. (Med.), a
+      systematic course of diet, etc., pursed with a view to
+      improving or preserving the health, or for the purpose of
+      attaining some particular effect, as a reduction of flesh;
+      -- sometimes used synonymously with {hygiene}.
+      [1913 Webster]
+
+   3. (Gram.)
+      (a) A syntactical relation between words, as when one
+          depends on another and is regulated by it in respect
+          to case or mood; government.
+      (b) The word or words governed.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>regimen</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>regimen
+     n : (medicine) a systematic plan for therapy (often including
+         diet) [syn: {regime}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

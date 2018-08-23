@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nominated</Word>
+  <Definitions>
+    <Definition>
+      <Word>nominated</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Nominate \Nom"i*nate\, v. t. [imp. &amp; p. p. {Nominated}; p. pr. &amp;
+   vb. n. {Nominating}.] [L. nominatus, p. p. of nominare to
+   nominate, fr. nomen name. See {Name}.]
+   [1913 Webster]
+   1. To mention by name; to name. [Obs.]
+      [1913 Webster]
+
+            To nominate them all, it is impossible. --Shak.
+      [1913 Webster]
+
+   2. To call; to entitle; to denominate. [Obs.] --Spenser.
+      [1913 Webster]
+
+   3. To set down in express terms; to state. [Obs.]
+      [1913 Webster]
+
+            Is it so nominated in the bond?       --Shak.
+      [1913 Webster]
+
+   4. To name, or designate by name, for an office or place; to
+      appoint; esp., to name as a candidate for an election,
+      choice, or appointment; to propose by name, or offer the
+      name of, as a candidate for an office or place.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nominated</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nominated
+     adj : appointed by nomination [syn: {nominative}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

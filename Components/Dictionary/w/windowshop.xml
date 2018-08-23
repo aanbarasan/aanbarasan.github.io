@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>windowshop</Word>
+  <Definitions>
+    <Definition>
+      <Word>windowshop</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>window-shop
+     v : examine the shop windows; shop with the eyes only
+     [also: {window-shopping}, {window-shopped}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

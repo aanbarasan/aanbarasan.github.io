@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>microsoft</Word>
+  <Definitions>
+    <Definition>
+      <Word>microsoft</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Microsoft
+     
+        {Microsoft Corporation}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>microsoft</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>MicrosoftThe new {Evil Empire} (the old one was {IBM}). The basic
+   complaints are, as formerly with IBM, that (a) their system designs are
+   horrible botches, (b) we can't get {source} to fix them, and (c) they
+   throw their weight around a lot. See also {Halloween Documents}.
+
+
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

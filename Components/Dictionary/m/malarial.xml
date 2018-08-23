@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>malarial</Word>
+  <Definitions>
+    <Definition>
+      <Word>malarial</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Malarial \Ma*la"ri*al\, Malarian \Ma*la"ri*an\, Malarious
+\Ma*la"ri*ous\, a.
+   Of or pertaining, to or infected by, malaria.
+   [1913 Webster]
+
+   {Malarial fever} (Med.), a fever produced by malaria, and
+      characterized by the occurrence of chills, fever, and
+      sweating in distinct paroxysms, At intervals of definite
+      and often uniform duration, in which these symptoms are
+      wholly absent (intermittent fever), or only partially so
+      (remittent fever); fever and ague; chills and fever.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>malarial</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>malarial
+     adj : of or infected by or resembling malaria; "malarial fever"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>phrased</Word>
+  <Definitions>
+    <Definition>
+      <Word>phrased</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Phrase \Phrase\, v. t. [imp. &amp; p. p. {Phrased}; p. pr. &amp; vb. n.
+   {Phrasing}.] [Cf. F. phraser.]
+   To express in words, or in peculiar words; to call; to style.
+   ``These suns -- for so they phrase 'em.'' --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

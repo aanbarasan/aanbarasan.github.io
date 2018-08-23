@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sunrise</Word>
+  <Definitions>
+    <Definition>
+      <Word>sunrise</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Sunrise, FL (city, FIPS 69700)
+  Location: 26.15170 N, 80.29792 W
+  Population (1990): 64407 (29295 housing units)
+  Area: 47.2 sq km (land), 0.5 sq km (water)
+  Zip code(s): 33322, 33323
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sunrise</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sunrise \Sun"rise`\, Sunrising \Sun"ris`ing\, n.
+   1. The first appearance of the sun above the horizon in the
+      morning; more generally, the time of such appearance,
+      whether in fair or cloudy weather; as, to begin work at
+      sunrise. ``The tide of sunrise swells.'' --Keble.
+      [1913 Webster]
+
+   2. Hence, the region where the sun rises; the east.
+      [1913 Webster]
+
+            Which were beyond Jordan toward the sunrising.
+                                                  --Deut. iv. 47
+                                                  (Rev. Ver.)
+      [1913 Webster]
+
+            Full hot and fast the Saxon rides, with rein of
+            travel slack,
+            And, bending o'ev his saddle, leaves the sunrise at
+            his back.                             --Whittier.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sunrise</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sunrise
+     adj : of an industry or technology; new and developing;
+           "high-technology sunrise industries" [syn: {sunrise(a)}]
+     n 1: the first light of day; "we got up before dawn"; "they
+          talked until morning" [syn: {dawn}, {dawning}, {morning},
+           {aurora}, {first light}, {daybreak}, {break of day}, {break
+          of the day}, {dayspring}, {sunup}, {cockcrow}] [ant: {sunset}]
+     2: atmospheric phenomena accompanying the daily appearance of
+        the sun
+     3: the daily event of the sun rising above the horizon
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

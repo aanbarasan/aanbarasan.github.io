@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>manchu</Word>
+  <Definitions>
+    <Definition>
+      <Word>manchu</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Manchu \Man*chu"\, a. [Written also Manchoo, Mantchoo, etc.]
+   Of or pertaining to Manchuria or its inhabitants. -- n. A
+   native or inhabitant of Manchuria; also, the language spoken
+   by the Manchus.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>manchu</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Manchu
+     n 1: a member of the Manchu speaking people of Mongolian race of
+          Manchuria; related to the Tungus; conquered China in the
+          17th century
+     2: the last imperial dynasty of China (from 1644 to 1912) which
+        was overthrown by revolutionaries; during the Qing dynasty
+        China was ruled by the Manchu [syn: {Qing}, {Qing dynasty},
+         {Ch'ing}, {Ch'ing dynasty}, {Manchu dynasty}]
+     3: the Tungusic language spoken by the Manchu people
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

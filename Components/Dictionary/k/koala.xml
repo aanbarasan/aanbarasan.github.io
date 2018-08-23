@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>koala</Word>
+  <Definitions>
+    <Definition>
+      <Word>koala</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Koala \Ko*a"la\, n.
+   A tailless furry marsupial ({Phascolarctos cinereus}), found
+   in Australia. The female carries her young on the back of her
+   neck. Called also {Australian bear}, {koala bear}, {native
+   bear}, and {native sloth}. The koala lives almost all of its
+   life in trees, moves sluggishly like a sloth, and eats
+   eucalyptus leaves almost exclusively.
+   [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>koala</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>koala
+     n : sluggish tailless Australian arboreal marsupial with gray
+         furry ears and coat; feeds on eucalyptus leaves and bark
+         [syn: {koala bear}, {kangaroo bear}, {native bear}, {Phascolarctos
+         cinereus}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

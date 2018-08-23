@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>treatable</Word>
+  <Definitions>
+    <Definition>
+      <Word>treatable</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Treatable \Treat"a*ble\, a. [OE. tretable, F. traitable, L.
+   tractabilis. See {Treat}, and cf. {Tractable}.]
+   Manageable; tractable; hence, moderate; not violent. [Obs.]
+   `` A treatable disposition, a strong memory.'' --R. Parr.
+   [1913 Webster]
+
+         A kind of treatable dissolution.         --Hooker.
+   [1913 Webster]
+
+         The heats or the colds of seasons are less treatable
+         than with us.                            --Sir W.
+                                                  Temple.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

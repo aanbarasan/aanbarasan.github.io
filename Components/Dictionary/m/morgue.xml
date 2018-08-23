@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>morgue</Word>
+  <Definitions>
+    <Definition>
+      <Word>morgue</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Morgue \Morgue\, n. [F.]
+   1. A place where the bodies of dead persons are kept, until
+      they are identified, or claimed by their friends; a
+      deadhouse.
+      [1913 Webster +PJC]
+
+   2. (Newspapers) A room containing reference files of older
+      material in a newspaper office; also, the material
+      contained in such a room.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>morgue</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>morgue
+     n : a building (or room) where dead bodies are kept before
+         burial or cremation [syn: {mortuary}, {dead room}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

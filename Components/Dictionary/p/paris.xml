@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>paris</Word>
+  <Definitions>
+    <Definition>
+      <Word>paris</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Paris
+     
+        PARallel Instruction Set.
+     
+        A low-level language for the {Connection Machine}.
+     
+        (1995-02-16)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>paris</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Paris, AR (city, FIPS 53480)
+  Location: 35.28887 N, 93.72461 W
+  Population (1990): 3674 (1654 housing units)
+  Area: 11.0 sq km (land), 0.7 sq km (water)
+  Zip code(s): 72855
+Paris, ID (city, FIPS 60580)
+  Location: 42.22777 N, 111.40153 W
+  Population (1990): 581 (272 housing units)
+  Area: 9.0 sq km (land), 0.1 sq km (water)
+  Zip code(s): 83261
+Paris, IL (city, FIPS 57628)
+  Location: 39.61554 N, 87.69151 W
+  Population (1990): 8987 (4150 housing units)
+  Area: 10.8 sq km (land), 1.0 sq km (water)
+  Zip code(s): 61944
+Paris, KY (city, FIPS 59196)
+  Location: 38.20676 N, 84.26099 W
+  Population (1990): 8730 (3743 housing units)
+  Area: 13.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 40361
+Paris, MI
+  Zip code(s): 49338
+Paris, MO (city, FIPS 56144)
+  Location: 39.47715 N, 92.00393 W
+  Population (1990): 1486 (704 housing units)
+  Area: 3.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 65275
+Paris, OH
+  Zip code(s): 44669
+Paris, PA
+  Zip code(s): 15021
+Paris, TN (city, FIPS 56720)
+  Location: 36.30023 N, 88.30732 W
+  Population (1990): 9332 (4538 housing units)
+  Area: 22.2 sq km (land), 0.1 sq km (water)
+  Zip code(s): 38242
+Paris, TX (city, FIPS 55080)
+  Location: 33.66664 N, 95.54762 W
+  Population (1990): 24699 (11191 housing units)
+  Area: 70.4 sq km (land), 4.3 sq km (water)
+  Zip code(s): 75460
+Paris, VA
+  Zip code(s): 22130
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>paris</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Paris \Par"is\, n. [From Paris, the son of Priam.] (Bot.)
+   A plant common in Europe ({Paris quadrifolia}); herb Paris;
+   truelove. It has been used as a narcotic.
+   [1913 Webster]
+
+   Note: It much resembles the American genus {Trillium}, but
+         has usually four leaves and a tetramerous flower.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>paris</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Paris \Par"is\, n.
+   The chief city of France.
+   [1913 Webster]
+
+   {Paris green}. See under {Green}, n.
+
+   {Paris white} (Chem.), purified chalk used as a pigment;
+      whiting; Spanish white.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>paris</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Paris
+     n 1: the capital and largest city of France; and international
+          center of culture and commerce [syn: {City of Light}, {French
+          capital}, {capital of France}]
+     2: sometimes placed in subfamily Trilliaceae [syn: {genus Paris}]
+     3: a town in northeast Texas
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

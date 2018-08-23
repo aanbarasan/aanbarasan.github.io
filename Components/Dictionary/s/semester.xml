@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>semester</Word>
+  <Definitions>
+    <Definition>
+      <Word>semester</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Semester \Se*mes"ter\ (s[-e]*m[e^]s"t[~e]r), n. [G., from L.
+   semestris half-yearly; sex six + mensis a month.]
+   A period of six months; especially, a term in a college or
+   university which divides the year into two terms.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>semester</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>semester
+     n 1: one of two divisions of an academic year
+     2: half a year; a period of 6 months
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

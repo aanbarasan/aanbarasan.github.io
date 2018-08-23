@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>musician</Word>
+  <Definitions>
+    <Definition>
+      <Word>musician</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Musician \Mu*si"cian\, n. [F. musicien.]
+   One skilled in the art or science of music; esp., a skilled
+   singer, or performer on a musical instrument.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>musician</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>musician
+     n 1: someone who plays a musical instrument (as a profession)
+          [syn: {instrumentalist}, {player}]
+     2: artist who composes or conducts music as a profession
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

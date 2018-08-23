@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>stabbed</Word>
+  <Definitions>
+    <Definition>
+      <Word>stabbed</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Stab \Stab\ (st[a^]b), v. t. [imp. &amp; p. p. {Stabbed} (st[a^]bd);
+   p. pr. &amp; vb. n. {Stabbing}.] [Cf. OD. staven to fix, fasten,
+   fr. stave, staff, a staff, rod; akin to G. stab a staff,
+   stick, E. staff; also Gael. stob to stab, as n., a stake, a
+   stub. Cf. {Staff}.]
+   1. To pierce with a pointed weapon; to wound or kill by the
+      thrust of a pointed instrument; as, to stab a man with a
+      dagger; also, to thrust; as, to stab a dagger into a
+      person.
+      [1913 Webster]
+
+   2. Fig.: To injure secretly or by malicious falsehood or
+      slander; as, to stab a person's reputation.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stabbed</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>stab
+     n 1: a sudden sharp feeling; "pangs of regret"; "she felt a stab
+          of excitement"; "twinges of conscience" [syn: {pang}, {twinge}]
+     2: a thrusting blow with a knife or other sharp pointed
+        instrument; "one strong stab to the heart killed him"
+        [syn: {thrust}, {knife thrust}]
+     3: informal words for any attempt or effort; "he gave it his
+        best shot"; "he took a stab at forecasting" [syn: {shot}]
+     v 1: use a knife on; "The victim was knifed to death" [syn: {knife}]
+     2: stab or pierce; "he jabbed the piece of meat with his pocket
+        knife" [syn: {jab}]
+     3: poke or thrust abruptly; "he jabbed his finger into her
+        ribs" [syn: {jab}, {prod}, {poke}, {dig}]
+     [also: {stabbing}, {stabbed}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stabbed</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>stabbed
+     adj : pierced with a pointed weapon
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stabbed</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>stabbed
+     See {stab}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

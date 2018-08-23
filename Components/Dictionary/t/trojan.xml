@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>trojan</Word>
+  <Definitions>
+    <Definition>
+      <Word>trojan</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Trojan \Tro"jan\, a. [L. Trojanus, fr. Troja, Troia, Troy, from
+   Tros, Gr. Trw`s, Trwo`s, Tros, the mythical founder of Troy.]
+   1. Of or pertaining to ancient Troy or its inhabitants. -- n.
+      A native or inhabitant of Troy.
+      [1913 Webster]
+
+   2. One who shows the pluck, endurance, determined energy,
+      strength, or the like, attributed to the defenders of
+      Troy; -- used chiefly or only in the phrase
+
+   {like a Trojan}; as, he endured the pain like a Trojan; he
+      studies like a Trojan.
+      [Webster 1913 Suppl.]
+
+            Tim jumped like a Trojan from the bed. --Finnegan's
+                                                  Wake (Irish
+                                                  song)
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>trojan</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Trojan
+     adj : of or relating to the ancient city of Troy or its
+           inhabitants; "Trojan cities"
+     n 1: a native of ancient Troy [syn: {Dardan}, {Dardanian}]
+     2: a program that appears desirable but actually contains
+        something harmful; "the contents of a trojan can be a
+        virus or a worm"; "when he downloaded the free game it
+        turned out to be a trojan horse" [syn: {trojan horse}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

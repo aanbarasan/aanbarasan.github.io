@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>semen</Word>
+  <Definitions>
+    <Definition>
+      <Word>semen</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Semen \Se"men\ (s[=e]"m[e^]n), n.; pl. {Semina}
+   (s[e^]m"[i^]*n[.a]). [L., from the root of serere, satum, to
+   sow. See {Sow} to scatter seed.]
+   1. (Bot.) The seed of plants.
+      [1913 Webster]
+
+   2. (Physiol.) The seed or fecundating fluid of male animals;
+      sperm. It is a white or whitish viscid fluid secreted by
+      the testes, characterized by the presence of spermatozoids
+      to which it owes its generative power.
+      [1913 Webster]
+
+   {Semen contra}, or {Semen cin[ae]} or {Semen cyn[ae]}, a
+      strong aromatic, bitter drug, imported from Aleppo and
+      Barbary, said to consist of the leaves, peduncles, and
+      unexpanded flowers of various species of {Artemisia};
+      wormseed.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>semen</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>semen
+     n : the thick white fluid containing spermatozoa that is
+         ejaculated by the male genital tract [syn: {seed}, {seminal
+         fluid}, {ejaculate}, {cum}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

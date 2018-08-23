@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tracer</Word>
+  <Definitions>
+    <Definition>
+      <Word>tracer</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tracer \Tra"cer\, n.
+   One who, or that which, traces.
+   [1913 Webster]
+
+   2. A person engaged (esp. in the express or railway service)
+      in tracing, or searching out, missing articles, as
+      packages or freight cars.
+      [Webster 1913 Suppl.]
+
+   3. An inquiry sent out (esp. in transportation service) for a
+      missing article, as a letter or an express package.
+      [Webster 1913 Suppl.]
+
+   4. (Mil.) a type of ammunition that emits light or smoke as
+      it moves toward its target, providing a visible path of
+      the projectile in flight so that the point of impact may
+      be observed; -- called also {tracer ammunition}.
+      [PJC]
+
+   5. (Mil.) the chemical substance used in tracer ammunition to
+      cause it to be visible in flight.
+      [PJC]
+
+   6. a chemical substance with properties, such as
+      radioactivity or fluorescence, which make it easily
+      measurable, used to observe the movements of chemically
+      related substances through a biological, physical, or
+      chemical system; -- in biochemistry, also called {labeled
+      compounds}.
+
+   Note: Radioactive tracers are used, for example, to measure
+         the retention or distribution of residues of drugs
+         after administration to an animal, to determine the
+         type and rate of metabolism; also, to measure the rate
+         of motion of molecules in electrophoresis or the
+         leakage of small quantities of material from a
+         container. Small fluorescent tracers may be attached in
+         many cases to macromolecules such as proteins or
+         nucleic acids, allowing the motions of such
+         macromolecules to be easily observed by their acquired
+         fluorescence, without appreciably changing their
+         properties. In biological and biochemial systems the
+         common radioactive isotopes used in tracers are
+         carbon-14, tritium (hydrogen-3), sulfur-35,
+         phosphorus-32, and iodine-131; other isotopes are also
+         used, including non-radioactive isotopes such as
+         carbon-13.
+         [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tracer</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tracer
+     n 1: an investigator who is employed to find missing persons or
+          missing goods
+     2: an instrument used to make tracings
+     3: (radiology) any radioactive isotope introduced into the body
+        to study metabolism or other biological processes
+     4: ammunition whose flight can be observed by a trail of smoke
+        [syn: {tracer bullet}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

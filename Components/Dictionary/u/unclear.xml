@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unclear</Word>
+  <Definitions>
+    <Definition>
+      <Word>unclear</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unclear
+     adj 1: poorly stated or described; "he confuses the reader with
+            ill-defined terms and concepts" [syn: {ill-defined}]
+            [ant: {well-defined}]
+     2: not clear to the mind; "the law itself was unclear on that
+        point"; "the reason for their actions is unclear to this
+        day" [ant: {clear}]
+     3: not easily deciphered; "indecipherable handwriting" [syn: {indecipherable},
+         {undecipherable}, {unreadable}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

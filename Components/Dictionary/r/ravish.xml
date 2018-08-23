@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ravish</Word>
+  <Definitions>
+    <Definition>
+      <Word>ravish</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ravish \Rav"ish\ (r[a^]v"[i^]sh), v. t. [imp. &amp; p. p. {Ravished}
+   (-[i^]sht); p. pr. &amp; vb. n. {Ravishing}.] [OE. ravissen, F.
+   ravir, fr. L. rapere to snatch or tear away, to ravish. See
+   {Rapacious}, {Rapid}, and {-ish}.]
+   1. To seize and carry away by violence; to snatch by force.
+      [1913 Webster]
+
+            These hairs which thou dost ravish from my chin
+            Will quicken, and accuse thee.        --Shak.
+      [1913 Webster]
+
+            This hand shall ravish thy pretended right.
+                                                  --Dryden.
+      [1913 Webster]
+
+   2. To transport with joy or delight; to delight to ecstasy.
+      ``Ravished . . . for the joy.'' --Chaucer.
+      [1913 Webster]
+
+            Thou hast ravished my heart.          --Cant. iv. 9.
+      [1913 Webster]
+
+   3. To have carnal knowledge of (a woman) by force, and
+      against her consent; to rape. --Shak.
+      [1913 Webster]
+
+   Syn: To transport; entrance; enrapture; delight; violate;
+        deflower; force.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ravish</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ravish
+     v 1: force (someone) to have sex against their will; "The woman
+          was raped on her way home at night" [syn: {rape}, {violate},
+           {assault}, {dishonor}, {dishonour}, {outrage}]
+     2: hold spellbound [syn: {enchant}, {enrapture}, {transport}, {enthrall},
+         {enthral}, {delight}] [ant: {disenchant}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

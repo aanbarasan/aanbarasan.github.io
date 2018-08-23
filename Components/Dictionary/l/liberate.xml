@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>liberate</Word>
+  <Definitions>
+    <Definition>
+      <Word>liberate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Liberate \Lib"er*ate\ (-[=a]t), v. t. [imp. &amp; p. p. {Liberated}
+   (-[=a]`t[e^]d); p. pr. &amp; vb. n. {Liberating}
+   (-[=a]`t[i^]ng).] [L. liberatus, p. p. of liberare to free,
+   fr. liber free. See {Liberal}, a., and cf. {Deliver}.]
+   To release from restraint or bondage; to set at liberty; to
+   free; to manumit; to disengage; as, to liberate a slave or
+   prisoner; to liberate the mind from prejudice; to liberate
+   gases.
+   [1913 Webster]
+
+   Syn: To deliver; free; release. See {Deliver}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>liberate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>liberate
+     v 1: give equal rights to; of women and minorities [syn: {emancipate}]
+     2: grant freedom to; free from confinement [syn: {free}, {release},
+         {unloose}, {unloosen}, {loose}] [ant: {confine}]
+     3: grant freedom to; "The students liberated their slaves upon
+        graduating from the university" [syn: {set free}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

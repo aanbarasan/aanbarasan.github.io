@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>raspberry</Word>
+  <Definitions>
+    <Definition>
+      <Word>raspberry</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Raspberry \Rasp"ber*ry\ (r[a^]z"b[e^]r*r[y^]; 277), n. [From E.
+   rasp, in allusion to the apparent roughness of the fruit.]
+   (Bot.)
+   (a) The thimble-shaped fruit of the {Rubus Id[ae]us} and
+       other similar brambles; as, the black, the red, and the
+       white raspberry.
+   (b) The shrub bearing this fruit.
+       [1913 Webster]
+
+   Note: Technically, raspberries are those brambles in which
+         the fruit separates readily from the core or
+         receptacle, in this differing from the blackberries, in
+         which the fruit is firmly attached to the receptacle.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>raspberry</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>raspberry
+     n 1: woody brambles bearing usually red but sometimes black or
+          yellow fruits that separate from the receptacle when
+          ripe and are rounder and smaller than blackberries [syn:
+           {raspberry bush}]
+     2: red or black edible aggregate berries usually smaller than
+        the related blackberries
+     3: a cry or noise made to express displeasure or contempt [syn:
+         {boo}, {hoot}, {Bronx cheer}, {hiss}, {razzing}, {snort},
+         {bird}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>merciful</Word>
+  <Definitions>
+    <Definition>
+      <Word>merciful</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Merciful \Mer"ci*ful\, a. [Mercy + -ful.]
+   1. Full of mercy; having or exercising mercy; disposed to
+      pity and spare offenders; unwilling to punish. Opposite of
+      {merciless}.
+      [1913 Webster]
+
+            The Lord, the Lord God, merciful and gracious. --Ex.
+                                                  xxxiv. 6.
+      [1913 Webster]
+
+            Be merciful, great duke, to men of mold. --Shak.
+      [1913 Webster]
+
+   2. Unwilling to give pain; compassionate.
+      [1913 Webster]
+
+            A merciful man will be merciful to his beast. --Old
+                                                  Proverb.
+      [1913 Webster]
+
+   Syn: Compassionate; tender; humane; gracious; kind; mild;
+        clement; benignant.
+        [1913 Webster] -- {Mer"ci*ful*ly}, adv. --
+        {Mer"ci*ful*ness}, n.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>merciful</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>merciful
+     adj 1: showing or giving mercy; "sought merciful treatment for the
+            captives"; "a merciful god" [ant: {merciless}]
+     2: characterized by mercy, and compassion; "compassionate
+        toward disadvantaged people"; "kind to animals"; "a humane
+        judge" [syn: {kind}]
+     3: used conventionally of royalty and high nobility; "our
+        merciful king"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

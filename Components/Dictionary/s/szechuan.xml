@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>szechuan</Word>
+  <Definitions>
+    <Definition>
+      <Word>szechuan</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Szechuan
+     n : a populous province of south central China [syn: {Szechwan},
+          {Sichuan}, {Szechwan province}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>phosphorous</Word>
+  <Definitions>
+    <Definition>
+      <Word>phosphorous</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Phosphorous \Phos"phor*ous\ (f[o^]s"f[o^]r*[u^]s), a. [Cf. F.
+   phosphoreux.] (Chem.)
+   Of or pertaining to phosphorus; resembling or containing
+   phosphorus; specifically, designating those compounds in
+   which phosphorus has a lower valence as contrasted with
+   phosphoric compounds; as, phosphorous acid, {H3PO3}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>phosphorous</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>phosphorous
+     adj : containing or characteristic of phosphorus; "phosphoric
+           acid" [syn: {phosphoric}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

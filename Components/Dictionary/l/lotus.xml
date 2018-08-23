@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lotus</Word>
+  <Definitions>
+    <Definition>
+      <Word>lotus</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Lotus, CA
+  Zip code(s): 95651
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lotus</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lotus \Lo"tus\ (l[=o]"t[u^]s), n. [L. lotus, Gr. lwto`s. Cf.
+   {Lote}.]
+   1. (Bot.)
+      (a) A name of several kinds of water lilies; as {Nelumbium
+          speciosum}, used in religious ceremonies, anciently in
+          Egypt, and to this day in Asia; {Nelumbium luteum},
+          the American lotus; and {Nymph[ae]a Lotus} and
+          {Nymph[ae]a c[ae]rulea}, the respectively
+          white-flowered and blue-flowered lotus of modern
+          Egypt, which, with {Nelumbium speciosum}, are figured
+          on its ancient monuments.
+      (b) The lotus of the lotuseaters, probably a tree found in
+          Northern Africa, Sicily, Portugal, and Spain
+          ({Zizyphus Lotus}), the fruit of which is mildly
+          sweet. It was fabled by the ancients to make strangers
+          who ate of it forget their native country, or lose all
+          desire to return to it.
+      (c) The lote, or nettle tree. See {Lote}.
+      (d) A genus ({Lotus}) of leguminous plants much resembling
+          clover. [Written also {lotos}.]
+          [1913 Webster]
+
+   {European lotus}, a small tree ({Diospyros Lotus}) of
+      Southern Europe and Asia; also, its rather large bluish
+      black berry, which is called also the {date plum}.
+      [1913 Webster]
+
+   2. (Arch.) An ornament much used in Egyptian architecture,
+      generally asserted to have been suggested by the Egyptian
+      water lily.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lotus</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>lotus
+     n 1: native to eastern Asia; widely cultivated for its large pink
+          or white flowers [syn: {Indian lotus}, {sacred lotus}, {Nelumbo
+          nucifera}]
+     2: annual or perennial herbs or subshrubs [syn: {genus Lotus}]
+     3: white Egyptian lotus: water lily of Egypt to southeastern
+        Africa; held sacred by the Egyptians [syn: {white lotus},
+        {Egyptian water lily}, {white lily}, {Nymphaea lotus}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

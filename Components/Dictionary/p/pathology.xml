@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pathology</Word>
+  <Definitions>
+    <Definition>
+      <Word>pathology</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>pathology \pa*thol"o*gy\ (-j[y^]), n.; pl. {pathologies}
+   (-j[i^]z). [Gr. pa`qos a suffering, disease + -logy: cf. F.
+   pathologie.]
+   1. (Med.) The science which treats of diseases, their nature,
+      causes, progress, symptoms, etc.
+      [1913 Webster]
+
+   Note: Pathology is general or special, according as it treats
+         of disease or morbid processes in general, or of
+         particular diseases; it is also subdivided into
+         internal and external, or medical and surgical
+         pathology. Its departments are {nosology},
+         {[ae]tiology}, {morbid anatomy}, {symptomatology}, and
+         {therapeutics}, which treat respectively of the
+         classification, causation, organic changes, symptoms,
+         and cure of diseases.
+         [1913 Webster]
+
+   2. (Med.) The condition of an organ, tissue, or fluid
+      produced by disease.
+      [Webster 1913 Suppl.]
+
+   {Celluar pathology}, a theory that gives prominence to the
+      vital action of cells in the healthy and diseased function
+      of the body. --Virchow.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pathology</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pathology
+     n 1: the branch of medical science that studies the causes and
+          nature and effects of diseases
+     2: any deviation from a healthy or normal condition
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

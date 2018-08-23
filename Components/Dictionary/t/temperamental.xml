@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>temperamental</Word>
+  <Definitions>
+    <Definition>
+      <Word>temperamental</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Temperamental \Tem`per*a*men"tal\, a.
+   Of or pertaining to temperament; constitutional. [R.] --Sir
+   T. Browne.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>temperamental</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>temperamental
+     adj 1: relating to or caused by temperament; "temperamental
+            indifference to neatness"; "temperamental
+            peculiarities"
+     2: subject to sharply varying moods; "a temperamental opera
+        singer" [syn: {moody}]
+     3: likely to perform unpredictably; "erratic winds are the bane
+        of a sailor"; "a temperamental motor; sometimes it would
+        start and sometimes it wouldn't"; "that beautiful but
+        temperamental instrument the flute"- Osbert Lancaster
+        [syn: {erratic}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

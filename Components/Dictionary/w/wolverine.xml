@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>wolverine</Word>
+  <Definitions>
+    <Definition>
+      <Word>wolverine</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Wolverine, MI (village, FIPS 88240)
+  Location: 45.27349 N, 84.60548 W
+  Population (1990): 283 (136 housing units)
+  Area: 2.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 49799
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wolverine</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Glutton \Glut"ton\, n. [OE. glotoun, glotun, F. glouton, fr. L.
+   gluto, glutto. See {Glut}.]
+   [1913 Webster]
+   1. One who eats voraciously, or to excess; a gormandizer.
+      [1913 Webster]
+
+   2. Fig.: One who gluts himself.
+      [1913 Webster]
+
+            Gluttons in murder, wanton to destroy. --Granville.
+      [1913 Webster]
+
+   3. (Zo["o]l.) A carnivorous mammal ({Gulo gulo} formerly
+      {Gulo luscus}), of the weasel family {Mustelid[ae]}, about
+      the size of a large badger; called also {wolverine},
+      {wolverene} and {carcajou}. It was formerly believed to be
+      inordinately voracious, whence the name. It is a native of
+      the northern parts of America, Europe, and Asia.
+      [1913 Webster +PJC]
+
+   {Glutton bird} (Zo["o]l.), the giant fulmar ({Ossifraga
+      gigantea}); -- called also {Mother Carey's goose}, and
+      {mollymawk}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wolverine</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Wolverene \Wol`ver*ene"\, Wolverine \Wol`ver*ine"\, n. [From
+   {Wolf}, with a dim suffix; prob. so called from its supposed
+   wolfish qualities.]
+   1. (Zo["o]l.) A carnivorous mammal ({Gulo gulo} formerly
+      {Gulo luscus}), of the weasel family {Mustelid[ae]}, about
+      the size of a large badger; called also {glutton} and
+      {carcajou}. It is a native of the northern parts of
+      America, Europe, and Asia.
+      [1913 Webster +PJC]
+
+   2. A nickname for an inhabitant of Michigan. [U. S.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wolverine</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Wolverine
+     n 1: a resident of Michigan [syn: {Michigander}]
+     2: wolverine of northern Eurasia [syn: {glutton}, {Gulo gulo}]
+     3: stocky shaggy-coated North American carnivorous mammal [syn:
+         {carcajou}, {skunk bear}, {Gulo luscus}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

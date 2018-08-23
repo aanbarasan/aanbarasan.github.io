@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>subjunctive</Word>
+  <Definitions>
+    <Definition>
+      <Word>subjunctive</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Subjunctive \Sub*junc"tive\, n. (Gram.)
+   The subjunctive mood; also, a verb in the subjunctive mood.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>subjunctive</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Subjunctive \Sub*junc"tive\, a. [L. subjunctivus, fr.
+   subjungere, subjunctum, to subjoin: cf. F. subjonctif. See
+   {Subjoin}.]
+   Subjoined or added to something before said or written.
+   [1913 Webster]
+
+   {Subjunctive mood} (Gram.), that form of a verb which express
+      the action or state not as a fact, but only as a
+      conception of the mind still contingent and dependent. It
+      is commonly subjoined, or added as subordinate, to some
+      other verb, and in English is often connected with it by
+      if, that, though, lest, unless, except, until, etc., as in
+      the following sentence: ``If there were no honey, they
+      [bees] would have no object in visiting the flower.''
+      --Lubbock. In some languages, as in Latin and Greek, the
+      subjunctive is often independent of any other verb, being
+      used in wishes, commands, exhortations, etc.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>subjunctive</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>subjunctive
+     adj : relating to a mood of verbs; "subjunctive verb endings"
+     n : a mood that represent an act or state (not as a fact but) as
+         contingent or possible [syn: {subjunctive mood}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sixteen</Word>
+  <Definitions>
+    <Definition>
+      <Word>sixteen</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sixteen \Six"teen`\, a. [AS. sixt?ne, sixt?ne. See {Six}, and
+   {Ten}, and cf. {Sixty}.]
+   Six and ten; consisting of six and ten; fifteen and one more.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sixteen</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sixteen \Six"teen`\, n.
+   1. The number greater by a unit than fifteen; the sum of ten
+      and six; sixteen units or objects.
+      [1913 Webster]
+
+   2. A symbol representing sixteen units, as 16, or xvi.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sixteen</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sixteen
+     adj : being one more than fifteen [syn: {16}, {xvi}]
+     n : the cardinal number that is the sum of fifteen and one [syn:
+          {16}, {XVI}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>varicose</Word>
+  <Definitions>
+    <Definition>
+      <Word>varicose</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Varicose \Var"i*cose`\ (?; 277), a. [L. varicosus, from varix,
+   -icis, a dilated vein; cf. varus bent, stretched, crooked.]
+   [1913 Webster]
+   1. Irregularly swollen or enlarged; affected with, or
+      containing, varices, or varicosities; of or pertaining to
+      varices, or varicosities; as, a varicose nerve fiber; a
+      varicose vein; varicose ulcers.
+      [1913 Webster]
+
+   2. (Med.) Intended for the treatment of varicose veins; --
+      said of elastic stockings, bandages. and the like.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>varicose</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>varicose
+     adj : abnormally swollen or knotty; "varicose veins"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

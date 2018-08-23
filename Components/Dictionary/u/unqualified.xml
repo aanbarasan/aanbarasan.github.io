@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unqualified</Word>
+  <Definitions>
+    <Definition>
+      <Word>unqualified</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unqualified
+     adj 1: not limited or restricted; "an unqualified denial" [ant: {qualified}]
+     2: not meeting the proper standards and requirements and
+        training [ant: {qualified}]
+     3: having no right or entitlement; "a distinction to which he
+        was unentitled" [syn: {unentitled}]
+     4: lacking specific legal qualifications; "a wife is usually
+        considered unqualified to testify against her husband"
+     5: lacking the necessary skill or knowledge etc.; "an incapable
+        helper" [syn: {incapable}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

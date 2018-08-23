@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>technetium</Word>
+  <Definitions>
+    <Definition>
+      <Word>technetium</Word>
+      <Dictionary>
+        <Id>elements</Id>
+        <Name>Elements database 20001107</Name>
+      </Dictionary>
+      <WordDefinition>technetium
+Symbol: Tc
+Atomic number: 43
+Atomic weight: (98)
+Radioactive metallic transition element. Can be detected in some stars and
+the fission products of uranium. First made by Perrier and Segre by
+bombarding molybdenum with deutrons, giving them Tc-97. Tc-99 is the most
+stable isotope with a half-life of 2.6*10^6 years. Sixteen isotopes are
+known. Organic technetium compounds are used in bone imaging. Chemical
+properties are intermediate between rhenium and manganese.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>technetium</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>technetium
+     n : a crystalline metallic element not found in nature; occurs
+         as one of the fission products of uranium [syn: {Tc}, {atomic
+         number 43}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

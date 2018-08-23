@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>twelfth</Word>
+  <Definitions>
+    <Definition>
+      <Word>twelfth</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Twelfth \Twelfth\, a. [For twelft, OE. twelfte, AS. twelfta. See
+   {Twelve}.]
+   1. Next in order after the eleventh; coming after eleven
+      others; -- the ordinal of twelve.
+      [1913 Webster]
+
+   2. Consisting, or being one of, twelve equal parts into which
+      anything is divided.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>twelfth</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Twelfth \Twelfth\, n.
+   1. The quotient of a unit divided by twelve; one of twelve
+      equal parts of one whole.
+      [1913 Webster]
+
+   2. The next in order after the eleventh.
+      [1913 Webster]
+
+   3. (Mus.) An interval comprising an octave and a fifth.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>twelfth</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>twelfth
+     adj : coming next after the eleventh and just before the
+           thirteenth in position [syn: {12th}]
+     n : position 12 in a countable series of things
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

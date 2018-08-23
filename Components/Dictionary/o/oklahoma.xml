@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>oklahoma</Word>
+  <Definitions>
+    <Definition>
+      <Word>oklahoma</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Oklahoma, PA (borough, FIPS 56496)
+  Location: 40.58092 N, 79.57465 W
+  Population (1990): 977 (406 housing units)
+  Area: 1.9 sq km (land), 0.1 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>oklahoma</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Oklahoma
+     n : a state in south central United States [syn: {Sooner State},
+          {OK}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

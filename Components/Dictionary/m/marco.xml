@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>marco</Word>
+  <Definitions>
+    <Definition>
+      <Word>marco</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Marco, FL (CDP, FIPS 43075)
+  Location: 25.94241 N, 81.71762 W
+  Population (1990): 9493 (11096 housing units)
+  Area: 19.0 sq km (land), 12.0 sq km (water)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>organs</Word>
+  <Definitions>
+    <Definition>
+      <Word>organs</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Morphon \Mor"phon\, n. [Gr. ?, p. pr. of ? to form.] (Biol.)
+   A morphological individual, characterized by definiteness of
+   form, in distinction from {bion}, a physiological individual.
+   See {Tectology}. --Haeckel.
+   [1913 Webster]
+
+   Note: Of morphons there are six orders or categories: 1.
+         {Plastids} or elementary organisms. 2. {Organs},
+         homoplastic or heteroplastic. 3. {Antimeres} (opposite
+         or symmetrical or homotypic parts). 4. {Metameres}
+         (successive or homodynamous parts). 5. {Person[ae]}
+         (shoots or buds of plants, individuals in the narrowest
+         sense among the higher animals). 6. {Corms} (stocks or
+         colonies). For orders 2, 3, and 4 the term idorgan has
+         been recently substituted. See {Idorgan}.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>organs</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>organs
+     n : edible viscera of a butchered animal [syn: {variety meat}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

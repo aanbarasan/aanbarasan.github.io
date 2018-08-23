@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>kneel</Word>
+  <Definitions>
+    <Definition>
+      <Word>kneel</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Kneel \Kneel\ (n[=e]l), v. i. [imp. &amp; p. p. {Knelt} (n[e^]lt) or
+   {Kneeled} (n[=e]ld); p. pr. &amp; vb. n. {Kneeling}.] [OE.
+   knelen, cneolien; akin to D. knielen, Dan. kn[ae]le. See
+   {Knee}.]
+   To bend the knee; to fall or rest on the knees; -- sometimes
+   with down.
+   [1913 Webster]
+
+   Note: The act of kneeling, when performed in front of a
+         person, is often done as a sign of respect, humility,
+         or supplication. It has a similar significance when
+         performed in front of religious objects, such as an
+         altar or shrine.
+         [PJC]
+
+               And he kneeled down, and cried with a loud voice,
+               Lord, lay not this sin to their charge. --Acts
+                                                  vii. 60.
+         [1913 Webster]
+
+               As soon as you are dressed, kneel and say the
+               Lord's Prayer.                     --Jer. Taylor.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>kneel</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>kneel
+     n : supporting yourself on your knees [syn: {kneeling}]
+     v : rest one's weight on one's knees; "In church you have to
+         kneel during parts of the service"
+     [also: {knelt}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

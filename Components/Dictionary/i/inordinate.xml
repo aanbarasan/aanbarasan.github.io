@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>inordinate</Word>
+  <Definitions>
+    <Definition>
+      <Word>inordinate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Inordinate \In*or"di*nate\, a. [L. inordinatus disordered. See
+   {In-} not, and {Ordinate}.]
+   Not limited to rules prescribed, or to usual bounds;
+   irregular; excessive; immoderate; as, an inordinate love of
+   the world. ``Inordinate desires.'' --Milton. ``Inordinate
+   vanity.'' --Burke. -- {In*or"di*nate*ly}, adv. --
+   {In*or"di*nate*ness}, n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>inordinate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>inordinate
+     adj : beyond normal limits; "excessive charges"; "a book of
+           inordinate length"; "his dress stops just short of
+           undue elegance"; "unreasonable demands" [syn: {excessive},
+            {undue}, {unreasonable}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

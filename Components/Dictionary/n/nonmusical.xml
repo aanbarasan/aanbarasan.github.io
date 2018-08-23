@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nonmusical</Word>
+  <Definitions>
+    <Definition>
+      <Word>nonmusical</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nonmusical
+     adj 1: lacking interest in or talent for music; "too unmusical to
+            care for concerts"; "it is unfortunate that her
+            children were all nonmusical" [syn: {unmusical}] [ant:
+             {musical}]
+     2: not musical in nature; "the unmusical cry of the bluejay"
+        [syn: {unmusical}, {dissonant}] [ant: {musical}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

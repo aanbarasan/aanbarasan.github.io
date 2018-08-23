@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lamar</Word>
+  <Definitions>
+    <Definition>
+      <Word>lamar</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Lamar, AR (city, FIPS 38290)
+  Location: 35.43920 N, 93.38780 W
+  Population (1990): 768 (330 housing units)
+  Area: 4.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 72846
+Lamar, CO (city, FIPS 43110)
+  Location: 38.08027 N, 102.61751 W
+  Population (1990): 8343 (3599 housing units)
+  Area: 10.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 81052
+Lamar, MO (city, FIPS 40376)
+  Location: 37.49368 N, 94.27319 W
+  Population (1990): 4168 (1887 housing units)
+  Area: 8.8 sq km (land), 0.8 sq km (water)
+Lamar, MS
+  Zip code(s): 38642
+Lamar, NE (village, FIPS 26175)
+  Location: 40.57244 N, 101.97947 W
+  Population (1990): 31 (13 housing units)
+  Area: 0.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 69035
+Lamar, OK (town, FIPS 41250)
+  Location: 35.09789 N, 96.12681 W
+  Population (1990): 97 (40 housing units)
+  Area: 0.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 74850
+Lamar, SC (town, FIPS 39805)
+  Location: 34.16920 N, 80.06569 W
+  Population (1990): 1125 (469 housing units)
+  Area: 3.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 29069
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

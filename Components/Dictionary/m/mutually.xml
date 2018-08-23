@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mutually</Word>
+  <Definitions>
+    <Definition>
+      <Word>mutually</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mutually \Mu"tu*al*ly\, adv.
+   In a mutual manner.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mutually</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mutually
+     adv : in a mutual or shared manner; "the agreement was mutually
+           satisfactory"; "the goals of the negotiators were not
+           reciprocally exclusive" [syn: {reciprocally}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>possessive</Word>
+  <Definitions>
+    <Definition>
+      <Word>possessive</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Possessive \Pos*sess"ive\, a. [L. possessivus: cf. F.
+   possessif.]
+   Of or pertaining to possession; having or indicating
+   possession.
+   [1913 Webster]
+
+   {Possessive case} (Eng. Gram.), the genitive case; the case
+      of nouns and pronouns which expresses ownership, origin,
+      or some possessive relation of one thing to another; as,
+      Homer's admirers; the pear's flavor; the dog's
+      faithfulness.
+
+   {Possessive pronoun}, a pronoun denoting ownership; as, his
+      name; her home; my book.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>possessive</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Possessive \Pos*sess"ive\, n.
+   1. (Gram.) The possessive case.
+      [1913 Webster]
+
+   2. (Gram.) A possessive pronoun, or a word in the possessive
+      case.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>possessive</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>possessive
+     adj 1: serving to express or indicate possession; "possessive
+            pronouns"; "the genitive endings" [syn: {genitive}]
+     2: desirous of owning; "small children are so possessive they
+        will not let others play with their toys"
+     3: having or showing a desire to control or dominate; "a
+        possessive parent"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>reenact</Word>
+  <Definitions>
+    <Definition>
+      <Word>reenact</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Reenact \Re`["e]n*act"\ (r?`?n*?kt"), v. t.
+   To enact again.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>reenact</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>reenact
+     v 1: enact or perform again; "They reenacted the battle of
+          Princeton"
+     2: enact again; "Congress reenacted the law"
+     3: act out; represent or perform as if in a play; "She
+        reenacted what had happened earlier that day" [syn: {enact},
+         {act out}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

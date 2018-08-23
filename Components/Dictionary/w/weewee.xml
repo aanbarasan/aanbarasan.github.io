@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>weewee</Word>
+  <Definitions>
+    <Definition>
+      <Word>weewee</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>wee-wee
+     v : eliminate urine; "Again, the cat had made on the expensive
+         rug" [syn: {make}, {urinate}, {piddle}, {puddle}, {micturate},
+          {piss}, {pee}, {pee-pee}, {make water}, {relieve oneself},
+          {take a leak}, {spend a penny}, {wee}, {pass water}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>weewee</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>weewee
+     n : liquid excretory product; "there was blood in his urine";
+         "the child had to make water" [syn: {urine}, {piss}, {pee},
+          {piddle}, {water}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

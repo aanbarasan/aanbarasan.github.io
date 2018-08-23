@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>misery</Word>
+  <Definitions>
+    <Definition>
+      <Word>misery</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Misery \Mi"ser*y\, n.; pl. {Miseries}. [OE. miserie, L. miseria,
+   fr. miser wretched: cf. F. mis[`e]re, OF. also, miserie.]
+   [1913 Webster]
+   1. Great unhappiness; extreme pain of body or mind;
+      wretchedness; distress; woe. --Chaucer.
+      [1913 Webster]
+
+            Destruction and misery are in their ways. --Rom.
+                                                  iii. 16.
+      [1913 Webster]
+
+   2. Cause of misery; calamity; misfortune.
+      [1913 Webster]
+
+            When we our betters see bearing our woes,
+            We scarcely think our miseries our foes. --Shak.
+      [1913 Webster]
+
+   3. Covetousness; niggardliness; avarice. [Obs.]
+      [1913 Webster]
+
+   Syn: Wretchedness; torture; agony; torment; anguish;
+        distress; calamity; misfortune.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>misery</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>misery
+     n 1: a state of ill-being due to affliction or misfortune; "the
+          misery and wretchedness of those slums is intolerable"
+          [syn: {wretchedness}]
+     2: a feeling of intense unhappiness; "she was exhausted by her
+        misery and grief"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

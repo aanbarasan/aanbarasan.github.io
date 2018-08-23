@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>inherently</Word>
+  <Definitions>
+    <Definition>
+      <Word>inherently</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Inherently \In*her"ent*ly\, adv.
+   By inherence; inseparably.
+   [1913 Webster]
+
+         Matter hath inherently and essentially such an internal
+         energy.                                  --Bentley.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>inherently</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>inherently
+     adv : in an inherent manner; "the subject matter is sexual
+           activity of any overt kind, which is depicted as
+           inherently desirable and exciting"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

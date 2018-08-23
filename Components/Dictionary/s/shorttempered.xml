@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>shorttempered</Word>
+  <Definitions>
+    <Definition>
+      <Word>shorttempered</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>short-tempered
+     adj : quickly aroused to anger; "a hotheaded commander" [syn: {choleric},
+            {irascible}, {hotheaded}, {hot-tempered}, {quick-tempered},
+            {short}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

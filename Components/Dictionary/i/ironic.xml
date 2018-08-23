@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ironic</Word>
+  <Definitions>
+    <Definition>
+      <Word>ironic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ironic \I*ron"ic\, a.
+   Ironical. --Sir T. Herbert.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ironic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ironic
+     adj 1: humorously sarcastic or mocking; "dry humor"; "an ironic
+            remark often conveys an intended meaning obliquely";
+            "an ironic novel"; "an ironical smile"; "with a wry
+            Scottish wit" [syn: {dry}, {ironical}, {wry}]
+     2: characterized by often poignant difference or incongruity
+        between what is expected and what actually is; "madness,
+        an ironic fate for such a clear thinker"; "it was ironical
+        that the well-planned scheme failed so completely" [syn: {ironical}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

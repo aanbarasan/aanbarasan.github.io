@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>regulate</Word>
+  <Definitions>
+    <Definition>
+      <Word>regulate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Regulate \Reg"u*late\ (-l[=a]t), v. t. [imp. &amp; p. p. {Regulated}
+   (-l[=a]`t[e^]d); p. pr. &amp; vb. n. {Regulating}.] [L.
+   regulatus, p. p. of regulare, fr. regula. See {Regular}.]
+   1. To adjust by rule, method, or established mode; to direct
+      by rule or restriction; to subject to governing principles
+      or laws.
+      [1913 Webster]
+
+            The laws which regulate the successions of the
+            seasons. --Macaulay.
+      [1913 Webster]
+
+            The herdsmen near the frontier adjudicated their own
+            disputes, and regulated their own police.
+                                                  --Bancroft.
+      [1913 Webster]
+
+   2. To put in good order; as, to regulate the disordered state
+      of a nation or its finances.
+      [1913 Webster]
+
+   3. To adjust, or maintain, with respect to a desired rate,
+      degree, or condition; as, to regulate the temperature of a
+      room, the pressure of steam, the speed of a machine, etc.
+      [1913 Webster]
+
+   {To regulate a watch} or {To regulate a clock}, to adjust its
+      rate of running so that it will keep approximately
+      standard time.
+      [1913 Webster]
+
+   Syn: To adjust; dispose; methodize; arrange; direct; order;
+        rule; govern.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>regulate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>regulate
+     v 1: fix or adjust the time, amount, degree, or rate of;
+          "regulate the temperature"; "modulate the pitch" [syn: {modulate}]
+     2: bring into conformity with rules or principles or usage;
+        impose regulations; "We cannot regulate the way people
+        dress"; "This town likes to regulate" [syn: {regularize},
+        {regularise}, {order}, {govern}] [ant: {deregulate}]
+     3: shape or influence; give direction to; "experience often
+        determines ability"; "mold public opinion" [syn: {determine},
+         {shape}, {mold}, {influence}]
+     4: check the emission of (sound) [syn: {baffle}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

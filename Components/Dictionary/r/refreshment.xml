@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>refreshment</Word>
+  <Definitions>
+    <Definition>
+      <Word>refreshment</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Refreshment \Re*fresh"ment\ (-ment), n. [CF. OF.
+   refreschissement, F. rafra[^i]chissement.]
+   1. The act of refreshing, or the state of being refreshed;
+      restoration of strength, spirit, vigor, or liveliness;
+      relief after suffering; new life or animation after
+      depression.
+      [1913 Webster]
+
+   2. That which refreshes; means of restoration or reanimation;
+      especially, an article of food or drink.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>refreshment</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>refreshment
+     n 1: snacks and drinks served as a light meal
+     2: activity that refreshes and recreates; activity that renews
+        your health and spirits by enjoyment and relaxation; "time
+        for rest and refreshment by the pool"; "days of joyous
+        recreation with his friends" [syn: {recreation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

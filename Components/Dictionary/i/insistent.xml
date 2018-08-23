@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>insistent</Word>
+  <Definitions>
+    <Definition>
+      <Word>insistent</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Insistent \In*sist"ent\, a. [L. insistens, -entis, p. pr. of
+   insistere.]
+   [1913 Webster]
+   1. Standing or resting on something; as, an insistent wall.
+      --Sir H. Wotton.
+      [1913 Webster]
+
+   2. Insisting; persistent; persevering.
+      [1913 Webster]
+
+   3. (Zo["o]l.) See {Incumbent}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>insistent</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>insistent
+     adj 1: persistently continual; "the bluejay's insistent cry" [syn:
+            {repetitive}]
+     2: demanding attention; "clamant needs"; "a crying need";
+        "regarded literary questions as exigent and momentous"-
+        H.L.Mencken; "insistent hunger"; "an instant need" [syn: {clamant},
+         {crying}, {exigent}, {instant}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

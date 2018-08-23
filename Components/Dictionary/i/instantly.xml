@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>instantly</Word>
+  <Definitions>
+    <Definition>
+      <Word>instantly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Instantly \In"stant*ly\, adv.
+   1. Without the least delay or interval; at once; immediately.
+      --Macaulay.
+      [1913 Webster]
+
+   2. With urgency or importunity; earnestly; pressingly. ``They
+      besought him instantly.'' --Luke vii. 4.
+
+   Syn: Directly; immediately; at once. See {Directly}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>instantly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>instantly
+     adv 1: without delay or hesitation; with no time intervening; "he
+            answered immediately"; "found an answer straightaway";
+            "an official accused of dishonesty should be suspended
+            forthwith"; "Come here now!" [syn: {immediately}, {straightaway},
+             {straight off}, {directly}, {now}, {right away}, {at
+            once}, {forthwith}, {in real time}, {like a shot}]
+     2: without any delay; "he was killed outright" [syn: {instantaneously},
+         {outright}, {in a flash}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>watery</Word>
+  <Definitions>
+    <Definition>
+      <Word>watery</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Watery \Wa"ter*y\, a. [AS. w[ae]terig.]
+   [1913 Webster]
+   1. Of or pertaining to water; consisting of water. ``The
+      watery god.'' --Dryden. ``Fish within their watery
+      residence.'' --Milton.
+      [1913 Webster]
+
+   2. Abounding with water; wet; hence, tearful.
+      [1913 Webster]
+
+   3. Resembling water; thin or transparent, as a liquid; as,
+      watery humors.
+      [1913 Webster]
+
+            The oily and watery parts of the aliment.
+                                                  --Arbuthnot.
+      [1913 Webster]
+
+   4. Hence, abounding in thin, tasteless, or insipid fluid;
+      tasteless; insipid; vapid; spiritless.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>watery</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>watery
+     adj 1: filled with water; "watery soil"
+     2: wet with secreted or exuded moisture such as sweat or blood
+        or tears; "wiped his reeking neck" [syn: {reeking}, {dripping}]
+     3: filled or brimming with tears; "swimming eyes"; "watery
+        eyes"; "sorrow made the eyes of many grow liquid" [syn: {liquid},
+         {swimming}]
+     4: relating to or resembling or consisting of water; "a watery
+        grave"
+     5: overly diluted; thin and insipid; "washy coffee"; "watery
+        milk"; "weak tea" [syn: {washy}, {weak}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

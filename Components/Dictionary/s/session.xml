@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>session</Word>
+  <Definitions>
+    <Definition>
+      <Word>session</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>session
+     
+        &lt;networking&gt; 1. A lasting connection between a user (or user
+        agent) and a {peer}, typically a {server}, usually involving
+        the exchange of many packets between the user's computer and
+        the server.  A session is typically implemented as a layer in
+        a network {protocol} (e.g. {telnet}, {FTP}).
+     
+        In the case of protocols where there is no concept of a
+        session layer (e.g. {UDP}) or where sessions at the {session
+        layer} are generally very short-lived (e.g. {HTTP}), {virtual}
+        sessions are implemented by having each exchange between the
+        user and the remote host include some form of {cookie} which
+        stores state (e.g. a unique session ID, information about the
+        user's preferences or authorisation level, etc.).
+     
+        See also {login}.
+     
+        2. A lasting connection using the {session layer} of a
+        networking protocol.
+     
+        (1997-08-03)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>session</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Session \Ses"sion\, n. [L. sessio, fr. sedere, sessum, to sit:
+   cf. F. session. See {Sit}.]
+   1. The act of sitting, or the state of being seated.
+      [Archaic]
+      [1913 Webster]
+
+            So much his ascension into heaven and his session at
+            the right hand of God do import.      --Hooker.
+      [1913 Webster]
+
+            But Viven, gathering somewhat of his mood, . . .
+            Leaped from her session on his lap, and stood.
+                                                  --Tennyson.
+      [1913 Webster]
+
+   2. The actual sitting of a court, council, legislature, etc.,
+      or the actual assembly of the members of such a body, for
+      the transaction of business.
+      [1913 Webster]
+
+            It's fit this royal session do proceed. --Shak.
+      [1913 Webster]
+
+   3. Hence, also, the time, period, or term during which a
+      court, council, legislature, etc., meets daily for
+      business; or, the space of time between the first meeting
+      and the prorogation or adjournment; thus, a session of
+      Parliaments is opened with a speech from the throne, and
+      closed by prorogation. The session of a judicial court is
+      called a term.
+      [1913 Webster]
+
+            It was resolved that the convocation should meet at
+            the beginning of the next session of Parliament.
+                                                  --Macaulay.
+      [1913 Webster]
+
+   Note: Sessions, in some of the States, is particularly used
+         as a title for a court of justices, held for granting
+         licenses to innkeepers, etc., and for laying out
+         highways, and the like; it is also the title of several
+         courts of criminal jurisdiction in England and the
+         United States.
+         [1913 Webster]
+
+   {Church session}, the lowest court in the Presbyterian
+      Church, composed of the pastor and a body of elders
+      elected by the members of a particular church, and having
+      the care of matters pertaining to the religious interests
+      of that church, as the admission and dismission of
+      members, discipline, etc.
+
+   {Court of Session}, the supreme civil court of Scotland.
+
+   {Quarter sessions}. (Eng.Law) See under {Quarter}.
+
+   {Sessions of the peace}, sittings held by justices of the
+      peace. [Eng.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>session</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>session
+     n 1: a meeting for execution of a group's functions; "it was the
+          opening session of the legislature"
+     2: the time during which a school holds classes; "they had to
+        shorten the school term" [syn: {school term}, {academic
+        term}, {academic session}]
+     3: a meeting devoted to a particular activity; "a filming
+        session"; "a gossip session"
+     4: a meeting of spiritualists; "the seance was held in the
+        medium's parlor" [syn: {seance}, {sitting}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>photon</Word>
+  <Definitions>
+    <Definition>
+      <Word>photon</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>PHOTON
+     paneuropean PHOtonic Transport Overlay Network (ACTS)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>photon</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>photon
+     n : a quantum of electromagnetic radiation; an elementary
+         particle that is its own antiparticle
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

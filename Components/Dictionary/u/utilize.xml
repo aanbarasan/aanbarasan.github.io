@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>utilize</Word>
+  <Definitions>
+    <Definition>
+      <Word>utilize</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Utilize \U"til*ize\, v. t. [imp. &amp; p. p. {Utilized}; p. pr. &amp;
+   vb. n. {Utilizing}.] [Cf. F. utiliser.]
+   To make useful; to turn to profitable account or use; to make
+   use of; as, to utilize the whole power of a machine; to
+   utilize one's opportunities.
+   [1913 Webster]
+
+         In former ages, the mile-long corridors, with their
+         numerous alcoves, might have been utilized as . . .
+         dungeons.                                --Hawthorne.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>utilize</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>utilize
+     v 1: put into service; make work or employ (something) for a
+          particular purpose or for its inherent or natural
+          purpose; "use your head!"; "we only use Spanish at
+          home"; "I can't make use of this tool"; "Apply a
+          magnetic field here"; "This thinking was applied to many
+          projects"; "How do you utilize this tool?"; "I apply
+          this rule to get good results"; "use the plastic bags to
+          store the food"; "He doesn't know how to use a computer"
+          [syn: {use}, {utilise}, {apply}, {employ}]
+     2: convert (from an investment trust to a unit trust)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

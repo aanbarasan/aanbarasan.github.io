@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>twodimensional</Word>
+  <Definitions>
+    <Definition>
+      <Word>twodimensional</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>two-dimensional
+     adj 1: involving two dimensions [syn: {planar}] [ant: {cubic}, {linear}]
+     2: lacking the expected range or depth; not designed to give an
+        illusion or depth; "a film with two-dimensional
+        characters"; "a flat two-dimensional painting" [syn: {flat}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

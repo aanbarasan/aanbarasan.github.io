@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unambiguously</Word>
+  <Definitions>
+    <Definition>
+      <Word>unambiguously</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unambiguously
+     adv 1: in an unambiguous manner; "she stated her intentions
+            unequivocally" [syn: {unequivocally}, {without
+            ambiguity}] [ant: {ambiguously}]
+     2: so as to be unique; "he could determine uniquely the
+        properties of the compound" [syn: {uniquely}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>maritime</Word>
+  <Definitions>
+    <Definition>
+      <Word>maritime</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Maritime \Mar"i*time\ (m[a^]r"[i^]*t[imac]m, formerly
+   m[a^]r"[i^]*t[i^]m; 277), a. [L. maritimus, fr. mare the sea:
+   cf. F. maritime. See {Mere} a pool.]
+   1. Bordering on, or situated near, the ocean; connected with
+      the sea by site, interest, or power; having shipping and
+      commerce or a navy; as, maritime states. ``A maritime
+      town.'' --Addison.
+      [1913 Webster +PJC]
+
+   2. Of or pertaining to the ocean; marine; pertaining to
+      navigation and naval affairs, or to shipping and commerce
+      by sea. ``Maritime service.'' --Sir H. Wotton.
+      [1913 Webster]
+
+   {Maritime law}. See {Law}.
+
+   {Maritime loan}, a loan secured by bottomry or respodentia
+      bonds.
+
+   {Martime nations}, nations having seaports, and using the sea
+      more or less for war or commerce.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>maritime</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>maritime
+     adj 1: relating to or involving ships or shipping or navigation or
+            seamen; "nautical charts"; "maritime law"; "marine
+            insurance" [syn: {nautical}, {marine}]
+     2: bordering on or living or characteristic of those near the
+        sea; "a maritime province"; "maritime farmers"; "maritime
+        cultures"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>remedial</Word>
+  <Definitions>
+    <Definition>
+      <Word>remedial</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Remedial \Re*me"di*al\ (-al), a. [L. remedialis.]
+   Affording a remedy; intended for a remedy, or for the removal
+   or abatement of an evil; as, remedial treatment.
+   [1913 Webster]
+
+         Statutes are declaratory or remedial.    --Blackstone.
+   [1913 Webster]
+
+         It is an evil not compensated by any beneficial result;
+         it is not remedial, not conservative.    --I. Taylor.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>remedial</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>remedial
+     adj 1: tending or intended to rectify or improve; "a remedial
+            reading course"; "remedial education"
+     2: tending to cure or restore to health; "curative powers of
+        herbal remedies"; "her gentle healing hand"; "remedial
+        surgery"; "a sanative environment of mountains and fresh
+        air"; "a therapeutic agent"; "therapeutic diets" [syn: {curative},
+         {healing(p)}, {alterative}, {sanative}, {therapeutic}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

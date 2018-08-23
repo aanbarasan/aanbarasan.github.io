@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sprite</Word>
+  <Definitions>
+    <Definition>
+      <Word>sprite</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Sprite
+     
+        &lt;operating system&gt; An {operating system} from {Berkeley}
+        supporting {multiprocessing} and distributed files.
+     
+        [Details?  References?]
+     
+        (1994-10-17)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sprite</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>sprite
+     
+        &lt;graphics, file format&gt; A small {bitmap} image, often used in
+        animated games but also sometimes used as a synonym for
+        {icon}.
+     
+        (1997-06-29)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sprite</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sprite \Sprite\ (spr[imac]t), n. [OE. sprit, F. esprit, fr. L.
+   spiritus. See {Spirit}, and cf. {Sprightly}.]
+   1. A spirit; a soul; a shade; also, an apparition. See
+      {Spright}.
+      [1913 Webster]
+
+            Gaping graves received the wandering, guilty sprite.
+                                                  --Dryden.
+      [1913 Webster]
+
+   2. An elf; a fairy; a goblin.
+      [1913 Webster]
+
+   3. (Zo["o]l.) The green woodpecker, or yaffle.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sprite</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sprite
+     n : small, human in form, playful, having magical powers [syn: {fairy},
+          {faery}, {faerie}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

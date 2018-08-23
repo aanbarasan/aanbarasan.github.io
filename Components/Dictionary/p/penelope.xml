@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>penelope</Word>
+  <Definitions>
+    <Definition>
+      <Word>penelope</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Penelope, TX (town, FIPS 56672)
+  Location: 31.85839 N, 96.92908 W
+  Population (1990): 210 (102 housing units)
+  Area: 2.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 76676
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>penelope</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Penelope \Pe*nel"o*pe\ (p[-e]*n[e^]l"[-o]*p[=e]), n. [From. L.
+   Penelope, the wife of Ulysses, the hero of the Odyssey, Gr.
+   Phnelo`ph.] (Zo["o]l.)
+   A genus of curassows, including the guans.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>penelope</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Penelope
+     n 1: (Greek mythology) the wife of Odysseus and a symbol of
+          devotion and fidelity; for 10 years while Odysseus
+          fought the Trojan War she resisted numerous suitors
+          until Odysseus returned and killed them
+     2: a genus of guans (turkey-like arboreal birds valued as game
+        and food birds) [syn: {genus Penelope}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

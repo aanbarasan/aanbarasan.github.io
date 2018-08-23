@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>merciless</Word>
+  <Definitions>
+    <Definition>
+      <Word>merciless</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Merciless \Mer"ci*less\, a.
+   Destitute of mercy; cruel; unsparing; -- said of animate
+   beings, and also, figuratively, of things; as, a merciless
+   tyrant; merciless waves.
+   [1913 Webster]
+
+         The foe is merciless, and will not pity. --Shak.
+   [1913 Webster]
+
+   Syn: Cruel; unmerciful; remorseless; ruthless; pitiless;
+        barbarous; savage.
+        [1913 Webster] -- {Mer"ci*less*ly}, adv. --
+        {Mer"ci*less*ness}, n.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>merciless</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>merciless
+     adj : having or showing no mercy; "the merciless enemy"; "a
+           merciless critic"; "gave him a merciless beating" [syn:
+            {unmerciful}] [ant: {merciful}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>moscow</Word>
+  <Definitions>
+    <Definition>
+      <Word>moscow</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Moscow, IA
+  Zip code(s): 52760
+Moscow, ID (city, FIPS 54550)
+  Location: 46.72977 N, 116.99684 W
+  Population (1990): 18519 (6748 housing units)
+  Area: 12.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 83843
+Moscow, KS (city, FIPS 48600)
+  Location: 37.32547 N, 101.20634 W
+  Population (1990): 252 (105 housing units)
+  Area: 0.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 67952
+Moscow, OH (village, FIPS 52416)
+  Location: 38.86035 N, 84.22849 W
+  Population (1990): 279 (109 housing units)
+  Area: 1.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 45153
+Moscow, PA (borough, FIPS 51208)
+  Location: 41.34032 N, 75.52911 W
+  Population (1990): 1527 (578 housing units)
+  Area: 7.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 18444
+Moscow, TN (town, FIPS 50300)
+  Location: 35.06135 N, 89.39685 W
+  Population (1990): 384 (184 housing units)
+  Area: 1.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 38057
+Moscow, TX
+  Zip code(s): 75960
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>moscow</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Moscow
+     n : a city of central European Russia; formerly capital of both
+         the Soviet Union and Soviet Russia; since 1991 the
+         capital of the Russian Federation [syn: {capital of the
+         Russian Federation}, {Russian capital}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

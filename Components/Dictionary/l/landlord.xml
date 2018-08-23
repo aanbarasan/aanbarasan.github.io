@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>landlord</Word>
+  <Definitions>
+    <Definition>
+      <Word>landlord</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Landlord \Land"lord`\, n. [See {Land}, and {Lord}.]
+   1. The lord of a manor, or of land; the owner of land or
+      houses which he leases to a tenant or tenants.
+      [1913 Webster]
+
+   2. The master of an inn or of any form of lodging house; as,
+      the landlord collects the rents on the first of the month.
+      [1913 Webster +PJC]
+
+            Upon our arrival at the inn, my companion fetched
+            out the jolly landlord.               --Addison.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>landlord</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>landlord
+     n : a landowner who leases to others
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

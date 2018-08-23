@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>retail</Word>
+  <Definitions>
+    <Definition>
+      <Word>retail</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Retail \Re"tail\ (r[=e]"t[=a]l), n. [F. retaille piece cut off,
+   shred, paring, or OF. retail, from retailler. See {Retail},
+   v.]
+   The sale of commodities in small quantities or parcels; --
+   opposed to {wholesale}; sometimes, the sale of commodities at
+   second hand.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>retail</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Retail \Re"tail\, a.
+   Done at retail; engaged in retailing commodities; as a retail
+   trade; a retail grocer.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>retail</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Retail \Re*tail"\ (r[-e]*t[=a]l"), v. t. [imp. &amp; p. p.
+   {Retailed};p. pr. &amp; vb. n. {Retailing}.] [Cf. F. retailler to
+   cut again; pref. re- re + tailler to cut. See {Retail}, n.,
+   {Tailor}, and cf. {Detail}.]
+   1. To sell in small quantities, as by the single yard, pound,
+      gallon, etc.; to sell directly to the consumer; as, to
+      retail cloth or groceries.
+      [1913 Webster]
+
+   2. To sell at second hand. [Obs. or R.] --Pope.
+      [1913 Webster]
+
+   3. To distribute in small portions or at second hand; to tell
+      again or to many (what has been told or done); to report;
+      as, to retail slander. ``To whom I will retail my conquest
+      won.'' --Shak.
+      [1913 Webster]
+
+            He is wit's peddler, and retails his wares
+            At wakes and wassails.                --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>retail</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>retail
+     adj : selling or related to selling direct to the consumer;
+           "retail trade"; "retail business"; "retail price" [ant:
+            {wholesale}]
+     n : the selling of goods to consumers; usually in small
+         quantities and not for resale [ant: {wholesale}]
+     adv : at a retail price; "I'll sell it to you retail only" [ant: {wholesale}]
+     v 1: be sold at the retail level; "These gems retail at thousands
+          of dollars each"
+     2: sell on the retail market [ant: {wholesale}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

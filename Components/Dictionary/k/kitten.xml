@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>kitten</Word>
+  <Definitions>
+    <Definition>
+      <Word>kitten</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Kitten \Kit"ten\ (k[i^]t"t'n), n. [OE. kiton, a dim. of cat; cf.
+   G. kitze a young cat, also a female cat, and F. chaton, dim.
+   of chat cat, also E. kitling. See {Cat}.]
+   A young cat.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>kitten</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Kitten \Kit"ten\, v. t. &amp; i. [imp. &amp; p. p. {Kittened}; p. pr. &amp;
+   vb. n. {Kittening}.]
+   To bring forth young, as a cat; to bring forth, as kittens.
+   --Shak. --H. Spencer.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>kitten</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>kitten
+     n : young domestic cat [syn: {kitty}]
+     v : have kittens; "our cat kittened again this year"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

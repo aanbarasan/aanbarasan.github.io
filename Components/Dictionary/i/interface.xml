@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>interface</Word>
+  <Definitions>
+    <Definition>
+      <Word>interface</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>interface
+     
+        &lt;jargon&gt; A boundary across which two systems communicate.  An
+        interface might be a hardware connector used to link to other
+        devices, or it might be a convention used to allow
+        communication between two software systems.  Often there is
+        some intermediate component between the two systems which
+        connects their interfaces together.  For example, two {EIA-232}
+        interfaces connected via a serial cable.
+     
+        See also {graphical user interface}, {Application Program
+        Interface}.
+     
+        (1996-05-22)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>interface</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>interface \interface\ n.
+   1. a surface forming a common boundary between two things,
+      especially between two fluids. [WordNet sense 1]
+      [WordNet 1.5]
+
+   2. (Computers) hardware that links one device with another
+      (especially a computer). [WordNet sense 2]
+      [WordNet 1.5]
+
+   3. (Computers) That part of a computer program which controls
+      the way a program interacts with a user; the manner of
+      inputting and outputting of data, and the way information
+      is presented on a computer monitor; also called {user
+      interface}; as, a graphical user interface; a
+      character-based interface.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>interface</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>interface
+     n 1: (chemistry) a surface forming a common boundary between two
+          things (two objects or liquids or chemical phases)
+     2: (computer science) a program that controls a display for the
+        user (usually on a computer monitor) and that allows the
+        user to interact with the system [syn: {user interface}]
+     3: the overlap where two theories or phenomena affect each
+        other or have links with each other; "the interface
+        between chemistry and biology"
+     4: (computer science) computer circuit consisting of the
+        hardware and associated circuitry that links one device
+        with another (especially a computer and a hard disk drive
+        or other peripherals) [syn: {port}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

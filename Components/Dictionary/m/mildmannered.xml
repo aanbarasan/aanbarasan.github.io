@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mildmannered</Word>
+  <Definitions>
+    <Definition>
+      <Word>mildmannered</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mild-mannered
+     adj : behaving in or having a mild or gentle manner
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

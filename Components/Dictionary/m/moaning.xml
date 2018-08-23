@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>moaning</Word>
+  <Definitions>
+    <Definition>
+      <Word>moaning</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Moan \Moan\ (m[=o]n), v. i. [imp. &amp; p. p. {Moaned} (m[=o]nd); p.
+   pr. &amp; vb. n. {Moaning}.] [AS. m[=ae]nan to moan, also, to
+   mean; but in the latter sense perh. a different word. Cf.
+   {Mean} to intend.]
+   1. To make a low prolonged sound of grief or pain, whether
+      articulate or not; to groan softly and continuously.
+      [1913 Webster]
+
+            Unpitied and unheard, where misery moans. --Thomson.
+      [1913 Webster]
+
+            Let there bechance him pitiful mischances,
+            To make him moan.                     --Shak.
+      [1913 Webster]
+
+   2. To emit a sound like moan; -- said of things inanimate;
+      as, the wind moans.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>moaning</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>moaning
+     adj : making low inarticulate sound as e.g. of pain or sorrow;
+           "the groaning wounded"; "moaning sounds in her sleep"
+           [syn: {groaning}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

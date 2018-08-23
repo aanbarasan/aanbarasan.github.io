@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>wei</Word>
+  <Definitions>
+    <Definition>
+      <Word>wei</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Wei
+     n : any of several imperial dynasties of China ruling from 220
+         to 265 and from 386 to 556 [syn: {Wei dynasty}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>jan</Word>
+  <Definitions>
+    <Definition>
+      <Word>jan</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Jan \Jan\ (j[a^]n), n. [Ar.] (Moham. Myth.)
+   One of an intermediate order between angels and men.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>jan</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Jan
+     n : the first month of the year; begins 10 days after the winter
+         solstice [syn: {January}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

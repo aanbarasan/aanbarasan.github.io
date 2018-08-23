@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>scanner</Word>
+  <Definitions>
+    <Definition>
+      <Word>scanner</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>scanner
+     
+        1. An input device that takes in an optical image and
+        digitises it into an electronic image represented as binary
+        data.  This can be used to create a computerised version of a
+        photo or illustration.
+     
+        A scanner may be linked to {optical character recognition}
+        software allowing printed documents to be converted to
+        electronic text without having to type them in at a keyboard.
+     
+        2. {lexical analyser}.
+     
+        (1995-02-14)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>scanner</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>scanner
+     n 1: someone who scans verse to determine the number and prosodic
+          value of the syllables
+     2: an electronic device that generates a digital representation
+        of an image for data input to a computer [syn: {digital
+        scanner}, {image scanner}]
+     3: a radar dish that rotates or oscillates in order to scan a
+        broad area
+     4: a radio receiver that that moves automatically across some
+        selected range of frequencies looking for for some signal
+        or condition; "they used scanners to monitor police radio
+        channels" [syn: {electronic scanner}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

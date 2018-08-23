@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>neighborhood</Word>
+  <Definitions>
+    <Definition>
+      <Word>neighborhood</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Neighborhood \Neigh"bor*hood\, n. [Written also neighbourhood.]
+   1. The quality or condition of being a neighbor; the state of
+      being or dwelling near; proximity.
+      [1913 Webster]
+
+            Then the prison and the palace were in awful
+            neighborhood.                         --Ld. Lytton.
+      [1913 Webster]
+
+   2. A place near; vicinity; adjoining district; a region the
+      inhabitants of which may be counted as neighbors; as, he
+      lives in my neighborhood.
+      [1913 Webster]
+
+   3. The inhabitants who live in the vicinity of each other;
+      as, the fire alarmed all the neiborhood.
+      [1913 Webster]
+
+   4. The disposition becoming a neighbor; neighborly kindness
+      or good will. [Obs.] --Jer. Taylor.
+      [1913 Webster]
+
+   Syn: Vicinity; vicinage; proximity.
+
+   Usage: {Neighborhood}, {Vicinity}. Neighborhood is
+          Anglo-Saxon, and vicinity is Latin. Vicinity does not
+          commonly denote so close a connection as neighborhood.
+          A neighborhood is a more immediately vicinity. The
+          houses immediately adjoining a square are in the
+          neighborhood of that square; those which are somewhat
+          further removed are also in the vicinity of the
+          square.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>neighborhood</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>neighborhood
+     n 1: a surrounding or nearby region; "the plane crashed in the
+          vicinity of Asheville"; "it is a rugged locality"; "he
+          always blames someone else in the immediate
+          neighborhood"; "I will drop in on you the next time I am
+          in this neck of the woods" [syn: {vicinity}, {locality},
+           {neighbourhood}, {neck of the woods}]
+     2: people living near one another; "it is a friendly
+        neighborhood"; "my neighborhood voted for Bush" [syn: {neighbourhood}]
+     3: the approximate amount of something (usually used
+        prepositionally as in `in the region of'); "it was going
+        to take in the region of two or three months to finish the
+        job"; "the price is in the neighborhood of $100" [syn: {region}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

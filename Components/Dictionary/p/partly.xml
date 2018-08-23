@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>partly</Word>
+  <Definitions>
+    <Definition>
+      <Word>partly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Partly \Part"ly\, adv.
+   In part; in some measure of degree; not wholly. ``I partly
+   believe it.'' --1 Cor. xi. 18.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>partly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>partly
+     adv : in part; in some degree; not wholly; "I felt partly to
+           blame"; "He was partially paralyzed" [syn: {partially},
+            {part}] [ant: {wholly}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>knowitall</Word>
+  <Definitions>
+    <Definition>
+      <Word>knowitall</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Know-it-all \Know"-it-all`\, n.
+   One who knows everything; hence, a person who makes
+   pretension to great knowledge, especially one whose didactic
+   conversational habit conspicuously reveals his belief that he
+   has superior knowledge on many subjects; a wiseacre; a
+   know-all; -- usually ironical. [Colloq. &amp; pejorative]
+
+   Note: the use of this term implies that the speaker
+         disapproves of this behavior, and may think that it is
+         unjustified
+         [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>knowitall</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>know-it-all
+     n : someone who thinks he knows everything and refuses to accept
+         advice or information from others [syn: {know-all}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>transsexual</Word>
+  <Definitions>
+    <Definition>
+      <Word>transsexual</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>transsexual
+     adj : overwhelmingly desirous of being, or completely identifying
+           with, the opposite sex [syn: {transsexual(a)}]
+     n 1: a person who has undergone a sex change operation [syn: {transexual}]
+     2: a person whose sexual identification is entirely with the
+        opposite sex [syn: {transexual}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

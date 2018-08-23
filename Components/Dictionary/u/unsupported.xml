@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unsupported</Word>
+  <Definitions>
+    <Definition>
+      <Word>unsupported</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unsupported
+     adj 1: not sustained or maintained by nonmaterial aid; "unsupported
+            accusations" [ant: {supported}, {supported}]
+     2: not held up or borne; "removal of the central post left the
+        roof unsupported" [ant: {supported}]
+     3: not supported by written evidence; "unsupported accusations"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

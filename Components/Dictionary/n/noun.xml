@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>noun</Word>
+  <Definitions>
+    <Definition>
+      <Word>noun</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Noun \Noun\ (noun), n. [OF. noun, nun, num, non, nom, F. nom,
+   fr. L. nomen name. See {Name}.] (Gram.)
+   A word used as the designation or appellation of a creature
+   or thing, existing in fact or in thought; a substantive.
+   [1913 Webster]
+
+   Note: By some grammarians the term noun is so used as to
+         include adjectives, as being descriptive; but in
+         general it is limited to substantives.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>noun</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>noun
+     n 1: a word that can be used to refer to a person or place or
+          thing
+     2: a word that can serve as the subject or object of a verb
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

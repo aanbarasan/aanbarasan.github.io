@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>selfabuse</Word>
+  <Definitions>
+    <Definition>
+      <Word>selfabuse</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Self-abuse \Self`-abuse"\, n.
+   1. The abuse of one's own self, powers, or faculties.
+      [1913 Webster]
+
+   2. Self-deception; delusion. [Obs.] --Shak.
+      [1913 Webster]
+
+   3. Masturbation; onanism; self-pollution.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>selfabuse</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>self-abuse
+     n : manual stimulation of the genital organs (of yourself or
+         another) for sexual pleasure [syn: {masturbation}, {onanism}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

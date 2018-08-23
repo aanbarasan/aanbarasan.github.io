@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mechanized</Word>
+  <Definitions>
+    <Definition>
+      <Word>mechanized</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mechanize \Mech"an*ize\, v. t. [imp. &amp; p. p. {Mechanized}; p.
+   pr. &amp; vb. n. {Mechanizing}.] [Cf. F. m['e]chaniser.]
+   1. To cause to be mechanical. --Shelley.
+      [1913 Webster]
+
+   2. To introduce machinery into (a process) in order to reduce
+      human effort or improve uniformity or quality of the
+      result; especially, To cause to be accomplished by a
+      mechanical means which requires little or no human
+      supervision; to automate.
+      [PJC]
+
+   3. Hence: (Mil.) To equip (an armed force) with tanks or
+      other vehicles.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mechanized</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mechanized
+     adj 1: equipped with machinery; "a mechanized factory" [syn: {mechanised}]
+     2: using vehicles; "motorized warfare" [syn: {mechanised}, {motorized}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

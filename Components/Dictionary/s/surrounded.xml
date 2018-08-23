@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>surrounded</Word>
+  <Definitions>
+    <Definition>
+      <Word>surrounded</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Surround \Sur*round"\, v. t. [imp. &amp; p. p. {Surrounded}; p. pr.
+   &amp; vb. n. {Surrounding}.] [OF. suronder to overflow, LL.
+   superundare; fr. L. super over + undare to rise in waves,
+   overflow, fr. unda wave. The English sense is due to the
+   influence of E. round. See {Super-}, and {Undulate}, and cf.
+   {Abound}.]
+   1. To inclose on all sides; to encompass; to environ.
+      [1913 Webster]
+
+   2. To lie or be on all sides of; to encircle; as, a wall
+      surrounds the city.
+      [1913 Webster]
+
+            But could instead, and ever-during dark
+            Surrounds me.                         --Milton.
+      [1913 Webster]
+
+   3. To pass around; to travel about; to circumnavigate; as, to
+      surround the world. [Obs.] --Fuller.
+      [1913 Webster]
+
+   4. (Mil.) To inclose, as a body of troops, between hostile
+      forces, so as to cut off means of communication or
+      retreat; to invest, as a city.
+      [1913 Webster]
+
+   Syn: To encompass; encircle; environ; invest; hem in; fence
+        about.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>surrounded</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>surrounded
+     adj : confined on all sides; "a camp surrounded by enemies"; "the
+           encircled pioneers" [syn: {encircled}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

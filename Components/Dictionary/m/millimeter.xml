@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>millimeter</Word>
+  <Definitions>
+    <Definition>
+      <Word>millimeter</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Millimeter \Mil"li*me`ter\, Millimetre \Mil"li*me`tre\, n. [F.
+   millim[`e]tre; milli- milli- + m[`e]tre. See 3d {Meter}.]
+   A lineal measure in the metric system, containing the
+   thousandth part of a meter; equal to .03937 of an inch. See
+   3d {Meter}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>millimeter</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>millimeter
+     n : a metric unit of length equal to one thousandth of a meter
+         [syn: {millimetre}, {mm}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

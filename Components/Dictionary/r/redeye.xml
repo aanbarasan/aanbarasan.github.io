@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>redeye</Word>
+  <Definitions>
+    <Definition>
+      <Word>redeye</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Redeye \Red"eye`\ (r[e^]d"[imac]`), n.
+   1. (Zo["o]l.)
+      (a) The rudd.
+      (b) Same as {Redfish}
+      (d) .
+      (c) The goggle-eye, or fresh-water rock bass. [Local,
+          U.S.]
+          [1913 Webster]
+
+   2. A scheduled public conveyance, such as a train or
+      airplane, which travels late at night or overnight.
+      [Colloq.]
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>redeye</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rudd \Rudd\, n. [See {Rud}, n.] (Zo["o]l.)
+   A fresh-water European fish of the Carp family ({Leuciscus
+   erythrophthalmus}). It is about the size and shape of the
+   roach, but it has the dorsal fin farther back, a stouter
+   body, and red irises. Called also {redeye}, {roud},
+   {finscale}, and {shallow}. A blue variety is called
+   {azurine}, or {blue roach}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>redeye</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>red-eye
+     v : travel on an overnight flight; "The candidate red-eyed from
+         California to the East Coast the night before the
+         election to give a last stump speech"
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>redeye</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>redeye
+     n : a night flight from which the passengers emerge with eyes
+         red from lack of sleep; "he took the redeye in order to
+         get home the next morning" [syn: {redeye flight}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

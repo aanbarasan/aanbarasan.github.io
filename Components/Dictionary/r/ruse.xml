@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ruse</Word>
+  <Definitions>
+    <Definition>
+      <Word>ruse</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ruse \Ruse\, n. [F., fr. OF. re["u]ser, rehuser, to turn aside,
+   to shuffle, retreat, fr. L. recusare to refuse; pref. re-
+   again + causa cause. See {Cause}, and cf. {Recusant}.]
+   An artifice; trick; stratagem; wile; fraud; deceit.
+   [1913 Webster]
+
+   {Ruse de guerre}[F.], a stratagem of war.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ruse</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ruse
+     n : a deceptive maneuver (especially to avoid capture) [syn: {artifice}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

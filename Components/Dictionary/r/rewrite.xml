@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rewrite</Word>
+  <Definitions>
+    <Definition>
+      <Word>rewrite</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rewrite \Re*write"\, v. t.
+   To write again. --Young.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rewrite</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rewrite
+     n : something that has been written again; "the rewrite was much
+         better" [syn: {revision}, {rescript}]
+     v 1: write differently; alter the writing of; "The student
+          rewrote his thesis"
+     2: rewrite so as to make fit to suit a new or different
+        purpose; "re-write a play for use in schools"
+     [also: {rewrote}, {rewritten}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

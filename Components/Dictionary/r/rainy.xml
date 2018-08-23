@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rainy</Word>
+  <Definitions>
+    <Definition>
+      <Word>rainy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rainy \Rain"y\ (r[=a]n"[y^]), a. [AS. regenig.]
+   Abounding with rain; wet; showery; as, rainy weather; a rainy
+   day or season.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rainy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rainy
+     adj 1: (of weather) wet by periods of rain; "showery weather";
+            "rainy days" [syn: {showery}]
+     2: marked by rain; "their vacation turned out to be a series of
+        rainy days" [syn: {pluvial}, {pluvious}]
+     [also: {rainiest}, {rainier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

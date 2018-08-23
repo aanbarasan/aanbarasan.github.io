@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>woodstock</Word>
+  <Definitions>
+    <Definition>
+      <Word>woodstock</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Woodstock, AL
+  Zip code(s): 35188
+Woodstock, CT
+  Zip code(s): 06281
+Woodstock, GA (city, FIPS 84176)
+  Location: 34.10147 N, 84.51444 W
+  Population (1990): 4361 (1652 housing units)
+  Area: 13.9 sq km (land), 0.0 sq km (water)
+  Zip code(s): 30188
+Woodstock, IL (city, FIPS 83349)
+  Location: 42.31065 N, 88.43669 W
+  Population (1990): 14353 (5541 housing units)
+  Area: 26.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 60098
+Woodstock, MN (city, FIPS 71680)
+  Location: 44.01039 N, 96.09652 W
+  Population (1990): 159 (77 housing units)
+  Area: 1.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 56186
+Woodstock, NY (CDP, FIPS 83041)
+  Location: 42.03883 N, 74.11054 W
+  Population (1990): 1870 (1160 housing units)
+  Area: 12.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 12498
+Woodstock, OH (village, FIPS 86478)
+  Location: 40.17345 N, 83.52795 W
+  Population (1990): 296 (103 housing units)
+  Area: 0.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 43084
+Woodstock, VA (town, FIPS 87712)
+  Location: 38.87634 N, 78.51904 W
+  Population (1990): 3182 (1477 housing units)
+  Area: 8.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 22664
+Woodstock, VT (village, FIPS 85900)
+  Location: 43.62620 N, 72.51706 W
+  Population (1990): 1037 (603 housing units)
+  Area: 2.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 05091
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

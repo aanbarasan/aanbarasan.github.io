@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mademoiselle</Word>
+  <Definitions>
+    <Definition>
+      <Word>mademoiselle</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mademoiselle \Ma`de*moi`selle"\, n.; pl. {Mesdemoiselles}. [F.,
+   fr. ma my, f. of mon + demoiselle young lady. See {Damsel}.]
+   1. A French title of courtesy given to a girl or an unmarried
+      lady, equivalent to the English Miss. --Goldsmith.
+      [1913 Webster]
+
+   2. (Zo["o]l.) A marine food fish ({Sci[ae]na chrysura}), of
+      the Southern United States; -- called also {yellowtail},
+      and {silver perch}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mademoiselle</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mademoiselle
+     n : small silvery drumfish often mistaken for white perch; found
+         along coasts of United States from New York to Mexico
+         [syn: {silver perch}, {Bairdiella chrysoura}]
+     [also: {mesdemoiselles} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

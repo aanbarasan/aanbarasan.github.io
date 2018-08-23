@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rhythmic</Word>
+  <Definitions>
+    <Definition>
+      <Word>rhythmic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rhythmic \Rhyth"mic\ (-m[i^]k), Rhythmical \Rhyth"mic*al\
+   (-m[i^]*kal), a. [Gr. ????: cf. L. rhythmicus, F.
+   rhythmique.]
+   Pertaining to, or of the nature of, rhythm
+   [1913 Webster]
+
+         Day and night
+         I worked my rhythmic thought.            --Mrs.
+                                                  Browning.
+   [1913 Webster]
+
+   {Rhythmical accent}. (Mus.) See {Accent}, n., 6
+   (c) .
+       [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rhythmic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rhythmic
+     adj : recurring with measured regularity; "the rhythmic chiming of
+           church bells"- John Galsworthy; "rhythmical prose"
+           [syn: {rhythmical}] [ant: {unrhythmical}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

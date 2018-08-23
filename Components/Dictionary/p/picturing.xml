@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>picturing</Word>
+  <Definitions>
+    <Definition>
+      <Word>picturing</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Picture \Pic"ture\, v. t. [imp. &amp; p. p. {Pictured}; p. pr. &amp; vb.
+   n. {Picturing}.]
+   To draw or paint a resemblance of; to delineate; to
+   represent; to form or present an ideal likeness of; to bring
+   before the mind. ``I . . . do picture it in my mind.''
+   --Spenser.
+   [1913 Webster]
+
+         I have not seen him so pictured.         --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>picturing</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>picturing
+     n 1: visual imagery [syn: {envisioning}]
+     2: visual representation as by photography or painting [syn: {pictorial
+        representation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>moist</Word>
+  <Definitions>
+    <Definition>
+      <Word>moist</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Moist \Moist\, a. [OE. moiste, OF. moiste, F. moite, fr. L.
+   muccidus, for mucidus, moldy, musty. Cf. {Mucus}, {Mucid}.]
+   1. Moderately wet; damp; humid; not dry; as, a moist
+      atmosphere or air. ``Moist eyes.'' --Shak.
+      [1913 Webster]
+
+   2. Fresh, or new. [Obs.] ``Shoes full moist and new.'' ``A
+      draught of moist and corny ale.'' --Chaucer.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>moist</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Moist \Moist\, v. t.
+   To moisten. [Obs.] --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>moist</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>moist
+     adj : slightly wet; "clothes damp with perspiration"; "a moist
+           breeze"; "eyes moist with tears" [syn: {damp}, {dampish}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

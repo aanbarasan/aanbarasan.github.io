@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>leapt</Word>
+  <Definitions>
+    <Definition>
+      <Word>leapt</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Leap \Leap\ (l[=e]p), v. i. [imp. &amp; p. p. {Leaped} (l[=e]pt;
+   277), rarely {Leapt} (l[=e]pt or l[e^]pt); p. pr. &amp; vb. n.
+   {Leaping}.] [OE. lepen, leapen, AS. hle['a]pan to leap, jump,
+   run; akin to OS. [=a]hl[=o]pan, OFries. hlapa, D. loopen, G.
+   laufen, OHG. louffan, hlauffan, Icel. hlaupa, Sw. l["o]pa,
+   Dan. l["o]be, Goth. ushlaupan. Cf. {Elope}, {Lope},
+   {Lapwing}, {Loaf} to loiter.]
+   1. To spring clear of the ground, with the feet; to jump; to
+      vault; as, a man leaps over a fence, or leaps upon a
+      horse. --Bacon.
+      [1913 Webster]
+
+            Leap in with me into this angry flood. --Shak.
+      [1913 Webster]
+
+   2. To spring or move suddenly, as by a jump or by jumps; to
+      bound; to move swiftly. Also Fig.
+      [1913 Webster]
+
+            My heart leaps up when I behold
+            A rainbow in the sky.                 --Wordsworth.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>leapt</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>leap
+     n 1: a light springing movement upwards or forwards [syn: {leaping},
+           {spring}, {saltation}, {bound}, {bounce}]
+     2: an abrupt transition; "a successful leap from college to the
+        major leagues" [syn: {jump}, {saltation}]
+     3: a sudden and decisive increase; "a jump in attendance" [syn:
+         {jump}]
+     4: the distance leaped (or to be leaped); "a leap of 10 feet"
+     v 1: move forward by leaps and bounds; "The horse bounded across
+          the meadow"; "The child leapt across the puddle"; "Can
+          you jump over the fence?" [syn: {jump}, {bound}, {spring}]
+     2: pass abruptly from one state or topic to another; "leap into
+        fame"; "jump to a conclusion" [syn: {jump}]
+     3: cause to jump or leap; "the trainer jumped the tiger through
+        the hoop" [syn: {jump}]
+     [also: {leapt}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>leapt</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>leapt
+     See {leap}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

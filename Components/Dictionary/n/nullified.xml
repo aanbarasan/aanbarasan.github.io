@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nullified</Word>
+  <Definitions>
+    <Definition>
+      <Word>nullified</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Nullify \Nul"li*fy\, v. t. [imp. &amp; p. p. {Nullified}; p. pr. &amp;
+   vb. n. {Nullifying}.] [L. nullificare; nullus none + -ficare
+   (in comp.) to make. See {Null}, a., and {-fy}.]
+   To make void; to render invalid; to deprive of legal force or
+   efficacy.
+   [1913 Webster]
+
+         Such correspondence would at once nullify the
+         conditions of the probationary system.   --I. Taylor.
+   [1913 Webster]
+
+   Syn: To abrogate; revoke; annul; repeal; invalidate; cancel.
+        See {Abolish}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nullified</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nullify
+     v 1: declare invalid; "The contract was annulled"; "void a plea"
+          [syn: {invalidate}, {annul}, {quash}, {void}, {avoid}]
+          [ant: {validate}]
+     2: show to be invalid [syn: {invalidate}] [ant: {validate}]
+     3: make ineffective by counterbalancing the effect of; "Her
+        optimism neutralizes his gloom"; "This action will negate
+        the effect of my efforts" [syn: {neutralize}, {neutralise},
+         {negate}]
+     [also: {nullified}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nullified</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nullified
+     adj : deprived of legal force [syn: {invalidated}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nullified</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nullified
+     See {nullify}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

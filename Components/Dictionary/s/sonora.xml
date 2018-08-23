@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sonora</Word>
+  <Definitions>
+    <Definition>
+      <Word>sonora</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Sonora, CA (city, FIPS 72674)
+  Location: 37.98358 N, 120.38164 W
+  Population (1990): 4153 (2084 housing units)
+  Area: 6.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 95370
+Sonora, KY (city, FIPS 71724)
+  Location: 37.52354 N, 85.89145 W
+  Population (1990): 295 (144 housing units)
+  Area: 1.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 42776
+Sonora, OH
+  Zip code(s): 43701
+Sonora, TX (city, FIPS 68756)
+  Location: 30.57217 N, 100.64374 W
+  Population (1990): 2751 (1201 housing units)
+  Area: 6.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 76950
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sonora</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Sonora
+     n : ground snakes [syn: {genus Sonora}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>literal</Word>
+  <Definitions>
+    <Definition>
+      <Word>literal</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>literal
+     
+        &lt;programming&gt; A constant made available to a process, by
+        inclusion in the executable text.  Most modern systems do not
+        allow texts to modify themselves during execution, so literals
+        are indeed constant; their value is written at compile-time
+        and is read-only at run time.
+     
+        In contrast, values placed in variables or files and accessed
+        by the process via a symbolic name, can be changed during
+        execution.  This may be an asset.  For example, messages can
+        be given in a choice of languages by placing the translation
+        in a file.
+     
+        Literals are used when such modification is not desired.  The
+        name of the file mentioned above (not its content), or a
+        physical constant such as 3.14159, might be coded as a
+        literal.  Literals can be accessed quickly, a potential
+        advantage of their use.
+     
+        (1996-01-23)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>literal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Literal \Lit"er*al\, n.
+   Literal meaning. [Obs.] --Sir T. Browne.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>literal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Literal \Lit"er*al\ (l[i^]t"[~e]r*al), a. [F. lit['e]ral,
+   litt['e]ral, L. litteralis, literalis, fr. littera, litera, a
+   letter. See {Letter}.]
+   1. According to the letter or verbal expression; real; not
+      figurative or metaphorical; as, the literal meaning of a
+      phrase.
+      [1913 Webster]
+
+            It hath but one simple literal sense whose light the
+            owls can not abide.                   --Tyndale.
+      [1913 Webster]
+
+   2. Following the letter or exact words; not free.
+      [1913 Webster]
+
+            A middle course between the rigor of literal
+            translations and the liberty of paraphrasts.
+                                                  --Hooker.
+      [1913 Webster]
+
+   3. Consisting of, or expressed by, letters.
+      [1913 Webster]
+
+            The literal notation of numbers was known to
+            Europeans before the ciphers.         --Johnson.
+      [1913 Webster]
+
+   4. Giving a strict or literal construction; unimaginative;
+      matter-of-fact; -- applied to persons.
+      [1913 Webster]
+
+   {Literal contract} (Law), a contract of which the whole
+      evidence is given in writing. --Bouvier.
+
+   {Literal equation} (Math.), an equation in which known
+      quantities are expressed either wholly or in part by means
+      of letters; -- distinguished from a {numerical equation}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>literal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>literal
+     adj 1: being or reflecting the essential or genuine character of
+            something; "her actual motive"; "a literal solitude
+            like a desert"- G.K.Chesterton; "a genuine dilemma"
+            [syn: {actual}, {genuine}, {real}]
+     2: without interpretation or embellishment; "a literal
+        translation of the scene before him"
+     3: limited to the explicit meaning of a word or text; "a
+        literal translation" [ant: {figurative}]
+     4: lacking stylistic embellishment; "a literal description";
+        "wrote good but plain prose"; "a plain unadorned account
+        of the coronation"; "a forthright unembellished style"
+        [syn: {plain}, {unembellished}]
+     5: of the clearest kind; usually used for emphasis; "it's the
+        literal truth"; "a matter of investment, pure and simple"
+        [syn: {pure and simple}]
+     6: (of a translation) corresponding word for word with the
+        original; "literal translation of the article"; "an
+        awkward word-for-word translation" [syn: {word-for-word}]
+     n : a mistake in printed matter resulting from mechanical
+         failures of some kind [syn: {misprint}, {erratum}, {typographical
+         error}, {typo}, {literal error}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

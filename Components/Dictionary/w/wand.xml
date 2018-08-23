@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>wand</Word>
+  <Definitions>
+    <Definition>
+      <Word>wand</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Wand \Wand\, n. [Of Scand. origin; cf. Icel. v["o]ndr, akin to
+   Dan. vaand, Goth. wandus; perhaps originally, a pliant twig,
+   and akin to E. wind to turn.]
+   1. A small stick; a rod; a verge.
+      [1913 Webster]
+
+            With good smart blows of a wand on his back.
+                                                  --Locke.
+      [1913 Webster]
+
+   2. Specifically:
+      (a) A staff of authority.
+          [1913 Webster]
+
+                Though he had both spurs and wand, they seemed
+                rather marks of sovereignty than instruments of
+                punishment.                       --Sir P.
+                                                  Sidney.
+          [1913 Webster]
+      (b) A rod used by conjurers, diviners, magicians, etc.
+          [1913 Webster]
+
+                Picus bore a buckler in his hand;
+                His other waved a long divining wand. --Dryden.
+          [1913 Webster]
+
+   {Wand of peace} (Scots Law), a wand, or staff, carried by the
+      messenger of a court, which he breaks when deforced (that
+      is, hindered from executing process), as a symbol of the
+      deforcement, and protest for remedy of law. --Burrill.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wand</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>WAND
+     Wide Area Network Distribution (WAN)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wand</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>wand
+     n 1: a baton used by a magician or water diviner
+     2: a ceremonial or emblematic staff [syn: {scepter}, {sceptre},
+         {verge}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>witty</Word>
+  <Definitions>
+    <Definition>
+      <Word>witty</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Witty \Wit"ty\, a. [Compar. {Wittier}; superl. {Wittiest}.] [AS.
+   witig, wittig. See {Wit}, n.]
+   [1913 Webster]
+   1. Possessed of wit; knowing; wise; skillful; judicious;
+      clever; cunning. [Obs.] ``The deep-revolving witty
+      Buckingham.'' --Shak.
+      [1913 Webster]
+
+   2. Especially, possessing wit or humor; good at repartee;
+      droll; facetious; sometimes, sarcastic; as, a witty
+      remark, poem, and the like. ``Honeycomb, who was so
+      unmercifully witty upon the women.'' --Addison.
+      [1913 Webster]
+
+   Syn: Acute; smart; sharp; arch; keen; facetious; amusing;
+        humorous; satirical; ironical; taunting.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>witty</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>witty
+     adj : combining clever conception and facetious expression; "his
+           sermons were unpredictably witty and satirical as well
+           as eloquent"
+     [also: {wittiest}, {wittier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

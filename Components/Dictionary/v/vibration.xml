@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>vibration</Word>
+  <Definitions>
+    <Definition>
+      <Word>vibration</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Vibration \Vi*bra"tion\, n. [L. vibratio: cf. F. vibration.]
+   1. The act of vibrating, or the state of being vibrated, or
+      in vibratory motion; quick motion to and fro; oscillation,
+      as of a pendulum or musical string.
+      [1913 Webster]
+
+            As a harper lays his open palm
+            Upon his harp, to deaden its vibrations.
+                                                  --Longfellow.
+      [1913 Webster]
+
+   2. (Physics) A limited reciprocating motion of a particle of
+      an elastic body or medium in alternately opposite
+      directions from its position of equilibrium, when that
+      equilibrium has been disturbed, as when a stretched cord
+      or other body produces musical notes, or particles of air
+      transmit sounds to the ear. The path of the particle may
+      be in a straight line, in a circular arc, or in any curve
+      whatever.
+      [1913 Webster]
+
+   Note: Vibration and oscillation are both used, in mechanics,
+         of the swinging, or rising and falling, motion of a
+         suspended or balanced body; the latter term more
+         appropriately, as signifying such motion produced by
+         gravity, and of any degree of slowness, while the
+         former applies especially to the quick, short motion to
+         and fro which results from elasticity, or the action of
+         molecular forces among the particles of a body when
+         disturbed from their position of rest, as in a spring.
+         [1913 Webster]
+
+   {Amplitude of vibration}, the maximum displacement of a
+      vibrating particle or body from its position of rest.
+
+   {Phase of vibration}, any part of the path described by a
+      particle or body in making a complete vibration, in
+      distinction from other parts, as while moving from one
+      extreme to the other, or on one side of the line of rest,
+      in distinction from the opposite. Two particles are said
+      to be in the same phase when they are moving in the same
+      direction and with the same velocity, or in corresponding
+      parts of their paths.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>vibration</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>vibration
+     n 1: the act of vibrating [syn: {quiver}, {quivering}]
+     2: a distinctive emotional atmosphere; sensed intuitively; "it
+        gave me a nostalgic vibe"; "that man gives off bad vibes"
+        [syn: {vibe}]
+     3: a shaky motion; "the shaking of his fingers as he lit his
+        pipe" [syn: {shaking}, {shakiness}, {trembling}, {quiver},
+         {quivering}, {palpitation}]
+     4: (physics) a regular periodic variation in value about a mean
+        [syn: {oscillation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lesser</Word>
+  <Definitions>
+    <Definition>
+      <Word>lesser</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lesser \Less"er\ (l[e^]s"[~e]r), a. [This word is formed by
+   adding anew the compar. suffix -er (in which r is from an
+   original s) to less. See {Less}, a.]
+   Less; smaller; inferior.
+   [1913 Webster]
+
+         God made . . . the lesser light to rule the night.
+                                                  --Gen. i. 15.
+   [1913 Webster]
+
+   Note: Lesser is used for less, now the compar. of little, in
+         certain special instances in which its employment has
+         become established by custom; as, Lesser Asia (i. e.,
+         Asia Minor), the lesser light, and some others; also in
+         poetry, for the sake of the meter, and in prose where
+         its use renders the passage more euphonious.
+         [1913 Webster]
+
+               The more my prayer, the lesser is my grace.
+                                                  --Shak.
+         [1913 Webster]
+
+               The larger here, and there the lesser lambs.
+                                                  --Pope.
+         [1913 Webster]
+
+               By the same reason may a man, in the state of
+               nature, punish the lesser breaches of the law.
+                                                  --Locke.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lesser</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lesser \Less"er\, adv.
+   Less. [Obs.] --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lesser</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>lesser
+     adj 1: of less size or importance; "the lesser anteater"; "the
+            lesser of two evils" [ant: {greater}]
+     2: smaller in size or amount or value; "the lesser powers of
+        Europe"; "the lesser anteater"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>instruction</Word>
+  <Definitions>
+    <Definition>
+      <Word>instruction</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Instruction \In*struc"tion\, n. [L. instructio: cf. F.
+   instruction.]
+   [1913 Webster]
+   1. The act of instructing, teaching, or furnishing with
+      knowledge; information.
+      [1913 Webster]
+
+   2. That which instructs, or with which one is instructed; the
+      intelligence or information imparted; as:
+      (a) Precept; information; teachings.
+      (b) Direction; order; command. ``If my instructions may be
+          your guide.'' --Shak.
+
+   3. (Computers) a segment of coded data that is interpreted by
+      a computer as a command to perform an operation or series
+      of operations. The term instruction is applied to both the
+      electronic form of the data as represented in and executed
+      by the computer, and to any line of written computer code
+      which is interpreted as one instruction by a compiler. A
+      {computer program} is comprised of one or more
+      instructions.
+
+   Note: Instructions as contained in a program are formulated
+         in a {programming language}, which may be an {assembly
+         language}, in which one instruction corresponds to one
+         command executed by the coputer, or in a {higher-level
+         programming language}, in which one instruction may
+         represent one of many instructions in {assembly
+         language}. Higher-level programming languages include,
+         for example, FORTRAN, ALGOL, ADA, C, "C++", COBOL, and
+         JAVA; each of these languages have their own
+         distinctive set of allowable instructions.
+
+   Syn: command, statement, line of code, program line.
+        [PJC]
+
+   Syn: Education; teaching; indoctrination; information;
+        advice; counsel. See {Education}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>instruction</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>instruction
+     n 1: a message describing how something is to be done; "he gave
+          directions faster than she could follow them" [syn: {direction}]
+     2: the activities of educating or instructing or teaching;
+        activities that impart knowledge or skill; "he received no
+        formal education"; "our instruction was carefully
+        programmed"; "good teaching is seldom rewarded" [syn: {education},
+         {teaching}, {pedagogy}, {educational activity}]
+     3: the profession of a teacher; "he prepared for teaching while
+        still in college"; "pedagogy is recognized as an important
+        profession" [syn: {teaching}, {pedagogy}]
+     4: (computer science) a line of code written as part of a
+        computer program [syn: {command}, {statement}, {program
+        line}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

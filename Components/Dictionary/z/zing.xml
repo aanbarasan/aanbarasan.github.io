@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>zing</Word>
+  <Definitions>
+    <Definition>
+      <Word>zing</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>zing
+     n 1: a brief high-pitched buzzing or humming sound; "the zing of
+          the passing bullet"
+     2: the activeness of an energetic personality [syn: {dynamism},
+         {pizzazz}, {pizzaz}, {oomph}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

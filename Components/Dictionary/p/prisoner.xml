@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>prisoner</Word>
+  <Definitions>
+    <Definition>
+      <Word>prisoner</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Prisoner \Pris"on*er\, n. [F. prisonnier.]
+   1. One who is confined in a prison. --Piers Plowman.
+      [1913 Webster]
+
+   2. A person under arrest, or in custody, whether in prison or
+      not; a person held in involuntary restraint; a captive;
+      as, a prisoner at the bar of a court. --Bouvier.
+      [1913 Webster]
+
+            Prisoner of Hope thou art, -- look up and sing.
+                                                  --Keble.
+      [1913 Webster]
+
+   {Prisoner's base}. See {Base}, n., 24.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>prisoner</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>prisoner
+     n : a person who is confined; especially a prisoner of war [syn:
+          {captive}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

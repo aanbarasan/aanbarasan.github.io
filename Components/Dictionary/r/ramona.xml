@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ramona</Word>
+  <Definitions>
+    <Definition>
+      <Word>ramona</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Ramona, CA (CDP, FIPS 59346)
+  Location: 33.03615 N, 116.87005 W
+  Population (1990): 13040 (4405 housing units)
+  Area: 27.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 92065
+Ramona, KS (city, FIPS 58375)
+  Location: 38.59746 N, 97.06360 W
+  Population (1990): 106 (51 housing units)
+  Area: 0.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 67475
+Ramona, OK (town, FIPS 61700)
+  Location: 36.53139 N, 95.92529 W
+  Population (1990): 508 (268 housing units)
+  Area: 2.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 74061
+Ramona, SD (town, FIPS 52860)
+  Location: 44.12008 N, 97.21504 W
+  Population (1990): 194 (97 housing units)
+  Area: 0.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 57054
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ramona</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ramona
+     n : shrubby plant with aromatic grayish-green leaves used as a
+         cooking herb [syn: {common sage}, {Salvia officinalis}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

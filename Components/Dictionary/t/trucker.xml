@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>trucker</Word>
+  <Definitions>
+    <Definition>
+      <Word>trucker</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Trucker \Truck"er\, n.
+   One who trucks; a trafficker.
+   [1913 Webster]
+
+         No man having ever yet driven a saving bargain with
+         this great trucker for souls.            --South.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>trucker</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>trucker
+     n : someone who drives a truck as an occupation [syn: {teamster},
+          {truck driver}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

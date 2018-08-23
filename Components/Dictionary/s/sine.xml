@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sine</Word>
+  <Definitions>
+    <Definition>
+      <Word>sine</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sine \Si"ne\, prep. [L.]
+   Without.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sine</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sine \Sine\, n. [LL. sinus a sine, L. sinus bosom, used in
+   translating the Ar. jaib, properly, bosom, but probably read
+   by mistake (the consonants being the same) for an original
+   j[=i]ba sine, from Skr. j[=i]va bowstring, chord of an arc,
+   sine.] (Trig.)
+      (a) The length of a perpendicular drawn from one extremity
+          of an arc of a circle to the diameter drawn through
+          the other extremity.
+      (b) The perpendicular itself. See {Sine of angle}, below.
+          [1913 Webster]
+
+   {Artificial sines}, logarithms of the natural sines, or
+      logarithmic sines.
+
+   {Curve of sines}. See {Sinusoid}.
+
+   {Natural sines}, the decimals expressing the values of the
+      sines, the radius being unity.
+
+   {Sine of an angle}, in a circle whose radius is unity, the
+      sine of the arc that measures the angle; in a right-angled
+      triangle, the side opposite the given angle divided by the
+      hypotenuse. See {Trigonometrical function}, under
+      {Function}.
+
+   {Versed sine}, that part of the diameter between the sine and
+      the arc.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sine</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sine
+     n : ratio of the opposite side to the hypotenuse of a
+         right-angled triangle [syn: {sin}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

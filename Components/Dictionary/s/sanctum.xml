@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sanctum</Word>
+  <Definitions>
+    <Definition>
+      <Word>sanctum</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sanctum \Sanc"tum\, n. [L., p. p. of sancire to consecrate.]
+   A sacred place; hence, a place of retreat; a room reserved
+   for personal use; as, an editor's sanctum.
+   [1913 Webster]
+
+   {Sanctum sanctorum} [L.], the Holy of Holies; the most holy
+      place, as in the Jewish temple.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sanctum</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sanctum
+     n 1: a place of inviolable privacy; "he withdrew to his sanctum
+          sanctorum, where the children could never go" [syn: {sanctum
+          sanctorum}]
+     2: a sacred place of pilgrimage [syn: {holy place}, {holy}]
+     [also: {sancta} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

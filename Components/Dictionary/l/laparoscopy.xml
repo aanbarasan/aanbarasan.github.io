@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>laparoscopy</Word>
+  <Definitions>
+    <Definition>
+      <Word>laparoscopy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>laparoscopy \laparoscopy\ n.
+   Laparotomy performed with a laparoscope.
+   [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>laparoscopy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>laparoscopy
+     n : laparotomy performed with a laparoscope that makes a small
+         incision to examine the abdominal cavity (especially the
+         ovaries and Fallopian tubes)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

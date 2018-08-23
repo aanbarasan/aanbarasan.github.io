@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>oddly</Word>
+  <Definitions>
+    <Definition>
+      <Word>oddly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Oddly \Odd"ly\, adv.
+   1. In an odd manner; unevenly. [R.]
+      [1913 Webster]
+
+   2. In a peculiar manner; strangely; queerly; curiously. ``A
+      figure a little more oddly turned.'' --Locke.
+      [1913 Webster]
+
+            A great black substance, . . . very oddly shaped.
+                                                  --Swift.
+      [1913 Webster]
+
+   3. (Math.) In a manner measured by an odd number.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>oddly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>oddly
+     adv 1: in a manner differing from the usual or expected; "had a
+            curiously husky voice"; "he's behaving rather
+            peculiarly" [syn: {curiously}, {peculiarly}]
+     2: in a strange manner; "a queerly inscribed sheet of paper";
+        "he acted kind of funny" [syn: {queerly}, {strangely}, {funnily},
+         {funny}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

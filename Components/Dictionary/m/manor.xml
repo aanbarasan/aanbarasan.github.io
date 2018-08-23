@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>manor</Word>
+  <Definitions>
+    <Definition>
+      <Word>manor</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Manor, DE
+  Zip code(s): 19720
+Manor, GA
+  Zip code(s): 31550
+Manor, PA (borough, FIPS 47000)
+  Location: 40.34654 N, 79.67076 W
+  Population (1990): 2627 (978 housing units)
+  Area: 5.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 15665
+Manor, TX (city, FIPS 46440)
+  Location: 30.34597 N, 97.55571 W
+  Population (1990): 1041 (417 housing units)
+  Area: 3.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 78653
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>manor</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Manor \Man"or\, n. [OE. maner, OF. maneir habitation, village,
+   F. manoir manor, prop. the OF. inf. maneir to stay, remain,
+   dwell, L. manere, and so called because it was the permanent
+   residence of the lord and of his tenants. See {Mansion}, and
+   cf. {Remain}.]
+   1. (Eng. Law) The land belonging to a lord or nobleman, or so
+      much land as a lord or great personage kept in his own
+      hands, for the use and subsistence of his family.
+      [1913 Webster]
+
+            My manors, rents, revenues, l forego. --Shak.
+      [1913 Webster]
+
+   Note: In these days, a manor rather signifies the
+         jurisdiction and royalty incorporeal, than the land or
+         site, for a man may have a manor in gross, as the law
+         terms it, that is, the right and interest of a
+         court-baron, with the perquisites thereto belonging.
+         [1913 Webster]
+
+   2. (American Law) A tract of land occupied by tenants who pay
+      a free-farm rent to the proprietor, sometimes in kind, and
+      sometimes by performing certain stipulated services.
+      --Burrill.
+      [1913 Webster]
+
+   {Manor house}, or {Manor seat}, the house belonging to a
+      manor; the house of the lord of the manor; a manse.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>manor</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>manor
+     n 1: the mansion of the lord of the manor [syn: {manor house}]
+     2: the landed estate of a lord (including the house on it)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

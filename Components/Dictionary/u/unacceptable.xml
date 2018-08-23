@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unacceptable</Word>
+  <Definitions>
+    <Definition>
+      <Word>unacceptable</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Unacceptable \Un`ac*cept"a*ble\, a.
+   Not acceptable; not pleasing; not welcome; unpleasant;
+   disagreeable; displeasing; offensive. --
+   {Un`ac*cept"a*ble*ness}, n. -- {Un`ac*cept"a*bly}, adv.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>unacceptable</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unacceptable
+     adj 1: not adequate to give satisfaction; "the coach told his
+            players that defeat was unacceptable"
+     2: not acceptable; not welcome; "a word unacceptable in polite
+        society"; "an unacceptable violation of personal freedom"
+        [ant: {acceptable}]
+     3: used of persons or their behavior; "impossible behavior";
+        "insufferable insolence" [syn: {impossible}, {insufferable},
+         {unsufferable}]
+     4: not conforming to standard usage; "the following use of
+        `access' was judged unacceptable by a panel of linguists;
+        `You can access your cash at any of 300 automatic
+        tellers'" [syn: {unaccepted}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

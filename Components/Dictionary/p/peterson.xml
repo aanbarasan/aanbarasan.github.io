@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>peterson</Word>
+  <Definitions>
+    <Definition>
+      <Word>peterson</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Peterson, IA (city, FIPS 62625)
+  Location: 42.91851 N, 95.34122 W
+  Population (1990): 390 (206 housing units)
+  Area: 0.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 51047
+Peterson, MN (city, FIPS 50596)
+  Location: 43.78599 N, 91.83317 W
+  Population (1990): 259 (109 housing units)
+  Area: 1.2 sq km (land), 0.1 sq km (water)
+  Zip code(s): 55962
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

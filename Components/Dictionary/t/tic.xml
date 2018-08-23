@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tic</Word>
+  <Definitions>
+    <Definition>
+      <Word>tic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tic \Tic\, n. [F.] (Med.)
+   A local and habitual convulsive motion of certain muscles;
+   especially, such a motion of some of the muscles of the face;
+   twitching; velication; -- called also {spasmodic tic}.
+   --Dunglison.
+   [1913 Webster]
+
+   {Tic douloureux}. [F., fr. tic a knack, a twitching +
+      douloureux painful.] (Med.) Neuralgia in the face; face
+      ague. See under {Face}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tic
+     n : a local and habitual twitching especially in the face
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

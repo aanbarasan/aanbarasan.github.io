@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>luncheon</Word>
+  <Definitions>
+    <Definition>
+      <Word>luncheon</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Luncheon \Lunch"eon\, n. [Prov. E. luncheon, lunchion, lunshin,
+   a large lump of food, fr. lunch. See {Lunch}.]
+   [1913 Webster]
+   1. A lump of food. [Prov. Eng.]
+      [1913 Webster]
+
+   2. A portion of food taken at any time except at a regular
+      meal. [obsolescnet]
+      [1913 Webster]
+
+   3. A lunch, especially one organized by a group as a formal
+      social gathering.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>luncheon</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Luncheon \Lunch"eon\, v. i.
+   To take luncheon. --Beaconsfield.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>luncheon</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>luncheon
+     n : a midday meal [syn: {lunch}, {tiffin}, {dejeuner}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

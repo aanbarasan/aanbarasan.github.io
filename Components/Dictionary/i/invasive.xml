@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>invasive</Word>
+  <Definitions>
+    <Definition>
+      <Word>invasive</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Invasive \In*va"sive\, a. [LL. invasivus: cf. F. invasif. See
+   {Invade}.]
+   1. Tending to invade; characterized by invasion; aggressive.
+      ``Invasive war.'' --Hoole.
+      [1913 Webster]
+
+   2. (Med.) tending to spread, especially tending to intrude
+      into healthy tissue; -- used mostly of tumors. [Narrower
+      terms: {malignant}] PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>invasive</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>invasive
+     adj 1: relating to a technique in which the body is entered by
+            puncture or incision [ant: {noninvasive}]
+     2: marked by a tendency to spread especially into healthy
+        tissue; "invasive cancer cells" [ant: {confined}]
+     3: involving invasion or aggressive attack; "invasive war"
+        [syn: {incursive}, {invading}]
+     4: gradually intrusive without right or permission; "we moved
+        back from the encroaching tide"; "invasive tourists";
+        "trespassing hunters" [syn: {encroaching(a)}, {trespassing(a)}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

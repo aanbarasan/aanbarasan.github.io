@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>orpheus</Word>
+  <Definitions>
+    <Definition>
+      <Word>orpheus</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Orpheus \Or"phe*us\, prop. n. [L. Orpheus, Gr. ?.] (Gr. Myth.)
+   The famous mythic Thracian poet, son of the Muse Calliope,
+   and husband of Eurydice. He is reputed to have had power to
+   entrance beasts and inanimate objects by the music of his
+   lyre.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>orpheus</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Orpheus
+     n : (Greek mythology) a great musician; when his wife Eurydice
+         died he went to Hades to get her back but failed
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

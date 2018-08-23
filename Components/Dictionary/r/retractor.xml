@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>retractor</Word>
+  <Definitions>
+    <Definition>
+      <Word>retractor</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Retractor \Re*tract"or\ (r[-e]*tr[=a]kt"[~e]r), n.
+   One who, or that which, retracts. Specifically:
+   (a) In breech-loading firearms, a device for withdrawing a
+       cartridge shell from the barrel.
+   (b) (Surg.) An instrument for holding apart the edges of a
+       wound during amputation.
+   (c) (Surg.) A bandage to protect the soft parts from injury
+       by the saw during amputation.
+   (d) (Anat. &amp; Zo["o]l.) A muscle serving to draw in any organ
+       or part. See Illust. under {Phylactol[ae]mata}.
+       [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>retractor</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>retractor
+     n : surgical instrument that holds back the edges of a surgical
+         incision
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

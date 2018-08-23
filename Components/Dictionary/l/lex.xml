@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lex</Word>
+  <Definitions>
+    <Definition>
+      <Word>lex</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Lex
+     
+        1. &lt;tool&gt; A {lexical analyser} generator for {Unix} and its
+        input language.  There is a {GNU} version called {flex} and a
+        version written in, and outputting, {SML/NJ} called {ML-lex}.
+        A version, by David Poole at Montana has been retargeted to
+        {Turbo Pascal}, {(ftp://iecc.com/pub/file/lyprg.zip)}.
+     
+        ["Lex - A Lexical Analyzer Generator", M.E. Lesk, CS TR 39,
+        Bell Labs, Oct 1975].
+     
+        2. &lt;language, specification&gt; The lexical specification
+        language for {COPS}.
+     
+        ["Metalanguages of the Compiler Production System COPS",
+        J. Borowiec, in GI Fachgesprach "Compiler-Compiler", ed
+        W. Henhapl, Tech Hochs Darmstadt 1978, pp.122-159].
+     
+        (2000-11-15)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lex</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lex \Lex\ (l[e^]ks), n.; pl. {Leges} (l[=e]"j[=e]z). [L. See
+   {Legal}.]
+   Law; as, lex talionis, the law of retaliation; lex terr[ae],
+   the law of the land; lex fori, the law of the forum or court;
+   lex loci, the law of the place; lex mercatoria, the law or
+   custom of merchants.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

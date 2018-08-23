@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>infantry</Word>
+  <Definitions>
+    <Definition>
+      <Word>infantry</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Infantry \In"fan*try\, n. [F. infanterie, It. infanteria, fr.
+   infante infant, child, boy servant, foot soldier, fr. L.
+   infans, -antis, child; foot soldiers being formerly the
+   servants and followers of knights. See {Infant}.]
+   [1913 Webster]
+   1. A body of children. [Obs.] --B. Jonson.
+      [1913 Webster]
+
+   2. (Mil.) A body of soldiers serving on foot; foot soldiers,
+      in distinction from {cavalry}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>infantry</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>infantry
+     n : an army unit consisting of soldiers who fight on foot;
+         "there came ten thousand horsemen and as many fully-armed
+         foot" [syn: {foot}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

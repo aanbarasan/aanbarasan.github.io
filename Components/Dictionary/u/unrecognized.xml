@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unrecognized</Word>
+  <Definitions>
+    <Definition>
+      <Word>unrecognized</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unrecognized
+     adj 1: not recognized; "he was unrecognized in his disguise" [syn:
+            {unrecognised}]
+     2: not having a secure reputation; "short stories by
+        unrecognized writiers" [syn: {unrecognised}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

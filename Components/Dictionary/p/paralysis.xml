@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>paralysis</Word>
+  <Definitions>
+    <Definition>
+      <Word>paralysis</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Paralysis \Pa*ral"y*sis\, n. [L., fr. Gr. para`lysis, fr.
+   paraly`ein to loosen, dissolve, or disable at the side; para`
+   beside + ly`ein to loosen. See {Para-}, and {Loose}, and cf.
+   {Palsy}.] (Med.)
+   Abolition of function, whether complete or partial; esp., the
+   loss of the power of voluntary motion, with or without that
+   of sensation, in any part of the body; palsy. See
+   {Hemiplegia}, and {Paraplegia}. Also used figuratively; as,
+   paralysis of the will. ``Utter paralysis of memory.'' --G.
+   Eliot.
+   [1913 Webster]
+
+         Mischievous practices arising out of the paralysis of
+         the powers of ownership.                 --Duke of
+                                                  Argyll (1887).
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>paralysis</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>paralysis
+     n : loss of the ability to move a body part [syn: {palsy}]
+     [also: {paralyses} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

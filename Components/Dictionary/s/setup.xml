@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>setup</Word>
+  <Definitions>
+    <Definition>
+      <Word>setup</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>set up
+     adj : well established and ready to function; "things I can do now
+           that I'm set up"
+     v 1: set up or found; "She set up a literacy program" [syn: {establish},
+           {found}, {launch}] [ant: {abolish}]
+     2: make by putting pieces together; "She pieced a quilt"; "He
+        tacked together some verses" [syn: {assemble}, {piece}, {put
+        together}, {tack}, {tack together}] [ant: {disassemble}]
+     3: construct, build, or erect; "Raise a barn" [syn: {raise}, {erect},
+         {rear}, {put up}] [ant: {level}]
+     4: get ready for a particular purpose or event; "set up an
+        experiment"; "set the table"; "lay out the tools for the
+        surgery" [syn: {lay out}, {set}]
+     5: put into a proper or systematic order; "arrange the books on
+        the shelves in chronological order" [syn: {arrange}] [ant:
+         {disarrange}]
+     6: begin, or enable someone else to begin, a venture by
+        providing the means, logistics, etc.; "set up an election"
+     7: take or catch as if in a snare or trap; "I was set up!";
+        "The innocent man was framed by the police" [syn: {ensnare},
+         {entrap}, {frame}]
+     8: produce; "The scientists set up a shockwave" [syn: {effect},
+         {effectuate}, {bring about}]
+     9: set up for use; "install the washer and dryer"; "We put in a
+        new sink" [syn: {install}, {instal}, {put in}]
+     10: place; "Her manager had set her up at the Ritz" [syn: {install},
+          {instal}, {establish}]
+     11: arrange the outcome of by means of deceit; "rig an election"
+         [syn: {rig}]
+     12: erect and fasten; "pitch a tent" [syn: {pitch}]
+     13: arrange thoughts, ideas, temporal events, etc.; "arrange my
+         schedule"; "set up one's life"; "I put these memories
+         with those of bygone times" [syn: {arrange}, {put}, {order}]
+     14: equip with sails, masts, etc.; "rig a ship" [syn: {rig}, {set}]
+     15: make ready or suitable or equip in advance for a particular
+         purpose or for some use, event, etc; "Get the children
+         ready for school!"; "prepare for war"; "I was fixing to
+         leave town after I paid the hotel bill" [syn: {fix}, {prepare},
+          {ready}, {gear up}, {set}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>setup</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>setup
+     n 1: equipment designed to serve a specific function [syn: {apparatus}]
+     2: the way something is organized or arranged; "it takes time
+        to learn the setup around here"
+     3: an act that incriminates someone on a false charge [syn: {frame-up}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>skilled</Word>
+  <Definitions>
+    <Definition>
+      <Word>skilled</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Skilled \Skilled\, a.
+   Having familiar knowledge united with readiness and dexterity
+   in its application; familiarly acquainted with; expert;
+   skillful; -- often followed by in; as, a person skilled in
+   drawing or geometry.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>skilled</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>skilled
+     adj : having or showing or requiring special skill; "only the most
+           skilled gymnasts make an Olympic team"; "a skilled
+           surgeon has many years of training and experience"; "a
+           skilled reconstruction of her damaged elbow"; "a
+           skilled trade" [ant: {unskilled}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

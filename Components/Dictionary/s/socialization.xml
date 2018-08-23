@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>socialization</Word>
+  <Definitions>
+    <Definition>
+      <Word>socialization</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>socialization
+     n 1: the action of establishing on a socialist basis; "the
+          socialization of medical services" [syn: {socialisation}]
+     2: the act of meeting for social purposes; "there was too much
+        socialization with the enlisted men" [syn: {socialisation},
+         {socializing}, {socialising}]
+     3: the adoption of the behavior patterns of the surrounding
+        culture; "the socialization of children to the norms of
+        their culture" [syn: {socialisation}, {acculturation}, {enculturation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

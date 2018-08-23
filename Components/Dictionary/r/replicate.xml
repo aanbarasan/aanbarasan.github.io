@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>replicate</Word>
+  <Definitions>
+    <Definition>
+      <Word>replicate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Replicate \Rep"li*cate\ (-?-k?t), v. t.
+   To reply. [Obs.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>replicate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Replicate \Rep"li*cate\ (l?-k?t), Replicated \Rep"li*ca`ted\
+   (-k?`t?d), a. [L. replicatus, p. p. of replicare. See
+   {Reply}.]
+   Folded over or backward; folded back upon itself; as, a
+   replicate leaf or petal; a replicate margin of a shell.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>replicate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>replicate
+     v 1: bend or turn backward [syn: {retroflex}]
+     2: biology: reproduce or make an exact copy of; "replicate the
+        cell"; "copy the genetic information" [syn: {copy}]
+     3: make or do or perform again; "He could never replicate his
+        brilliant performance of the magic trick" [syn: {duplicate},
+         {reduplicate}, {double}, {repeat}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

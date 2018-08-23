@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>respectful</Word>
+  <Definitions>
+    <Definition>
+      <Word>respectful</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Respectful \Re*spect"ful\ (-f?l), a.
+   Marked or characterized by respect; as, respectful
+   deportment.
+   [1913 Webster]
+
+         With humble joi and with respectful fear. --Prior.
+   [1913 Webster] -- {Re*spect"ful*ly}, adv. --
+   {Re*spect"ful*ness}, n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>respectful</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>respectful
+     adj 1: full of or exhibiting respect; "respectful behavior"; "a
+            respectful glance" [ant: {disrespectful}]
+     2: feeling or manifesting veneration [syn: {reverential}, {venerating}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

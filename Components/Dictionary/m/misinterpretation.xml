@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>misinterpretation</Word>
+  <Definitions>
+    <Definition>
+      <Word>misinterpretation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Misinterpretation \Mis`in*ter"pre*ta"tion\, n.
+   The act of interpreting erroneously; a mistaken
+   interpretation.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>misinterpretation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>misinterpretation
+     n : putting the wrong interpretation on; "his misinterpretation
+         of the question caused his error"; "there was no
+         mistaking her meaning" [syn: {misunderstanding}, {mistaking}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

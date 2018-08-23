@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>isp</Word>
+  <Definitions>
+    <Definition>
+      <Word>isp</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>ISP
+     
+        1. {Internet Service Provider}.
+     
+        2. {Instruction Set Processor}.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>isp</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>ISP /I-S-P/ Common abbreviation for Internet Service Provider, a kind
+   of company that barely existed before 1993. ISPs sell Internet access to
+   the mass market. While the big nationwide commercial BBSs with Internet
+   access (like America Online, CompuServe, GEnie, Netcom, etc.) are
+   technically ISPs, the term is usually reserved for local or regional
+   small providers (often run by hackers turned entrepreneurs) who resell
+   Internet access cheaply without themselves being information providers
+   or selling advertising. Compare {NSP}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>isp</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>ISP
+     Image Synthesis Processor (IC, Graphik, TSP)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>isp</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>ISP
+     Integrated System Peripheral control (Wyse)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>isp</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>ISP
+     International Standardized Profiles (ISO)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>isp</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>ISP
+     Interactive String Processor (BS2000)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>isp</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>ISP
+     Internet Service Provider (Internet)
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

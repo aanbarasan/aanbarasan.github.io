@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>usually</Word>
+  <Definitions>
+    <Definition>
+      <Word>usually</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Usual \U"su*al\, a. [L. usualis, from usus use: cf. F. usuel.
+   See {Use}, n.]
+   Such as is in common use; such as occurs in ordinary
+   practice, or in the ordinary course of events; customary;
+   ordinary; habitual; common.
+   [1913 Webster]
+
+         Consultation with oracles was a thing very usual and
+         frequent in their times.                 --Hooker.
+   [1913 Webster]
+
+         We can make friends of these usual enemies. --Baxter.
+   [1913 Webster] -- {U"su*al*ly}, adv. -- {U"su*al*ness}, n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>usually</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>usually
+     adv : under normal conditions; "usually she was late" [syn: {normally},
+            {unremarkably}, {commonly}, {ordinarily}] [ant: {unusually}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

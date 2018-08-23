@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>useful</Word>
+  <Definitions>
+    <Definition>
+      <Word>useful</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Useful \Use"ful\, a.
+   Full of use, advantage, or profit; producing, or having power
+   to produce, good; serviceable for any end or object; helpful
+   toward advancing any purpose; beneficial; profitable;
+   advantageous; as, vessels and instruments useful in a family;
+   books useful for improvement; useful knowledge; useful arts.
+   [1913 Webster]
+
+         To what can I useful!                    --Milton.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>useful</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>useful
+     adj 1: being of use or service; "the girl felt motherly and
+            useful"; "a useful job"; "a useful member of society"
+            [syn: {utile}] [ant: {useless}]
+     2: of great importance or use or service; "useful information";
+        "valuable advice" [syn: {valuable}, {of value}]
+     3: capable of being turned to use or account; "useful
+        applications of calculus"
+     4: having a useful function; "utilitarian steel tables" [syn: {utilitarian}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

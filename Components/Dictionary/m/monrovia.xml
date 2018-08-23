@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>monrovia</Word>
+  <Definitions>
+    <Definition>
+      <Word>monrovia</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Monrovia, CA (city, FIPS 48648)
+  Location: 34.16338 N, 117.99042 W
+  Population (1990): 35761 (13944 housing units)
+  Area: 34.6 sq km (land), 0.2 sq km (water)
+  Zip code(s): 91016
+Monrovia, IN
+  Zip code(s): 46157
+Monrovia, MD
+  Zip code(s): 21770
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>monrovia</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Monrovia
+     n : the capital and chief port and largest city of Liberia [syn:
+          {Liberian capital}, {capital of Liberia}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pyrite</Word>
+  <Definitions>
+    <Definition>
+      <Word>pyrite</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pyrite \Pyr"ite\, n.; pl. {Pyrites}. [Cf. F. pyrite. See
+   {Pyrites}.] (Min.)
+   A common mineral of a pale brass-yellow color and brilliant
+   metallic luster, crystallizing in the isometric system; iron
+   pyrites; iron disulphide.
+   [1913 Webster]
+
+         Hence sable coal his massy couch extends,
+         And stars of gold the sparkling pyrite blends. --E.
+                                                  Darwin.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pyrite</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pyrite
+     n : a common mineral (iron disulfide) that has a pale yellow
+         color [syn: {iron pyrite}, {fool's gold}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

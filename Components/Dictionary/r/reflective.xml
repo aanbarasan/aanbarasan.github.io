@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>reflective</Word>
+  <Definitions>
+    <Definition>
+      <Word>reflective</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Reflective \Re*flect"ive\ (r?*fl?kt"?v), a. [Cf. F.
+   r['e]flectif. Cf. {Reflexive}.]
+   1. Throwing back images; as, a reflective mirror.
+      [1913 Webster]
+
+            In the reflective stream the sighing bride, viewing
+            her charms.                           --Prior.
+      [1913 Webster]
+
+   2. Capable of exercising thought or judgment; as, reflective
+      reason. --Prior.
+      [1913 Webster]
+
+            His perceptive and reflective faculties . . . thus
+            acquired a precocious and extraordinary development.
+                                                  --Motley.
+      [1913 Webster]
+
+   3. Addicted to introspective or meditative habits; as, a
+      reflective person.
+      [1913 Webster]
+
+   4. (Gram.) Reflexive; reciprocal.
+      [1913 Webster] -- {Re*flect"ive*ly}, adv. --
+      {Re*flect"ive*ness}, n. ``Reflectiveness of manner.'' --J.
+      C. Shairp.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>reflective</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>reflective
+     adj 1: persistently or morbidly thoughtful [syn: {brooding}, {broody},
+             {contemplative}, {meditative}, {musing}, {pensive}, {pondering},
+             {ruminative}]
+     2: capable of physically reflecting light or sound; "a
+        reflective surface" [ant: {nonreflective}]
+     3: devoted to matters of the mind; "the reflective type"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

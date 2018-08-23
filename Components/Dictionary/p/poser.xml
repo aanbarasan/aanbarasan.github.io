@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>poser</Word>
+  <Definitions>
+    <Definition>
+      <Word>poser</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Poser \Pos"er\, n.
+   One who, or that which, puzzles; a difficult or inexplicable
+   question or fact. --Bacon.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>poser</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>poser n. [from French `poseur'] A {wannabee}; not hacker slang, but
+   used among crackers, phreaks and {warez d00dz}. Not as negative as
+   {lamer} or {leech}. Probably derives from a similar usage among
+   punk-rockers and metalheads, putting down those who "talk the talk but
+   don't walk the walk".
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>poser</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>poser
+     n 1: a person who habitually pretends to be something he is not
+          [syn: {poseur}]
+     2: a person who poses for a photographer or painter or
+        sculptor; "the president didn't have time to be a model so
+        the artist worked from photos" [syn: {model}]
+     3: a particularly difficult or baffling question or problem
+        [syn: {stumper}, {toughie}, {sticker}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

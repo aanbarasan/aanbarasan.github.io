@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>insight</Word>
+  <Definitions>
+    <Definition>
+      <Word>insight</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>INSIGHT
+     
+        A {simulation} and modelling language especially for health
+        care problems.
+     
+        ["Simulation Modeling with INSIGHT", S.D. Roberts Proc 1983
+        Winter Sim Conf, S.D. Roberts et al eds, pp.7-16].
+     
+        (1995-03-03)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>insight</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Insight \In"sight`\, n.
+   1. A sight or view of the interior of anything; a deep
+      inspection or view; introspection; -- frequently used with
+      into.
+      [1913 Webster]
+
+            He had an insight into almost all the secrets of
+            state.                                --Jortin.
+      [1913 Webster]
+
+   2. Power of acute observation and deduction; penetration;
+      discernment; perception.
+      [1913 Webster]
+
+            Quickest insight
+            In all things that to greatest actions lead.
+                                                  --Milton.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>insight</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>in sight
+     adj : at or within a reasonable distance for seeing; "not a
+           policeman in sight"; "kept the monkey in view" [syn: {in
+           view}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>insight</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>insight
+     n 1: clear or deep perception of a situation [syn: {penetration}]
+     2: a feeling of understanding [syn: {perceptiveness}, {perceptivity}]
+     3: the clear (and often sudden) understanding of a complex
+        situation [syn: {brainstorm}, {brainwave}]
+     4: grasping the inner nature of things intuitively [syn: {sixth
+        sense}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

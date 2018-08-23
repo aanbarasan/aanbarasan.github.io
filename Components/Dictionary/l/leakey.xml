@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>leakey</Word>
+  <Definitions>
+    <Definition>
+      <Word>leakey</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Leakey, TX (city, FIPS 42004)
+  Location: 29.72438 N, 99.76225 W
+  Population (1990): 399 (212 housing units)
+  Area: 1.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 78873
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>leakey</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Leakey
+     n 1: English paleontologist (son of Louis Leakey and Mary Leakey)
+          who continued the work of his parents; he was appointed
+          director of a wildlife preserve in Kenya but resigned
+          under political pressure (born in 1944) [syn: {Richard
+          Leakey}, {Richard Erskine Leakey}]
+     2: English paleontologist (the wife of Louis Leakey) who
+        discovered the Zinjanthropus skull that was 1,750,000
+        years old (1913-1996) [syn: {Mary Leakey}, {Mary Douglas
+        Leakey}]
+     3: English paleontologist whose account of fossil discoveries
+        in Tanzania changed theories of human evolution
+        (1903-1972) [syn: {Louis Leakey}, {Louis Seymour Bazett
+        Leakey}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

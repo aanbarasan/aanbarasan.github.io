@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>muted</Word>
+  <Definitions>
+    <Definition>
+      <Word>muted</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>muted \muted\ adj.
+   1. same as {quiet}; as, the muted atmosphere of a church.
+      Opposite of {noisy}.
+
+   Syn: hushed.
+        [WordNet 1.5]
+
+   2. softened; rendered less loud or harsh; -- of sounds and
+      instruments which produce sounds; as, muted trumpets.
+
+   Syn: dull, muffled, softened.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>muted</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>muted
+     adj 1: in a softened tone; "hushed voices"; "muted trumpets"; "a
+            subdued whisper"; "a quiet reprimand" [syn: {hushed},
+            {subdued}, {quiet}]
+     2: being or made softer or less loud or clear; "the dull boom
+        of distant breaking waves"; "muffled drums"; "the muffled
+        noises of the street"; "muted trumpets" [syn: {dull}, {muffled},
+         {softened}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

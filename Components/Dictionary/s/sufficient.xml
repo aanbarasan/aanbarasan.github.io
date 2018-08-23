@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sufficient</Word>
+  <Definitions>
+    <Definition>
+      <Word>sufficient</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sufficient \Suf*fi"cient\, a. [L. sufficiens, -entis, p. pr. of
+   sufficere: cf. F. suffisant. See {Suffice}.]
+   1. Equal to the end proposed; adequate to wants; enough;
+      ample; competent; as, provision sufficient for the family;
+      an army sufficient to defend the country.
+      [1913 Webster]
+
+            My grace is sufficient for thee.      --2 Cor. xii.
+                                                  9.
+      [1913 Webster]
+
+   2. Possessing adequate talents or accomplishments; of
+      competent power or ability; qualified; fit.
+      [1913 Webster]
+
+            Who is sufficient for these things?   --2 Cor. ii.
+                                                  16.
+      [1913 Webster]
+
+   3. Capable of meeting obligations; responsible.
+      [1913 Webster]
+
+            The man is, notwithstanding, sufficient . . . I
+            think I may take his bond.            --Shak.
+      [1913 Webster]
+
+   4. Self-sufficient; self-satisfied; content. [R.]
+      [1913 Webster]
+
+            Thou art the most sufficient (I'll say for thee),
+            Not to believe a thing.               --Beau. &amp; Fl.
+      [1913 Webster]
+
+   Syn: Enough; adequate; competent; full; satisfactory; ample.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sufficient</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sufficient
+     adj : of a quantity that can fulfill a need or requirement but
+           without being abundant; "sufficient food" [ant: {insufficient}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

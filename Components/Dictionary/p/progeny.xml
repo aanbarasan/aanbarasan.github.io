@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>progeny</Word>
+  <Definitions>
+    <Definition>
+      <Word>progeny</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>PROGENY
+     
+        1961.  Report generator for UNIVAX SS90.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>progeny</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Progeny \Prog"e*ny\, n. [OE. progenie, F. prog['e]nie, fr. L.
+   progenies, fr. progignere. See {Progenitor}.]
+   Descendants of the human kind, or offspring of other animals;
+   children; offspring; race, lineage. `` Issued from the
+   progeny of kings.'' --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>progeny</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>progeny
+     n : the immediate descendants of a person; "she was the mother
+         of many offspring"; "he died without issue" [syn: {offspring},
+          {issue}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

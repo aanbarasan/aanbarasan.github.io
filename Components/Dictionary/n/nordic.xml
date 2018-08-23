@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nordic</Word>
+  <Definitions>
+    <Definition>
+      <Word>nordic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Nordic \Nordic\ prop. adj.
+   1. of or pertaining to the inhabitants of Scandinavia; as,
+      Nordic languages have a gender system.
+      [WordNet 1.5]
+
+   2. Relating to Germany and Scandinavia; as, Hitler wanted
+      Nordic people to rule Europe.
+      [WordNet 1.5]
+
+   3. Resembling the peoples of Scandinavia.
+      [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nordic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Nordic
+     adj 1: of or relating to or constituting the Scandinavian group of
+            languages; "Nordic languages have a gender system"
+     2: relating to Germany and Scandinavia; "Hitler wanted Nordic
+        people to rule Europe"
+     3: resembling peoples of Scandinavia
+     n : the northern family of Germanic languages that are spoken in
+         Scandinavia and Iceland [syn: {Scandinavian}, {Scandinavian
+         language}, {Norse}, {North Germanic}, {North Germanic
+         language}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

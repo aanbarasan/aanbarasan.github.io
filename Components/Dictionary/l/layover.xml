@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>layover</Word>
+  <Definitions>
+    <Definition>
+      <Word>layover</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>lay over
+     v 1: interrupt a journey temporarily, e.g., overnight; "We had to
+          stop over in Venezuela on our flight back from Brazil"
+          [syn: {stop over}]
+     2: place on top of; "can you superimpose the two images?" [syn:
+         {superimpose}, {superpose}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>layover</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>layover
+     n : a brief stay in the course of a journey; "they made a
+         stopover to visit their friends" [syn: {stop}, {stopover}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

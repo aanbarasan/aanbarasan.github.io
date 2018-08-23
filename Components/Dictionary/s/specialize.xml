@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>specialize</Word>
+  <Definitions>
+    <Definition>
+      <Word>specialize</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Specialize \Spe"cial*ize\, v. t.
+   1. To mention specially; to particularize.
+      [1913 Webster]
+
+   2. To apply to some specialty or limited object; to assign to
+      a specific use; as, specialized knowledge.
+      [1913 Webster]
+
+   3. (Biol.) To supply with an organ or organs having a special
+      function or functions.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>specialize</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>specialize
+     v 1: become more special; "We specialize in dried flowers" [syn:
+          {specialise}, {narrow}, {narrow down}] [ant: {diversify},
+           {diversify}]
+     2: be specific about; "Could you please specify your criticism
+        of my paper?" [syn: {specify}, {particularize}, {particularise},
+         {specialise}] [ant: {generalize}]
+     3: suit to a special purpose; "specialize one's research" [syn:
+         {specialise}]
+     4: devote oneself to a special area of work; "She specializes
+        in honey bees"; "This plumber specialized in jacuzzis"
+        [syn: {specialise}]
+     5: evolve so as to lead to a new species or develop in a way
+        most suited to the environment [syn: {speciate}, {differentiate},
+         {specialise}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

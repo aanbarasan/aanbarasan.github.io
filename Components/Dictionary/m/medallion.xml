@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>medallion</Word>
+  <Definitions>
+    <Definition>
+      <Word>medallion</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Medallion \Me*dal"lion\, n. [F. m['e]daillion, It. medaglione,
+   augm. of medaglia. See {Medal}.]
+   [1913 Webster]
+   1. A large medal or memorial coin.
+      [1913 Webster]
+
+   2. A circular or oval (or, sometimes, square) tablet bearing
+      a figure or figures represented in relief.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>medallion</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>medallion
+     n 1: any of various large ancient Greek coins
+     2: a circular helping of food (especially a boneless cut of
+        meat); "medallions of veal"
+     3: an emblem indicating that a taxicab is registered
+     4: an award for winning a championship or commemorating some
+        other event [syn: {decoration}, {laurel wreath}, {medal},
+        {palm}, {ribbon}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

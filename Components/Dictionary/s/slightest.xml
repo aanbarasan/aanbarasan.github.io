@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>slightest</Word>
+  <Definitions>
+    <Definition>
+      <Word>slightest</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Slight \Slight\, a. [Compar. {Slighter}; superl. {Slightest}.]
+   [OE. sli?t, sleght, probably from OD. slicht, slecht, simple,
+   plain, D. slecht; akin to OFries. sliucht, G. schlecht,
+   schlicht, OHG. sleht smooth, simple, Icel. sl?ttr smooth, Sw.
+   sl["a]t, Goth. sla['i]hts; or uncertain origin.]
+   1. Not decidedly marked; not forcible; inconsiderable;
+      unimportant; insignificant; not severe; weak; gentle; --
+      applied in a great variety of circumstances; as, a slight
+      (i. e., feeble) effort; a slight (i. e., perishable)
+      structure; a slight (i. e., not deep) impression; a slight
+      (i. e., not convincing) argument; a slight (i. e., not
+      thorough) examination; slight (i. e., not severe) pain,
+      and the like. ``At one slight bound.'' --Milton.
+      [1913 Webster]
+
+            Slight is the subject, but not so the praise.
+                                                  --Pope.
+      [1913 Webster]
+
+            Some firmly embrace doctrines upon slight grounds.
+                                                  --Locke.
+      [1913 Webster]
+
+   2. Not stout or heavy; slender.
+      [1913 Webster]
+
+            His own figure, which was formerly so slight. --Sir
+                                                  W. Scott.
+      [1913 Webster]
+
+   3. Foolish; silly; weak in intellect. --Hudibras.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>slightest</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>slightest
+     adj : (usually follows `the') most meager; "didn't have the
+           slightest chance"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

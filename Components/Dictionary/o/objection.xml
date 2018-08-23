@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>objection</Word>
+  <Definitions>
+    <Definition>
+      <Word>objection</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Objection \Ob*jec"tion\, n. [L. objectio: cf. F. objection.]
+   1. The act of objecting; as, to prevent agreement, or action,
+      by objection. --Johnson.
+      [1913 Webster]
+
+   2. That which is, or may be, presented in opposition; an
+      adverse reason or argument; a reason for objecting;
+      obstacle; impediment; as, I have no objection to going;
+      unreasonable objections. ``Objections against every
+      truth.'' --Tyndale.
+      [1913 Webster]
+
+   3. Cause of trouble; sorrow. [Obs. or R.]
+      [1913 Webster]
+
+            He remembers the objection that lies in his bosom,
+            and he sighs deeply.                  --Jer. Taylor.
+      [1913 Webster]
+
+   Syn: Exception; difficulty; doubt; scruple.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>objection</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>objection
+     n 1: the act of expressing earnest opposition or protest [syn: {expostulation},
+           {remonstrance}]
+     2: the speech act of objecting
+     3: the act of protesting; a public (often organized)
+        manifestation of dissent [syn: {protest}, {dissent}]
+     4: (law) a procedure whereby a party to a suit says that a
+        particular line of questioning or a particular witness or
+        a piece of evidence or other matter is improper and should
+        not be continued and asks the court to rule on its
+        impropriety or illegality
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

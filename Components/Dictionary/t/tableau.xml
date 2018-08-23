@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tableau</Word>
+  <Definitions>
+    <Definition>
+      <Word>tableau</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tableau \Ta`bleau"\, n.; pl. {Tableaux}. [F., dim. fr. L. tabula
+   a painting. See {Table}.]
+   1. A striking and vivid representation; a picture.
+      [1913 Webster]
+
+   2. A representation of some scene by means of persons grouped
+      in the proper manner, placed in appropriate postures, and
+      remaining silent and motionless.
+      [1913 Webster]
+
+   3. (Solitaire) The arrangement, or layout, of cards.
+      [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tableau</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tableau
+     n 1: a group of people attractively arranged (as if in a
+          painting) [syn: {tableau vivant}]
+     2: any dramatic scene
+     [also: {tableaux} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

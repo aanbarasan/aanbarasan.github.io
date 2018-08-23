@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pier</Word>
+  <Definitions>
+    <Definition>
+      <Word>pier</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pier \Pier\, n. [OE. pere, OF. piere a stone, F. pierre, fr. L.
+   petra, Gr. ?. Cf. {Petrify}.]
+   1. (Arch.)
+      (a) Any detached mass of masonry, whether insulated or
+          supporting one side of an arch or lintel, as of a
+          bridge; the piece of wall between two openings.
+      (b) Any additional or auxiliary mass of masonry used to
+          stiffen a wall. See {Buttress}.
+          [1913 Webster]
+
+   2. A projecting wharf or landing place.
+      [1913 Webster]
+
+   {Abutment pier}, the pier of a bridge next the shore; a pier
+      which by its strength and stability resists the thrust of
+      an arch.
+
+   {Pier glass}, a mirror, of high and narrow shape, to be put
+      up between windows.
+
+   {Pier table}, a table made to stand between windows.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pier</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pier
+     n 1: a platform built out from the shore into the water and
+          supported by piles; provides access to ships and boats
+          [syn: {wharf}, {wharfage}, {dock}]
+     2: (architecture) a vertical supporting structure (as a portion
+        of wall between two doors or windows)
+     3: a support for two adjacent bridge spans
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

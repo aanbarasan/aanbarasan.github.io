@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>wardrobe</Word>
+  <Definitions>
+    <Definition>
+      <Word>wardrobe</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Wardrobe \Ward"robe`\, n. [OE. warderobe, OF. warderobe, F.
+   garderobe; of German origin. See {Ward}, v. t., and {Robe}.]
+   [1913 Webster]
+   1. A room or apartment where clothes are kept, or wearing
+      apparel is stored; a portable closet for hanging up
+      clothes.
+      [1913 Webster]
+
+   2. Wearing apparel, in general; articles of dress or personal
+      decoration.
+      [1913 Webster]
+
+            Flowers that their gay wardrobe wear. --Milton.
+      [1913 Webster]
+
+            With a pair of saddlebags containing his wardrobe.
+                                                  --T. Hughes.
+      [1913 Webster]
+
+   3. A privy. [Obs.] --Chaucer.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wardrobe</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>wardrobe
+     n 1: a tall piece of furniture that provides storage space for
+          clothes; has a door and rails or hooks for hanging
+          clothes [syn: {closet}, {press}]
+     2: collection of clothing belonging to one person
+     3: collection of costumes belonging to a theatrical company
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

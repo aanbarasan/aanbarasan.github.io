@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>viscosity</Word>
+  <Definitions>
+    <Definition>
+      <Word>viscosity</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Viscosity \Vis*cos"i*ty\, n. [Cf. F. viscosit['e], LL.
+   viscositas.]
+   1. The quality or state of being viscous.
+      [1913 Webster]
+
+   2. (Physics) A property possessed by a viscous fluid, being a
+      resistance to the forces causing a fluid to flow, caused
+      by interactions between the molecules of the fluid and
+      between the fluid and the walls of the conduit through
+      which it moves; also, a measure of such a property.
+      [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>viscosity</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>viscosity
+     n : resistance of a liquid to sheer forces (and hence to flow)
+         [syn: {viscousness}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

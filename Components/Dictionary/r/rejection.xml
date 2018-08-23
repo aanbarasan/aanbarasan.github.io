@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rejection</Word>
+  <Definitions>
+    <Definition>
+      <Word>rejection</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rejection \Re*jec"tion\ (r?-j?k"sh?n), n. [L. rejectio: cf. F.
+   r['e]jection.]
+   Act of rejecting, or state of being rejected.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rejection</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rejection
+     n 1: the act of rejecting something; "his proposals were met with
+          rejection"
+     2: the state of being rejected [ant: {acceptance}]
+     3: (medicine) an immunological response that refuses to accept
+        substances or organisms that are recognized as foreign;
+        "rejection of the transplanted liver"
+     4: the speech act of rejecting
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

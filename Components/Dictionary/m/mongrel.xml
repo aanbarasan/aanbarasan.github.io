@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mongrel</Word>
+  <Definitions>
+    <Definition>
+      <Word>mongrel</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mongrel \Mon"grel\, a.
+   1. (Zo["o]l.) Not of a pure breed.
+      [1913 Webster]
+
+   2. Of mixed kinds; as, mongrel language.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mongrel</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mongrel \Mon"grel\, n. [Prob. shortened fr. mongrel, and akin to
+   AS. mengan to mix, and E. mingle. See {Mingle}.]
+   The progeny resulting from a cross between two breeds, as of
+   domestic animals; anything of mixed breed. --Drayton.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mongrel</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mongrel
+     n 1: derogatory term for a variation that is not genuine;
+          something irregular or inferior or of dubious origin;
+          "the architecture was a kind of bastard suggesting
+          Gothic but not true Gothic" [syn: {bastard}]
+     2: an inferior dog or one of mixed breed [syn: {cur}, {mutt}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

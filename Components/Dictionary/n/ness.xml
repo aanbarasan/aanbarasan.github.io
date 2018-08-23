@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ness</Word>
+  <Definitions>
+    <Definition>
+      <Word>ness</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ness \Ness\, n. [AS. n[ae]s, ns; akin to Icel. nes, Sw. n["a]s,
+   Dan. n[ae]s, and E. nose. [root] 261. See {Nose}.]
+   A promontory; a cape; a headland. --Hakluyt.
+   [1913 Webster]
+
+   Note: Ness is frequently used as a suffix in the names of
+         places and promontories; as, Sheerness.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ness</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>-ness \-ness\ [AS. -ness, -nyss, -nys; akin to OS. -nissi,
+   nussi, D. -nis, OHG. -nissa, -nass[=i], -nuss[=i], G. -nis,
+   -niss, Goth. -inasus.]
+   A suffix used to form abstract nouns expressive of quality or
+   state; as, goodness, greatness.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ness</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ness
+     n : a strip of land projecting into a body of water [syn: {cape}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

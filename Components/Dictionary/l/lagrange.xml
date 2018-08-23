@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lagrange</Word>
+  <Definitions>
+    <Definition>
+      <Word>lagrange</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>La Grange, CA
+  Zip code(s): 95329
+La Grange, GA (city, FIPS 44340)
+  Location: 33.04143 N, 85.03462 W
+  Population (1990): 25597 (10949 housing units)
+  Area: 67.2 sq km (land), 1.5 sq km (water)
+  Zip code(s): 30240
+La Grange, IL (village, FIPS 40767)
+  Location: 41.80785 N, 87.87339 W
+  Population (1990): 15362 (5635 housing units)
+  Area: 6.5 sq km (land), 0.0 sq km (water)
+La Grange, KY (city, FIPS 43480)
+  Location: 38.40279 N, 85.37855 W
+  Population (1990): 3853 (1522 housing units)
+  Area: 6.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 40031
+La Grange, MO (city, FIPS 39764)
+  Location: 40.04797 N, 91.50048 W
+  Population (1990): 1102 (518 housing units)
+  Area: 3.6 sq km (land), 0.7 sq km (water)
+  Zip code(s): 63448
+La Grange, NC (town, FIPS 36400)
+  Location: 35.30585 N, 77.78836 W
+  Population (1990): 2805 (1220 housing units)
+  Area: 5.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 28551
+La Grange, TN (town, FIPS 40200)
+  Location: 35.04925 N, 89.23469 W
+  Population (1990): 167 (78 housing units)
+  Area: 4.2 sq km (land), 0.0 sq km (water)
+La Grange, TX (city, FIPS 40276)
+  Location: 29.90870 N, 96.87812 W
+  Population (1990): 3951 (1955 housing units)
+  Area: 8.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 78945
+La Grange, WY (town, FIPS 43745)
+  Location: 41.63939 N, 104.16379 W
+  Population (1990): 224 (93 housing units)
+  Area: 1.0 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lagrange</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>LaGrange, AR (town, FIPS 37720)
+  Location: 34.65551 N, 90.73373 W
+  Population (1990): 108 (51 housing units)
+  Area: 0.6 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lagrange</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Lagrange, IN (town, FIPS 40860)
+  Location: 41.64343 N, 85.41724 W
+  Population (1990): 2382 (1009 housing units)
+  Area: 2.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 46761
+Lagrange, ME
+  Zip code(s): 04453
+Lagrange, OH (village, FIPS 41230)
+  Location: 41.23885 N, 82.12050 W
+  Population (1990): 1199 (425 housing units)
+  Area: 3.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 44050
+Lagrange, WY
+  Zip code(s): 82221
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>modest</Word>
+  <Definitions>
+    <Definition>
+      <Word>modest</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Modest \Mod"est\, a. [F. modeste, L. modestus, fr. modus
+   measure. See {Mode}.]
+   1. Restraining within due limits of propriety; not forward,
+      bold, boastful, or presumptious; rather retiring than
+      pushing one's self forward; not obstructive; as, a modest
+      youth; a modest man.
+      [1913 Webster]
+
+   2. Observing the proprieties of the sex; not unwomanly in act
+      or bearing; free from undue familiarity, indecency, or
+      lewdness; decent in speech and demeanor; -- said of a
+      woman.
+      [1913 Webster]
+
+            Mrs. Ford, the honest woman, the modest wife.
+                                                  --Shak.
+      [1913 Webster]
+
+            The blushing beauties of a modest maid. --Dryden.
+      [1913 Webster]
+
+   3. Evincing modestly in the actor, author, or speaker; not
+      showing presumption; not excessive or extreme; moderate;
+      as, a modest request; modest joy.
+      [1913 Webster]
+
+   Syn: Reserved; unobtrusive; diffident; bashful; coy; shy;
+        decent; becoming; chaste; virtuous.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>modest</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>modest
+     adj 1: marked by simplicity; having a humble opinion of yourself;
+            "a modest apartment"; "too modest to wear his medals"
+            [ant: {immodest}]
+     2: not large but sufficient in size or amount; "a modest
+        salary"; "modest inflation"; "helped in my own small way"
+        [syn: {small}]
+     3: free from pomp or affectation; "comfortable but modest
+        cottages"; "a simple rectangular brick building"; "a
+        simple man with simple tastes"
+     4: not offensive to sexual mores in conduct or appearance [ant:
+         {immodest}]
+     5: low or inferior in station or quality; "a humble cottage";
+        "a lowly parish priest"; "a modest man of the people";
+        "small beginnings" [syn: {humble}, {low}, {lowly}, {small}]
+     6: humble in spirit or manner; suggesting retiring mildness or
+        even cowed submissiveness; "meek and self-effacing" [syn:
+        {meek}, {mild}]
+     7: limited in size or scope; "a small business"; "a newspaper
+        with a modest circulation"; "small-scale plans"; "a
+        pocket-size country" [syn: {minor}, {small}, {small-scale},
+         {pocket-size}, {pocket-sized}]
+     8: free from ostentation or pretension; "the restrained
+        elegance of the room" [syn: {restrained}, {unostentatious}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

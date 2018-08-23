@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>yap</Word>
+  <Definitions>
+    <Definition>
+      <Word>yap</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Yap \Yap\, v. i. [Icel. gj[=a]lpa; akin to yelp. Cf. {Yaup}.]
+   To bark; to yelp. --L'Estrange.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>yap</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Yap \Yap\, n.
+   A bark; a yelp.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>yap</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>yap
+     n : informal terms for the mouth [syn: {trap}, {cakehole}, {hole},
+          {maw}, {gob}]
+     v : bark in a high-pitched tone; "the puppies yelped" [syn: {yelp},
+          {yip}]
+     [also: {yapping}, {yapped}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

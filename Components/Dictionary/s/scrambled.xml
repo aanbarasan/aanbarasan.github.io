@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>scrambled</Word>
+  <Definitions>
+    <Definition>
+      <Word>scrambled</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Scramble \Scram"ble\, v. i. [imp. &amp; p. p. {Scrambled}; p. pr. &amp;
+   vb. n. {Scrambling}.] [Freq. of Prov. E. scramb to rake
+   together with the hands, or of scramp to snatch at. cf.
+   {Scrabble}.]
+   1. To clamber with hands and knees; to scrabble; as, to
+      scramble up a cliff; to scramble over the rocks.
+      [1913 Webster]
+
+   2. To struggle eagerly with others for something thrown upon
+      the ground; to go down upon all fours to seize something;
+      to catch rudely at what is desired.
+      [1913 Webster]
+
+            Of other care they little reckoning make,
+            Than how to scramble at the shearer's feast.
+                                                  --Milton.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>scrambled</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>scrambled
+     adj : thrown together in a disorderly fashion; "a scrambled plan
+           of action"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>metaphorically</Word>
+  <Definitions>
+    <Definition>
+      <Word>metaphorically</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Metaphoric \Met`a*phor"ic\, Metaphorical \Met`a*phor"ic*al\, a.
+   [Gr. ?: cf. F. m['e]taphorique.]
+   Of or pertaining to metaphor; comprising a metaphor; not
+   literal; figurative; tropical; as, a metaphorical expression;
+   a metaphorical sense. -- {Met`a*phor"ic*al*ly}, adv. --
+   {Met`a*phor"ic*al*ness}, n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>metaphorically</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>metaphorically
+     adv : in a metaphorical manner; "she expressed herself
+           metaphorically"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

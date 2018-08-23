@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>storming</Word>
+  <Definitions>
+    <Definition>
+      <Word>storming</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Storm \Storm\, v. t. [imp. &amp; p. p. {Stormed}; p. pr. &amp; vb. n.
+   {Storming}.] (Mil.)
+   To assault; to attack, and attempt to take, by scaling walls,
+   forcing gates, breaches, or the like; as, to storm a
+   fortified town.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>storming</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Storming \Storm"ing\,
+   a. &amp; n. from {Storm}, v.
+   [1913 Webster]
+
+   {Storming party} (Mil.), a party assigned to the duty of
+      making the first assault in storming a fortress.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

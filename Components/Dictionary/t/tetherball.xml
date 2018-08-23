@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tetherball</Word>
+  <Definitions>
+    <Definition>
+      <Word>tetherball</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tether-ball \Teth"er-ball`\, n.
+   A game played with rackets and a ball suspended by a string
+   from an upright pole, the object of each side being to wrap
+   the string around the pole by striking the ball in a
+   direction opposite to the other.
+   [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tetherball</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tetherball
+     n : a game with two players who use rackets to strike a ball
+         that is tethered to the top of a pole; the object is to
+         wrap the string around the pole
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

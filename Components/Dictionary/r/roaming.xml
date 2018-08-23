@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>roaming</Word>
+  <Definitions>
+    <Definition>
+      <Word>roaming</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Roam \Roam\ (r[=o]m), v. i. [imp. &amp; p. p. {Roamed} (r[=o]md); p.
+   pr. &amp; vb. n. {Roaming}.] [OE. romen, ramen; cf. AS.
+   [=a]r[=ae]man to raise, rise, D. ramen to hit, plan, aim, OS.
+   r[=o]m[=o]n to strive after, OHG. r[=a]men. But the word was
+   probably influenced by Rome; cf. OF. romier a pilgrim,
+   originally, a pilgrim going to Rome, It. romeo, Sp. romero.
+   Cf. {Ramble}.]
+   To go from place to place without any certain purpose or
+   direction; to rove; to wander.
+   [1913 Webster]
+
+         He roameth to the carpenter's house.     --Chaucer.
+   [1913 Webster]
+
+         Daphne roaming through a thorny wood.    --Shak.
+   [1913 Webster]
+
+   Syn: To wander; rove; range; stroll; ramble.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

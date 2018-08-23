@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>welcome</Word>
+  <Definitions>
+    <Definition>
+      <Word>welcome</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Welcome, MD
+  Zip code(s): 20693
+Welcome, MN (city, FIPS 69070)
+  Location: 43.66839 N, 94.61853 W
+  Population (1990): 790 (327 housing units)
+  Area: 2.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 56181
+Welcome, NC (CDP, FIPS 71760)
+  Location: 35.91085 N, 80.25420 W
+  Population (1990): 3377 (1357 housing units)
+  Area: 21.7 sq km (land), 0.0 sq km (water)
+Welcome, SC (CDP, FIPS 75535)
+  Location: 34.82094 N, 82.45803 W
+  Population (1990): 6560 (2713 housing units)
+  Area: 11.8 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>welcome</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Welcome \Wel"come\, n.
+   [1913 Webster]
+   1. Salutation to a newcomer. ``Welcome ever smiles.'' --Shak.
+      [1913 Webster]
+
+   2. Kind reception of a guest or newcomer; as, we entered the
+      house and found a ready welcome.
+      [1913 Webster]
+
+            His warmest welcome at an inn.        --Shenstone.
+      [1913 Webster]
+
+            Truth finds an entrance and a welcome too. --South.
+      [1913 Webster]
+
+   {To bid welcome}, to receive with professions of kindness.
+      [1913 Webster]
+
+            To thee and thy company I bid
+            A hearty welcome.                     --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>welcome</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Welcome \Wel"come\, a. [OE. welcome, welcume, wilcume, AS.
+   wilcuma a welcome guest, from wil-, as a prefix, akin to
+   willa will + cuma a comer, fr. cuman to come; hence,
+   properly, one who comes so as to please another's will; cf.
+   Icel. velkominn welcome, G. willkommen. See {Will}, n., and
+   Come.]
+   [1913 Webster]
+   1. Received with gladness; admitted willingly to the house,
+      entertainment, or company; as, a welcome visitor.
+      [1913 Webster]
+
+            When the glad soul is made Heaven's welcome guest.
+                                                  --Cowper.
+      [1913 Webster]
+
+   2. Producing gladness; grateful; as, a welcome present;
+      welcome news. ``O, welcome hour!'' --Milton.
+      [1913 Webster]
+
+   3. Free to have or enjoy gratuitously; as, you are welcome to
+      the use of my library.
+      [1913 Webster]
+
+   Note: Welcome is used elliptically for you are welcome.
+         ``Welcome, great monarch, to your own.'' --Dryden.
+         [1913 Webster]
+
+   {Welcome-to-our-house} (Bot.), a kind of spurge ({Euphorbia
+      Cyparissias}). --Dr. Prior.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>welcome</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Welcome \Wel"come\, v. t. [imp. &amp; p. p. {Welcomed}; p. pr. &amp; vb.
+   n. {Welcoming}.] [AS. wilcumian.]
+   To salute with kindness, as a newcomer; to receive and
+   entertain hospitably and cheerfully; as, to welcome a
+   visitor; to welcome a new idea. ``I welcome you to land.''
+   --Addison.
+   [1913 Webster]
+
+         Thus we salute thee with our early song,
+         And welcome thee, and wish thee long.    --Milton.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>welcome</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>welcome
+     adj : giving pleasure or satisfaction or received with pleasure or
+           freely granted; "a welcome relief"; "a welcome guest";
+           "made the children feel welcome"; "you are welcome to
+           join us" [ant: {unwelcome}]
+     n 1: the state of being welcome; "don't outstay your welcome"
+     2: a greeting or reception; "the proposal got a warm welcome"
+     v 1: accept gladly; "I welcome your proposals"
+     2: bid welcome to; greet upon arrival [syn: {receive}] [ant: {say
+        farewell}]
+     3: receive someone, as into one's house
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

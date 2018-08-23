@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>kyle</Word>
+  <Definitions>
+    <Definition>
+      <Word>kyle</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Kyle, SD (CDP, FIPS 34460)
+  Location: 43.42744 N, 102.16455 W
+  Population (1990): 914 (216 housing units)
+  Area: 5.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 57752
+Kyle, TX (town, FIPS 39952)
+  Location: 29.99403 N, 97.87064 W
+  Population (1990): 2225 (724 housing units)
+  Area: 8.5 sq km (land), 0.1 sq km (water)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

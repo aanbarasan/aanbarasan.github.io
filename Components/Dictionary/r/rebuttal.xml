@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rebuttal</Word>
+  <Definitions>
+    <Definition>
+      <Word>rebuttal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rebuttal \Re*but"tal\ (r[-e]*b[u^]t"tal), n. (Law)
+   The giving of evidence on the part of a plaintiff to destroy
+   the effect of evidence introduced by the defendant in the
+   same suit.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rebuttal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rebuttal
+     n 1: the speech act of refuting by offering a contrary contention
+          or argument
+     2: (law) a pleading by the defendant in reply to a plaintiff's
+        surrejoinder [syn: {rebutter}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

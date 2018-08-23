@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mutation</Word>
+  <Definitions>
+    <Definition>
+      <Word>mutation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>mutation \mu*ta"tion\ (m[-u]*t[=a]"sh[u^]n), n. [L. mutatio, fr.
+   mutare to change: cf. F. mutation. See {Mutable}.]
+   Change; alteration, either in form or qualities.
+   [1913 Webster]
+
+         The vicissitude or mutations in the superior globe are
+         no fit matter for this present argument. --Bacon.
+   [1913 Webster]
+
+   2. (Biol.) Gradual definitely tending variation, such as may
+      be observed in a group of organisms in the fossils of
+      successive geological levels.
+      [Webster 1913 Suppl.]
+
+   3. (Biol.)
+      (a) As now employed (first by de Vries), a cellular
+          process resulting in a sudden inheritable variation
+          (the offspring differing from its parents in some
+          well-marked character or characters) as distinguished
+          from a gradual variation in which the new characters
+          become fully developed only in the course of many
+          generations. The occurrence of mutations, the
+          selection of strains carrying mutations permitting
+          enhanced survival under prevailing conditions, and the
+          mechanism of hereditary of the characters so
+          appearing, are well-established facts; whether and to
+          what extent the mutation process has played the most
+          important part in the evolution of the existing
+          species and other groups of organisms is an unresolved
+          question.
+      (b) The result of the above process; a suddenly produced
+          variation.
+
+   Note: Mutations can occur by a change in the fundamental
+         coding sequence of the hereditary material, which in
+         most organisms is DNA, but in some viruses is RNA. It
+         can also occur by rearrangement of an organism's
+         chromosomes. Specific mutations due to a change in DNA
+         sequence have been recognized as causing certain
+         specific hereditary diseases. Certain processes which
+         produce variation in the genotype of an organism, such
+         as sexual mixing of chromosomes in offspring, or
+         artificially induced recombination or introduction of
+         novel genetic material into an organism, are not
+         referred to as mutation.
+         [Webster 1913 Suppl. +PJC]
+
+   4. (Biol.) a variant strain of an organism in which the
+      hereditary variant property is caused by a mutation[3].
+      [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mutation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mutation
+     n 1: (biology) an organism that has characteristics resulting
+          from chromosomal alteration [syn: {mutant}, {variation},
+           {sport}]
+     2: (genetics) any event that changes genetic structure; any
+        alteration in the inherited nucleic acid sequence of the
+        genotype of an organism [syn: {genetic mutation}, {chromosomal
+        mutation}]
+     3: a change or alteration in form or qualities
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>perry</Word>
+  <Definitions>
+    <Definition>
+      <Word>perry</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Perry, AR (town, FIPS 54650)
+  Location: 35.04487 N, 92.79382 W
+  Population (1990): 228 (94 housing units)
+  Area: 1.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 72125
+Perry, FL (city, FIPS 56150)
+  Location: 30.10869 N, 83.58172 W
+  Population (1990): 7151 (2898 housing units)
+  Area: 24.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 32347
+Perry, GA (city, FIPS 60340)
+  Location: 32.46409 N, 83.73801 W
+  Population (1990): 9452 (3732 housing units)
+  Area: 38.9 sq km (land), 0.0 sq km (water)
+  Zip code(s): 31069
+Perry, IA (city, FIPS 62355)
+  Location: 41.84212 N, 94.09979 W
+  Population (1990): 6652 (2860 housing units)
+  Area: 8.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 50220
+Perry, IL (village, FIPS 59156)
+  Location: 39.78243 N, 90.74724 W
+  Population (1990): 491 (240 housing units)
+  Area: 1.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 62362
+Perry, KS (city, FIPS 55450)
+  Location: 39.07318 N, 95.38738 W
+  Population (1990): 881 (376 housing units)
+  Area: 2.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 66073
+Perry, ME
+  Zip code(s): 04667
+Perry, MI (city, FIPS 63700)
+  Location: 42.82088 N, 84.22825 W
+  Population (1990): 2163 (759 housing units)
+  Area: 7.1 sq km (land), 0.1 sq km (water)
+  Zip code(s): 48872
+Perry, MO (city, FIPS 57080)
+  Location: 39.42995 N, 91.66793 W
+  Population (1990): 711 (382 housing units)
+  Area: 2.8 sq km (land), 0.1 sq km (water)
+  Zip code(s): 63462
+Perry, NY (village, FIPS 57243)
+  Location: 42.71732 N, 78.00673 W
+  Population (1990): 4219 (1794 housing units)
+  Area: 5.9 sq km (land), 0.3 sq km (water)
+  Zip code(s): 14530
+Perry, OH (village, FIPS 61882)
+  Location: 41.76735 N, 81.14305 W
+  Population (1990): 1012 (340 housing units)
+  Area: 5.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 44081
+Perry, OK (city, FIPS 58250)
+  Location: 36.28766 N, 97.30422 W
+  Population (1990): 4978 (2408 housing units)
+  Area: 15.2 sq km (land), 0.1 sq km (water)
+  Zip code(s): 73077
+Perry, SC (town, FIPS 55960)
+  Location: 33.62700 N, 81.30921 W
+  Population (1990): 241 (99 housing units)
+  Area: 2.9 sq km (land), 0.0 sq km (water)
+Perry, UT (city, FIPS 59390)
+  Location: 41.46485 N, 112.03434 W
+  Population (1990): 1211 (374 housing units)
+  Area: 18.0 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>perry</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Perry \Per"ry\, n. [OF. per['e], F. poir['e], fr. poire a pear,
+   L. pirum. See {Pear} the fruit.]
+   A fermented liquor made from pears; pear cider. --Mortimer.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>perry</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Perry \Per"ry\, n.
+   A suddent squall. See {Pirry}. [Obs.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>perry</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Perry
+     n 1: United States philosopher (1876-1957) [syn: {Ralph Barton
+          Perry}]
+     2: United States admiral who led a naval expedition to Japan
+        and signed a treaty in 1854 opening up trade relations
+        between United States and Japan; brother of Oliver Hazard
+        Perry (1794-1858) [syn: {Matthew Calbraith Perry}]
+     3: United States commodore who led the fleet that defeated the
+        British on Lake Erie during the War of 1812; brother of
+        Matthew Calbraith Perry (1785-1819) [syn: {Oliver Hazard
+        Perry}, {Commodore Perry}]
+     4: a fermented and often effervescent beverage made from juice
+        of pears; similar in taste to hard cider
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>steven</Word>
+  <Definitions>
+    <Definition>
+      <Word>steven</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Steven \Ste"ven\, n. [AS. stefn, stemn, voice; akin to D. stem,
+   G. stimme, Goth. stibna.]
+   1. Voice; speech; language. [Obs. or Scot.]
+      [1913 Webster]
+
+            Ye have as merry a steven
+            As any angel hath that is in heaven.  --Chaucer.
+      [1913 Webster]
+
+   2. An outcry; a loud call; a clamor. [Obs.] --Spenser.
+      [1913 Webster]
+
+   {To set steven}, to make an appointment. [Obs.]
+      [1913 Webster]
+
+            They setten steven for to meet
+            To playen at the dice.                --Chaucer.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

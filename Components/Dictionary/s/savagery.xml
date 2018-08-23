@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>savagery</Word>
+  <Definitions>
+    <Definition>
+      <Word>savagery</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Savagery \Sav"age*ry\ (?; 277), n. [F. sauvagerie.]
+   1. The state of being savage; savageness; savagism.
+      [1913 Webster]
+
+            A like work of primeval savagery.     --C. Kingsley.
+      [1913 Webster]
+
+   2. An act of cruelty; barbarity.
+      [1913 Webster]
+
+            The wildest savagery, the vilest stroke,
+            That ever wall-eyed wrath or staring rage
+            Presented to the tears of soft remorse. --Shak.
+      [1913 Webster]
+
+   3. Wild growth, as of plants. --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>savagery</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>savagery
+     n 1: the trait of extreme cruelty [syn: {ferociousness}, {brutality},
+           {viciousness}, {savageness}]
+     2: a brutal barbarous savage act [syn: {brutality}, {barbarity},
+         {barbarism}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

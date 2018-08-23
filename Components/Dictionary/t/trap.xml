@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>trap</Word>
+  <Definitions>
+    <Definition>
+      <Word>trap</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>trap
+     
+        1. A program interrupt, usually an interrupt caused by some
+        exceptional situation in the user program.  In most cases, the
+        OS performs some action, then returns control to the program.
+     
+        2. To cause a trap.  "These instructions trap to the monitor."
+        Also used transitively to indicate the cause of the trap.
+        "The monitor traps all input/output instructions."
+     
+        This term is associated with assembler programming
+        ("interrupt" or "exception" is more common among {HLL}
+        programmers) and appears to be fading into history among
+        programmers as the role of assembler continues to shrink.
+        However, it is still important to computer architects and
+        systems hackers (see {system}, sense 1), who use it to
+        distinguish {deterministic}ally repeatable exceptions from
+        timing-dependent ones (such as I/O interrupts).
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>trap</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Trap \Trap\, a.
+   Of or pertaining to trap rock; as, a trap dike.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>trap</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Trap \Trap\, n. [OE. trappe, AS. treppe; akin to OD. trappe,
+   OHG. trapo; probably fr. the root of E. tramp, as that which
+   is trod upon: cf. F. trappe, which is trod upon: cf. F.
+   trappe, which perhaps influenced the English word.]
+   1. A machine or contrivance that shuts suddenly, as with a
+      spring, used for taking game or other animals; as, a trap
+      for foxes.
+      [1913 Webster]
+
+            She would weep if that she saw a mouse
+            Caught in a trap.                     --Chaucer.
+      [1913 Webster]
+
+   2. Fig.: A snare; an ambush; a stratagem; any device by which
+      one may be caught unawares.
+      [1913 Webster]
+
+            Let their table be made a snare and a trap. --Rom.
+                                                  xi. 9.
+      [1913 Webster]
+
+            God and your majesty
+            Protect mine innocence, or I fall into
+            The trap is laid for me!              --Shak.
+      [1913 Webster]
+
+   3. A wooden instrument shaped somewhat like a shoe, used in
+      the game of trapball. It consists of a pivoted arm on one
+      end of which is placed the ball to be thrown into the air
+      by striking the other end. Also, a machine for throwing
+      into the air glass balls, clay pigeons, etc., to be shot
+      at.
+      [1913 Webster]
+
+   4. The game of trapball.
+      [1913 Webster]
+
+   5. A bend, sag, or partitioned chamber, in a drain, soil
+      pipe, sewer, etc., arranged so that the liquid contents
+      form a seal which prevents passage of air or gas, but
+      permits the flow of liquids.
+      [1913 Webster]
+
+   6. A place in a water pipe, pump, etc., where air accumulates
+      for want of an outlet.
+      [1913 Webster]
+
+   7. A wagon, or other vehicle. [Colloq.] --Thackeray.
+      [1913 Webster]
+
+   8. A kind of movable stepladder. --Knight.
+      [1913 Webster]
+
+   {Trap stairs}, a staircase leading to a trapdoor.
+
+   {Trap tree} (Bot.) the jack; -- so called because it
+      furnishes a kind of birdlime. See 1st {Jack}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>trap</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Trap \Trap\, v. t. [imp. &amp; p. p. {Trapped}; p. pr. &amp; vb. n.
+   {Trapping}.] [Akin to OE. trappe trappings, and perhaps from
+   an Old French word of the same origin as E. drab a kind of
+   cloth.]
+   To dress with ornaments; to adorn; -- said especially of
+   horses.
+   [1913 Webster]
+
+         Steeds . . . that trapped were in steel all glittering.
+                                                  --Chaucer.
+   [1913 Webster]
+
+         To deck his hearse, and trap his tomb-black steed.
+                                                  --Spenser.
+   [1913 Webster]
+
+         There she found her palfrey trapped
+         In purple blazoned with armorial gold.   --Tennyson.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>trap</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Trap \Trap\, n. [Sw. trapp; akin to trappa stairs, Dan. trappe,
+   G. treppe, D. trap; -- so called because the rocks of this
+   class often occur in large, tabular masses, rising above one
+   another, like steps. See {Tramp}.] (Geol.)
+   An old term rather loosely used to designate various
+   dark-colored, heavy igneous rocks, including especially the
+   feldspathic-augitic rocks, basalt, dolerite, amygdaloid,
+   etc., but including also some kinds of diorite. Called also
+   {trap rock}.
+   [1913 Webster]
+
+   {Trap tufa}, {Trap tuff}, a kind of fragmental rock made up
+      of fragments and earthy materials from trap rocks.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>trap</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Trap \Trap\, v. t. [AS. treppan. See {Trap} a snare.]
+   [1913 Webster]
+   1. To catch in a trap or traps; as, to trap foxes.
+      [1913 Webster]
+
+   2. Fig.: To insnare; to take by stratagem; to entrap. ``I
+      trapped the foe.'' --Dryden.
+      [1913 Webster]
+
+   3. To provide with a trap; as, to trap a drain; to trap a
+      sewer pipe. See 4th {Trap}, 5.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>trap</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Trap \Trap\, v. i.
+   To set traps for game; to make a business of trapping game;
+   as, to trap for beaver.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>trap</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>trap 1. n. A program interrupt, usually an interrupt caused by some
+   exceptional situation in the user program. In most cases, the OS
+   performs some action, then returns control to the program. 2. vi. To
+   cause a trap. "These instructions trap to the monitor." Also used
+   transitively to indicate the cause of the trap. "The monitor traps all
+   input/output instructions."
+
+   This term is associated with assembler programming (`interrupt' or
+   `exception' is more common among {HLL} programmers) and appears to be
+   fading into history among programmers as the role of assembler continues
+   to shrink. However, it is still important to computer architects and
+   systems hackers (see {system}, sense 1), who use it to distinguish
+   deterministically repeatable exceptions from timing-dependent ones (such
+   as I/O interrupts).
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>trap</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>TRAP
+     Tandem Recursive Algorithm Process
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>trap</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>trap
+     n 1: a device in which something (usually an animal) can be
+          caught and penned
+     2: drain consisting of a U-shaped section of drainpipe that
+        holds liquid and so prevents a return flow of sewer gas
+     3: something (often something deceptively attractive) that
+        catches you unawares; "the exam was full of trap
+        questions"; "it was all a snare and delusion" [syn: {snare}]
+     4: a device to hurl clay pigeons into the air for trapshooters
+     5: the act of concealing yourself and lying in wait to attack
+        by surprise [syn: {ambush}, {ambuscade}, {lying in wait}]
+     6: informal terms for the mouth [syn: {cakehole}, {hole}, {maw},
+         {yap}, {gob}]
+     7: a light two-wheeled carriage
+     8: a hazard on a golf course [syn: {bunker}, {sand trap}]
+     v 1: place in a confining or embarrassing position; "He was
+          trapped in a difficult situation"
+     2: catch in or as if in a trap; "The men trap foxes" [syn: {entrap},
+         {snare}, {ensnare}, {trammel}]
+     3: hold or catch as if in a trap; "The gaps between the teeth
+        trap food particles"
+     4: to hold fast or prevent from moving; "The child was pinned
+        under the fallen tree" [syn: {pin}, {immobilize}, {immobilise}]
+     [also: {trapping}, {trapped}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

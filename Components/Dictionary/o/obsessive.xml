@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>obsessive</Word>
+  <Definitions>
+    <Definition>
+      <Word>obsessive</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>obsessional \obsessional\ obsessive \obsessive\adj.
+   Persistently and abnormally preoccupied with some
+   unreasonable idea.
+
+   Syn: compulsive.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>obsessive</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>obsessive
+     adj : characterized by or constituting an obsession; "the
+           obsessional character of his response"; "obsessive
+           gambling" [syn: {obsessional}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

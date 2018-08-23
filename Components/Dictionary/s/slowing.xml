@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>slowing</Word>
+  <Definitions>
+    <Definition>
+      <Word>slowing</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Slow \Slow\, v. t. [imp. &amp; p. p. {Slowed}; p. pr. &amp; vb. n.
+   {Slowing}.]
+   To render slow; to slacken the speed of; to retard; to delay;
+   as, to slow a steamer. --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>slowing</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>slowing
+     n : a decrease in speed; "the deceleration of the arms race"
+         [syn: {deceleration}, {retardation}] [ant: {acceleration}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

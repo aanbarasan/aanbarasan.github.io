@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>snot</Word>
+  <Definitions>
+    <Definition>
+      <Word>snot</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Snot \Snot\, v. t.
+   To blow, wipe, or clear, as the nose.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>snot</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Snot \Snot\, n. [AS. snot; akin to D. snot, LG. snotte, Dan.
+   snot, and to E. snout. See {Snout}.]
+   1. Mucus secreted in, or discharged from, the nose. [Low]
+      [1913 Webster]
+
+   2. A mean, insignificant fellow. [Low]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>snot</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>snot
+     n 1: a person regarded as arrogant and annoying [syn: {snob}, {prig}]
+     2: nasal mucus
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

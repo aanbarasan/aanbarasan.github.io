@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>streetcar</Word>
+  <Definitions>
+    <Definition>
+      <Word>streetcar</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Car \Car\, n. [OF. car, char, F. cahr, fr. L. carrus, Wagon: a
+   Celtic word; cf. W. car, Armor. karr, Ir. &amp; Gael. carr. cf.
+   {Chariot}.]
+   1. A small vehicle moved on wheels; usually, one having but
+      two wheels and drawn by one horse; a cart.
+      [1913 Webster]
+
+   2. A vehicle adapted to the rails of a railroad. [U. S.]
+      [1913 Webster]
+
+   Note: In England a railroad passenger car is called a railway
+         carriage; a freight car a goods wagon; a platform car a
+         goods truck; a baggage car a van. But styles of car
+         introduced into England from America are called cars;
+         as, tram car. Pullman car. See {Train}.
+         [1913 Webster]
+
+   3. A chariot of war or of triumph; a vehicle of splendor,
+      dignity, or solemnity. [Poetic].
+      [1913 Webster]
+
+            The gilded car of day.                --Milton.
+      [1913 Webster]
+
+            The towering car, the sable steeds.   --Tennyson.
+      [1913 Webster]
+
+   4. (Astron.) The stars also called Charles's Wain, the Great
+      Bear, or the Dipper.
+      [1913 Webster]
+
+            The Pleiads, Hyads, and the Northern Car. --Dryden.
+      [1913 Webster]
+
+   5. The cage of a lift or elevator.
+      [1913 Webster]
+
+   6. The basket, box, or cage suspended from a balloon to
+      contain passengers, ballast, etc.
+      [1913 Webster]
+
+   7. A floating perforated box for living fish. [U. S.]
+      [1913 Webster]
+
+   {Car coupling}, or {Car coupler}, a shackle or other device
+      for connecting the cars in a railway train. [U. S.]
+
+   {Dummy car} (Railroad), a car containing its own steam power
+      or locomotive.
+
+   {Freight car} (Railrood), a car for the transportation of
+      merchandise or other goods. [U. S.]
+
+   {Hand car} (Railroad), a small car propelled by hand, used by
+      railroad laborers, etc. [U. S.]
+
+   {Horse car}, or {Street car}, an omnibus car, draw by horses
+      or other power upon rails laid in the streets. [U. S.]
+
+   {Palace car}, {Drawing-room car}, {Sleeping car}, {Parlor
+   car}, etc. (Railroad), cars especially designed and furnished
+      for the comfort of travelers.
+      [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>streetcar</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>streetcar
+     n : a wheeled vehicle that runs on rails and is propelled by
+         electricity; "`tram' and `tramcar' are British terms"
+         [syn: {tram}, {tramcar}, {trolley}, {trolley car}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>smashing</Word>
+  <Definitions>
+    <Definition>
+      <Word>smashing</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Smash \Smash\ (sm[a^]sh), v. t. [imp. &amp; p. p. {Smashed}
+   (sm[a^]sht); p. pr. &amp; vb. n. {Smashing}.] [Cf. Sw. smisk a
+   blow, stroke, smiska to strike, dial. Sw. smaske to kiss with
+   a noise, and E. smack a loud kiss, a slap.]
+   1. To break in pieces by violence; to dash to pieces; to
+      crush.
+      [1913 Webster]
+
+            Here everything is broken and smashed to pieces.
+                                                  --Burke.
+      [1913 Webster]
+
+   2. (Lawn Tennis) To hit (the ball) from above the level of
+      the net with a very hard overhand stroke.
+      [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>smashing</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>smashing
+     adj : very good; "he did a bully job"; "a neat sports car"; "had a
+           great time at the party"; "you look simply smashing"
+           [syn: {bang-up}, {bully}, {corking}, {cracking}, {dandy},
+            {great}, {groovy}, {keen}, {neat}, {nifty}, {not
+           bad(p)}, {peachy}, {slap-up}, {swell}]
+     n : the act of breaking something into small pieces [syn: {shattering}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

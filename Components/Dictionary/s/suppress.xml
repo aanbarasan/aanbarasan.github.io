@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>suppress</Word>
+  <Definitions>
+    <Definition>
+      <Word>suppress</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Suppress \Sup*press"\, v. t. [imp. &amp; p. p. {Suppressed}; p. pr.
+   &amp; vb. n. {Suppressing}.] [L. suppressus, p. p. of supprimere
+   to suppress; sub under + premere, pressum, to press. See
+   {Sub-}, and {Press}.]
+   1. To overpower and crush; to subdue; to put down; to quell.
+      [1913 Webster]
+
+            Every rebellion, when it is suppressed, doth make
+            the subject weaker, and the prince stronger. --Sir
+                                                  J. Davies.
+      [1913 Webster]
+
+   2. To keep in; to restrain from utterance or vent; as, to
+      suppress the voice; to suppress a smile. --Sir W. Scott.
+      [1913 Webster]
+
+   3. To retain without disclosure; to conceal; not to reveal;
+      to prevent publication of; as, to suppress evidence; to
+      suppress a pamphlet; to suppress the truth.
+      [1913 Webster]
+
+            She suppresses the name, and this keeps him in a
+            pleasing suspense.                    --Broome.
+      [1913 Webster]
+
+   4. To stop; to restrain; to arrest the discharges of; as, to
+      suppress a diarrhea, or a hemorrhage.
+      [1913 Webster]
+
+   Syn: To repress; restrain; put down; overthrow; overpower;
+        overwhelm; conceal; stifle; stop; smother.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>suppress</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>suppress
+     v 1: to put down by force or authority; "suppress a nascent
+          uprising"; "stamp down on littering"; "conquer one's
+          desires" [syn: {stamp down}, {inhibit}, {subdue}, {conquer},
+           {curb}]
+     2: come down on or keep down by unjust use of one's authority;
+        "The government oppresses political activists" [syn: {oppress},
+         {crush}]
+     3: control and refrain from showing; of emotions [syn: {bottle
+        up}]
+     4: keep under control; keep in check; "suppress a smile"; "Keep
+        your temper"; "keep your cool" [syn: {restrain}, {keep}, {keep
+        back}, {hold back}]
+     5: put out of one's consciousness [syn: {repress}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>polecat</Word>
+  <Definitions>
+    <Definition>
+      <Word>polecat</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Polecat \Pole"cat`\, n. [Probably fr. F. poule hen, and
+   originally, a poultry cat, because it feeds on poultry. See
+   {Poultry}.] (Zo["o]l.)
+   (a) A small European carnivore of the Weasel family
+       ({Putorius f[oe]tidus}). Its scent glands secrete a
+       substance of an exceedingly disagreeable odor. Called
+       also {fitchet}, {foulmart}, and {European ferret}.
+   (b) The zorilla. The name is also applied to other allied
+       species.
+       [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>polecat</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>polecat
+     n 1: American musteline mammal typically ejecting an intensely
+          malodorous fluid when startled; in some classifications
+          put in a separate subfamily Mephitinae [syn: {skunk}, {wood
+          pussy}]
+     2: dark brown mustelid of woodlands of Eurasia that gives off
+        an unpleasant odor when threatened [syn: {fitch}, {foulmart},
+         {foumart}, {Mustela putorius}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

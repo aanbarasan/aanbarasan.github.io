@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>patented</Word>
+  <Definitions>
+    <Definition>
+      <Word>patented</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Patent \Pat"ent\, v. t. [imp. &amp; p. p. {Patented}; p. pr. &amp; vb.
+   n. {Patenting}.]
+   To grant by patent; to make the subject of a patent; to
+   secure or protect by patent; as, to patent an invention; to
+   patent public lands.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>patented</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>patented
+     adj : (of devices and processes) protected by patent; "they are
+           patented inventions"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lowkey</Word>
+  <Definitions>
+    <Definition>
+      <Word>lowkey</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>low-key \low-key\ low-keyed \low-keyed\adj.
+   restrained in style or quality; not flashy or intense;
+   understated; as, a little masterpiece of low-keyed eloquence.
+
+   Syn: subdued.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lowkey</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>low-key
+     adj : restrained in style or quality; "a little masterpiece of
+           low-keyed eloquence" [syn: {low-keyed}, {subdued}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

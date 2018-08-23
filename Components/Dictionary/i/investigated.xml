@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>investigated</Word>
+  <Definitions>
+    <Definition>
+      <Word>investigated</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Investigate \In*ves"ti*gate\, v. t. [imp. &amp; p. p.
+   {Investigated}; p. pr. &amp; vb. n. {Investigating}.] [L.
+   investigatus, p. p. of investigare to investigate; pref. in-
+   in + vestigare to track, trace. See {Vestige}.]
+   To follow up step by step by patient inquiry or observation;
+   to trace or track mentally; to search into; to inquire and
+   examine into with care and accuracy; to find out by careful
+   inquisition; as, to investigate the causes of natural
+   phenomena.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

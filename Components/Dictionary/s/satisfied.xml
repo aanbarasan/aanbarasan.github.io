@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>satisfied</Word>
+  <Definitions>
+    <Definition>
+      <Word>satisfied</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Satisfy \Sat"is*fy\, v. t. [imp. &amp; p. p. {Satisfied}; p. pr. &amp;
+   vb. n. {Satisfying}.] [OF. satisfier; L. satis enough +
+   -ficare (in comp.) to make; cf. F. satisfaire, L.
+   satisfacere. See {Sad}, a., and {Fact}.]
+   1. In general, to fill up the measure of a want of (a person
+      or a thing); hence, to grafity fully the desire of; to
+      make content; to supply to the full, or so far as to give
+      contentment with what is wished for.
+      [1913 Webster]
+
+            Death shall . . . with us two
+            Be forced to satisfy his ravenous maw. --Milton.
+      [1913 Webster]
+
+   2. To pay to the extent of claims or deserts; to give what is
+      due to; as, to satisfy a creditor.
+      [1913 Webster]
+
+   3. To answer or discharge, as a claim, debt, legal demand, or
+      the like; to give compensation for; to pay off; to
+      requite; as, to satisfy a claim or an execution.
+      [1913 Webster]
+
+   4. To free from doubt, suspense, or uncertainty; to give
+      assurance to; to set at rest the mind of; to convince; as,
+      to satisfy one's self by inquiry.
+      [1913 Webster]
+
+            The standing evidences of the truth of the gospel
+            are in themselves most firm, solid, and satisfying.
+                                                  --Atterbury.
+      [1913 Webster]
+
+   Syn: To satiate; sate; content; grafity; compensate. See
+        {Satiate}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>satisfied</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>satisfied
+     adj 1: filled with satisfaction; "a satisfied customer"
+     2: allayed; "his thirst quenched he was able to continue" [syn:
+         {quenched}, {slaked}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>satisfied</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>satisfy
+     v 1: fulfil the requirements or expectations of [syn: {fulfill},
+          {fulfil}, {live up to}] [ant: {fall short of}]
+     2: make happy or satisfied [syn: {gratify}] [ant: {dissatisfy}]
+     3: fill or meet a want or need [syn: {meet}, {fill}, {fulfill},
+         {fulfil}]
+     [also: {satisfied}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>satisfied</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>satisfied
+     See {satisfy}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

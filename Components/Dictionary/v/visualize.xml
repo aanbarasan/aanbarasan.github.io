@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>visualize</Word>
+  <Definitions>
+    <Definition>
+      <Word>visualize</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Visualize \Vis"u*al*ize\, v. t.
+   1. To make visual, or visible. [Written also {visualise}.]
+      [1913 Webster]
+
+   2. to see in the imagination; to form a mental image of.
+      [1913 Webster +PJC]
+
+            No one who has not seen them [glaciers] can possibly
+            visualize them.                       --Lubbock.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>visualize</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Visualize \Vis"u*al*ize\, v. i.
+   To form a mental image of something not present before the
+   eye at the time.
+   [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>visualize</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>visualize
+     v 1: imagine; conceive of; see in one's mind; "I can't see him on
+          horseback!"; "I can see what will happen"; "I can see a
+          risk in this strategy" [syn: {visualise}, {envision}, {project},
+           {fancy}, {see}, {figure}, {picture}, {image}]
+     2: view the outline of by means of an X-ray; "The radiologist
+        can visualize the cancerous liver" [syn: {visualise}]
+     3: for a mental picture of something that is invisible or
+        abstract; "Mathematicians often visualize" [syn: {visualise}]
+     4: make visible; "With this machine, ultrasound can be
+        visualized" [syn: {visualise}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

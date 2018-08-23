@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>judo</Word>
+  <Definitions>
+    <Definition>
+      <Word>judo</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>judo \judo\ n.
+   a sport adapted from jujitsu, originally a method of
+   self-defense without weapons, and similar to wrestling; it
+   was developed in Japan.
+   [WordNet 1.5 +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>judo</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>judo
+     n : a sport adapted from jujitsu (using principles of not
+         resisting) and similar to wrestling; developed in Japan
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

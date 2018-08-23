@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>murderer</Word>
+  <Definitions>
+    <Definition>
+      <Word>murderer</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Murderer \Mur"der*er\ (m[^u]r"d[~e]r*[~e]r), n.
+   1. One guilty of murder; a person who, in possession of his
+      reason, unlawfully kills a human being with premeditated
+      malice.
+      [1913 Webster]
+
+   2. A small cannon, formerly used for clearing a ship's decks
+      of boarders; -- called also {murdering piece}. [Obs.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>murderer</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>murderer
+     n : a criminal who commits homicide (who performs the unlawful
+         premeditated killing of another human being) [syn: {liquidator},
+          {manslayer}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

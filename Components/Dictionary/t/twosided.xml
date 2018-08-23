@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>twosided</Word>
+  <Definitions>
+    <Definition>
+      <Word>twosided</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Two-sided \Two"-sid`ed\, a.
+   1. Having two sides only; hence, double-faced; hypocritical.
+      [1913 Webster]
+
+   2. (Biol.) Symmetrical.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>twosided</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>two-sided
+     adj 1: capable of being reversed or used with either side out; "a
+            reversible jacket" [syn: {reversible}] [ant: {nonreversible}]
+     2: having two sides or parts [syn: {bilateral}] [ant: {unilateral},
+         {multilateral}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

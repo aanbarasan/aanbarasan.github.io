@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>reverend</Word>
+  <Definitions>
+    <Definition>
+      <Word>reverend</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Reverend \Rev"er*end\, a. [F. r['e]v['e]rend, L. reverendus, fr.
+   revereri. See {Revere}.]
+   Worthy of reverence; entitled to respect mingled with fear
+   and affection; venerable.
+   [1913 Webster]
+
+         A reverend sire among them came.         --Milton.
+   [1913 Webster]
+
+         They must give good example and reverend deportment in
+         the face of their children.              --Jer. Taylor.
+   [1913 Webster]
+
+   Note: This word is commonly given as a title of respect to
+         ecclesiastics. A clergyman is styled the reverend; a
+         dean, the very reverend; a bishop, the right reverend;
+         an archbishop, the most reverend.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>reverend</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>reverend
+     adj : worthy of adoration or reverence [syn: {revered}, {reverenced},
+            {sublime}, {venerated}]
+     n 1: a member of the clergy and a spiritual leader of the
+          Christian Church [syn: {clergyman}, {man of the cloth}]
+          [ant: {layman}]
+     2: a title of respect for a clergyman
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

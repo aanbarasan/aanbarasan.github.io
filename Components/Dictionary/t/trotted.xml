@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>trotted</Word>
+  <Definitions>
+    <Definition>
+      <Word>trotted</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Trot \Trot\, v. i. [imp. &amp; p. p. {Trotted}; p. pr. &amp; vb. n.
+   {Trotting}.] [OE. trotten, OF. troter, F. trotter; probably
+   of Teutonic origin, and akin to E. tread; cf. OHG. trott?n to
+   tread. See {Tread}.]
+   1. To proceed by a certain gait peculiar to quadrupeds; to
+      ride or drive at a trot. See {Trot}, n.
+      [1913 Webster]
+
+   2. Fig.: To run; to jog; to hurry.
+      [1913 Webster]
+
+            He that rises late must trot all day, and will
+            scarcely overtake his business at night. --Franklin.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>trotted</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>trot
+     n 1: a slow pace of running [syn: {jog}, {lope}]
+     2: radicals who support Trotsky's theory that socialism must be
+        established throughout the world by continuing revolution
+        [syn: {Trotskyite}, {Trotskyist}]
+     3: a literal translation used in studying a foreign language
+        (often used illicitly) [syn: {pony}, {crib}]
+     4: a gait faster than a walk; diagonally opposite legs strike
+        the ground together
+     v 1: run at a moderately swift pace [syn: {jog}, {clip}]
+     2: ride at a trot
+     3: cause to trot; "She trotted the horse home"
+     [also: {trotting}, {trotted}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>trotted</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>trotted
+     See {trot}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

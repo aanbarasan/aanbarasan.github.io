@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>knighted</Word>
+  <Definitions>
+    <Definition>
+      <Word>knighted</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Knight \Knight\, v. t. [imp. &amp; p. p. {Knighted}; p. pr. &amp; vb. n.
+   {Knighting}.]
+   To dub or create (one) a knight; -- done in England by the
+   sovereign only, who taps the kneeling candidate with a sword,
+   saying: Rise, Sir ---.
+   [1913 Webster]
+
+         A soldier, by the honor-giving hand
+         Of C[oe]ur-de-Lion knighted in the field. --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

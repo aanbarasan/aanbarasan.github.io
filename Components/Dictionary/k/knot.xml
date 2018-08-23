@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>knot</Word>
+  <Definitions>
+    <Definition>
+      <Word>knot</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Node \Node\ (n[=o]d), n. [L. nodus; perh. akin to E. knot. Cf.
+   {Noose}, {Nowed}.]
+   1. A knot, a knob; a protuberance; a swelling.
+      [1913 Webster]
+
+   2. Specifically:
+      (a) (Astron.) One of the two points where the orbit of a
+          planet, or comet, intersects the ecliptic, or the
+          orbit of a satellite intersects the plane of the orbit
+          of its primary.
+      (b) (Bot.) The joint of a stem, or the part where a leaf
+          or several leaves are inserted.
+      (c) (Dialing) A hole in the gnomon of a dial, through
+          which passes the ray of light which marks the hour of
+          the day, the parallels of the sun's declination, his
+          place in the ecliptic, etc.
+      (d) (Geom.) The point at which a curve crosses itself,
+          being a double point of the curve. See {Crunode}, and
+          {Acnode}.
+      (e) (Mech.) The point at which the lines of a funicular
+          machine meet from different angular directions; --
+          called also {knot}. --W. R. Johnson.
+      (f) (Poet.) The knot, intrigue, or plot of a piece.
+      (g) (Med.) A hard concretion or incrustation which forms
+          upon bones attacked with rheumatism, gout, or
+          syphilis; sometimes also, a swelling in the
+          neighborhood of a joint. --Dunglison.
+      (h) (Mus) One of the fixed points of a sonorous string,
+          when it vibrates by aliquot parts, and produces the
+          harmonic tones; nodal line or point.
+      (i) (Zo["o]l.) A swelling.
+          [1913 Webster]
+
+   3. (Math., Computers) A special point in a graph or diagram
+      which is attached to other points by {links}. It is often
+      labeled and represented graphically as a box or circle. A
+      node may represent any object which is related to other
+      objects in a conceptual structure that can be represented
+      as a graph, the relations being represented as links
+      between the nodes.
+      [PJC]
+
+   4. (Anat.) A small mass of tissue differing from other tissue
+      in its immediate vicinity; as, a lymph node.
+      [PJC]
+
+   {Ascending node} (Astron.), the node at which the body is
+      passing northerly, marked with the symbol [astascending],
+      called the Dragon's head. Called also {northern node}.
+
+   {Descending node}, the node at which the body is moving
+      southwardly, marked thus [astdescending], called Dragon's
+      tail.
+
+   {Line of nodes}, a straight line joining the two nodes of an
+      orbit.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>knot</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Knot \Knot\ (n[o^]t), n. [OE. knot, knotte, AS. cnotta; akin to
+   D. knot, OHG. chnodo, chnoto, G. knoten, Icel. kn[=u]tr, Sw.
+   knut, Dan. knude, and perh. to L. nodus. Cf. {Knout},
+   {Knit}.]
+   1.
+      (a) A fastening together of the parts or ends of one or
+          more threads, cords, ropes, etc., by any one of
+          various ways of tying or entangling.
+      (b) A lump or loop formed in a thread, cord, rope. etc.,
+          as at the end, by tying or interweaving it upon
+          itself.
+      (c) An ornamental tie, as of a ribbon.
+          [1913 Webster]
+
+   Note: The names of knots vary according to the manner of
+         their making, or the use for which they are intended;
+         as, dowknot, reef knot, stopper knot, diamond knot,
+         etc.
+         [1913 Webster]
+
+   2. A bond of union; a connection; a tie. ``With nuptial
+      knot.'' --Shak.
+      [1913 Webster]
+
+            Ere we knit the knot that can never be loosed. --Bp.
+                                                  Hall.
+      [1913 Webster]
+
+   3. Something not easily solved; an intricacy; a difficulty; a
+      perplexity; a problem.
+      [1913 Webster]
+
+            Knots worthy of solution.             --Cowper.
+      [1913 Webster]
+
+            A man shall be perplexed with knots, and problems of
+            business, and contrary affairs.       --South.
+      [1913 Webster]
+
+   4. A figure the lines of which are interlaced or intricately
+      interwoven, as in embroidery, gardening, etc. ``Garden
+      knots.'' --Bacon.
+      [1913 Webster]
+
+            Flowers worthy of paradise, which, not nice art
+            In beds and curious knots, but nature boon
+            Poured forth profuse on hill, and dale, and plain.
+                                                  --Milton.
+      [1913 Webster]
+
+   5. A cluster of persons or things; a collection; a group; a
+      hand; a clique; as, a knot of politicians. ``Knots of
+      talk.'' --Tennyson.
+      [1913 Webster]
+
+            His ancient knot of dangerous adversaries. --Shak.
+      [1913 Webster]
+
+            Palms in cluster, knots of Paradise.  --Tennyson.
+      [1913 Webster]
+
+            As they sat together in small, separate knots, they
+            discussed doctrinal and metaphysical points of
+            belief.                               --Sir W.
+                                                  Scott.
+      [1913 Webster]
+
+   6. A portion of a branch of a tree that forms a mass of woody
+      fiber running at an angle with the grain of the main stock
+      and making a hard place in the timber. A loose knot is
+      generally the remains of a dead branch of a tree covered
+      by later woody growth.
+      [1913 Webster]
+
+   7. A knob, lump, swelling, or protuberance.
+      [1913 Webster]
+
+            With lips serenely placid, felt the knot
+            Climb in her throat.                  --Tennyson.
+      [1913 Webster]
+
+   8. A protuberant joint in a plant.
+      [1913 Webster]
+
+   9. The point on which the action of a story depends; the gist
+      of a matter. [Obs.]
+      [1913 Webster]
+
+            I shoulde to the knotte condescend,
+            And maken of her walking soon an end. --Chaucer.
+      [1913 Webster]
+
+   10. (Mech.) See {Node}.
+       [1913 Webster]
+
+   11. (Naut.)
+       (a) A division of the log line, serving to measure the
+           rate of the vessel's motion. Each knot on the line
+           bears the same proportion to a mile that thirty
+           seconds do to an hour. The number of knots which run
+           off from the reel in half a minute, therefore, shows
+           the number of miles the vessel sails in an hour.
+           Hence:
+       (b) A nautical mile, or 6080.27 feet; as, when a ship
+           goes nautical eight miles an hour, her speed is said
+           to be eight knots.
+           [1913 Webster]
+
+   12. A kind of epaulet. See {Shoulder knot}.
+       [1913 Webster]
+
+   13. (Zo["o]l.) A sandpiper ({Tringa canutus}), found in the
+       northern parts of all the continents, in summer. It is
+       grayish or ashy above, with the rump and upper tail
+       coverts white, barred with dusky. The lower parts are
+       pale brown, with the flanks and under tail coverts white.
+       When fat it is prized by epicures. Called also {dunne}.
+       [1913 Webster]
+
+   Note: The name is said to be derived from King Canute, this
+         bird being a favorite article of food with him.
+         [1913 Webster]
+
+               The knot that called was Canutus' bird of old,
+               Of that great king of Danes his name that still
+               doth hold,
+               His appetite to please that far and near was
+               sought.                            --Drayton.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>knot</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Knot \Knot\, v. t. [imp. &amp; p. p. {Knotted}; p. pr. &amp; vb. n.
+   {Knotting}.]
+   1. To tie in or with, or form into, a knot or knots; to form
+      a knot on, as a rope; to entangle. ``Knotted curls.''
+      --Drayton.
+      [1913 Webster]
+
+            As tight as I could knot the noose.   --Tennyson.
+      [1913 Webster]
+
+   2. To unite closely; to knit together. --Bacon.
+      [1913 Webster]
+
+   3. To entangle or perplex; to puzzle. [Obs. or R.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>knot</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Knot \Knot\, v. i.
+   1. To form knots or joints, as in a cord, a plant, etc.; to
+      become entangled.
+      [1913 Webster]
+
+            Cut hay when it begins to knot.       --Mortimer.
+      [1913 Webster]
+
+   2. To knit knots for fringe or trimming.
+      [1913 Webster]
+
+   3. To copulate; -- said of toads. [R.] --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>knot</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>knot
+     n 1: a tight cluster of people or things; "a small knot of women
+          listened to his sermon"
+     2: any of various fastenings formed by looping and tying a rope
+        (or cord) upon itself or to another rope or to another
+        object
+     3: a hard cross-grained round piece of wood in a board where a
+        branch emerged; "the saw buckled when it hit a knot"
+     4: something twisted and tight and swollen; "their muscles
+        stood out in knots"; "the old man's fists were two great
+        gnarls"; "his stomach was in knots" [syn: {gnarl}]
+     5: a unit of length used in navigation; equivalent to the
+        distance spanned by one minute of arc in latitude; 1,852
+        meters [syn: {nautical mile}, {mile}, {mi}, {naut mi}, {international
+        nautical mile}, {air mile}]
+     6: soft lump or unevenness in a yarn; either an imperfection or
+        created by design [syn: {slub}, {burl}]
+     7: a sandpiper that breeds in the arctic and winters in the
+        southern hemisphere [syn: {grayback}, {Calidris canutus}]
+     v 1: make into knots; make knots out of; "She knotted der
+          fingers"
+     2: tie or fasten into a knot; "knot the shoelaces"
+     3: tangle or complicate; "a ravelled story" [syn: {ravel}, {tangle}]
+        [ant: {unravel}, {unravel}]
+     [also: {knotting}, {knotted}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

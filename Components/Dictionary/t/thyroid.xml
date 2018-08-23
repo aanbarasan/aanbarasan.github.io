@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>thyroid</Word>
+  <Definitions>
+    <Definition>
+      <Word>thyroid</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Thyroid \Thy"roid\, a. [Gr. qyreoeidh`s shield-shaped; qyreo`s a
+   large, oblong shield (from qy`ra a door) + e'i^dos form: cf.
+   F. thyro["i]de, thyr['e]o["i]de.]
+   1. Shaped like an oblong shield; shield-shaped; as, the
+      thyroid cartilage.
+      [1913 Webster]
+
+   2. (Anat.) Of or pertaining to the thyroid body, thyroid
+      cartilage, or thyroid artery; thyroideal.
+      [1913 Webster]
+
+   {Thyroid cartilage}. See under {Larynx}.
+
+   {Thyroid body}, or {Thyroid gland} (Anat.), an endocrine
+      gland having two lobes, located in the floor of the mouth
+      or the region of the larynx, which secretes two hormones
+      ({thyroxine} and {triiodothyronine}) that regulate the
+      rates of growth and metabloism. In man and most mammals it
+      is a highly vascular organ, partly surrounding the base of
+      the larynx and the upper part of the trachea. Cases of
+      hypothyroidism, where the gland is insufficiently active,
+      can be treated by administration of thyroxine or a
+      combination of thyroxine and triiodothyronine.
+
+   {Thyroid dislocation} (Surg.), dislocation of the thigh bone
+      into the thyroid foramen.
+
+   {Thyroid foramen}, the obturator foramen.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>thyroid</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>thyroid
+     adj 1: of or relating to the thyroid gland; "thyroid deficiency";
+            "thyroidal uptake" [syn: {thyroidal}]
+     2: suggestive of a thyroid disorder; "thyroid personality"
+     n : located near the base of the neck [syn: {thyroid gland}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

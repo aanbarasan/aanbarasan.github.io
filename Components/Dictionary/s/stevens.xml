@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>stevens</Word>
+  <Definitions>
+    <Definition>
+      <Word>stevens</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Stevens, PA
+  Zip code(s): 17578
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stevens</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Stevens
+     n 1: United States psychologist and psychophysicist who proposed
+          Stevens' power law to replace Fechner's law (1906-1973)
+          [syn: {Smitty Stevens}, {S. Smith Stevens}, {Stanley
+          Smith Stevens}]
+     2: United States poet (1879-1955) [syn: {Wallace Stevens}]
+     3: United States filmmaker (1905-1975) [syn: {George Stevens}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

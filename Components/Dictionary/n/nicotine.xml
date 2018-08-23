@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nicotine</Word>
+  <Definitions>
+    <Definition>
+      <Word>nicotine</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Nicotine \Nic"o*tine\ (? or ?), n. [F. nicotine. See
+   {Nicotian}.] (Chem.)
+   An alkaloid which is the active principle of tobacco
+   ({C10H14N2}). It occurs in tobacco plants ({Nicotiana
+   tabacum} and {Nicotiana rusticum}) to the extent of 2 to 8%,
+   in combination with malic acid or citric acid. It is a
+   colorless, transparent, oily liquid, having an acrid odor,
+   and an acrid burning taste. It is intensely poisonous. The
+   apparently addictive effects of tobacco smoking have been
+   ascribed largely to the effect of nicotine, and the
+   controlled administration of nicotine on various forms has
+   been used as a technique for assisting efforts to stop the
+   smoking habit. --Ure.
+   [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nicotine</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nicotine
+     n : an alkaloid poison that occurs in tobacco; used in medicine
+         and as an insecticide
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

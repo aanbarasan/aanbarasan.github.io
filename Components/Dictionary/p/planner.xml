@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>planner</Word>
+  <Definitions>
+    <Definition>
+      <Word>planner</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>PLANNER
+     
+        A language for writing {theorem prover}s by {Carl Hewitt}
+        &lt;hewitt@ai.mit.edu&gt; {MIT} 1967.  Never fully implemented.
+     
+        {CONNIVER} was an outgrowth of {PLANNER} and {microPLANNER} a
+        subset.  {PLASMA} is a PLANNER-like system modelled on
+        {Actors}.  See also {POPLER}, {QLISP}, {Scheme}.
+     
+        ["PLANNER: A Language for Proving Theorems in Robots", Carl
+        Hewitt, Proc IJCAI-69, Wash DC, May 1969].
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>planner</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Planner \Plan"ner\, n.
+   One who plans; a projector.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>planner</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>planner
+     n 1: a person who makes plans [syn: {contriver}, {deviser}]
+     2: a notebook for recording appointments and things to be done,
+        etc.
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

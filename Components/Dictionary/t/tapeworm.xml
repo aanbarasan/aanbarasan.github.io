@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tapeworm</Word>
+  <Definitions>
+    <Definition>
+      <Word>tapeworm</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tapeworm \Tape"worm`\, n. (Zo["o]l.)
+   Any one of numerous species of cestode worms belonging to
+   T[ae]nia and many allied genera. The body is long, flat, and
+   composed of numerous segments or proglottids varying in
+   shape, those toward the end of the body being much larger and
+   longer than the anterior ones, and containing the fully
+   developed sexual organs. The head is small, destitute of a
+   mouth, but furnished with two or more suckers (which vary
+   greatly in shape in different genera), and sometimes, also,
+   with hooks for adhesion to the walls of the intestines of the
+   animals in which they are parasitic. The larv[ae] (see
+   {Cysticercus}) live in the flesh of various creatures, and
+   when swallowed by another animal of the right species develop
+   into the mature tapeworm in its intestine. See Illustration
+   in Appendix.
+   [1913 Webster]
+
+   Note: Three species are common parasites of man: the {pork
+         tapeworm} ({T[ae]nia solium}), the larva of which is
+         found in pork; the {beef tapeworm} ({T[ae]nia
+         mediocanellata}), the larva of which lives in the flesh
+         of young cattle; and the {broad tapeworm}
+         ({Bothriocephalus latus}) which is found chiefly in the
+         inhabitants of the mountainous regions of Europe and
+         Asia. See also {Echinococcus}, {Cysticercus},
+         {Proglottis}, and 2d {Measles}, 4.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tapeworm</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tapeworm
+     n : ribbon-like flatworms that are parasitic in the intestines
+         of humans and other vertebrates [syn: {cestode}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

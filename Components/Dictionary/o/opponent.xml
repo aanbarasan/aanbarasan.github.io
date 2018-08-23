@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>opponent</Word>
+  <Definitions>
+    <Definition>
+      <Word>opponent</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Opponent \Op*po"nent\, a. [L. opponens, -entis, p. pr. of
+   opponere to set or place against, to oppose; ob (see {Ob-}) +
+   ponere to place. See {Position}.]
+   Situated in front; opposite; hence, opposing; adverse;
+   antagonistic. --Pope.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>opponent</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Opponent \Op*po"nent\, n.
+   1. One who opposes; an adversary; an antagonist; a foe.
+      --Macaulay.
+      [1913 Webster]
+
+   2. One who opposes in a disputation, argument, or other
+      verbal controversy; specifically, one who attacks some
+      thesis or proposition, in distinction from the respondent,
+      or defendant, who maintains it.
+      [1913 Webster]
+
+            How becomingly does Philopolis exercise his office,
+            and seasonably commit the opponent with the
+            respondent, like a long-practiced moderator! --Dr.
+                                                  H. More.
+      [1913 Webster]
+
+   Syn: Antagonist; opposer; foe. See {Adversary}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>opponent</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>opponent
+     adj : characterized by active hostility; "opponent (or opposing)
+           armies" [syn: {opposing}]
+     n 1: a contestant that you are matched against [syn: {opposition},
+           {opposite}]
+     2: someone who offers opposition [syn: {adversary}, {antagonist},
+         {opposer}, {resister}] [ant: {agonist}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

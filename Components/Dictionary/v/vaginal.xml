@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>vaginal</Word>
+  <Definitions>
+    <Definition>
+      <Word>vaginal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Vaginal \Vag"i*nal\, a. [Cf. F. vaginal.]
+   [1913 Webster]
+   1. Of or pertaining to a vagina; resembling a vagina, or
+      sheath; thecal; as, a vaginal synovial membrane; the
+      vaginal process of the temporal bone.
+      [1913 Webster]
+
+   2. (Anat.) Of or pertaining to the vagina of the genital
+      canal; as, the vaginal artery.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>vaginal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>vaginal
+     adj : of or relating to the vagina; "vaginal suppository"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

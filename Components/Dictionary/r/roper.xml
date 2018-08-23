@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>roper</Word>
+  <Definitions>
+    <Definition>
+      <Word>roper</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Roper, NC (town, FIPS 57740)
+  Location: 35.87742 N, 76.61709 W
+  Population (1990): 669 (260 housing units)
+  Area: 2.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 27970
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>roper</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Roper \Rop"er\, n.
+   1. A maker of ropes. --P. Plowman.
+      [1913 Webster]
+
+   2. One who ropes goods; a packer.
+      [1913 Webster]
+
+   3. One fit to be hanged. [Old Slang] --Douce.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>roper</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>roper
+     n 1: a decoy who lures customers into a gambling establishment
+          (especially one with a fixed game)
+     2: a cowboy who uses a lasso to rope cattle or horses
+     3: a craftsman who makes ropes [syn: {ropemaker}, {rope-maker}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

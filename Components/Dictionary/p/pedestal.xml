@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pedestal</Word>
+  <Definitions>
+    <Definition>
+      <Word>pedestal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pedestal \Ped"es*tal\, n. [Sp. pedestal; cf. F. pi['e]destal,
+   It. piedestallo; fr. L. es, pedis, foot + OHG. stal standing
+   place, station, place, akin to E. stall. See {Foot}, and
+   {Stall}, and {Footstall}.]
+   1. (Arch.) The base or foot of a column, statue, vase, lamp,
+      or the like; the part on which an upright work stands. It
+      consists of three parts, the base, the die or dado, and
+      the cornice or surbase molding. See Illust. of {Column}.
+      [1913 Webster]
+
+            Build him a pedestal, and say, ``Stand there!''
+                                                  --Cowper.
+      [1913 Webster]
+
+   2.
+      (a) (Railroad Cars) A casting secured to the frame of a
+          truck and forming a jaw for holding a journal box.
+      (b) (Mach.) A pillow block; a low housing.
+      (c) (Bridge Building) An iron socket, or support, for the
+          foot of a brace at the end of a truss where it rests
+          on a pier.
+          [1913 Webster]
+
+   {Pedestal coil} (steam Heating), a group of connected
+      straight pipes arranged side by side and one above
+      another, -- used in a radiator.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pedestal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pedestal
+     n 1: a support or foundation; "the base of the lamp" [syn: {base},
+           {stand}]
+     2: a position of great esteem (and supposed superiority); "they
+        put him on a pedestal"
+     3: an architectural support or base (as for a column or statue)
+        [syn: {plinth}, {footstall}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

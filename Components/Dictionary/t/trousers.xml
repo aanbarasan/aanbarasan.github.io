@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>trousers</Word>
+  <Definitions>
+    <Definition>
+      <Word>trousers</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Trousers \Trou"sers\, n. pl. [OF. trousses breeches worn by
+   pages, from trousse, trosse, a bundle, a truss. See {Truss},
+   and cf. {Trossers}, {Trouse}.]
+   A garment worn by men and boys, extending from the waist to
+   the knee or to the ankle, and covering each leg separately.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>trousers</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>trousers
+     n : (usually in the plural) a garment extending from the waist
+         to the knee or ankle, covering each leg separately; "he
+         had a sharp crease in his trousers" [syn: {pants}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

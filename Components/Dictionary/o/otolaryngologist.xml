@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>otolaryngologist</Word>
+  <Definitions>
+    <Definition>
+      <Word>otolaryngologist</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>otolaryngologist
+     n : a specialist in the disorders of the ear or nose or throat
+         [syn: {ENT man}, {ear-nose-and-throat doctor}, {otorhinolaryngologist},
+          {rhinolaryngologist}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

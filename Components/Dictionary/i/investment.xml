@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>investment</Word>
+  <Definitions>
+    <Definition>
+      <Word>investment</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Investment \In*vest"ment\, n.
+   1. The act of investing, or the state of being invested.
+      [1913 Webster]
+
+   2. That with which anyone is invested; a vestment.
+      [1913 Webster]
+
+            Whose white investments figure innocence. --Shak.
+      [1913 Webster]
+
+   3. (Mil.) The act of surrounding, blocking up, or besieging
+      by an armed force, or the state of being so surrounded.
+      [1913 Webster]
+
+            The capitulation was signed by the commander of the
+            fort within six days after its investments.
+                                                  --Marshall.
+      [1913 Webster]
+
+   4. The laying out of money in the purchase of some species of
+      property; also, the amount of money invested, or that in
+      which money is invested.
+      [1913 Webster]
+
+            Before the investment could be made, a change of the
+            market might render it ineligible.    --A. Hamilton.
+      [1913 Webster]
+
+            An investment in ink, paper, and steel pens.
+                                                  --Hawthorne.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>investment</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>investment
+     n 1: the act of investing; laying out money or capital in an
+          enterprise with the expectation of profit [syn: {investing}]
+     2: money that is invested with an expectation of profit [syn: {investment
+        funds}]
+     3: outer layer or covering of an organ or part or organism
+     4: the act of putting on robes or vestments
+     5: the ceremonial act of clothing someone in the insignia of an
+        office; the formal promotion of a person to an office or
+        rank [syn: {investiture}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

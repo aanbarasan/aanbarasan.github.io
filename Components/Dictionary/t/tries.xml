@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tries</Word>
+  <Definitions>
+    <Definition>
+      <Word>tries</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Trigonometry \Trig`o*nom"e*try\, n.; pl. {-tries}. [Gr. ? a
+   triangle + -metry: cf. F. trigonom['e]trie. See {Trigon}.]
+   1. That branch of mathematics which treats of the relations
+      of the sides and angles of triangles, which the methods of
+      deducing from certain given parts other required parts,
+      and also of the general relations which exist between the
+      trigonometrical functions of arcs or angles.
+      [1913 Webster]
+
+   2. A treatise in this science.
+      [1913 Webster]
+
+   {Analytical trigonometry}, that branch of trigonometry which
+      treats of the relations and properties of the
+      trigonometrical functions.
+
+   {Plane trigonometry}, and {Spherical trigonometry}, those
+      branches of trigonometry in which its principles are
+      applied to plane triangles and spherical triangles
+      respectively.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

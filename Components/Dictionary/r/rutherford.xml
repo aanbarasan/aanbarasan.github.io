@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rutherford</Word>
+  <Definitions>
+    <Definition>
+      <Word>rutherford</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Rutherford, NJ (borough, FIPS 65280)
+  Location: 40.81985 N, 74.10705 W
+  Population (1990): 17790 (7220 housing units)
+  Area: 7.3 sq km (land), 0.3 sq km (water)
+  Zip code(s): 07070
+Rutherford, PA (CDP, FIPS 66864)
+  Location: 40.26885 N, 76.76820 W
+  Population (1990): 3481 (1404 housing units)
+  Area: 3.0 sq km (land), 0.0 sq km (water)
+Rutherford, TN (town, FIPS 65760)
+  Location: 36.12542 N, 88.99279 W
+  Population (1990): 1303 (590 housing units)
+  Area: 5.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 38369
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rutherford</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rutherford
+     n 1: a unit strength of a radioactive source equal to one million
+          disintegrations per second
+     2: British chemist who isolated nitrogen (1749-1819) [syn: {Daniel
+        Rutherford}]
+     3: British physicist (born in New Zealand) who discovered the
+        atomic nucleus and proposed a nuclear model of the atom
+        (1871-1937) [syn: {Ernest Rutherford}, {First Baron
+        Rutherford}, {First Baron Rutherford of Nelson}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

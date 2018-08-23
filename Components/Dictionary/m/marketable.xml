@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>marketable</Word>
+  <Definitions>
+    <Definition>
+      <Word>marketable</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Marketable \Mar"ket*a*ble\, a.
+   1. Fit to be offered for sale in a market; such as may be
+      justly and lawfully sold; as, dacayed provisions are not
+      marketable.
+      [1913 Webster]
+
+   2. Current in market; as, marketable value.
+      [1913 Webster]
+
+   3. Wanted by purchasers; salable; as, furs are not marketable
+      in that country.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>marketable</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>marketable
+     adj 1: in demand by especially employers; "marketable skills" [syn:
+             {in demand(p)}]
+     2: fit to be offered for sale; "marketable produce" [syn: {merchantable},
+         {sellable}, {vendable}, {vendible}]
+     3: capable of being marketed; "the marketable surplus"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

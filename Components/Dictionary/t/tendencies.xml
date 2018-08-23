@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tendencies</Word>
+  <Definitions>
+    <Definition>
+      <Word>tendencies</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tendency \Tend"en*cy\, n.; pl. {Tendencies}. [L. tendents,
+   -entis, p. pr. of tendere: cf. F. tendance. See {Tend} to
+   move.]
+   Direction or course toward any place, object, effect, or
+   result; drift; causal or efficient influence to bring about
+   an effect or result.
+   [1913 Webster]
+
+         Writings of this kind, if conducted with candor, have a
+         more particular tendency to the good of their country.
+                                                  --Addison.
+   [1913 Webster]
+
+         In every experimental science, there is a tendency
+         toward perfection.                       --Macaulay.
+   [1913 Webster]
+
+   Syn: Disposition; inclination; proneness; drift; scope; aim.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

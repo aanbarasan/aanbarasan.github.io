@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>outage</Word>
+  <Definitions>
+    <Definition>
+      <Word>outage</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>outage
+     n 1: the amount of something (as whiskey or oil) lost in storage
+          or transportation
+     2: a temporary suspension of operation (as of computers);
+        "there will be a network outage from 8 to 10 a.m."
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

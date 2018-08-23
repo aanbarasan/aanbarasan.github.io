@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>khan</Word>
+  <Definitions>
+    <Definition>
+      <Word>khan</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Khan \Khan\, n. [Pers. &amp; Tart. kh[=a]n.] [Also {kan}, {kaun}.]
+   A king; a prince; a chief; a governor; -- so called among the
+   Tartars, Turks, and Persians, and in countries now or
+   formerly governed by them.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>khan</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Khan \Khan\, n. [Per. kh[=a]n, kh[=a]nah, house, tent, inn.]
+   An Eastern inn or caravansary. [Written also {kawn}.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>khan</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cham \Cham\ (k[a^]m), n. [See {Khan}.]
+   The sovereign prince of Tartary; -- now usually written
+   {khan}. --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>khan</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>khan
+     n 1: a title given to rulers or other important people in Asian
+          countries
+     2: an inn in some Eastern countries with a large courtyard that
+        provides accommodation for caravans [syn: {caravansary}, {caravanserai},
+         {caravan inn}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

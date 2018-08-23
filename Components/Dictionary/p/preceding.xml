@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>preceding</Word>
+  <Definitions>
+    <Definition>
+      <Word>preceding</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Precede \Pre*cede"\, v. t. [imp. &amp; p. p. {Preceded}; p. pr. &amp;
+   vb. n. {Preceding}.] [L. praecedere, praecessum; prae before
+   + cedere to go, to be in motion: cf. F. pr['e]ceder. See
+   {Pre-}, and {Cede}.]
+   1. To go before in order of time; to occur first with
+      relation to anything. ``Harm precedes not sin.'' --Milton.
+      [1913 Webster]
+
+   2. To go before in place, rank, or importance.
+      [1913 Webster]
+
+   3. To cause to be preceded; to preface; to introduce; -- used
+      with by or with before the instrumental object. [R.]
+      [1913 Webster]
+
+            It is usual to precede hostilities by a public
+            declaration.                          --Kent.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>preceding</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Preceding \Pre*ced"ing\, a.
+   1. Going before; -- opposed to following.
+      [1913 Webster]
+
+   2. (Astron.) In the direction toward which stars appear to
+      move. See {Following}, 2.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>preceding</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>preceding
+     adj 1: existing or coming before [syn: {preceding(a)}] [ant: {succeeding(a)}]
+     2: preceding in time or order [syn: {antecedent}] [ant: {subsequent}]
+     3: of a person who has held and relinquished a position or
+        office; "a retiring member of the board" [syn: {past(a)},
+        {preceding(a)}, {retiring(a)}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>salty</Word>
+  <Definitions>
+    <Definition>
+      <Word>salty</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Salty \Salt"y\, a.
+   Somewhat salt; saltish.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>salty</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>salty
+     adj 1: engagingly stimulating or provocative; "a piquant wit";
+            "salty language" [syn: {piquant}]
+     2: containing salt; "a saline solution"; "salty tears" [syn: {saline}]
+     3: one of the four basic taste sensations; like the taste of
+        sea water [syn: {salt}]
+     [also: {saltiest}, {saltier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

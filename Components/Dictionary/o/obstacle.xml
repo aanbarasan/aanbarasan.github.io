@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>obstacle</Word>
+  <Definitions>
+    <Definition>
+      <Word>obstacle</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Obstacle \Ob"sta*cle\, n. [F., fr. L. obstaculum, fr. obstare to
+   withstand, oppose; ob (see {Ob-}) + stare to stand. See
+   {Stand}. and cf. {Oust}, v.]
+   That which stands in the way, or opposes; anything that
+   hinders progress; a hindrance; an obstruction, physical or
+   moral.
+   [1913 Webster]
+
+         If all obstacles were cut away.
+         And that my path were even to the crown. --Shak.
+   [1913 Webster]
+
+   Syn: Impediment; obstuction; hindrance; difficulty. See
+        {Impediment}, and {Obstruction}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>obstacle</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>obstacle
+     n 1: something immaterial that stands in the way and must be
+          circumvented or surmounted; "lack of immagination is an
+          obstacle to one's advancement"; "the poverty of a
+          district is an obstacle to good education"; "the
+          filibuster was a major obstruction to the success of
+          their plan" [syn: {obstruction}]
+     2: an obstruction that stands in the way (and must be removed
+        or surmounted or circumvented)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

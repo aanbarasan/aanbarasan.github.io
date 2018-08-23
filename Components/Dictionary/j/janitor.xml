@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>janitor</Word>
+  <Definitions>
+    <Definition>
+      <Word>janitor</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Janitor \Jan"i*tor\, n. [L., fr. janua a door.]
+   1. A door-keeper; a porter. [Archaic]
+      [1913 Webster PJC]
+
+   2. One who is employed to care for a public building, or a
+      building occupied for offices, suites of rooms, etc.; a
+      caretaker; -- the duties may include removal of trash,
+      cleaning of the rooms and public areas, and minor repairs.
+      [1913 Webster PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>janitor</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>janitor
+     n : someone employed to clean and maintain a building
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

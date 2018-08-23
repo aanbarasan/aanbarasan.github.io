@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>vulcan</Word>
+  <Definitions>
+    <Definition>
+      <Word>vulcan</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>VULCAN
+     
+        1. Wayne Ratliff ca. 1980.  CP/M port of JPLDIS which evolved
+        into dBASE II.
+     
+        2. The dBASE-like interpreter and compiler sold by RSPI with
+        their Emerald Bay product.  [same as 1?]
+     
+        3. Early string manipulation language.  "VULCAN - A String
+        Handling Language with Dynamic Storage Control", E.P. Storm et
+        al, Proc FJCC 37, AFIPS (Fall 1970).
+     
+        4. Kahn et al, Xerox PARC.  Concurrent object orientation and
+        logic programming.  An object-oriented preprocessor for FCP.
+        "Vulcan: Logical Concurrent Objects", K. Kahn et al in
+        Research Directions in Object- Oriented Programming,
+        A.B. Shriver et al eds, MIT Press 1987.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>vulcan</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Vulcan, MI
+  Zip code(s): 49892
+Vulcan, MO
+  Zip code(s): 63675
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>vulcan</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Vulcan \Vul"can\, n. [L. Vulcanus, Volcanus: cf. Skr. ulk[=a] a
+   firebrand, meteor. Cf. {Volcano}.] (Rom. Myth.)
+   The god of fire, who presided over the working of metals; --
+   answering to the Greek Heph[ae]stus.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>vulcan</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Vulcan
+     n : (Roman mythology) god of fire and metal working; counterpart
+         of Greek Hephaestus
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

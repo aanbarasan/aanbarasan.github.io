@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>neutron</Word>
+  <Definitions>
+    <Definition>
+      <Word>neutron</Word>
+      <Dictionary>
+        <Id>elements</Id>
+        <Name>Elements database 20001107</Name>
+      </Dictionary>
+      <WordDefinition>neutron
+Weight: 1.6749286*10^-27kg
+A neutral hadron that is stable in the atomic nucleus but decays into a
+protron, an electron and an antineutrino with a mean life of 12 minutes
+outside the nucleus. Neutrons exist in all atomic nuclei except normal
+hydrogen. Reported in 1932 by James Chadwick.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>neutron</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>neutron
+     n : an elementary particle with 0 charge and mass about equal to
+         a proton; enters into the structure of the atomic nucleus
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

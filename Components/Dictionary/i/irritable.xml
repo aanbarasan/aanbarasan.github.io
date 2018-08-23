@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>irritable</Word>
+  <Definitions>
+    <Definition>
+      <Word>irritable</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Irritable \Ir"ri*ta*ble\, a. [L. irritabilis: cf. F. irritable.
+   See {Irritate}.]
+   [1913 Webster]
+   1. Capable of being irritated.
+      [1913 Webster]
+
+   2. Very susceptible of anger or passion; easily inflamed or
+      exasperated; as, an irritable temper.
+      [1913 Webster]
+
+            Vicious, old, and irritable.          --Tennyson.
+      [1913 Webster]
+
+   3. (Physiol.) Endowed with irritability; susceptible of
+      irritation; capable of being excited to action by the
+      application of certain stimuli.
+      [1913 Webster]
+
+   4. (Med.) Susceptible of irritation; unduly sensitive to
+      irritants or stimuli. See {Irritation}, n., 3.
+
+   Syn: Excitable; irascible; touchy; fretful; peevish.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>irritable</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>irritable
+     adj 1: easily irritated or annoyed; "an incorrigibly fractious
+            young man"; "not the least nettlesome of his
+            countrymen" [syn: {cranky}, {fractious}, {nettlesome},
+             {peevish}, {peckish}, {pettish}, {petulant}, {testy},
+             {tetchy}, {techy}]
+     2: abnormally sensitive to a stimulus
+     3: capable of responding to stimuli [syn: {excitable}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

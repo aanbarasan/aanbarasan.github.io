@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pastries</Word>
+  <Definitions>
+    <Definition>
+      <Word>pastries</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pastry \Pas"try\, n.; pl. {Pastries}.
+   1. The place where pastry is made. [Obs.] --Shak.
+      [1913 Webster]
+
+   2. Articles of food made of paste, or having a crust made of
+      paste, as pies, tarts, etc.
+      [1913 Webster]
+
+   {Pastry cook}, one whose occupation is to make pastry; as,
+      the pastry cook of a hotel.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

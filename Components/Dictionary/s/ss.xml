@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ss</Word>
+  <Definitions>
+    <Definition>
+      <Word>ss</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>SS
+     Single Sided [disk] (FDD)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ss</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>SS
+     Spread Spectrum (WLAN)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ss</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>SS
+     Stack Segment [register] (CPU, Intel, assembler)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ss</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>SS
+     n 1: the United States intelligence agency that protects current
+          and former presidents and vice presidents and their
+          immediate families and protects distinguished foreign
+          visitors; detects and apprehends counterfeiters;
+          suppresses forgery of government securities and
+          documents [syn: {United States Secret Service}, {US
+          Secret Service}, {USSS}, {Secret Service}]
+     2: special police force in Nazi Germany founded as a personal
+        bodyguard for Adolf Hitler in 1925; the SS administered
+        the concentration camps [syn: {Schutzstaffel}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

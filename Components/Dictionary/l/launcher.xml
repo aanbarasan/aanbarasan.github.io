@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>launcher</Word>
+  <Definitions>
+    <Definition>
+      <Word>launcher</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>launcher \launcher\ n.
+   1. a device capable of launching a rocket.
+
+   Syn: rocket launcher.
+        [WordNet 1.5]
+
+   2. A device which launches aircraft from an aircraft carrier;
+      -- it provides additional velocity to the airplane, to
+      supplement that from the airplane's engines, so that the
+      airplane rapidly achieves a velocity sufficient to sustain
+      it in flight when taking off.
+
+   Syn: catapult.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>launcher</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>launcher
+     n 1: armament in the form of a device capable of launching a
+          rocket [syn: {rocket launcher}]
+     2: a device that launches aircraft from a warship [syn: {catapult}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

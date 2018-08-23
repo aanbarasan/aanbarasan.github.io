@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>julian</Word>
+  <Definitions>
+    <Definition>
+      <Word>julian</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Julian, CA (CDP, FIPS 37582)
+  Location: 33.07312 N, 116.58739 W
+  Population (1990): 1284 (775 housing units)
+  Area: 20.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 92036
+Julian, NC
+  Zip code(s): 27283
+Julian, NE (village, FIPS 24915)
+  Location: 40.52033 N, 95.86715 W
+  Population (1990): 71 (42 housing units)
+  Area: 0.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 68379
+Julian, PA
+  Zip code(s): 16844
+Julian, WV
+  Zip code(s): 25529
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>julian</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Julian \Jul"ian\ (?; 277) a. [L. Julianus, fr. Julius. Cf.
+   {July}, {Gillian}.]
+   Relating to, or derived from, Julius C[ae]sar.
+   [1913 Webster]
+
+   {Julian calendar}, the calendar as adjusted by Julius
+      C[ae]sar, in which the year was made to consist of 365
+      days, each fourth year having 366 days.
+
+   {Julian epoch}, the epoch of the commencement of the Julian
+      calendar, or 46 b. c.
+
+   {Julian period}, a chronological period of 7,980 years,
+      combining the solar, lunar, and indiction cycles (28 x 19
+      x 15 = 7,980), being reckoned from the year 4713 B. C.,
+      when the first years of these several cycles would
+      coincide, so that if any year of the period be divided by
+      28, 19, or 15, the remainder will be the year of the
+      corresponding cycle. The Julian period was proposed by
+      Scaliger, to remove or avoid ambiguities in chronological
+      dates, and was so named because composed of Julian years.
+      
+
+   {Julian year}, the year of 365 days, 6 hours, adopted in the
+      Julian calendar, and in use until superseded by the
+      Gregorian year, as established in the reformed or
+      Gregorian calendar.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>julian</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Julian
+     adj : of or relating to or characteristic of Julius Caesar; "the
+           Julian calendar"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

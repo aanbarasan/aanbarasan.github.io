@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>repeater</Word>
+  <Definitions>
+    <Definition>
+      <Word>repeater</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>repeater
+     
+        &lt;networking, communications&gt; A network or communications
+        device which propagates electrical signals from one cable to
+        another, amplifying them to restore them to full strength in
+        the process.  Repeaters are used to counter the attenuation
+        which occurs when signals travel long distances (e.g. across
+        an ocean).
+     
+        A network repeater is less intelligent than a {bridge},
+        {gateway} or {router} since it works at the {physical layer}.
+     
+        (1998-07-16)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>repeater</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Repeater \Re*peat"er\ (-?r), n.
+   One who, or that which, repeats. Specifically:
+   (a) A watch with a striking apparatus which, upon pressure of
+       a spring, will indicate the time, usually in hours and
+       quarters.
+   (b) A repeating firearm.
+   (c) (Teleg.) An instrument for resending a telegraphic
+       message automatically at an intermediate point.
+   (d) A person who votes more than once at an election. [U.S.]
+   (e) See {Circulating decimal}, under {Decimal}.
+   (f) (Naut.) A pennant used to indicate that a certain flag in
+       a hoist of signal is duplicated. --Ham. Nav. Encyc.
+       [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>repeater</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>repeater
+     n 1: a person who repeats; "the audience consisted largely of
+          repeaters who had seen the movie many times"
+     2: someone who is repeatedly arrested for criminal behavior
+        (especially for the same criminal behavior) [syn: {recidivist},
+         {habitual criminal}]
+     3: a firearm that can fire several rounds without reloading
+        [syn: {repeating firearm}]
+     4: (electronics) electronic device that amplifies a signal
+        before transmitting it again; "repeaters can be used in
+        computer networks to extend cabling distances"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

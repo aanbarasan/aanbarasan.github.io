@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>workaday</Word>
+  <Definitions>
+    <Definition>
+      <Word>workaday</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Workaday \Work"a*day`\, n.
+   See {Workyday}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>workaday</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Workyday \Work"y*day`\, n. [See {Workday}, {Workingday}.]
+   A week day or working day, as distinguished from Sunday or a
+   holiday. Also used adjectively. [Written also {workiday}, and
+   {workaday}.] [Obs. or Colloq.]
+   [1913 Webster]
+
+         Prithee, tell her but a workyday fortune. --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>workaday</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>workaday
+     adj : found in the ordinary course of events; "a placid everyday
+           scene"; "it was a routine day"; "there's nothing quite
+           like a real...train conductor to add color to a
+           quotidian commute"- Anita Diamant [syn: {everyday}, {mundane},
+            {quotidian}, {routine}, {unremarkable}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

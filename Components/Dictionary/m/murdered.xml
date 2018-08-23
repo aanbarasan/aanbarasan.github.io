@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>murdered</Word>
+  <Definitions>
+    <Definition>
+      <Word>murdered</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Murder \Mur"der\, v. t. [imp. &amp; p. p. {Murdered}
+   (m[^u]r"d[~e]rd); p. pr. &amp; vb. n. {Murdering}.] [OE.
+   mortheren, murtheren, AS. myr[eth]rian; akin to OHG.
+   murdiren, Goth. ma['u]r[thorn]rjan. See {Murder}, n.]
+   1. To kill with premediated malice; to kill (a human being)
+      willfully, deliberately, and unlawfully. See {Murder}, n.
+      [1913 Webster]
+
+   2. To destroy; to put an end to.
+      [1913 Webster]
+
+            [Canst thou] murder thy breath in middle of a word?
+                                                  --Shak.
+      [1913 Webster]
+
+   3. To mutilate, spoil, or deform, as if with malice or
+      cruelty; to mangle; as, to murder the king's English.
+      [1913 Webster]
+
+   Syn: To kill; assassinate; slay. See {Kill}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>murdered</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>murdered \murdered\ adj.
+   killed unlawfully; as, the murdered woman.
+   [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>murdered</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>murdered
+     adj : killed unlawfully; "the murdered woman"; "lay a wreath on
+           murdered Lincoln's bier"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

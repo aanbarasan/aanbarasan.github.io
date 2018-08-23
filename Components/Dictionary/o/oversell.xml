@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>oversell</Word>
+  <Definitions>
+    <Definition>
+      <Word>oversell</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Oversell \O`ver*sell`\, v. t. [imp. &amp; p. p. {Oversold}; p. pr. &amp;
+   vb. n. {Overselling}. ]
+   1. To sell for a higher price than; to exceed in selling
+      price.
+      [1913 Webster]
+
+            One whose beauty
+            Would oversell all Italy.             --Beau. &amp; Fl.
+      [1913 Webster]
+
+   2. To sell beyond means of delivery. [Brokers' Cant]
+      [1913 Webster]
+
+   {Oversold market} (Brokers' Cant), a market in which stocks
+      or commodities have been sold ``short'' to such an extent
+      that it is difficult to obtain them for delivery.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

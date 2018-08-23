@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>turnon</Word>
+  <Definitions>
+    <Definition>
+      <Word>turnon</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>turn on
+     v 1: cause to operate by flipping a switch; "switch on the
+          light"; "turn on the stereo" [syn: {switch on}] [ant: {switch
+          off}]
+     2: be contingent on; "The outcomes rides on the results of the
+        electin"; "Your grade will depends on your homework" [syn:
+         {depend on}, {devolve on}, {depend upon}, {ride}, {hinge
+        on}, {hinge upon}]
+     3: produce suddenly or automatically; "Turn on the charm";
+        "turn on the waterworks"
+     4: become hostile towards; "The dog suddenly turned on the
+        mailman"
+     5: cause to be agitated, excited, or roused; "The speaker
+        charged up the crowd with his inflammatory remarks" [syn:
+        {agitate}, {rouse}, {charge}, {commove}, {excite}, {charge
+        up}] [ant: {calm}]
+     6: stimulate sexually; "This movie usually arouses the male
+        audience" [syn: {arouse}, {sex}, {excite}, {wind up}]
+     7: get high, stoned, or drugged; "He trips every weekend" [syn:
+         {trip}, {trip out}, {get off}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>turnon</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>turn-on
+     n : something causing excitement or stimulating interest
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

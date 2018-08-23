@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>outrageous</Word>
+  <Definitions>
+    <Definition>
+      <Word>outrageous</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Outrageous \Out*ra"geous\ (out*r[=a]"j[u^]s), a. [OF. outrageus,
+   F. outrageux. See {Outrage}, n.]
+   Of the nature of an outrage; exceeding the limits of right,
+   reason, or decency; such as to cause outrage; involving or
+   doing an outrage; furious; violent; atrocious. ``Outrageous
+   weeping.'' --Chaucer. ``The most outrageous villainies.''
+   --Sir P. Sidney. ``The vile, outrageous crimes.'' --Shak.
+   ``Outrageous panegyric.'' --Dryden.
+   [1913 Webster]
+
+   Syn: Violent; furious; exorbitant; excessive; atrocious;
+        monstrous; wanton; nefarious; heinous.
+        [1913 Webster] -- {Out*ra"geous*ly}
+        (out*r[=a]"j[u^]s*l[y^]), adv. -- {Out*ra"geous*ness},
+        n.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>outrageous</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>outrageous
+     adj 1: grossly offensive to decency or morality; causing horror;
+            "subjected to outrageous cruelty"; "a hideous pattern
+            of injustice"; "horrific conditions in the mining
+            industry" [syn: {hideous}, {horrid}, {horrific}]
+     2: greatly exceeding bounds of reason or moderation;
+        "exorbitant rent"; "extortionate prices"; "spends an
+        outrageous amount on entertainment"; "usorious interest
+        rate"; "unconscionable spending" [syn: {exorbitant}, {extortionate},
+         {steep}, {unconscionable}, {usurious}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

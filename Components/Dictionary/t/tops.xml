@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tops</Word>
+  <Definitions>
+    <Definition>
+      <Word>tops</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>TOPS
+     Timesharing / Total OPerating System (DEC, OS)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tops</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tops
+     adj : of the highest quality; "an ace reporter"; "a crack shot";
+           "a first-rate golfer"; "a super party"; "played
+           top-notch tennis"; "an athlete in tiptop condition";
+           "she is absolutely tops" [syn: {ace}, {A-one}, {crack},
+            {first-rate}, {super}, {tiptop}, {topnotch}, {tops(p)}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>poisonous</Word>
+  <Definitions>
+    <Definition>
+      <Word>poisonous</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Poisonous \Poi"son*ous\, a.
+   Having the qualities or effects of poison; venomous; baneful;
+   corrupting; noxious. --Shak. -- {Poi"son*ous*ly}, adv. --
+   {Poi"son*ous*ness}, n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>poisonous</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>poisonous
+     adj 1: having the qualities or effects of a poison [syn: {toxicant}]
+     2: not safe to eat
+     3: marked by deep ill will; deliberately harmful; "a malevolent
+        lie"; "poisonous hate...in his eyes"- Ernest Hemingway;
+        "venomous criticism"; "vicious gossip" [syn: {venomous}, {vicious}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

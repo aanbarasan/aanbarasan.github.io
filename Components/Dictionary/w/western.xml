@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>western</Word>
+  <Definitions>
+    <Definition>
+      <Word>western</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Western, NE (village, FIPS 52295)
+  Location: 40.39311 N, 97.19935 W
+  Population (1990): 264 (133 housing units)
+  Area: 1.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 68464
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>western</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Western \West"ern\, a.
+   [1913 Webster]
+   1. Of or pertaining to the west; situated in the west, or in
+      the region nearly in the direction of west; being in that
+      quarter where the sun sets; as, the western shore of
+      France; the western ocean.
+      [1913 Webster]
+
+            Far o'er the glowing western main.    --Keble.
+      [1913 Webster]
+
+   2. Moving toward the west; as, a ship makes a western course;
+      coming from the west; as, a western breeze.
+      [1913 Webster]
+
+   {Western Church}. See {Latin Church}, under {Latin}.
+
+   {Western empire} (Hist.), the western portion of the Roman
+      empire, as divided, by the will of Theodosius the Great,
+      between his sons Honorius and Arcadius, a. d. 395.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>western</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>western
+     adj 1: relating to or characteristic of regions of western parts of
+            the world; "the Western Hemisphere"; "Western Europe";
+            "the Western Roman Empire" [ant: {eastern}]
+     2: lying in or toward the west [syn: {westerly}]
+     3: of or characteristic of regions of the United States west of
+        the Mississippi River; "a Western ranch" [ant: {eastern}]
+     4: lying toward or situated in the west; "our company's western
+        office"
+     5: of wind; from the west [syn: {westerly}]
+     n 1: a film about life in the western United States during the
+          period of exploration and development [syn: {horse opera}]
+     2: a sandwich made from a western omelet [syn: {western
+        sandwich}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

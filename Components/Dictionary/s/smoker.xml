@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>smoker</Word>
+  <Definitions>
+    <Definition>
+      <Word>smoker</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Smoker \Smok"er\, n.
+   1. One who dries or preserves by smoke.
+      [1913 Webster]
+
+   2. One who smokes tobacco or the like.
+      [1913 Webster]
+
+   3. A smoking car or compartment. [U. S.]
+      [1913 Webster]
+
+   4. A gathering for smoking and social intercourse. [Colloq.]
+
+            That evening A Company had a ``smoker'' in one of
+            the disused huts of Shorncliffe Camp. --Strand Mag.
+      [Webster 1913 Suppl.]
+
+   {black smoker}, a vent at the bottom of the ocean, usually at
+      a mid-ocean ridge, through which large quantities of water
+      carrying minerals flow, producing a jet of fluid with the
+      appearance of black smoke. The ocean water in crevices
+      below the vent is heated to temperatures near 400[deg] C,
+      and dissolves quantities of metal salts, such as of
+      copper, zinc, gold, and manganese. When the saturated
+      mineral solutions exit the vent, cooling by contact with
+      the ocean causes the metals to precipitate, mainly as
+      sulfide or sulfate salts. Unusual forms of life such as
+      {tube worms} have been found to live in the areas near
+      black smokers. Additional information is available from [a
+      HREF="http:]/www.nhm.ac.uk/science/mineral/project5/"&gt;The
+      Natural History Museum of London and [a
+      HREF="http:]/www.amnhonline.org/expeditions/blacksmokers/"&gt;The
+      American Museum of Natural History Expeditions.
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>smoker</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>smoker
+     n 1: a person who smokes tobacco [syn: {tobacco user}] [ant: {nonsmoker}]
+     2: a party for men only (or one considered suitable for men
+        only) [syn: {stag party}]
+     3: a passenger car for passengers who wish to smoke [syn: {smoking
+        car}, {smoking carriage}, {smoking compartment}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

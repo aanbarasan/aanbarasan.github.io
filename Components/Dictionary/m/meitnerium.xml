@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>meitnerium</Word>
+  <Definitions>
+    <Definition>
+      <Word>meitnerium</Word>
+      <Dictionary>
+        <Id>elements</Id>
+        <Name>Elements database 20001107</Name>
+      </Dictionary>
+      <WordDefinition>meitnerium
+Symbol: Mt
+Atomic number: 109
+Atomic weight: (266)
+Half-life of approximately 5ms. The creation of this element demonstrated
+that fusion techniques could indeed be used to make new, heavy nuclei.
+Made and identified by physicists of the Heavy Ion Research Laboratory,
+Darmstadt, West Germany in 1982. Named in honor of Lise Meitner the
+Austrian physicist.
+
+
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

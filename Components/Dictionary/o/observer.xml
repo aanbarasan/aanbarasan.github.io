@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>observer</Word>
+  <Definitions>
+    <Definition>
+      <Word>observer</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Observer \Ob*serv"er\, n.
+   1. One who observes, or pays attention to, anything;
+      especially, one engaged in, or trained to habits of, close
+      and exact observation; as, an astronomical observer.
+      [1913 Webster]
+
+            The observed of all observers.        --Shak.
+      [1913 Webster]
+
+            Careful observers may foretell the hour,
+            By sure prognostic, when to dread a shower. --Swift.
+      [1913 Webster]
+
+   2. One who keeps any law, custom, regulation, rite, etc.; one
+      who conforms to anything in practice. ``Diligent observers
+      of old customs.'' --Spenser.
+      [1913 Webster]
+
+            These . . . hearkened unto observers of times.
+                                                  --Deut. xviii.
+                                                  14.
+      [1913 Webster]
+
+   3. One who fulfills or performs; as, an observer of his
+      promises.
+      [1913 Webster]
+
+   4. A sycophantic follower. [Obs.] --Beau. &amp; Fl.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>observer</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>observer
+     n 1: a person who becomes aware (of things or events) through the
+          senses [syn: {perceiver}, {beholder}]
+     2: an expert who observes and comments on something [syn: {commentator}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

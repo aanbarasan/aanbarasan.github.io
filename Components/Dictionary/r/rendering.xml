@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rendering</Word>
+  <Definitions>
+    <Definition>
+      <Word>rendering</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>rendering
+     
+        &lt;graphics, text&gt; The conversion of a high-level object-based
+        description into a graphical image for display.
+     
+        For example, {ray-tracing} takes a mathematical model of a
+        three-dimensional object or scene and converts it into a
+        {bitmap} image.  Another example is the process of converting
+        {HTML} into an image for display to the user.
+     
+        (2001-02-06)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rendering</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Render \Ren"der\ (r?n"d?r), v. t. [imp. &amp; p. p. {Rendered}
+   (-d?rd);p. pr. &amp; vb. n. {Rendering}.] [F. rendre, LL. rendre,
+   fr. L. reddere; pref. red-, re-, re- + dare to give. See
+   {Date}time, and cf. {Reddition}, {Rent}.]
+   1. To return; to pay back; to restore.
+      [1913 Webster]
+
+            Whose smallest minute lost, no riches render may.
+                                                  --Spenser.
+      [1913 Webster]
+
+   2. To inflict, as a retribution; to requite.
+      [1913 Webster]
+
+            I will render vengeance to mine enemies. --Deut.
+                                                  xxxii. 41.
+      [1913 Webster]
+
+   3. To give up; to yield; to surrender.
+      [1913 Webster]
+
+            I 'll make her render up her page to me. --Shak.
+      [1913 Webster]
+
+   4. Hence, to furnish; to contribute.
+      [1913 Webster]
+
+            Logic renders its daily service to wisdom and
+            virtue.                               --I. Watts.
+      [1913 Webster]
+
+   5. To furnish; to state; to deliver; as, to render an
+      account; to render judgment.
+      [1913 Webster]
+
+   6. To cause to be, or to become; as, to render a person more
+      safe or more unsafe; to render a fortress secure.
+      [1913 Webster]
+
+   7. To translate from one language into another; as, to render
+      Latin into English.
+      [1913 Webster]
+
+   8. To interpret; to set forth, represent, or exhibit; as, an
+      actor renders his part poorly; a singer renders a passage
+      of music with great effect; a painter renders a scene in a
+      felicitous manner.
+      [1913 Webster]
+
+            He did render him the most unnatural
+            That lived amongst men.               --Shak.
+      [1913 Webster]
+
+   9. To try out or extract (oil, lard, tallow, etc.) from fatty
+      animal substances; as, to render tallow.
+      [1913 Webster]
+
+   10. To plaster, as a wall of masonry, without the use of
+       lath.
+       [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rendering</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rendering \Ren"der*ing\, n.
+   The act of one who renders, or that which is rendered.
+   Specifically:
+   (a) A version; translation; as, the rendering of the Hebrew
+       text. --Lowth.
+   (b) In art, the presentation, expression, or interpretation
+       of an idea, theme, or part.
+   (c) The act of laying the first coat of plaster on brickwork
+       or stonework.
+   (d) The coat of plaster thus laid on. --Gwilt.
+   (e) The process of trying out or extracting lard, tallow,
+       etc., from animal fat.
+       [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rendering</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rendering
+     n 1: a performance of a musical composition or a dramatic role
+          etc.; "they heard a live rendition of three pieces by
+          Schubert" [syn: {rendition}]
+     2: an explanation of something that is not immediately obvious;
+        "the edict was subject to many interpretations"; "he
+        annoyed us with his interpreting of parables"; "often
+        imitations are extended to provide a more accurate
+        rendition of the child's intended meaning" [syn: {interpretation},
+         {interpreting}, {rendition}]
+     3: the act of interpreting something as expressed in an
+        artistic performance; "her rendition of Milton's verse was
+        extraordinarily moving" [syn: {rendition}, {interpretation}]
+     4: a written communication in a second language having the same
+        meaning as the written communication in a first language
+        [syn: {translation}, {interlingual rendition}, {version}]
+     5: a coat of stucco applied to a masonry wall
+     6: perspective drawing of an architect's design
+     7: giving in acknowledgment of obligation
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

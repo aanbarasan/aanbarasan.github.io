@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nonstop</Word>
+  <Definitions>
+    <Definition>
+      <Word>nonstop</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>nonstop \nonstop\ n.
+   A flight made without intermediate landings between source
+   and destination; as, how many nonstops are there to Dallas?.
+
+   Syn: nonstop flight.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nonstop</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>nonstop \nonstop\ adj.
+   1. without an intermediate stop; -- of trips in public
+      conveyances, especially of a flight.
+      [WordNet 1.5]
+
+   2. same as {around-the-clock}.
+
+   Syn: around-the-clock, day-and-night, round-the-clock.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nonstop</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nonstop
+     adj 1: of a journey especially a flight; "a nonstop flight to
+            Atlanta"
+     2: at all times; "around-the-clock nursing care" [syn: {around-the-clock},
+         {day-and-night}, {round-the-clock}]
+     n : a flight made without intermediate stops between source and
+         destination; "how many nonstops are there to Dallas?"
+         [syn: {nonstop flight}]
+     adv : without stopping; "we are flying nonstop form New York to
+           Tokyo"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

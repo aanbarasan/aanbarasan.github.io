@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>merrygoround</Word>
+  <Definitions>
+    <Definition>
+      <Word>merrygoround</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Merry-go-round \Mer"ry-go`-round"\, n.
+   Any revolving contrivance for affording amusement; esp., a
+   group of seats in the shape of hobbyhorses or other fanciful
+   animals, arranged in a circle on a platform that is rotated
+   by a mechanical drive, often to the accompaniment of music;
+   the seats often move up and down in synchrony with the
+   rotation; -- called also {carousel}. It is employed primarily
+   for the amusement of children, and is typically found at an
+   amusement park.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>merrygoround</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>merry-go-round
+     n 1: a never-ending cycle of activities and events (especially
+          when they seem to have little purpose); "if we lose the
+          election the whole legislative merry-go-round will have
+          to start over"
+     2: large mechanical apparatus with seats for children to ride
+        on [syn: {carousel}, {carrousel}, {roundabout}, {whirligig}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

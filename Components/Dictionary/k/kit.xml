@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>kit</Word>
+  <Definitions>
+    <Definition>
+      <Word>kit</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>kit
+     
+        &lt;jargon&gt; ({Usenet}, possibly from {DEC}) Slang for a full
+        software distribution, as opposed to a {patch} or upgrade.  A
+        source software distribution that has been packaged in such a
+        way that it can (theoretically) be unpacked and installed
+        according to a series of steps using only standard {Unix}
+        tools, and entirely documented by some reasonable chain of
+        references from the top-level {README file}.  The more general
+        term {distribution} may imply that special tools or more
+        stringent conditions on the host environment are required.
+     
+        [{Jargon File}]
+     
+        (1994-11-18)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>kit</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Kit \Kit\, (k[i^]t), v. t. [imp. {Kitte}.]
+   To cut. [Obs.] --Chaucer.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>kit</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Kit \Kit\, n. [See {Kitten}.]
+   A kitten.
+   [1913 Webster]
+
+   {Kit fox} (Zo["o]l.), a small burrowing fox ({Vulpes velox}),
+      inhabiting the region of the Rocky Mountains. It is
+      brownish gray, reddish on the breast and flanks, and white
+      below. Called also {swift fox}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>kit</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Kit \Kit\, n. [Gf. AS. cytere harp, L. cithara. Cf. {Guitar}.]
+   A small violin. ``A dancing master's kit.'' --Grew.
+   [1913 Webster]
+
+         Prince Turveydrop then tinkled the strings of his kit
+         with his fingers, and the young ladies stood up to
+         dance.                                   --Dickens.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>kit</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Kit \Kit\, n. [Cf. D. kit a large bottle, OD. kitte beaker,
+   decanter.]
+   1. A large bottle.
+      [1913 Webster]
+
+   2. A wooden tub or pail, smaller at the top than at the
+      bottom; as, a kit of butter, or of mackerel. --Wright.
+      [1913 Webster]
+
+   3. A straw or rush basket for fish; also, any kind of basket.
+      [Prov. Eng.] --Halliwell.
+      [1913 Webster]
+
+   4. A box for working implements.
+      [1913 Webster]
+
+   5. Hence: A collection of tools or other objects to be used
+      for a specific purpose, often contained in a box which may
+      be carried conveniently; a working outfit, as of a
+      workman, a soldier, and the like; as, a plumber's kit; a
+      doctor's kit; a cosmetic kit; a first-aid kit.
+      [1913 Webster +PJC]
+
+   6. A group of separate parts, things, or individuals; -- used
+      with whole, and generally contemptuously; as, the whole
+      kit of them; the whole kit and kaboodle.
+      [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>kit</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>kit n. [Usenet; poss. fr. {DEC} slang for a full software distribution,
+   as opposed to a patch or upgrade] A source software distribution that
+   has been packaged in such a way that it can (theoretically) be unpacked
+   and installed according to a series of steps using only standard Unix
+   tools, and entirely documented by some reasonable chain of references
+   from the top-level {README file}. The more general term {distribution}
+   may imply that special tools or more stringent conditions on the host
+   environment are required.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>kit</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>KIT
+     Kernel software for Intelligent Terminals (T-Online, Telekom, BTX)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>kit</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>kit
+     n 1: a case for containing a set of articles
+     2: gear consisting of a set of articles or tools for a
+        specified purpose [syn: {outfit}]
+     3: young of any of various fur-bearing animals; "a fox kit"
+     v : supply with a set of articles or tools [syn: {kit out}, {kit
+         up}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>masculinity</Word>
+  <Definitions>
+    <Definition>
+      <Word>masculinity</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Masculinity \Mas`cu*lin"i*ty\, n.
+   The state or quality of being masculine; masculineness.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>masculinity</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>masculinity
+     n 1: the properties characteristic of the male sex [syn: {maleness}]
+          [ant: {femaleness}]
+     2: the trait of behaving in ways considered typical for men
+        [ant: {femininity}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

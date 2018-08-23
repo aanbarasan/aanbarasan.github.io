@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>shanty</Word>
+  <Definitions>
+    <Definition>
+      <Word>shanty</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Shanty \Shan"ty\, a.
+   Jaunty; showy. [Prov. Eng.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>shanty</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Shanty \Shan"ty\, n.;pl. {Shanties}. [Said to be fr. Ir. sean
+   old + tig. a house.]
+   A small, mean dwelling; a rough, slight building for
+   temporary use; a hut.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>shanty</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Shanty \Shan"ty\, v. i.
+   To inhabit a shanty. --S. H. Hammond.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>shanty</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>shanty
+     n 1: small crude shelter used as a dwelling [syn: {hovel}, {hut},
+           {hutch}, {shack}]
+     2: a rhythmical work song originally sung by sailors [syn: {chantey},
+         {chanty}, {sea chantey}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

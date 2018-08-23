@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>snotty</Word>
+  <Definitions>
+    <Definition>
+      <Word>snotty</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Snotty \Snot"ty\, a.
+   Foul with snot; hence, mean; dirty.
+   [1913 Webster] -- {Snot"ti*ly}, adv. -- {Snot"ti*ness}, n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>snotty</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>snotty
+     adj 1: used colloquially of one who is overly conceited or
+            arrogant; "a snotty little scion of a degenerate
+            family"-Laurent Le Sage; "they're snobs--stuck-up and
+            uppity and persnickety" [syn: {bigheaded}, {persnickety},
+             {snooty}, {snot-nosed}, {stuck-up}, {too big for
+            one's breeches}, {uppish}]
+     2: dirty with nasal discharge; "a snotty nose"; "a house full
+        of snot-nosed kids" [syn: {snot-nosed}]
+     [also: {snottiest}, {snottier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>symphony</Word>
+  <Definitions>
+    <Definition>
+      <Word>symphony</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Symphony
+     
+        &lt;tool, product&gt; {Lotus Development}'s successor to their
+        {Lotus 1-2-3} spreadsheet.  Unlike 1-2-3, Symphony allowed a
+        limited form of {multitasking}.  The user could switch
+        manually between it and {MS-DOS} and separate graph and
+        spreadsheet windows could be opened simultaneously and would
+        be updated automatically when cells were changed.  In
+        addition, a small word processor could be opened in a third
+        window.  These all could be printed out on the same report.
+        Symphony could read and write Lotus 1-2-3 files and had
+        interactive graphical output and a word processor, thus making
+        it effectively a report generator.  Unlike 1-2-3, Symphony was
+        not a great commercial success.
+     
+        (1995-03-28)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>symphony</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Symphony \Sym"pho*ny\, n.; pl. {Symphonies}. [F. symphonie (cf.
+   It. sinfonia), L. symphonia, Gr. ?; sy`n with + ? a sound,
+   the voice. See {Phonetic}.]
+   1. A consonance or harmony of sounds, agreeable to the ear,
+      whether the sounds are vocal or instrumental, or both.
+      [1913 Webster]
+
+            The trumpets sound,
+            And warlike symphony in heard around. --Dryden.
+      [1913 Webster]
+
+   2. A stringed instrument formerly in use, somewhat resembling
+      the virginal.
+      [1913 Webster]
+
+            With harp and pipe and symphony.      --Chaucer.
+      [1913 Webster]
+
+   3. (Mus.)
+      (a) An elaborate instrumental composition for a full
+          orchestra, consisting usually, like the sonata, of
+          three or four contrasted yet inwardly related
+          movements, as the allegro, the adagio, the minuet and
+          trio, or scherzo, and the finale in quick time. The
+          term has recently been applied to large orchestral
+          works in freer form, with arguments or programmes to
+          explain their meaning, such as the ``symphonic poems''
+          of Liszt. The term was formerly applied to any
+          composition for an orchestra, as overtures, etc., and
+          still earlier, to certain compositions partly vocal,
+          partly instrumental.
+      (b) An instrumental passage at the beginning or end, or in
+          the course of, a vocal composition; a prelude,
+          interlude, or postude; a ritornello.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>symphony</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>symphony
+     n 1: a long and complex sonata for symphony orchestra [syn: {symphonic
+          music}]
+     2: a large orchestra; can perform symphonies; "we heard the
+        Vienna symphony" [syn: {symphony orchestra}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

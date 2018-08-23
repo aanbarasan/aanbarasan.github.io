@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>wheaton</Word>
+  <Definitions>
+    <Definition>
+      <Word>wheaton</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Wheaton, IL (city, FIPS 81048)
+  Location: 41.85600 N, 88.10761 W
+  Population (1990): 51464 (18630 housing units)
+  Area: 28.7 sq km (land), 0.1 sq km (water)
+  Zip code(s): 60187
+Wheaton, KS (city, FIPS 77700)
+  Location: 39.50257 N, 96.31896 W
+  Population (1990): 106 (44 housing units)
+  Area: 0.4 sq km (land), 0.0 sq km (water)
+Wheaton, MD
+  Zip code(s): 20902
+Wheaton, MN (city, FIPS 69844)
+  Location: 45.80576 N, 96.49725 W
+  Population (1990): 1615 (827 housing units)
+  Area: 4.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 56296
+Wheaton, MO (city, FIPS 79126)
+  Location: 36.76131 N, 94.05620 W
+  Population (1990): 637 (287 housing units)
+  Area: 1.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 64874
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

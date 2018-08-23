@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rebecca</Word>
+  <Definitions>
+    <Definition>
+      <Word>rebecca</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Rebecca, GA (town, FIPS 63840)
+  Location: 31.80710 N, 83.48702 W
+  Population (1990): 148 (78 housing units)
+  Area: 2.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 31783
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rebecca</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Rebecca
+     n : (Old Testament) wife of Isaac and mother of Jacob and Esau
+         [syn: {Rebekah}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

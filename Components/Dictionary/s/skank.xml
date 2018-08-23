@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>skank</Word>
+  <Definitions>
+    <Definition>
+      <Word>skank</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>skank
+     n 1: any substance considered disgustingly foul or unpleasant
+          [syn: {filth}, {crud}]
+     2: a rhythmic dance to reggae music performed by bending
+        forward and extending the hands while bending the knees
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

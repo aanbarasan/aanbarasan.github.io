@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>props</Word>
+  <Definitions>
+    <Definition>
+      <Word>props</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Props \Props\, n. pl.
+   A game of chance, in which four sea shells, each called a
+   prop, are used instead of dice.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>props</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>props
+     n : proper respect; "I have to give my props to the governor for
+         the way he handled the problem"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

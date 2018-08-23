@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>olympics</Word>
+  <Definitions>
+    <Definition>
+      <Word>olympics</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Olympic games \O*lym"pic games\, or Olympics \O*lym"pics\
+   A modified revival of the ancient Olympian games, consisting
+   of international athletic games, races, etc., now held once
+   in four years, the first having been at Athens in 1896.
+
+   Note: There are now two sets of modern Olympic games, the
+         summer games and the winter games. Both had been held
+         every four years, in the same year, but in 1998 for the
+         first time the winter games began to be held two years
+         after the summer games, though each series is still
+         held only once every four years. The number and types
+         of sports contests held at the olympics has greatly
+         expanded from the original number.
+         [Webster 1913 Suppl. +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>olympics</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Olympics
+     n : the modern revival of the ancient games held once every 4
+         years in a selected country [syn: {Olympic Games}, {Olympiad}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

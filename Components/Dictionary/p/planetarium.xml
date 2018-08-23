@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>planetarium</Word>
+  <Definitions>
+    <Definition>
+      <Word>planetarium</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Planetarium \Plan`e*ta"ri*um\, n. [NL.: cf. F. plan['e]taire.
+   See {Planetary}.]
+   An orrery. See {Orrery}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>planetarium</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>planetarium
+     n 1: a building housing an instrument for projecting the
+          positions of the planets onto a domed ceiling
+     2: an optical device for projecting images of celestial bodies
+        and other astronomical phenomena onto the inner surface of
+        a hemispherical dome
+     3: an apparatus or model for representing the solar systems
+     [also: {planetaria} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

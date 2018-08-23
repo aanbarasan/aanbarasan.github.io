@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>stewart</Word>
+  <Definitions>
+    <Definition>
+      <Word>stewart</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Stewart, AL
+  Zip code(s): 35441
+Stewart, MN (city, FIPS 62788)
+  Location: 44.72509 N, 94.48787 W
+  Population (1990): 566 (245 housing units)
+  Area: 2.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 55385
+Stewart, MS
+  Zip code(s): 39767
+Stewart, OH
+  Zip code(s): 45778
+Stewart, TN
+  Zip code(s): 37175
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stewart</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Stewart
+     n 1: United States film actor who portrayed incorruptible but
+          modest heros (1908-1997) [syn: {Jimmy Stewart}, {James
+          Maitland Stewart}]
+     2: Scottish philosopher and follower of Thomas Reid (1753-1828)
+        [syn: {Dugald Stewart}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

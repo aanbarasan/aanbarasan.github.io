@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>spreadsheet</Word>
+  <Definitions>
+    <Definition>
+      <Word>spreadsheet</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>spreadsheet
+     
+        &lt;application, tool&gt; (Or rarely "worksheet") A type of
+        {application program} which manipulates numerical and string
+        data in rows and columns of cells.  The value in a cell can be
+        calculated from a formula which can involve other cells.  A
+        value is recalculated automatically whenever a value on which
+        it depends changes.  Different cells may be displayed with
+        different formats.
+     
+        Some spreadsheet support three-dimensional matrices and cyclic
+        references which lead to iterative calculation.
+     
+        An essential feature of a spreadsheet is the copy function
+        (often using {drag-and-drop}).  A rectangular area may be
+        copied to another which is a multiple of its size.  References
+        between cells may be either absolute or relative in either
+        their horizontal or vertical index.  All copies of an absolute
+        reference will refer to the same row, column or cell whereas a
+        relative reference refers to a cell with a given offset from
+        the current cell.
+     
+        Many spreadsheets have a "What-if" feature.  The user gives
+        desired end conditions and assigns several input cells to be
+        automatically varied.  An area of the spreadsheet is assigned
+        to show the result of various combinations of input values.
+     
+        Spreadsheets usually incorporate a {macro language}, which
+        enables third-party writing of worksheet applications for
+        commercial purposes.
+     
+        In the 1970s, a {screen editor} based calculation program
+        called {Visi-Calc} was introduced.  It was probably the first
+        commercial spreadsheet program.  Soon {Lotus Development
+        Corporation} released the more sophisticated {Lotus 1-2-3}.
+        Clones appeared, (for example {VP-Planner} from {Paperback
+        Software} with {CGA} graphics, {Quattro} from {Borland}) but
+        Lotus maintained its position with world-wide marketing and
+        support - and lawyers!  For example, Borland was forced to
+        abandon its Lotus-like {pop-up menu}.
+     
+        While still developing 1-2-3, Lotus introduced {Symphony},
+        which had simultaneously active windows for the spreadsheet,
+        graphs and a {word processor}.
+     
+        {Microsoft} produced {MultiPlan} for the {Macintosh}, which
+        was followed by {Excel} for Macintosh, long before {Microsoft
+        Windows} was developed.
+     
+        When {Microsoft Windows} arrived Lotus was still producing the
+        {text-based} 1-2-3 and Symphony.  Meanwhile, {Microsoft}
+        launched its {Excel} spreadsheet with interactive graphics,
+        graphic charcters, mouse support and {cut-and-paste} to and
+        from other Windows applications.  To compete with Windows
+        spreadsheets, Lotus launched its {Allways} add-on for 1-2-3 -
+        a post-processor that produced Windows-quality graphic
+        characters on screen and printer.  The release of Lotus 1-2-3
+        for Windows was late, slow and buggy.
+     
+        Today, Microsoft, Lotus, Borland and many other companies offer
+        Windows-based spreadsheet programs.
+     
+        The main end-users of spreadsheets are business and science.
+     
+        Spreadsheets are an example of a non-algorithmic programming
+        language.
+     
+        [Dates?]
+     
+        (1995-03-28)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>spreadsheet</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>spreadsheet
+     n : a screen-oriented interactive program enabling a user to lay
+         out financial data on the screen
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

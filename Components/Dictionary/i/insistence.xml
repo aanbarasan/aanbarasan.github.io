@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>insistence</Word>
+  <Definitions>
+    <Definition>
+      <Word>insistence</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Insistence \In*sist"ence\, n.
+   The quality of insisting, or being urgent or pressing; the
+   act of dwelling upon as of special importance; persistence;
+   urgency.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>insistence</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>insistence
+     n 1: continual and persistent demands [syn: {insisting}]
+     2: the state of urgently demanding notice or attention; "the
+        press of business matters" [syn: {imperativeness}, {insistency},
+         {press}, {pressure}]
+     3: urgently demanding attention; "the insistence of their
+        hunger"; "he pressed his demand with considerable
+        instancy" [syn: {imperativeness}, {insistency}, {instancy}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

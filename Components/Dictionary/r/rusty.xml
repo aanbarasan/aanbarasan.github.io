@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rusty</Word>
+  <Definitions>
+    <Definition>
+      <Word>rusty</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rusty \Rust"y\, a. [AS. rustig.] [Compar. {Rustier}; superl.
+   {Rustiest.}]
+   1. Covered or affected with rust; as, a rusty knife or sword;
+      rusty wheat.
+      [1913 Webster]
+
+   2. Impaired by inaction, disuse, or neglect.
+      [1913 Webster]
+
+            [Hector,] in this dull and long-continued truce,
+            Is rusty grown.                       --Shak.
+      [1913 Webster]
+
+   3. Discolored and rancid; reasty; as, rusty bacon.
+      [1913 Webster]
+
+   4. Surly; morose; crusty; sullen. [Obs. or Prov. Eng.]
+      ``Rusty words.'' --Piers Plowman.
+      [1913 Webster]
+
+   5. Rust-colored; dark. ``Rusty blood.'' --Spenser.
+      [1913 Webster]
+
+   6. Discolored; stained; not cleanly kept; filthy.
+      [1913 Webster]
+
+            The rusty little schooners that bring firewood from
+            the British provinces.                --Hawthorne.
+      [1913 Webster]
+
+   7. (Bot.) Resembling, or covered with a substance resembling,
+      rust; affected with rust; rubiginous.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rusty</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rusty
+     adj 1: covered with or consisting of rust; "a rusty machine";
+            "rusty deposits"
+     2: of the color of rust [syn: {rust}]
+     3: impaired in skill by neglect [syn: {out of practice(p)}]
+     4: ancient; "hoary jokes" [syn: {hoary}]
+     [also: {rustiest}, {rustier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

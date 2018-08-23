@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lobe</Word>
+  <Definitions>
+    <Definition>
+      <Word>lobe</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lobe \Lobe\ (l[=o]b), n. [F. lobe, Gr. lobo`s.]
+   Any projection or division, especially one of a somewhat
+   rounded form; as:
+   (a) (Bot.) A rounded projection or division of a leaf.
+       --Gray.
+   (b) (Zo["o]l.) A membranous flap on the sides of the toes of
+       certain birds, as the coot.
+   (c) (Anat.) A round projecting part of an organ, as of the
+       liver, lungs, brain, etc. See Illust. of {Brain}.
+   (b) (Mach.) The projecting part of a cam wheel or of a
+       non-circular gear wheel.
+       [1913 Webster]
+
+   {Lobe of the ear}, the soft, fleshy prominence in which the
+      human ear terminates below, also called the {earlobe}.
+      See. Illust. of {Ear}.
+      [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lobe</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>lobe
+     n 1: (anatomy) a somewhat rounded subdivision of a bodily organ
+          or part; "ear lobe"
+     2: (botany) a part into which a leaf is divided
+     3: the enhanced response of an antenna in a given direction as
+        indicated by a loop in its radiation pattern
+     4: a rounded projection that is part of a larger structure
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

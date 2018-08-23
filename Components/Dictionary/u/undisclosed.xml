@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>undisclosed</Word>
+  <Definitions>
+    <Definition>
+      <Word>undisclosed</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>undisclosed
+     adj : not made known [syn: {unrevealed}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>planetary</Word>
+  <Definitions>
+    <Definition>
+      <Word>planetary</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Planetary \Plan"et*a*ry\, a. [Cf. L. planetarius an astrologer,
+   F. plan['e]taire planetary. See {Planet}.]
+   1. Of or pertaining to the planets; as, planetary
+      inhabitants; planetary motions; planetary year.
+      [1913 Webster]
+
+   2. Consisting of planets; as, a planetary system.
+      [1913 Webster]
+
+   3. (Astrol.) Under the dominion or influence of a planet.
+      ``Skilled in the planetary hours.'' --Drayton.
+      [1913 Webster]
+
+   4. Caused by planets. ``A planetary plague.'' --Shak.
+      [1913 Webster]
+
+   5. Having the nature of a planet; erratic; revolving;
+      wandering. ``Erratical and planetary life.'' --Fuller.
+      [1913 Webster]
+
+   {Planetary days}, the days of the week as shared among the
+      planets known to the ancients, each having its day.
+      --Hutton.
+
+   {Planetary nebula}, a nebula exhibiting a uniform disk, like
+      that of a planet.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>planetary</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>planetary
+     adj 1: of or relating to or resembling the physical or orbital
+            characteristics of a planet or the planets; "planetary
+            motion"; "planetary year" [syn: {planetal}]
+     2: of or relating to or characteristic of the planet Earth or
+        its inhabitants; "planetary rumblings and eructations"-
+        L.C.Eiseley ; "the planetary tilt"; "this terrestrial
+        ball" [syn: {terrestrial}]
+     3: having no fixed course; "an erratic comet"; "his life
+        followed a wandering course"; "a planetary vagabond" [syn:
+         {erratic}, {wandering}]
+     4: involving the entire earth; not limited or provincial in
+        scope; "global war"; "global monetary policy"; "neither
+        national nor continental but planetary"; "a world crisis";
+        "of worldwide significance" [syn: {global}, {world(a)}, {worldwide}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>station's</Word>
+  <Definitions>
+    <Definition>
+      <Word>station's</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Stations
+     n : (Roman Catholic Church) a devotion consisting of 14 prayers
+         before the 14 stations of the cross (referring to Jesus'
+         suffering and crucifixion) [syn: {Stations of the Cross}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

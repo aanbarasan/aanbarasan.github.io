@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tuxedo</Word>
+  <Definitions>
+    <Definition>
+      <Word>tuxedo</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Tuxedo
+     
+        &lt;database, networking&gt; {Cross-platform} distributed
+        {transaction monitor} {middleware} marketed by {BEA systems}.
+        Tuxedo supports the production of {scalable} {client-server}
+        applications and the coordination of {transactions} spanning
+        heterogeneous {databases}, {operating systems}, and
+        {hardware}.
+     
+        {BEA Home (http://www.beasys.com/)}.
+     
+        [Connection with {Novell, Inc.}?]
+     
+        (2003-01-08)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tuxedo</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tuxedo \Tux*e"do\, Tuxedo coat \Tux*e"do coat`\, n.
+   1. A kind of black jacket for semiformal evening dress made
+      without tails, usually of black or dark blue color and
+      having satin or grosgrain facing on the lapels; -- so
+      named after a fashionable country club at Tuxedo Park, New
+      York. [U. S.] --[RHUD]
+      [Webster 1913 Suppl. +PJC]
+
+   2. The complete semiformal evening suit, including the tuxedo
+      jacket, matching trousers, and black bow tie, and usually
+      including a cummerbund; -- the style of shirt worn with
+      this suit varies, and the outfit may include a dickey.
+      --[RHUD]
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tuxedo</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tuxedo
+     n : semiformal evening dress for men [syn: {dinner jacket}, {tux},
+          {black tie}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

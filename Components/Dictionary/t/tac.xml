@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tac</Word>
+  <Definitions>
+    <Definition>
+      <Word>tac</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>TAC
+     
+        1. Translator Assembler-Compiler.  For {Philco 2000}.
+     
+        2. {Terminal Access Controller}.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tac</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tac \Tac\, n. [Cf. {Tack}, n., 4.] (O. Eng. Law)
+   A kind of customary payment by a tenant; -- a word used in
+   old records. --Cowell. Burrill.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tac</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>TAC
+     Technical Assistance Center (Cisco)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tac</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>TAC
+     Terminal Access Controller (ARPANET, MILNET)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tac</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>TAC
+     Terminal Access Circuit
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tac</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>TAC
+     Type Approval Code (IMEI, GSM, mobile-systems)
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

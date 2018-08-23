@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>patio</Word>
+  <Definitions>
+    <Definition>
+      <Word>patio</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Patio \Pa"ti*o\ (p[aum]"t[-e]*[-o]), n. [Sp., a court] (Metal)
+   A paved yard or floor where ores are cleaned and sorted, or
+   where ore, salt, mercury, etc., are trampled by horses, to
+   effect intermixture and amalgamation.
+   [1913 Webster]
+
+   Note: The patio process is used to reduce silver ores by
+         amalgamation.
+         [1913 Webster]
+
+   2. In Spain, Spanish America, etc., a court or courtyard of a
+      house or other building; esp., an inner court open to the
+      sky.
+      [Webster 1913 Suppl.]
+
+   3. (p[a^]t"[-e]*[=o]`) A usually paved area adjacent to a
+      dwelling, used for outdoor lounging, dining, receptions of
+      guests, etc.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>patio</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>patio
+     n : usually paved outdoor area adjoining a residence [syn: {terrace}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

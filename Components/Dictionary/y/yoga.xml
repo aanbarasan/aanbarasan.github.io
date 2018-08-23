@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>yoga</Word>
+  <Definitions>
+    <Definition>
+      <Word>yoga</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Yoga \Yo"ga\, n. [Skr. y[=o]ga union.]
+   A species of asceticism among the Hindoos, which consists in
+   a complete abstraction from all worldly objects, by which the
+   votary expects to obtain union with the universal spirit, and
+   to acquire superhuman faculties.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>yoga</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>yoga
+     n 1: Hindu discipline aimed at training the consciousness for a
+          state of perfect spiritual insight and tranquility that
+          is achieved through the three paths of actions and
+          knowledge and devotion
+     2: a system of exercises practiced as part of the Hindu
+        discipline to promote control of the body and mind
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

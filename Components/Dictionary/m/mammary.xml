@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mammary</Word>
+  <Definitions>
+    <Definition>
+      <Word>mammary</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mammary \Mam"ma*ry\, a. [Cf. F. mammaire.] (Anat.)
+   Of or pertaining to the mamm[ae] or breasts; as, the mammary
+   arteries and veins.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mammary</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mammary
+     adj : of or relating to the milk-giving gland of the female
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

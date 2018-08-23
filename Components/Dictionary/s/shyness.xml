@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>shyness</Word>
+  <Definitions>
+    <Definition>
+      <Word>shyness</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Shyness \Shy"ness\, n.
+   The quality or state of being shy. [Written also {shiness}.]
+   [1913 Webster]
+
+         Frequency in heavenly contemplation is particularly
+         important to prevent a shyness bewtween God and thy
+         soul.                                    --Baxter.
+   [1913 Webster]
+
+   Syn: Bashfulness; reserve; coyness; timidity; diffidence. See
+        {Bashfulness}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>shyness</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>shyness
+     n : a feeling of fear of embarrassment
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

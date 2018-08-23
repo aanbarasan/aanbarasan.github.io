@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>liability</Word>
+  <Definitions>
+    <Definition>
+      <Word>liability</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Liability \Li`a*bil"i*ty\ (l[imac]`[.a]*b[i^]l"[i^]*t[y^]), n.;
+   pl. {Liabilities} (-t[i^]z).
+   [1913 Webster]
+   1. The state of being liable; as, the liability of an
+      insurer; liability to accidents; liability to the law.
+      [1913 Webster]
+
+   2. That which one is under obligation to pay, or for which
+      one is liable. Specifically, in the pl., the sum of one's
+      pecuniary obligations; -- opposed to {assets}.
+      [1913 Webster]
+
+   {Limited liability}. See {Limited company}, under {Limited}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>liability</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>liability
+     n 1: the state of being legally obliged and responsible
+     2: an obligation to pay money to another party [syn: {indebtedness},
+         {financial obligation}]
+     3: the quality of being something that holds you back [ant: {asset}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

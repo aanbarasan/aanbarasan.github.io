@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pumpkin</Word>
+  <Definitions>
+    <Definition>
+      <Word>pumpkin</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>pumpkin
+     
+        &lt;jargon&gt; A humourous term for the {token} - the object
+        (notional or real) that gives its possessor (the "pumpking" or
+        the "pumpkineer") exclusive access to something, e.g. applying
+        {patches} to a master copy of {source} (for which the pumpkin
+        is called a "patch pumpkin").
+     
+        Chip Salzenberg &lt;chip@perl.com&gt; wrote:
+     
+        David Croy once told me once that at a previous job, there was
+        one tape drive and multiple systems that used it for backups.
+        But instead of some high-tech exclusion software, they used a
+        low-tech method to prevent multiple simultaneous backups: a
+        stuffed pumpkin.  No one was allowed to make backups unless
+        they had the "backup pumpkin".
+     
+        (1999-02-23)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pumpkin</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pumpkin \Pump"kin\, n. [For older pompion, pompon, OF. pompon,
+   L. pepo, peponis, Gr. ?, properly, cooked by the sun, ripe,
+   mellow; -- so called because not eaten till ripe. Cf. {Cook},
+   n.] (Bot.)
+   A well-known trailing plant ({Cucurbita pepo}) and its fruit,
+   -- used for cooking and for feeding stock; a pompion.
+   [1913 Webster]
+
+   {Pumpkin seed}.
+   (a) The flattish oval seed of the pumpkin.
+   (b) (Zo["o]l.) The common pondfish.
+       [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pumpkin</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pumpkin
+     n 1: a coarse vine widely cultivated for its non-keeping large
+          pulpy round orange fruit with firm orange skin and
+          numerous seeds; subspecies of Cucurbita pepo include the
+          summer squashes and a few autumn squashes [syn: {pumpkin
+          vine}, {autumn pumpkin}, {Cucurbita pepo}]
+     2: usually large pulpy deep-yellow round fruit of the squash
+        family maturing in late summer or early autumn
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

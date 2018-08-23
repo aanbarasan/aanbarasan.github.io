@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nutritional</Word>
+  <Definitions>
+    <Definition>
+      <Word>nutritional</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Nutritional \Nu*tri"tion*al\, a.
+   Of or pertaining to nutrition; as, nutritional changes.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nutritional</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nutritional
+     adj : of or relating to or providing nutrition; "nutritional
+           information" [syn: {nutritionary}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

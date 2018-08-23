@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>puffy</Word>
+  <Definitions>
+    <Definition>
+      <Word>puffy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Puffy \Puff"y\, a.
+   1. Swelled with air, or any soft matter; tumid with a soft
+      substance; bloated; fleshy; as, a puffy tumor. `` A very
+      stout, puffy man.'' --Thackeray.
+      [1913 Webster]
+
+   2. Hence, inflated; bombastic; as, a puffy style.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>puffy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>puffy
+     adj 1: being puffed out; used of hair style or clothing; "a
+            bouffant skirt" [syn: {bouffant}]
+     2: abnormally distended especially by fluids or gas; "hungry
+        children with bloated stomachs"; "he had a grossly
+        distended stomach"; "eyes with puffed (or puffy) lids";
+        "swollen hands"; "tumescent tissue"; "puffy tumid flesh"
+        [syn: {bloated}, {distended}, {puffed}, {swollen}, {tumescent},
+         {tumid}, {turgid}]
+     3: breathing heavily [syn: {huffing}, {puffing}]
+     [also: {puffiest}, {puffier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

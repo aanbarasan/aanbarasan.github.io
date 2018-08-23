@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unappealing</Word>
+  <Definitions>
+    <Definition>
+      <Word>unappealing</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unappealing
+     adj 1: (of characters in literature or drama) tending to evoke
+            antipathetic feelings; "all the characters were
+            peculiarly unsympathetic" [syn: {unsympathetic}, {unlikeable},
+             {unlikable}] [ant: {sympathetic}]
+     2: not able to attract favorable attention; "they have made the
+        place as unappealing as possible"; "was forced to talk to
+        his singularly unappealing hostess" [ant: {appealing}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

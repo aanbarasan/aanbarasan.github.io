@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>stateless</Word>
+  <Definitions>
+    <Definition>
+      <Word>stateless</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>stateless
+     
+        A stateless {server} is one which treats each request as an
+        independent transaction, unrelated to any previous request.
+        This simplifies the server design because it does not need to
+        allocate storage to deal with conversations in progress or
+        worry about freeing it if a client dies in mid-transaction.  A
+        disadvantage is that it may be necessary to include more
+        information in each request and this extra information will
+        need to be interpreted by the server each time.
+     
+        An example of a stateless server is a {World-Wide Web} server.
+        These take in requests ({URL}s) which completely specify the
+        required document and do not require any context or memory of
+        previous requests.
+     
+        Contrast this with a traditional {FTP} server which conducts
+        an interactive session with the user.  A request to the server
+        for a file can assume that the user has been authenticated and
+        that the current directory and transfer mode have been set.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stateless</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Stateless \State"less\, a.
+   Without state or pomp.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stateless</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>stateless
+     adj : without nationality or citizenship; "stateless persons"
+           [syn: {homeless}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

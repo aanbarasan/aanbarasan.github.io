@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>modesty</Word>
+  <Definitions>
+    <Definition>
+      <Word>modesty</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Modesty \Mod"es*ty\, n. [L. modestia: cf. F. modestie. See
+   {Modest}.]
+   1. The quality or state of being modest; that lowly temper
+      which accompanies a moderate estimate of one's own worth
+      and importance; absence of self-assertion, arrogance, and
+      presumption; humility respecting one's own merit.
+      [1913 Webster]
+
+   2. Natural delicacy or shame regarding personal charms and
+      the sexual relation; purity of thought and manners; due
+      regard for propriety in speech or action.
+      [1913 Webster]
+
+            Her blush is guiltiness, not modesty. --Shak.
+      [1913 Webster]
+
+   {Modesty piece}, a narrow piece of lace worn by women over
+      the bosom. [Obs.] --Addison.
+      [1913 Webster]
+
+   Syn: Bashfulness; humility; diffidence; shyness. See
+        {Bashfulness}, and {Humility}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>modesty</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>modesty
+     n 1: freedom from vanity or conceit [ant: {immodesty}]
+     2: formality and propriety of manner [syn: {reserve}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

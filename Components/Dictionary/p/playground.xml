@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>playground</Word>
+  <Definitions>
+    <Definition>
+      <Word>playground</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Playground
+     
+        A visual language for children, developed for Apple's Vivarium
+        Project.  OOPSLA 89 or 90?
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>playground</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Playground \Play"ground`\, n.
+   A piece of ground used for recreation; as, the playground of
+   a school.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>playground</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>playground
+     n 1: an area where many people go for recreation [syn: {resort
+          area}, {vacation spot}]
+     2: yard consisting of an outdoor area for children's play
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

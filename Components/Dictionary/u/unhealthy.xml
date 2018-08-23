@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unhealthy</Word>
+  <Definitions>
+    <Definition>
+      <Word>unhealthy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unhealthy
+     adj 1: not in or exhibiting good health in body or mind; "unhealthy
+            ulcers" [ant: {healthy}]
+     2: detrimental to health [syn: {insalubrious}, {unhealthful}]
+     3: not conducive to good health; "an unhealthy diet of fast
+        foods"; "an unhealthy climate"
+     [also: {unhealthiest}, {unhealthier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

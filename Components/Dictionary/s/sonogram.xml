@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sonogram</Word>
+  <Definitions>
+    <Definition>
+      <Word>sonogram</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sonogram
+     n : an image of a structure that is produced by ultrasonography
+         (reflections of high-frequency sound waves); used to
+         observe fetal growth or to study bodily organs
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

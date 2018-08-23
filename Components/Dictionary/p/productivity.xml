@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>productivity</Word>
+  <Definitions>
+    <Definition>
+      <Word>productivity</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Productivity \Pro`duc*tiv"i*ty\, n.
+   The quality or state of being productive; productiveness.
+   --Emerson.
+   [1913 Webster]
+
+         Not indeed as the product, but as the producing power,
+         the productivity.                        --Coleridge.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>productivity</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>productivity
+     n 1: the quality of being productive or having the power to
+          produce [syn: {productiveness}] [ant: {unproductiveness}]
+     2: (economics) the ratio of the quantity and quality of units
+        produced to the labor per unit of time
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

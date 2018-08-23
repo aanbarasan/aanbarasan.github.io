@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>inflate</Word>
+  <Definitions>
+    <Definition>
+      <Word>inflate</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>inflate
+     
+        {deflate}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>inflate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Inflate \In*flate"\, v. i.
+   To expand; to fill; to distend.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>inflate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Inflate \In*flate"\, p. a. [L. inflatus, p. p. of inflare to
+   inflate; pref. in- in + flare to blow. See {Blow} to puff
+   wind.]
+   Blown in; inflated. --Chaucer.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>inflate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Inflate \In*flate"\, v. t. [imp. &amp; p. p. {Inflated}; p. pr. &amp;
+   vb. n. {Inflating}.]
+   1. To swell or distend with air or gas; to dilate; to expand;
+      to enlarge; as, to inflate a bladder; to inflate the
+      lungs.
+      [1913 Webster]
+
+            When passion's tumults in the bosom rise,
+            Inflate the features, and enrage the eyes. --J.
+                                                  Scott of
+                                                  Amwell.
+      [1913 Webster]
+
+   2. Fig.: To swell; to puff up; to elate; as, to inflate one
+      with pride or vanity.
+      [1913 Webster]
+
+            Inflate themselves with some insane delight.
+                                                  --Tennyson.
+      [1913 Webster]
+
+   3. To cause to become unduly expanded or increased; as, to
+      inflate the currency.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>inflate</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>inflate vt. To decompress or {puff} a file. Rare among Internet
+   hackers, used primarily by MS-DOS/Windows types.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>inflate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>inflate
+     v 1: fill with gas or air; "inflate a balloons" [syn: {blow up}]
+          [ant: {deflate}]
+     2: exaggerate or make bigger; "The charges were inflated" [syn:
+         {blow up}, {expand}, {amplify}]
+     3: cause prices to rise by increasing the available currency or
+        credit; "The war inflated the economy" [ant: {deflate}]
+     4: increase the amount or availability of, creating a rise in
+        value; "inflate the currency" [ant: {deflate}]
+     5: become inflated; "The sails ballooned" [syn: {balloon}, {billow}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>jamboree</Word>
+  <Definitions>
+    <Definition>
+      <Word>jamboree</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Jamboree, KY
+  Zip code(s): 41536
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>jamboree</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Jamboree \Jam`bo*ree"\, n. [Etym. uncertain. Cf. {Jambone}.]
+   1. A noisy or unrestrained carousal or frolic; a spree.
+      [Slang] --Kipling.
+
+            A Calcutta-made pony cart had been standing in front
+            of the manager's bungalow when Raja Singh started on
+            his jamboree.                         --W. A.
+                                                  Fraser.
+      [Webster 1913 Suppl.]
+
+   2. a large festive gathering.
+      [PJC]
+
+   3. an assembly of boy scouts, usually at the national or
+      international level, including camping among the
+      activities; -- a term adopted by the Boy Scouts
+      organization.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>jamboree</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>jamboree
+     n : a gay festivity [syn: {gala}, {gala affair}, {blowout}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

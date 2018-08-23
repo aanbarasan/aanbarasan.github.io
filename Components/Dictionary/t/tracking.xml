@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tracking</Word>
+  <Definitions>
+    <Definition>
+      <Word>tracking</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>tracking
+     
+        &lt;text&gt; The spacing between {characters} in a line of {text}.
+        This is defined when a {font} is designed but can often be
+        altered in order to change the appearance of the text or for
+        special effects.
+     
+        Tracking should not be confused with {kerning} which deals
+        with the spacing between certain pairs of characters.
+     
+        See also {leading}.
+     
+        (1996-06-07)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tracking</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Track \Track\, v. t. [imp. &amp; p. p. {tracked}; p. pr. &amp; vb. n.
+   {tracking}.]
+   To follow the tracks or traces of; to pursue by following the
+   marks of the feet; to trace; to trail; as, to track a deer in
+   the snow.
+   [1913 Webster]
+
+         It was often found impossible to track the robbers to
+         their retreats among the hills and morasses.
+                                                  --Macaulay.
+   [1913 Webster]
+
+   2. (Naut.) To draw along continuously, as a vessel, by a
+      line, men or animals on shore being the motive power; to
+      tow.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tracking</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tracking
+     n : the pursuit (of a person or animal) by following tracks or
+         marks they left behind [syn: {trailing}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>reuptake</Word>
+  <Definitions>
+    <Definition>
+      <Word>reuptake</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>re-uptake
+     n : a process of using up or consuming again;
+         "psychopharmacologists discovered that amine reuptake is
+         a process that inactivates monoamine neurotransmitters"
+         [syn: {reuptake}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>reuptake</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>reuptake
+     n : a process of using up or consuming again;
+         "psychopharmacologists discovered that amine reuptake is
+         a process that inactivates monoamine neurotransmitters"
+         [syn: {re-uptake}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

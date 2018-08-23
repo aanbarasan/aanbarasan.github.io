@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>specter</Word>
+  <Definitions>
+    <Definition>
+      <Word>specter</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Specter \Spec"ter\, Spectre \Spec"tre\, n. [F. spectre, fr. L.
+   spectrum an appearance, image, specter, fr. specere to look.
+   See {Spy}, and cf. {Spectrum}.]
+   1. Something preternaturally visible; an apparition; a ghost;
+      a phantom.
+      [1913 Webster]
+
+            The ghosts of traitors from the bridge descend,
+            With bold fanatic specters to rejoice. --Dryden.
+      [1913 Webster]
+
+   2. (Zo["o]l.)
+      (a) The tarsius.
+      (b) A stick insect.
+          [1913 Webster]
+
+   {Specter bat} (Zo["o]l.), any phyllostome bat.
+
+   {Specter candle} (Zo["o]l.), a belemnite.
+
+   {Specter shrimp} (Zo["o]l.), a skeleton shrimp. See under
+      {Skeleton}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>specter</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>specter
+     n 1: a mental representation of some haunting experience; "he
+          looked like he had seen a ghost"; "it aroused specters
+          from his past" [syn: {ghost}, {shade}, {spook}, {wraith},
+           {spectre}]
+     2: a ghostly appearing figure; "we were unprepared for the
+        apparition that confronted us" [syn: {apparition}, {phantom},
+         {phantasm}, {phantasma}, {spectre}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

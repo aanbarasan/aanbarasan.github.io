@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>jiggle</Word>
+  <Definitions>
+    <Definition>
+      <Word>jiggle</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Jiggle \Jig"gle\, v. i. [Freq. of jig.]
+   To wriggle or frisk about; to move awkwardly; to shake up and
+   down.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>jiggle</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>jiggle
+     n : a slight irregular shaking motion [syn: {joggle}]
+     v : move to and fro; "Don't jiggle your finger while the nurse
+         is putting on the bandage!" [syn: {joggle}, {wiggle}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

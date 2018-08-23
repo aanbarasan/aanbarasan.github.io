@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>punk</Word>
+  <Definitions>
+    <Definition>
+      <Word>punk</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Punk \Punk\, n. [Cf. {Spunk}.]
+   1. Wood so decayed as to be dry, crumbly, and useful for
+      tinder; touchwood.
+      [1913 Webster]
+
+   2. A fungus ({Polyporus fomentarius}, etc.) sometimes dried
+      for tinder; agaric.
+      [1913 Webster]
+
+   3. An artificial tinder. See {Amadou}, and {Spunk}.
+      [1913 Webster]
+
+   4. A prostitute; a strumpet. [Obsoles.] --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>punk</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>punk
+     adj : of very poor quality [syn: {bum}, {cheap}, {cheesy}, {chintzy},
+            {crummy}, {sleazy}, {tinny}]
+     n 1: an aggressive and violent young criminal [syn: {hood}, {hoodlum},
+           {goon}, {thug}, {tough}, {toughie}, {strong-armer}]
+     2: substance that smolders when ignited; used to light fuses
+        (especially fireworks)
+     3: material for starting a fire [syn: {kindling}, {tinder}, {touchwood},
+         {spunk}]
+     4: a teenager or young adult who is a performer (or enthusiast)
+        of punk rock and a member of the punk youth subculture
+        [syn: {punk rocker}]
+     5: rock music with deliberately offensive lyrics expressing
+        anger and social alienation; in part a reaction against
+        progressive rock [syn: {punk rock}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

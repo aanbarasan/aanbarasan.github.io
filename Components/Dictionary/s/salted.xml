@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>salted</Word>
+  <Definitions>
+    <Definition>
+      <Word>salted</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Salt \Salt\, v. t. [imp. &amp; p. p. {Salted}; p. pr. &amp; vb. n.
+   {Salting}.]
+   1. To sprinkle, impregnate, or season with salt; to preserve
+      with salt or in brine; to supply with salt; as, to salt
+      fish, beef, or pork; to salt cattle.
+      [1913 Webster]
+
+   2. To fill with salt between the timbers and planks, as a
+      ship, for the preservation of the timber.
+      [1913 Webster]
+
+   {To salt a mine}, to artfully deposit minerals in a mine in
+      order to deceive purchasers regarding its value. [Cant]
+
+   {To salt away}, {To salt down}, to prepare with, or pack in,
+      salt for preserving, as meat, eggs, etc.; hence,
+      colloquially, to save, lay up, or invest sagely, as money.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>salted</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>salted
+     adj : (used especially of meats) preserved in salt [syn: {salt-cured}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

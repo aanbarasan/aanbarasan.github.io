@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>renting</Word>
+  <Definitions>
+    <Definition>
+      <Word>renting</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rent \Rent\, v. t. [imp. &amp; p. p. {Rented}; p. pr. &amp; vb. n.
+   {Renting}.] [F. renter. See {Rent}, n.]
+   1. To grant the possession and enjoyment of, for a rent; to
+      lease; as, the owwner of an estate or house rents it.
+      [1913 Webster]
+
+   2. To take and hold under an agreement to pay rent; as, the
+      tennant rents an estate of the owner.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>renting</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>renting
+     n : the act of paying for the use of something (as an apartment
+         or house or car) [syn: {rental}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

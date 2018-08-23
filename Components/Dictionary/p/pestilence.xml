@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pestilence</Word>
+  <Definitions>
+    <Definition>
+      <Word>pestilence</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pestilence \Pes"ti*lence\, n. [F. pestilence, L. pestilentia.
+   See {Pestilent}.]
+   1. Specifically, the disease known as the plague; hence, any
+      contagious or infectious epidemic disease that is virulent
+      and devastating.
+      [1913 Webster]
+
+            The pestilence That walketh in darkness. --Ps. xci.
+                                                  6.
+      [1913 Webster]
+
+   2. Fig.: That which is pestilent, noxious, or pernicious to
+      the moral character of great numbers.
+      [1913 Webster]
+
+            I'll pour this pestilence into his ear. --Shak.
+      [1913 Webster]
+
+   {Pestilence weed} (Bot.), the butterbur coltsfoot ({Petasites
+      vulgaris}), so called because formerly considered a remedy
+      for the plague. --Dr. Prior.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pestilence</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pestilence
+     n 1: any epidemic disease with a high death rate [syn: {plague}]
+     2: a pernicious evil influence
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

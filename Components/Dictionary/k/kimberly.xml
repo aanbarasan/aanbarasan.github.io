@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>kimberly</Word>
+  <Definitions>
+    <Definition>
+      <Word>kimberly</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Kimberly, AL (town, FIPS 39856)
+  Location: 33.76821 N, 86.80480 W
+  Population (1990): 1096 (424 housing units)
+  Area: 4.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 35091
+Kimberly, ID (city, FIPS 43570)
+  Location: 42.53422 N, 114.36455 W
+  Population (1990): 2367 (897 housing units)
+  Area: 2.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 83341
+Kimberly, OR
+  Zip code(s): 97848
+Kimberly, WI (village, FIPS 39650)
+  Location: 44.27003 N, 88.34068 W
+  Population (1990): 5406 (2069 housing units)
+  Area: 4.4 sq km (land), 0.4 sq km (water)
+  Zip code(s): 54136
+Kimberly, WV
+  Zip code(s): 25118
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

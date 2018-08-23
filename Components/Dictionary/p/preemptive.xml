@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>preemptive</Word>
+  <Definitions>
+    <Definition>
+      <Word>preemptive</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Preemptive \Pre*["e]mp"tive\, a.
+   Of or pertaining to pre["e]mption; having power to
+   pre["e]mpt; pre["e]mpting.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>preemptive</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>preemptive
+     adj : designed or having the power to deter or prevent an
+           anticipated situation or occurrence; "a preemptive
+           business offer"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

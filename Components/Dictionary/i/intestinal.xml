@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>intestinal</Word>
+  <Definitions>
+    <Definition>
+      <Word>intestinal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Intestinal \In*tes"ti*nal\, a. [Cf. F. intestinal.]
+   Of or pertaining to the intestines of an animal; as, the
+   intestinal tube; intestinal digestion; intestinal enzymes.
+   [1913 Webster]
+
+   {Intestinal canal}. Same as {Intestine}, n.
+
+   {Intestinal worm} (Zo["o]l.), any species of helminth living
+      in the intestinal canal of any animal. The species are
+      numerous.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>intestinal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>intestinal
+     adj : of or relating to or inside the intestines; "intestinal
+           disease" [syn: {enteric}, {enteral}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

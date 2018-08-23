@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>suitcase</Word>
+  <Definitions>
+    <Definition>
+      <Word>suitcase</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>suitcase
+     n : a portable rectangular traveling bag for carrying clothes;
+         "he carried his small bag onto the plane with him" [syn:
+         {bag}, {traveling bag}, {grip}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

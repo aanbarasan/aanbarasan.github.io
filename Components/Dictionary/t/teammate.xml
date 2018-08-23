@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>teammate</Word>
+  <Definitions>
+    <Definition>
+      <Word>teammate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>teammate
+     n : a fellow member of a team; "it was his first start against
+         his former teammates" [syn: {mate}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

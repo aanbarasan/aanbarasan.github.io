@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>turn</Word>
+  <Definitions>
+    <Definition>
+      <Word>turn</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>TURN
+     
+        &lt;messaging, protocol&gt; An {SMTP} command with which a {client}
+        asks the {server} to open an SMTP connection to the client,
+        thus reversing their roles.
+     
+        Superseded by {ETRN}.
+     
+        (1997-11-21)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>turn</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Turn \Turn\ (t[^u]rn), v. t. [imp. &amp; p. p. {Turned}; p. pr. &amp;
+   vb. n. {Turning}.] [OE. turnen, tournen, OF. tourner, torner,
+   turner, F. tourner, LL. tornare, fr. L. tornare to turn in a
+   lathe, to rounds off, fr. tornus a lathe, Gr. ? a turner's
+   chisel, a carpenter's tool for drawing circles; probably akin
+   to E. throw. See {Throw}, and cf. {Attorney}, {Return},
+   {Tornado}, {Tour}, {Tournament}.]
+   1. To cause to move upon a center, or as if upon a center; to
+      give circular motion to; to cause to revolve; to cause to
+      move round, either partially, wholly, or repeatedly; to
+      make to change position so as to present other sides in
+      given directions; to make to face otherwise; as, to turn a
+      wheel or a spindle; to turn the body or the head.
+      [1913 Webster]
+
+            Turn the adamantine spindle round.    --Milton.
+      [1913 Webster]
+
+            The monarch turns him to his royal guest. --Pope.
+      [1913 Webster]
+
+   2. To cause to present a different side uppermost or outmost;
+      to make the upper side the lower, or the inside to be the
+      outside of; to reverse the position of; as, to turn a box
+      or a board; to turn a coat.
+      [1913 Webster]
+
+   3. To give another direction, tendency, or inclination to; to
+      direct otherwise; to deflect; to incline differently; --
+      used both literally and figuratively; as, to turn the eyes
+      to the heavens; to turn a horse from the road, or a ship
+      from her course; to turn the attention to or from
+      something. ``Expert when to advance, or stand, or, turn
+      the sway of battle.'' --Milton.
+      [1913 Webster]
+
+            Thrice I deluded her, and turned to sport
+            Her importunity.                      --Milton.
+      [1913 Webster]
+
+            My thoughts are turned on peace.      --Addison.
+      [1913 Webster]
+
+   4. To change from a given use or office; to divert, as to
+      another purpose or end; to transfer; to use or employ; to
+      apply; to devote.
+      [1913 Webster]
+
+            Therefore he slew him, and turned the kingdom unto
+            David.                                --1 Chron. x.
+                                                  14.
+      [1913 Webster]
+
+            God will make these evils the occasion of a greater
+            good, by turning them to advantage in this world.
+                                                  --Tillotson.
+      [1913 Webster]
+
+            When the passage is open, land will be turned most
+            to cattle; when shut, to sheep.       --Sir W.
+                                                  Temple.
+      [1913 Webster]
+
+   5. To change the form, quality, aspect, or effect of; to
+      alter; to metamorphose; to convert; to transform; -- often
+      with to or into before the word denoting the effect or
+      product of the change; as, to turn a worm into a winged
+      insect; to turn green to blue; to turn prose into verse;
+      to turn a Whig to a Tory, or a Hindu to a Christian; to
+      turn good to evil, and the like.
+      [1913 Webster]
+
+            The Lord thy God will turn thy captivity, and have
+            compassion upon thee.                 --Deut. xxx.
+                                                  3.
+      [1913 Webster]
+
+            And David said, O Lord, I pray thee, turn the
+            counsel of Ahithophel into foolishness. --2 Sam. xv.
+                                                  31.
+      [1913 Webster]
+
+            Impatience turns an ague into a fever. --Jer.
+                                                  Taylor.
+      [1913 Webster]
+
+   6. To form in a lathe; to shape or fashion (anything) by
+      applying a cutting tool to it while revolving; as, to turn
+      the legs of stools or tables; to turn ivory or metal.
+      [1913 Webster]
+
+            I had rather hear a brazen candlestick turned.
+                                                  --Shak.
+      [1913 Webster]
+
+   7. Hence, to give form to; to shape; to mold; to put in
+      proper condition; to adapt. ``The poet's pen turns them to
+      shapes.'' --Shak.
+      [1913 Webster]
+
+            His limbs how turned, how broad his shoulders spread
+            !                                     --Pope.
+      [1913 Webster]
+
+            He was perfectly well turned for trade. --Addison.
+      [1913 Webster]
+
+   8. Specifically:
+      (a) To translate; to construe; as, to turn the Iliad.
+          [1913 Webster]
+
+                Who turns a Persian tale for half a crown.
+                                                  --Pope.
+          [1913 Webster]
+      (b) To make acid or sour; to ferment; to curdle, etc.: as,
+          to turn cider or wine; electricity turns milk quickly.
+          [1913 Webster]
+      (c) To sicken; to nauseate; as, an emetic turns one's
+          stomach.
+          [1913 Webster]
+
+   9. To make a turn about or around (something); to go or pass
+      around by turning; as, to turn a corner.
+
+            The ranges are not high or steep, and one can turn a
+            kopje instead of cutting or tunneling through it.
+                                                  --James Bryce.
+
+   {To be turned of}, be advanced beyond; as, to be turned of
+      sixty-six.
+
+   {To turn a cold shoulder to}, to treat with neglect or
+      indifference.
+
+   {To turn a corner}, to go round a corner.
+
+   {To turn adrift}, to cast off, to cease to care for.
+
+   {To turn a flange} (Mech.), to form a flange on, as around a
+      metal sheet or boiler plate, by stretching, bending, and
+      hammering, or rolling the metal.
+
+   {To turn against}.
+      (a) To direct against; as, to turn one's arguments against
+          himself.
+      (b) To make unfavorable or hostile to; as, to turn one's
+          friends against him.
+
+   {To turn a hostile army}, {To turn the enemy's flank}, or the
+      like (Mil.), to pass round it, and take a position behind
+      it or upon its side.
+
+   {To turn a penny}, or {To turn an honest penny}, to make a
+      small profit by trade, or the like.
+
+   {To turn around one's finger}, to have complete control of
+      the will and actions of; to be able to influence at
+      pleasure.
+
+   {To turn aside}, to avert.
+
+   {To turn away}.
+      (a) To dismiss from service; to discard; as, to turn away
+          a servant.
+      (b) To avert; as, to turn away wrath or evil.
+
+   {To turn back}.
+      (a) To give back; to return.
+          [1913 Webster]
+
+                We turn not back the silks upon the merchants,
+                When we have soiled them.         --Shak.
+          [1913 Webster]
+      (b) To cause to return or retrace one's steps; hence, to
+          drive away; to repel. --Shak.
+
+   {To turn down}.
+      (a) To fold or double down.
+      (b) To turn over so as to conceal the face of; as, to turn
+          down cards.
+      (c) To lower, or reduce in size, by turning a valve,
+          stopcock, or the like; as, turn down the lights.
+
+   {To turn in}.
+      (a) To fold or double under; as, to turn in the edge of
+          cloth.
+      (b) To direct inwards; as, to turn the toes in when
+          walking.
+      (c) To contribute; to deliver up; as, he turned in a large
+          amount. [Colloq.]
+
+   {To turn in the mind}, to revolve, ponder, or meditate upon;
+      -- with about, over, etc. `` Turn these ideas about in
+      your mind.'' --I. Watts.
+
+   {To turn off}.
+      (a) To dismiss contemptuously; as, to turn off a sycophant
+          or a parasite.
+      (b) To give over; to reduce.
+      (c) To divert; to deflect; as, to turn off the thoughts
+          from serious subjects; to turn off a joke.
+      (d) To accomplish; to perform, as work.
+      (e) (Mech.) To remove, as a surface, by the process of
+          turning; to reduce in size by turning.
+      (f) To shut off, as a fluid, by means of a valve,
+          stopcock, or other device; to stop the passage of; as,
+          to turn off the water or the gas.
+
+   {To turn one's coat}, to change one's uniform or colors; to
+      go over to the opposite party.
+
+   {To turn one's goods} or {To turn one's money}, and the like,
+      to exchange in the course of trade; to keep in lively
+      exchange or circulation; to gain or increase in trade.
+
+   {To turn one's hand to}, to adapt or apply one's self to; to
+      engage in.
+
+   {To turn out}.
+      (a) To drive out; to expel; as, to turn a family out of
+          doors; to turn a man out of office.
+          [1913 Webster]
+
+                I'll turn you out of my kingdom.  -- Shak.
+          [1913 Webster]
+      (b) to put to pasture, as cattle or horses.
+      (c) To produce, as the result of labor, or any process of
+          manufacture; to furnish in a completed state.
+      (d) To reverse, as a pocket, bag, etc., so as to bring the
+          inside to the outside; hence, to produce.
+      (e) To cause to cease, or to put out, by turning a
+          stopcock, valve, or the like; as, to turn out the
+          lights.
+
+   {To turn over}.
+      (a) To change or reverse the position of; to overset; to
+          overturn; to cause to roll over.
+      (b) To transfer; as, to turn over business to another
+          hand.
+      (c) To read or examine, as a book, while, turning the
+          leaves. ``We turned o'er many books together.''
+          --Shak.
+      (d) To handle in business; to do business to the amount
+          of; as, he turns over millions a year. [Colloq.]
+
+   {To turn over a new leaf}. See under {Leaf}.
+
+   {To turn tail}, to run away; to retreat ignominiously.
+
+   {To turn the back}, to flee; to retreat.
+
+   {To turn the back on} or
+
+   {To turn the back upon}, to treat with contempt; to reject or
+      refuse unceremoniously.
+
+   {To turn the corner}, to pass the critical stage; to get by
+      the worst point; hence, to begin to improve, or to
+      succeed.
+
+   {To turn the die} or {To turn the dice}, to change fortune.
+      
+
+   {To turn the edge of} or {To turn the point of}, to bend over
+      the edge or point of so as to make dull; to blunt.
+
+   {To turn the head of} or {To turn the brain of}, to make
+      giddy, wild, insane, or the like; to infatuate; to
+      overthrow the reason or judgment of; as, a little success
+      turned his head.
+
+   {To turn the scale} or {To turn the balance}, to change the
+      preponderance; to decide or determine something doubtful;
+      to tip the balance.
+
+   {To turn the stomach of}, to nauseate; to sicken.
+
+   {To turn the tables}, to reverse the chances or conditions of
+      success or superiority; to give the advantage to the
+      person or side previously at a disadvantage.
+
+   {To turn tippet}, to make a change. [Obs.] --B. Jonson.
+
+   {To turn to profit}, {To turn to advantage}, etc., to make
+      profitable or advantageous.
+
+   {To turn turtle}, to capsize bottom upward; -- said of a
+      vessel. [Naut. slang]
+
+   {To turn under} (Agric.), to put, as soil, manure, etc.,
+      underneath from the surface by plowing, digging, or the
+      like.
+
+   {To turn up}.
+      (a) To turn so as to bring the bottom side on top; as, to
+          turn up the trump.
+      (b) To bring from beneath to the surface, as in plowing,
+          digging, etc.
+      (c) To give an upward curve to; to tilt; as, to turn up
+          the nose.
+
+   {To turn upon}, to retort; to throw back; as, to turn the
+      arguments of an opponent upon himself.
+
+   {To turn upside down}, to confuse by putting things awry; to
+      throw into disorder.
+      [1913 Webster]
+
+            This house is turned upside down since Robin Ostler
+            died.                                 --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>turn</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Turn \Turn\, v. i.
+   1. To move round; to have a circular motion; to revolve
+      entirely, repeatedly, or partially; to change position, so
+      as to face differently; to whirl or wheel round; as, a
+      wheel turns on its axis; a spindle turns on a pivot; a man
+      turns on his heel.
+      [1913 Webster]
+
+            The gate . . . on golden hinges turning. --Milton.
+      [1913 Webster]
+
+   2. Hence, to revolve as if upon a point of support; to hinge;
+      to depend; as, the decision turns on a single fact.
+      [1913 Webster]
+
+            Conditions of peace certainly turn upon events of
+            war.                                  --Swift.
+      [1913 Webster]
+
+   3. To result or terminate; to come about; to eventuate; to
+      issue.
+      [1913 Webster]
+
+            If we repent seriously, submit contentedly, and
+            serve him faithfully, afflictions shall turn to our
+            advantage.                            --Wake.
+      [1913 Webster]
+
+   4. To be deflected; to take a different direction or
+      tendency; to be directed otherwise; to be differently
+      applied; to be transferred; as, to turn from the road.
+      [1913 Webster]
+
+            Turn from thy fierce wrath.           --Ex. xxxii.
+                                                  12.
+      [1913 Webster]
+
+            Turn ye, turn ye from your evil ways. --Ezek.
+                                                  xxxiii. 11.
+      [1913 Webster]
+
+            The understanding turns inward on itself, and
+            reflects on its own operations.       --Locke.
+      [1913 Webster]
+
+   5. To be changed, altered, or transformed; to become
+      transmuted; also, to become by a change or changes; to
+      grow; as, wood turns to stone; water turns to ice; one
+      color turns to another; to turn Mohammedan.
+      [1913 Webster]
+
+            I hope you have no intent to turn husband. --Shak.
+      [1913 Webster]
+
+            Cygnets from gray turn white.         --Bacon.
+      [1913 Webster]
+
+   6. To undergo the process of turning on a lathe; as, ivory
+      turns well.
+      [1913 Webster]
+
+   7. Specifically: 
+      [1913 Webster]
+      (a) To become acid; to sour; -- said of milk, ale, etc.
+          [1913 Webster]
+      (b) To become giddy; -- said of the head or brain.
+          [1913 Webster]
+
+                I'll look no more;
+                Lest my brain turn.               --Shak.
+          [1913 Webster]
+      (c) To be nauseated; -- said of the stomach.
+          [1913 Webster]
+      (d) To become inclined in the other direction; -- said of
+          scales.
+          [1913 Webster]
+      (e) To change from ebb to flow, or from flow to ebb; --
+          said of the tide.
+          [1913 Webster]
+      (f) (Obstetrics) To bring down the feet of a child in the
+          womb, in order to facilitate delivery.
+          [1913 Webster]
+
+   8. (Print.) To invert a type of the same thickness, as
+      temporary substitute for any sort which is exhausted.
+      [1913 Webster]
+
+   {To turn about}, to face to another quarter; to turn around.
+      
+
+   {To turn again}, to come back after going; to return. --Shak.
+
+   {To turn against}, to become unfriendly or hostile to.
+
+   {To turn aside} or {To turn away}.
+      (a) To turn from the direct course; to withdraw from a
+          company; to deviate.
+      (b) To depart; to remove.
+      (c) To avert one's face.
+
+   {To turn back}, to turn so as to go in an opposite direction;
+      to retrace one's steps.
+
+   {To turn in}.
+      (a) To bend inward.
+      (b) To enter for lodgings or entertainment.
+      (c) To go to bed. [Colloq.]
+
+   {To turn into}, to enter by making a turn; as, to turn into a
+      side street.
+
+   {To turn off}, to be diverted; to deviate from a course; as,
+      the road turns off to the left.
+
+   {To turn on} or {To turn upon}.
+      (a) To turn against; to confront in hostility or anger.
+      (b) To reply to or retort.
+      (c) To depend on; as, the result turns on one condition.
+          
+
+   {To turn out}.
+      (a) To move from its place, as a bone.
+      (b) To bend or point outward; as, his toes turn out.
+      (c) To rise from bed. [Colloq.]
+      (d) To come abroad; to appear; as, not many turned out to
+          the fire.
+      (e) To prove in the result; to issue; to result; as, the
+          crops turned out poorly.
+
+   {To turn over}, to turn from side to side; to roll; to
+      tumble.
+
+   {To turn round}.
+      (a) To change position so as to face in another direction.
+      (b) To change one's opinion; to change from one view or
+          party to another.
+
+   {To turn to}, to apply one's self to; have recourse to; to
+      refer to. ``Helvicus's tables may be turned to on all
+      occasions.'' --Locke.
+
+   {To turn to account}, {profit}, {advantage}, or the like, to
+      be made profitable or advantageous; to become worth the
+      while.
+
+   {To turn under}, to bend, or be folded, downward or under.
+
+   {To turn up}.
+      (a) To bend, or be doubled, upward.
+      (b) To appear; to come to light; to transpire; to occur;
+          to happen.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>turn</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Turn \Turn\, n.
+   1. The act of turning; movement or motion about, or as if
+      about, a center or axis; revolution; as, the turn of a
+      wheel.
+      [1913 Webster]
+
+   2. Change of direction, course, or tendency; different order,
+      position, or aspect of affairs; alteration; vicissitude;
+      as, the turn of the tide.
+      [1913 Webster]
+
+            At length his complaint took a favorable turn.
+                                                  --Macaulay.
+      [1913 Webster]
+
+            The turns and varieties of all passions. --Hooker.
+      [1913 Webster]
+
+            Too well the turns of mortal chance I know. --Pope.
+      [1913 Webster]
+
+   3. One of the successive portions of a course, or of a series
+      of occurrences, reckoning from change to change; hence, a
+      winding; a bend; a meander.
+      [1913 Webster]
+
+            And all its [the river's] thousand turns disclose.
+            Some fresher beauty varying round.    --Byron.
+      [1913 Webster]
+
+   4. A circuitous walk, or a walk to and fro, ending where it
+      began; a short walk; a stroll.
+      [1913 Webster]
+
+            Come, you and I must walk a turn together. --Shak.
+      [1913 Webster]
+
+            I will take a turn in your garden.    --Dryden.
+      [1913 Webster]
+
+   5. Successive course; opportunity enjoyed by alternation with
+      another or with others, or in due order; due chance;
+      alternate or incidental occasion; appropriate time.
+      ``Nobleness and bounty . . . had their turns in his [the
+      king's] nature.''
+      [1913 Webster]
+
+            His turn will come to laugh at you again. --Denham.
+      [1913 Webster]
+
+            Every one has a fair turn to be as great as he
+            pleases.                              --Collier.
+      [1913 Webster]
+
+   6. Incidental or opportune deed or office; occasional act of
+      kindness or malice; as, to do one an ill turn.
+      [1913 Webster]
+
+            Had I not done a friendes turn to thee? --Chaucer.
+      [1913 Webster]
+
+            thanks are half lost when good turns are delayed.
+                                                  --Fairfax.
+      [1913 Webster]
+
+   7. Convenience; occasion; purpose; exigence; as, this will
+      not serve his turn.
+      [1913 Webster]
+
+            I have enough to serve mine own turn. --Shak.
+      [1913 Webster]
+
+   8. Form; cast; shape; manner; fashion; -- used in a literal
+      or figurative sense; hence, form of expression; mode of
+      signifying; as, the turn of thought; a man of a sprightly
+      turn in conversation.
+      [1913 Webster]
+
+            The turn of both his expressions and thoughts is
+            unharmonious.                         --Dryden.
+      [1913 Webster]
+
+            The Roman poets, in their description of a beautiful
+            man, often mention the turn of his neck and arms.
+                                                  --Addison.
+      [1913 Webster]
+
+   9. A change of condition; especially, a sudden or recurring
+      symptom of illness, as a nervous shock, or fainting spell;
+      as, a bad turn. [Colloq.]
+      [1913 Webster]
+
+   10. A fall off the ladder at the gallows; a hanging; -- so
+       called from the practice of causing the criminal to stand
+       on a ladder which was turned over, so throwing him off,
+       when the signal was given. [Obs.]
+       [1913 Webster]
+
+   11. A round of a rope or cord in order to secure it, as about
+       a pin or a cleat.
+       [1913 Webster]
+
+   12. (Mining) A pit sunk in some part of a drift.
+       [1913 Webster]
+
+   13. (Eng. Law) A court of record, held by the sheriff twice a
+       year in every hundred within his county. --Blount.
+       [1913 Webster]
+
+   14. pl. (Med.) Monthly courses; menses. [Colloq.]
+       [1913 Webster]
+
+   15. (Mus.) An embellishment or grace (marked thus, ?),
+       commonly consisting of the principal note, or that on
+       which the turn is made, with the note above, and the
+       semitone below, the note above being sounded first, the
+       principal note next, and the semitone below last, the
+       three being performed quickly, as a triplet preceding the
+       marked note. The turn may be inverted so as to begin with
+       the lower note, in which case the sign is either placed
+       on end thus ?, or drawn thus ?.
+       [1913 Webster]
+
+   {By turns}.
+       (a) One after another; alternately; in succession.
+       (b) At intervals. ``[They] feel by turns the bitter
+           change.'' --Milton.
+
+   {In turn}, in due order of succession.
+
+   {To a turn}, exactly; perfectly; as, done to a turn; -- a
+      phrase alluding to the practice of cooking on a revolving
+      spit.
+
+   {To take turns}, to alternate; to succeed one another in due
+      order.
+
+   {Turn and turn about}, by equal alternating periods of
+      service or duty; by turns.
+
+   {Turn bench}, a simple portable lathe, used on a bench by
+      clock makers and watchmakers.
+
+   {Turn buckle}. See {Turnbuckle}, in Vocabulary.
+
+   {Turn cap}, a sort of chimney cap which turns round with the
+      wind so as to present its opening to the leeward. --G.
+      Francis.
+
+   {Turn of life} (Med.), change of life. See under {Change}.
+
+   {Turn screw}, a screw driver.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>turn</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>turn
+     n 1: a circular segment of a curve; "a bend in the road"; "a
+          crook in the path" [syn: {bend}, {crook}]
+     2: the act of changing or reversing the direction of the
+        course; "he took a turn to the right" [syn: {turning}]
+     3: the activity of doing something in an agreed succession; "it
+        is my turn"; "it is still my play" [syn: {play}]
+     4: an unforeseen development; "events suddenly took an awkward
+        turn" [syn: {turn of events}, {twist}]
+     5: a movement in a new direction; "the turning of the wind"
+        [syn: {turning}]
+     6: turning away or in the opposite direction; "he made an
+        abrupt turn away from her"
+     7: turning or twisting around (in place); "with a quick twist
+        of his head he surveyed the room" [syn: {twist}]
+     8: a time for working (after which you will be relieved by
+        someone else); "it's my go"; "a spell of work" [syn: {go},
+         {spell}, {tour}]
+     9: (sports) a period of play during which one team is on the
+        offensive [syn: {bout}, {round}]
+     10: a short theatrical performance that is part of a longer
+         program; "he did his act three times every evening"; "she
+         had a catchy little routine"; "it was one of the best
+         numbers he ever did" [syn: {act}, {routine}, {number}, {bit}]
+     11: a favor for someone; "he did me a good turn" [syn: {good
+         turn}]
+     12: taking a short walk out and back; "we took a turn in the
+         park"
+     v 1: change orientation or direction, also in the abstract sense;
+          "Turn towards me"; "The mugger turned and fled before I
+          could see his face"; "She turned from herself and
+          learned to listen to others' needs"
+     2: undergo a change or development; "The water turned into
+        ice"; "Her former friend became her worst enemy"; "He
+        turned traitor" [syn: {become}]
+     3: undergo a transformation or a change of position or action;
+        "We turned from Socialism to Capitalism"; "The people
+        turned against the President when he stole the election"
+        [syn: {change state}]
+     4: cause to move around or rotate; "turn a key"; "turn your
+        palm this way"
+     5: pass into a condition gradually, take on a specific property
+        or attribute; become; "The weather turned nasty"; "She
+        grew angry" [syn: {grow}]
+     6: to send or let go; "They turned away the crowd at the gate
+        of the governor's mansion"
+     7: pass to the other side of; "turn the corner"; "move around
+        the obstacle" [syn: {move around}]
+     8: move around an axis or a center; "The wheels are turning"
+     9: cause to move around a center so as to show another side of;
+        "turn a page of a book" [syn: {turn over}]
+     10: change to the contrary; "The trend was reversed"; "the tides
+         turned against him"; "public opinion turned when it was
+         revealed that the president had an affair with a White
+         House intern" [syn: {change by reversal}, {reverse}]
+     11: to break and turn over earth especially with a plow; "Farmer
+         Jones plowed his east field last week"; "turn the earth
+         in the Spring" [syn: {plow}, {plough}]
+     12: change color; "In Vermont, the leaves turn early"
+     13: cause to change or turn into something different;assume new
+         characteristics; "The princess turned the frog into a
+         prince by kissing him"; "The alchemists tried to turn
+         lead into gold"
+     14: let (something) fall or spill a container; "turn the flour
+         onto a plate" [syn: {release}]
+     15: twist suddenly so as to sprain; "wrench one's ankle"; "The
+         wrestler twisted his shoulder"; "the hikers sprained
+         their ankles when they fell"; "I turned my ankle and
+         couldn't walk for several days" [syn: {twist}, {sprain},
+         {wrench}, {wrick}, {rick}]
+     16: shape by rotating on a lathe or cutting device or a wheel;
+         "turn the legs of the table"; "turn the clay on the
+         wheel"
+     17: go sour or spoil; "The milk has soured"; "The wine worked";
+         "The cream has turned--we have to throw it out" [syn: {sour},
+          {ferment}, {work}]
+     18: accomplish by rotating; "turn a somersault"; "turn
+         cartwheels"
+     19: get by buying and selling; "the company turned a good profit
+         after a year"
+     20: cause to move along an axis or into a new direction; "turn
+         your face to the wall"; "turn the car around"; "turn your
+         dance partner around"
+     21: channel one's attention, interest, thought, or attention
+         toward or away from something; "The pedophile turned to
+         boys for satisfaction"; "people turn to mysticism at the
+         turn of a millenium"
+     22: cause (a plastic object) to assume a crooked or angular
+         form; "bend the rod"; "twist the dough into a braid";
+         "the strong man could turn an iron bar" [syn: {flex}, {bend},
+          {deform}, {twist}] [ant: {unbend}]
+     23: alter the functioning or setting of; "turn the dial to 10";
+         "turn the heat down"
+     24: direct at someone; "She turned a smile on me"; "They turned
+         their flashlights on the car"
+     25: have recourse to or make an appeal or request for help or
+         information to; "She called on her Representative to help
+         her"; "She turned to her relatives for help" [syn: {call
+         on}]
+     26: become officially one year older; "She is turning 50 this
+         year"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

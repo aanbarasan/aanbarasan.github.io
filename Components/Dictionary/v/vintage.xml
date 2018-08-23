@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>vintage</Word>
+  <Definitions>
+    <Definition>
+      <Word>vintage</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Vintage \Vint"age\ (?; 48), n. [Corrupted by influence of
+   vintner, vintry, from OE. vindage, vendage, for vendange, OF.
+   vendenge, F. vendange, from L. vindemia; vinum wine, grapes +
+   demere to take off; de + emere, originally, to take. See
+   {Wine}, {Redeem}, and cf. {Vindemial}.]
+   1. The produce of the vine for one season, in grapes or in
+      wine; as, the vintage is abundant; the vintage of 1840.
+      [1913 Webster]
+
+   2. The act or time of gathering the crop of grapes, or making
+      the wine for a season.
+      [1913 Webster]
+
+   {Vintage spring}, a wine fount.
+
+   {Vintage time}, the time of gathering grapes and making wine.
+      --Milton.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>vintage</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>vintage
+     n 1: a season's yield of wine from a vineyard
+     2: the oldness of wines [syn: {time of origin}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

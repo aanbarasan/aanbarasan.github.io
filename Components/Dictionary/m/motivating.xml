@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>motivating</Word>
+  <Definitions>
+    <Definition>
+      <Word>motivating</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>motivating \motivating\ motivative \motivative\adj.
+   causing motion or impelling to action; providing a motive[2];
+   as, motivating arguments.
+
+   Syn: motive(prenominal).
+        [WordNet 1.5]
+
+              It may well be that ethical language has primarily
+              a motivative function               --Arthur Pap
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>motivating</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>motivating
+     adj : impelling to action; "it may well be that ethical language
+           has primarily a motivative function"- Arthur Pap;
+           "motive pleas"; "motivating arguments" [syn: {motivative(a)},
+            {motive(a)}]
+     n : the act of motivating; providing incentive [syn: {motivation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

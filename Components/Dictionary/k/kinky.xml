@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>kinky</Word>
+  <Definitions>
+    <Definition>
+      <Word>kinky</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Kinky \Kink"y\, a.
+   1. Full of kinks; liable to kink or curl; as, kinky hair.
+      [1913 Webster]
+
+   2. Queer; eccentric; unconventional; crotchety. [Colloq.
+      U.S.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>kinky</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>kinky
+     adj 1: (used of sexual behavior) showing or appealing to bizarre or
+            deviant tastes; "kinky sex"; "perverted practices"
+            [syn: {perverted}]
+     2: in small tight curls [syn: {crisp}, {frizzly}, {frizzy}, {nappy}]
+     3: informal terms; strikingly unconventional [syn: {far-out}, {offbeat},
+         {quirky}, {way-out}]
+     [also: {kinkiest}, {kinkier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

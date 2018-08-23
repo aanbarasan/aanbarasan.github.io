@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>monk</Word>
+  <Definitions>
+    <Definition>
+      <Word>monk</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Monk \Monk\, n. [AS. munuc, munec, munc, L. monachus, Gr. ?, fr.
+   mo`nos alone. Cf. {Monachism}.]
+   1. A man who retires from the ordinary temporal concerns of
+      the world, and devotes himself to religion; one of a
+      religious community of men inhabiting a monastery, and
+      bound by vows to a life of chastity, obedience, and
+      poverty. ``A monk out of his cloister.'' --Chaucer.
+      [1913 Webster]
+
+            Monks in some respects agree with regulars, as in
+            the substantial vows of religion; but in other
+            respects monks and regulars differ; for that
+            regulars, vows excepted, are not tied up to so
+            strict a rule of life as monks are.   --Ayliffe.
+      [1913 Webster]
+
+   2. (Print.) A blotch or spot of ink on a printed page, caused
+      by the ink not being properly distributed. It is
+      distinguished from a friar, or white spot caused by a
+      deficiency of ink.
+      [1913 Webster]
+
+   3. A piece of tinder made of agaric, used in firing the
+      powder hose or train of a mine.
+      [1913 Webster]
+
+   4. (Zo["o]l.)
+      (a) A South American monkey ({Pithecia monachus}); also
+          applied to other species, as {Cebus xanthocephalus}.
+      (b) The European bullfinch.
+          [1913 Webster]
+
+   {Monk bat} (Zo["o]l.), a South American and West Indian bat
+      ({Molossus nasutus}); -- so called because the males live
+      in communities by themselves.
+
+   {Monk bird}(Zo["o]l.), the friar bird.
+
+   {Monk seal} (Zo["o]l.), a species of seal ({Monachus
+      albiventer}) inhabiting the Black Sea, the Mediterranean
+      Sea, and the adjacent parts of the Atlantic.
+
+   {Monk's rhubarb} (Bot.), a kind of dock; -- also called
+      {patience} ({Rumex Patientia}).
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>monk</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>monk
+     n 1: a male religious living in a cloister and devoting himself
+          to contemplation and prayer and work [syn: {monastic}]
+     2: United States jazz pianist who was one of the founders of
+        the bebop style (1917-1982) [syn: {Thelonious Monk}, {Thelonious
+        Sphere Monk}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>necklace</Word>
+  <Definitions>
+    <Definition>
+      <Word>necklace</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>necklace \neck"lace\ (?; 48), n.
+   1. A string of beads, etc., or any continuous band or chain,
+      worn around the neck as an ornament.
+      [1913 Webster]
+
+   2. (Naut.) A rope or chain fitted around the masthead to hold
+      hanging blocks for jibs and stays.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>necklace</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>necklace
+     n : jewelry consisting of a cord or chain (often bearing gems)
+         worn about the neck as an ornament (especially by women)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

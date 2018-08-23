@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>peepee</Word>
+  <Definitions>
+    <Definition>
+      <Word>peepee</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pee-pee
+     v : eliminate urine; "Again, the cat had made on the expensive
+         rug" [syn: {make}, {urinate}, {piddle}, {puddle}, {micturate},
+          {piss}, {pee}, {make water}, {relieve oneself}, {take a
+         leak}, {spend a penny}, {wee}, {wee-wee}, {pass water}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unbreakable</Word>
+  <Definitions>
+    <Definition>
+      <Word>unbreakable</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unbreakable
+     adj 1: impossible to break especially under ordinary usage;
+            "unbreakable plastic dinnerwear" [ant: {breakable}]
+     2: impossible to not honor; "an unbreakable promise"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

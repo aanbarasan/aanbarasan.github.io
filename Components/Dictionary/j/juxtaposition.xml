@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>juxtaposition</Word>
+  <Definitions>
+    <Definition>
+      <Word>juxtaposition</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Juxtaposition \Jux`ta*po*si"tion\
+   (j[u^]ks`t[.a]*p[-o]*z[i^]sh"[u^]n), n. [L. juxta near +
+   positio position: cf. F. juxtaposition. See {Just}, v. i.,
+   and {Position}.]
+   A placing or being placed in nearness or contiguity, or side
+   by side; as, a juxtaposition of words.
+   [1913 Webster]
+
+         Parts that are united by a a mere juxtaposition.
+                                                  --Glanvill.
+   [1913 Webster]
+
+         Juxtaposition is a very unsafe criterion of continuity.
+                                                  --Hare.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>juxtaposition</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>juxtaposition
+     n 1: the act of positioning close together (or side by side); "it
+          is the result of the juxtaposition of contrasting
+          colors" [syn: {apposition}, {collocation}]
+     2: a side-by-side position
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pursuant</Word>
+  <Definitions>
+    <Definition>
+      <Word>pursuant</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pursuant \Pur*su"ant\, Pursuantly \Pur*su"ant*ly\, adv.
+   Agreeably; conformably.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pursuant</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pursuant \Pur*su"ant\, a. [From {Pursue}: cf. OE. poursuiant.
+   Cf. {Pursuivant}.]
+   Acting in consequence or in prosecution (of anything); hence,
+   agreeable; conformable; following; according; -- with to or
+   of.
+   [1913 Webster]
+
+         The conclusion which I draw from these premises,
+         pursuant to the query laid down, is, etc. --Waterland.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pursuant</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pursuant
+     adj : (followed by `to') in conformance to or agreement with;
+           "pursuant to our agreement"; "pursuant to the dictates
+           of one's conscience" [syn: {pursuant(p)}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

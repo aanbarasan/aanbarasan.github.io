@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>riley</Word>
+  <Definitions>
+    <Definition>
+      <Word>riley</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Riley, IN (town, FIPS 64512)
+  Location: 39.38980 N, 87.30040 W
+  Population (1990): 232 (100 housing units)
+  Area: 0.2 sq km (land), 0.0 sq km (water)
+Riley, KS (city, FIPS 59875)
+  Location: 39.29825 N, 96.82837 W
+  Population (1990): 804 (359 housing units)
+  Area: 1.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 66531
+Riley, MI
+  Zip code(s): 48041
+Riley, OR
+  Zip code(s): 97758
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>riley</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Riley
+     n : United States poet (1849-1916) [syn: {James Whitcomb Riley}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

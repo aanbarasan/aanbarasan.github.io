@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>thud</Word>
+  <Definitions>
+    <Definition>
+      <Word>thud</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>thud
+     
+        1. Yet another {metasyntactic variable} (see {foo}).  It is
+        reported that at {CMU} from the mid-1970s the canonical series
+        of these was "foo", "bar", "thud", "blat".
+     
+        2. Rare term for the hash character, "#" (ASCII 35).  See
+        {ASCII} for other synonyms.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>thud</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Thud \Thud\ (th[u^]d), n. [Cf. AS. [thorn][=o]den a whirlwind,
+   violent wind, or E. thump.]
+   A dull sound without resonance, like that produced by
+   striking with, or striking against, some comparatively soft
+   substance; also, the stroke or blow producing such sound; as,
+   the thrud of a cannon ball striking the earth.
+   [1913 Webster]
+
+         At every new thud of the blast, a sob arose. --Jeffrey.
+   [1913 Webster]
+
+         At intervals there came some tremendous thud on the
+         side of the steamer.                     --C. Mackay.
+   [1913 Webster]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>thud</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Thud \Thud\ (th[u^]d), v. i. &amp; t.
+   To make, or strike so as to make, a dull sound, or thud.
+
+         Hardly the softest thudding of velvety pads. --A. C.
+                                                  Doyle.
+
+         The waves break into spray, dash and rumble and thud
+         below your feet.                         --H. F. Brown.
+   [Webster 1913 Suppl.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>thud</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>thud n. 1. Yet another {metasyntactic variable} (see {foo}). It is
+   reported that at CMU from the mid-1970s the canonical series of these
+   was `foo', `bar', `thud', `blat'. 2. Rare term for the hash character,
+   `#' (ASCII 0100011). See {ASCII} for other synonyms.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>thud</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>thud
+     n : a heavy dull sound (as made by impact of heavy objects)
+         [syn: {thump}, {thumping}, {clump}, {clunk}]
+     v 1: make a dull sound; "the knocker thudded against the front
+          door" [syn: {thump}]
+     2: strike with a dull sound; "Bullets were thudding against the
+        wall"
+     3: make a noise typical of an engine lacking lubricants [syn: {crump},
+         {scrunch}]
+     [also: {thudding}, {thudded}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

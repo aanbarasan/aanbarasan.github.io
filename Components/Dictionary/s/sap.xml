@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sap</Word>
+  <Definitions>
+    <Definition>
+      <Word>sap</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>SAP
+     
+        1. &lt;company&gt; {SAP AG} (Systems, Applications and Products in
+        Data Processing).
+     
+        2. &lt;protocol&gt; {Service Advertising Protocol}.
+     
+        3. &lt;networking&gt; {Service Access Point}.
+     
+        4. &lt;language&gt; {Symbolic Assembler Program}.
+     
+        (1999-05-26)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sap</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sap \Sap\, n. [AS. s[ae]p; akin to OHG. saf, G. saft, Icel.
+   safi; of uncertain origin; possibly akin to L. sapere to
+   taste, to be wise, sapa must or new wine boiled thick. Cf.
+   {Sapid}, {Sapient}.]
+   1. The juice of plants of any kind, especially the ascending
+      and descending juices or circulating fluid essential to
+      nutrition.
+      [1913 Webster]
+
+   Note: The ascending is the crude sap, the assimilation of
+         which takes place in the leaves, when it becomes the
+         elaborated sap suited to the growth of the plant.
+         [1913 Webster]
+
+   2. The sapwood, or alburnum, of a tree.
+      [1913 Webster]
+
+   3. A simpleton; a saphead; a milksop. [Slang]
+      [1913 Webster]
+
+   {Sap ball} (Bot.), any large fungus of the genus Polyporus.
+      See {Polyporus}.
+
+   {Sap green}, a dull light green pigment prepared from the
+      juice of the ripe berries of the {Rhamnus catharticus}, or
+      buckthorn. It is used especially by water-color artists.
+      
+
+   {Sap rot}, the dry rot. See under {Dry}.
+
+   {Sap sucker} (Zo["o]l.), any one of several species of small
+      American woodpeckers of the genus {Sphyrapicus},
+      especially the yellow-bellied woodpecker ({S. varius}) of
+      the Eastern United States. They are so named because they
+      puncture the bark of trees and feed upon the sap. The name
+      is loosely applied to other woodpeckers.
+
+   {Sap tube} (Bot.), a vessel that conveys sap.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sap</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sap \Sap\, v. i.
+   To proceed by mining, or by secretly undermining; to execute
+   saps. --W. P. Craighill.
+   [1913 Webster]
+
+         Both assaults are carried on by sapping. --Tatler.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sap</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sap \Sap\, n. (Mil.)
+   A narrow ditch or trench made from the foremost parallel
+   toward the glacis or covert way of a besieged place by
+   digging under cover of gabions, etc.
+   [1913 Webster]
+
+   {Sap fagot} (Mil.), a fascine about three feet long, used in
+      sapping, to close the crevices between the gabions before
+      the parapet is made.
+
+   {Sap roller} (Mil.), a large gabion, six or seven feet long,
+      filled with fascines, which the sapper sometimes rolls
+      along before him for protection from the fire of an enemy.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sap</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sap \Sap\, v. t. [imp. &amp; p. p. {Sapped}; p. pr. &amp; vb. n.
+   {Sapping}.] [F. saper (cf. Sp. zapar, It. zapare), fr. sape a
+   sort of scythe, LL. sappa a sort of mattock.]
+   1. To subvert by digging or wearing away; to mine; to
+      undermine; to destroy the foundation of.
+      [1913 Webster]
+
+            Nor safe their dwellings were, for sapped by floods,
+            Their houses fell upon their household gods.
+                                                  --Dryden.
+      [1913 Webster]
+
+   2. (Mil.) To pierce with saps.
+      [1913 Webster]
+
+   3. To make unstable or infirm; to unsettle; to weaken.
+      [1913 Webster]
+
+            Ring out the grief that saps the mind. --Tennyson.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sap</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>SAP
+     Service Access Point (OSI)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sap</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>SAP
+     Service Advertising Protocol (Novell, Netware, IPX)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sap</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>SAP
+     Session Announcement Protocol (Internet, RFC 2974)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sap</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>SAP
+     Symbolic Assembler Program (IBM, IBM 704)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sap</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>SAP
+     SystemAnalyse und Programmentwicklung (manufacturer, predecessor)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sap</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>SAP
+     Systems, Applications and Products [in data processing] [ag]
+     (manufacturer)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sap</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sap
+     n 1: a watery solution of sugars, salts, and minerals that
+          circulates through the vascular system of a plant
+     2: a person who lacks good judgment [syn: {fool}, {saphead}, {muggins},
+         {tomfool}]
+     3: a piece of metal covered by leather with a flexible handle;
+        used for hitting people [syn: {blackjack}, {cosh}]
+     v 1: deplete; "exhaust one's savings"; "We quickly played out our
+          strength" [syn: {run down}, {exhaust}, {play out}, {tire}]
+     2: excavate the earth beneath
+     [also: {sapping}, {sapped}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

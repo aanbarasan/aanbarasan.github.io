@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>johnson</Word>
+  <Definitions>
+    <Definition>
+      <Word>johnson</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Johnson, AR (city, FIPS 35500)
+  Location: 36.13317 N, 94.17297 W
+  Population (1990): 599 (257 housing units)
+  Area: 7.9 sq km (land), 0.0 sq km (water)
+Johnson, KS
+  Zip code(s): 67855
+Johnson, MN (city, FIPS 32012)
+  Location: 45.57188 N, 96.29378 W
+  Population (1990): 46 (21 housing units)
+  Area: 0.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 56250
+Johnson, NE (village, FIPS 24670)
+  Location: 40.41125 N, 95.99838 W
+  Population (1990): 323 (170 housing units)
+  Area: 0.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 68378
+Johnson, OK (town, FIPS 38200)
+  Location: 35.40512 N, 96.84256 W
+  Population (1990): 196 (81 housing units)
+  Area: 10.2 sq km (land), 0.0 sq km (water)
+Johnson, VT (village, FIPS 37000)
+  Location: 44.63723 N, 72.67795 W
+  Population (1990): 1470 (414 housing units)
+  Area: 3.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 05656
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>johnson</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Johnson
+     n 1: English writer and lexicographer (1709-1784) [syn: {Samuel
+          Johnson}, {Dr. Johnson}]
+     2: 36th President of the United States; was elected Vice
+        President and succeeded Kennedy when Kennedy was
+        assassinated (1908-1973) [syn: {Lyndon Johnson}, {Lyndon
+        Baines Johnson}, {LBJ}, {President Johnson}, {President
+        Lyndon Johnson}]
+     3: 17th President of the United States; was elected Vice
+        President and succeeded Lincoln when Lincoln was
+        assassinated; was impeached but acquitted by one vote
+        (1808-1875) [syn: {Andrew Johnson}, {President Johnson}, {President
+        Andrew Johnson}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

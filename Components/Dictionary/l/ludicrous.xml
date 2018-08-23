@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ludicrous</Word>
+  <Definitions>
+    <Definition>
+      <Word>ludicrous</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ludicrous \Lu"di*crous\, a. [L. ludicrus, or ludicer, from ludus
+   play, sport, fr. ludere to play.]
+   1. Adapted to excite laughter, without scorn or contempt;
+      sportive. --Broome.
+      [1913 Webster]
+
+            A chapter upon German rhetoric would be in the same
+            ludicrous predicament as Van Troil's chapter on the
+            snakes of Iceland, which delivers its business in
+            one summary sentence, announcing, that snakes in
+            Iceland -- there are none.            --De Quincey.
+
+   2. Ridiculously absurd.
+      [PJC]
+
+   Syn: Laughable; sportive; burlesque; comic; droll;
+        ridiculous.
+
+   Usage: {Ludicrous}, {Laughable}, {Ridiculous}. We speak of a
+          thing as ludicrous when it tends to produce laughter;
+          as laughable when the impression is somewhat stronger;
+          as ridiculous when more or less contempt is mingled
+          with the merriment created. -- {Lu"di*crous*ly}, adv.
+          -- {Lu"di*crous*ness}, n.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ludicrous</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ludicrous
+     adj 1: broadly or extravagantly humorous; resembling farce; "the
+            wild farcical exuberance of a clown"; "ludicrous green
+            hair" [syn: {farcical}, {ridiculous}]
+     2: completely devoid of wisdom or good sense; "the absurd
+        excuse that the dog ate his homework"; "that's a cockeyed
+        idea"; "ask a nonsensical question and get a nonsensical
+        answer"; "a contribution so small as to be laughable"; "it
+        is ludicrous to call a cottage a mansion"; "a preposterous
+        attempt to turn back the pages of history"; "her conceited
+        assumption of universal interest in her rather dull
+        children was ridiculous" [syn: {absurd}, {cockeyed}, {derisory},
+         {idiotic}, {laughable}, {nonsensical}, {preposterous}, {ridiculous}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

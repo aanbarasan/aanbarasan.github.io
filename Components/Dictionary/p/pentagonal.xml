@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pentagonal</Word>
+  <Definitions>
+    <Definition>
+      <Word>pentagonal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pentagonal \Pen*tag"o*nal\, a. [Cf. F. pentagonal, pentagone, L.
+   pentagonus, pentagonius, Gr. ?.]
+   Having five corners or angles.
+   [1913 Webster]
+
+   {Pentagonal dodecahedron}. See {Dodecahedron}, and
+      {Pyritohedron}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pentagonal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pentagonal
+     adj : of or relating to or shaped like a pentagon [syn: {pentangular}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

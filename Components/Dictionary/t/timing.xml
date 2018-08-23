@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>timing</Word>
+  <Definitions>
+    <Definition>
+      <Word>timing</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Time \Time\ (t[imac]m), v. t. [imp. &amp; p. p. {Timed} (t[imac]md);
+   p. pr. &amp; vb. n. {Timing}.]
+   1. To appoint the time for; to bring, begin, or perform at
+      the proper season or time; as, he timed his appearance
+      rightly.
+      [1913 Webster]
+
+            There is no greater wisdom than well to time the
+            beginnings and onsets of things.      --Bacon.
+      [1913 Webster]
+
+   2. To regulate as to time; to accompany, or agree with, in
+      time of movement.
+      [1913 Webster]
+
+            Who overlooked the oars, and timed the stroke.
+                                                  --Addison.
+      [1913 Webster]
+
+            He was a thing of blood, whose every motion
+            Was timed with dying cries.           --Shak.
+      [1913 Webster]
+
+   3. To ascertain or record the time, duration, or rate of; as,
+      to time the speed of horses, or hours for workmen.
+      [1913 Webster]
+
+   4. To measure, as in music or harmony.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>timing</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>timing
+     n : the time when something happens
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

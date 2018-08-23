@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>treated</Word>
+  <Definitions>
+    <Definition>
+      <Word>treated</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Treat \Treat\, v. t. [imp. &amp; p. p. {Treated}; p. pr. &amp; vb. n.
+   {Treating}.] [{OE}. treten, OF. traitier, F. traiter, from L.
+   tractare to draw violently, to handle, manage, treat, v.
+   intens. from trahere, tractum, to draw. See {Trace}, v. t.,
+   and cf. {Entreat}, {Retreat}, {Trait}.]
+   1. To handle; to manage; to use; to bear one's self toward;
+      as, to treat prisoners cruelly; to treat children kindly.
+      [1913 Webster]
+
+   2. To discourse on; to handle in a particular manner, in
+      writing or speaking; as, to treat a subject diffusely.
+      [1913 Webster]
+
+   3. To entertain with food or drink, especially the latter, as
+      a compliment, or as an expression of friendship or regard;
+      as, to treat the whole company.
+      [1913 Webster]
+
+   4. To negotiate; to settle; to make terms for. [Obs.]
+      [1913 Webster]
+
+            To treat the peace, a hundred senators
+            Shall be commissioned.                --Dryden.
+      [1913 Webster]
+
+   5. (Med.) To care for medicinally or surgically; to manage in
+      the use of remedies or appliances; as, to treat a disease,
+      a wound, or a patient.
+      [1913 Webster]
+
+   6. To subject to some action; to apply something to; as, to
+      treat a substance with sulphuric acid. --Ure.
+      [1913 Webster]
+
+   7. To entreat; to beseech. [Obs.] --Ld. Berners.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>treated</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>treated
+     adj 1: subjected to a physical (or chemical) treatment or action or
+            agent; "the sludge of treated sewage can be used as
+            fertilizer"; "treated timbers resist rot"; "treated
+            fabrics resist wrinkling" [ant: {untreated}]
+     2: (of a specimen for study under a microscope) treated with a
+        reagent or dye that colors only certain structures
+     3: given medical care or treatment; "a treated cold is usually
+        gone in 14 days; if left untreated it lasts two weeks"
+        [ant: {untreated}]
+     4: made hard or flexible or resilient especially by heat
+        treatment; "a sword of tempered steel"; "tempered glass"
+        [syn: {tempered}, {hardened}, {toughened}] [ant: {untempered}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

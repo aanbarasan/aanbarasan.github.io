@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>latex</Word>
+  <Definitions>
+    <Definition>
+      <Word>latex</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>LaTeX
+     
+        &lt;language, text, tool&gt; (Lamport TeX) Leslie Lamport
+        &lt;lamport@pa.dec.com&gt;'s document preparation system built on
+        top of {TeX}.  LaTeX was developed at {SRI International}'s
+        Computer Science Laboratory and was built to resemble
+        {Scribe}.
+     
+        LaTeX adds commands to simplify typesetting and lets the user
+        concentrate on the structure of the text rather than on
+        formatting commands.
+     
+        {BibTeX} is a LaTeX package for bibliographic citations.
+     
+        Lamport's LaTeX book has an exemplary index listing every
+        symbol, concept and example in the book.  The index in the,
+        now obsolete, first edition includes (on page 221) the
+        mysterious entry "Gilkerson, Ellen, 221".  The second edition
+        (1994) has an entry for "infinite loop" instead.
+     
+        ["LaTeX, A Document Preparation System", Leslie Lamport, A-W
+        1986, ISBN 0-201-15790-X (first edition, now obsolete)].
+     
+        (1997-11-17)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>latex</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Latex \La"tex\, n. [L.]
+   1. (Bot.) A milky or colored juice in certain plants in
+      cavities (called latex cells or latex tubes). It contains
+      the peculiar principles of the plants, whether aromatic,
+      bitter, or acid, and in many instances yields caoutchouc
+      upon coagulation. The lattex of the India rubber plant
+      produces the rubber of commerce on coagulation.
+      [1913 Webster +PJC]
+
+   2. (Chem.) Any aqueous emulsion of finely divided rubber or
+      plastic particles, especially such an emulsion used as a
+      base for paint; as, a latex paint.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>latex</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>latex
+     n 1: a milky exudate from certain plants that coagulates on
+          exposure to air
+     2: a water-base paint having a latex binder [syn: {latex paint},
+         {rubber-base paint}]
+     [also: {latices} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

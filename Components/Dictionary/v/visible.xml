@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>visible</Word>
+  <Definitions>
+    <Definition>
+      <Word>visible</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Visible \Vis"i*ble\, a. [L. visibilis, fr. videre, visum, to
+   see: cf. F. visible. See {Vision}.]
+   1. Perceivable by the eye; capable of being seen;
+      perceptible; in view; as, a visible star; the least spot
+      is visible on white paper.
+      [1913 Webster]
+
+            Maker of heaven and earth, and of all things visible
+            and invisible.                        --Bk. of Com.
+                                                  Prayer.
+      [1913 Webster]
+
+            Virtue made visible in outward grace. --Young.
+      [1913 Webster]
+
+   2. Noticeable; apparent; open; conspicuous. --Shak.
+      [1913 Webster]
+
+            The factions at court were greater, or more visible,
+            than before.                          --Clarendon.
+      [1913 Webster]
+
+   {Visible church} (Theol.), the apparent church of Christ on
+      earth; the whole body of professed believers in Christ, as
+      contradistinguished from the invisible, or real, church,
+      consisting of sanctified persons.
+
+   {Visible horizon}. Same as {Apparent horizon}, under
+      {Apparent}.
+      [1913 Webster] -- {Vis"i*ble*ness}, n. -- {Vis"i*bly},
+      adv.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>visible</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>visible
+     adj 1: perceptible especially by the eye; or open to easy view; "a
+            visible object"; "visible stars"; "mountains visible
+            in the distance"; "a visible change of expression";
+            "visible files" [syn: {seeable}] [ant: {invisible}]
+     2: obvious to the eye; "a visible change of expression" [syn: {obvious}]
+     3: being often in the public eye; "a visible public figure"
+     4: present and easily available; "the cash on hand is adequate
+        for current needs"; "emergency police were on hand in case
+        of trouble"; "a visible supply"; "visible resources" [syn:
+         {on hand(p)}, {visible(a)}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

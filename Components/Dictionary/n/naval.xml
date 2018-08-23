@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>naval</Word>
+  <Definitions>
+    <Definition>
+      <Word>naval</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Naval \Na"val\ (n[=a]"val), a. [L. navalis, fr. navis ship: cf.
+   F. naval. See {Nave} of a church.]
+   Having to do with shipping; of or pertaining to ships or a
+   navy; consisting of ships; as, naval forces, successes,
+   stores, etc.
+   [1913 Webster]
+
+   {Naval brigade}, a body of seamen or marines organized for
+      military service on land.
+
+   {Naval officer}.
+   (a) An officer in the navy.
+   (b) A high officer in some United States customhouses.
+
+   {Naval tactics}, the science of managing or maneuvering
+      vessels sailing in squadrons or fleets.
+      [1913 Webster]
+
+   Syn: Nautical; marine; maritime.
+
+   Usage: {Naval}, {Nautical}. Naval is applied to vessels, or a
+          navy, or the things which pertain to them or in which
+          they participate; nautical, to seamen and the art of
+          navigation. Hence we speak of a naval, as opposed to a
+          military, engagement; naval equipments or stores, a
+          naval triumph, a naval officer, etc., and of nautical
+          pursuits or instruction, nautical calculations, a
+          nautical almanac, etc.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>naval</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>naval
+     adj : connected with or belonging to or used in a navy; "naval
+           history"; "naval commander"; "naval vessels"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

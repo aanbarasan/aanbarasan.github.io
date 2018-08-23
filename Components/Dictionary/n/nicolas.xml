@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nicolas</Word>
+  <Definitions>
+    <Definition>
+      <Word>nicolas</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Nicolas
+   the victory of the people, a proselyte of Antioch, one of the
+   seven deacons (Acts 6:5).
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nicolas</Word>
+      <Dictionary>
+        <Id>hitchcock</Id>
+        <Name>Hitchcock's Bible Names Dictionary (late 1800's)</Name>
+      </Dictionary>
+      <WordDefinition>Nicolas, same as Nicodemus
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nicolas</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>NICOLAS
+     Network Information Center On-Line Aid System
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

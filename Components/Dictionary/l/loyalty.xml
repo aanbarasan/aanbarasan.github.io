@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>loyalty</Word>
+  <Definitions>
+    <Definition>
+      <Word>loyalty</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Loyalty \Loy"al*ty\, n. [Cf. F. loyaut['e]. See {Loyal}, and cf.
+   {Legality}.]
+   The state or quality of being loyal; fidelity to a superior,
+   or to duty, love, etc.
+   [1913 Webster]
+
+         He had such loyalty to the king as the law required.
+                                                  --Clarendon.
+   [1913 Webster]
+
+         Not withstanding all the subtle bait
+         With which those Amazons his love still craved,
+         To his one love his loyalty he saved.    --Spenser.
+   [1913 Webster]
+
+   Note: ``Loyalty . . . expresses, properly, that fidelity
+         which one owes according to law, and does not
+         necessarily include that attachment to the royal
+         person, which, happily, we in England have been able
+         further to throw into the word.'' --Trench.
+
+   Syn: Allegiance; fealty. See {Allegiance}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>loyalty</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>loyalty
+     n 1: the quality of being loyal [ant: {disloyalty}]
+     2: feelings of allegiance
+     3: the act of binding yourself (intellectually or emotionally)
+        to a course of action; "his long commitment to public
+        service"; "they felt no loyalty to a losing team" [syn: {commitment},
+         {allegiance}, {dedication}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mug</Word>
+  <Definitions>
+    <Definition>
+      <Word>mug</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mug \Mug\ (m[u^]g), n. [Cf. Ir. mugam a mug, mucog a cup.]
+   1. A kind of ceramic or metal drinking cup, with a handle, --
+      usually cylindrical and without a lip.
+      [1913 Webster]
+
+   2. The face or mouth; as, I don't want to see your ugly mug
+      again; -- often used contemptuously. [Slang] --Thackeray.
+      [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mug</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>mug \mug\ (m[u^]g), v. t.
+   To take property from (a person) in a public place by
+   threatening or committing violence on the person who is
+   robbed; to rob, especially to rob by use of a weapon such as
+   a knife or gun.
+
+   Note: To rob a person or a business indoors is not usually
+         referred to as to mug, but to {stick up} or {hold up}.
+
+   Syn: rob, stick up
+        [WordNet 1.5 +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mug</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mug
+     n 1: the quantity that can be held in a mug [syn: {mugful}]
+     2: a person who is gullible and easy to take advantage of [syn:
+         {chump}, {fool}, {gull}, {mark}, {patsy}, {fall guy}, {sucker},
+         {soft touch}]
+     3: the human face (`kisser' and `smiler' and `mug' are informal
+        terms for `face' and `phiz' is British) [syn: {countenance},
+         {physiognomy}, {phiz}, {visage}, {kisser}, {smiler}]
+     4: with handle and usually cylindrical
+     v : rob at gunpoint or with the threat of violence; "I was
+         mugged in the streets of New York last night"
+     [also: {mugging}, {mugged}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

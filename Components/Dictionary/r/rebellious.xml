@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rebellious</Word>
+  <Definitions>
+    <Definition>
+      <Word>rebellious</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rebellious \Re*bel"lious\ (r[-e]*b[e^]l"y[u^]s), a.
+   Engaged in rebellion; disposed to rebel; of the nature of
+   rebels or of rebellion; resisting government or lawful
+   authority by force. ``Thy rebellious crew.'' ``Proud
+   rebellious arms.'' --Milton. -- {Re*bel"lious*ly}, adv. --
+   {Re*bel"lious*ness}, n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rebellious</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rebellious
+     adj 1: resisting control or authority; "temperamentally
+            rebellious"; "a rebellious crew"
+     2: discontented as toward authority [syn: {disaffected}, {ill-affected},
+         {malcontent}]
+     3: participating in organized resistance to a constituted
+        government; "the rebelling confederacy" [syn: {rebel(a)},
+        {rebelling(a)}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

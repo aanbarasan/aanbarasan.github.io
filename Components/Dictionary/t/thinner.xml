@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>thinner</Word>
+  <Definitions>
+    <Definition>
+      <Word>thinner</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Thinner \Thin"ner\, n.
+   One who thins, or makes thinner.
+   [1913 Webster]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>thinner</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>thin
+     adj 1: of relatively small extent from one surface to the opposite
+            or in cross section; "thin wire"; "a thin chiffon
+            blouse"; "a thin book"; "a thin layer of paint" [ant:
+            {thick}]
+     2: lacking excess flesh; "you can't be too rich or too thin";
+        "Yon Cassius has a lean and hungry look"-Shakespeare [syn:
+         {lean}] [ant: {fat}]
+     3: very narrow; "a thin line across the page" [syn: {slender}]
+     4: having little substance or significance; "a flimsy excuse";
+        "slight evidence"; "a tenuous argument"; "a thin plot"
+        [syn: {flimsy}, {slight}, {tenuous}]
+     5: not dense; "a thin beard"; "trees were sparse" [syn: {sparse}]
+     6: relatively thin in consistency or low in density; not
+        viscous; "air is thin at high altitudes"; "a thin soup";
+        "skimmed milk is much thinner than whole milk"; "thin oil"
+        [ant: {thick}]
+     7: (of sound) lacking resonance or volume; "a thin feeble cry"
+        [ant: {full}]
+     8: lacking spirit or sincere effort; "a thin smile"
+     adv : without viscosity; "the blood was flowing thin" [syn: {thinly}]
+           [ant: {thickly}]
+     v 1: lose thickness; become thin or thinner [ant: {thicken}]
+     2: make thin or thinner; "Thin the solution" [ant: {thicken}]
+     3: lessen the strength or flavor of a solution or mixture; "cut
+        bourbon" [syn: {dilute}, {thin out}, {reduce}, {cut}]
+     4: take off weight [syn: {reduce}, {melt off}, {lose weight}, {slim},
+         {slenderize}, {slim down}] [ant: {gain}]
+     [also: {thinning}, {thinned}, {thinnest}, {thinner}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>thinner</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>thinner
+     n : a diluting agent [syn: {dilutant}, {diluent}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>thinner</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>thinner
+     See {thin}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

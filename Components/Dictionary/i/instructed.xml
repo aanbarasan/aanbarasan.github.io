@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>instructed</Word>
+  <Definitions>
+    <Definition>
+      <Word>instructed</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Instruct \In*struct"\, v. t. [imp. &amp; p. p. {Instructed}; p. pr.
+   &amp; vb. n. {Instructing}.]
+   [1913 Webster]
+   1. To put in order; to form; to prepare. [Obs.]
+      [1913 Webster]
+
+            They speak to the merits of a cause, after the
+            proctor has prepared and instructed the same for a
+            hearing.                              --Ayliffe.
+      [1913 Webster]
+
+   2. To form by communication of knowledge; to inform the mind
+      of; to impart knowledge or information to; to enlighten;
+      to teach; to discipline.
+      [1913 Webster]
+
+            Schoolmasters will I keep within my house,
+            Fit to instruct her youth.            --Shak.
+      [1913 Webster]
+
+   3. To furnish with directions; to advise; to direct; to
+      command; as, the judge instructs the jury.
+      [1913 Webster]
+
+            She, being before instructed of her mother, said,
+            Give me here John Baptist's head in a charger.
+                                                  --Matt. xiv.
+                                                  8.
+      [1913 Webster]
+
+            Take her in; instruct her what she has to do.
+                                                  --Shak.
+
+   Syn: To teach; educate; inform; train; discipline;
+        indoctrinate; direct; enjoin.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>instructed</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>instructed
+     adj : (all used chiefly with qualifiers `well' or `poorly' or
+           `un-') having received specific instruction;
+           "unschooled ruffians"; "well tutored applicants" [syn:
+           {schooled}, {taught}, {tutored}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

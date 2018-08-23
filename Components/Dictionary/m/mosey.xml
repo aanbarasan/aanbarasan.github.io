@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mosey</Word>
+  <Definitions>
+    <Definition>
+      <Word>mosey</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mosey \Mo"sey\, v. i. [Perh. fr. {Vamose}.]
+   To go, or move (in a certain manner); -- usually with out,
+   off, along, etc. [Colloq.] --E. N. Wescott.
+   [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mosey</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mosey
+     v : walk leisurely [syn: {amble}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

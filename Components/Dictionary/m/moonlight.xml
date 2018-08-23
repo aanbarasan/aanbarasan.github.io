@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>moonlight</Word>
+  <Definitions>
+    <Definition>
+      <Word>moonlight</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Moonlight \Moon`light`\ (m[=oo]n"l[imac]t`), n.
+   The light of the moon. -- a. Occurring during or by
+   moonlight; characterized by moonlight.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>moonlight</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Moonlight \Moon"light`\ (m[=oo]n"l[imac]t`), v. i.
+   to work at a second job in addition to one's main occupation;
+   -- often done at night.
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>moonlight</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>moonlight
+     n : the light of the moon; "moonlight is the smuggler's enemy";
+         "the moon was bright enough to read by" [syn: {moonshine},
+          {moon}]
+     v : work a second job, usually after hours; "The law student is
+         moonlighting as a taxi driver"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

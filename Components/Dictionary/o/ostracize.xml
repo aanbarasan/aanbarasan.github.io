@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ostracize</Word>
+  <Definitions>
+    <Definition>
+      <Word>ostracize</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ostracize \Os"tra*cize\, v. t. [imp. &amp; p. p. {Ostracized}; p.
+   pr. &amp; vb. n. {Ostracizing}.] [Gr. 'ostraki`zein, fr.
+   'o`strakon a tile, a tablet used in voting, a shell; cf.
+   'o`streon oyster, 'oste`on bone. Cf. {Osseous}, {Oyster}.]
+   1. (Gr. Antiq.) To exile by ostracism; to banish by a popular
+      vote, as at Athens. --Grote.
+      [1913 Webster]
+
+   2. To banish from society, by a general consent; to exclude
+      from social, political, or private favor; to exclude from
+      conversation or friendship; to shun; as, he was ostracized
+      by his former friends. A person may be ostracized by a
+      formal vote or by a widespread but informal agreement.
+      --Marvell.
+      [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ostracize</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ostracize
+     v 1: expel from a community or group [syn: {banish}, {ban}, {ostracise},
+           {shun}, {cast out}, {blackball}]
+     2: avoid speaking to or dealing with; "Ever since I spoke up,
+        my colleagues ostracize me" [syn: {ostracise}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

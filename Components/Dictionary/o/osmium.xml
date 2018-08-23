@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>osmium</Word>
+  <Definitions>
+    <Definition>
+      <Word>osmium</Word>
+      <Dictionary>
+        <Id>elements</Id>
+        <Name>Elements database 20001107</Name>
+      </Dictionary>
+      <WordDefinition>osmium
+Symbol: Os
+Atomic number: 76
+Atomic weight: 190.2
+Hard blue-white metallic transition element. Found with platinum and used
+in some alloys with platinum and iridium.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>osmium</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>osmium \os"mi*um\ ([o^]z"m[i^]*[u^]m), n. [Gr. 'osmh` a smell,
+   odor, akin to 'o`zein to smell. So named in allusion to the
+   strong chlorinelike odor of osmic tetroxide. See {Odor}.]
+   (Chem.)
+   A rare metallic element of the platinum group with atomic
+   number 76. It is found native as an alloy in platinum ore,
+   and in iridosmine. It is a hard, infusible, bluish or grayish
+   white metal, and the heaviest substance known. Its tetroxide
+   is used in histological experiments to stain tissues. Symbol
+   {Os}. Atomic weight 190.2. Specific gravity 22.477.
+   [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>osmium</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>osmium
+     n : a hard brittle blue-gray or blue-black metallic element that
+         is one of the platinum metals; the heaviest metal known
+         [syn: {Os}, {atomic number 76}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

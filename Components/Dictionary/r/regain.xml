@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>regain</Word>
+  <Definitions>
+    <Definition>
+      <Word>regain</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Regain \Re*gain"\ (r?*g?n"), v. t. [Pref. re- + gain: cf. F.
+   regagner.]
+   To gain anew; to get again; to recover, as what has escaped
+   or been lost; to reach again.
+   [1913 Webster]
+
+   Syn: To recover; reobtain; repossess; retrieve.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>regain</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>regain
+     v 1: get or find back; recover the use of; "She regained control
+          of herself"; "She found her voice and replied quickly"
+          [syn: {recover}, {retrieve}, {find}]
+     2: come upon after searching; find the location of something
+        that was missed or lost; "Did you find your glasses?"; "I
+        cannot find my gloves!" [syn: {find}] [ant: {lose}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

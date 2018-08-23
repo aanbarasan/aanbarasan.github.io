@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rodent</Word>
+  <Definitions>
+    <Definition>
+      <Word>rodent</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rodent \Ro"dent\, a. [L. rodens, -entis, p. pr. of rodere to
+   gnaw. See {Rase}, v. t., and cf. {Rostrum}.]
+   1. Gnawing; biting; corroding; (Med.) applied to a
+      destructive variety of cancer or ulcer.
+      [1913 Webster]
+
+   2. (Zo["o]l.)
+      (a) Gnawing.
+      (b) Of or pertaining to the Rodentia.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rodent</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rodent \Ro"dent\, n. (Zo["o]l.)
+   One of the Rodentia.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rodent</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rodent
+     n : relatively small gnawing animals having a single pair of
+         constantly growing incisor teeth specialized for gnawing
+         [syn: {gnawer}, {gnawing animal}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

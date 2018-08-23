@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unconditional</Word>
+  <Definitions>
+    <Definition>
+      <Word>unconditional</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Unconditional \Un`con*di"tion*al\, a.
+   Not conditional limited, or conditioned; made without
+   condition; absolute; unreserved; as, an unconditional
+   surrender.
+   [1913 Webster]
+
+         O, pass not, Lord, an absolute decree,
+         Or bind thy sentence unconditional.      --Dryden.
+   [1913 Webster] -- {Un`con*di"tion*al*ly}, adv.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>unconditional</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unconditional
+     adj 1: not conditional; "unconditional surrender" [ant: {conditional}]
+     2: not modified or restricted by reservations; "a categorical
+        denial"; "a flat refusal" [syn: {categoric}, {categorical},
+         {flat}]
+     3: not contingent; not determined or influenced by someone or
+        something else
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

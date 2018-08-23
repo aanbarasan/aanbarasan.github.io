@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>web</Word>
+  <Definitions>
+    <Definition>
+      <Word>web</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>WEB
+     
+        &lt;language&gt; {Donald Knuth}'s self-documenting {literate
+        programming}, with {algorithm}s and {documentation} intermixed
+        in one file.  They can be separated using {Weave} and
+        {Tangle}.  Versions exist for {Pascal} and {C}.  {Spiderweb}
+        can be used to create versions for other languages.
+        {FunnelWeb} is a production-quality literate-programming tool.
+     
+        {(ftp://princeton.edu/)}, {(ftp://labrea.stanford.edu/)}.
+     
+        ["Literate Programming", D.E. Knuth, Computer J 27(2):97-111,
+        May 1984].
+     
+        (1996-05-10)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>web</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Web
+     
+        &lt;World-Wide Web&gt; "The Web" is the {World-Wide Web}.  "A web"
+        is part of it on some specific {web site}.
+     
+        (1996-05-10)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>web</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Web \Web\, n. [OE. webbe, AS. webba. See {Weave}.]
+   A weaver. [Obs.] --Chaucer.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>web</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Web \Web\, n. [OE. web, AS. webb; akin to D. web, webbe, OHG.
+   weppi, G. gewebe, Icel. vefr, Sw. v["a]f, Dan. v[ae]v. See
+   {Weave}.]
+   [1913 Webster]
+   1. That which is woven; a texture; textile fabric; esp.,
+      something woven in a loom.
+      [1913 Webster]
+
+            Penelope, for her Ulysses' sake,
+            Devised a web her wooers to deceive.  --Spenser.
+      [1913 Webster]
+
+            Not web might be woven, not a shuttle thrown, or
+            penalty of exile.                     --Bancroft.
+      [1913 Webster]
+
+   2. A whole piece of linen cloth as woven.
+      [1913 Webster]
+
+   3. The texture of very fine thread spun by a spider for
+      catching insects at its prey; a cobweb. ``The smallest
+      spider's web.'' --Shak.
+      [1913 Webster]
+
+   4. Fig.: Tissue; texture; complicated fabrication.
+      [1913 Webster]
+
+            The somber spirit of our forefathers, who wove their
+            web of life with hardly a . . . thread of rose-color
+            or gold.                              --Hawthorne.
+      [1913 Webster]
+
+            Such has been the perplexing ingenuity of
+            commentators that it is difficult to extricate the
+            truth from the web of conjectures.    --W. Irving.
+      [1913 Webster]
+
+   5. (Carriages) A band of webbing used to regulate the
+      extension of the hood.
+      [1913 Webster]
+
+   6. A thin metal sheet, plate, or strip, as of lead.
+      [1913 Webster]
+
+            And Christians slain roll up in webs of lead.
+                                                  --Fairfax.
+      [1913 Webster] Specifically: 
+      [1913 Webster]
+      (a) The blade of a sword. [Obs.]
+          [1913 Webster]
+
+                The sword, whereof the web was steel,
+                Pommel rich stone, hilt gold.     --Fairfax.
+          [1913 Webster]
+      (b) The blade of a saw.
+          [1913 Webster]
+      (c) The thin, sharp part of a colter.
+          [1913 Webster]
+      (d) The bit of a key.
+          [1913 Webster]
+
+   7. (Mach. &amp; Engin.) A plate or thin portion, continuous or
+      perforated, connecting stiffening ribs or flanges, or
+      other parts of an object. Specifically: 
+      [1913 Webster]
+      (a) The thin vertical plate or portion connecting the
+          upper and lower flanges of an lower flanges of an iron
+          girder, rolled beam, or railroad rail.
+          [1913 Webster]
+      (b) A disk or solid construction serving, instead of
+          spokes, for connecting the rim and hub, in some kinds
+          of car wheels, sheaves, etc.
+          [1913 Webster]
+      (c) The arm of a crank between the shaft and the wrist.
+          [1913 Webster]
+      (d) The part of a blackmith's anvil between the face and
+          the foot.
+          [1913 Webster]
+
+   8. (Med.) Pterygium; -- called also {webeye}. --Shak.
+      [1913 Webster]
+
+   9. (Anat.) The membrane which unites the fingers or toes,
+      either at their bases, as in man, or for a greater part of
+      their length, as in many water birds and amphibians.
+      [1913 Webster]
+
+   10. (Zo["o]l.) The series of barbs implanted on each side of
+       the shaft of a feather, whether stiff and united together
+       by barbules, as in ordinary feathers, or soft and
+       separate, as in downy feathers. See {Feather}.
+       [1913 Webster]
+
+   {Pin and web} (Med.), two diseases of the eye, caligo and
+      pterygium; -- sometimes wrongly explained as one disease.
+      See {Pin}, n., 8, and {Web}, n., 8. ``He never yet had
+      pinne or webbe, his sight for to decay.'' --Gascoigne.
+
+   {Web member} (Engin.), one of the braces in a web system.
+
+   {Web press}, a printing press which takes paper from a roll
+      instead of being fed with sheets.
+
+   {Web system} (Engin.), the system of braces connecting the
+      flanges of a lattice girder, post, or the like.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>web</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>web \web\ (w[e^]b), n.
+   The {world-wide web}; -- usually referred to as {the web}.
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>web</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Web \Web\ (w[e^]b), v. t. [imp. &amp; p. p. {Webbed}; p. pr. &amp; vb.
+   n. {Webbing}.]
+   To unite or surround with a web, or as if with a web; to
+   envelop; to entangle.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>web</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>web
+     n 1: an intricate network suggesting something that was formed by
+          weaving or interweaving; "the trees cast a delicate web
+          of shadows over the lawn"
+     2: an intricate trap that entangles or ensnares its victim
+        [syn: {entanglement}]
+     3: the flattened weblike part of a feather consisting of a
+        series of barbs on either side of the shaft [syn: {vane}]
+     4: an interconnected system of things or people; "he owned a
+        network of shops"; "retirement meant dropping out of a
+        whole network of people who had been part of my life";
+        "tangled in a web of cloth" [syn: {network}]
+     5: computer network consisting of a collection of internet
+        sites that offer text and graphics and sound and animation
+        resources through the hypertext transfer protocol [syn: {World
+        Wide Web}, {WWW}]
+     6: a fabric (especially a fabric in the process of being woven)
+     7: membrane connecting the toes of some aquatic birds and
+        mammals
+     v : construct or form a web, as if by weaving [syn: {net}]
+     [also: {webbing}, {webbed}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

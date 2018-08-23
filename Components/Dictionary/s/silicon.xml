@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>silicon</Word>
+  <Definitions>
+    <Definition>
+      <Word>silicon</Word>
+      <Dictionary>
+        <Id>elements</Id>
+        <Name>Elements database 20001107</Name>
+      </Dictionary>
+      <WordDefinition>silicon
+Symbol: Si
+Atomic number: 14
+Atomic weight: 28.086
+Metalloid element belonging to group 14 of the periodic table. It is the
+second most abundant element in the Earth's crust, making up 25.7% of it
+by weight. Chemically less reactive than carbon. First identified by
+Lavoisier in 1787 and first isolated in 1823 by Berzelius.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>silicon</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>silicon
+     
+        1. &lt;electronics&gt; The material used as the base (or
+        "substrate") for most {integrated circuit}s.
+     
+        2. &lt;jargon&gt; {Hardware}, especially {integrated circuit}s or
+        {microprocessor}-based computer systems (compare {iron}).
+     
+        Contrast: {software}.  See also {sandbender}.
+     
+        [{Jargon File}]
+     
+        (1996-05-28)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>silicon</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Silicon \Sil"i*con\, n. [See {Silica}.] (Chem.)
+   A nonmetalic element analogous to carbon. It always occurs
+   combined in nature, and is artificially obtained in the free
+   state, usually as a dark brown amorphous powder, or as a dark
+   crystalline substance with a meetallic luster. Its oxide is
+   silica, or common quartz, and in this form, or as silicates,
+   it is, next to oxygen, the most abundant element of the
+   earth's crust. Silicon is characteristically the element of
+   the mineral kingdom, as carbon is of the organic world.
+   Symbol Si. Atomic weight 28. Called also {silicium}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>silicon</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>silicon n. Hardware, esp. ICs or microprocessor-based computer systems
+   (compare {iron}). Contrasted with software. See also {sandbender}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>silicon</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>silicon
+     n : a tetravalent nonmetallic element; next to oxygen it is the
+         most abundant element in the earth's crust; occurs in
+         clay and feldspar and granite and quartz and sand; used
+         as a semiconductor in transistors [syn: {Si}, {atomic
+         number 14}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

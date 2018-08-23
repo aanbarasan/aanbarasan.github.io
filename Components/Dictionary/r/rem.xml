@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rem</Word>
+  <Definitions>
+    <Definition>
+      <Word>rem</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>REM
+     
+        &lt;programming&gt; (From "remark") The {keyword} used in {BASIC} to
+        introduce a {comment} (which continues to the end of the
+        line).  {MS-DOS} probably borrowed it from {BASIC}.  Might be
+        used in the form "REM out" meaning to {comment out}.
+     
+        (1998-04-27)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rem</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>REM
+     Ring Error Monitor
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rem</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>REM
+     Remote Equipment Module
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rem</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>REM
+     n 1: a recurring sleep state during which dreaming occurs; a
+          state of Rapid Eye Movements during sleep [syn: {paradoxical
+          sleep}, {rapid eye movement sleep}, {REM sleep}, {rapid
+          eye movement}]
+     2: (Roentgen Equivalent Man) the dosage of ionizing radiation
+        that will cause the same amount of injury to human tissue
+        as 1 roentgen of X-rays
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

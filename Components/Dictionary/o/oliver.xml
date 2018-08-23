@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>oliver</Word>
+  <Definitions>
+    <Definition>
+      <Word>oliver</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Oliver, GA (city, FIPS 58100)
+  Location: 32.52066 N, 81.53279 W
+  Population (1990): 242 (107 housing units)
+  Area: 2.4 sq km (land), 0.0 sq km (water)
+Oliver, PA (CDP, FIPS 56704)
+  Location: 39.91518 N, 79.72206 W
+  Population (1990): 3271 (1416 housing units)
+  Area: 5.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 15472
+Oliver, WI (village, FIPS 59800)
+  Location: 46.64990 N, 92.18995 W
+  Population (1990): 265 (102 housing units)
+  Area: 5.3 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>oliver</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Oliver \Ol"i*ver\, n.
+   1. [OF. oliviere.] An olive grove. [Obs.] --Chaucer.
+      [1913 Webster]
+
+   2. [F. olivier.] An olive tree. [Obs.] --Chaucer.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>oliver</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Oliver \Ol"i*ver\, n.
+   A small tilt hammer, worked by the foot.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>oliver</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Oliver
+     n : United States jazz musician who influenced the style of
+         Louis Armstrong (1885-1938) [syn: {Joseph Oliver}, {King
+         Oliver}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>internally</Word>
+  <Definitions>
+    <Definition>
+      <Word>internally</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Internally \In*ter"nal*ly\, adv.
+   1. Inwardly; within the enveloping surface, or the boundary
+      of a thing; within the body; beneath the surface.
+      [1913 Webster]
+
+   2. Hence: Mentally; spiritually. --Jer. Taylor.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>internally</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>internally
+     adv : on or from the inside; "an internally controlled
+           environment" [ant: {externally}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>thieves</Word>
+  <Definitions>
+    <Definition>
+      <Word>thieves</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Thief \Thief\ (th[=e]f), n.; pl. {Thieves} (th[=e]vz). [OE.
+   thef, theef, AS. [thorn]e['o]f; akin to OFries. thiaf, OS.
+   theof, thiof, D. dief, G. dieb, OHG. diob, Icel.
+   [thorn]j[=o]fr, Sw. tjuf, Dan. tyv, Goth. [thorn]iufs,
+   [thorn]iubs, and perhaps to Lith. tupeti to squat or crouch
+   down. Cf. {Theft}.]
+   1. One who steals; one who commits theft or larceny. See
+      {Theft}.
+      [1913 Webster]
+
+            There came a privy thief, men clepeth death.
+                                                  --Chaucer.
+      [1913 Webster]
+
+            Where thieves break through and steal. --Matt. vi.
+                                                  19.
+      [1913 Webster]
+
+   2. A waster in the snuff of a candle. --Bp. Hall.
+      [1913 Webster]
+
+   {Thief catcher}. Same as {Thief taker}.
+
+   {Thief leader}, one who leads or takes away a thief.
+      --L'Estrange.
+
+   {Thief taker}, one whose business is to find and capture
+      thieves and bring them to justice.
+
+   {Thief tube}, a tube for withdrawing a sample of a liquid
+      from a cask.
+
+   {Thieves' vinegar}, a kind of aromatic vinegar for the sick
+      room, taking its name from the story that thieves, by
+      using it, were enabled to plunder, with impunity to
+      health, in the great plague at London. [Eng.]
+      [1913 Webster]
+
+   Syn: Robber; pilferer.
+
+   Usage: {Thief}, {Robber}. A thief takes our property by
+          stealth; a robber attacks us openly, and strips us by
+          main force.
+          [1913 Webster]
+
+                Take heed, have open eye, for thieves do foot by
+                night.                            --Shak.
+          [1913 Webster]
+
+                Some roving robber calling to his fellows.
+                                                  --Milton.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>thieves</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>thief
+     n : a criminal who takes property belonging to someone else with
+         the intention of keeping it or selling it [syn: {stealer}]
+     [also: {thieves} (pl)]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>thieves</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>thieves
+     See {thief}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

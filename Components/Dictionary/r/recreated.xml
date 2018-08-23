@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>recreated</Word>
+  <Definitions>
+    <Definition>
+      <Word>recreated</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Recreate \Rec"re*ate\ (rk"r*t), v. t. [imp. &amp; p. p. {Recreated}
+   (-`td); p. pr. &amp; vb. n. {Recreating}.] [L. recreatus, p. p.
+   of recreate to create anew, to refresh; pref. re- re- +
+   creare to create. See {Create}.]
+   To give fresh life to; to reanimate; to revive; especially,
+   to refresh after wearying toil or anxiety; to relieve; to
+   cheer; to divert; to amuse; to gratify.
+   [1913 Webster]
+
+         Painters, when they work on white grounds, place before
+         them colors mixed with blue and green, to recreate
+         their eyes, white wearying . . . the sight more than
+         any.                                     --Dryden.
+   [1913 Webster]
+
+         St. John, who recreated himself with sporting with a
+         tame partridge.                          --Jer. Taylor.
+   [1913 Webster]
+
+         These ripe fruits recreate the nostrils with their
+         aromatic scent.                          --Dr. H. More.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>recreated</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>re-created
+     adj : created anew; "this re-created literalness"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

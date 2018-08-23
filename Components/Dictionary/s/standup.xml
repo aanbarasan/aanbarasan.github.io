@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>standup</Word>
+  <Definitions>
+    <Definition>
+      <Word>standup</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>stand up
+     v 1: rise to one's feet; "The audience got up and applauded"
+          [syn: {arise}, {rise}, {uprise}, {get up}] [ant: {sit
+          down}, {lie down}]
+     2: refuse to back down; remain solid under criticism or attack
+     3: put into an upright position; "Can you stand the bookshelf
+        up?" [syn: {stand}, {place upright}]
+     4: be standing; be upright; "We had to stand for the entire
+        performance!" [syn: {stand}] [ant: {sit}, {lie}]
+     5: defend against attack or criticism; "He stood up for his
+        friend"; "She stuck up for the teacher who was accused of
+        harassing the student" [syn: {stick up}]
+     6: resist or withstand wear, criticism, etc.; "Her shoes won't
+        hold up"; "This theory won't hold water" [syn: {hold up},
+        {hold water}]
+     7: rise up as in fear; "The dog's fur bristled"; "It was a
+        sight to make one's hair uprise!" [syn: {bristle}, {uprise}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>standup</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>stand-up
+     adj 1: requiring a standing position; "a stand-up bar"; "a stand-up
+            comic"
+     2: of a collar; standing up rather than folded down; "an
+        uncomfortable standup collar"; "a stiff collar" [syn: {stiff}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

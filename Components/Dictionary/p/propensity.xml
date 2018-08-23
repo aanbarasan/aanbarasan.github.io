@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>propensity</Word>
+  <Definitions>
+    <Definition>
+      <Word>propensity</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Propensity \Pro*pen"si*ty\, n.; pl. {Propensities}.
+   The quality or state of being propense; natural inclination;
+   disposition to do good or evil; bias; bent; tendency. ``A
+   propensity to utter blasphemy.'' --Macaulay.
+   [1913 Webster]
+
+   Syn: Disposition; bias; inclination; proclivity; proneness;
+        bent; tendency.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>propensity</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>propensity
+     n 1: an inclination to do something; "he felt leanings toward
+          frivolity" [syn: {leaning}, {tendency}]
+     2: a natural inclination; "he has a proclivity for
+        exaggeration" [syn: {proclivity}, {leaning}]
+     3: a disposition to behave in a certain way; "the aptness of
+        iron to rust"; "the propensity of disease to spread" [syn:
+         {aptness}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

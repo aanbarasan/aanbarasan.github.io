@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ruthenium</Word>
+  <Definitions>
+    <Definition>
+      <Word>ruthenium</Word>
+      <Dictionary>
+        <Id>elements</Id>
+        <Name>Elements database 20001107</Name>
+      </Dictionary>
+      <WordDefinition>ruthenium
+Symbol: Ru
+Atomic number: 44
+Atomic weight: 101.07
+Hard white metallic transition element. Found with platinum, used as a
+catalyst in some platinum alloys. Dissolves in fused alkalis, and is not
+attacked by acids. Reacts with halogens and oxygen at high temperatures.
+Isolated in 1844 by K.K. Klaus.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ruthenium</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ruthenium \Ru*the"ni*um\, n. [NL. So named from the Ruthenians,
+   a Little Russian people, as coming from Russia, the metal
+   having been found in the Ural mountains.] (Chem.)
+   A rare element of the light platinum group, found associated
+   with platinum ores, and isolated as a hard, brittle
+   steel-gray metal which is very infusible. Symbol Ru. Atomic
+   weight 103.5. Specific gravity 12.26. See {Platinum metals},
+   under {Platinum}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ruthenium</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ruthenium
+     n : a rare polyvalent metallic element of the platinum group; it
+         is found associated with platinum [syn: {Ru}, {atomic
+         number 44}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

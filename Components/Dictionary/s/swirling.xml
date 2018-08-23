@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>swirling</Word>
+  <Definitions>
+    <Definition>
+      <Word>swirling</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Swirl \Swirl\, v. t. &amp; i. [imp. &amp; p. p. {Swirled}; p. pr. &amp; vb.
+   n. {Swirling}.] [Akin to Norw. svirla to whirl, freq. of
+   sverra to whirl, Dan. svirre, G. schwirren to whiz, to buzz.
+   [root]177. See {Swarm}, n.]
+   To whirl, or cause to whirl, as in an eddy. ``The river
+   swirled along.'' --C. Kingsley.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>swirling</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>swirling
+     adj : moving or driven rapidly in a rotary or twisting motion; "a
+           tornado's whirling winds"; "swirling currents" [syn: {whirling}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

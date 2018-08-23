@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>summation</Word>
+  <Definitions>
+    <Definition>
+      <Word>summation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Summation \Sum*ma"tion\, n. [Cf. F. sommation. See {Sum}, v. t.]
+   The act of summing, or forming a sum, or total amount; also,
+   an aggregate.
+   [1913 Webster]
+
+         Of this series no summation is possible to a finite
+         intellect.                               --De Quincey.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>summation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>summation
+     n 1: a concluding summary (as in presenting a case before a law
+          court) [syn: {summing up}, {rundown}]
+     2: (physiology) the process whereby multiple stimuli can
+        produce a response (in a muscle or nerve or other part)
+        that one stimulus alone does not produce
+     3: the final aggregate; "the sum of all our troubles did not
+        equal the misery they suffered" [syn: {sum}, {sum total}]
+     4: the arithmetic operation of summing; calculating the sum of
+        two or more numbers; "the summation of four and three
+        gives seven"; "four plus three equals seven" [syn: {addition},
+         {plus}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unprepared</Word>
+  <Definitions>
+    <Definition>
+      <Word>unprepared</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unprepared
+     adj 1: without preparation; not prepared for; "unprepared remarks";
+            "the shock was unprepared"; "our treaty makers
+            approached their immensely difficult problems
+            unprepared"- R.E.Danielson [ant: {prepared}]
+     2: lacking with intellectual equipment; "unprepared to stand on
+        his own feet"
+     3: not put in a state of preparedness; "the machinery was
+        unprepared for the extra load"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

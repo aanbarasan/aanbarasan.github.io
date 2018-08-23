@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>stencil</Word>
+  <Definitions>
+    <Definition>
+      <Word>stencil</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Stencil \Sten"cil\, v. t. [imp. &amp; p. p. {Stenciled}or
+   {Stencilled}; p. pr. &amp; vb. n. {Stenciling} or {Stencilling}.]
+   To mark, paint, or color in figures with stencils; to form or
+   print by means of a stencil.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stencil</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Stencil \Sten"cil\, n. [Probably from OF. estincelle spangle,
+   spark, F. ['e]tincelle spark, L. scintilla. See
+   {Scintillate}, and cf. {Tinsel}.]
+   A thin plate of metal, leather, or other material, used in
+   painting, marking, etc. The pattern is cut out of the plate,
+   which is then laid flat on the surface to be marked, and the
+   color brushed over it. Called also {stencil plate}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stencil</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>stencil
+     n : device that has a sheet perforated with printing through
+         which ink or paint can pass to create a printed pattern
+     v : mark or print with a stencil
+     [also: {stencilling}, {stencilled}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>vertically</Word>
+  <Definitions>
+    <Definition>
+      <Word>vertically</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Vertically \Ver"ti*cal*ly\, adv.
+   In a vertical manner, position, or direction;
+   perpendicularly; as, to look down vertically; to raise a
+   thing vertically.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>vertically</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>vertically
+     adv : in a vertical direction; "a gallery quite often is added to
+           make use of space vertically as well as horizontally"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

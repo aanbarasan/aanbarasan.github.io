@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>layer</Word>
+  <Definitions>
+    <Definition>
+      <Word>layer</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>layer
+     
+        {protocol layer}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>layer</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Layer \Lay"er\, n. [See {Lay} to cause to lie flat.]
+   1. One who, or that which, lays.
+      [1913 Webster]
+
+   2. [Prob. a corruption of lair.] That which is laid; a
+      stratum; a bed; one thickness, course, or fold laid over
+      another; as, a layer of clay or of sand in the earth; a
+      layer of bricks, or of plaster; the layers of an onion.
+      [1913 Webster]
+
+   3. A shoot or twig of a plant, not detached from the stock,
+      laid under ground for growth or propagation.
+      [1913 Webster]
+
+   4. An artificial oyster bed.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>layer</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>layer
+     n 1: single thickness of usually some homogeneous substance;
+          "slices of hard-boiled egg on a bed of spinach" [syn: {bed}]
+     2: a relatively thin sheetlike expanse or region lying over or
+        under another
+     3: an abstract place usually conceived as having depth; "a good
+        actor communicates on several levels"; "a simile has at
+        least two layers of meaning"; "the mind functions on many
+        strata simultaneously" [syn: {level}, {stratum}]
+     4: a hen that lays eggs
+     5: thin structure composed of a single thickness of cells
+     v : make or form a layer; "layer the different colored sands"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

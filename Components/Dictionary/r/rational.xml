@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rational</Word>
+  <Definitions>
+    <Definition>
+      <Word>rational</Word>
+      <Dictionary>
+        <Id>devils</Id>
+        <Name>THE DEVIL'S DICTIONARY ((C)1911 Released April 15 1993)</Name>
+      </Dictionary>
+      <WordDefinition>RATIONAL, adj.  Devoid of all delusions save those of observation,
+experience and reflection.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rational</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>rational
+     
+        [Mathematics] a fractional number n/d, where n and d are
+        integers, n is the numerator and d is the denominator.  The
+        set of all rational numbers is usually called Q.
+        Computers do not usually deal with rational numbers but
+        instead convert them to {real} numbers which are represented
+        (approximately in some cases) as {floating-point} numbers.
+        Compare {irrational}.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rational</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rational \Ra"tion*al\ (r[a^]sh"[u^]n*al), a. [L. rationalis: cf.
+   F. rationnel. See {Ratio}, {Reason}, and cf. {Rationale}.]
+   1. Relating to the reason; not physical; mental.
+      [1913 Webster]
+
+            Moral philosophy was his chiefest end; for the
+            rational, the natural, and mathematics . . . were
+            but simple pastimes in comparison of the other.
+                                                  --Sir T.
+                                                  North.
+      [1913 Webster]
+
+   2. Having reason, or the faculty of reasoning; endowed with
+      reason or understanding; reasoning.
+      [1913 Webster]
+
+            It is our glory and happiness to have a rational
+            nature.                               --Law.
+      [1913 Webster]
+
+   3. Agreeable to reason; not absurd, preposterous,
+      extravagant, foolish, fanciful, or the like; wise;
+      judicious; as, rational conduct; a rational man.
+      [1913 Webster]
+
+   4. (Chem.) Expressing the type, structure, relations, and
+      reactions of a compound; graphic; -- said of formul[ae].
+      See under {Formula}.
+      [1913 Webster]
+
+   {Rational horizon}. (Astron.) See {Horizon}, 2
+      (b) .
+
+   {Rational quantity} (Alg.), one that can be expressed without
+      the use of a radical sign, or in exact parts of unity; --
+      opposed to {irrational} or {radical quantity}.
+
+   {Rational symptom} (Med.), one elicited by the statements of
+      the patient himself and not as the result of a physical
+      examination.
+      [1913 Webster]
+
+   Syn: Sane; sound; intelligent; reasonable; sensible; wise;
+        discreet; judicious.
+
+   Usage: {Rational}, {reasonable}. Rational has reference to
+          reason as a faculty of the mind, and is opposed to
+          irrational; as, a rational being, a rational state of
+          mind, rational views, etc. In these cases the
+          speculative reason is more particularly, referred to.
+          Reasonable has reference to the exercise of this
+          faculty for practical purposes, and means, governed or
+          directed by reason; as, reasonable desires or plans; a
+          reasonable charge; a reasonable prospect of success.
+          [1913 Webster]
+
+                What higher in her society thou find'st
+                Attractive, human, rational, love still.
+                                                  --Milton.
+          [1913 Webster]
+
+                A law may be reasonable in itself, although a
+                man does not allow it, or does not know the
+                reason of the lawgivers.          --Swift.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rational</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rational \Ra"tion*al\, n.
+   A rational being. --Young.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rational</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rational
+     adj 1: consistent with or based on or using reason; "rational
+            behavior"; "a process of rational inference";
+            "rational thought" [ant: {irrational}]
+     2: of or associated with or requiring the use of the mind;
+        "intellectual problems"; "the triumph of the rational over
+        the animal side of man" [syn: {intellectual}, {noetic}]
+     3: capable of being expressed as a quotient of integers;
+        "rational numbers" [ant: {irrational}]
+     4: having its source in or being guided by the intellect
+        (distinguished from experience or emotion); "a rational
+        analysis"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>winnie</Word>
+  <Definitions>
+    <Definition>
+      <Word>winnie</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Winnie, TX (CDP, FIPS 79792)
+  Location: 29.81666 N, 94.38017 W
+  Population (1990): 2238 (941 housing units)
+  Area: 10.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 77665
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

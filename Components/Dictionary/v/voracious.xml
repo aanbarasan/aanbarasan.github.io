@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>voracious</Word>
+  <Definitions>
+    <Definition>
+      <Word>voracious</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Voracious \Vo*ra"cious\, a. [L. vorax, -acis, fr. vorare to
+   devour; akin to Gr. ? meat, food, ? to devour, Skr. gar. Cf.
+   {Devour}.]
+   Greedy in eating; very hungry; eager to devour or swallow;
+   ravenous; gluttonous; edacious; rapacious; as, a voracious
+   man or appetite; a voracious gulf or whirlpool. --Dampier. --
+   {Vo*ra"cious*ly}, adv. -- {Vo*ra"cious*ness}, n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>voracious</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>voracious
+     adj 1: excessively greedy and grasping; "a rapacious divorcee on
+            the prowl"; "ravening creditors"; "paying taxes to
+            voracious governments" [syn: {rapacious}, {ravening}]
+     2: devouring or craving food in great quantities; "edacious
+        vultures"; "a rapacious appetite"; "ravenous as wolves";
+        "voracious sharks" [syn: {edacious}, {esurient}, {rapacious},
+         {ravening}, {ravenous}, {wolfish}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

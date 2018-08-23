@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>op</Word>
+  <Definitions>
+    <Definition>
+      <Word>op</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>op
+     
+        &lt;job&gt; /op/ 1. In England and Ireland, a common verbal
+        abbreviation for "operator", as in {system operator}.  This is
+        less common in the US, where {sysop} seems to be preferred.
+     
+        2. The general term for an {IRC} {channel op}.  Also, as a
+        verb: to give someone {channel op} privileges.  Compare
+        {ircop}.
+     
+        [{Jargon File}]
+     
+        (1997-12-12)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>op</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>op /op/ n. 1. In England and Ireland, common verbal abbreviation for
+   `operator', as in system operator. Less common in the U.S., where
+   {sysop} seems to be preferred. 2. [IRC] Someone who is endowed with
+   privileges on {IRC}, not limited to a particular channel. These are
+   generally people who are in charge of the IRC server at their particular
+   site. Sometimes used interchangeably with {CHOP}. Compare {sysop}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>op</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>OP
+     Original Poster (telecommunication-slang, Usenet)
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

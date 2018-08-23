@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rubdown</Word>
+  <Definitions>
+    <Definition>
+      <Word>rubdown</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rub down
+     v 1: wear away [syn: {abrade}, {corrade}, {abrase}, {rub off}]
+     2: manually manipulate (someone's body), usually for medicinal
+        or relaxation purposes; "She rubbed down her child with a
+        sponge" [syn: {massage}, {knead}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rubdown</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rubdown
+     n : the act of rubbing down, usually for relaxation or medicinal
+         purposes
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

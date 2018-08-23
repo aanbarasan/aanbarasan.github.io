@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>studio</Word>
+  <Definitions>
+    <Definition>
+      <Word>studio</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Studio \Stu"di*o\, n.; pl. {Studios}. [It. studio, properly,
+   study. See {Study}.]
+   The working room of an artist.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>studio</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>studio
+     n 1: workplace for the teaching or practice of an art; "she ran a
+          dance studio"; "the music department provided studios
+          for their students"; "you don't need a studio to make a
+          passport photograph"
+     2: an apartment with a living space and a bathroom and a small
+        kitchen [syn: {studio apartment}]
+     3: workplace consisting of a room or building where movies or
+        television shows or radio programs are produced and
+        recorded
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

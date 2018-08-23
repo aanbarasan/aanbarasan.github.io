@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sophomore</Word>
+  <Definitions>
+    <Definition>
+      <Word>sophomore</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sophomore \Soph"o*more\, n. [Probably fr. soph or sophister +
+   Gr. ? foolish. The word was probably introduced into the
+   United States at an early date, from the University of
+   Cambridge, England. Among the cant terms at that university,
+   as given in the Gradus ad Cantabrigiam, we find Soph-Mor as
+   ``the next distinctive appellation to Freshman,'' but the
+   term has now almost ceased to be known at the English
+   university from whence it came.]
+   One belonging to the second of the four classes in an
+   American college, or one next above a freshman. [Formerly
+   written also {sophimore}.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sophomore</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sophomore
+     adj : used of the second year in United States high school or
+           college; "the sophomore class"; "his sophomore year"
+           [syn: {sophomore(a)}, {second-year}]
+     n : a second-year undergraduate
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

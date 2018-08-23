@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>waffle</Word>
+  <Definitions>
+    <Definition>
+      <Word>waffle</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Waffle \Waffle\, n. [D. wafel. See {Wafer}.]
+   1. A thin cake baked and then rolled; a wafer.
+      [1913 Webster]
+
+   2. A soft indented cake cooked in a waffle iron.
+      [1913 Webster]
+
+   {Waffle iron}, an iron utensil or mold made in two parts
+      shutting together, -- used for cooking waffles over a
+      fire.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>waffle</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>waffle
+     n : pancake batter baked in a waffle iron
+     v : pause or hold back in uncertainty or unwillingness;
+         "Authorities hesitate to quote exact figures" [syn: {hesitate},
+          {waver}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

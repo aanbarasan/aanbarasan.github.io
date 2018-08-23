@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ticonderoga</Word>
+  <Definitions>
+    <Definition>
+      <Word>ticonderoga</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Ticonderoga, NY (village, FIPS 73880)
+  Location: 43.84701 N, 73.42565 W
+  Population (1990): 2770 (1156 housing units)
+  Area: 3.5 sq km (land), 0.1 sq km (water)
+  Zip code(s): 12883
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ticonderoga</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Ticonderoga
+     n : American revolutionary troops captured Fort Ticonderoga from
+         the British in May 1775 [syn: {Fort Ticonderoga}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

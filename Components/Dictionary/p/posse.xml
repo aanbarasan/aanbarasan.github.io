@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>posse</Word>
+  <Definitions>
+    <Definition>
+      <Word>posse</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Posse \Pos"se\, n.
+   See {Posse comitatus}.
+   [1913 Webster]
+
+   {In posse}. See {In posse} in the Vocabulary.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>posse</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>posse
+     n : a temporary police force [syn: {posse comitatus}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

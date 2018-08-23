@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rectum</Word>
+  <Definitions>
+    <Definition>
+      <Word>rectum</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rectum \Rec"tum\ (-t?m), n. [NL. (sc. intestinum), fr. L. rectus
+   straight. See {Right}.] (Anat.)
+   The terminal part of the large intestine; -- so named because
+   supposed by the old anatomists to be straight. See Illust.
+   under {Digestive}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rectum</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rectum
+     n : the terminal section of the alimentary canal; from the
+         sigmoid flexure to the anus
+     [also: {recta} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

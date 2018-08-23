@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>turnip</Word>
+  <Definitions>
+    <Definition>
+      <Word>turnip</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Turnip \Tur"nip\, n. [OE. turnep; probably fr. turn, or F. tour
+   a turn, turning lathe + OE. nepe a turnip, AS. n[=ae]pe, L.
+   napus. Cf. {Turn},v. t., {Navew}.] (Bot.)
+   The edible, fleshy, roundish, or somewhat conical, root of a
+   cruciferous plant ({Brassica campestris}, var. {Napus});
+   also, the plant itself. [Formerly written also {turnep}.]
+   [1913 Webster]
+
+   {Swedish turnip} (Bot.), a kind of turnip. See {Ruta-baga}.
+      
+
+   {Turnip flea} (Zo["o]l.), a small flea-beetle ({Haltica,
+      striolata} syn. {Phyllotreta striolata}), which feeds upon
+      the turnip, and often seriously injures it. It is black
+      with a stripe of yellow on each elytron. The name is also
+      applied to several other small insects which are injurious
+      to turnips. See Illust. under {Flea-beetle}.
+
+   {Turnip fly}. (Zo["o]l.)
+   (a) The turnip flea.
+   (b) A two-winged fly ({Anthomyia radicum}) whose larv[ae]
+       live in the turnip root.
+       [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>turnip</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>turnip
+     n 1: widely cultivated plant having a large fleshy edible white
+          or yellow root [syn: {white turnip}, {Brassica rapa}]
+     2: root of any of several members of the mustard family
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>madam</Word>
+  <Definitions>
+    <Definition>
+      <Word>madam</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Madam \Mad"am\, n.; pl. {Madams}, or {Mesdames}. [See {Madame}.]
+   1. A gentlewoman; -- an appellation or courteous form of
+      address given to a lady, especially an elderly or a
+      married lady; -- much used in the address, at the
+      beginning of a letter, to a woman. The corresponding word
+      in addressing a man is {Sir}; often abbreviated ma'am when
+      used as a term of address.
+      [1913 Webster]
+
+   2. The woman who is in charge of a household.
+      [PJC]
+
+   3. The woman who is in charge of a brothel.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>madam</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>madam
+     n 1: a woman of refinement; "a chauffeur opened the door of the
+          limousine for the grand lady" [syn: {dame}, {ma'am}, {lady},
+           {gentlewoman}]
+     2: a woman who runs a house of prostitution [syn: {brothel
+        keeper}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>upgrade</Word>
+  <Definitions>
+    <Definition>
+      <Word>upgrade</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>upgrade
+     
+        1. A new or better version of some {hardware} or {software}.
+     
+        Often used in {marketroid}-speak to mean "{bug fix}".
+     
+        2. The act of developing or installing a new version.
+     
+        (1995-03-14)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>upgrade</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Grade \Grade\ (gr[=a]d), n. [F. grade, L. gradus step, pace,
+   grade, from gradi to step, go. Cf. {Congress}, {Degree},
+   {Gradus}.]
+   1. A step or degree in any series, rank, quality, order;
+      relative position or standing; as, grades of military
+      rank; crimes of every grade; grades of flour.
+      [1913 Webster]
+
+            They also appointed and removed, at their own
+            pleasure,
+            teachers of every grade.              --Buckle.
+      [1913 Webster]
+
+   2. In a railroad or highway:
+      (a) The rate of ascent or descent; gradient; deviation
+          from a level surface to an inclined plane; -- usually
+          stated as so many feet per mile, or as one foot rise
+          or fall in so many of horizontal distance; as, a heavy
+          grade; a grade of twenty feet per mile, or of 1 in
+          264.
+      (b) A graded ascending, descending, or level portion of a
+          road; a gradient.
+          [1913 Webster]
+
+   3. (Stock Breeding) The result of crossing a native stock
+      with some better breed. If the crossbreed have more than
+      three fourths of the better blood, it is called high
+      grade.
+      [1913 Webster]
+
+   {At grade}, on the same level; -- said of the crossing of a
+      railroad with another railroad or a highway, when they are
+      on the same level at the point of crossing.
+
+   {Down grade}, a descent, as on a graded railroad.
+
+   {Up grade}, an ascent, as on a graded railroad.
+
+   {Equating for grades}. See under {Equate}.
+
+   {Grade crossing}, a crossing at grade.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>upgrade</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>upgrade
+     n 1: an upward slope or grade (as in a road); "the car couldn't
+          make it up the rise" [syn: {ascent}, {acclivity}, {rise},
+           {raise}, {climb}] [ant: {descent}]
+     2: software that provides better performance than an earlier
+        version did
+     3: a reservation that is upgraded; "I got an upgrade to first
+        class when coach class was full"
+     4: the property possessed by a slope or surface that rises
+        [syn: {rise}, {rising slope}]
+     5: hardware that provides better performance than an earlier
+        version did
+     6: the act of improving something (especially machinery) by
+        raising it to a higher grade (as by adding or replacing
+        components); "the power plant received a new upgrade"
+     v 1: rate higher; raise in value or esteem [ant: {downgrade}]
+     2: to improve, especially something that was old or outdated;
+        "I've upgraded my computer so I can run better software";
+        "The company upgraded their personnel"
+     3: give a promotion to or assign to a higher position; "John
+        was kicked upstairs when a replacement was hired"; "Women
+        tend not to advance in the major law firms"; "I got
+        promoted after many years of hard work" [syn: {promote}, {advance},
+         {kick upstairs}, {raise}, {elevate}] [ant: {demote}]
+     4: get better travel conditions; "I upgraded to First Class
+        when Coach Class was overbooked"
+     5: give better travel conditions to; "The airline upgraded me
+        when I arrived late and Coach Class was full"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

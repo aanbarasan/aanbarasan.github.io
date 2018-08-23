@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mistletoe</Word>
+  <Definitions>
+    <Definition>
+      <Word>mistletoe</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Mistletoe, KY
+  Zip code(s): 41351
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mistletoe</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mistletoe \Mis"tle*toe\, n. [AS. mistelt[=a]n; mistel mistletoe
+   + t[=a]n twig. AS. mistel is akin of D., G., Dan. &amp; Sw.
+   mistel, OHG. mistil, Icel. mistilteinn; and AS. t[=a]n to D.
+   teen, OHG. zein, Icel. teinn, Goth. tains. Cf. {Missel}.]
+   (Bot.)
+   A parasitic evergreen plant of Europe ({Viscum album}),
+   bearing a glutinous fruit. When found upon the oak, where it
+   is rare, it was an object of superstitious regard among the
+   Druids. A bird lime is prepared from its fruit. [Written also
+   {misletoe}, {misseltoe}, and {mistleto}.] --Lindley.
+   --Loudon.
+   [1913 Webster]
+
+   Note: The mistletoe of the United States is {Phoradendron
+         serotinum} (syn. {Phoradendron flavescens}), having
+         broader leaves than the European kind. In different
+         regions various similar plants are called by this name.
+         The mistletoe is used as a decoration at Christmas
+         time, and it is a tradition that two persons of the
+         oposite sex finding each other under a mistletoe sprig
+         should kiss.
+         [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mistletoe</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mistletoe
+     n 1: American plants closely resembling Old World mistletoe [syn:
+           {false mistletoe}]
+     2: Old World parasitic shrub having branching greenish stems
+        with leathery leaves and waxy white glutinous berries; the
+        traditional mistletoe of Christmas [syn: {Viscum album}, {Old
+        World mistletoe}]
+     3: shrub of central and southeastern Europe; partially
+        parasitic on beeches, chestnuts and oaks [syn: {Loranthus
+        europaeus}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

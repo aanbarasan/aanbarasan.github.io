@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mccoy</Word>
+  <Definitions>
+    <Definition>
+      <Word>mccoy</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Mc Coy, CO
+  Zip code(s): 80463
+Mc Coy, TX
+  Zip code(s): 78053
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

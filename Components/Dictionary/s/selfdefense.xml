@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>selfdefense</Word>
+  <Definitions>
+    <Definition>
+      <Word>selfdefense</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Self-defense \Self`-de*fense"\, n.
+   The act of defending one's own person, property, or
+   reputation.
+   [1913 Webster]
+
+   {In self-defense} (Law), in protection of self, -- it being
+      permitted in law to a party on whom a grave wrong is
+      attempted to resist the wrong, even at the peril of the
+      life of the assailiant. --Wharton.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>selfdefense</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>self-defense
+     n : the act of defending yourself [syn: {self-defence}, {self-protection}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

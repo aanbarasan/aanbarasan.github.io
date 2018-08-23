@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>zone</Word>
+  <Definitions>
+    <Definition>
+      <Word>zone</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>zone
+     
+        A logical group of {network} devices on {AppleTalk}.
+     
+        (1994-11-30)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>zone</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Zone \Zone\ (z[=o]n), n. [F. zone, L. zona, Gr. zw`nh; akin to
+   zwnny`nai to gird, Lith. j[*u]sta a girdle, j[*u]sti to gird,
+   Zend y[=a]h.]
+   1. A girdle; a cincture. [Poetic]
+      [1913 Webster]
+
+            An embroidered zone surrounds her waist. --Dryden.
+      [1913 Webster]
+
+            Loose were her tresses seen, her zone unbound.
+                                                  --Collins.
+      [1913 Webster]
+
+   2. (Geog.) One of the five great divisions of the earth, with
+      respect to latitude and temperature.
+      [1913 Webster]
+
+   Note: The zones are five: the torrid zone, extending from
+         tropic to tropic 46[deg] 56[min], or 23[deg] 28[min] on
+         each side of the equator; two temperate or variable
+         zones, situated between the tropics and the polar
+         circles; and two frigid zones, situated between the
+         polar circles and the poles.
+         [1913 Webster]
+
+               Commerce . . . defies every wind, outrides every
+               tempest, and invades.              --Bancroft.
+         [1913 Webster]
+
+   3. (Math.) The portion of the surface of a sphere included
+      between two parallel planes; the portion of a surface of
+      revolution included between two planes perpendicular to
+      the axis. --Davies &amp; Peck (Math. Dict.)
+      [1913 Webster]
+
+   4. (Nat. Hist.)
+      (a) A band or stripe extending around a body.
+      (b) A band or area of growth encircling anything; as, a
+          zone of evergreens on a mountain; the zone of animal
+          or vegetable life in the ocean around an island or a
+          continent; the Alpine zone, that part of mountains
+          which is above the limit of tree growth.
+          [1913 Webster]
+
+   5. (Crystallog.) A series of planes having mutually parallel
+      intersections.
+      [1913 Webster]
+
+   6. Circuit; circumference. [R.] --Milton.
+      [1913 Webster]
+
+   7. (Biogeography) An area or part of a region characterized
+      by uniform or similar animal and plant life; a life zone;
+      as, Littoral zone, Austral zone, etc.
+
+   Note: The zones, or life zones, commonly recognized for North
+         America are Arctic, Hudsonian, Canadian, Transition,
+         Upper Austral, Lower Austral, and Tropical.
+         [Webster 1913 Suppl.]
+
+   8. (Cryst.) A series of faces whose intersection lines with
+      each other are parallel.
+      [Webster 1913 Suppl.]
+
+   9. (Railroad Econ.)
+      (a) The aggregate of stations, in whatsoever direction or
+          on whatsoever line of railroad, situated between
+          certain maximum and minimum limits from a point at
+          which a shipment of traffic originates.
+      (b) Any circular or ring-shaped area within which the
+          street-car companies make no differences of fare.
+          [Webster 1913 Suppl.]
+
+   10. any area to or within which a shipment or transportation
+       cost is constant; specifically, in the United States
+       parcel-post system, any of the areas about any point of
+       shipment for which but one rate of postage is charged for
+       a parcel post shipment from that point. The rate
+       increases from within outwards. The first zone includes
+       the unit of area ``(a quadrangle 30 minutes square)'' in
+       which the place of shipment is situated and the 8
+       contiguous units; the outer limits of the second to the
+       seventh zones, respectively, are approximately 150, 300,
+       600, 1000, 1400, and 1800 miles from the point of
+       shipment; the eighth zone includes all units of area
+       outside the seventh zone.
+       [Webster 1913 Suppl. +PJC]
+
+   {Abyssal zone}. (Phys. Geog.) See under {Abyssal}.
+
+   {Zone axis} (Crystallog.), a straight line passing through
+      the center of a crystal, to which all the planes of a
+      given zone are parallel.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>zone</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Zone \Zone\, v. t.
+   To girdle; to encircle. [R.] --Keats.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>zone</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>zone
+     n 1: a circumscribed geographical region characterized by some
+          distinctive features
+     2: any of the regions of the surface of the Earth loosely
+        divided according to latitude or longitude [syn: {geographical
+        zone}]
+     3: an area or region distinguished from adjacent parts by a
+        distinctive feature or characteristic
+     4: (anatomy) any encircling or beltlike structure [syn: {zona}]
+     v 1: regulate housing in; of certain areas of towns [syn: {district}]
+     2: separate or apportion into sections; "partition a room off"
+        [syn: {partition}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>reasonably</Word>
+  <Definitions>
+    <Definition>
+      <Word>reasonably</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Reasonably \Rea"son*a*bly\, adv.
+   1. In a reasonable manner.
+      [1913 Webster]
+
+   2. Moderately; tolerably. ``Reasonably perfect in the
+      language.'' --Holder.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>reasonably</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>reasonably
+     adv 1: to a moderately sufficient extent or degree; "the shoes are
+            priced reasonably"; "he is fairly clever with
+            computers"; "they lived comfortably within reason"
+            [syn: {moderately}, {within reason}, {somewhat}, {fairly},
+             {middling}, {passably}] [ant: {unreasonably}, {unreasonably}]
+     2: with good sense or in a reasonable or intelligent manner;
+        "he acted sensibly in the crisis"; "speak more sanely
+        about these affairs"; "acted quite reasonably" [syn: {sanely},
+         {sensibly}] [ant: {unreasonably}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

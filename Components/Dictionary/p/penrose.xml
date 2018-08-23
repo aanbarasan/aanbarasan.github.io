@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>penrose</Word>
+  <Definitions>
+    <Definition>
+      <Word>penrose</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Penrose, CO (CDP, FIPS 58400)
+  Location: 38.43114 N, 105.01251 W
+  Population (1990): 2235 (890 housing units)
+  Area: 23.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 81240
+Penrose, NC
+  Zip code(s): 28766
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

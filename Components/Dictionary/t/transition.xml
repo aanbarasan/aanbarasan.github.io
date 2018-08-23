@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>transition</Word>
+  <Definitions>
+    <Definition>
+      <Word>transition</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Transition \Tran*si"tion\, n. [L. transitio: cf. F. transition.
+   See {Transient}.]
+   1. Passage from one place or state to another; charge; as,
+      the transition of the weather from hot to cold.
+      [1913 Webster]
+
+            There is no death, what seems so is transition.
+                                                  --Longfellow.
+      [1913 Webster]
+
+   2. (Mus.) A direct or indirect passing from one key to
+      another; a modulation.
+      [1913 Webster]
+
+   3. (Rhet.) A passing from one subject to another.
+      [1913 Webster]
+
+            [He] with transition sweet, new speech resumes.
+                                                  --Milton.
+      [1913 Webster]
+
+   4. (Biol.) Change from one form to another.
+      [1913 Webster]
+
+   Note: This word is sometimes pronounced tran*sish"un; but
+         according to Walker, Smart, and most other authorities,
+         the customary and preferable pronunciation is
+         tran*sizh"un, although this latter mode violates
+         analogy. Other authorities say tran*zish"un.
+         [1913 Webster]
+
+   {Transition rocks} (Geol.), a term formerly applied to the
+      lowest uncrystalline stratified rocks (graywacke) supposed
+      to contain no fossils, and so called because thought to
+      have been formed when the earth was passing from an
+      uninhabitable to a habitable state.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>transition</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>transition
+     n 1: the act of passing from one state or place to the next [syn:
+           {passage}]
+     2: an event that results in a transformation [syn: {conversion},
+         {changeover}]
+     3: a change from one place or state or subject or stage to
+        another
+     4: a musical passage moving from one key to another [syn: {modulation}]
+     5: a passage that connects a topic to one that follows
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

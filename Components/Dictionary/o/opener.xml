@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>opener</Word>
+  <Definitions>
+    <Definition>
+      <Word>opener</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Opener \O"pen*er\, n.
+   1. One who, or that which, opens. ``True opener of my eyes.''
+      --Milton.
+      [1913 Webster]
+
+   2. Specifically: A bottle opener or a can opener; as, you
+      need an opener to get the cap off.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>opener</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>opener
+     n 1: the first event in a series; "she played Chopin for her
+          opener"; "the season's opener was a game agains the
+          Yankees"
+     2: a person who unfastens or unwraps or opens; "children are
+        talented undoers of their shoelaces" [syn: {undoer}, {unfastener},
+         {untier}]
+     3: a hand tool used for opening sealed containers (bottles or
+        cans)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

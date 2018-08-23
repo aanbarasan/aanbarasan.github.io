@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>minivan</Word>
+  <Definitions>
+    <Definition>
+      <Word>minivan</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>minivan
+     n : a small box-shaped passenger van; usually has removable
+         seats; used as a family car
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

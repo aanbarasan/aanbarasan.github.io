@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ming</Word>
+  <Definitions>
+    <Definition>
+      <Word>ming</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Ming
+     n : the imperial dynasty of China from 1368 to 1644 [syn: {Ming
+         dynasty}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

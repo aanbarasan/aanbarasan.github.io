@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mythological</Word>
+  <Definitions>
+    <Definition>
+      <Word>mythological</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mythologic \Myth`o*log"ic\, Mythological \Myth`o*log"ic*al\, a.
+   [L. mythologicus: cf. F. mytholigique.]
+   1. Of or pertaining to mythology or to myths; as,
+      mythological creatures. -- {Myth`o*log"ic*al*ly}, adv.
+      [1913 Webster]
+
+   2. based on or told of in traditional stories; lacking
+      factual basis or historical validity; mythical; fabulous.
+
+   Syn: fabulous, mythic, mythical.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mythological</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mythological
+     adj 1: based on or told of in traditional stories; lacking factual
+            basis or historical validity; "mythical centaurs";
+            "the fabulous unicorn" [syn: {fabulous}, {mythic}, {mythical},
+             {mythologic}]
+     2: of or relating to mythology; dealt with in myths;
+        "mythological stories"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

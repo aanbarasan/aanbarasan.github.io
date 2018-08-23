@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>soviet</Word>
+  <Definitions>
+    <Definition>
+      <Word>soviet</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Soviet
+     adj : of or relating to or characteristic of the former Soviet
+           Union or its people; "Soviet leaders"
+     n : an elected governmental council in a Communist country
+         (especially one that is a member of the Union of Soviet
+         Socialist Republics)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

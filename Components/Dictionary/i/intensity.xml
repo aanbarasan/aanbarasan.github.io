@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>intensity</Word>
+  <Definitions>
+    <Definition>
+      <Word>intensity</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Intensity \In*ten"si*ty\, n. [LL. intensitas: cf. F.
+   intensit['e]. See {Intense}.]
+   [1913 Webster]
+   1. The state or quality of being intense; intenseness;
+      extreme degree; as, intensity of heat, cold, mental
+      application, passion, etc.
+      [1913 Webster]
+
+            If you would deepen the intensity of light, you must
+            be content to bring into deeper blackness and more
+            distinct and definite outline the shade that
+            accompanies it. --F. W. Robertson.
+      [1913 Webster]
+
+   2. (Physics) The amount or degree of energy with which a
+      force operates or a cause acts; effectiveness, as
+      estimated by results produced.
+      [1913 Webster]
+
+   3. (Mech.) The magnitude of a distributed force, as pressure,
+      stress, weight, etc., per unit of surface, or of volume,
+      as the case may be; as, the measure of the intensity of a
+      total stress of forty pounds which is distributed
+      uniformly over a surface of four square inches area is ten
+      pounds per square inch.
+      [1913 Webster]
+
+   4. (Photog.) The degree or depth of color or shade in a
+      picture.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>intensity</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>intensity
+     n 1: the amount of energy transmitted (as by acoustic or
+          electromagnetic radiation); "he adjusted the intensity
+          of the sound"; "they measured the station's signal
+          strength" [syn: {strength}, {intensity level}]
+     2: high level or degree; the property of being intense [syn: {intensiveness}]
+     3: the magnitude of sound (usually in a specified direction);
+        "the kids played their music at full volume" [syn: {volume},
+         {loudness}] [ant: {softness}]
+     4: chromatic purity: freedom from dilution with white and hence
+        vividness of hue [syn: {saturation}, {chroma}, {vividness}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

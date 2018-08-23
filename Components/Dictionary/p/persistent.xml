@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>persistent</Word>
+  <Definitions>
+    <Definition>
+      <Word>persistent</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>persistent
+     
+        {persistence}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>persistent</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Persistent \Per*sist"ent\, a. [L. persistens, -entis, p. pr. of
+   persistere. See {Persist}.]
+   1. Inclined to persist; having staying qualities; tenacious
+      of position or purpose.
+      [1913 Webster]
+
+   2. (Biol.) Remaining beyond the period when parts of the same
+      kind sometimes fall off or are absorbed; permanent; as,
+      persistent teeth or gills; a persistent calyx; -- opposed
+      to {deciduous}, and {caducous}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>persistent</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>persistent
+     adj 1: never-ceasing; "the relentless beat of the drums" [syn: {relentless},
+             {unrelenting}]
+     2: continually recurring to the mind; "haunting memories"; "the
+        cathedral organ and the distant voices have a haunting
+        beauty"- Claudia Cassidy [syn: {haunting}]
+     3: retained; not shed; "persistent leaves remain attached past
+        maturity"; "the persistent gills of fishes" [syn: {lasting}]
+        [ant: {caducous}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

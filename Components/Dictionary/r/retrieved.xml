@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>retrieved</Word>
+  <Definitions>
+    <Definition>
+      <Word>retrieved</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Retrieve \Re*trieve"\, v. t. [imp. &amp; p. p. {Retrieved}; p. pr. &amp;
+   vb. n. {Retrieving}.] [OE. retreven, OF. retrover to find
+   again, recover (il retroevee finds again), F. retrouver;
+   pref. re- re- + OF. trover to find, F. trouver. See
+   {Trover}.]
+   1. To find again; to recover; to regain; to restore from loss
+      or injury; as, to retrieve one's character; to retrieve
+      independence.
+      [1913 Webster]
+
+            With late repentance now they would retrieve
+            The bodies they forsook, and wish to live. --Dryden
+      [1913 Webster]
+
+   2. To recall; to bring back.
+      [1913 Webster]
+
+            To retrieve them from their cold, trivial conceits.
+                                                  --Berkeley.
+      [1913 Webster]
+
+   3. To remedy the evil consequence of, to repair, as a loss or
+      damadge.
+      [1913 Webster]
+
+            Accept my sorrow, and retrieve my fall. --Prior.
+      [1913 Webster]
+
+            There is much to be done . . . and much to be
+            retrieved.                            --Burke.
+      [1913 Webster]
+
+   Syn: To recover; regain; recruit; repair; restore.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>user</Word>
+  <Definitions>
+    <Definition>
+      <Word>user</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>user
+     
+        1. &lt;person&gt; Someone doing "real work" with the computer, using
+        it as a means rather than an end.  Someone who pays to use a
+        computer.  A programmer who will believe anything you tell
+        him.  One who asks silly questions without thinking for two
+        seconds or looking in the documentation.  Someone who uses a
+        program, however skillfully, without getting into the
+        internals of the program.  One who reports {bug}s instead of
+        just fixing them.  See also {luser}, {real user}.
+     
+        Users are looked down on by {hackers} to some extent because
+        they don't understand the full ramifications of the system in
+        all its glory.  The term is relative: a skilled hacker may be
+        a user with respect to some program he himself does not hack.
+        A LISP hacker might be one who maintains LISP or one who uses
+        LISP (but with the skill of a hacker).  A LISP user is one who
+        uses LISP, whether skillfully or not.  Thus there is some
+        overlap between the two terms; the subtle distinctions must be
+        resolved by context.
+     
+        2. &lt;jargon&gt; Any person, organisation, process, device,
+        program, {protocol}, or system which uses a service provided
+        by others.
+     
+        The term "{client}" (as in "{client-server}" systems) is
+        rather more specific, usually implying two processes
+        communicating via some protocol.
+     
+        [{Jargon File}]
+     
+        (1996-04-28)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>user</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>User \Us"er\, n.
+   1. One who uses. --Shak.
+      [1913 Webster]
+
+   2. (Law) Enjoyment of property; use. --Mozley &amp; W.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>user</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>user n. 1. Someone doing `real work' with the computer, using it as a
+   means rather than an end. Someone who pays to use a computer. See {real
+   user}. 2. A programmer who will believe anything you tell him. One who
+   asks silly questions. [GLS observes: This is slightly unfair. It is true
+   that users ask questions (of necessity). Sometimes they are thoughtful
+   or deep. Very often they are annoying or downright stupid, apparently
+   because the user failed to think for two seconds or look in the
+   documentation before bothering the maintainer.] See {luser}. 3. Someone
+   who uses a program from the outside, however skillfully, without getting
+   into the internals of the program. One who reports bugs instead of just
+   going ahead and fixing them.
+
+   The general theory behind this term is that there are two classes of
+   people who work with a program: there are implementors (hackers) and
+   {luser}s. The users are looked down on by hackers to some extent because
+   they don't understand the full ramifications of the system in all its
+   glory. (The few users who do are known as `real winners'.) The term is a
+   relative one: a skilled hacker may be a user with respect to some
+   program he himself does not hack. A LISP hacker might be one who
+   maintains LISP or one who uses LISP (but with the skill of a hacker). A
+   LISP user is one who uses LISP, whether skillfully or not. Thus there is
+   some overlap between the two terms; the subtle distinctions must be
+   resolved by context.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>user</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>user
+     n 1: a person who makes use of a thing; someone who uses or
+          employs something
+     2: a person who uses something or someone selfishly or
+        unethically [syn: {exploiter}]
+     3: a person who takes drugs [syn: {drug user}, {substance
+        abuser}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

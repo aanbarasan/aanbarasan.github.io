@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>vanadium</Word>
+  <Definitions>
+    <Definition>
+      <Word>vanadium</Word>
+      <Dictionary>
+        <Id>elements</Id>
+        <Name>Elements database 20001107</Name>
+      </Dictionary>
+      <WordDefinition>vanadium
+Symbol: V
+Atomic number: 23
+Atomic weight: 50.9415
+Soft and ductile, bright white metal. Good resistance to corrosion by
+alkalis, sulphuric and hydrochloric acid. It oxidizes readily about
+933K. There are two naturally occurring isotopes of vanadium, and 5
+radioisotopes, V-49 having the longest half-life at 337 days. Vanadium
+has nuclear applications, the foil is used in cladding titanium to steel,
+and vanadium-gallium tape is used to produce a superconductive magnet.
+Originally discovered by Andres Manuel del Rio of Mexico City in 1801.
+His discovery went unheeded, however, and in 1820, Nils Gabriel Sefstron
+of Sweden rediscovered it. Metallic vanadium was isolated by Henry Enfield
+Roscoe in 1867. The name vanadium comes from {Vanadis}, a goddess of
+Scandinavian mythology. Silvery-white metallic transition element.
+Vanadium is essential to {ascidian}s. Rats and chickens are also known
+to require it. Metal powder is a fire hazard, and vanadium compounds
+should be considered highly toxic. May cause lung cancer if inhaled.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>vanadium</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Vanadium, NM
+  Zip code(s): 88023
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>vanadium</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Vanadium \Va*na"di*um\, n. [NL., fr. Icel. Vanad[=i]s, a surname
+   of the Scandinavian goddess Freya.] (Chem.)
+   A rare element of the nitrogen-phosphorus group, found
+   combined, in vanadates, in certain minerals, and reduced as
+   an infusible, grayish-white metallic powder. It is
+   intermediate between the metals and the non-metals, having
+   both basic and acid properties. Symbol V (or Vd, rarely).
+   Atomic weight 50.94 (C12=12.000).
+   [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>vanadium</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>vanadium
+     n : a soft silvery white toxic metallic element used in steel
+         alloys; it occurs in several complex minerals including
+         carnotite and vanadinite [syn: {V}, {atomic number 23}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

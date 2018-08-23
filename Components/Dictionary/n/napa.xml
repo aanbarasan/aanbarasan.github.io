@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>napa</Word>
+  <Definitions>
+    <Definition>
+      <Word>napa</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Napa, CA (city, FIPS 50258)
+  Location: 38.29793 N, 122.29991 W
+  Population (1990): 61842 (24922 housing units)
+  Area: 45.1 sq km (land), 0.2 sq km (water)
+  Zip code(s): 94559
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>napa</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>napa \napa\ n.
+   A plant ({Brassica rapa} pekinensis) with an elongated
+   celerylike head of broadstalked leaves used as a vegetable in
+   east Asia; called also {Chinese cabbage}.
+
+   Syn: Chinese cabbage, celery cabbage, pe-tsai, {Brassica
+        rapa} pekinensis.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>napa</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>napa
+     n : plant with an elongated head of broad stalked leaves
+         resembling celery; used as a vegetable in east Asia [syn:
+          {Chinese cabbage}, {celery cabbage}, {pe-tsai}, {Brassica
+         rapa pekinensis}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

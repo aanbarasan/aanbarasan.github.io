@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>loomis</Word>
+  <Definitions>
+    <Definition>
+      <Word>loomis</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Loomis, CA (town, FIPS 43140)
+  Location: 38.80969 N, 121.19434 W
+  Population (1990): 5705 (2030 housing units)
+  Area: 18.9 sq km (land), 0.0 sq km (water)
+  Zip code(s): 95650
+Loomis, NE (village, FIPS 29085)
+  Location: 40.47808 N, 99.50740 W
+  Population (1990): 376 (172 housing units)
+  Area: 0.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 68958
+Loomis, SD
+  Zip code(s): 57301
+Loomis, WA
+  Zip code(s): 98827
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

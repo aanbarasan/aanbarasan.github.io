@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>undeniable</Word>
+  <Definitions>
+    <Definition>
+      <Word>undeniable</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Undeniable \Un`de*ni"a*ble\, a.
+   1. Not deniable; incapable of denial; palpably true;
+      indisputable; obvious; as, undeniable evidence.
+      [1913 Webster]
+
+   2. Unobjectionable; unquestionably excellent; as, a person of
+      undeniable connections. [Colloq.] --G. Eliot.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>undeniable</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>undeniable
+     adj : not possible to deny [ant: {deniable}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

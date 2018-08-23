@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rampant</Word>
+  <Definitions>
+    <Definition>
+      <Word>rampant</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rampant \Ramp"ant\ (r[a^]mp"ant), a. [F., p. pr. of ramper to
+   creep. See {Ramp}, v.]
+   1. Ramping; leaping; springing; rearing upon the hind legs;
+      hence, raging; furious.
+      [1913 Webster]
+
+            The fierce lion in his kind
+            Which goeth rampant after his prey.   --Gower.
+      [1913 Webster]
+
+            [The] lion . . . rampant shakes his brinded mane.
+                                                  --Milton.
+      [1913 Webster]
+
+   2. Ascending; climbing; rank in growth; exuberant.
+      [1913 Webster]
+
+            The rampant stalk is of unusual altitude. --I.
+                                                  Taylor.
+      [1913 Webster]
+
+   3. (Her.) Rising with fore paws in the air as if attacking;
+      -- said of a beast of prey, especially a lion. The right
+      fore leg and right hind leg should be raised higher than
+      the left.
+      [1913 Webster]
+
+   {Rampant arch}.
+      (a) An arch which has one abutment higher than the other.
+      (b) Same as {Rampant vault}, below.
+
+   {Rampant gardant} (Her.), rampant, but with the face turned
+      to the front.
+
+   {Rampant regardant}, rampant, but looking backward.
+
+   {Rampant vault} (Arch.), a continuous wagon vault, or cradle
+      vault, whose two abutments are located on an inclined
+      plane, such as the vault supporting a stairway, or forming
+      the ceiling of a stairway.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rampant</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rampant
+     adj 1: unrestrained and violent; "rampant aggression"
+     2: rearing on left hind leg with forelegs elevated and head
+        usually in profile; "a lion rampant" [syn: {rampant(ip)},
+        {rearing}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

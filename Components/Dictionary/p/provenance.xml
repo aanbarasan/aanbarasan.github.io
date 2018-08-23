@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>provenance</Word>
+  <Definitions>
+    <Definition>
+      <Word>provenance</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Provenance \Prov"e*nance\, n. [F., fr. provenir to originate, to
+   come forth, L. provenire. Cf. {Provenience}.]
+   Origin; source; provenience.
+
+         Their age attested by their provenance and
+         associations.                            --A. H. Keane.
+   [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>provenance</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>provenance
+     n : where something originated or was nurtured in its early
+         existence; "the birthplace of civilization" [syn: {birthplace},
+          {cradle}, {place of origin}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lessen</Word>
+  <Definitions>
+    <Definition>
+      <Word>lessen</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lessen \Less"en\ (l[e^]s"'n), v. t. [imp. &amp; p. p. {Lessened}
+   (-'nd); p. pr. &amp; vb. n. {Lessening}.] [From {Less}, a.]
+   To make less; to reduce; to make smaller, or fewer; to
+   diminish; to lower; to degrade; as, to lessen a kingdom, or a
+   population; to lessen speed, rank, fortune.
+   [1913 Webster]
+
+         Charity . . . shall lessen his punishment. --Calamy.
+   [1913 Webster]
+
+         St. Paul chose to magnify his office when ill men
+         conspired to lessen it.                  --Atterbury.
+
+   Syn: To diminish; reduce; abate; decrease; lower; impair;
+        weaken; degrade.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lessen</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lessen \Less"en\, v. i.
+   To become less; to shrink; to contract; to decrease; to be
+   diminished; as, the apparent magnitude of objects lessens as
+   we recede from them; his care, or his wealth, lessened.
+   [1913 Webster]
+
+         The objection lessens much, and comes to no more than
+         this: there was one witness of no good reputation.
+                                                  --Atterbury.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lessen</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>lessen
+     v 1: decrease in size, extent, or range; "The amount of homework
+          decreased towards the end of the semester"; "The cabin
+          pressure fell dramatically"; "her weight fall to under a
+          hundred pounds"; "his voice fell to a whisper" [syn: {decrease},
+           {diminish}, {fall}] [ant: {increase}]
+     2: make smaller; "He decreased his staff" [syn: {decrease}, {minify}]
+        [ant: {increase}]
+     3: wear off or die down; "The pain subsided" [syn: {subside}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

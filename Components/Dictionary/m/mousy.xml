@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mousy</Word>
+  <Definitions>
+    <Definition>
+      <Word>mousy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mousy \Mous"y\ (mouz"[y^]), a.
+   Infested with mice; smelling of mice.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mousy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mousy
+     adj 1: timid and ineffectual [syn: {mousey}]
+     2: having a drab pale brown color resembling a mouse; "a mousy
+        grownish-gray color"; "mouse-colored hair"; "a mouselike
+        rodent" [syn: {mouse-colored}, {mouselike}]
+     [also: {mousiest}, {mousier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

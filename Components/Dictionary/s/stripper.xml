@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>stripper</Word>
+  <Definitions>
+    <Definition>
+      <Word>stripper</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Stripper \Strip"per\, n.
+   1. One who, or that which, strips; specifically, a machine
+      for stripping cards.
+      [1913 Webster]
+
+   2. (Agric.) A cow that has nearly stopped giving milk, so
+      that it can be obtained from her only by stripping.
+      [Webster 1913 Suppl.]
+
+   3. (Agric.) A harvesting machine that strips the seed from
+      the stalks of grain plants.
+      [PJC]
+
+   4. a solvent or chemical solution used to remove coatings of
+      paint, varnish, lacquer, etc. prior to refinishing a
+      surface.
+      [PJC]
+
+   5. a person (usually a woman) who strips off her clothes as
+      an entertainment performance; one who does a strip-tease;
+      -- also called an {ecdysiast}, {exotic dancer}, or
+      {strip-teaser}.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stripper</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>stripper
+     n 1: a chemical compound used to remove paint or varnish
+     2: a worker who strips the stems from moistened tobacco leaves
+        and binds the leaves together into books [syn: {stemmer},
+        {sprigger}]
+     3: a performer who provides erotic entertainment by undressing
+        to music [syn: {striptease artist}, {striptease}, {stripteaser},
+         {exotic dancer}, {ecdysiast}, {peeler}]
+     4: an oil well whose production has declined to less than ten
+        barrels a day [syn: {stripper well}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

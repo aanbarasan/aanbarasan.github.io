@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>piggy</Word>
+  <Definitions>
+    <Definition>
+      <Word>piggy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>piggy
+     adj : resembling swine; coarsely gluttonous or greedy; "piggish
+           table manners"; "the piggy fat-cheeked little boy and
+           his porcine pot-bellied father"; "swinish slavering
+           over food" [syn: {hoggish}, {piggish}, {porcine}, {swinish}]
+     n : a young pig [syn: {piglet}, {shoat}]
+     [also: {piggiest}, {piggier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

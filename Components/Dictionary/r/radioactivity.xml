@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>radioactivity</Word>
+  <Definitions>
+    <Definition>
+      <Word>radioactivity</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>radioactivity \ra`di*o*ac*tiv"i*ty\
+   (r[=a]`d[i^]*[-o]*[a^]k*t[i^]v"[i^]*t[y^]), n. (Physics)
+   a form of instability which is a property of the atomic
+   nuclei of certain isotopes, which causes a spontaneous change
+   in the structure of the nucleus, accompanied by emission of
+   energetic radiation. The radiation emitted is usually
+   sufficient to cause ionization in matter through which it
+   passes, and is therefore called {ionizing radiation}. The
+   radiation emitted by most radioactive substances is one of
+   three types: {alpha rays}, {beta rays}, or {gamma rays}. Some
+   chemical elements have no stable isotopes, and these are
+   referred to as radioactive elements, and the element itself
+   is said to possess radioactivity.
+
+   Note: The changes in radioactive nuclei which cause radiation
+         in most cases cause the chemical identity of the
+         nucleus itself to change, as when tritium (an isotope
+         of hydrogen) emits a beta ray and converts to helium.
+         The radioactive decay process is a first-order
+         reaction, and the rate of decay of a particular isotope
+         can therefore be expressed as the {half life} of the
+         isotope, which is the time it takes for one half of the
+         remaining undecayed isotope to decay, and is a constant
+         independent of the proportion of original material
+         which has already decayed. The half life of tritium,
+         for example, is 12.3 years.
+         [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>radioactivity</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>radioactivity
+     n : the spontaneous emission of a stream of particles or
+         electromagnetic rays in nuclear decay [syn: {radiation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

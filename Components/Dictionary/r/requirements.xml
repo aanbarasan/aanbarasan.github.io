@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>requirements</Word>
+  <Definitions>
+    <Definition>
+      <Word>requirements</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>requirements
+     
+        &lt;programming&gt; The first stage of software development which
+        defines what the potential users want the system to do.  In
+        modern methods these requirements should be testable, and will
+        usually be traceable in later development stages.  A common
+        feature of nearly all software is that the requirements change
+        during its lifetime.
+     
+        See {software life-cycle}.
+     
+        (1995-11-11)
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

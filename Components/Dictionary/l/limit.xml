@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>limit</Word>
+  <Definitions>
+    <Definition>
+      <Word>limit</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Limit \Lim"it\, v. i.
+   To beg, or to exercise functions, within a certain limited
+   region; as, a limiting friar. [Obs.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>limit</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Limit \Lim"it\ (l[i^]m"[i^]t), n. [From L. limes, limitis: cf.
+   F. limite; -or from E. limit, v. See {Limit}, v. t.]
+   1. That which terminates, circumscribes, restrains, or
+      confines; the bound, border, or edge; the utmost extent;
+      as, the limit of a walk, of a town, of a country; the
+      limits of human knowledge or endeavor.
+      [1913 Webster]
+
+            As eager of the chase, the maid
+            Beyond the forest's verdant limits strayed. --Pope.
+      [1913 Webster]
+
+   2. The space or thing defined by limits.
+      [1913 Webster]
+
+            The archdeacon hath divided it
+            Into three limits very equally.       --Shak.
+      [1913 Webster]
+
+   3. That which terminates a period of time; hence, the period
+      itself; the full time or extent.
+      [1913 Webster]
+
+            The dateless limit of thy dear exile. --Shak.
+      [1913 Webster]
+
+            The limit of your lives is out.       --Shak.
+      [1913 Webster]
+
+   4. A restriction; a check; a curb; a hindrance.
+      [1913 Webster]
+
+            I prithee, give no limits to my tongue. --Shak.
+      [1913 Webster]
+
+   5. (Logic &amp; Metaph.) A determining feature; a distinguishing
+      characteristic; a differentia.
+      [1913 Webster]
+
+   6. (Math.) A determinate quantity, to which a variable one
+      continually approaches, and may differ from it by less
+      than any given difference, but to which, under the law of
+      variation, the variable can never become exactly
+      equivalent.
+      [1913 Webster]
+
+   {Elastic limit}. See under {Elastic}.
+
+   {Prison limits}, a definite, extent of space in or around a
+      prison, within which a prisoner has liberty to go and
+      come.
+
+   Syn: Boundary; border; edge; termination; restriction; bound;
+        confine.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>limit</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Limit \Lim"it\ (l[i^]m"[i^]t), v. t. [imp. &amp; p. p. {Limited}; p.
+   pr. &amp; vb. n. {Limiting}.] [F. limiter, L. limitare, fr.
+   limes, limitis, limit; prob. akin to limen threshold, E.
+   eliminate; cf. L. limus sidelong.]
+   To apply a limit to, or set a limit for; to terminate,
+   circumscribe, or restrict, by a limit or limits; as, to limit
+   the acreage of a crop; to limit the issue of paper money; to
+   limit one's ambitions or aspirations; to limit the meaning of
+   a word.
+   [1913 Webster]
+
+   {Limiting parallels} (Astron.), those parallels of latitude
+      between which only an occultation of a star or planet by
+      the moon, in a given case, can occur.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>limit</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>limit
+     n 1: the greatest possible degree of something; "what he did was
+          beyond the bounds of acceptable behavior"; "to the limit
+          of his ability" [syn: {bounds}, {boundary}]
+     2: final or latest limiting point [syn: {terminus ad quem}, {terminal
+        point}]
+     3: the boundary of a specific area [syn: {demarcation}, {demarcation
+        line}]
+     4: as far as something can go
+     5: the mathematical value toward which a function goes as the
+        independent variable approaches infinity [syn: {limit
+        point}, {point of accumulation}]
+     6: the greatest amount of something that is possible or
+        allowed; "there are limits on the amount you can bet"; "it
+        is growing rapidly with no limitation in sight" [syn: {limitation}]
+     v 1: place limits on (extent or access); "restrict the use of
+          this parking lot"; "limit the time you can spend with
+          your friends" [syn: {restrict}, {restrain}, {trammel}, {bound},
+           {confine}, {throttle}]
+     2: restrict or confine, "I limit you to two visits to the pub a
+        day" [syn: {circumscribe}, {confine}]
+     3: decide upon or fix definitely; "fix the variables"; "specify
+        the parameters" [syn: {specify}, {set}, {determine}, {fix}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

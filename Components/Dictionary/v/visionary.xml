@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>visionary</Word>
+  <Definitions>
+    <Definition>
+      <Word>visionary</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>visionary
+     
+        1. One who hacks vision, in the sense of an Artificial
+        Intelligence researcher working on the problem of getting
+        computers to "see" things using TV cameras.  (There isn't any
+        problem in sending information from a TV camera to a computer.
+        The problem is, how can the computer be programmed to make use
+        of the camera information?  See {SMOP}, {AI-complete}.)
+     
+        2. [IBM] One who reads the outside literature.  At IBM,
+        apparently, such a penchant is viewed with awe and wonder.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>visionary</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Visionary \Vi"sion*a*ry\, a. [Cf. F. visionnaire.]
+   1. Of or pertaining to a visions or visions; characterized
+      by, appropriate to, or favorable for, visions.
+      [1913 Webster]
+
+            The visionary hour
+            When musing midnight reigns.          --Thomson.
+      [1913 Webster]
+
+   2. Affected by phantoms; disposed to receive impressions on
+      the imagination; given to reverie; apt to receive, and act
+      upon, fancies as if they were realities.
+      [1913 Webster]
+
+            Or lull to rest the visionary maid.   --Pope.
+      [1913 Webster]
+
+   3. Existing in imagination only; not real; fanciful;
+      imaginary; having no solid foundation; as, visionary
+      prospect; a visionary scheme or project. --Swift.
+      [1913 Webster]
+
+   Syn: Fanciful; fantastic; unreal. See {Fanciful}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>visionary</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Visionary \Vi"sion*a*ry\, n.; pl. {Visionaries}.
+   1. One whose imagination is disturbed; one who sees visions
+      or phantoms.
+      [1913 Webster]
+
+   2. One whose imagination overpowers his reason and controls
+      his judgment; an unpractical schemer; one who builds
+      castles in the air; a daydreamer.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>visionary</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>visionary n. 1. One who hacks vision, in the sense of an Artificial
+   Intelligence researcher working on the problem of getting computers to
+   `see' things using TV cameras. (There isn't any problem in sending
+   information from a TV camera to a computer. The problem is, how can the
+   computer be programmed to make use of the camera information? See
+   {SMOP}, {AI-complete}.) 2. [IBM] One who reads the outside literature.
+   At IBM, apparently, such a penchant is viewed with awe and wonder.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>visionary</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>visionary
+     adj : not practical or realizable; speculative; "airy theories
+           about socioeconomic improvement"; "visionary schemes
+           for getting rich" [syn: {airy}, {impractical}, {Laputan}]
+     n 1: a person given to fanciful speculations and enthusiasms with
+          little regard for what is actually possible
+     2: a person with unusual powers of foresight [syn: {illusionist},
+         {seer}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

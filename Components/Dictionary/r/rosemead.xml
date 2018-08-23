@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rosemead</Word>
+  <Definitions>
+    <Definition>
+      <Word>rosemead</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Rosemead, CA (city, FIPS 62896)
+  Location: 34.06885 N, 118.08187 W
+  Population (1990): 51638 (14134 housing units)
+  Area: 13.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 91770
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

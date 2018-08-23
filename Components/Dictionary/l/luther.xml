@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>luther</Word>
+  <Definitions>
+    <Definition>
+      <Word>luther</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Luther, IA (city, FIPS 47280)
+  Location: 41.96714 N, 93.81970 W
+  Population (1990): 154 (62 housing units)
+  Area: 2.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 50152
+Luther, IL
+  Zip code(s): 62664
+Luther, MI (village, FIPS 49740)
+  Location: 44.03867 N, 85.68292 W
+  Population (1990): 343 (189 housing units)
+  Area: 2.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 49656
+Luther, MT
+  Zip code(s): 59051
+Luther, OK (town, FIPS 44500)
+  Location: 35.66426 N, 97.18041 W
+  Population (1990): 1560 (598 housing units)
+  Area: 86.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 73054
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>luther</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Luther
+     n : German theologian who led the Reformation; believed that
+         salvation is granted on the basis of faith rather than
+         deeds (1483-1546) [syn: {Martin Luther}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

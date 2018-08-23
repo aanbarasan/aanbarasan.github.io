@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>monitor</Word>
+  <Definitions>
+    <Definition>
+      <Word>monitor</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>monitor
+     
+        1. A {cathode-ray tube} and associated electronics connected
+        to a computer's video output.  A monitor may be either
+        {monochrome} (black and white) or colour ({RGB}).  Colour
+        monitors may show either digital colour (each of the red,
+        green and blue signals may be either on or off, giving eight
+        possible colours: black, white, red, green, blue, cyan,
+        magenta and yellow) or analog colour (red, green and blue
+        signals are continuously variable allowing any combination to
+        be displayed).  Digital monitors are sometimes known as {TTL}
+        because the voltages on the red, green and blue inputs are
+        compatible with TTL logic chips.
+     
+        See also {gamut}, {multisync}, {visual display unit}.
+     
+        2. A programming language construct which encapsulates
+        variables, access procedures and initialisation code within an
+        abstract data type.  The monitor's variable may only be
+        accessed via its access procedures and only one process may be
+        actively accessing the monitor at any one time.  The access
+        procedures are {critical section}s.  A monitor may have a
+        queue of processes which are waiting to access it.
+     
+        3. A hardware device that measures electrical events such as
+        pulses or voltage levels in a digital computer.
+     
+        4. To oversee a program during execution.  For example, the
+        monitor function in the {Unix} {C} library enables profiling
+        of a certain range of code addresses.  A histogram is produced
+        showing how often the {program counter} was found to be at
+        each position and how often each profiled function was called.
+     
+        {Unix} {man} page: monitor(3).
+     
+        5. A control program within the {operating system} that
+        manages the allocation of system resources to active
+        programs.
+     
+        6. A program that measures software performance.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>monitor</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Monitor \Mon"i*tor\, n. [L., fr. monere. See {Monition}, and cf.
+   {Mentor}.]
+   1. One who admonishes; one who warns of faults, informs of
+      duty, or gives advice and instruction by way of reproof or
+      caution.
+      [1913 Webster]
+
+            You need not be a monitor to the king. --Bacon.
+      [1913 Webster]
+
+   2. Hence, specifically, a pupil selected to look to the
+      school in the absence of the instructor, to notice the
+      absence or faults of the scholars, or to instruct a
+      division or class.
+      [1913 Webster]
+
+   3. (Zo["o]l.) Any large Old World lizard of the genus
+      {Varanus}; esp., the Egyptian species ({Varanus
+      Niloticus}), which is useful because it devours the eggs
+      and young of the crocodile. It is sometimes five or six
+      feet long.
+      [1913 Webster]
+
+   4. [So called from the name given by Captain Ericson, its
+      designer, to the first ship of the kind.] An ironclad war
+      vessel, very low in the water, and having one or more
+      heavily-armored revolving turrets, carrying heavy guns.
+      [1913 Webster]
+
+   5. (Mach.) A tool holder, as for a lathe, shaped like a low
+      turret, and capable of being revolved on a vertical pivot
+      so as to bring successively the several tools in holds
+      into proper position for cutting.
+      [1913 Webster]
+
+   6. A monitor nozzle.
+      [Webster 1913 Suppl.]
+
+   {Monitor top}, the raised central portion, or clearstory, of
+      a car roof, having low windows along its sides.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>monitor</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>monitor
+     n 1: display consisting of a device that takes signals from a
+          computer and displays them on a CRT screen [syn: {monitoring
+          device}]
+     2: someone who supervises (an examination) [syn: {proctor}]
+     3: someone who gives a warning so that a mistake can be avoided
+        [syn: {admonisher}, {reminder}]
+     4: an iron-clad vessel built by Federal forces to do battle
+        with the Merrimac
+     5: electronic equipment that is used to check the quality or
+        content of electronic transmissions
+     6: a piece of electronic equipment that keeps track of the
+        operation of a system continuously and warns of trouble
+     7: any of various large tropical carnivorous lizards of Africa
+        and Asia and Australia; fabled to warn of crocodiles [syn:
+         {monitor lizard}, {varan}]
+     v : keep tabs on; keep an eye on; keep under surveillance [syn:
+         {supervise}, {ride herd on}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

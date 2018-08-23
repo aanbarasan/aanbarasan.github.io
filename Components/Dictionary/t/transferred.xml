@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>transferred</Word>
+  <Definitions>
+    <Definition>
+      <Word>transferred</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Transfer \Trans*fer"\, v. t. [imp. &amp; p. p. {Transferred}; p. pr.
+   &amp; vb. n. {Transferring}.] [L. transferre; trans across, over
+   + ferre to bear: cf. F. transf['e]rer. See {Bear} to carry.]
+   1. To convey from one place or person another; to transport,
+      remove, or cause to pass, to another place or person; as,
+      to transfer the laws of one country to another; to
+      transfer suspicion.
+      [1913 Webster]
+
+   2. To make over the possession or control of; to pass; to
+      convey, as a right, from one person to another; to give;
+      as, the title to land is transferred by deed.
+      [1913 Webster]
+
+   3. To remove from one substance or surface to another; as, to
+      transfer drawings or engravings to a lithographic stone.
+      --Tomlinson.
+      [1913 Webster]
+
+   Syn: To sell; give; alienate; estrange; sequester.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>transferred</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>transfer
+     n 1: the act of transporting something from one location to
+          another [syn: {transportation}, {transferral}, {conveyance}]
+     2: someone who transfers or is transferred from one position to
+        another; "the best student was a transfer from LSU" [syn:
+        {transferee}]
+     3: the act of transfering something from one form to another;
+        "the transfer of the music from record to tape suppressed
+        much of the background noise" [syn: {transference}]
+     4: a ticket that allows a passenger to change conveyances
+     5: application of a skill learned in one situation to a
+        different but similar situation [syn: {transfer of
+        training}, {carry-over}]
+     6: transferring ownership [syn: {transference}]
+     v 1: move around; "transfer the packet from his trouser pockets
+          to a pocket in his jacket" [syn: {shift}]
+     2: transfer somebody to a different position or location of
+        work [syn: {reassign}]
+     3: move from one place to another; "transfer the data";
+        "transmit the news"; "transfer the patient to another
+        hospital"
+     4: lift and reset in another soil or situation; "Transplant the
+        young rice plants" [syn: {transplant}]
+     5: cause to change ownership; "I transferred my stock holdings
+        to my children"
+     6: change from one vehicle or transportation line to another;
+        "She changed in Chicago on her way to the East coast"
+        [syn: {change}]
+     7: send from one person or place to another; "transmit a
+        message" [syn: {transmit}, {transport}, {channel}, {channelize},
+         {channelise}]
+     8: shift the position or location of, as for business, legal,
+        educational, or military purposes; "He removed his
+        children to the countryside"; "Remove the troops to the
+        forest surrounding the city"; "remove a case to another
+        court" [syn: {remove}]
+     9: transfer from one place or period to another; "The ancient
+        Greek story was transplanted into Modern America" [syn: {transpose},
+         {transplant}]
+     [also: {transferring}, {transferred}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>transferred</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>transferred
+     See {transfer}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

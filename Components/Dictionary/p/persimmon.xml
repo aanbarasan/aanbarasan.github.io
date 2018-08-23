@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>persimmon</Word>
+  <Definitions>
+    <Definition>
+      <Word>persimmon</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Persimmon \Per*sim"mon\, n. [Virginia Indian.] (Bot.)
+   An American tree ({Diospyros Virginiana}) and its fruit,
+   found from New York southward. The fruit is like a plum in
+   appearance, but is very harsh and astringent until it has
+   been exposed to frost, when it becomes palatable and
+   nutritious.
+   [1913 Webster]
+
+   {Japanese persimmon}, {Diospyros Kaki} and its red or yellow
+      edible fruit, which outwardly resembles a tomato, but
+      contains a few large seeds.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>persimmon</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>persimmon
+     n 1: any of several tropical trees of the genus Diospyros [syn: {persimmon
+          tree}]
+     2: orange fruit resembling a plum; edible when fully ripe
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

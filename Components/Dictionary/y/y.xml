@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>y</Word>
+  <Definitions>
+    <Definition>
+      <Word>y</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Y
+     
+        1. General purpose language syntactically like {RATFOR},
+        semantically like {C}.  Lacks structures and pointers.  Used
+        as a source language for Jack W. Davidson and Christopher
+        W. Fraser's peephole optimiser which inspired {GCC} {RTL} and
+        other optimisation ideas.
+     
+        {(ftp://ftp.cs.princeton.edu/pub/y+po.tar.Z)}.  It is a copy
+        of the original distribution from the {University of Arizona}
+        during the early 80's, totally unsupported.
+     
+        ["The Y Programming Language", D.R. Hanson, SIGPLAN Notices
+        16(2):59-68 (Feb 1981)].
+     
+        [Jack W. Davidson and Christopher W. Fraser, "The Design and
+        Application of a Retargetable Peephole Optimiser", TOPLAS,
+        Apr.  1980].
+     
+        [Jack W. Davidson, "Simplifying Code Through Peephole
+        Optimisation" Technical Report TR81-19, The University of
+        Arizona, Tucson, AZ, 1981].
+     
+        [Jack W. Davidson and Christopher W. Fraser, "Register
+        Allocation and Exhaustive Peephole Optimisation"
+        Software-Practice and Experience, Sep. 1984].
+     
+        2. See {fixed point combinator}.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>y</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Y \Y\ (w[imac]), n.; pl. {Y's} (w[imac]z) or {Ys}.
+   Something shaped like the letter Y; a forked piece resembling
+   in form the letter Y. Specifically:
+   (a) One of the forked holders for supporting the telescope of
+       a leveling instrument, or the axis of a theodolite; a
+       wye.
+   (b) A forked or bifurcated pipe fitting.
+   (c) (Railroads) A portion of track consisting of two
+       diverging tracks connected by a cross track.
+       [1913 Webster]
+
+   {Y level} (Surv.), an instrument for measuring differences of
+      level by means of a telescope resting in Y's.
+
+   {Y moth} (Zo["o]l.), a handsome European noctuid moth {Plusia
+      gamma}) which has a bright, silvery mark, shaped like the
+      letter Y, on each of the fore wings. Its larva, which is
+      green with five dorsal white species, feeds on the
+      cabbage, turnip, bean, etc. Called also {gamma moth}, and
+      {silver Y}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>y</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Y \Y\ (w[imac]).
+   Y, the twenty-fifth letter of the English alphabet, at the
+   beginning of a word or syllable, except when a prefix (see
+   Y-), is usually a fricative vocal consonant; as a prefix, and
+   usually in the middle or at the end of a syllable, it is a
+   vowel. See Guide to Pronunciation, [sect][sect] 145, 178-9,
+   272.
+   [1913 Webster]
+
+   Note: It derives its form from the Latin Y, which is from the
+         Greek [Upsilon], originally the same letter as V.
+         Etymologically, it is most nearly related to u, i, o,
+         and j. g; as in full, fill, AS. fyllan; E. crypt,
+         grotto; young, juvenile; day, AS. d[ae]g. See {U}, {I},
+         and {J}, {G}.
+         [1913 Webster]
+
+   Note: Y has been called the Pythagorean letter, because the
+         Greek letter [Upsilon] was taken represent the sacred
+         triad, formed by the duad proceeding from the monad;
+         and also because it represents the dividing of the
+         paths of vice and virtue in the development of human
+         life.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>y</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Y \Y\ ([imac]), pron.
+   I. [Obs.] --King Horn. Wyclif.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>y</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Y- \Y-\, or I- \I-\ . [OE. y-, i-, AS. ge-, akin to D. &amp; G. ge-,
+   OHG. gi-, ga-, Goth. ga-, and perhaps to Latin con-;
+   originally meaning, together. Cf. {Com-}, {Aware}, {Enough},
+   {Handiwork}, {Ywis}.]
+   A prefix of obscure meaning, originally used with verbs,
+   adverbs, adjectives, nouns, and pronouns. In the Middle
+   English period, it was little employed except with verbs,
+   being chiefly used with past participles, though occasionally
+   with the infinitive. Ycleped, or yclept, is perhaps the only
+   word not entirely obsolete which shows this use.
+   [1913 Webster]
+
+         That no wight mighte it see neither yheere. --Chaucer.
+   [1913 Webster]
+
+         Neither to ben yburied nor ybrent.       --Chaucer.
+   [1913 Webster]
+
+   Note: Some examples of Chaucer's use of this prefix are; ibe,
+         ibeen, icaught, ycome, ydo, idoon, ygo, iproved,
+         ywrought. It inough, enough, it is combined with an
+         adjective. Other examples are in the Vocabulary.
+         [1913 Webster] Spenser and later writers frequently
+         employed this prefix when affecting an archaic style,
+         and sometimes used it incorrectly.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>y</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Y
+     n 1: a silvery metallic element that is common in rare-earth
+          minerals; used in magnesium and aluminum alloys [syn: {yttrium},
+           {atomic number 39}]
+     2: the 25th letter of the Roman alphabet
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

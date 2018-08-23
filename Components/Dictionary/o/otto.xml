@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>otto</Word>
+  <Definitions>
+    <Definition>
+      <Word>otto</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Otto, NC
+  Zip code(s): 28763
+Otto, TX
+  Zip code(s): 76675
+Otto, WY
+  Zip code(s): 82434
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>otto</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Otto \Ot"to\, n.
+   See {Attar}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>otto</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Attar \At"tar\, n. [Per. 'atar perfume, essence, Ar. 'itr, fr.
+   'atara to smell sweet. Cf. {Otto}.]
+   A fragrant essential oil; esp., a volatile and highly
+   fragrant essential oil obtained from the petals of roses.
+   [Also written {otto} and {ottar}.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

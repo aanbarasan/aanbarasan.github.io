@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>waist</Word>
+  <Definitions>
+    <Definition>
+      <Word>waist</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Waist \Waist\, n. [OE. wast; originally, growth, akin to AS.
+   weaxan to grow; cf. AS. w[ae]stm growth. See {Wax} to grow.]
+   [1913 Webster]
+   1. That part of the human body which is immediately below the
+      ribs or thorax; the small part of the body between the
+      thorax and hips. --Chaucer.
+      [1913 Webster]
+
+            I am in the waist two yards about.    --Shak.
+      [1913 Webster]
+
+   2. Hence, the middle part of other bodies; especially
+      (Naut.), that part of a vessel's deck, bulwarks, etc.,
+      which is between the quarter-deck and the forecastle; the
+      middle part of the ship.
+      [1913 Webster]
+
+   3. A garment, or part of a garment, which covers the body
+      from the neck or shoulders to the waist line.
+      [1913 Webster]
+
+   4. A girdle or belt for the waist. [Obs.] --Shak.
+      [1913 Webster]
+
+   {Waist anchor}. See {Sheet anchor}, 1, in the Vocabulary.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>waist</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>waist
+     n 1: the narrowing of the body between the ribs and hips [syn: {waistline}]
+     2: the narrow part of the shoe connecting the heel and the wide
+        part of the sole [syn: {shank}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

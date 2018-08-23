@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>snyder</Word>
+  <Definitions>
+    <Definition>
+      <Word>snyder</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Snyder, CO
+  Zip code(s): 80750
+Snyder, NE (village, FIPS 45610)
+  Location: 41.70448 N, 96.78624 W
+  Population (1990): 280 (141 housing units)
+  Area: 1.2 sq km (land), 0.0 sq km (water)
+Snyder, OK (city, FIPS 68400)
+  Location: 34.65618 N, 98.95220 W
+  Population (1990): 1619 (751 housing units)
+  Area: 2.9 sq km (land), 0.0 sq km (water)
+  Zip code(s): 73566
+Snyder, TX (city, FIPS 68624)
+  Location: 32.71350 N, 100.91512 W
+  Population (1990): 12195 (5231 housing units)
+  Area: 20.3 sq km (land), 0.1 sq km (water)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

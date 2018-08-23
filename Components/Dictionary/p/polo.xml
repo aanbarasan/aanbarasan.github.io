@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>polo</Word>
+  <Definitions>
+    <Definition>
+      <Word>polo</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Polo, IL (city, FIPS 60937)
+  Location: 41.98468 N, 89.57833 W
+  Population (1990): 2514 (1060 housing units)
+  Area: 3.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 61064
+Polo, MO (city, FIPS 58916)
+  Location: 39.55219 N, 94.04005 W
+  Population (1990): 539 (258 housing units)
+  Area: 1.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 64671
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>polo</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Polo \Po"lo\, n. [Of Eastern origin; -- properly, the ball used
+   in the game.]
+   1. A game of ball of Eastern origin, resembling hockey, with
+      the players on horseback.
+      [1913 Webster]
+
+   2. A similar game played on the ice, or on a prepared floor,
+      by players wearing skates.
+      [1913 Webster]
+
+   3. A game similar to hockey played by swimmers.
+      [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>polo</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Polo \Po"lo\, n. [Sp., an air or popular song in Andalucia.]
+   A Spanish gypsy dance characterized by energetic movements of
+   the body while the feet merely shuffle or glide, with unison
+   singing and rhythmic clapping of hands.
+   [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>polo</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Polo
+     n 1: Venetian traveler who explored Asia in the 13th century and
+          served Kublai Khan (1254-1324) [syn: {Marco Polo}]
+     2: a game similar to field hockey but played on horseback using
+        long-handled mallets and a wooden ball
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

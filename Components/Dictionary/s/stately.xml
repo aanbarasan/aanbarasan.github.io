@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>stately</Word>
+  <Definitions>
+    <Definition>
+      <Word>stately</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Stately \State"ly\, a. [Compar. {Statelier}
+   (st[=a]t"l[i^]*[~e]r); superl. {Stateliest}.]
+   Evincing state or dignity; lofty; majestic; grand; as,
+   stately manners; a stately gait. ``The stately homes of
+   England!'' --Mrs. Hemans. ``Filled with stately temples.''
+   --Prescott.
+   [1913 Webster]
+
+         Here is a silly stately style indeed!    --Shak.
+   [1913 Webster]
+
+   Syn: Lofty; dignified; majestic; grand; august; magnificent.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stately</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Stately \State"ly\, adv.
+   Majestically; loftily. --Milton.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stately</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>stately
+     adj 1: impressive in appearance; "a baronial mansion"; "an imposing
+            residence"; "a noble tree"; "severe-looking policemen
+            sat astride noble horses"; "stately columns" [syn: {baronial},
+             {imposing}, {noble}]
+     2: of size and dignity suggestive of a statue [syn: {statuesque}]
+     3: refined or imposing in manner or appearance; befitting a
+        royal court; "a courtly gentleman" [syn: {courtly}, {elegant},
+         {formal}]
+     [also: {stateliest}, {statelier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

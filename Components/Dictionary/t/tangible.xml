@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tangible</Word>
+  <Definitions>
+    <Definition>
+      <Word>tangible</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tangible \Tan"gi*ble\, a. [L. tangibilis, fr. tangere to touch:
+   cf. F. tangible. See {Tangent}.]
+   1. Perceptible to the touch; tactile; palpable. --Bacon.
+      [1913 Webster]
+
+   2. Capable of being possessed or realized; readily
+      apprehensible by the mind; real; substantial; evident. ``A
+      tangible blunder.'' --Byron.
+      [1913 Webster]
+
+            Direct and tangible benefit to ourselves and others.
+                                                  --Southey.
+      [1913 Webster] -- {Tan"gi*ble*ness}, n. -- {Tan"gi*bly},
+      adv.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tangible</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tangible
+     adj 1: perceptible by the senses especially the sense of touch;
+            "skin with a tangible roughness" [ant: {intangible}]
+     2: possible to be treated as fact; "tangible evidence"; "his
+        brief time as Prime Minister brought few real benefits to
+        the poor" [syn: {real}]
+     3: (of especially business assets) having physical substance
+        and intrinsic monetary value ; "tangible property like
+        real estate"; "tangible assets such as machinery" [ant: {intangible}]
+     4: capable of being perceived by the senses or the mind;
+        especially capable of being handled or touched or felt; "a
+        barely palpable dust"; "felt sudden anger in a palpable
+        wave"; "the air was warm and close--palpable as cotton"
+        [syn: {palpable}] [ant: {impalpable}]
+     5: having substance or material existence; perceptible to the
+        senses; "a physical manifestation"; "surrounded by
+        tangible objects" [syn: {physical}, {touchable}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

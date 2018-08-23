@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pierced</Word>
+  <Definitions>
+    <Definition>
+      <Word>pierced</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pierce \Pierce\, v. t. [imp. &amp; p. p. {Pierced}; p. pr. &amp; vb. n.
+   {Piercing}.] [OE. percen, F. percer, OF. percier, perchier,
+   parchier; perh. fr. (assumed) LL. pertusiare for pertusare,
+   fr. L. pertundere, pertusum, to beat, push, bore through; per
+   through + tundere to beat: cf. OF. pertuisier to pierce, F.
+   pertuis a hole. Cf. {Contuse}, {Parch}, {Pertuse}.]
+   1. To thrust into, penetrate, or transfix, with a pointed
+      instrument. ``I pierce . . . her tender side.'' --Dryden.
+      [1913 Webster]
+
+   2. To penetrate; to enter; to force a way into or through; to
+      pass into or through; as, to pierce the enemy's line; a
+      shot pierced the ship.
+      [1913 Webster]
+
+   3. Fig.: To penetrate; to affect deeply; as, to pierce a
+      mystery. ``Pierced with grief.'' --Pope.
+      [1913 Webster]
+
+            Can no prayers pierce thee?           --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pierced</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pierced \Pierced\, a.
+   Penetrated; entered; perforated.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pierced</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pierced
+     adj : having a hole cut through; "pierced ears"; "a perforated
+           eardrum"; "a punctured balloon" [syn: {perforated}, {perforate},
+            {punctured}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>schooled</Word>
+  <Definitions>
+    <Definition>
+      <Word>schooled</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>School \School\, v. t. [imp. &amp; p. p. {Schooled}; p. pr. &amp; vb. n.
+   {Schooling}.]
+   1. To train in an institution of learning; to educate at a
+      school; to teach.
+      [1913 Webster]
+
+            He's gentle, never schooled, and yet learned.
+                                                  --Shak.
+      [1913 Webster]
+
+   2. To tutor; to chide and admonish; to reprove; to subject to
+      systematic discipline; to train.
+      [1913 Webster]
+
+            It now remains for you to school your child,
+            And ask why God's Anointed be reviled. --Dryden.
+      [1913 Webster]
+
+            The mother, while loving her child with the
+            intensity of a sole affection, had schooled herself
+            to hope for little other return than the waywardness
+            of an April breeze.                   --Hawthorne.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>schooled</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>schooled
+     adj : (all used chiefly with qualifiers `well' or `poorly' or
+           `un-') having received specific instruction;
+           "unschooled ruffians"; "well tutored applicants" [syn:
+           {instructed}, {taught}, {tutored}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

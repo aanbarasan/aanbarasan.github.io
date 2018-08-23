@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>metropolis</Word>
+  <Definitions>
+    <Definition>
+      <Word>metropolis</Word>
+      <Dictionary>
+        <Id>devils</Id>
+        <Name>THE DEVIL'S DICTIONARY ((C)1911 Released April 15 1993)</Name>
+      </Dictionary>
+      <WordDefinition>METROPOLIS, n.  A stronghold of provincialism.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>metropolis</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Metropolis, IL (city, FIPS 48645)
+  Location: 37.15219 N, 88.71196 W
+  Population (1990): 6734 (3137 housing units)
+  Area: 12.7 sq km (land), 0.2 sq km (water)
+  Zip code(s): 62960
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>metropolis</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Metropolis \Me*trop"o*lis\, n. [L. metropolis, Gr. ?, prop., the
+   mother city (in relation to colonies); ? mother + ? city. See
+   {Mother}, and {Police}.]
+   [1913 Webster]
+   1. The mother city; the chief city of a kingdom, state, or
+      country.
+      [1913 Webster]
+
+            [Edinburgh] gray metropolis of the North.
+                                                  --Tennyson.
+      [1913 Webster]
+
+   2. (Eccl.) The seat, or see, of the metropolitan, or highest
+      church dignitary.
+      [1913 Webster]
+
+            The great metropolis and see of Rome. --Shak.
+      [1913 Webster]
+
+   3. Any large city.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>metropolis</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>metropolis
+     n 1: a large and densely populated urban area; may include
+          several independent administrative districts; "Ancient
+          Troy was a great city" [syn: {city}, {urban center}]
+     2: people living in a large densely populated municipality;
+        "the city voted for Republicans in 1994" [syn: {city}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

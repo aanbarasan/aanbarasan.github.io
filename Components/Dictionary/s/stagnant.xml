@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>stagnant</Word>
+  <Definitions>
+    <Definition>
+      <Word>stagnant</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Stagnant \Stag"nant\ (-nant), a. [L. stagnans, -antis, p. pr. of
+   stagnare. See {Stagnate}.]
+   1. That stagnates; not flowing; not running in a current or
+      steam; motionless; hence, impure or foul from want of
+      motion; as, a stagnant lake or pond; stagnant blood in the
+      veins.
+      [1913 Webster]
+
+   2. Not active or brisk; dull; as, business is stagnant.
+      [1913 Webster]
+
+            That gloomy slumber of the stagnant soul. --Johnson.
+      [1913 Webster]
+
+            For him a stagnant life was not worth living.
+                                                  --Palfrey.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stagnant</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>stagnant
+     adj 1: not circulating or flowing; "dead air"; "dead water";
+            "stagnant water" [syn: {dead(a)}]
+     2: not growing or changing; without force or vitality [syn: {moribund}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

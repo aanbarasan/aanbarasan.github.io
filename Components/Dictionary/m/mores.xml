@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mores</Word>
+  <Definitions>
+    <Definition>
+      <Word>mores</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mores \Mo"res\ (m[=o]"r[=e]z), n. pl.; sing. {Mos} (m[=o]s).
+   [L.]
+   Customs; habits; esp., moral customs conformity to which is
+   more or less obligatory; customary law. [singular is rarely
+   used]
+   [Webster 1913 Suppl. +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mores</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mores
+     n : (sociology) the conventions that embody the fundamental
+         values of a group
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

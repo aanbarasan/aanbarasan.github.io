@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>windup</Word>
+  <Definitions>
+    <Definition>
+      <Word>windup</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Wind-up \Wind"-up`\, n.
+   Act of winding up, or closing; a concluding act or part; the
+   end.
+   [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>windup</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>wind up
+     v 1: finally be or do something; "He ended up marrying his high
+          school sweetheart"; "he wound up being unemployed and
+          living at home again" [syn: {finish up}, {land up}, {fetch
+          up}, {end up}, {finish}]
+     2: give a preliminary swing to the arm pitching
+     3: stimulate sexually; "This movie usually arouses the male
+        audience" [syn: {arouse}, {sex}, {excite}, {turn on}]
+     4: coil the spring of (some mechanical device) by turning a
+        stem; "wind your watch" [syn: {wind}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>windup</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>windup
+     adj : operated by a mechanism; "windup toys" [syn: {windup(a)}]
+     n : a concluding action [syn: {completion}, {culmination}, {closing},
+          {mop up}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

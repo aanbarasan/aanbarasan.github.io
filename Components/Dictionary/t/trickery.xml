@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>trickery</Word>
+  <Definitions>
+    <Definition>
+      <Word>trickery</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Trickery \Trick"er*y\, n.
+   The art of dressing up; artifice; stratagem; fraud;
+   imposture.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>trickery</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>trickery
+     n 1: verbal misrepresentation intended to take advantage of you
+          in some way [syn: {hocus-pocus}, {slickness}, {hanky
+          panky}, {jiggery-pokery}, {skulduggery}, {skullduggery}]
+     2: the use of tricks to deceive someone (usually to extract
+        money from them) [syn: {chicanery}, {chicane}, {guile}, {wile},
+         {shenanigan}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>winona</Word>
+  <Definitions>
+    <Definition>
+      <Word>winona</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Winona, KS (city, FIPS 80075)
+  Location: 39.06163 N, 101.24456 W
+  Population (1990): 194 (109 housing units)
+  Area: 0.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 67764
+Winona, MN (city, FIPS 71032)
+  Location: 44.04778 N, 91.65714 W
+  Population (1990): 25399 (9682 housing units)
+  Area: 30.7 sq km (land), 5.4 sq km (water)
+Winona, MO (city, FIPS 80512)
+  Location: 37.00634 N, 91.33205 W
+  Population (1990): 1081 (457 housing units)
+  Area: 7.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 65588
+Winona, MS (city, FIPS 80760)
+  Location: 33.48945 N, 89.72605 W
+  Population (1990): 5705 (2269 housing units)
+  Area: 31.4 sq km (land), 0.1 sq km (water)
+  Zip code(s): 38967
+Winona, TX (town, FIPS 79828)
+  Location: 32.49069 N, 95.17088 W
+  Population (1990): 457 (189 housing units)
+  Area: 3.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 75792
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

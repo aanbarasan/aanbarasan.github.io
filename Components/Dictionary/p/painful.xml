@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>painful</Word>
+  <Definitions>
+    <Definition>
+      <Word>painful</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Painful \Pain"ful\, a.
+   1. Full of pain; causing uneasiness or distress, either
+      physical or mental; afflictive; disquieting; distressing.
+      --Addison.
+      [1913 Webster]
+
+   2. Requiring labor or toil; difficult; executed with
+      laborious effort; as a painful service; a painful march.
+      [1913 Webster]
+
+   3. Painstaking; careful; industrious. [Obs.] --Fuller.
+      [1913 Webster]
+
+            A very painful person, and a great clerk. --Jer.
+                                                  Taylor.
+      [1913 Webster]
+
+            Nor must the painful husbandman be tired. --Dryden.
+      [1913 Webster]
+
+   Syn: Disquieting; troublesome; afflictive; distressing;
+        grievous; laborious; toilsome; difficult; arduous.
+        [1913 Webster] -- {Pain"ful*ly}, adv. --
+        {Pain"ful*ness}, n.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>painful</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>painful
+     adj 1: causing physical or psychological pain; "worked with painful
+            slowness" [ant: {painless}]
+     2: causing misery or pain or distress; "it was a sore trial to
+        him"; "the painful process of growing up" [syn: {afflictive},
+         {sore}]
+     3: exceptionally bad or displeasing; "atrocious taste";
+        "abominable workmanship"; "an awful voice"; "dreadful
+        manners"; "a painful performance"; "terrible handwriting";
+        "an unspeakable odor came sweeping into the room" [syn: {atrocious},
+         {abominable}, {awful}, {dreadful}, {terrible}, {unspeakable}]
+     4: causing physical discomfort; "bites of black flies are more
+        than irritating; they can be very painful" [syn: {irritating}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

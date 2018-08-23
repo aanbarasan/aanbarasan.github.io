@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pharmacy</Word>
+  <Definitions>
+    <Definition>
+      <Word>pharmacy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pharmacy \Phar"ma*cy\, n. [OE. fermacie, OF. farmacie,
+   pharmacie, F. pharmacie, Gr. ?, fr. ? to administer or use
+   medicines, fr. ? medicine.]
+   1. The art or practice of preparing and preserving drugs, and
+      of compounding and dispensing medicines according to
+      prescriptions of physicians; the occupation of an
+      apothecary or a pharmaceutical chemist.
+      [1913 Webster]
+
+   2. A place where medicines are compounded; a drug store; an
+      apothecary's shop.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pharmacy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pharmacy
+     n 1: the art and science of preparing and dispensing drugs and
+          medicines, [syn: {pharmaceutics}]
+     2: a retail shop where medicine and other articles are sold
+        [syn: {drugstore}, {apothecary's shop}, {chemist's}, {chemist's
+        shop}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

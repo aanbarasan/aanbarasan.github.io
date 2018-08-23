@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>oaks</Word>
+  <Definitions>
+    <Definition>
+      <Word>oaks</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Oaks, MO (village, FIPS 53804)
+  Location: 39.19695 N, 94.57188 W
+  Population (1990): 130 (58 housing units)
+  Area: 0.2 sq km (land), 0.0 sq km (water)
+Oaks, OK (town, FIPS 53550)
+  Location: 36.16816 N, 94.85298 W
+  Population (1990): 431 (141 housing units)
+  Area: 4.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 74359
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

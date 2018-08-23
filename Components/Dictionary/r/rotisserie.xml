@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rotisserie</Word>
+  <Definitions>
+    <Definition>
+      <Word>rotisserie</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rotisserie
+     n 1: an oven or broiler equipped with a rotating spit on which
+          meat cooks as it turns
+     2: a restaurant that specializes in roasted and barbecued meats
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

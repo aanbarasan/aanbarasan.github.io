@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>moody</Word>
+  <Definitions>
+    <Definition>
+      <Word>moody</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Moody, AL (town, FIPS 51096)
+  Location: 33.59693 N, 86.49463 W
+  Population (1990): 4921 (1845 housing units)
+  Area: 28.6 sq km (land), 0.2 sq km (water)
+Moody, MO
+  Zip code(s): 65777
+Moody, TX (town, FIPS 49200)
+  Location: 31.30844 N, 97.36025 W
+  Population (1990): 1329 (573 housing units)
+  Area: 2.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 76557
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>moody</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Moody \Mood"y\, a. [Compar. {Moodier}; superl. {Moodiest}.] [AS.
+   m[=o]dig courageous.]
+   1. Subject to varying moods, especially to states of mind
+      which are unamiable or depressed.
+      [1913 Webster]
+
+   2. Hence: Out of humor; peevish; angry; fretful; also,
+      abstracted and pensive; sad; gloomy; melancholy. ``Every
+      peevish, moody malcontent.'' --Rowe.
+      [1913 Webster]
+
+            Arouse thee from thy moody dream!     --Sir W.
+                                                  Scott.
+      [1913 Webster]
+
+   Syn: Gloomy; pensive; sad; fretful; capricious.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>moody</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>moody
+     adj 1: showing a brooding ill humor; "a dark scowl"; "the
+            proverbially dour New England Puritan"; "a glum,
+            hopeless shrug"; "he sat in moody silence"; "a morose
+            and unsociable manner"; "a saturnine, almost
+            misanthropic young genius"- Bruce Bliven; "a sour
+            temper"; "a sullen crowd" [syn: {dark}, {dour}, {glowering},
+             {glum}, {morose}, {saturnine}, {sour}, {sullen}]
+     2: subject to sharply varying moods; "a temperamental opera
+        singer" [syn: {temperamental}]
+     n 1: United States tennis player who dominated women's tennis in
+          the 1920s and 1930s (born in 1906) [syn: {Helen Wills
+          Moody}, {Helen Wills}, {Helen Newington Wills}]
+     2: United States evangelist (1837-1899) [syn: {Dwight Lyman
+        Moody}]
+     [also: {moodiest}, {moodier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

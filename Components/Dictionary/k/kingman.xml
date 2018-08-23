@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>kingman</Word>
+  <Definitions>
+    <Definition>
+      <Word>kingman</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Kingman, AZ (city, FIPS 37620)
+  Location: 35.20702 N, 114.03197 W
+  Population (1990): 12722 (5473 housing units)
+  Area: 53.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 86401
+Kingman, IN (town, FIPS 39798)
+  Location: 39.96582 N, 87.27827 W
+  Population (1990): 561 (245 housing units)
+  Area: 2.1 sq km (land), 0.0 sq km (water)
+Kingman, KS (city, FIPS 36950)
+  Location: 37.64701 N, 98.11347 W
+  Population (1990): 3196 (1500 housing units)
+  Area: 8.0 sq km (land), 0.0 sq km (water)
+Kingman, ME
+  Zip code(s): 04451
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

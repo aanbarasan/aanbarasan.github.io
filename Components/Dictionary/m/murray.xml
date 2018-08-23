@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>murray</Word>
+  <Definitions>
+    <Definition>
+      <Word>murray</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Murray, IA (city, FIPS 55065)
+  Location: 41.04127 N, 93.94843 W
+  Population (1990): 731 (308 housing units)
+  Area: 2.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 50174
+Murray, KY (city, FIPS 54642)
+  Location: 36.61148 N, 88.31567 W
+  Population (1990): 14439 (5546 housing units)
+  Area: 19.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 42071
+Murray, NE (village, FIPS 33425)
+  Location: 40.91663 N, 95.92788 W
+  Population (1990): 418 (166 housing units)
+  Area: 0.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 68409
+Murray, UT (city, FIPS 53230)
+  Location: 40.65245 N, 111.89246 W
+  Population (1990): 31282 (12347 housing units)
+  Area: 24.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 84107, 84123
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>murray</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Murray
+     n 1: British classical scholar (born in Australia) who advocated
+          the League of Nations and the United Nations (1866-1957)
+          [syn: {Gilbert Murray}, {George Gilbert Aime Murphy}]
+     2: Scottish philologist and first lexicographer of the Oxford
+        English Dictionary (1837-1915) [syn: {James Murray}, {James
+        Augustus Murray}, {James Augustus Henry Murray}, {Sir
+        James Murray}, {Sir James Augustus Murray}, {Sir James
+        Augustus Henry Murray}]
+     3: an southeast Australian river; flows westward and then south
+        into the Indian Ocean at Adelaide [syn: {Murray River}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

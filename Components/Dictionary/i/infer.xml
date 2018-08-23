@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>infer</Word>
+  <Definitions>
+    <Definition>
+      <Word>infer</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Infer \In*fer"\, v. t. [imp. &amp; p. p. {Inferred}; p. pr. &amp; vb. n.
+   {Inferring}.] [L. inferre to bring into, bring forward,
+   occasion, infer; pref. in- in + ferre to carry, bring: cf. F.
+   inf['e]rer. See 1 st {Bear}.]
+   [1913 Webster]
+   1. To bring on; to induce; to occasion. [Obs.] --Harvey.
+      [1913 Webster]
+
+   2. To offer, as violence. [Obs.] --Spenser.
+      [1913 Webster]
+
+   3. To bring forward, or employ as an argument; to adduce; to
+      allege; to offer. [Obs.]
+      [1913 Webster]
+
+            Full well hath Clifford played the orator,
+            Inferring arguments of mighty force.  --Shak.
+      [1913 Webster]
+
+   4. To derive by deduction or by induction; to conclude or
+      surmise from facts or premises; to accept or derive, as a
+      consequence, conclusion, or probability; as, I inferred
+      his determination from his silence.
+      [1913 Webster]
+
+            To infer is nothing but by virtue of one proposition
+            laid down as true, to draw in another as true.
+                                                  --Locke.
+      [1913 Webster]
+
+            Such opportunities always infer obligations.
+                                                  --Atterbury.
+      [1913 Webster]
+
+   5. To show; to manifest; to prove. [Obs.]
+      [1913 Webster]
+
+            The first part is not the proof of the second, but
+            rather contrariwise, the second inferreth well the
+            first.                                --Sir T. More.
+      [1913 Webster]
+
+            This doth infer the zeal I had to see him. --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>infer</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>infer
+     v 1: reason by deduction; establish by deduction [syn: {deduce},
+          {deduct}, {derive}]
+     2: draw from specific cases for more general cases [syn: {generalize},
+         {generalise}, {extrapolate}]
+     3: conclude by reasoning; in logic [syn: {deduce}]
+     4: guess correctly; solve by guessing; "He guessed the right
+        number of beans in the jar and won the prize" [syn: {guess}]
+     5: believe to be the case; "I understand you have no previous
+        experience?" [syn: {understand}]
+     [also: {inferring}, {inferred}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>inhibitory</Word>
+  <Definitions>
+    <Definition>
+      <Word>inhibitory</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Inhibitory \In*hib"i*to*ry\, a. [LL. inhibitorius: cf. F.
+   inhibitoire.]
+   Of or pertaining to, or producing, inhibition; consisting in
+   inhibition; tending or serving to inhibit; as, the inhibitory
+   action of the pneumogastric on the respiratory center.
+   [1913 Webster]
+
+         I would not have you consider these criticisms as
+         inhibitory.                              --Lamb.
+   [1913 Webster]
+
+   {Inhibitory nerves} (Physiol.), those nerves which modify,
+      inhibit, or suppress a motor or secretory act already in
+      progress.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>inhibitory</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>inhibitory
+     adj : restrictive of action; "a repressive regime"; "an overly
+           strict and inhibiting discipline" [syn: {repressive}, {repressing}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

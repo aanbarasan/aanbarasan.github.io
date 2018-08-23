@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rumbling</Word>
+  <Definitions>
+    <Definition>
+      <Word>rumbling</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rumbling \Rum"bling\,
+   a. &amp; n. from {Rumble}, v. i.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rumbling</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rumbling
+     adj : continuous full and low-pitched throbbing sound; "the
+           rumbling rolling sound of thunder" [syn: {grumbling}]
+     n : a loud low dull continuous noise; "they heard the rumbling
+         of thunder" [syn: {rumble}, {grumble}, {grumbling}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

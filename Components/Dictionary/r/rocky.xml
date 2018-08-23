@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rocky</Word>
+  <Definitions>
+    <Definition>
+      <Word>rocky</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Rocky, OK (town, FIPS 63700)
+  Location: 35.15635 N, 99.05852 W
+  Population (1990): 181 (106 housing units)
+  Area: 0.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 73661
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rocky</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rocky \Rock"y\, a.
+   1. Full of, or abounding in, rocks; consisting of rocks; as,
+      a rocky mountain; a rocky shore.
+      [1913 Webster]
+
+   2. Like a rock; as, the rocky orb of a shield. --Milton.
+      [1913 Webster]
+
+   3. Fig.: Not easily impressed or affected; hard; unfeeling;
+      obdurate; as, a rocky bosom. --Shak.
+      [1913 Webster]
+
+   {Rocky Mountain locust} (Zo["o]l.), the Western locust, or
+      grasshopper. See {Grasshopper}.
+
+   {Rocky Mountain sheep}. (Zo["o]l.) See {Bighorn}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rocky</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rocky
+     adj 1: abounding in rocks or stones; "rocky fields"; "stony
+            ground"; "bouldery beaches" [syn: {bouldery}, {bouldered},
+             {stony}]
+     2: liable to rock; "on high rocky heels"
+     3: full of hardship or trials; "the rocky road to success";
+        "they were having a rough time" [syn: {rough}]
+     [also: {rockiest}, {rockier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rightwing</Word>
+  <Definitions>
+    <Definition>
+      <Word>rightwing</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>right wing
+     n : those who support political or social or economic
+         conservatism; those who believe that things are better
+         left unchanged [syn: {right}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rightwing</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>right-wing
+     adj : believing in or supporting tenets of the political right
+           [syn: {rightist}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

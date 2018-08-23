@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sneezing</Word>
+  <Definitions>
+    <Definition>
+      <Word>sneezing</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sneeze \Sneeze\, v. i. [imp. &amp; p. p. {Sneezed}; p. pr. &amp; vb. n.
+   {Sneezing}.] [OE. snesen; of uncertain origin; cf. D. snuse
+   to sniff, E. neese, and AS. fne['o]san.]
+   To emit air, chiefly through the nose, audibly and violently,
+   by a kind of involuntary convulsive force, occasioned by
+   irritation of the inner membrane of the nose.
+   [1913 Webster]
+
+   {Not to be sneezed at}, not to be despised or contemned; not
+      to be treated lightly. [Colloq.] ``He had to do with old
+      women who were not to be sneezed at.'' --Prof. Wilson.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sneezing</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sneezing \Sneez"ing\, n. (Physiol.)
+   The act of violently forcing air out through the nasal
+   passages while the cavity of the mouth is shut off from the
+   pharynx by the approximation of the soft palate and the base
+   of the tongue.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sneezing</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sneezing
+     n : a symptom consisting of the involuntary expulsion of air
+         from the nose [syn: {sneeze}, {sternutation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

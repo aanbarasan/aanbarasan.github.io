@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>infatuation</Word>
+  <Definitions>
+    <Definition>
+      <Word>infatuation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Infatuation \In*fat`u*a"tion\, n. [LL. infatuatio: cf. F.
+   infatuation.]
+   The act of infatuating; the state of being infatuated; folly;
+   that which infatuates.
+   [1913 Webster]
+
+         The infatuations of the sensual and frivolous part of
+         mankind are amazing; but the infatuations of the
+         learned and sophistical are incomparably more so. --I.
+                                                  Taylor.
+   [1913 Webster]
+
+         Such is the infatuation of self-love.    --Blair.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>infatuation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>infatuation
+     n 1: foolish and usually extravagant passion or love or
+          admiration
+     2: temporary love of an adolescent [syn: {puppy love}, {calf
+        love}, {crush}]
+     3: an object of extravagant short-lived passion
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>spectral</Word>
+  <Definitions>
+    <Definition>
+      <Word>spectral</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Spectral \Spec"tral\, a.
+   1. Of or pertaining to a specter; ghosty.
+      [1913 Webster]
+
+            He that feels timid at the spectral form of evil is
+            not the man to spread light.          --F. W.
+                                                  Robertson.
+      [1913 Webster]
+
+   2. (Opt.) Of or pertaining to the spectrum; made by the
+      spectrum; as, spectral colors; spectral analysis.
+      [1913 Webster]
+
+   {Spectral lemur}. (Zo["o]l.) See {Tarsius}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>spectral</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>spectral
+     adj 1: of or relating to a spectrum; "spectral colors"; "spectral
+            analysis"
+     2: like or being a phantom; "a ghostly face at the window"; "a
+        phantasmal presence in the room"; "spectral emanations";
+        "spiritual tappings at a seance" [syn: {apparitional}, {ghostlike},
+         {ghostly}, {phantasmal}, {spiritual}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

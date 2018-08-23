@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>stewing</Word>
+  <Definitions>
+    <Definition>
+      <Word>stewing</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Stew \Stew\, v. t. [imp. &amp; p. p. {Stewed}; p. pr. &amp; vb. n.
+   {Stewing}.] [OE. stuven, OF. estuver, F. ['e]tuver, fr. OF.
+   estuve, F. ['e]tuve, a sweating house, a room heated for a
+   bath; probably of Teutonic origin, and akin to E. stove. See
+   {Stove}, and cf. {Stive} to stew.]
+   To boil slowly, or with the simmering or moderate heat; to
+   seethe; to cook in a little liquid, over a gentle fire,
+   without boiling; as, to stew meat; to stew oysters; to stew
+   apples.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stewing</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>stewing
+     n 1: an extreme state of worry and agitation; "his stewing over
+          the fight kept him awake most of the night"
+     2: cooking in a boiling liquid [syn: {boiling}, {simmering}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

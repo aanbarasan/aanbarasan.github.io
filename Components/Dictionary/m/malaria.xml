@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>malaria</Word>
+  <Definitions>
+    <Definition>
+      <Word>malaria</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>malaria \ma*la"ri*a\, n. [It., contr. fr. malaaria bad air. See
+   {Malice}, and Air.]
+   1. Air infected with some noxious substance capable of
+      engendering disease; esp., an unhealthy exhalation from
+      certain soils, as marshy or wet lands, producing fevers;
+      miasma. [Archaic]
+      [1913 Webster]
+
+   Note: The morbific agent in malaria is supposed by some to be
+         a vegetable microbe or its spores, and by others to be
+         a very minute animal blood parasite (an infusorian).
+         [1913 Webster]
+
+   2. (Med.) A human disease caused by infection of red blood
+      cells by a protozoan of the genus {Plasmodium}, giving
+      rise to fever and chills and many other symptoms,
+      characterized by their tendency to recur at definite and
+      usually uniform intervals. The protozoal infection is
+      usually transmitted from another infected individual by
+      the bite of an {Anopheles} mosquito.
+      [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>malaria</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>malaria
+     n : an infective disease caused by sporozoan parasites that are
+         transmitted through the bite of an infected Anopheles
+         mosquito; marked by paroxysms of chills and fever
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

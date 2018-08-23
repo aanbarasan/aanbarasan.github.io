@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>uterus</Word>
+  <Definitions>
+    <Definition>
+      <Word>uterus</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Uterus \U"te*rus\, n. [L.]
+   1. (Anat.) The organ of a female mammal in which the young
+      are developed previous to birth; the womb.
+      [1913 Webster]
+
+   Note: The uterus is simply an enlargement of the oviduct, and
+         in the lower mammals there is one on each side, but in
+         the higher forms the two become more or less completely
+         united into one. In many male mammals there is a small
+         vesicle, opening into the urinogenital canal, which
+         corresponds to the uterus of the female and is called
+         the male uterus, or [NL.] uterus masculinus.
+         [1913 Webster]
+
+   2. (Zo["o]l.) A receptacle, or pouch, connected with the
+      oviducts of many invertebrates in which the eggs are
+      retained until they hatch or until the embryos develop
+      more or less. See Illust. of {Hermaphrodite} in Append.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>uterus</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>uterus
+     n : a hollow muscular organ in the pelvic cavity of females;
+         contains the developing fetus [syn: {womb}]
+     [also: {uteri} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

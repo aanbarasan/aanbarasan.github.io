@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rental</Word>
+  <Definitions>
+    <Definition>
+      <Word>rental</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rental \Rent"al\ (-al), n. [LL. rentale, fr. renta. See {Rent}
+   income.]
+   1. A schedule, account, or list of rents, with the names of
+      the tenants, etc.; a rent roll.
+      [1913 Webster]
+
+   2. A sum total of rents; as, an estate that yields a rental
+      of ten thousand dollars a year.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rental</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rental
+     adj 1: available to rent or lease; "a rental car"
+     2: of or relating to rent; "rental agreement"; "rental charges"
+     n 1: property that is leased or rented out or let [syn: {lease},
+          {letting}]
+     2: the act of paying for the use of something (as an apartment
+        or house or car) [syn: {renting}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

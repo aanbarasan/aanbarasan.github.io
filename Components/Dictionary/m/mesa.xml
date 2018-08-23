@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mesa</Word>
+  <Definitions>
+    <Definition>
+      <Word>mesa</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Mesa
+     
+        Xerox PARC, 1977.  System and application programming for
+        proprietary hardware: Alto, Dolphin, Dorado and Dandelion.
+        Pascal-like syntax, ALGOL68-like semantics.  An early version
+        was weakly typed.  Mesa's modules with separately compilable
+        definition and implementation parts directly led to Wirth's
+        design for Modula.  Threads, coroutines (fork/join),
+        exceptions, and monitors.  Type checking may be disabled.
+        Mesa was used internally by Xerox to develop ViewPoint, the
+        Xerox Star, MDE, and the controller of a high-end copier.  It
+        was released to a few universitites in 1985.  Succeeded by
+        Cedar.
+     
+        ["Mesa Language Manual", J.G.  Mitchell et al, Xerox PARC,
+        CSL-79-3 (Apr 1979)].
+     
+        ["Early Experience with Mesa", Geschke et al, CACM
+        20(8):540-552 (Aug 1977)].
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mesa</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Mesa, AZ (city, FIPS 46000)
+  Location: 33.41774 N, 111.74034 W
+  Population (1990): 288091 (140468 housing units)
+  Area: 281.3 sq km (land), 0.5 sq km (water)
+  Zip code(s): 85201, 85202, 85203, 85204, 85205, 85206, 85207, 85208, 85210, 85213
+Mesa, CO
+  Zip code(s): 81643
+Mesa, ID
+  Zip code(s): 83643
+Mesa, WA (town, FIPS 45180)
+  Location: 46.57319 N, 118.99956 W
+  Population (1990): 252 (97 housing units)
+  Area: 4.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 99343
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mesa</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mesa \Me"sa\, ?. [Sp.]
+   A high tableland; a plateau on a hill. [Southwestern U.S.]
+   --Bartlett.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mesa</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>MESA
+     MetaEmailSearchAgent (WWW, Internet)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mesa</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mesa
+     n 1: flat tableland with steep edges; "the tribe was relatively
+          safe on the mesa but they had to descend into the valley
+          for water" [syn: {table}]
+     2: a city just east of Phoenix; originally a suburb of Phoenix
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

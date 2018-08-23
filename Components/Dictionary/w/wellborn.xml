@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>wellborn</Word>
+  <Definitions>
+    <Definition>
+      <Word>wellborn</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Wellborn, FL
+  Zip code(s): 32094
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wellborn</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Well-born \Well"-born`\, a.
+   Born of a noble or respect able family; not of mean birth.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wellborn</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>wellborn
+     adj : of good or upper-class lineage; "a rich and wellborn
+           husband"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>political</Word>
+  <Definitions>
+    <Definition>
+      <Word>political</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Political \Po*lit"i*cal\, a.
+   1. Having, or conforming to, a settled system of
+      administration. [R.] ``A political government.'' --Evelyn.
+      [1913 Webster]
+
+   2. Of or pertaining to public policy, or to politics;
+      relating to affairs of state or administration; as, a
+      political writer. ``The political state of Europe.''
+      --Paley.
+      [1913 Webster]
+
+   3. Of or pertaining to a party, or to parties, in the state;
+      as, his political relations were with the Whigs.
+      [1913 Webster]
+
+   4. Politic; wise; also, artful. [Obs.] --Sterne.
+      [1913 Webster]
+
+   {Political economy}, that branch of political science or
+      philosophy which treats of the sources, and methods of
+      production and preservation, of the material wealth and
+      prosperity of nations.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>political</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>political
+     adj 1: involving or characteristic of politics or parties or
+            politicians; "calling a meeting is a political act in
+            itself"- Daniel Goleman; "political pressure"; "a
+            political machine"; "political office"; "political
+            policy" [ant: {nonpolitical}]
+     2: of or relating to your views about social relationships
+        involving authority or power; "political opinions"
+     3: of or relating to the profession of governing; "political
+        career"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

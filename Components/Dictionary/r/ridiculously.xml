@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ridiculously</Word>
+  <Definitions>
+    <Definition>
+      <Word>ridiculously</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ridiculous \Ri*dic"u*lous\, a. [L. ridiculosus, ridiculus, fr.
+   ridere to laigh. Cf. {Risible}.]
+   1. Fitted to excite ridicule; absurd and laughable; unworthy
+      of serious consideration; as, a ridiculous dress or
+      behavior.
+      [1913 Webster]
+
+            Agricola, discerning that those little targets and
+            unwieldy glaives ill pointed would soon become
+            ridiculous against the thrust and close, commanded
+            three Batavian cohorts . . . to draw up and come to
+            handy strokes.                        --Milton.
+      [1913 Webster]
+
+   2. Involving or expressing ridicule. [R.]
+      [1913 Webster]
+
+            [It] provokes me to ridiculous smiling. --Shak.
+      [1913 Webster]
+
+   Syn: Ludicrous; laughable; risible; droll; comical; absurd;
+        preposterous. See {Ludicrous}.
+        [1913 Webster] --- {Ri*dic"u*lous*ly}, adv. --
+        {Ri*dic"u*lous*ness}, n.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ridiculously</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ridiculously
+     adv : so as to arouse or deserve laughter; "her income was
+           laughably small, but she managed to live well" [syn: {laughably},
+            {ludicrously}, {preposterously}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

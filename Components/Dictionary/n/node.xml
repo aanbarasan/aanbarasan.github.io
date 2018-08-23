@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>node</Word>
+  <Definitions>
+    <Definition>
+      <Word>node</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>node
+     
+        1. A point or vertex in a {graph}.
+     
+        2. An addressable device attached to a computer {network}.
+        More often called a "host".
+     
+        3. A {hypertext} document.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>node</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Node \Node\ (n[=o]d), n. [L. nodus; perh. akin to E. knot. Cf.
+   {Noose}, {Nowed}.]
+   1. A knot, a knob; a protuberance; a swelling.
+      [1913 Webster]
+
+   2. Specifically:
+      (a) (Astron.) One of the two points where the orbit of a
+          planet, or comet, intersects the ecliptic, or the
+          orbit of a satellite intersects the plane of the orbit
+          of its primary.
+      (b) (Bot.) The joint of a stem, or the part where a leaf
+          or several leaves are inserted.
+      (c) (Dialing) A hole in the gnomon of a dial, through
+          which passes the ray of light which marks the hour of
+          the day, the parallels of the sun's declination, his
+          place in the ecliptic, etc.
+      (d) (Geom.) The point at which a curve crosses itself,
+          being a double point of the curve. See {Crunode}, and
+          {Acnode}.
+      (e) (Mech.) The point at which the lines of a funicular
+          machine meet from different angular directions; --
+          called also {knot}. --W. R. Johnson.
+      (f) (Poet.) The knot, intrigue, or plot of a piece.
+      (g) (Med.) A hard concretion or incrustation which forms
+          upon bones attacked with rheumatism, gout, or
+          syphilis; sometimes also, a swelling in the
+          neighborhood of a joint. --Dunglison.
+      (h) (Mus) One of the fixed points of a sonorous string,
+          when it vibrates by aliquot parts, and produces the
+          harmonic tones; nodal line or point.
+      (i) (Zo["o]l.) A swelling.
+          [1913 Webster]
+
+   3. (Math., Computers) A special point in a graph or diagram
+      which is attached to other points by {links}. It is often
+      labeled and represented graphically as a box or circle. A
+      node may represent any object which is related to other
+      objects in a conceptual structure that can be represented
+      as a graph, the relations being represented as links
+      between the nodes.
+      [PJC]
+
+   4. (Anat.) A small mass of tissue differing from other tissue
+      in its immediate vicinity; as, a lymph node.
+      [PJC]
+
+   {Ascending node} (Astron.), the node at which the body is
+      passing northerly, marked with the symbol [astascending],
+      called the Dragon's head. Called also {northern node}.
+
+   {Descending node}, the node at which the body is moving
+      southwardly, marked thus [astdescending], called Dragon's
+      tail.
+
+   {Line of nodes}, a straight line joining the two nodes of an
+      orbit.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>node</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>node n. 1. [Internet, UUCP] A host machine on the network. 2. [MS-DOS
+   BBSes] A dial-in line on a BBS. Thus an MS-DOS {sysop} might say that
+   his BBS has 4 nodes even though it has a single machine and no Internet
+   link, confusing an Internet hacker no end.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>node</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>node
+     n 1: a connecting point at which several lines come together
+     2: any thickened enlargement [syn: {knob}, {thickening}]
+     3: (physics) the point of minimum displacement in a periodic
+        system [ant: {antinode}]
+     4: (astronomy) a point where an orbit crosses a plane
+     5: the source of lymph and lymphocytes [syn: {lymph node}, {lymph
+        gland}]
+     6: any bulge or swelling of an anatomical structure or part
+     7: (computer science) any computer that is hooked up to a
+        computer network [syn: {client}, {guest}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

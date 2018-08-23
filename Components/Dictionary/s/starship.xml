@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>starship</Word>
+  <Definitions>
+    <Definition>
+      <Word>starship</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>starship
+     n : a spacecraft designed to carry a crew into interstellar
+         space (especially in science fiction) [syn: {spaceship}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

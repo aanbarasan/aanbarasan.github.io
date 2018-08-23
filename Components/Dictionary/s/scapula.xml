@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>scapula</Word>
+  <Definitions>
+    <Definition>
+      <Word>scapula</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Scapula \Scap"u*la\ (sk[a^]p"[-u]*l[.a]), n.; pl. L.
+   {Scapul[ae]}, E. {Scapulas}. [L.]
+   1. (Anat.) The principal bone of the shoulder girdle in
+      mammals; the shoulder blade.
+      [1913 Webster]
+
+   2. (Zo["o]l.) One of the plates from which the arms of a
+      crinoid arise.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>scapula</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>scapula
+     n : either of two flat triangular bones one on each side of the
+         shoulder in human beings [syn: {shoulder blade}, {shoulder
+         bone}]
+     [also: {scapulae} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

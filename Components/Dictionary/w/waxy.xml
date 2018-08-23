@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>waxy</Word>
+  <Definitions>
+    <Definition>
+      <Word>waxy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Waxy \Wax"y\, a.
+   Resembling wax in appearance or consistency; viscid;
+   adhesive; soft; hence, yielding; pliable; impressible. ``Waxy
+   to persuasion.'' --Bp. Hall.
+   [1913 Webster]
+
+   {Waxy degeneration} (Med.), amyloid degeneration. See under
+      {Amyloid}.
+
+   {Waxy kidney}, {Waxy liver}, etc. (Med.), a kidney or liver
+      affected by waxy degeneration.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>waxy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>waxy
+     adj 1: made of or covered with wax; "waxen candles"; "careful, the
+            floor is waxy" [syn: {waxen}]
+     2: resembling or covered with wax; "as shiny as a waxy pippin";
+        "the ceraceous surface of the leaves" [syn: {waxlike}, {ceraceous}]
+     3: having the paleness of wax; "the poor face with the same
+        awful waxen pallor"- Bram Stoker; "the soldier turned his
+        waxlike features toward him"; "a thin face with a waxy
+        paleness" [syn: {waxen}, {waxlike}]
+     [also: {waxiest}, {waxier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

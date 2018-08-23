@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>narrowly</Word>
+  <Definitions>
+    <Definition>
+      <Word>narrowly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Narrowly \Nar"row*ly\, adv. [AS. nearulice.]
+   1. With little breadth; in a narrow manner.
+      [1913 Webster]
+
+   2. Without much extent; contractedly.
+      [1913 Webster]
+
+   3. With minute scrutiny; closely; as, to look or watch
+      narrowly; to search narrowly.
+      [1913 Webster]
+
+   4. With a little margin or space; by a small distance; hence,
+      closely; hardly; barely; only just; -- often with
+      reference to an avoided danger or misfortune; as, he
+      narrowly escaped.
+      [1913 Webster]
+
+   5. Sparingly; parsimoniously.
+      [1913 Webster]
+
+   6. With close adherence to the literal meaning of a text; as,
+      to interpret narrowly; to construe narrowly; to read
+      narrowly; -- used especially of laws and contracts.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>narrowly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>narrowly
+     adv : in a narrow manner; not allowing for exceptions; "he
+           interprets the law narrowly" [ant: {broadly}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

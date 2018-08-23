@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>primitive</Word>
+  <Definitions>
+    <Definition>
+      <Word>primitive</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>primitive
+     
+        &lt;programming&gt; A {function}, {operator}, or {type} which is
+        built into a programming language (or {operating system}),
+        either for speed of execution or because it would be
+        impossible to write it in the language.  Primitives typically
+        include the arithmetic and logical operations (plus, minus,
+        and, or, etc.) and are implemented by a small number of
+        {machine language} instructions.
+     
+        (1995-05-01)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>primitive</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Primitive \Prim"i*tive\, a. [L. primitivus, fr. primus the
+   first: cf. F. primitif. See {Prime}, a.]
+   1. Of or pertaining to the beginning or origin, or to early
+      times; original; primordial; primeval; first; as,
+      primitive innocence; the primitive church. ``Our primitive
+      great sire.'' --Milton.
+      [1913 Webster]
+
+   2. Of or pertaining to a former time; old-fashioned;
+      characterized by simplicity; as, a primitive style of
+      dress.
+      [1913 Webster]
+
+   3. Original; primary; radical; not derived; as, primitive
+      verb in grammar.
+      [1913 Webster]
+
+   {Primitive axes of co["o]rdinate} (Geom.), that system of
+      axes to which the points of a magnitude are first
+      referred, with reference to a second set or system, to
+      which they are afterward referred.
+
+   {Primitive chord} (Mus.), that chord, the lowest note of
+      which is of the same literal denomination as the
+      fundamental base of the harmony; -- opposed to derivative.
+      --Moore (Encyc. of Music).
+
+   {Primitive circle} (Spherical Projection), the circle cut
+      from the sphere to be projected, by the primitive plane.
+      
+
+   {Primitive colors} (Paint.), primary colors. See under
+      {Color}.
+
+   {Primitive Fathers} (Eccl.), the acknowledged Christian
+      writers who flourished before the Council of Nice, A. D.
+      325. --Shipley.
+
+   {Primitive groove} (Anat.), a depression or groove in the
+      epiblast of the primitive streak. It is not connected with
+      the medullary groove, which appears later and in front of
+      it.
+
+   {Primitive plane} (Spherical Projection), the plane upon
+      which the projections are made, generally coinciding with
+      some principal circle of the sphere, as the equator or a
+      meridian.
+
+   {Primitive rocks} (Geol.), primary rocks. See under
+      {Primary}.
+
+   {Primitive sheath}. (Anat.) See {Neurilemma}.
+
+   {Primitive streak} or {Primitive trace} (Anat.), an opaque
+      and thickened band where the mesoblast first appears in
+      the vertebrate blastoderm.
+      [1913 Webster]
+
+   Syn: First; original; radical; pristine; ancient; primeval;
+        antiquated; old-fashioned.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>primitive</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Primitive \Prim"i*tive\, n.
+   An original or primary word; a word not derived from another;
+   -- opposed to derivative.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>primitive</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>primitive
+     adj 1: belonging to an early stage of technical development;
+            characterized by simplicity and (often) crudeness;
+            "the crude weapons and rude agricultural implements of
+            early man"; "primitive movies of the 1890s";
+            "primitive living conditions in the Appalachian
+            mountains" [syn: {crude}, {rude}]
+     2: little evolved from or characteristic of an earlier
+        ancestral type; "archaic forms of life"; "primitive
+        mammals"; "the okapi is a short-necked primitive cousin of
+        the giraffe" [syn: {archaic}]
+     3: used of preliterate or tribal or nonindustrial societies;
+        "primitive societies"
+     4: of or created by one without formal training; simple or
+        naive in style; "primitive art such as that by Grandma
+        Moses is often colorful and striking"
+     n 1: a person who belongs to early stage of civilization [syn: {primitive
+          person}]
+     2: a mathematical expression from which another expression is
+        derived
+     3: a word serving as the basis for inflected or derived forms;
+        "`pick' is the primitive from which `picket' is derived"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rudimentary</Word>
+  <Definitions>
+    <Definition>
+      <Word>rudimentary</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rudimentary \Ru`di*men"ta*ry\, a. [Cf. F. rudimentaire.]
+   1. Of or pertaining to rudiments; consisting in first
+      principles; elementary; initial; as, rudimental essays.
+      [1913 Webster]
+
+   2. (Biol.) Very imperfectly developed; in an early stage of
+      development; embryonic.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rudimentary</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rudimentary
+     adj 1: being or involving basic facts or principles; "the
+            fundamental laws of the universe"; "a fundamental
+            incompatibility between them"; "these rudimentary
+            truths"; "underlying principles" [syn: {fundamental},
+            {underlying}]
+     2: being in the earliest stages of development; "rudimentary
+        plans"
+     3: not fully developed in mature animals; "rudimentary wings"
+        [syn: {vestigial}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

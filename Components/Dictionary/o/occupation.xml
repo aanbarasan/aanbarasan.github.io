@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>occupation</Word>
+  <Definitions>
+    <Definition>
+      <Word>occupation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Occupation \Oc`cu*pa"tion\, n. [L. occupatio: cf. F.
+   occupation.]
+   1. The act or process of occupying or taking possession;
+      actual possession and control; the state of being
+      occupied; a holding or keeping; tenure; use; as, the
+      occupation of lands by a tenant.
+      [1913 Webster]
+
+   2. That which occupies or engages the time and attention.
+      [1913 Webster +PJC]
+
+   3. Specfically: The principal business of one's life; the
+      principal work by which one earns one's livelihood;
+      vocation; employment; profession; calling; trade;
+      avocation; as, these days many people continue to practice
+      their occupation well into their seventies.
+      [1913 Webster +PJC]
+
+            Absence of occupation is not rest.    --Cowper.
+      [1913 Webster]
+
+   {Occupation bridge} (Engin.), a bridge connecting the parts
+      of an estate separated by a railroad, a canal, or an
+      ordinary road.
+      [1913 Webster]
+
+   Syn: Occupancy; possession; tenure; use; employment;
+        avocation; engagement; vocation; calling; office; trade;
+        profession.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>occupation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>occupation
+     n 1: the principal activity in your life that you do to earn
+          money; "he's not in my line of business" [syn: {business},
+           {job}, {line of work}, {line}]
+     2: the control of a country by military forces of a foreign
+        power [syn: {military control}]
+     3: any activity that occupies a person's attention; "he missed
+        the bell in his occupation with the computer game"
+     4: the act of occupying or taking possession of a building;
+        "occupation of a building without a certificate of
+        occupancy is illegal" [syn: {occupancy}, {taking
+        possession}, {moving in}]
+     5: the period of time during which a place or position or
+        nation is occupied; "during the German occupation of
+        Paris"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>transplant</Word>
+  <Definitions>
+    <Definition>
+      <Word>transplant</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Transplant \Trans*plant"\, v. t. [imp. &amp; p. p. {Transplanted};
+   p. pr. &amp; vb. n. {Transplanting}.] [F. transplanter, L.
+   transplantare; trans across, over + plantare to plant. See
+   {Plant}.]
+   1. To remove, and plant in another place; as, to transplant
+      trees. --Dryden.
+      [1913 Webster]
+
+   2. To remove, and settle or establish for residence in
+      another place; as, to transplant inhabitants.
+      [1913 Webster]
+
+            Being transplanted out of his cold, barren diocese
+            of St. David into a warmer climate.   --Clarendon.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>transplant</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>transplant
+     n 1: (surgery) tissue or organ transplanted from a donor to a
+          recipient; in some cases the patient can be both donor
+          and recipient [syn: {graft}]
+     2: an operation moving an organ from one organism (the donor)
+        to another (the recipient); "he had a kidney transplant"
+        [syn: {transplantation}, {organ transplant}]
+     3: the act of uprooting and moving a plant to a new location;
+        "the transplant was successful"; "too frequent
+        transplanting is not good for plants" [syn: {transplanting},
+         {transplantation}]
+     v 1: lift and reset in another soil or situation; "Transplant the
+          young rice plants" [syn: {transfer}]
+     2: be transplantable; "These delicate plants do not transplant
+        easily"
+     3: place athe organ of a donor into the body of a recipient
+        [syn: {graft}]
+     4: transfer from one place or period to another; "The ancient
+        Greek story was transplanted into Modern America" [syn: {transfer},
+         {transpose}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

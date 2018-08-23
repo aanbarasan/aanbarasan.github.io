@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>trivial</Word>
+  <Definitions>
+    <Definition>
+      <Word>trivial</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Trivial \Triv"i*al\, a. [L. trivialis, properly, that is in, or
+   belongs to, the crossroads or public streets; hence, that may
+   be found everywhere, common, fr. trivium a place where three
+   roads meet, a crossroad, the public street; tri- (see {Tri-})
+   + via a way: cf. F. trivial. See {Voyage}.]
+   1. Found anywhere; common. [Obs.]
+      [1913 Webster]
+
+   2. Ordinary; commonplace; trifling; vulgar.
+      [1913 Webster]
+
+            As a scholar, meantime, he was trivial, and
+            incapable of labor.                   --De Quincey.
+      [1913 Webster]
+
+   3. Of little worth or importance; inconsiderable; trifling;
+      petty; paltry; as, a trivial subject or affair.
+      [1913 Webster]
+
+            The trivial round, the common task.   --Keble.
+      [1913 Webster]
+
+   4. Of or pertaining to the trivium.
+      [1913 Webster]
+
+   {Trivial name} (Nat. Hist.), the specific name.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>trivial</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Trivial \Triv"i*al\, n.
+   One of the three liberal arts forming the trivium. [Obs.]
+   --Skelton. Wood.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>trivial</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>trivial adj. 1. Too simple to bother detailing. 2. Not worth the
+   speaker's time. 3. Complex, but solvable by methods so well known that
+   anyone not utterly {cretinous} would have thought of them already. 4.
+   Any problem one has already solved (some claim that hackish `trivial'
+   usually evaluates to `I've seen it before'). Hackers' notions of
+   triviality may be quite at variance with those of non-hackers. See
+   {nontrivial}, {uninteresting}.
+
+   The physicist Richard Feynman, who had the hacker nature to an amazing
+   degree (see his essay "Los Alamos From Below" in "Surely You're Joking,
+   Mr. Feynman!"), defined `trivial theorem' as "one that has already been
+   proved".
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>trivial</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>trivial
+     adj 1: (informal terms) small and of little importance; "a fiddling
+            sum of money"; "a footling gesture"; "our worries are
+            lilliputian compared with those of countries that are
+            at war"; "a little (or small) matter"; "Mickey Mouse
+            regulations"; "a dispute over niggling details";
+            "limited to petty enterprises"; "piffling efforts";
+            "giving a police officer a free meal may be against
+            the law, but it seems to be a picayune infraction"
+            [syn: {fiddling}, {footling}, {lilliputian}, {little},
+             {Mickey Mouse}, {niggling}, {piddling}, {piffling}, {petty},
+             {picayune}]
+     2: obvious and dull; "trivial conversation"; "commonplace
+        prose" [syn: {banal}, {commonplace}]
+     3: of little substance or significance; "a few superficial
+        editorial changes"; "only trivial objections" [syn: {superficial}]
+     4: concerned with trivialities; "a trivial young woman"; "a
+        trivial mind"
+     5: not large enough to consider or notice [syn: {insignificant}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

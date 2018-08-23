@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>migraines</Word>
+  <Definitions>
+    <Definition>
+      <Word>migraines</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>MIGRAINES
+     
+        &lt;tool&gt; A {graphical user interface} for evaluating and
+        interacting with the {Aspirin} {neural network} simulation.
+     
+        Utilities exist for moving quickly from an {Aspirin}
+        description of a network directly to an executable program for
+        simulating and evaluating that network.  MIGRAINES has been
+        kept separate from Aspirin so that its limitations do not
+        restrict the performance of Aspirin.  However, in practice,
+        they are used together.  This combination allows for simple
+        specification and creation of efficient neural network systems
+        that can be graphically analysed and tested.
+     
+        [Aspirin/MIGRAINES Neural Network Software User's Manual,
+        Release v6.0 MP-91W00050, Copyright 1992 by Russel Leighton
+        and the MITRE Corporation].
+     
+        (1995-03-07)
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

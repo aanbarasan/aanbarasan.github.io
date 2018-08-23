@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tales</Word>
+  <Definitions>
+    <Definition>
+      <Word>tales</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tales \Ta"les\, n. [L., pl. of talis such (persons).] (Law)
+   (a) pl. Persons added to a jury, commonly from those in or
+       about the courthouse, to make up any deficiency in the
+       number of jurors regularly summoned, being like, or such
+       as, the latter. --Blount. Blackstone.
+   (b) syntactically sing. The writ by which such persons are
+       summoned.
+       [1913 Webster]
+
+   {Tales book}, a book containing the names of such as are
+      admitted of the tales. --Blount. --Craig.
+
+   {Tales de circumstantibus} [L.], such, or the like, from
+      those standing about.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

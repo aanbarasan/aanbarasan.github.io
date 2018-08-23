@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>proximal</Word>
+  <Definitions>
+    <Definition>
+      <Word>proximal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Proximal \Prox"i*mal\, a.
+   1. Toward or nearest, as to a body, or center of motion of
+      dependence; proximate.
+      [1913 Webster]
+
+   2. (Biol.)
+      (a) Situated near the point of attachment or origin; as,
+          the proximal part of a limb.
+      (b) Of or pertaining to that which is proximal; as, the
+          proximal bones of a limb. Opposed to {distal}.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>proximal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>proximal
+     adj : situated nearest to point of attachment or origin; "the
+           proximal end of a bone" [ant: {distal}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

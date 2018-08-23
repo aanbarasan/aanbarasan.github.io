@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>liner</Word>
+  <Definitions>
+    <Definition>
+      <Word>liner</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Liner \Lin"er\ (l[imac]n"[~e]r), n.
+   1. One who lines, as, a liner of shoes or clothing.
+      [1913 Webster]
+
+   2. An airplane or ship belonging to a transportation company;
+      also, a line-of-battle ship; a ship of the line.
+      [1913 Webster]
+
+   3. (Mach.) A thin piece placed between two parts to hold or
+      adjust them, fill a space, etc.; a shim.
+      [1913 Webster]
+
+   4. A {lining}[2]. Specifically: (Steam Engine) A lining
+      within the cylinder, in which the piston works and between
+      which and the outer shell of the cylinder a space is left
+      to form a steam jacket.
+      [1913 Webster]
+
+   5. A slab on which small pieces of marble, tile, etc., are
+      fastened for grinding.
+      [1913 Webster]
+
+   6. (Baseball) A ball which, when struck, flies through the
+      air in a nearly straight line not far from the ground;
+      also called {line drive}; as, he hit a sharp liner to
+      right.
+      [1913 Webster]
+
+   7. A protective envelope for a phonograph record or other
+      object.
+      [PJC]
+
+   8. A {lining}; as, a removable coat liner.
+      [PJC]
+
+   9. Same as {eyeliner}.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>liner</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>liner
+     n 1: (baseball) a hit that flies straight out from the batter;
+          "the batter hit a liner to the shortstop" [syn: {line
+          drive}]
+     2: a piece of cloth that is used as the inside surface of a
+        garment [syn: {lining}]
+     3: a large commercial ship (especially one that carries
+        passengers on a regular schedule) [syn: {ocean liner}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

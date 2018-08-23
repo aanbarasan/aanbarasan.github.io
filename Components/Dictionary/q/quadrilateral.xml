@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>quadrilateral</Word>
+  <Definitions>
+    <Definition>
+      <Word>quadrilateral</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Quadrilateral \Quad`ri*lat"er*al\, n.
+   1. (Geom.) A plane figure having four sides, and consequently
+      four angles; a quadrangular figure; any figure formed by
+      four lines.
+      [1913 Webster]
+
+   2. An area defended by four fortresses supporting each other;
+      as, the Venetian quadrilateral, comprising Mantua,
+      Peschiera, Verona, and Legnano.
+      [1913 Webster]
+
+   {Complete quadrilateral} (Geom.), the figure made up of the
+      six straight lines that can be drawn through four points,
+      A, B, C, I, the lines being supposed to be produced
+      indefinitely.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>quadrilateral</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Quadrilateral \Quad`ri*lat"er*al\, a. [L. quadrilaterus: cf. F.
+   quadrilat[`e]re, quadrilat['e]ral. See {Quadri-} and
+   {Lateral}.]
+   Having four sides, and consequently four angles;
+   quadrangular.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>quadrilateral</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>quadrilateral
+     adj : having four sides [syn: {four-sided}]
+     n : a four-sided polygon [syn: {quadrangle}, {tetragon}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

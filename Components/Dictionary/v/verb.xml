@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>verb</Word>
+  <Definitions>
+    <Definition>
+      <Word>verb</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Verb \Verb\, n. [F. verbe, L. verbum a word, verb. See {Word}.]
+   1. A word; a vocable. [Obs.] --South.
+      [1913 Webster]
+
+   2. (Gram.) A word which affirms or predicates something of
+      some person or thing; a part of speech expressing being,
+      action, or the suffering of action.
+      [1913 Webster]
+
+   Note: A verb is a word whereby the chief action of the mind
+         [the assertion or the denial of a proposition] finds
+         expression. --Earle.
+         [1913 Webster]
+
+   {Active verb}, {Auxiliary verb}, {Neuter verb}, etc. See
+      {Active}, {Auxiliary}, {Neuter}, etc.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>verb</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>verb
+     n 1: a word that serves as the predicate of a sentence
+     2: a content word that denotes an action or a state
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

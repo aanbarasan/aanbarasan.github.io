@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>temporarily</Word>
+  <Definitions>
+    <Definition>
+      <Word>temporarily</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Temporarily \Tem"po*ra*ri*ly\, adv.
+   In a temporary manner; for a time.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>temporarily</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>temporarily
+     adv : for a limited time only; not permanently; "he will work here
+           temporarily"; "he was brought out of retirement
+           temporarily"; "a power failure temporarily darkened the
+           town" [ant: {permanently}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

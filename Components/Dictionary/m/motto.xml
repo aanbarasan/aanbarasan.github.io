@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>motto</Word>
+  <Definitions>
+    <Definition>
+      <Word>motto</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Motto \Mot"to\, n.; pl. {Mottoes}. [It. motto a word, a saying,
+   L. muttum a mutter, a grunt, cf. muttire, mutire, to mutter,
+   mumble; prob. of imitative origin. Cf. {Mot} a word.]
+   1. (Her.) A sentence, phrase, or word, forming part of an
+      heraldic achievment.
+      [1913 Webster]
+
+   2. A sentence, phrase, or word, prefixed to an essay,
+      discourse, chapter, canto, or the like, suggestive of its
+      subject matter; a short, suggestive expression of a
+      guiding principle; a maxim.
+      [1913 Webster]
+
+            It was the motto of a bishop eminent for his piety
+            and good works, . . . ``Serve God, and be
+            cheerful.''                           --Addison.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>motto</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>motto
+     n : a favorite saying of a sect or political group [syn: {slogan},
+          {catchword}, {shibboleth}]
+     [also: {mottoes} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

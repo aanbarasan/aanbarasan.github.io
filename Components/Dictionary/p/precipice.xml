@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>precipice</Word>
+  <Definitions>
+    <Definition>
+      <Word>precipice</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Precipice \Prec"i*pice\, n. [F. pr['e]cipice, L. praecipitium,
+   fr. praeceps, -cipitis, headlong; prae before + caput,
+   capitis, the head. See {Pre-}, and {Chief}.]
+   1. A sudden or headlong fall. [Obs.] --Fuller.
+      [1913 Webster]
+
+   2. A headlong steep; a very steep, perpendicular, or
+      overhanging place; an abrupt declivity; a cliff.
+      [1913 Webster]
+
+            Where wealth like fruit on precipices grew.
+                                                  --Dryden.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>precipice</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>precipice
+     n : a very steep cliff
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

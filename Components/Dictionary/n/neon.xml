@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>neon</Word>
+  <Definitions>
+    <Definition>
+      <Word>neon</Word>
+      <Dictionary>
+        <Id>elements</Id>
+        <Name>Elements database 20001107</Name>
+      </Dictionary>
+      <WordDefinition>neon
+Symbol: Ne
+Atomic number: 10
+Atomic weight: 20.183
+Colourless gaseous element of group 18 on the periodic table (noble
+gases). Neon occurs in the atmosphere, and comprises 0.0018% of the volume
+of the atmosphere. It has a distinct reddish glow when used in discharge
+tubes and neon based lamps. It forms almost no chemical compounds. Neon
+was discovered in 1898 by Sir William Ramsey and M.W. Travers.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>neon</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Neon
+     
+        Charles Duff.  An object-oriented extension of FORTH, for the
+        Mac.  Inheritance, SANE {floating-point}, system classes and
+        objects for Mac interfacing, overlays.  Sold by Kriya Systems,
+        1985-1988.  Modified, made PD and renamed Yerk.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>neon</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Noble \No"ble\, a. [Compar. {Nobler}; superl. {Noblest}.] [F.
+   noble, fr. L. nobilis that can be or is known, well known,
+   famous, highborn, noble, fr. noscere to know. See {know}.]
+   1. Possessing eminence, elevation, dignity, etc.; above
+      whatever is low, mean, degrading, or dishonorable;
+      magnanimous; as, a noble nature or action; a noble heart.
+      [1913 Webster]
+
+            Statues, with winding ivy crowned, belong
+            To nobler poets for a nobler song.    --Dryden.
+      [1913 Webster]
+
+   2. Grand; stately; magnificent; splendid; as, a noble
+      edifice.
+      [1913 Webster]
+
+   3. Of exalted rank; of or pertaining to the nobility;
+      distinguished from the masses by birth, station, or title;
+      highborn; as, noble blood; a noble personage.
+      [1913 Webster]
+
+   Note: Noble is used in the formation of self-explaining
+         compounds; as, noble-born, noble-hearted, noble-minded.
+         [1913 Webster]
+
+   {Noble gas} (Chem.), a gaseous element belonging to group
+      VIII of the periodic table of elements, not combining with
+      other elements under normal reaction conditions;
+      specifically, {helium}, {neon}, {argon}, {krypton},
+      {xenon}, or {radon}; also called {inert gas}.
+
+   {Noble metals} (Chem.), silver, gold, and platinum; -- so
+      called from their resistance to oxidation by air and to
+      dissolution by acids. Copper, mercury, aluminium,
+      palladium, rhodium, iridium, and osmium are sometimes
+      included.
+      [1913 Webster]
+
+   Syn: Honorable; worthy; dignified; elevated; exalted;
+        superior; sublime; great; eminent; illustrious;
+        renowned; stately; splendid; magnificent; grand;
+        magnanimous; generous; liberal; free.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>neon</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>neon
+     n : a colorless odorless gaseous element that give a red glow in
+         a vacuum tube; one of the six inert gasses; occurs in the
+         air in small amounts [syn: {Ne}, {atomic number 10}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

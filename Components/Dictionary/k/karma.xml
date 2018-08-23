@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>karma</Word>
+  <Definitions>
+    <Definition>
+      <Word>karma</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Karma \Kar"ma\, n. [Skr.]
+   1. (Buddhism, Hinduism) One's acts considered as fixing one's
+      lot in the future existence.
+      [1913 Webster]
+
+   2. (Theos.) The doctrine of fate as the inflexible result of
+      cause and effect, especially the principle by which a
+      person is rewarded or punished in a subsequent incarnation
+      for deeds in the previous incarnation; the theory of
+      inevitable consequence.
+      [1913 Webster]
+
+   3. One's destiny; fate.
+      [PJC]
+
+   4. (Mysticism) The supposed non-physical emanations that a
+      person gives off, which may affect other people;
+      vibrations.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>karma</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>karma
+     n : (Hinduism and Buddhism) the effects of a person's actions
+         that determine his destiny in his next incarnation
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

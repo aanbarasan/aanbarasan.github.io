@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>transmitting</Word>
+  <Definitions>
+    <Definition>
+      <Word>transmitting</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Transmit \Trans*mit"\, v. t. [imp. &amp; p. p. {Transmitted}; p. pr.
+   &amp; vb. n. {Transmitting}.] [L. transmittere, transmissum;
+   trans across, over + mittere to send: cf. F. transmettre. See
+   {Missile}.]
+   1. To cause to pass over or through; to communicate by
+      sending; to send from one person or place to another; to
+      pass on or down as by inheritance; as, to transmit a
+      memorial; to transmit dispatches; to transmit money, or
+      bills of exchange, from one country to another.
+      [1913 Webster]
+
+            The ancientest fathers must be next removed, as
+            Clement of Alexandria, and that Eusebian book of
+            evangelic preparation, transmitting our ears through
+            a hoard of heathenish obscenities to receive the
+            gospel.                               --Milton.
+      [1913 Webster]
+
+            The scepter of that kingdom continued to be
+            transmitted in the dynasty of Castile. --Prescott.
+      [1913 Webster]
+
+   2. To suffer to pass through; as, glass transmits light;
+      metals transmit, or conduct, electricity.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>transmitting</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>transmitting
+     n : the act of sending a message; causing a message to be
+         transmitted [syn: {transmission}, {transmittal}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>transmitting</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>transmit
+     v 1: transfer to another; "communicate a disease" [syn: {convey},
+           {communicate}]
+     2: transmit or serve as the medium for transmission; "Sound
+        carries well over water"; "The airwaves carry the sound";
+        "Many metals conduct heat" [syn: {conduct}, {convey}, {carry},
+         {channel}]
+     3: broadcast over the airwaves, as in radio or television; "We
+        cannot air this X-rated song" [syn: {air}, {send}, {broadcast},
+         {beam}]
+     4: send from one person or place to another; "transmit a
+        message" [syn: {transfer}, {transport}, {channel}, {channelize},
+         {channelise}]
+     [also: {transmitting}, {transmitted}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>transmitting</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>transmitting
+     See {transmit}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

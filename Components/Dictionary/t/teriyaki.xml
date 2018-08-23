@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>teriyaki</Word>
+  <Definitions>
+    <Definition>
+      <Word>teriyaki</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>teriyaki
+     n : beef or chicken or seafood marinated in spicy soy sauce and
+         grilled or broiled
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

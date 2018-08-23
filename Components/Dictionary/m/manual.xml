@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>manual</Word>
+  <Definitions>
+    <Definition>
+      <Word>manual</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Manual \Man"u*al\ (m[a^]n"[-u]*al), a. [OE. manuel, F. manuel,
+   L. manualis, fr. manus hand; prob. akin to AS. mund hand,
+   protection, OHG. munt, G. m["u]ndel a ward, vormund guardian,
+   Icel. mund hand. Cf. {Emancipate}, {Legerdemain}, {Maintain},
+   {Manage}, {Manner}, {Manure}, {Mound} a hill.]
+   1. Of or pertaining to the hand.
+      [1913 Webster]
+
+   2. Performed by a person using physical as contrasted with
+      {mental} effort; as, manual labor.
+      [1913 Webster]
+
+   3. Done or made by the hand. In some contexts, contrasted
+      with {automatic} or {mechanical}. ``Manual and ocular
+      examination.'' --Tatham.
+      [1913 Webster +PJC]
+
+   {Manual exercise} (Mil.) the exercise by which soldiers are
+      taught the use of their muskets and other arms.
+
+   {Seal manual}, the impression of a seal worn on the hand as a
+      ring.
+
+   {Sign manual}. See under {Sign}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>manual</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Manual \Man"u*al\, n. [Cf. F. manuel, LL. manuale. See {Manual},
+   a.]
+   1. A small book, such as may be carried in the hand, or
+      conveniently handled; a handbook; specifically, the
+      service book of the Roman Catholic Church.
+      [1913 Webster]
+
+            This manual of laws, styled the Confessor's Laws.
+                                                  --Sir M. Hale.
+      [1913 Webster]
+
+   2. (Mus.) A keyboard of an organ or harmonium for the
+      fingers, as distinguished from the pedals; a clavier, or
+      set of keys. --Moore (Encyc. of Music).
+      [1913 Webster]
+
+   3. (Mil.) A prescribed exercise in the systematic handing of
+      a weapon; as, the manual of arms; the manual of the sword;
+      the manual of the piece (cannon, mortar, etc.).
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>manual</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>manual
+     adj 1: of or relating to the hands; "manual dexterity"
+     2: requiring human effort; "a manual transmission" [ant: {automatic}]
+     3: doing or requiring physical work; "manual labor"; "manual
+        laborer" [syn: {manual(a)}]
+     n 1: a small handbook
+     2: (military) a prescribed drill in handling a rifle [syn: {manual
+        of arms}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

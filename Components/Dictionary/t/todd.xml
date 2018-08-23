@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>todd</Word>
+  <Definitions>
+    <Definition>
+      <Word>todd</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Todd, NC
+  Zip code(s): 28684
+Todd, PA
+  Zip code(s): 16685
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>todd</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Todd
+     n 1: Scottish chemist noted for his research into the structure
+          of nucleic acids (born in 1907) [syn: {Sir Alexander
+          Robertus Todd}]
+     2: fictional character in a play by George Pitt; a barber who
+        murdered his customers [syn: {Sweeney Todd}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

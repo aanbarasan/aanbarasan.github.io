@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>o'neill</Word>
+  <Definitions>
+    <Definition>
+      <Word>o'neill</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>O'Neill, NE (city, FIPS 37105)
+  Location: 42.46075 N, 98.64665 W
+  Population (1990): 3852 (1717 housing units)
+  Area: 5.0 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>o'neill</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Oneill, NE
+  Zip code(s): 68763
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>o'neill</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>O'Neill
+     n : United States playwright (1888-1953) [syn: {Eugene O'Neill},
+          {Eugene Gladstone O'Neill}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

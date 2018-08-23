@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>yerkes</Word>
+  <Definitions>
+    <Definition>
+      <Word>yerkes</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Yerkes
+     n : United States psychologist who studied the intelligence of
+         primates (1876-1956) [syn: {Robert M. Yerkes}, {Robert
+         Mearns Yerkes}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

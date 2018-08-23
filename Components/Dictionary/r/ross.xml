@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ross</Word>
+  <Definitions>
+    <Definition>
+      <Word>ross</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Ross, CA (town, FIPS 62980)
+  Location: 37.96185 N, 122.56062 W
+  Population (1990): 2123 (768 housing units)
+  Area: 4.1 sq km (land), 0.0 sq km (water)
+Ross, ND (city, FIPS 68540)
+  Location: 48.31309 N, 102.54281 W
+  Population (1990): 61 (40 housing units)
+  Area: 0.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 58776
+Ross, OH (CDP, FIPS 68602)
+  Location: 39.31175 N, 84.65290 W
+  Population (1990): 2124 (759 housing units)
+  Area: 4.1 sq km (land), 0.1 sq km (water)
+Ross, TX (city, FIPS 63380)
+  Location: 31.72844 N, 97.11121 W
+  Population (1990): 188 (67 housing units)
+  Area: 5.1 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ross</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ross \Ross\; 115), n. [Etymol. uncertain.]
+   The rough, scaly matter on the surface of the bark of trees.
+   [Prov. Eng. &amp; Local, U.S.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ross</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ross \Ross\, v. t.
+   To divest of the ross, or rough, scaly surface; as, to ross
+   bark. [Local, U.S.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ross</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Ross
+     n 1: Scottish explorer who led Arctic expeditions that yielded
+          geographic discoveries while searching for the Northwest
+          Passage (1777-1856) [syn: {John Ross}, {Sir John Ross}]
+     2: British explorer of the Arctic and Antarctic; located the
+        north magnetic pole in 1831; discovered the Ross Sea in
+        Antarctica; nephew of Sir John Ross (1800-1862) [syn: {James
+        Clark Ross}, {Sir James Clark Ross}]
+     3: British physician who discovered that mosquitos transmit
+        malaria (1857-1932) [syn: {Sir Ronald Ross}]
+     4: a politician in Wyoming who was the first woman governor in
+        the United States (1876-1977) [syn: {Nellie Ross}, {Nellie
+        Tayloe Ross}]
+     5: American seamstress said to have made the first American
+        flag at the request of George Washington (1752-1836) [syn:
+         {Betsy Ross}, {Betsy Griscom Ross}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

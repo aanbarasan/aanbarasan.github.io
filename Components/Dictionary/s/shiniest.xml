@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>shiniest</Word>
+  <Definitions>
+    <Definition>
+      <Word>shiniest</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Shiny \Shin"y\, a. [Compar. {Shinier}; superl. {Shiniest}.]
+   Bright; luminous; clear; unclouded.
+   [1913 Webster]
+
+         Like distant thunder on a shiny day.     --Dryden.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>shiniest</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>shiny
+     adj 1: reflecting light; "glistening bodies of swimmers"; "the
+            horse's glossy coat"; "lustrous auburn hair"; "saw the
+            moon like a shiny dime on a deep blue velvet carpet";
+            "shining white enamel" [syn: {glistening}, {glossy}, {lustrous},
+             {sheeny}, {shining}]
+     2: having a shiny surface or coating; "glazed fabrics"; "glazed
+        doughnuts" [syn: {glazed}] [ant: {unglazed}]
+     3: made smooth and bright by or as if by rubbing; reflecting a
+        sheen or glow; "bright silver candlesticks"; "a burnished
+        brass knocker"; "she brushed her hair until it fell in
+        lustrous auburn waves"; "rows of shining glasses"; "shiny
+        black patents" [syn: {bright}, {burnished}, {lustrous}, {shining}]
+     4: abounding with sunlight; "a bright sunny day"; "one shining
+        norming"- John Muir; "when it is warm and shiny" [syn: {bright},
+         {shining}, {sunshiny}, {sunny}]
+     [also: {shiniest}, {shinier}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>shiniest</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>shiniest
+     See {shiny}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

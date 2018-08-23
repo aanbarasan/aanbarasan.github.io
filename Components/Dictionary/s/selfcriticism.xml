@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>selfcriticism</Word>
+  <Definitions>
+    <Definition>
+      <Word>selfcriticism</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>self-criticism
+     n : criticism of yourself
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

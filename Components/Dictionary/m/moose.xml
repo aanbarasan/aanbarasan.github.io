@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>moose</Word>
+  <Definitions>
+    <Definition>
+      <Word>moose</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Moose, WY
+  Zip code(s): 83012
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>moose</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>moose \moose\ (m[=oo]s), n. [A native name; Knisteneaux mouswah;
+   Algonquin monse. Mackenzie.]
+   1. (Zo["o]l.) A large cervine mammal ({Alces alces} syn.
+      {Alces machlis}, syn {Alces Americanus}), native of the
+      Northern United States and Canada. The adult male is about
+      as large as a horse, and has very large, palmate antlers.
+      It closely resembles the European elk, and by many
+      zo["o]logists is considered the same species. See {Elk}.
+      [1913 Webster]
+
+   2. A member of the Progressive Party; a Bull Moose.
+      [Obsolescent. Cant, from the early 1900's.]
+      [Webster 1913 Suppl. +PJC]
+
+   2. [capitalized] A member of the fraternal organization named
+      Loyal Order of Moose.
+      [PJC]
+
+   {Moose bird} (Zo["o]l.), the Canada jayor whisky jack. See
+      {Whisky jack}.
+
+   {Moose deer}. Same as {Moose}.
+
+   {Moose yard} (Zo["o]l.), a locality where moose, in winter,
+      herd together in a forest to feed and for mutual
+      protection.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>moose</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>moose
+     n : large northern deer with enormous flattened antlers in the
+         male; called elk in Europe and moose in North America
+         [syn: {elk}, {European elk}, {Alces alces}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

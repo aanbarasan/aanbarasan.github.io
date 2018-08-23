@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>underestimate</Word>
+  <Definitions>
+    <Definition>
+      <Word>underestimate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Underestimate \Un`der*es"ti*mate\, v. t.
+   To set to? low a value on; to estimate below the truth.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>underestimate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Underestimate \Un`der*es"ti*mate\, n.
+   The act of underestimating; too low an estimate.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>underestimate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>underestimate
+     n : an estimation that is too low; an estimate that is less than
+         the true or actual value [syn: {underestimation}, {underrating},
+          {underreckoning}]
+     v 1: assign too low a value to; "Don't underestimate the value of
+          this heirlooom-you may sell it at a good price" [syn: {undervalue}]
+          [ant: {overvalue}, {overvalue}]
+     2: make a deliberately low estimate; "The construction company
+        wanted the contract badly and lowballed" [syn: {lowball}]
+     3: make too low an estimate of; "he underestimated the work
+        that went into the renovation"; "Don't underestimate the
+        danger of such a raft trip on this river" [syn: {underrate}]
+        [ant: {overestimate}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

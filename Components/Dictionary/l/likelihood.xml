@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>likelihood</Word>
+  <Definitions>
+    <Definition>
+      <Word>likelihood</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Likelihood \Like"li*hood\ (l[imac]k"l[i^]*h[oo^]d), n. [Likely +
+   -hood.]
+   1. Appearance; show; sign; expression. [Obs.]
+      [1913 Webster]
+
+            What of his heart perceive you in his face
+            By any likelihood he showed to-day ?  --Shak.
+      [1913 Webster]
+
+   2. Likeness; resemblance. [Obs.]
+      [1913 Webster]
+
+            There is no likelihood between pure light and black
+            darkness, or between righteousness and reprobation.
+                                                  --Sir W.
+                                                  Raleigh.
+      [1913 Webster]
+
+   3. Appearance of truth or reality; probability;
+      verisimilitude. --Tennyson.
+      [1913 Webster]
+
+   4. Statistical probability; probability of being true or of
+      occurring in the future; as, the likelihood of being
+      abducted by aliens is close to zero..
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>likelihood</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>likelihood
+     n : the probability of a specified outcome [syn: {likeliness}, {odds}]
+         [ant: {unlikelihood}, {unlikelihood}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

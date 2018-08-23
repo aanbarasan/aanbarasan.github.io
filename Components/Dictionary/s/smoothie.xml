@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>smoothie</Word>
+  <Definitions>
+    <Definition>
+      <Word>smoothie</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>smoothie
+     n 1: someone with an assured and ingratiating manner [syn: {smoothy},
+           {sweet talker}, {charmer}]
+     2: a thick smooth drink consisting of fresh fruit pureed with
+        ice cream or yoghurt or milk
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

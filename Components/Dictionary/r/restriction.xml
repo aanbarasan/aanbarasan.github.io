@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>restriction</Word>
+  <Definitions>
+    <Definition>
+      <Word>restriction</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>restriction
+     
+        A {bug} or design error that limits a program's capabilities,
+        and which is sufficiently egregious that nobody can quite work
+        up enough nerve to describe it as a {feature}.  Often used
+        (especially by {marketroid} types) to make it sound as though
+        some crippling bogosity had been intended by the designers all
+        along, or was forced upon them by arcane technical constraints
+        of a nature no mere user could possibly comprehend (these
+        claims are almost invariably false).
+     
+        Old-time hacker Joseph M. Newcomer advises that whenever
+        choosing a quantifiable but arbitrary restriction, you should
+        make it either a power of 2 or a power of 2 minus 1.  If you
+        impose a limit of 17 items in a list, everyone will know it is
+        a random number - on the other hand, a limit of 15 or 16
+        suggests some deep reason (involving 0- or 1-based indexing in
+        binary) and you will get less {flamage} for it.  Limits which
+        are round numbers in base 10 are always especially suspect.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>restriction</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Restriction \Re*stric"tion\, n. [F. restriction, L. restrictio.]
+   1. The act of restricting, or state of being restricted;
+      confinement within limits or bounds.
+      [1913 Webster]
+
+            This is to have the same restriction with all other
+            recreations,that it be made a divertisement. --Giv.
+                                                  of Tonque.
+      [1913 Webster]
+
+   2. That which restricts; limitation; restraint; as,
+      restrictions on trade.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>restriction</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>restriction n. A {bug} or design error that limits a program's
+   capabilities, and which is sufficiently egregious that nobody can quite
+   work up enough nerve to describe it as a {feature}. Often used (esp. by
+   {marketroid} types) to make it sound as though some crippling bogosity
+   had been intended by the designers all along, or was forced upon them by
+   arcane technical constraints of a nature no mere user could possibly
+   comprehend (these claims are almost invariably false).
+
+   Old-time hacker Joseph M. Newcomer advises that whenever choosing a
+   quantifiable but arbitrary restriction, you should make it either a
+   power of 2 or a power of 2 minus 1. If you impose a limit of 107 items
+   in a list, everyone will know it is a random number -- on the other
+   hand, a limit of 15 or 16 suggests some deep reason (involving 0- or
+   1-based indexing in binary) and you will get less {flamage} for it.
+   Limits which are round numbers in base 10 are always especially suspect.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>restriction</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>restriction
+     n 1: a principle that limits the extent of something; "I am
+          willing to accept certain restrictions on my movements"
+          [syn: {limitation}]
+     2: an act of limiting or restricting (as by regulation) [syn: {limitation}]
+     3: the act of keeping something within specified bounds (by
+        force if necessary)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

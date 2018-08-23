@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>plagued</Word>
+  <Definitions>
+    <Definition>
+      <Word>plagued</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Plague \Plague\, v. t. [imp. &amp; p. p. {Plagued}; p. pr. &amp; vb. n.
+   {Plaguing}.]
+   1. To infest or afflict with disease, calamity, or natural
+      evil of any kind.
+      [1913 Webster]
+
+            Thus were they plagued
+            And worn with famine.                 --Milton.
+      [1913 Webster]
+
+   2. Fig.: To vex; to tease; to harass.
+      [1913 Webster]
+
+            She will plague the man that loves her most.
+                                                  --Spenser.
+      [1913 Webster]
+
+   Syn: To vex; torment; distress; afflict; harass; annoy;
+        tease; tantalize; trouble; molest; embarrass; perplex.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>plagued</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>plagued
+     adj : (often followed by `with' or used in combination) troubled
+           by or encroached upon in large numbers; "waters
+           infested with sharks"; "shark-infested waters"; "the
+           locust-overrun countryside"; "drug-plagued streets"
+           [syn: {infested}, {overrun}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

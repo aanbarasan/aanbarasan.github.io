@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>react</Word>
+  <Definitions>
+    <Definition>
+      <Word>react</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>React \Re*act"\ (r[=e]*[a^]kt"), v. t.
+   To act or perform a second time; to do over again; to
+   reenact; as, to react a play; the same scenes were reacted at
+   Rome.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>react</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>React \Re*act"\ (r[-e]*[a^]kt"), v. i.
+   1. To return an impulse or impression; to resist the action
+      of another body by an opposite force; as, every body
+      reacts on the body that impels it from its natural state.
+      [1913 Webster]
+
+   2. To act upon each other; to exercise a reciprocal or a
+      reverse effect, as two or more chemical agents; to act in
+      opposition.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>react</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>react
+     v 1: show a response or a reaction to something [syn: {respond}]
+     2: undergo a chemical reaction; react with another substance
+        under certain conditions; "The hydrogen and the oxygen
+        react"
+     3: act against or in opposition to; "She reacts negatively to
+        everything I say" [syn: {oppose}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

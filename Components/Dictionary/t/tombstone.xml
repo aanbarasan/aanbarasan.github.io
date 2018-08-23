@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tombstone</Word>
+  <Definitions>
+    <Definition>
+      <Word>tombstone</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Tombstone, AZ (city, FIPS 74400)
+  Location: 31.71730 N, 110.06222 W
+  Population (1990): 1220 (708 housing units)
+  Area: 11.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 85638
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tombstone</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tombstone \Tomb"stone`\, n.
+   A stone erected over a grave, to preserve the memory of the
+   deceased.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tombstone</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tombstone
+     n : a stone that is used to mark a grave [syn: {gravestone}, {headstone}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

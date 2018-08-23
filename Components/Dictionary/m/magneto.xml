@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>magneto</Word>
+  <Definitions>
+    <Definition>
+      <Word>magneto</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>magneto \mag*ne"to\ (m[a^]g*n[=e]"t[-o]), n.
+   A small electric generator with an armature rotating in a
+   magnetic field, having a secondary winding that generates a
+   high voltage, such as one used to generate a voltage
+   sufficient to cause a spark to jump between the poles of a
+   spark plug in an internal-combustion engine.
+   [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>magneto</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Magneto- \Mag"net*o-\, pref. [See {Magnet}.]
+   A prefix meaning pertaining to, produced by, or in some way
+   connected with, magnetism.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>magneto</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>magneto
+     n : a small dynamo with a secondary winding that produces a high
+         voltage enabling a spark to jump between the poles of a
+         spark plug in a gasoline engine [syn: {magnetoelectric
+         machine}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

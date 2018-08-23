@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lefthand</Word>
+  <Definitions>
+    <Definition>
+      <Word>lefthand</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Left hand
+   among the Hebrews, denoted the north (Job 23:9; Gen. 14:15), the
+   face of the person being supposed to be toward the east.
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lefthand</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Left Hand, WV
+  Zip code(s): 25251
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lefthand</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Left-hand \Left"-hand`\ (l[e^]ft"h[a^]nd`), a.
+   Situated on the left; nearer the left hand than the right;
+   as, the left-hand side; the left-hand road.
+   [1913 Webster]
+
+   {Left-hand rope}, rope laid up and twisted over from right to
+      left, or against the sun; -- called also {water-laid
+      rope}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lefthand</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>left hand
+     n : the hand that is on the left side of the body; "jab with
+         your left" [syn: {left}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lefthand</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>left-hand
+     adj 1: intended for the left hand; "I rarely lose a left-hand
+            glove" [syn: {left(a)}, {left-hand(a)}]
+     2: located on or directed toward the left; "a car with
+        left-hand drive" [syn: {left-hand(a)}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>standee</Word>
+  <Definitions>
+    <Definition>
+      <Word>standee</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>standee
+     n 1: someone who stands in a place where one might otherwise sit
+          (as a spectator who uses standing room in a theater or a
+          passenger on a crowded bus or train); "the allowed
+          number of standees is posted"
+     2: a lifesize cardboard cutout (usually of a celebrity); "he
+        had his picture taken with a standee of the president"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

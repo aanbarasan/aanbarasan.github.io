@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pjs</Word>
+  <Definitions>
+    <Definition>
+      <Word>pjs</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pj's
+     n : loose-fitting nightclothes worn for sleeping or lounging;
+         have a jacket top and trousers [syn: {pajamas}, {pyjamas},
+          {jammies}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

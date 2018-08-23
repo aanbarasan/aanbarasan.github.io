@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tetanus</Word>
+  <Definitions>
+    <Definition>
+      <Word>tetanus</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tetanus \Tet"a*nus\, n. [L., fr. Gr. ?, fr. ? stretched, ? to
+   stretch.]
+   1. (Med.) A painful and usually fatal disease, resulting
+      generally from a wound, and having as its principal
+      symptom persistent spasm of the voluntary muscles. When
+      the muscles of the lower jaw are affected, it is called
+      {locked-jaw}, or {lickjaw}, and it takes various names
+      from the various incurvations of the body resulting from
+      the spasm.
+      [1913 Webster]
+
+   2. (Physiol.) That condition of a muscle in which it is in a
+      state of continued vibratory contraction, as when
+      stimulated by a series of induction shocks.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tetanus</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tetanus
+     n 1: an acute and serious infection of the central nervous system
+          caused by bacterial infection of open wounds; spasms of
+          the jaw and laryngeal muscles may occur during the late
+          stages [syn: {lockjaw}]
+     2: a sustained muscular contraction resulting from a rapid
+        series of nerve impulses
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

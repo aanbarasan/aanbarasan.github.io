@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>yucky</Word>
+  <Definitions>
+    <Definition>
+      <Word>yucky</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>yucky \yuck"y\, a.
+   repugnant or distasteful. [slang]
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>yucky</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>yucky
+     adj : highly offensive; arousing aversion or disgust; "a
+           disgusting smell"; "distasteful language"; "a loathsome
+           disease"; "the idea of eating meat is repellent to me";
+           "revolting food"; "a wicked stench" [syn: {disgusting},
+            {disgustful}, {distasteful}, {foul}, {loathly}, {loathsome},
+            {repellent}, {repellant}, {repelling}, {revolting}, {skanky},
+            {wicked}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

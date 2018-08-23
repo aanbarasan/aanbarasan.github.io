@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>plateful</Word>
+  <Definitions>
+    <Definition>
+      <Word>plateful</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Plateful \Plate"ful\, n.; pl. {Platefuls}.
+   Enough to fill a plate; as much as a plate will hold.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>plateful</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>plateful
+     n : the quantity contained in a plate [syn: {plate}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

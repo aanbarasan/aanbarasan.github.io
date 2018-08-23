@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>luminescence</Word>
+  <Definitions>
+    <Definition>
+      <Word>luminescence</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Luminescence \Lu`mi*nes"cence\, n. [See {Luminescent}.]
+   1. (Physics) Any emission of light not ascribable directly to
+      incandescence, and therefore occurring at low
+      temperatures, as in phosphorescence and fluorescence or
+      other luminous radiation resulting from vital processes,
+      chemical action, friction, solution, or the influence of
+      light or of ultraviolet or cathode rays, etc.
+      [Webster 1913 Suppl.]
+
+   2. (Zo["o]l.)
+      (a) The faculty or power of producing light by biological
+          processes, as in the firefly and glowworm. Also called
+          {bioluminescence}.
+      (b) The light produced by biological or biochemical
+          processes. Also called {bioluminescence}.
+          [Webster 1913 Suppl. +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>luminescence</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>luminescence
+     n 1: light not due to incandescence; occurs at low temperatures
+     2: light from nonthermal sources [syn: {glow}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

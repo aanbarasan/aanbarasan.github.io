@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>phantom</Word>
+  <Definitions>
+    <Definition>
+      <Word>phantom</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Phantom \Phan"tom\, n. [OE. fantome, fantosme, fantesme, OF.
+   fant[^o]me, fr. L. phantasma, Gr. ?, fr. ? to show. See
+   {Fancy}, and cf. {Pha["e]ton}, {Phantasm}, {Phase}.]
+   That which has only an apparent existence; an apparition; a
+   specter; a phantasm; a sprite; an airy spirit; an ideal
+   image.
+   [1913 Webster]
+
+         Strange phantoms rising as the mists arise. --Pope.
+   [1913 Webster]
+
+         She was a phantom of delight.            --Wordsworth.
+   [1913 Webster]
+
+   {Phantom ship}. See {Flying Dutchman}, under {Flying}.
+
+   {Phantom tumor} (Med.), a swelling, especially of the
+      abdomen, due to muscular spasm, accumulation of flatus,
+      etc., simulating an actual tumor in appearance, but
+      disappearing upon the administration of an an[ae]sthetic.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>phantom</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Phantom \Phan"tom\, a.
+   Being, or of the nature of, a phantom.
+
+         Phantom isles are floating in the skies. --B. Taylor.
+   [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>phantom</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>phantom
+     adj : something apparently sensed but having no physical reality;
+           "seemed to hear faint phantom bells"; "the amputee's
+           illusion of a phantom limb"
+     n 1: a ghostly appearing figure; "we were unprepared for the
+          apparition that confronted us" [syn: {apparition}, {phantasm},
+           {phantasma}, {specter}, {spectre}]
+     2: something existing in perception only; "a ghostly apparition
+        at midnight" [syn: {apparition}, {phantasm}, {phantasma},
+        {shadow}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

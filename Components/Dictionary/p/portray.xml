@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>portray</Word>
+  <Definitions>
+    <Definition>
+      <Word>portray</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Portray \Por*tray"\, v. t. [Written also {pourtray}.] [imp. &amp; p.
+   p. {portrayed}; p. pr. &amp; vb. n. {Portraying}.] [OE.
+   pourtraien, OF. portraire, pourtraire, F. portraire, fr. L.
+   protrahere, protractum, to draw or drag forth; pro forward,
+   forth + trahere to draw. See {Trace}, v. t., and cf.
+   {Protract}.]
+   1. To paint or draw the likeness of; as, to portray a king on
+      horseback.
+      [1913 Webster]
+
+            Take a tile, and lay it before thee, and portray
+            upon it the city, even Jerusalem.     --Ezek. iv. 1.
+      [1913 Webster]
+
+   2. Hence, figuratively, to describe in words.
+      [1913 Webster]
+
+   3. To adorn with pictures. [R.]
+      [1913 Webster]
+
+            Spear and helmets thronged, and shields
+            Various with boastful arguments potrayed. --Milton.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>portray</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>portray
+     v 1: portray in words; "The book portrays the actor as a selfish
+          person"
+     2: make a portrait of; "Goya wanted to portray his mistress,
+        the Duchess of Alba" [syn: {depict}, {limn}]
+     3: assume or act the character of; "She impersonates Madonna";
+        "The actor portrays an elderly, lonely man" [syn: {impersonate}]
+     4: represent in a painting, drawing, sculpture, or verbally;
+        "The father is portrayed as a good-looking man in this
+        painting" [syn: {present}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>visual</Word>
+  <Definitions>
+    <Definition>
+      <Word>visual</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Visual \Vis"u*al\, a. [L. visualis, from visus a seeing, sight:
+   cf. F. visuel. See {Vision}.]
+   1. Of or pertaining to sight; used in sight; serving as the
+      instrument of seeing; as, the visual nerve.
+      [1913 Webster]
+
+            The air,
+            Nowhere so clear, sharpened his visual ray.
+                                                  --Milton.
+      [1913 Webster]
+
+   2. That can be seen; visible. [R.]
+      [1913 Webster]
+
+   {Visual angle}. (Opt.) See under {Angle}.
+
+   {Visual cone} (Persp.), a cone whose vertex is at the point
+      of sight, or the eye.
+
+   {Visual plane}, any plane passing through the point of sight.
+      
+
+   {Visual point}, the point at which the visual rays unite; the
+      position of the eye.
+
+   {Visual purple} (Physiol.), a photochemical substance, of a
+      purplish red color, contained in the retina of human eyes
+      and in the eyes of most animals. It is quickly bleached by
+      light, passing through the colors, red, orange, and
+      yellow, and then disappearing. Also called {rhodopsin},
+      and {vision purple}. See {Optography}.
+
+   {Visual ray}, a line from the eye, or point of sight.
+
+   {Visual white} (Physiol.), the final product in the action of
+      light on visual purple. It is reconverted into visual
+      purple by the regenerating action of the choroidal
+      epithelium.
+
+   {Visual yellow} (Physiol.), a product intermediate between
+      visual purple and visual white, formed in the
+      photochemical action of light on visual purple.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>visual</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>visual
+     adj 1: relating to or using sight; "ocular inspection"; "an optical
+            illusion"; "visual powers"; "visual navigation" [syn:
+            {ocular}, {optic}, {optical}]
+     2: able to be seen; "be sure of it; give me the ocular proof"-
+        Shakespeare; "a visual presentation"; "a visual image"
+        [syn: {ocular}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

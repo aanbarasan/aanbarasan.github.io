@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>trapper</Word>
+  <Definitions>
+    <Definition>
+      <Word>trapper</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Trapper \Trap"per\, n. [From {Trap} to insnare.]
+   1. One who traps animals; one who makes a business of
+      trapping animals for their furs. --W. Irving.
+      [1913 Webster]
+
+   2. (Mining) A boy who opens and shuts a trapdoor in a gallery
+      or level. --Raymond.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>trapper</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>trapper
+     n : someone who sets traps for animals (usually to obtain their
+         furs)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

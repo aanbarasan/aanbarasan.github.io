@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>suture</Word>
+  <Definitions>
+    <Definition>
+      <Word>suture</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Suture \Su"ture\, n. [L. sutura, fr. suere, sutum, to sew or
+   stitch: cf. F. suture. See {Sew} to unite with thread.]
+   1. The act of sewing; also, the line along which two things
+      or parts are sewed together, or are united so as to form a
+      seam, or that which resembles a seam.
+      [1913 Webster]
+
+   2. (Surg.)
+      (a) The uniting of the parts of a wound by stitching.
+      (b) The stitch by which the parts are united.
+          [1913 Webster]
+
+   3. (Anat.) The line of union, or seam, in an immovable
+      articulation, like those between the bones of the skull;
+      also, such an articulation itself; synarthrosis. See
+      {Harmonic suture}, under {Harmonic}.
+      [1913 Webster]
+
+   4. (Bot.)
+      (a) The line, or seam, formed by the union of two margins
+          in any part of a plant; as, the ventral suture of a
+          legume.
+      (b) A line resembling a seam; as, the dorsal suture of a
+          legume, which really corresponds to a midrib.
+          [1913 Webster]
+
+   5. (Zo["o]l.)
+      (a) The line at which the elytra of a beetle meet and are
+          sometimes confluent.
+      (b) A seam, or impressed line, as between the segments of
+          a crustacean, or between the whorls of a univalve
+          shell.
+          [1913 Webster]
+
+   {Glover's suture}, {Harmonic suture}, etc. See under
+      {Glover}, {Harmonic}, etc.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>suture</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>suture
+     n 1: an immovable joint (especially between the bones of the
+          skull) [syn: {sutura}, {fibrous joint}]
+     2: a seam used in surgery [syn: {surgical seam}]
+     3: thread of catgut or silk or wire used by surgeons to stitch
+        tissues together
+     v : join with a suture; "suture the wound after surgery"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

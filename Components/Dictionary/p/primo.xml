@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>primo</Word>
+  <Definitions>
+    <Definition>
+      <Word>primo</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Primo \Pri"mo\, a. [It.] (Mus.)
+   First; chief.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>primo</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>primo
+     adj : the best of its kind
+     n : the principal part of a duet (especially a piano duet)
+     [also: {primi} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

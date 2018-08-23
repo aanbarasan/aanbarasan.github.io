@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>startup</Word>
+  <Definitions>
+    <Definition>
+      <Word>startup</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Start-up \Start"-up`\ (st[aum]rt"[u^]p`), n.
+   1. One who comes suddenly into notice; an upstart. [Obs.]
+      --Shak.
+      [1913 Webster]
+
+   2. A kind of high rustic shoe. [Obs.] --Drayton.
+      [1913 Webster]
+
+            A startuppe, or clownish shoe.        --Spenser.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>startup</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Start-up \Start"-up`\, a.
+   Upstart. [R.] --Walpole.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>startup</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>start up
+     v 1: get going or set in motion; "We simply could not start the
+          engine"; "start up the computer" [syn: {start}] [ant: {stop}]
+     2: get off the ground; "Who started this company?"; "We
+        embarked on an exciting enterprise"; "I start my day with
+        a good breakfast"; "We began the new semester"; "The
+        afternoon session begins at 4 PM"; "The blood shed started
+        when the partisans launched a surprise attack" [syn: {start},
+         {embark on}, {commence}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>startup</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>startup
+     n 1: the act of setting in operation; "repeated shutdowns and
+          startups are expensive"
+     2: the act of starting a new operation or practice; "he opposed
+        the inauguration of fluoridation"; "the startup of the new
+        factory was delayed by strikes" [syn: {inauguration}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

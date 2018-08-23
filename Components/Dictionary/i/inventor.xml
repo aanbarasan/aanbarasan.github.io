@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>inventor</Word>
+  <Definitions>
+    <Definition>
+      <Word>inventor</Word>
+      <Dictionary>
+        <Id>devils</Id>
+        <Name>THE DEVIL'S DICTIONARY ((C)1911 Released April 15 1993)</Name>
+      </Dictionary>
+      <WordDefinition>INVENTOR, n.  A person who makes an ingenious arrangement of wheels,
+levers and springs, and believes it civilization.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>inventor</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Inventor \In*vent"or\, n. [L.: cf. F. inventeur.]
+   One who invents or finds out something new; a contriver;
+   especially, one who invents mechanical devices, new drugs,
+   new processes, or other useful objects or procedures.
+   [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>inventor</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>inventor
+     n : someone who is the first to think of or make something [syn:
+          {discoverer}, {artificer}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

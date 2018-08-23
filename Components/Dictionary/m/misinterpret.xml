@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>misinterpret</Word>
+  <Definitions>
+    <Definition>
+      <Word>misinterpret</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Misinterpret \Mis`in*ter"pret\, v. t.
+   To interpret erroneously; to understand or to explain in a
+   wrong sense.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>misinterpret</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>misinterpret
+     v 1: interpret falsely
+     2: interpret wrongly; "I misread Hamlet all my life!" [syn: {misread}]
+     3: interpret in the wrong way; "Don't misinterpret my comments
+        as criticism"; "She misconstrued my remarks" [syn: {misconstrue},
+         {misconceive}, {misunderstand}, {misapprehend}, {be amiss}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

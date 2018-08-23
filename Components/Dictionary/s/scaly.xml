@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>scaly</Word>
+  <Definitions>
+    <Definition>
+      <Word>scaly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Scaly \Scal"y\, a.
+   1. Covered or abounding with scales; as, a scaly fish.
+      ``Scaly crocodile.'' --Milton.
+      [1913 Webster]
+
+   2. Resembling scales, lamin[ae], or layers.
+      [1913 Webster]
+
+   3. Mean; low; as, a scaly fellow. [Low]
+      [1913 Webster]
+
+   4. (Bot.) Composed of scales lying over each other; as, a
+      scaly bulb; covered with scales; as, a scaly stem.
+      [1913 Webster]
+
+   {Scaly ant-eater} (Zo["o]l.), the pangolin.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>scaly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>scaly
+     adj 1: rough to the touch; covered with scales or scurf [syn: {lepidote},
+             {leprose}, {scabrous}, {scurfy}]
+     2: having the body covered or partially covered with thin horny
+        plates, as some fish and reptiles [syn: {scaley}, {scaled}]
+     [also: {scaliest}, {scalier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>weights</Word>
+  <Definitions>
+    <Definition>
+      <Word>weights</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Weights
+   Reduced to English troy-weight, the Hebrew weights were: (1.)
+   The gerah (Lev. 27:25; Num. 3:47), a Hebrew word, meaning a
+   grain or kernel, and hence a small weight. It was the twentieth
+   part of a shekel, and equal to 12 grains.
+   
+     (2.) Bekah (Ex. 38:26), meaning "a half" i.e., "half a
+   shekel," equal to 5 pennyweight.
+   
+     (3.) Shekel, "a weight," only in the Old Testament, and
+   frequently in its original form (Gen. 23:15, 16; Ex. 21:32;
+   30:13, 15; 38:24-29, etc.). It was equal to 10 pennyweight.
+   
+     (4.) Ma'neh, "a part" or "portion" (Ezek. 45:12), equal to 60
+   shekels, i.e., to 2 lbs. 6 oz.
+   
+     (5.) Talent of silver (2 Kings 5:22), equal to 3,000 shekels,
+   i.e., 125 lbs.
+   
+     (6.) Talent of gold (Ex. 25:39), double the preceding, i.e.,
+   250 lbs.
+   
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

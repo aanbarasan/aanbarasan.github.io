@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mcdonald</Word>
+  <Definitions>
+    <Definition>
+      <Word>mcdonald</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Mc Donald, KS
+  Zip code(s): 67745
+Mc Donald, OH
+  Zip code(s): 44437
+Mc Donald, PA
+  Zip code(s): 15057
+Mc Donald, TN
+  Zip code(s): 37353
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mcdonald</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>McDonald, KS (city, FIPS 43750)
+  Location: 39.78520 N, 101.37029 W
+  Population (1990): 184 (122 housing units)
+  Area: 0.5 sq km (land), 0.0 sq km (water)
+McDonald, NC (town, FIPS 40140)
+  Location: 34.55308 N, 79.17630 W
+  Population (1990): 88 (39 housing units)
+  Area: 0.7 sq km (land), 0.0 sq km (water)
+McDonald, OH (village, FIPS 45934)
+  Location: 41.16422 N, 80.72381 W
+  Population (1990): 3526 (1225 housing units)
+  Area: 4.3 sq km (land), 0.0 sq km (water)
+McDonald, PA (borough, FIPS 46072)
+  Location: 40.37016 N, 80.23250 W
+  Population (1990): 2252 (1026 housing units)
+  Area: 1.4 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mcdonald</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Mcdonald, NC
+  Zip code(s): 28340
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

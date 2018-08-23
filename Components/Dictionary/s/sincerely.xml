@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sincerely</Word>
+  <Definitions>
+    <Definition>
+      <Word>sincerely</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sincerely \Sin*cere"ly\, adv.
+   In a sincere manner. Specifically:
+   (a) Purely; without alloy. --Milton.
+   (b) Honestly; unfeignedly; without dissimulation; as, to
+       speak one's mind sincerely; to love virtue sincerely.
+       [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sincerely</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sincerely
+     adv 1: with sincerity; without pretense; "she praised him sincerely
+            for his victory"; "was unfeignedly glad to see his old
+            teacher"; "we are truly sorry for the inconvenience"
+            [syn: {unfeignedly}, {truly}] [ant: {insincerely}]
+     2: written formula for ending a letter [syn: {sincerely yours}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

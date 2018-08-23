@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>poached</Word>
+  <Definitions>
+    <Definition>
+      <Word>poached</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Poach \Poach\ (p[=o]ch), v. t. [imp. &amp; p. p. {Poached}
+   (p[=o]cht); p. pr. &amp; vb. n. {Poaching}.] [F. pocher to place
+   in a pocket, to poach eggs (the yolk of the egg being as it
+   were pouched in the white), from poche pocket, pouch. See
+   {Pouch}, v. &amp; n.]
+   1. To cook, as eggs, by breaking them into boiling water;
+      also, to cook with butter after breaking in a vessel.
+      --Bacon.
+      [1913 Webster]
+
+   2. To rob of game; to pocket and convey away by stealth, as
+      game; hence, to plunder. --Garth.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>poached</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>poached
+     adj : cooked in hot water [syn: {boiled}, {stewed}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

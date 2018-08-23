@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>interstellar</Word>
+  <Definitions>
+    <Definition>
+      <Word>interstellar</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Interstellar \In`ter*stel"lar\, a.
+   Between or among the stars; as, interstellar space. --Bacon.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>interstellar</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>interstellar
+     adj : between or among stars; "the density of hydrogen in
+           interplanetary and interstellar space"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

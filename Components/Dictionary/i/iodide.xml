@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>iodide</Word>
+  <Definitions>
+    <Definition>
+      <Word>iodide</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Iodide \I"o*dide\, n. (Chem.)
+   A binary compound of iodine, or one which may be regarded as
+   binary, in which iodine has a valence of -1; as, potassium
+   iodide.
+   [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>iodide</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>iodide
+     n : a salt or ester of hydriodic acid
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

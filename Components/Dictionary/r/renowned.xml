@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>renowned</Word>
+  <Definitions>
+    <Definition>
+      <Word>renowned</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Renowned \Re*nowned"\ (r?-nound"), a.
+   Famous; celebrated for great achievements, for distinguished
+   qualities, or for grandeur; eminent; as, a renowned king.
+   ``Some renowned metropolis with glistering spires.''
+   --Milton.
+   [1913 Webster]
+
+         These were the renowned of the congregation. --Num. i.
+                                                  61.
+   [1913 Webster]
+
+   Syn: Famous; famed; distinguished; noted; eminent;
+        celebrated; remarkable; wonderful. See {Famous}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>renowned</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>renowned
+     adj : widely known and esteemed; "a famous actor"; "a celebrated
+           musician"; "a famed scientist"; "an illustrious judge";
+           "a notable historian"; "a renowned painter" [syn: {celebrated},
+            {famed}, {far-famed}, {famous}, {illustrious}, {notable},
+            {noted}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

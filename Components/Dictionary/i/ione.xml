@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ione</Word>
+  <Definitions>
+    <Definition>
+      <Word>ione</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Ione, CA (city, FIPS 36672)
+  Location: 38.35957 N, 120.94137 W
+  Population (1990): 6516 (910 housing units)
+  Area: 12.3 sq km (land), 0.1 sq km (water)
+  Zip code(s): 95640
+Ione, OR (city, FIPS 36400)
+  Location: 45.50102 N, 119.82225 W
+  Population (1990): 255 (135 housing units)
+  Area: 1.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 97843
+Ione, WA (town, FIPS 33560)
+  Location: 48.74061 N, 117.42090 W
+  Population (1990): 507 (219 housing units)
+  Area: 1.4 sq km (land), 0.1 sq km (water)
+  Zip code(s): 99139
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>patterson</Word>
+  <Definitions>
+    <Definition>
+      <Word>patterson</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Patterson, AR (town, FIPS 53990)
+  Location: 35.25757 N, 91.23661 W
+  Population (1990): 445 (212 housing units)
+  Area: 2.2 sq km (land), 0.0 sq km (water)
+Patterson, CA (city, FIPS 56112)
+  Location: 37.47425 N, 121.12760 W
+  Population (1990): 8626 (2703 housing units)
+  Area: 4.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 95363
+Patterson, GA (city, FIPS 59500)
+  Location: 31.38420 N, 82.13804 W
+  Population (1990): 626 (288 housing units)
+  Area: 6.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 31557
+Patterson, IA (city, FIPS 61860)
+  Location: 41.34896 N, 93.87919 W
+  Population (1990): 128 (61 housing units)
+  Area: 0.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 50218
+Patterson, ID
+  Zip code(s): 83253
+Patterson, LA (city, FIPS 59340)
+  Location: 29.69172 N, 91.30870 W
+  Population (1990): 4736 (1739 housing units)
+  Area: 6.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 70392
+Patterson, MO
+  Zip code(s): 63956
+Patterson, NY
+  Zip code(s): 12563
+Patterson, OH (village, FIPS 61182)
+  Location: 40.78180 N, 83.52610 W
+  Population (1990): 145 (53 housing units)
+  Area: 0.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 45843
+Patterson, VA
+  Zip code(s): 24631
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

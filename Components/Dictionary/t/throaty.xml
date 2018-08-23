@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>throaty</Word>
+  <Definitions>
+    <Definition>
+      <Word>throaty</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Throaty \Throat"y\, a.
+   Guttural; hoarse; having a guttural voice. ``Hard, throaty
+   words.'' --Howell.
+   [1913 Webster]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>throaty</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>low-pitched \low-pitched\ adj.
+   1. low in pitch or frequency; -- used of sounds and voices.
+      Opposite of {high-pitched}. [Narrower terms: {alto,
+      contralto ; {baritone ; {bass, deep ; {contrabass,
+      double-bass ; {throaty ]
+
+   Syn: low.
+        [WordNet 1.5]
+
+   2. set at a low angle or slant; having a low degree of pitch;
+      as, a low-pitched roof.
+      [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>throaty</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>throaty
+     adj : sounding as if pronounced low in the throat; "a rich throaty
+           voice"
+     [also: {throatiest}, {throatier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

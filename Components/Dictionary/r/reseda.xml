@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>reseda</Word>
+  <Definitions>
+    <Definition>
+      <Word>reseda</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Reseda, CA
+  Zip code(s): 91335
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>reseda</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Reseda \Re*se"da\ (r?-s?"d?), n. [L., a kind of plant.]
+   1. (Bot.) A genus of plants, the type of which is mignonette.
+      [1913 Webster]
+
+   2. A grayish green color, like that of the flowers of
+      mignonette.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>reseda</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>reseda
+     n : any plant of the genus Reseda
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

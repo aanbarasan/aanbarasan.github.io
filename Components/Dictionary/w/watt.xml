@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>watt</Word>
+  <Definitions>
+    <Definition>
+      <Word>watt</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Watt \Watt\, n. [From the distinguished mechanician and
+   scientist, James Watt.] (Physics)
+   A unit of power or activity equal to 10^{7} C.G.S. units of
+   power, or to work done at the rate of one joule a second. An
+   English horse power is approximately equal to 746 watts.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>watt</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>watt
+     n 1: a unit of power equal to 1 joule per second; the power
+          dissipated by a current of 1 ampere flowing across a
+          resistance of 1 ohm [syn: {W}]
+     2: Scottish engineer and inventor whose improvements in the
+        steam engine led to its wide use in industry (1736-1819)
+        [syn: {James Watt}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

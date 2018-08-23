@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>paragraph</Word>
+  <Definitions>
+    <Definition>
+      <Word>paragraph</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Paragraph \Par"a*graph\, v. t. [imp. &amp; p. p. {Paragraphed}; p.
+   pr. &amp; vb. n. {Paragraphing}.]
+   [1913 Webster]
+   1. To divide into paragraphs; to mark with the character
+      [para].
+      [1913 Webster]
+
+   2. To express in the compass of a paragraph; as, to paragraph
+      an article.
+      [1913 Webster]
+
+   3. To mention in a paragraph or paragraphs
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>paragraph</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Paragraph \Par"a*graph\, n. [F. paragraphe, LL. paragraphus, fr.
+   Gr. para`grafos (sc. grammh`) a line or stroke drawn in the
+   margin, fr. paragra`fein to write beside; para` beside +
+   gra`fein to write. See {Para-}, and {Graphic}, and cf.
+   {Paraph}.]
+   1. Originally, a marginal mark or note, set in the margin to
+      call attention to something in the text, e. g., a change
+      of subject; now, the character [para], commonly used in
+      the text as a reference mark to a footnote, or to indicate
+      the place of a division into sections.
+      [1913 Webster]
+
+   Note: This character is merely a modification of a capital P
+         (the initial of the word paragraph), the letter being
+         reversed, and the black part made white and the white
+         part black for the sake of distinctiveness.
+         [1913 Webster]
+
+   2. A distinct part of a discourse or writing; any section or
+      subdivision of a writing or chapter which relates to a
+      particular point, whether consisting of one or many
+      sentences. The division is sometimes noted by the mark
+      [para], but usually, by beginning the first sentence of
+      the paragraph on a new line and at more than the usual
+      distance from the margin, also called indenting the line.
+      See {indentation}[4].
+
+   3. A brief composition complete in one typographical section
+      or paragraph; an item, remark, or quotation comprised in a
+      few lines forming one paragraph; as, a column of news
+      paragraphs; an editorial paragraph.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>paragraph</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>paragraph
+     n : one of several distinct subdivisions of a text intended to
+         separate ideas; the beginning is usually marked by a new
+         indented line
+     v 1: divide into paragraphs, as of text; "This story is well
+          paragraphed"
+     2: write about in a paragraph; "All her friends were
+        paragraphed in last Monday's paper"
+     3: write paragraphs; work as a paragrapher
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

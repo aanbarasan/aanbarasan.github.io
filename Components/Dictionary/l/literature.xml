@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>literature</Word>
+  <Definitions>
+    <Definition>
+      <Word>literature</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>literature
+     
+        The literature.  Computer-science journals and other
+        publications, vaguely gestured at to answer a question that
+        the speaker believes is trivial.  Thus, one might answer an
+        annoying question by saying "It's in the literature."  Oppose
+        {Knuth}, which has no connotation of triviality.
+     
+        (1994-11-04)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>literature</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Literature \Lit"er*a*ture\ (l[i^]t"[~e]r*[.a]*t[-u]r; 135), n.
+   [F. litt['e]rature, L. litteratura, literatura, learning,
+   grammar, writing, fr. littera, litera, letter. See {Letter}.]
+   1. Learning; acquaintance with letters or books.
+      [1913 Webster]
+
+   2. The collective body of literary productions, embracing the
+      entire results of knowledge and fancy preserved in
+      writing; also, the whole body of literary productions or
+      writings upon a given subject, or in reference to a
+      particular science or branch of knowledge, or of a given
+      country or period; as, the literature of Biblical
+      criticism; the literature of chemistry.
+      [1913 Webster]
+
+   3. The class of writings distinguished for beauty of style or
+      expression, as poetry, essays, or history, in distinction
+      from scientific treatises and works which contain positive
+      knowledge; belles-lettres.
+      [1913 Webster]
+
+   4. The occupation, profession, or business of doing literary
+      work. --Lamb.
+
+   Syn: Science; learning; erudition; belles-lettres.
+
+   Usage: See {Science}. -- {Literature}, {Learning},
+          {Erudition}. Literature, in its widest sense, embraces
+          all compositions in writing or print which preserve
+          the results of observation, thought, or fancy; but
+          those upon the positive sciences (mathematics, etc.)
+          are usually excluded. It is often confined, however,
+          to belles-lettres, or works of taste and sentiment, as
+          poetry, eloquence, history, etc., excluding abstract
+          discussions and mere erudition. A man of literature
+          (in this narrowest sense) is one who is versed in
+          belles-lettres; a man of learning excels in what is
+          taught in the schools, and has a wide extent of
+          knowledge, especially, in respect to the past; a man
+          of erudition is one who is skilled in the more
+          recondite branches of learned inquiry.
+          [1913 Webster]
+
+                The origin of all positive science and
+                philosophy, as well as of all literature and
+                art, in the forms in which they exist in
+                civilized Europe, must be traced to the Greeks.
+                                                  --Sir G. C.
+                                                  Lewis.
+          [1913 Webster]
+
+                Learning thy talent is, but mine is sense.
+                                                  --Prior.
+          [1913 Webster]
+
+                Some gentlemen, abounding in their university
+                erudition, fill their sermons with philosophical
+                terms.                            --Swift.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>literature</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>literature
+     n 1: creative writing of recognized artistic value
+     2: the humanistic study of a body of literature; "he took a
+        course in Russian lit" [syn: {lit}]
+     3: published writings in a particular style on a particular
+        subject; "the technical literature"; "one aspect of
+        Waterloo has not yet been treated in the literature"
+     4: the profession or art of a writer; "her place in literature
+        is secure"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

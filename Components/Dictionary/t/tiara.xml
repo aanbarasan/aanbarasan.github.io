@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tiara</Word>
+  <Definitions>
+    <Definition>
+      <Word>tiara</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tiara \Ti*a"ra\, n. [L., from Gr. ?, ?; of Persian origin.]
+   1. A form of headdress worn by the ancient Persians.
+      According to Xenophon, the royal tiara was encircled with
+      a diadem, and was high and erect, while those of the
+      people were flexible, or had rims turned over.
+      [1913 Webster]
+
+   2. The pope's triple crown. It was at first a round, high
+      cap, but was afterward encompassed with a crown,
+      subsequently with a second, and finally with a third.
+      Fig.: The papal dignity.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tiara</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tiara
+     n : a crown-like jewelled headdress worn by women on formal
+         occasions
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

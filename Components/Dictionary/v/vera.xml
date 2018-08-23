@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>vera</Word>
+  <Definitions>
+    <Definition>
+      <Word>vera</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Vera, OK (town, FIPS 76950)
+  Location: 36.44885 N, 95.88109 W
+  Population (1990): 167 (76 housing units)
+  Area: 0.5 sq km (land), 0.0 sq km (water)
+Vera, TX
+  Zip code(s): 76383
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>vera</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>VERA
+     Just playing around, huh?
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>plaid</Word>
+  <Definitions>
+    <Definition>
+      <Word>plaid</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Plaid \Plaid\, n. [Gael. plaide a blanket or plaid, contr. fr.
+   peallaid a sheepskin, fr. peall a skin or hide. CF.
+   {Pillion}.]
+   1. A rectangular garment or piece of cloth, usually made of
+      the checkered material called tartan, but sometimes of
+      plain gray, or gray with black stripes. It is worn by both
+      sexes in Scotland.
+      [1913 Webster]
+
+   2. Goods of any quality or material of the pattern of a plaid
+      or tartan; a checkered cloth or pattern.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>plaid</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Plaid \Plaid\, a.
+   Having a pattern or colors which resemble a Scotch plaid;
+   checkered or marked with bars or stripes at right angles to
+   one another; as, plaid muslin.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>plaid</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>plaid
+     n : a cloth having a crisscross design [syn: {tartan}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

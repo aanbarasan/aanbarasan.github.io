@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>timehonored</Word>
+  <Definitions>
+    <Definition>
+      <Word>timehonored</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Time-honored \Time"-hon`ored\ (t[imac]m"[o^]n`[~e]rd), a.
+   Honored for a long time; venerable, and worthy of honor, by
+   reason of antiquity, or long continuance.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>timehonored</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>time-honored
+     adj 1: honored because of age or long usage; "time-honored
+            institutions" [syn: {time-honoured}]
+     2: of long standing and acceptance; "time-honored customs"
+        [syn: {time-honoured}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

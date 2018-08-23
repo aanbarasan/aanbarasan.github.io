@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>smoked</Word>
+  <Definitions>
+    <Definition>
+      <Word>smoked</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Smoke \Smoke\, v. i. [imp. &amp; p. p. {Smoked}; p. pr. &amp; vb n.
+   {Smoking}.] [AS. smocian; akin to D. smoken, G. schmauchen,
+   Dan. sm["o]ge. See {Smoke}, n.]
+   1. To emit smoke; to throw off volatile matter in the form of
+      vapor or exhalation; to reek.
+      [1913 Webster]
+
+            Hard by a cottage chimney smokes.     --Milton.
+      [1913 Webster]
+
+   2. Hence, to burn; to be kindled; to rage.
+      [1913 Webster]
+
+            The anger of the Lord and his jealousy shall smoke
+            agains. that man.                     --Deut. xxix.
+                                                  20.
+      [1913 Webster]
+
+   3. To raise a dust or smoke by rapid motion.
+      [1913 Webster]
+
+            Proud of his steeds, he smokes along the field.
+                                                  --Dryden.
+      [1913 Webster]
+
+   4. To draw into the mouth the smoke of tobacco burning in a
+      pipe or in the form of a cigar, cigarette, etc.; to
+      habitually use tobacco in this manner.
+      [1913 Webster]
+
+   5. To suffer severely; to be punished.
+      [1913 Webster]
+
+            Some of you shall smoke for it in Rome. --Shak.
+      [1913 Webster]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>smoked</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>smoked
+     adj : (used especially of meats and fish) dried and cured in wood
+           smoke [syn: {smoke-cured}, {smoke-dried}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

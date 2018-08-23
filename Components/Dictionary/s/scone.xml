@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>scone</Word>
+  <Definitions>
+    <Definition>
+      <Word>scone</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Scone \Scone\, n.
+   A cake, thinner than a bannock, made of wheat or barley or
+   oat meal. [Written variously, {scon}, {skone}, {skon}, etc.]
+   [Scot.] --Burns.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>scone</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>scone
+     n : small biscuit (rich with cream and eggs) cut into diamonds
+         or sticks and baked in an oven or (especially originally)
+         on a griddle
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

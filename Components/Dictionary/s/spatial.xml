@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>spatial</Word>
+  <Definitions>
+    <Definition>
+      <Word>spatial</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Spatial \Spa"tial\, a.
+   Of or pertaining to space. ``Spatial quantity and
+   relations.'' --L. H. Atwater.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>spatial</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>spatial
+     adj : pertaining to or involving or having the nature of space;
+           "the first dimension to concentrate on is the spatial
+           one"; "spatial ability"; "spatial awareness"; "the
+           spatial distribution of the population" [syn: {spacial}]
+           [ant: {nonspatial}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

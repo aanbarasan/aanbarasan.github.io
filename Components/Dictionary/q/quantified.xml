@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>quantified</Word>
+  <Definitions>
+    <Definition>
+      <Word>quantified</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>quantify
+     v 1: use as a quantifier
+     2: express as a number or measure or quantity; "Can you
+        quantify your results?" [syn: {measure}]
+     [also: {quantified}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>quantified</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>quantified
+     See {quantify}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

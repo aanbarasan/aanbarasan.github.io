@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>masterpiece</Word>
+  <Definitions>
+    <Definition>
+      <Word>masterpiece</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Masterpiece \Mas"ter*piece`\, n.
+   Anything done or made with extraordinary skill; a capital
+   performance; a chef-d'[oe]uvre; a supreme achievement.
+   [1913 Webster]
+
+         The top and masterpiece of art.          --South.
+   [1913 Webster]
+
+         Dissimulation was his masterpiece.       --Claredon.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>masterpiece</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>masterpiece
+     n 1: the most outstanding work of a creative artist or craftsman
+          [syn: {chef-d'oeuvre}]
+     2: an outstanding achievement
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

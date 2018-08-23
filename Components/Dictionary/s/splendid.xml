@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>splendid</Word>
+  <Definitions>
+    <Definition>
+      <Word>splendid</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Splendid \Splen"did\, a. [L. splendidus, fr. splendere shine;
+   cf. Lith. splend["e]ti: cf. F. splendide.]
+   1. Possessing or displaying splendor; shining; very bright;
+      as, a splendid sun.
+      [1913 Webster]
+
+   2. Showy; magnificent; sumptuous; pompous; as, a splendid
+      palace; a splendid procession or pageant.
+      [1913 Webster]
+
+   3. Illustrious; heroic; brilliant; celebrated; famous; as, a
+      splendid victory or reputation.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>splendid</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>splendid
+     adj 1: having great beauty and splendor; "a glorious spring
+            morning"; "a glorious sunset"; "splendid costumes"; "a
+            kind of splendiferous native simplicity" [syn: {glorious},
+             {resplendent}, {splendiferous}]
+     2: characterized by or attended with brilliance or grandeur;
+        "the brilliant court life at Versailles"; "a glorious work
+        of art"; "magnificent cathedrals"; "the splendid
+        coronation ceremony" [syn: {brilliant}, {glorious}, {magnificent}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

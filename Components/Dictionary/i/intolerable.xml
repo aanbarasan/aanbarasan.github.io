@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>intolerable</Word>
+  <Definitions>
+    <Definition>
+      <Word>intolerable</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Intolerable \In*tol"er*a*ble\, a. [F. intol['e]rable, L.
+   intolerabilis. See {In-} not, and {Tolerable}.]
+   [1913 Webster]
+   1. Not tolerable; not capable of being borne or endured; not
+      proper or right to be allowed; insufferable;
+      insupportable; unbearable; as, intolerable pain;
+      intolerable heat or cold; an intolerable burden.
+      [1913 Webster]
+
+            His insolence is more intolerable
+            Than all the princes in the land beside. --Shak.
+      [1913 Webster]
+
+   4. Enormous.
+      [1913 Webster]
+
+            This intolerable deal of sack.        --Shak.
+      -- {In*tol"er*a*ble*ness}, n. -- {In*tol"er*a*bly}, adv.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>intolerable</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>intolerable
+     adj 1: impossible to tolerate or endure; "an intolerable degree of
+            sentimentality" [ant: {tolerable}]
+     2: completely unacceptable; "this noise is intolerable"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

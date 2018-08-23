@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sendoff</Word>
+  <Definitions>
+    <Definition>
+      <Word>sendoff</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>send off
+     v 1: send away towards a designated goal [syn: {dispatch}, {despatch}]
+     2: throw, send, or cast forward; "project a missile" [syn: {project}]
+     3: transfer; "The spy sent the classified information off to
+        Russia" [syn: {send}, {get off}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sendoff</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>send-off
+     n 1: an organized expression of goodwill at the start of a trip
+          or new venture [syn: {bon voyage}]
+     2: a start given to contestants; "I was there with my parents
+        at the kickoff" [syn: {kickoff}, {start-off}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

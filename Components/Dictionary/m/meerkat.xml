@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>meerkat</Word>
+  <Definitions>
+    <Definition>
+      <Word>meerkat</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Meerkat \Meer"kat\ (m[=e]r"k[a^]t), n. [D.] (Zo["o]l.)
+   A South African carnivore ({Suricata suricata}, formerly
+   {Cynictis penicillata}), allied to the ichneumons, having a
+   lemurlike face and only four toes; called also {yellow
+   mongoose} and {suricate}. [Also spelled {mierkat}.]
+   [1913 Webster]
+
+         While his compatrioits scuffle about in the sand for
+         delicious scorpions or fat, tasty mice, one meerkat
+         stands alone, bolt upright on an exposed perch,
+         scanning for hawks with dark eyes wide, ready to call
+         out at the first sign of danger. Like other such guards
+         in the animal kingdom, these endearingly vulnerable
+         meerkat sentinels have long impressed biologists as
+         true altruists -- creatures willing to forgo food and
+         brave danger to protect others.
+         Now a study in the current Science suggests that these
+         beasts may not be such adorable heroes after all.
+         Researchers have discovered that meerkats abandon their
+         hunting to act as guards only when their bellies are
+         good and full. And they appear to do so, not as an act
+         of noble daring, but because by being the first to see
+         a predator, they can be sure of being the first down a
+         hole and out of harm's way. Standing guard, researchers
+         concluded, may be the safest thing to do once a meerkat
+         has had enough to eat.
+         . . .
+         Even the adorable meerkat may yet redeem itself as a
+         bit of an altruist. Although being a sentinel may
+         itself not entail great risk, it is hard to imagine a
+         selfish reason for their giving a shout of warning
+         before dashing for cover. . . .          --Carol Kaesuk
+                                                  Yoon (N. Y.
+                                                  Times, June 8,
+                                                  1999 p. F3)
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>meerkat</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>mierkat \mierkat\ n. (Zool.)
+   A South African mongooselike viverrine ({Suricata suricata})
+   having a lemurlike face and only four toes; called also
+   {suricate}. [Also spelled {meerkat}.]
+
+   Syn: meerkat.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>meerkat</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>meerkat
+     n : a mongoose-like viverrine of South Africa having a face like
+         a lemur and only four toes [syn: {mierkat}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

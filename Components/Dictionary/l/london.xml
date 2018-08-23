@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>london</Word>
+  <Definitions>
+    <Definition>
+      <Word>london</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>London, AR (city, FIPS 41270)
+  Location: 35.32817 N, 93.24007 W
+  Population (1990): 825 (348 housing units)
+  Area: 5.2 sq km (land), 0.1 sq km (water)
+  Zip code(s): 72847
+London, CA (CDP, FIPS 42566)
+  Location: 36.48095 N, 119.44302 W
+  Population (1990): 1638 (418 housing units)
+  Area: 1.6 sq km (land), 0.0 sq km (water)
+London, KY (city, FIPS 47476)
+  Location: 37.12797 N, 84.08220 W
+  Population (1990): 5757 (2553 housing units)
+  Area: 19.9 sq km (land), 0.0 sq km (water)
+London, MN
+  Zip code(s): 56061
+London, OH (city, FIPS 44674)
+  Location: 39.88920 N, 83.44089 W
+  Population (1990): 7807 (3202 housing units)
+  Area: 13.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 43140
+London, TX
+  Zip code(s): 76854
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>london</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>London \Lon"don\, n.
+   The capital city of England.
+   [1913 Webster]
+
+   {London paste} (Med.), a paste made of caustic soda and
+      unslacked lime; -- used as a caustic to destroy tumors and
+      other morbid enlargements.
+
+   {London pride}. (Bot.)
+   (a) A garden name for {Saxifraga umbrosa}, a hardy perennial
+       herbaceous plant, a native of high lands in Great
+       Britain.
+   (b) A name anciently given to the Sweet William. --Dr. Prior.
+
+   {London rocket} (Bot.), a cruciferous plant ({Sisymbrium
+      Irio}) which sprung up in London abundantly on the ruins
+      of the great fire of 1667.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>london</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>London
+     n 1: the capital and largest city of England; located on the
+          Thames in southeastern England; financial and industrial
+          and cultural center [syn: {Greater London}, {British
+          capital}, {capital of the United Kingdom}]
+     2: United States writer of novels based on experiences in the
+        Klondike gold rush (1876-1916) [syn: {Jack London}, {John
+        Griffith Chaney}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

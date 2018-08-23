@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>optimal</Word>
+  <Definitions>
+    <Definition>
+      <Word>optimal</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>optimal
+     
+        1. &lt;mathematics&gt; Describes a solution to a problem which
+        minimises some {cost function}.  {Linear programming} is one
+        technique used to discover the optimal solution to certain
+        problems.
+     
+        2. &lt;programming&gt; Of code: best or most efficient in time,
+        space or code size.
+     
+        (1995-10-05)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>optimal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>optimal \op"ti*mal\, a.
+   Best possible; most desirable; optimum; as, the optimal
+   concentration of a drug.
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>optimal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>optimal
+     adj : most desirable possible under a restriction expressed or
+           implied; "an optimum return on capital"; "optimal
+           concentration of a drug" [syn: {optimum}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

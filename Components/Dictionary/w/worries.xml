@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>worries</Word>
+  <Definitions>
+    <Definition>
+      <Word>worries</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Worry \Wor"ry\, n.; pl. {Worries}.
+   A state of undue solicitude; a state of disturbance from care
+   and anxiety; vexation; anxiety; fret; as, to be in a worry.
+   ``The whir and worry of spindle and of loom.'' --Sir T.
+   Browne.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

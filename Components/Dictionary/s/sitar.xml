@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sitar</Word>
+  <Definitions>
+    <Definition>
+      <Word>sitar</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sitar
+     n : a stringed instrument of India; has a long neck and movable
+         frets; has 6 or 7 metal strings for playing and usually
+         13 resonating strings
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

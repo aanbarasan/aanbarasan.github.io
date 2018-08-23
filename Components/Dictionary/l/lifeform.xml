@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lifeform</Word>
+  <Definitions>
+    <Definition>
+      <Word>lifeform</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>life form
+     n : the characteristic bodily form of a mature organism
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

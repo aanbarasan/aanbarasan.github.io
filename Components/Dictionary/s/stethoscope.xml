@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>stethoscope</Word>
+  <Definitions>
+    <Definition>
+      <Word>stethoscope</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Stethoscope \Steth"o*scope\, v. t.
+   To auscultate, or examine, with a stethoscope. --M. W.
+   Savage.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stethoscope</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Stethoscope \Steth"o*scope\ (st[e^]th"[-o]*sk[=o]p), n. [Gr.
+   sth^qos the breast + -scope: cf. F. st['e]thoscope.] (Med.)
+   An instrument used in auscultation for examining the organs
+   of the chest, as the heart and lungs, by conveying to the ear
+   of the examiner the sounds produced in the thorax.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stethoscope</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>stethoscope
+     n : a medical instrument for listening to the sounds generated
+         inside the body
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

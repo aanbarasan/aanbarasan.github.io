@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>power's</Word>
+  <Definitions>
+    <Definition>
+      <Word>power's</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Powers, MI (village, FIPS 66140)
+  Location: 45.68750 N, 87.52637 W
+  Population (1990): 271 (156 housing units)
+  Area: 2.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 49874
+Powers, OR (city, FIPS 59600)
+  Location: 42.88535 N, 124.07215 W
+  Population (1990): 682 (374 housing units)
+  Area: 2.0 sq km (land), 0.1 sq km (water)
+  Zip code(s): 97466
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

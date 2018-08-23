@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>peyote</Word>
+  <Definitions>
+    <Definition>
+      <Word>peyote</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>peyote
+     n 1: a small spineless globe-shaped cactus; source of mescal
+          buttons [syn: {mescal}, {mezcal}, {Lophophora williamsii}]
+     2: the hallucinatory alkaloid that is the active agent in
+        mescal buttons [syn: {mescaline}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

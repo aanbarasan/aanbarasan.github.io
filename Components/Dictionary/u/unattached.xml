@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unattached</Word>
+  <Definitions>
+    <Definition>
+      <Word>unattached</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Unattached \Un`at*tached"\, a.
+   1. Not attached; not adhering; having no engagement; free.
+      [1913 Webster]
+
+   2. (Mil.) Not assigned to any company or regiment.
+      [1913 Webster]
+
+   3. (Law) Not taken or arrested. --R. Junius.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>unattached</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unattached
+     adj 1: not fastened together
+     2: not associated in an exclusive sexual relationship [syn: {uncommitted}]
+        [ant: {attached}]
+     3: (of animals) able to swim about; not attached [syn: {free-swimming}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

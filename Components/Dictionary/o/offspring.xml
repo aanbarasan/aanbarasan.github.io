@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>offspring</Word>
+  <Definitions>
+    <Definition>
+      <Word>offspring</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Offspring \Off"spring`\, n. sing. &amp; pl. [Off + spring.]
+   [1913 Webster]
+   1. The act of production; generation. [Obs.]
+      [1913 Webster]
+
+   2. That which is produced; a child or children; a descendant
+      or descendants, however remote from the stock.
+      [1913 Webster]
+
+            To the gods alone
+            Our future offspring and our wives are known.
+                                                  --Dryden.
+      [1913 Webster]
+
+   3. Origin; lineage; family. [Obs.] --Fairfax.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>offspring</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>offspring
+     n 1: the immediate descendants of a person; "she was the mother
+          of many offspring"; "he died without issue" [syn: {progeny},
+           {issue}]
+     2: something that comes into existence as a result;
+        "industrialism prepared the way for acceptance of the
+        French Revolution's various socialistic offspring"; "this
+        skyscraper is the solid materialization of his efforts"
+        [syn: {materialization}, {materialisation}]
+     3: any immature animal [syn: {young}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>stroll</Word>
+  <Definitions>
+    <Definition>
+      <Word>stroll</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Stroll \Stroll\, v. i. [imp. &amp; p. p. {Strolled}; p. pr. &amp; vb. n.
+   {Strolling}.] [Cf. Dan. stryge to stroll, Sw. stryka to
+   stroke, to ramble, dial. Sw. strykel one who strolls about,
+   Icel. strj?ka to stroke, D. struikelen to stumble, G.
+   straucheln. Cf. {Struggle}.]
+   To wander on foot; to ramble idly or leisurely; to rove.
+   [1913 Webster]
+
+         These mothers stroll to beg sustenance for their
+         helpless infants.                        --Swift.
+   [1913 Webster]
+
+   Syn: To rove; roam; range; stray.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stroll</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Stroll \Stroll\, n.
+   A wandering on foot; an idle and leisurely walk; a ramble.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>stroll</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>stroll
+     n : a leisurely walk (usually in some public place) [syn: {amble},
+          {promenade}, {ramble}, {saunter}, {perambulation}]
+     v : walk leisurely and with no apparent aim [syn: {saunter}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

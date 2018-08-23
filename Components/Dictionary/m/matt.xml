@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>matt</Word>
+  <Definitions>
+    <Definition>
+      <Word>matt</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mat \Mat\ (m[a^]t), n. [Cf. {Matte}.]
+   A name given by coppersmiths to an alloy of copper, tin,
+   iron, etc., usually called white metal. [Written also
+   {matt}.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>matt</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Matt \Matt\, n.
+   See {Matte}. --Knight.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>matt</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>matt
+     adj : not reflecting light; not glossy; "flat wall paint"; "a
+           photograph with a matte finish" [syn: {flat}, {mat}, {matte},
+            {matted}]
+     n : the property of having little or no contrast; lacking
+         highlights or gloss [syn: {flatness}, {lusterlessness}, {lustrelessness},
+          {mat}, {matte}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>liberated</Word>
+  <Definitions>
+    <Definition>
+      <Word>liberated</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Liberate \Lib"er*ate\ (-[=a]t), v. t. [imp. &amp; p. p. {Liberated}
+   (-[=a]`t[e^]d); p. pr. &amp; vb. n. {Liberating}
+   (-[=a]`t[i^]ng).] [L. liberatus, p. p. of liberare to free,
+   fr. liber free. See {Liberal}, a., and cf. {Deliver}.]
+   To release from restraint or bondage; to set at liberty; to
+   free; to manumit; to disengage; as, to liberate a slave or
+   prisoner; to liberate the mind from prejudice; to liberate
+   gases.
+   [1913 Webster]
+
+   Syn: To deliver; free; release. See {Deliver}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>liberated</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>liberated \liberated\ adj. (Chem.)
+   1. released from chemical combination, or as a consequence of
+      chemical reaction; -- of a gas.
+      [WordNet 1.5]
+
+   2. freed from bondage; -- of people.
+
+   Syn: emancipated, freed.
+        [WordNet 1.5]
+
+   3. free from traditional social restraints; as, a liberated
+      lifestyle.
+
+   Syn: emancipated.
+        [WordNet 1.5]
+
+   4. stolen. [jocose]
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>liberated</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>liberated
+     adj 1: (of a gas e.g.) released from chemical combination
+     2: freed from bondage [syn: {emancipated}, {freed}]
+     3: free from traditional social restraints; "an emancipated
+        young woman pursuing her career"; "a liberated lifestyle"
+        [syn: {emancipated}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

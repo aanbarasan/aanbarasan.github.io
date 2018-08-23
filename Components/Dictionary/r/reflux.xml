@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>reflux</Word>
+  <Definitions>
+    <Definition>
+      <Word>reflux</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Reflux \Re"flux`\ (r?"fl?ks`), a.
+   Returning, or flowing back; reflex; as, reflux action.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>reflux</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Reflux \Re"flux`\, n. [F. reflux. See {Refluent}, {Flux}.]
+   A flowing back, as the return of a fluid; ebb; reaction; as,
+   the flux and reflux of the tides.
+   [1913 Webster]
+
+         All from me
+         Shall with a fierce reflux on me redound. --Milton.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>reflux</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>reflux
+     n 1: an abnormal backward flow of body fluids
+     2: the outward flow of the tide [syn: {ebb}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

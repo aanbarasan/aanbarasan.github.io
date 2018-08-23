@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>richards</Word>
+  <Definitions>
+    <Definition>
+      <Word>richards</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Richards, MO (town, FIPS 61364)
+  Location: 37.90983 N, 94.55718 W
+  Population (1990): 106 (40 housing units)
+  Area: 0.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 64778
+Richards, TX
+  Zip code(s): 77873
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>richards</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Richards
+     n : English literary critic who collaborated with C. K. Ogden
+         and contributed to the development of Basic English
+         (1893-1979) [syn: {I. A. Richards}, {Ivor Armstrong
+         Richards}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

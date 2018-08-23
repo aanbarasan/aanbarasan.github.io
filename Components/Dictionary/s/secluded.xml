@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>secluded</Word>
+  <Definitions>
+    <Definition>
+      <Word>secluded</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Seclude \Se*clude\, v. t. [imp. &amp; p. p. {Secluded}; p. pr. &amp; vb.
+   n. {Secluding}.] [L. secludere, seclusum; pref. se- aside +
+   claudere to shut. See {Close}, v. t.]
+   1. To shut up apart from others; to withdraw into, or place
+      in, solitude; to separate from society or intercourse with
+      others.
+      [1913 Webster]
+
+            Let Eastern tyrants from the light of heaven
+            Seclude their bosom slaves.           --Thomson.
+      [1913 Webster]
+
+   2. To shut or keep out; to exclude. [Obs.] --Evelyn.
+      [1913 Webster] -- {Se*clud"ed*ly}, adv. --
+      {Se*clud"ed*ness}, n.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>secluded</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>secluded
+     adj 1: hidden from general view or use; "a privy place to rest and
+            think"; "a secluded romantic spot"; "a secret garden"
+            [syn: {privy}, {secret}]
+     2: providing privacy or seclusion; "the cloistered academic
+        world of books"; "sat close together in the sequestered
+        pergola"; "sitting under the reclusive calm of a shade
+        tree"; "a secluded romantic spot" [syn: {cloistered}, {reclusive},
+         {sequestered}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

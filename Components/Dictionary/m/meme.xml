@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>meme</Word>
+  <Definitions>
+    <Definition>
+      <Word>meme</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>meme
+     
+        &lt;philosophy&gt; /meem/ [By analogy with "gene"] Richard Dawkins's
+        term for an idea considered as a {replicator}, especially with
+        the connotation that memes parasitise people into propagating
+        them much as viruses do.
+     
+        Memes can be considered the unit of cultural evolution.  Ideas
+        can evolve in a way analogous to biological evolution.  Some
+        ideas survive better than others; ideas can mutate through,
+        for example, misunderstandings; and two ideas can recombine to
+        produce a new idea involving elements of each parent idea.
+     
+        The term is used especially in the phrase "meme complex"
+        denoting a group of mutually supporting memes that form an
+        organised belief system, such as a religion.  However, "meme"
+        is often misused to mean "meme complex".
+     
+        Use of the term connotes acceptance of the idea that in humans
+        (and presumably other tool- and language-using sophonts)
+        cultural evolution by selection of adaptive ideas has become
+        more important than biological evolution by selection of
+        hereditary traits.  Hackers find this idea congenial for
+        tolerably obvious reasons.
+     
+        See also {memetic algorithm}.
+     
+        [{Jargon File}]
+     
+        (1996-08-11)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>meme</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>meme /meem/ n. [coined by analogy with `gene', by Richard Dawkins] An
+   idea considered as a {replicator}, esp. with the connotation that memes
+   parasitize people into propagating them much as viruses do. Used esp. in
+   the phrase `meme complex' denoting a group of mutually supporting memes
+   that form an organized belief system, such as a religion. This lexicon
+   is an (epidemiological) vector of the `hacker subculture' meme complex;
+   each entry might be considered a meme. However, `meme' is often misused
+   to mean `meme complex'. Use of the term connotes acceptance of the idea
+   that in humans (and presumably other tool- and language-using sophonts)
+   cultural evolution by selection of adaptive ideas has superseded
+   biological evolution by selection of hereditary traits. Hackers find
+   this idea congenial for tolerably obvious reasons.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>meme</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>meme
+     n : a cultural unit (an idea or value or pattern of behavior)
+         that is passed from one generation to another by
+         nongenetic means (as by imitation); "memes are the
+         cultrual counterpart of genes"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

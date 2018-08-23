@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>participation</Word>
+  <Definitions>
+    <Definition>
+      <Word>participation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Participation \Par*tic`i*pa"tion\, n. [F. participation, L.
+   participatio.]
+   1. The act or state of participating, or sharing in common
+      with others; as, a participation in joy or sorrows.
+      [1913 Webster]
+
+            These deities are so by participation. --Bp.
+                                                  Stillingfleet.
+      [1913 Webster]
+
+            What an honor, that God should admit us into such a
+            blessed participation of himself!     --Atterbury.
+      [1913 Webster]
+
+   2. Distribution; division into shares. [Obs.] --Raleigh.
+      [1913 Webster]
+
+   3. Community; fellowship; association. [Obs.] --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>participation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>participation
+     n 1: the act of sharing in the activities of a group; "the
+          teacher tried to increase his students' engagement in
+          class activities" [syn: {engagement}, {involvement}, {involution}]
+          [ant: {non-engagement}, {non-engagement}, {non-engagement}]
+     2: the condition of sharing in common with others (as fellows
+        or partners etc.) [syn: {involvement}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

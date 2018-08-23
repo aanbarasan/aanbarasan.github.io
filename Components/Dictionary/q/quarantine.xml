@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>quarantine</Word>
+  <Definitions>
+    <Definition>
+      <Word>quarantine</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Quarantine \Quar"an*tine\, n. [F. quarantaine, OF. quaranteine,
+   fr. F. quarante forty, L. quadraginta, akin to quattuor four,
+   and E. four: cf. It. quarantina, quarentine. See {Four}, and
+   cf. {Quadragesima}.]
+   1. A space of forty days; -- used of Lent.
+      [1913 Webster]
+
+   2. Specifically, the term, originally of forty days, during
+      which a ship arriving in port, and suspected of being
+      infected a malignant contagious disease, is obliged to
+      forbear all intercourse with the shore; hence, such
+      restraint or inhibition of intercourse; also, the place
+      where infected or prohibited vessels are stationed.
+      [1913 Webster]
+
+   Note: Quarantine is now applied also to any forced stoppage
+         of travel or communication on account of malignant
+         contagious disease, on land as well as by sea.
+         [1913 Webster]
+
+   3. (Eng. Law) The period of forty days during which the widow
+      had the privilege of remaining in the mansion house of
+      which her husband died seized.
+      [1913 Webster]
+
+   {Quarantine flag}, a yellow flag hoisted at the fore of a
+      vessel or hung from a building, to give warning of an
+      infectious disease; -- called also the {yellow jack}, and
+      {yellow flag}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>quarantine</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Quarantine \Quar`an*tine"\, v. t. [imp. &amp; p. p. {Quarantined};
+   p. pr. &amp; vb. n. {Quarantining}.]
+   To compel to remain at a distance, or in a given place,
+   without intercourse, when suspected of having contagious
+   disease; to put under, or in, quarantine.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>quarantine</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>quarantine
+     n 1: enforced isolation of patients suffering from a contagious
+          disease in order to prevent the spread of disease
+     2: isolation to prevent the spread of infectious disease
+     v : place into enforced isolation, as for medical reasons; "My
+         dog was quarantined before he could live in England"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

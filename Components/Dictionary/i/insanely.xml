@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>insanely</Word>
+  <Definitions>
+    <Definition>
+      <Word>insanely</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Insanely \In*sane"ly\, adv.
+   Without reason; madly; foolishly.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>insanely</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>insanely
+     adv 1: in an insane manner; "she behaved insanely"; "he behaves
+            crazily when he is off his medication"; "the witch
+            cackled madly"; "screaming dementedly" [syn: {crazily},
+             {dementedly}, {madly}] [ant: {sanely}]
+     2: (used as intensives) extremely; "she was madly in love";
+        "deadly dull"; "deadly earnest"; "deucedly clever";
+        "insanely jealous" [syn: {madly}, {deadly}, {deucedly}, {devilishly}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

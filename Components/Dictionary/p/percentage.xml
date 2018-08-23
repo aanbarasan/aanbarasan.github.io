@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>percentage</Word>
+  <Definitions>
+    <Definition>
+      <Word>percentage</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Percentage \Per*cent"age\, n. [Per cent + -age, as in average.
+   See {Per}, and {Cent}.] (Com.)
+   A certain rate per cent; the allowance, duty, rate of
+   interest, discount, or commission, on a hundred.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>percentage</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>percentage
+     n 1: a proportion multiplied by 100 [syn: {percent}, {per centum},
+           {pct}]
+     2: assets belonging to or due to or contributed by an
+        individual person or group; "he wanted his share in cash"
+        [syn: {share}, {portion}, {part}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nincompoop</Word>
+  <Definitions>
+    <Definition>
+      <Word>nincompoop</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>nincompoop \nin"com*poop\, n. [A corruption of non compos.]
+   A fool; a silly or stupid person. [Law]
+   [1913 Webster]
+
+         An old ninnyhammer, a dotard, a nincompoop, is the best
+         language she can afford me.              --Addison.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nincompoop</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nincompoop
+     n : a stupid foolish person [syn: {poop}, {ninny}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

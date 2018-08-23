@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>prudent</Word>
+  <Definitions>
+    <Definition>
+      <Word>prudent</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Prudent \Pru"dent\, a. [L. prudens, -entis, contr. from
+   providens: cf. F. prudent. See {Provident}.]
+   1. Sagacious in adapting means to ends; circumspect in
+      action, or in determining any line of conduct; practically
+      wise; judicious; careful; discreet; sensible; -- opposed
+      to {rash}; as, a prudent man; dictated or directed by
+      prudence or wise forethought; evincing prudence; as,
+      prudent behavior.
+      [1913 Webster]
+
+            Moses established a grave and prudent law. --Milton.
+      [1913 Webster]
+
+   2. Frugal; economical; not extravagant; as, a prudent woman;
+      prudent expenditure of money.
+      [1913 Webster]
+
+   Syn: Cautious; wary; circumspect; considerate; discreet;
+        judicious; provident; economical; frugal.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>prudent</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>prudent
+     adj 1: careful and sensible; marked by sound judgment; "a prudent
+            manager"; "prudent rulers"; "prudent hesitation";
+            "more prudent to hide than to fight" [ant: {imprudent}]
+     2: showing wise self-restraint in speech and behavior
+        especially in preserving prudent silence; "maintained a
+        prudent silence"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

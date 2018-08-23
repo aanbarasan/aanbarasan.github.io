@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>when</Word>
+  <Definitions>
+    <Definition>
+      <Word>when</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>When \When\, adv. [OE. when, whan, whenne, whanne, AS.
+   hw[ae]nne, hwanne, hwonne; akin to OS. hwan, OD. wan, OHG.
+   wanne, G. wann when, wenn if, when, Goth. hwan when, and to
+   E. who. ????. See {Who}.]
+   [1913 Webster]
+   1. At what time; -- used interrogatively.
+      [1913 Webster]
+
+            When shall these things be?           --Matt. xxiv.
+                                                  3.
+      [1913 Webster]
+
+   Note: See the Note under {What}, pron., 1.
+         [1913 Webster]
+
+   2. At what time; at, during, or after the time that; at or
+      just after, the moment that; -- used relatively.
+      [1913 Webster]
+
+            Kings may
+            Take their advantage when and how they list.
+                                                  --Daniel.
+      [1913 Webster]
+
+            Book lore ne'er served, when trial came,
+            Nor gifts, when faith was dead.       --J. H.
+                                                  Newman.
+      [1913 Webster]
+
+   3. While; whereas; although; -- used in the manner of a
+      conjunction to introduce a dependent adverbial sentence or
+      clause, having a causal, conditional, or adversative
+      relation to the principal proposition; as, he chose to
+      turn highwayman when he might have continued an honest
+      man; he removed the tree when it was the best in the
+      grounds.
+      [1913 Webster]
+
+   4. Which time; then; -- used elliptically as a noun.
+      [1913 Webster]
+
+            I was adopted heir by his consent;
+            Since when, his oath is broke.        --Shak.
+      [1913 Webster]
+
+   Note: When was formerly used as an exclamation of surprise or
+         impatience, like what!
+         [1913 Webster]
+
+               Come hither; mend my ruff:
+               Here, when! thou art such a tedious lady! --J.
+                                                  Webster.
+         [1913 Webster]
+
+   {When as}, {When that}, at the time that; when. [Obs.]
+      [1913 Webster]
+
+            When as sacred light began to dawn.   --Milton.
+      [1913 Webster]
+
+            When that mine eye is famished for a look. --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>when</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>when
+     adv : as soon as; "once we are home, we can rest" [syn: {once}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

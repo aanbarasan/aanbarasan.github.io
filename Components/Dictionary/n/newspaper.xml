@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>newspaper</Word>
+  <Definitions>
+    <Definition>
+      <Word>newspaper</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Newspaper \News"pa`per\, n.
+   A sheet of paper printed and distributed, at stated
+   intervals, for conveying intelligence of passing events,
+   advocating opinions, etc.; a public print that circulates
+   news, advertisements, proceedings of legislative bodies,
+   public announcements, etc.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>newspaper</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>newspaper
+     n 1: a daily or weekly publication on folded sheets; contains
+          news and articles and advertisements; "he read his
+          newspaper at breakfast" [syn: {paper}]
+     2: a business firm that publishes newspapers; "Murdoch owns
+        many newspapers" [syn: {paper}, {newspaper publisher}]
+     3: a newspaper as a physical object; "when it began to rain he
+        covered his head with a newspaper" [syn: {paper}]
+     4: cheap paper made from wood pulp and used for printing
+        newspapers; "they used bales of newspaper every day" [syn:
+         {newsprint}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unassailable</Word>
+  <Definitions>
+    <Definition>
+      <Word>unassailable</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unassailable
+     adj 1: able to withstand attack; "an impregnable fortress";
+            "fortifications that made the frontier inviolable"
+            [syn: {impregnable}, {inviolable}, {secure}, {strong},
+             {unattackable}]
+     2: impossible to assail [syn: {untouchable}]
+     3: without flaws or loopholes; "an ironclad contract"; "a
+        watertight alibi"; "a bulletproof argument" [syn: {ironclad},
+         {unshakable}, {watertight}, {bulletproof}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

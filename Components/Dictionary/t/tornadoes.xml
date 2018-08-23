@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tornadoes</Word>
+  <Definitions>
+    <Definition>
+      <Word>tornadoes</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tornado \Tor*na"do\, n.; pl. {Tornadoes}. [From Sp. or Pg.
+   tornar to turn, return, L. tornare to turn, hence, a whirling
+   wind. The Sp. &amp; Pg. tornada is a return. See {Turn}.]
+   A violent whirling wind; specifically (Meteorol.), a tempest
+   distinguished by a rapid whirling and slow progressive
+   motion, usually accompaned with severe thunder, lightning,
+   and torrents of rain, and commonly of short duration and
+   small breadth; a small cyclone.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tornadoes</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tornado
+     n 1: a localized and violently destructive windstorm occurring
+          over land characterized by a funnel-shaped cloud
+          extending toward the ground [syn: {twister}]
+     2: a purified and potent form of cocaine that is smoked rather
+        than snorted [syn: {crack}]
+     [also: {tornadoes} (pl)]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tornadoes</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tornadoes
+     See {tornado}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

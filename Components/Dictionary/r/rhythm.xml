@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rhythm</Word>
+  <Definitions>
+    <Definition>
+      <Word>rhythm</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rhythm \Rhythm\, n. [F. rhythme, rythme, L. rhythmus, fr. Gr.
+   ??? measured motion, measure, proportion, fr. "rei^n to flow.
+   See {Stream}.]
+   1. In the widest sense, a dividing into short portions by a
+      regular succession of motions, impulses, sounds, accents,
+      etc., producing an agreeable effect, as in music poetry,
+      the dance, or the like.
+      [1913 Webster]
+
+   2. (Mus.) Movement in musical time, with periodical
+      recurrence of accent; the measured beat or pulse which
+      marks the character and expression of the music; symmetry
+      of movement and accent. --Moore (Encyc.)
+      [1913 Webster]
+
+   3. A division of lines into short portions by a regular
+      succession of arses and theses, or percussions and
+      remissions of voice on words or syllables.
+      [1913 Webster]
+
+   4. The harmonious flow of vocal sounds.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rhythm</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rhythm
+     n 1: the basic rhythmic unit in a piece of music; "the piece has
+          a fast rhythm"; "the conductor set the beat" [syn: {beat},
+           {musical rhythm}]
+     2: recurring at regular intervals [syn: {regular recurrence}]
+     3: an interval during which a recurring sequence of events
+        occurs; "the neverending cycle of the seasons" [syn: {cycle},
+         {round}]
+     4: the arrangement of spoken words alternating stressed and
+        unstressed elements; "the rhythm of Frost's poetry" [syn:
+        {speech rhythm}]
+     5: natural family planning in which ovulation is assumed to
+        occur 14 days before the onset of a period (the fertile
+        period would be assumed to extend from day 10 through day
+        18 of her cycle) [syn: {rhythm method of birth control}, {rhythm
+        method}, {calendar method of birth control}, {calendar
+        method}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>spraying</Word>
+  <Definitions>
+    <Definition>
+      <Word>spraying</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>spraying
+     n 1: the dispersion of fungicides or insecticides or fertilizer
+          on growing crops (often from a low-flying aircraft)
+          [syn: {crop-dusting}]
+     2: a quantity of small objects flying through the air; "a spray
+        of bullets" [syn: {spray}]
+     3: the application of a liquid in the form of small particles
+        ejected from a sprayer
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

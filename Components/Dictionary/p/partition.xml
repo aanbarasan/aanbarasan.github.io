@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>partition</Word>
+  <Definitions>
+    <Definition>
+      <Word>partition</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>partition
+     
+        1. &lt;storage&gt; A {logical} section of a {disk}.  Each partition
+        normally has its own {file system}.  {Unix} tends to treat
+        partitions as though they were separate physical entities.
+     
+        2. &lt;mathematics&gt; A division of a set into subsets so that each
+        of its elements is in exactly one subset.
+     
+        (1996-12-09)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>partition</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Partition \Par*ti"tion\, v. t. [imp. &amp; p. p. {Partitioned}; p.
+   pr. &amp; vb. n. {Partitioning}.]
+   1. To divide into parts or shares; to divide and distribute;
+      as, to partition an estate among various heirs.
+      [1913 Webster]
+
+   2. To divide into distinct parts by lines, walls, etc.; as,
+      to partition a house.
+      [1913 Webster]
+
+            Uniform without, though severally partitioned
+            within.                               --Bacon.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>partition</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Partition \Par*ti"tion\, n. [F. partition, L. partitio. See
+   {Part}, v.]
+   1. The act of parting or dividing; the state of being parted;
+      separation; division; distribution; as, the partition of a
+      kingdom.
+      [1913 Webster]
+
+            And good from bad find no partition.  --Shak.
+      [1913 Webster]
+
+   2. That which divides or separates; that by which different
+      things, or distinct parts of the same thing, are
+      separated; separating boundary; dividing line or space;
+      specifically, an interior wall dividing one part or
+      apartment of a house, a compartment of a room, an
+      inclosure, or the like, from another; as, a brick
+      partition; lath and plaster partitions; cubicles with
+      four-foot high partitions.
+      [1913 Webster +PJC]
+
+            No sight could pass
+            Betwixt the nice partitions of the grass. --Dryden.
+      [1913 Webster]
+
+   3. A part divided off by walls; an apartment; a compartment.
+      [R.] ``Lodged in a small partition.'' --Milton.
+      [1913 Webster]
+
+   4. (Law.) The severance of common or undivided interests,
+      particularly in real estate. It may be effected by consent
+      of parties, or by compulsion of law.
+      [1913 Webster]
+
+   5. (Mus.) A score.
+      [1913 Webster]
+
+   {Partition of numbers} (Math.), the resolution of integers
+      into parts subject to given conditions. --Brande &amp; C.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>partition</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>partition
+     n 1: a vertical structure that divides or separates (as a wall
+          divides one room from another) [syn: {divider}]
+     2: the act of dividing or partitioning; separation by the
+        creation of a boundary that divides or keeps apart [syn: {division},
+         {partitioning}, {segmentation}, {sectionalization}, {sectionalisation}]
+     3: (computer science) the part of a hard disk that is dedicated
+        to a particular operating system or application and
+        accessed as a single unit
+     v 1: divide into parts, pieces, or sections; "The Arab peninsula
+          was partitioned by the British" [syn: {partition off}]
+     2: separate or apportion into sections; "partition a room off"
+        [syn: {zone}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

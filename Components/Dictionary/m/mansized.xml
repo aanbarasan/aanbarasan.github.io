@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mansized</Word>
+  <Definitions>
+    <Definition>
+      <Word>mansized</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>man-sized \man-sized\ adj.
+   1. Calling for manly attributes; as, a man-sized job.
+      [WordNet 1.5]
+
+   2. Large enough to satisfy a man; as, a man-sized piece of
+      cake. [informal]
+      [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mansized</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>man-sized
+     adj 1: calling for manly attributes; "a man-sized job"
+     2: appropriate to the size of a man; "a man-sized piece of
+        cake"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

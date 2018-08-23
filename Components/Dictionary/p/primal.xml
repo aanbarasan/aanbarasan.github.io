@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>primal</Word>
+  <Definitions>
+    <Definition>
+      <Word>primal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Primal \Pri"mal\, a. [LL. primalis, fr. L. primus the first. See
+   {Prime}, a.]
+   First; primary; original; chief.
+   [1913 Webster]
+
+         It hath the primal eldest curse upon it. --Shak.
+   [1913 Webster]
+
+         The primal duties shine aloft like stars. --Wordsworth.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>primal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>primal
+     adj 1: serving as an essential component; "a cardinal rule"; "the
+            central cause of the problem"; "an example that was
+            fundamental to the argument"; "computers are
+            fundamental to modern industrial structure" [syn: {cardinal},
+             {central}, {fundamental}, {key}]
+     2: having existed from the beginning; in an earliest or
+        original stage or state; "aboriginal forests"; "primal
+        eras before the appearance of life on earth"; "the forest
+        primeval"; "primordial matter"; "primordial forms of life"
+        [syn: {aboriginal}, {primeval}, {primaeval}, {primordial}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

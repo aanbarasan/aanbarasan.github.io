@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rinse</Word>
+  <Definitions>
+    <Definition>
+      <Word>rinse</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rinse \Rinse\, v. t. [imp. &amp; p. p. {Rinsed}; p. pr. &amp; vb. n.
+   {Rinsing}.] [OE., fr. OF. rincer, rimser, reinser,
+   ra["i]ncier, F. rincer; of uncertain origin.]
+   1. To wash lightly; to cleanse with a second or repeated
+      application of water after washing.
+      [1913 Webster]
+
+   2. To cleancse by the introduction of water; -- applied
+      especially to hollow vessels; as, to rinse a bottle.
+      ``Like a glass did break i' the rinsing.'' --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rinse</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rinse \Rinse\, n.
+   The act of rinsing.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rinse</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rinse
+     n 1: a liquid preparation used on wet hair to give it a tint
+     2: the removal of soap with clean water in the final stage of
+        washing [syn: {rinsing}]
+     3: the act of giving a light tint to the hair
+     4: washing lightly without soap
+     v 1: wash off soap or remaining dirt [syn: {rinse off}]
+     2: clean with some chemical process [syn: {wash}]
+     3: rinse one's mouth and throat with mouthwash; "gargle with
+        this liquid" [syn: {gargle}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

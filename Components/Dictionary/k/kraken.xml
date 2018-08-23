@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>kraken</Word>
+  <Definitions>
+    <Definition>
+      <Word>kraken</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Kraken \Kra"ken\, n. [Prob. from OSw. krake, or ODan. krage the
+   trunk of a tree, the branches of which are not entirely cut
+   off, to which it was likened by the Norwegian mariners.]
+   A fabulous Scandinavian sea monster, often represented as
+   resembling an island, but sometimes as resembling an immense
+   octopus.
+   [1913 Webster]
+
+         To believe all that has been said of the sea serpent or
+         kraken, would be credulity; to reject the possibility
+         of their existence, would be presumption. --Goldsmith.
+   [1913 Webster]
+
+         Like a kraken huge and black.            --Longfellow.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

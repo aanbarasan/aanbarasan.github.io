@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nickel</Word>
+  <Definitions>
+    <Definition>
+      <Word>nickel</Word>
+      <Dictionary>
+        <Id>elements</Id>
+        <Name>Elements database 20001107</Name>
+      </Dictionary>
+      <WordDefinition>nickel
+Symbol: Ni
+Atomic number: 28
+Atomic weight: 58.71
+Malleable ductile silvery metallic transition element. Discovered by A.F.
+Cronstedt in 1751.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nickel</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Nickel \Nick"el\, n. [G., fr. Sw. nickel, abbrev. from Sw.
+   kopparnickel copper-nickel, a name given in derision, as it
+   was thought to be a base ore of copper. The origin of the
+   second part of the word is uncertain. Cf. {Kupfer-nickel},
+   {Copper-nickel}.]
+   1. (Chem.) A bright silver-white metallic element of atomic
+      number 28. It is of the iron group, and is hard,
+      malleable, and ductile. It occurs combined with sulphur in
+      millerite, with arsenic in the mineral niccolite, and with
+      arsenic and sulphur in nickel glance. Symbol Ni. Atomic
+      weight 58.70.
+      [1913 Webster]
+
+   Note: On account of its permanence in air and inertness to
+         oxidation, it is used in the smaller coins, for plating
+         iron, brass, etc., for chemical apparatus, and in
+         certain alloys, as german silver. It is magnetic, and
+         is very frequently accompanied by cobalt, both being
+         found in meteoric iron.
+         [1913 Webster]
+
+   2. A small coin made of or containing nickel; esp., a
+      five-cent piece. [Colloq. U.S.]
+      [1913 Webster]
+
+   {Nickel silver}, an alloy of nickel, copper, and zinc; --
+      usually called {german silver}; called also {argentan}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nickel</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nickel
+     n 1: a hard malleable ductile silvery metallic element that is
+          resistant to corrosion; used in alloys; occurs in
+          pentlandite and smaltite and garnierite and millerite
+          [syn: {Ni}, {atomic number 28}]
+     2: a United States coin worth one twentieth of a dollar
+     3: five dollars worth of a drug; "a nickel bag of drugs"; "a
+        nickel deck of heroin" [syn: {nickel note}]
+     v : plate with nickel; "nickel the plate"
+     [also: {nickelling}, {nickelled}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

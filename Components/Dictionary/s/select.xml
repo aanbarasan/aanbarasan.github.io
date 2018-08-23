@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>select</Word>
+  <Definitions>
+    <Definition>
+      <Word>select</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Select \Se*lect"\, a. [L. selectus, p. p. of seligere to select;
+   pref. se- aside + levere to gather. See {Legend}.]
+   Taken from a number by preferance; picked out as more
+   valuable or exellent than others; of special value or
+   exellence; nicely chosen; selected; choice.
+   [1913 Webster]
+
+         A few select spirits had separated from the crowd, and
+         formed a fit audience round a far greater teacher.
+                                                  --Macaulay.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>select</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Select \Se*lect"\, v. t. [imp. &amp; p. p. {Selected}; p. pr. &amp; vb.
+   n. {Selecting}.]
+   To choose and take from a number; to take by preference from
+   among others; to pick out; to cull; as, to select the best
+   authors for perusal. ``One peculiar nation to select.''
+   --Milton.
+   [1913 Webster]
+
+         The pious chief . . .
+         A hundred youths from all his train selects. --Dryden.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>select</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>select
+     adj 1: of superior grade; "choice wines"; "prime beef"; "prize
+            carnations"; "quality paper"; "select peaches" [syn: {choice},
+             {prime(a)}, {prize}, {quality}]
+     2: selected or chosen for special qualifications; "the
+        blue-ribbon event of the season" [syn: {blue-ribbon(a)}]
+     v : pick out, select, or choose from a number of alternatives;
+         "Take any one of these cards"; "Choose a good husband for
+         your daughter"; "She selected a pair of shoes from among
+         the dozen the salesgirl had shown her" [syn: {choose}, {take},
+          {pick out}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

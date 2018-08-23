@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>leaking</Word>
+  <Definitions>
+    <Definition>
+      <Word>leaking</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Leak \Leak\, v. i. [imp. &amp; p. p. {Leaked} (l[=e]kt); p. pr. &amp;
+   vb. n. {Leaking}.] [Akin to D. lekken, G. lecken, lechen,
+   Icel. leka, Dan. l[ae]kke, Sw. l["a]cka, AS. leccan to wet,
+   moisten. See {Leak}, n.]
+   1. To let water or other fluid in or out through a hole,
+      crevice, etc.; as, the cask leaks; the roof leaks; the
+      boat leaks.
+      [1913 Webster]
+
+   2. To enter or escape, as a fluid, through a hole, crevice,
+      etc.; to pass gradually into, or out of, something; --
+      usually with in or out.
+      [1913 Webster]
+
+   {To leak out}, to be divulged gradually or clandestinely; to
+      become public; as, the facts leaked out.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>leaking</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>leaking \leak"ing\ adj.
+   having liquid seeping in or out through openings; leaky.
+
+   Syn: leaky.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>leaking</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>leaking
+     adj : (of ships and boats) permitting leakage [syn: {leaky}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

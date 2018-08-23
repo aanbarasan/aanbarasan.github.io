@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pegleg</Word>
+  <Definitions>
+    <Definition>
+      <Word>pegleg</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pegleg
+     n : a prosthesis that replaces a missing leg [syn: {peg}, {wooden
+         leg}, {leg}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

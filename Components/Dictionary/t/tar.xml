@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tar</Word>
+  <Definitions>
+    <Definition>
+      <Word>tar</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>tar
+     
+        &lt;file format&gt; ("Tape ARchive", following {ar}) {Unix}'s
+        general purpose {archive} utility and the file format it uses.
+        Tar was originally intended for use with {magnetic tape} but,
+        though it has several {command line options} related to tape,
+        it is now used more often for packaging files together on
+        other media, e.g. for distribution via the {Internet}.
+     
+        The resulting archive, a "tar file" (humourously, "tarball")
+        is often compressed, using {gzip} or some other form of
+        compression (see {tar and feather}).
+     
+        There is a {GNU} version of tar called {gnutar} with several
+        improvements over the standard versions.
+     
+        {Filename extension}: .tar
+     
+        {MIME type}: unregistered, but commonly application/x-tar
+     
+        {Unix manual page}: tar(1).
+     
+        Compare {shar}, {zip}.
+     
+        (1998-05-02)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tar</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tar \Tar\, n. [Abbrev. from tarpaulin.]
+   A sailor; a seaman. [Colloq.] --Swift.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tar</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tar \Tar\, n. [OE. terre, tarre, AS. teru, teoru; akin to D.
+   teer, G. teer, theer, Icel. tjara, Sw. tj["a]ra, Dan.
+   ti[ae]re, and to E. tree. [root]63. See {Tree}.]
+   A thick, black, viscous liquid obtained by the distillation
+   of wood, coal, etc., and having a varied composition
+   according to the temperature and material employed in
+   obtaining it.
+   [1913 Webster]
+
+   {Coal tar}. See in the Vocabulary.
+
+   {Mineral tar} (Min.), a kind of soft native bitumen.
+
+   {Tar board}, a strong quality of millboard made from junk and
+      old tarred rope. --Knight.
+
+   {Tar water}.
+   (a) A cold infusion of tar in water, used as a medicine.
+   (b) The ammoniacal water of gas works.
+
+   {Wood tar}, tar obtained from wood. It is usually obtained by
+      the distillation of the wood of the pine, spruce, or fir,
+      and is used in varnishes, cements, and to render ropes,
+      oakum, etc., impervious to water.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tar</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tar \Tar\, v. t. [imp. &amp; p. p. {Tarred}; p. pr. &amp; vb. n.
+   {Tarring}.]
+   To smear with tar, or as with tar; as, to tar ropes; to tar
+   cloth.
+   [1913 Webster]
+
+   {To tar and feather a person}. See under {Feather}, v. t.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tar</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>TAR
+     Tape ARchiver (Unix)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tar</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tar
+     n 1: any of various dark heavy viscid substances obtained as a
+          residue [syn: {pitch}]
+     2: a man who serves as a sailor [syn: {mariner}, {seaman}, {Jack-tar},
+         {Jack}, {old salt}, {seafarer}, {gob}, {sea dog}]
+     v : coat with tar; "tar the roof";  "tar the roads"
+     [also: {tarring}, {tarred}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

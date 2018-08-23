@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>transient</Word>
+  <Definitions>
+    <Definition>
+      <Word>transient</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>transient
+     
+        1. &lt;electronics&gt; A sudden, brief increase in {current} or
+        {voltage} in a circuit that can damage sensitive components
+        and instruments.
+     
+        (2003-06-12)
+     
+        2. &lt;software&gt; A software object with a short and limited
+        lifetime which is not saved for later reuse.
+     
+        (1998-04-19)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>transient</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Transient \Tran"sient\, n.
+   That which remains but for a brief time. --Glanvill.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>transient</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Transient \Tran"sient\, a. [L. transiens, -entis, p. pr. of
+   transire, transitum, to go or pass over. See {Trance}.]
+   1. Passing before the sight or perception, or, as it were,
+      moving over or across a space or scene viewed, and then
+      disappearing; hence, of short duration; not permanent; not
+      lasting or durable; not stationary; passing; fleeting;
+      brief; transitory; as, transient pleasure. ``Measured this
+      transient world.'' --Milton.
+      [1913 Webster]
+
+   2. Hasty; momentary; imperfect; brief; as, a transient view
+      of a landscape.
+      [1913 Webster]
+
+   3. Staying for a short time; not regular or permanent; as, a
+      transient guest; transient boarders. [Colloq. U. S.]
+      [1913 Webster]
+
+   Syn: {Transient}, {Transitory}, {Fleeting}.
+
+   Usage: Transient represents a thing as brief at the best;
+          transitory, as liable at any moment to pass away.
+          Fleeting goes further, and represents it as in the act
+          of taking its flight. Life is transient; its joys are
+          transitory; its hours are fleeting.
+          [1913 Webster]
+
+                What is loose love? A transient gust. --Pope
+          [1913 Webster]
+
+                If [we love] transitory things, which soon
+                decay,
+                Age must be loveliest at the latest day.
+                                                  --Donne.
+          [1913 Webster]
+
+                O fleeting joys
+                Of Paradise, dear bought with lasting woes.
+                                                  --Milton.
+          [1913 Webster] -- {Tran"sient*ly}, adv. --
+          {Tran"sient*ness}, n.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>transient</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>transient
+     adj 1: of a mental act; causing effects outside the mind [syn: {transeunt}]
+            [ant: {immanent}]
+     2: enduring a very short time; "the ephemeral joys of
+        childhood"; "a passing fancy"; "youth's transient beauty";
+        "love is transitory but at is eternal"; "fugacious
+        blossoms" [syn: {ephemeral}, {passing}, {short-lived}, {transitory},
+         {fugacious}]
+     n 1: one who stays for only a short time; "transient laborers"
+     2: (physics) a short-lived oscillation in a system caused by a
+        sudden change of voltage or current or load
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

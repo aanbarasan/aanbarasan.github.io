@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>patrick</Word>
+  <Definitions>
+    <Definition>
+      <Word>patrick</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Patrick, SC (town, FIPS 54925)
+  Location: 34.57570 N, 80.04465 W
+  Population (1990): 368 (151 housing units)
+  Area: 2.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 29584
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>patrick</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Patrick
+     n : Apostle and patron saint of Ireland; an English missionary
+         to Ireland in the 5th century [syn: {Saint Patrick}, {St.
+         Patrick}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

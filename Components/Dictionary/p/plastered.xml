@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>plastered</Word>
+  <Definitions>
+    <Definition>
+      <Word>plastered</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Plaster \Plas"ter\, v. t. [imp. &amp; p. p. {Plastered}; p. pr. &amp;
+   vb. n. {Plastering}.] [Cf. OF. plastrer to plaster (in sense
+   2), F. pl[^a]trer.]
+   1. To cover with a plaster, as a wound or sore.
+      [1913 Webster]
+
+   2. To overlay or cover with plaster, as the ceilings and
+      walls of a house.
+      [1913 Webster]
+
+   3. Fig.: To smooth over; to cover or conceal the defects of;
+      to hide, as with a covering of plaster. --Bale.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>plastered</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>plastered
+     adj 1: (of hair) made smooth by applying a sticky or glossy
+            substance; "black hair plastered with pomade" [syn: {slicked}]
+     2: (of walls) covered with a coat of plaster [syn: {sealed}]
+     3: very drunk [syn: {besotted}, {blind drunk}, {blotto}, {crocked},
+         {cockeyed}, {fuddled}, {loaded}, {pie-eyed}, {pissed}, {pixilated},
+         {potty}, {slopped}, {sloshed}, {smashed}, {soaked}, {soused},
+         {sozzled}, {squiffy}, {stiff}, {tiddly}, {tiddley}, {tight},
+         {tipsy}, {wet}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

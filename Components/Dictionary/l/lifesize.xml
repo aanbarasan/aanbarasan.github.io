@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lifesize</Word>
+  <Definitions>
+    <Definition>
+      <Word>lifesize</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>life-size \life"-size`\, life-sized
+\life"-sized`\(l[imac]f"s[imac]z`), a.
+   Of full size; of the natural size; of the same size as an
+   original; as, a life-size sculpture; a life-size portrait of
+   the general.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lifesize</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>life-size
+     adj : being of the same size as an original; "a life-size
+           sculpture" [syn: {lifesize}, {life-sized}, {full-size}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lifesize</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>lifesize
+     adj : being of the same size as an original; "a life-size
+           sculpture" [syn: {life-size}, {life-sized}, {full-size}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

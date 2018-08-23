@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>parallax</Word>
+  <Definitions>
+    <Definition>
+      <Word>parallax</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Parallax \Par"al*lax\, n. [Gr. ? alternation, the mutual
+   inclination of two lines forming an angle, fr. ? to change a
+   little, go aside, deviate; para` beside, beyond + ? to
+   change: cf. F. parallaxe. Cf. {Parallel}.]
+   1. The apparent displacement, or difference of position, of
+      an object, as seen from two different stations, or points
+      of view.
+      [1913 Webster]
+
+   2. (Astron.) The apparent difference in position of a body
+      (as the sun, or a star) as seen from some point on the
+      earth's surface, and as seen from some other conventional
+      point, as the earth's center or the sun.
+      [1913 Webster]
+
+   3. (Astron.) The annual parallax. See {annual parallax},
+      below.
+      [PJC]
+
+   {Annual parallax}, the greatest value of the heliocentric
+      parallax, or the greatest annual apparent change of place
+      of a body as seen from the earth and sun; it is equivalent
+      to the parallax of an astronomical object which would be
+      observed by taking observations of the object at two
+      different points one astronomical unit (the distance of
+      the Earth from the sun) apart, if the line joining the two
+      observing points is perpendicular to the direction to the
+      observed object; as, the annual parallax of a fixed star.
+      The distance of an astronomical object from the Earth is
+      inversely proportional to the annual parallax. A star
+      which has an annual parallax of one second of an arc is
+      considered to be one parsec (3.26 light years) distant
+      from the earth; a star with an annual parallax of
+      one-hundredth second of an arc is 326 light years distant.
+      See {parsec} in the vocabulary, and {stellar parallax},
+      below.
+
+   {Binocular parallax}, the apparent difference in position of
+      an object as seen separately by one eye, and then by the
+      other, the head remaining unmoved.
+
+   {Diurnal parallax} or {Geocentric parallax}, the parallax of
+      a body with reference to the earth's center. This is the
+      kind of parallax that is generally understood when the
+      term is used without qualification.
+
+   {Heliocentric parallax}, the parallax of a body with
+      reference to the sun, or the angle subtended at the body
+      by lines drawn from it to the earth and sun; as, the
+      heliocentric parallax of a planet.
+
+   {Horizontal parallax}, the geocentric parallx of a heavenly
+      body when in the horizon, or the angle subtended at the
+      body by the earth's radius.
+
+   {Optical parallax}, the apparent displacement in position
+      undergone by an object when viewed by either eye singly.
+      --Brande &amp; C.
+
+   {Parallax of the cross wires} (of an optical instrument),
+      their apparent displacement when the eye changes its
+      position, caused by their not being exactly in the focus
+      of the object glass.
+
+   {Stellar parallax}, the annual parallax of a fixed star.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>parallax</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>parallax
+     n : the apparent displacement of an object as seen from two
+         different points that are not on a line with the object
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

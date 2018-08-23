@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>journal</Word>
+  <Definitions>
+    <Definition>
+      <Word>journal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Journal \Jour"nal\, a. [F., fr. L. diurnalis diurnal, fr.
+   diurnus belonging to the day, fr. dies day. See {Diurnal}.]
+   Daily; diurnal. [Obs.]
+   [1913 Webster]
+
+         Whiles from their journal labors they did rest.
+                                                  --Spenser.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>journal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Journal \Jour"nal\, n. [F. journal. See {Journal}, a.]
+   [1913 Webster]
+   1. A diary; an account of daily transactions and events.
+      Specifically:
+      (a) (Bookkeeping) A book of accounts, in which is entered
+          a condensed and grouped statement of the daily
+          transactions.
+      (b) (Naut.) A daily register of the ship's course and
+          distance, the winds, weather, incidents of the voyage,
+          etc.
+      (c) (Legislature) The record of daily proceedings, kept by
+          the clerk.
+      (d) A newspaper published daily; by extension, a weekly
+          newspaper or any periodical publication, giving an
+          account of passing events, the proceedings and memoirs
+          of societies, etc.; a periodical; a magazine.
+          [1913 Webster]
+
+   2. That which has occurred in a day; a day's work or travel;
+      a day's journey. [Obs. &amp; R.] --B. Jonson.
+      [1913 Webster]
+
+   3. (Mach.) That portion of a rotating piece, as a shaft,
+      axle, spindle, etc., which turns in a bearing or box. See
+      Illust. of {Axle box}.
+      [1913 Webster]
+
+   {Journal box}, or {Journal bearing} (Mach.) the carrier of a
+      journal; the box in which the journal of a shaft, axle, or
+      pin turns.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>journal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>journal
+     n 1: a daily written record of (usually personal) experiences and
+          observations [syn: {diary}]
+     2: a periodical dedicated to a particular subject; "he reads
+        the medical journals"
+     3: a ledger in which transactions have been recorded as they
+        occurred [syn: {daybook}]
+     4: a record book as a physical object
+     5: the part of the axle contained by a bearing
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

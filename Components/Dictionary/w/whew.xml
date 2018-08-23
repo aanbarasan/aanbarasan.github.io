@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>whew</Word>
+  <Definitions>
+    <Definition>
+      <Word>whew</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Whew \Whew\ (hw[=u]), n. &amp; interj.
+   A sound like a half-formed whistle, expressing astonishment,
+   scorn, or dislike.
+   [1913 Webster]
+
+   {Whew duck}, the European widgeon. [Prov. Eng.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>whew</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Whew \Whew\, v. i.
+   To whistle with a shrill pipe, like a plover. [Prov. Eng. &amp;
+   Scot.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

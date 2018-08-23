@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>meteor</Word>
+  <Definitions>
+    <Definition>
+      <Word>meteor</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>METEOR
+     
+        A version of COMIT with Lisp-like syntax, written in MIT Lisp
+        1.5 for the IBM 7090.  "METEOR - A List Interpreter for String
+        Transformation", D.G. Bobrow in The Programming Language LISP
+        and its Interpretation, E.D.  and D.G. Bobrow eds, 1964.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>meteor</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Meteor \Me"te*or\, n. [F. m['e]t['e]ore, Gr. ?, pl. ? things in
+   the air, fr. ? high in air, raised off the ground; ? beyond +
+   ?, ?, a suspension or hovering in the air, fr. ? to lift,
+   raise up.]
+   [1913 Webster]
+   1. Any phenomenon or appearance in the atmosphere, as clouds,
+      rain, hail, snow, etc.
+      [1913 Webster]
+
+            Hail, an ordinary meteor.             --Bp. Hall.
+      [1913 Webster]
+
+   2. Specif.: A transient luminous body or appearance seen in
+      the atmosphere, or in a more elevated region.
+      [1913 Webster]
+
+            The vaulty top of heaven
+            Figured quite o'er with burning meteors. --Shak.
+      [1913 Webster]
+
+   3. A mass of stone or other substance which sometimes falls
+      to the earth from space beyond the moon, burning up from
+      atomospheric friction and creating a brilliant but usually
+      very brief trail of light in the atmosphere; also called a
+      {shooting star}.
+      [PJC]
+
+   Note: The term is especially applied to fireballs, and the
+         masses of stone or other substances which sometimes
+         fall to the earth; also to shooting stars and to ignes
+         fatui. Meteors are often classed as: aerial meteors,
+         winds, tornadoes, etc.; aqueous meteors, rain, hail,
+         snow, dew, etc.; luminous meteors, rainbows, halos,
+         etc.; and igneous meteors, lightning, shooting stars,
+         and the like.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>meteor</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>meteor
+     n 1: a streak of light in the sky at night that results when a
+          meteoroid hits the earth's atmosphere and air friction
+          causes the meteoroid to melt or vaporize or explode
+          [syn: {shooting star}]
+     2: (astronomy) any of the small solid extraterrestrial bodies
+        that hits the earth's atmosphere [syn: {meteoroid}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

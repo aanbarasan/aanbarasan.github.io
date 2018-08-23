@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>integrate</Word>
+  <Definitions>
+    <Definition>
+      <Word>integrate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Integrate \In"te*grate\, v. t. [imp. &amp; p. p. {Integrated}; p.
+   pr. &amp; vb. n. {Integrating}.] [L. integratus, p. p. of
+   integrare to make whole, renew: cf. F. int['e]grer. See
+   {Integer}, {Entire}.]
+   [1913 Webster]
+   1. To form into one whole; to make entire; to complete; to
+      renew; to restore; to perfect. ``That conquest rounded and
+      integrated the glorious empire.'' --De Quincey.
+      [1913 Webster]
+
+            Two distinct substances, the soul and body, go to
+            compound and integrate the man.       --South.
+      [1913 Webster]
+
+   2. To indicate the whole of; to give the sum or total of; as,
+      an integrating anemometer, one that indicates or registers
+      the entire action of the wind in a given time.
+      [1913 Webster]
+
+   3. (Math.) To subject to the operation of integration; to
+      find the integral of.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>integrate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>integrate
+     v 1: make into a whole or make part of a whole; "She incorporated
+          his suggestions into her proposal" [syn: {incorporate}]
+          [ant: {disintegrate}]
+     2: open (a place) to members of all races and ethnic groups;
+        "This school is completely desegregated" [syn: {desegregate},
+         {mix}] [ant: {segregate}]
+     3: become one; become integrated; "The students at this school
+        integrate immediately, despite their different
+        backgrounds"
+     4: calculate the integral of; calculate by integration [ant: {differentiate}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

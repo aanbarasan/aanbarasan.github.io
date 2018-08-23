@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lanthanum</Word>
+  <Definitions>
+    <Definition>
+      <Word>lanthanum</Word>
+      <Dictionary>
+        <Id>elements</Id>
+        <Name>Elements database 20001107</Name>
+      </Dictionary>
+      <WordDefinition>lanthanum
+Symbol: La
+Atomic number: 57
+Atomic weight: 138.9055
+(From the Greek word lanthanein, to line hidden) Silvery metallic element
+belonging to group 3 of the periodic table and oft considered to be one of
+the lanthanoids. Found in some rare-earth minerals. Twenty-five natural
+isotopes exist. La-139 which is stable, and La-138 which has a half-life
+of 10^10 to 10^15 years. The other twenty-three isotopes are radioactive.
+It resembles the lanthanoids chemically. Lanthanum has a low to moderate
+level of toxicity, and should be handled with care. Discovered in 1839 by
+C.G. Mosander.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lanthanum</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lanthanum \Lan"tha*num\ (l[a^]n"th[.a]*n[u^]m), n. [NL., fr. Gr.
+   lanqa`nein to lie hid, to be concealed.] (Chem.)
+   A rare element of the rare earth group of the metals, of
+   atomic number 57, allied to aluminum. It occurs in certain
+   rare minerals, as cerite, gadolinite, orthite, etc., and was
+   so named from the difficulty of separating it from cerium,
+   didymium, and other rare earth elements with which it is
+   usually associated. Atomic weight 138.9. Symbol La. [Formerly
+   written also {lanthanium}.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lanthanum</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>lanthanum
+     n : a white soft metallic element that tarnishes readily; occurs
+         in rare earth minerals and is usually classified as a
+         rare earth [syn: {La}, {atomic number 57}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

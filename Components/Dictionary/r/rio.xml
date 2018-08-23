@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rio</Word>
+  <Definitions>
+    <Definition>
+      <Word>rio</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Rio, FL (CDP, FIPS 60550)
+  Location: 27.21546 N, 80.24271 W
+  Population (1990): 1054 (625 housing units)
+  Area: 1.0 sq km (land), 1.3 sq km (water)
+Rio, IL (village, FIPS 64148)
+  Location: 41.10866 N, 90.39896 W
+  Population (1990): 260 (98 housing units)
+  Area: 0.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 61472
+Rio, VA (CDP, FIPS 67288)
+  Location: 38.07615 N, 78.46129 W
+  Population (1990): 5133 (2222 housing units)
+  Area: 13.6 sq km (land), 0.1 sq km (water)
+Rio, WI (village, FIPS 68100)
+  Location: 43.45027 N, 89.23765 W
+  Population (1990): 768 (336 housing units)
+  Area: 2.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 53960
+Rio, WV
+  Zip code(s): 26755
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rio</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>RIO
+     Redistributed Internet Objects (S3, VRML, Internet)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rio</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Rio
+     n : the former capital and 2nd largest city of Brazil; chief
+         Brazilian port; famous as a tourist attraction [syn: {Rio
+         de Janeiro}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

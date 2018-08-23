@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>knox</Word>
+  <Definitions>
+    <Definition>
+      <Word>knox</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Knox, IN (city, FIPS 40374)
+  Location: 41.29191 N, 86.62134 W
+  Population (1990): 3705 (1520 housing units)
+  Area: 8.7 sq km (land), 0.0 sq km (water)
+Knox, ND (city, FIPS 43260)
+  Location: 48.34269 N, 99.68929 W
+  Population (1990): 45 (25 housing units)
+  Area: 1.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 58343
+Knox, PA (borough, FIPS 40272)
+  Location: 41.23477 N, 79.53570 W
+  Population (1990): 1182 (538 housing units)
+  Area: 1.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 16232
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>knox</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Knox
+     n : Scottish theologian who founded Presbyterianism in Scotland
+         and wrote a history of the Reformation in Scotland
+         (1514-1572) [syn: {John Knox}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

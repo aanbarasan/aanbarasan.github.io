@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>urology</Word>
+  <Definitions>
+    <Definition>
+      <Word>urology</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Urology \U*rol"o*gy\, n. [1st uro- + -logy.] (Med.)
+   See {Uronology}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>urology</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>urology
+     n : the branch of medicine that deals with the diagnosis and
+         treatment of disorders of the urinary tract or urogenital
+         system [syn: {urogenital medicine}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

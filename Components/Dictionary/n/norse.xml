@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>norse</Word>
+  <Definitions>
+    <Definition>
+      <Word>norse</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Norse \Norse\ (n[^o]rs), prop. a. [Dan. Norsk, fr. nord north.
+   See {North}.]
+   Of or pertaining to ancient Scandinavia, or to the language
+   spoken by its inhabitants.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>norse</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Norse \Norse\, prop. n.
+   The Norse language.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>norse</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Norse
+     adj 1: of or relating to Scandinavia or its peoples or cultures;
+            "Norse sagas"; "Norse nomads" [syn: {Scandinavian}]
+     2: of or relating to Norway or its people or culture or
+        language; "Norwegian herring" [syn: {Norwegian}]
+     n 1: an inhabitant of Scandinavia [syn: {Scandinavian}, {Northman}]
+     2: a native or inhabitant of Norway [syn: {Norwegian}, {Norseman}]
+     3: the northern family of Germanic languages that are spoken in
+        Scandinavia and Iceland [syn: {Scandinavian}, {Scandinavian
+        language}, {Nordic}, {North Germanic}, {North Germanic
+        language}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

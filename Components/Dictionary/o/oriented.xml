@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>oriented</Word>
+  <Definitions>
+    <Definition>
+      <Word>oriented</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>orientated \orientated\ oriented \oriented\adj.
+   1. Adjusted or aligned to surroundings or circumstances;
+      sometimes used in combination; as, to get oriented on
+      one's first day at a new job.
+      [WordNet 1.5]
+
+   2. headed or intending to head in a certain direction; as,
+      college-oriented students. Opposite of {unoriented}.
+
+   Syn: directed, minded.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>oriented</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>oriented
+     adj : adjusted or located in relation to surroundings or
+           circumstances; sometimes used in combination; "the
+           house had its large windows oriented toward the ocean
+           view"; "helping freshmen become oriented to college
+           life"; "the book is value-oriented throughout" [syn: {orientated}]
+           [ant: {unoriented}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

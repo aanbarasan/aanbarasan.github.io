@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>xavier</Word>
+  <Definitions>
+    <Definition>
+      <Word>xavier</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Xavier
+     n : Spanish missionary and Jesuit who establish missionaries in
+         Japan and Ceylon and the East Indies (1506-1552) [syn: {Saint
+         Francis Xavier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

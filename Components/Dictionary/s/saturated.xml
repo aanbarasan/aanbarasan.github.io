@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>saturated</Word>
+  <Definitions>
+    <Definition>
+      <Word>saturated</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Saturate \Sat"u*rate\, v. t. [imp. &amp; p. p. {Saturated}; p. pr. &amp;
+   vb. n. {Saturating}.] [L. saturatus, p. p. of saturare to
+   saturate, fr. satur full of food, sated. See {Satire}.]
+   1. To cause to become completely penetrated, impregnated, or
+      soaked; to fill fully; to sate.
+      [1913 Webster]
+
+            Innumerable flocks and herds covered that vast
+            expanse of emerald meadow saturated with the
+            moisture of the Atlantic.             --Macaulay.
+      [1913 Webster]
+
+            Fill and saturate each kind
+            With good according to its mind.      --Emerson.
+      [1913 Webster]
+
+   2. (Chem.) To satisfy the affinity of; to cause to become
+      inert by chemical combination with all that it can hold;
+      as, to saturate phosphorus with chlorine.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>saturated</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Saturated \Sat"u*ra`ted\, a.
+   1. Filled to repletion; holding by absorption, or in
+      solution, all that is possible; as, saturated garments; a
+      saturated solution of salt.
+      [1913 Webster]
+
+   2. (Chem.) Having its affinity satisfied; combined with all
+      it can hold; -- said of certain atoms, radicals, or
+      compounds; thus, methane is a saturated compound.
+      Contrasted with {unsaturated}.
+      [1913 Webster]
+
+   Note: A saturated compound may exchange certain ingredients
+         for others, but can not take on more without such
+         exchange.
+         [1913 Webster]
+
+   {Saturated color} (Optics), a color not diluted with white; a
+      pure unmixed color, like those of the spectrum.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>saturated</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>saturated
+     adj 1: being the most concentrated solution possible at a given
+            temperature; unable to dissolve still more of a
+            substance; "a saturated solution" [syn: {concentrated}]
+            [ant: {unsaturated}]
+     2: wet through and through; thoroughly wet; "stood at the door
+        drenched (or soaked) by the rain"; "a shirt saturated with
+        perspiration"; "his shoes were sopping (or soaking)"; "the
+        speaker's sodden collar"; "soppy clothes" [syn: {drenched},
+         {soaked}, {soaking}, {sodden}, {sopping}, {soppy}]
+     3: used especially of organic compounds; having all available
+        valence bonds filled; "saturated fats" [ant: {unsaturated}]
+     4: (of color) being chromatically pure; not diluted with white
+        or gray or black [syn: {pure}] [ant: {unsaturated}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

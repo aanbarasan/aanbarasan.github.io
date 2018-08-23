@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ultraviolet</Word>
+  <Definitions>
+    <Definition>
+      <Word>ultraviolet</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ultraviolet \Ul`tra*vi"o*let\, a. [Pref. ultra- + violet.]
+   (Physics)
+   Lying outside the visible spectrum at its blue-violet end; --
+   said of light more refrangible (i. e. having a shorter
+   wavelength) than the extreme violet rays of the visible
+   spectrum. Electromagnetic radiation with wavelengths shorter
+   than those of ultrviolet light are not usually considered as
+   light waves, but are classified differently. The ultraviolet
+   region of the electromagnetic spectrum is generally
+   considered as comprising those electromagnetic emissions with
+   wavelengths lying between those of visible light and those of
+   X-rays, i. e. between 4000 Angstroms and 100 Angstroms.
+   [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ultraviolet</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ultraviolet
+     adj : having or employing wavelengths shorter than light but
+           longer than X-rays; lying outside the visible spectrum
+           at its violet end; "ultraviolet radiation"; "an
+           ultraviolet lamp"
+     n : radiation lying in the ultraviolet range; wave lengths
+         shorter than light but longer than X rays [syn: {ultraviolet
+         radiation}, {ultraviolet light}, {ultraviolet
+         illumination}, {UV}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

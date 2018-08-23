@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>iris</Word>
+  <Definitions>
+    <Definition>
+      <Word>iris</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>IRIS
+     
+        &lt;body&gt; Institute for Research in Information and Scholarship
+        of Brown University (Providence RI).
+     
+        (1994-11-04)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>iris</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Iris
+     
+        An {object-oriented} {DBMS}.
+     
+        (1994-11-04)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>iris</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Iris \I"ris\, n.; pl. E. {Irises}, L. {Irides}. [L. iris,
+   iridis, the goddess, Gr. ?, ?, the rainbow, iris of the eye,
+   the plant Iris. Cf. {Orris}.]
+   1. (Class. Myth.) The goddess of the rainbow, and
+      swift-footed messenger of the gods. --Shak.
+      [1913 Webster]
+
+   2. The rainbow. --Sir T. Browne.
+      [1913 Webster]
+
+   3. An appearance resembling the rainbow; a prismatic play of
+      colors. --Tennyson.
+      [1913 Webster]
+
+   4. (Anat.) The contractile membrane perforated by the pupil,
+      and forming the colored portion of the eye. See {Eye}.
+      [1913 Webster]
+
+   5. (Bot.) A genus of plants having showy flowers and bulbous
+      or tuberous roots, of which the flower-de-luce
+      (fleur-de-lis), orris, and other species of flag are
+      examples. See Illust. of {Flower-de-luce}.
+      [1913 Webster]
+
+   6. (Her.) See {Fleur-de-lis}, 2.
+      [1913 Webster]
+
+   7. (Zo["o]l.) the inner circle of an oscillated color spot.
+      [Webster 1913 Suppl.]
+
+   8. same as {iris diaphragm}.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>iris</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>IRIS
+     Institute for Robotics and Intelligent Systems (org., Canada)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>iris</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>iris
+     n 1: plants with sword-shaped leaves and erect stalks bearing
+          bright-colored flowers composed of three petals and
+          three drooping sepals [syn: {flag}, {fleur-de-lis}, {sword
+          lily}]
+     2: muscular diaphragm that controls the size of the pupil; it
+        forms the colored portion of the eye
+     3: diaphragm consisting of thin overlapping plates that can be
+        adjusted to change the diameter of a central opening [syn:
+         {iris diaphragm}]
+     [also: {irides} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

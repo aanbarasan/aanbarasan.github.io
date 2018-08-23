@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tux</Word>
+  <Definitions>
+    <Definition>
+      <Word>tux</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tux \Tux\
+   Shortened form of {tuxedo}. [informal]
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tux</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>Tux Tux the Penguin is the official emblem of {Linux}, This eventuated
+   after a logo contest in 1996, during which Linus Torvalds endorsed the
+   idea of a penguin logo in a couple of famously funny postings
+   (http://www.woodsoup.org/~sbaker/tux/doc/). Linus explained that he was
+   once bitten by a killer penguin in Australia and has felt a special
+   affinity for the species ever since. (Linus has since admitted that he
+   was also thinking of Feathers McGraw, the evil-genius penguin jewel
+   thief who appeared in a Wallace &amp; Grommit feature cartoon, "The Wrong
+   Trousers".)
+
+   Larry Ewing designed (http://www.isc.tamu.edu/~lewing/linux/) the
+   official Tux logo. It has proved a wise choice, amenable to hundreds of
+   recognizable variations used as emblems of Linux-related projects,
+   products, and user groups. In fact, Tux has spawned an entire mythology,
+   of which the Gospel According to Tux
+   (http://www.ao.com/~regan/penguins/tux.html) and the mock-epic poem
+   "Tuxowolf" are among the best-known examples.
+
+   There is a `real' Tux - a black-footed penguin resident at the Bristol
+   Zoo. Several friends of Linux bought a zoo sponsorship for Linus as a
+   birthday present in 1996.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tux</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tux
+     n : semiformal evening dress for men [syn: {dinner jacket}, {tuxedo},
+          {black tie}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>whiskers</Word>
+  <Definitions>
+    <Definition>
+      <Word>whiskers</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>whiskers
+     n : the hair growing on the lower part of a man's face [syn: {beard},
+          {face fungus}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

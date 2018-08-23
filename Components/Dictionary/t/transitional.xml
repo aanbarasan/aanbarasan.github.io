@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>transitional</Word>
+  <Definitions>
+    <Definition>
+      <Word>transitional</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Transitional \Tran*si"tion*al\, a.
+   Of or pertaining to transition; involving or denoting
+   transition; as, transitional changes; transitional stage.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>transitional</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>transitional
+     adj : of or relating to or characterized by transition;
+           "adolescence is a transitional stage between childhood
+           and adulthood"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>redwood</Word>
+  <Definitions>
+    <Definition>
+      <Word>redwood</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Redwood, MS
+  Zip code(s): 39156
+Redwood, NY
+  Zip code(s): 13679
+Redwood, OR (CDP, FIPS 61250)
+  Location: 42.42220 N, 123.38614 W
+  Population (1990): 3702 (1643 housing units)
+  Area: 12.8 sq km (land), 0.2 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>redwood</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Redwood \Red"wood`\ (-w[oo^]d`), n. (Bot.)
+   (a) A gigantic coniferous tree ({Sequoia sempervirens}) of
+       California, and its light and durable reddish timber. See
+       {Sequoia}.
+   (b) An East Indian dyewood, obtained from {Pterocarpus
+       santalinus}, {C[ae]salpinia Sappan}, and several other
+       trees.
+       [1913 Webster]
+
+   Note: The redwood of Andaman is {Pterocarpus dalbergioides};
+         that of some parts of tropical America, several species
+         of {Erythoxylum}; that of Brazil, the species of
+         {Humirium}.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>redwood</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>redwood
+     n 1: the soft reddish wood of either of two species of sequoia
+          trees
+     2: either of two huge coniferous California trees that reach a
+        height of 300 feet; sometimes placed in the Taxodiaceae
+        [syn: {sequoia}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

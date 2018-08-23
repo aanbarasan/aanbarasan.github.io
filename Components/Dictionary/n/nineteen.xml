@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nineteen</Word>
+  <Definitions>
+    <Definition>
+      <Word>nineteen</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Nineteen \Nine"teen`\, a. [AS. nigont[=y]ne, nigont[=e]ne. See
+   {Nine}, and {Ten}.]
+   Nine and ten; eighteen and one more; one less than twenty;
+   as, nineteen months.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nineteen</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Nineteen \Nine"teen`\, n.
+   1. The number greater than eighteen by a unit; the sum of ten
+      and nine; nineteen units or objects.
+      [1913 Webster]
+
+   2. A symbol for nineteen units, as 19 or xix.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nineteen</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nineteen
+     adj : being one more than eighteen [syn: {19}, {xix}]
+     n : the cardinal number that is the sum of eighteen and one
+         [syn: {19}, {XIX}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

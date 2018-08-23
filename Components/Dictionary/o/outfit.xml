@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>outfit</Word>
+  <Definitions>
+    <Definition>
+      <Word>outfit</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Outfit \Out"fit\, n.
+   1. A fitting out, or equipment, as of a ship for a voyage, or
+      of a person for an expedition in an unoccupied region or
+      residence in a foreign land; the expense of, or allowance
+      made for, equipment, as by the government of the United
+      States to a diplomatic agent going abroad.
+      [1913 Webster]
+
+   2. Hence: Any assemblage of objects required for or used in
+      performing a task; things required as equipment for a
+      task.
+      [PJC]
+
+   3. A complete ensemble of clothing, selected to form a
+      matching set; a coordinated costume; as, a new Easter
+      outfit.
+      [PJC]
+
+   4. A business enterprise; as, what outfit do you work for?.
+      [informal]
+      [PJC]
+
+   5. Any team or party of people.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>outfit</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>outfit
+     n 1: any cohesive unit such as a military company
+     2: a set of clothing (with accessories); "his getup was
+        exceedingly elegant" [syn: {getup}, {rig}, {turnout}]
+     3: gear consisting of a set of articles or tools for a
+        specified purpose [syn: {kit}]
+     v : provide with (something) usually for a specific purpose;
+         "The expedition was equipped with proper clothing, food,
+         and other necessities" [syn: {equip}, {fit}, {fit out}]
+     [also: {outfitting}, {outfitted}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

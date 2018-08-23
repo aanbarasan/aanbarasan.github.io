@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>larceny</Word>
+  <Definitions>
+    <Definition>
+      <Word>larceny</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Larceny \Lar"ce*ny\, n.; pl. {Larcenies}. [F. larcin, OE.
+   larrecin, L. latrocinium, fr. latro robber, mercenary, hired
+   servant; cf. Gr. (?) hired servant. Cf. {Latrociny}.] (Law)
+   The unlawful taking and carrying away of things personal with
+   intent to deprive the right owner of the same; theft. Cf.
+   {Embezzlement}.
+   [1913 Webster]
+
+   {Grand larceny} &amp; {Petit larceny are} distinctions having
+      reference to the nature or value of the property stolen.
+      They are abolished in England.
+
+   {Mixed larceny}, or {Compound larceny}, that which, under
+      statute, includes in it the aggravation of a taking from a
+      building or the person.
+
+   {Simple larceny}, that which is not accompanied with any
+      aggravating circumstances.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>larceny</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>larceny
+     n : the act of taking something from someone unlawfully; "the
+         thieving is awful at Kennedy International" [syn: {theft},
+          {thievery}, {thieving}, {stealing}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

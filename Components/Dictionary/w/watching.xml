@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>watching</Word>
+  <Definitions>
+    <Definition>
+      <Word>watching</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Watch \Watch\, v. t. [imp. &amp; p. p. {Watched}; p. pr. &amp; vb. n.
+   {Watching}.]
+   [1913 Webster]
+   1. To give heed to; to observe the actions or motions of, for
+      any purpose; to keep in view; not to lose from sight and
+      observation; as, to watch the progress of a bill in the
+      legislature.
+      [1913 Webster]
+
+            Saul also sent messengers unto David's house to
+            watch him, and to slay him.           --1 Sam. xix.
+                                                  11
+      [1913 Webster]
+
+            I must cool a little, and watch my opportunity.
+                                                  --Landor.
+      [1913 Webster]
+
+            In lazy mood I watched the little circles die.
+                                                  --Longfellow.
+      [1913 Webster]
+
+   2. To tend; to guard; to have in keeping.
+      [1913 Webster]
+
+            And flaming ministers, to watch and tend
+            Their earthy charge.                  --Milton.
+      [1913 Webster]
+
+            Paris watched the flocks in the groves of Ida.
+                                                  --Broome.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>watching</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>watching
+     n : the act of observing; taking a patient look [syn: {observation},
+          {observance}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

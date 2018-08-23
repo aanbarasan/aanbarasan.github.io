@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>locking</Word>
+  <Definitions>
+    <Definition>
+      <Word>locking</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lock \Lock\, v. t. [imp. &amp; p. p. {Locked}; p. pr. &amp; vb. n.
+   {Locking}.]
+   1. To fasten with a lock, or as with a lock; to make fast; to
+      prevent free movement of; as, to lock a door, a carriage
+      wheel, a river, etc.
+      [1913 Webster]
+
+   2. To prevent ingress or access to, or exit from, by
+      fastening the lock or locks of; -- often with up; as, to
+      lock or lock up, a house, jail, room, trunk. etc.
+      [1913 Webster]
+
+   3. To fasten in or out, or to make secure by means of, or as
+      with, locks; to confine, or to shut in or out -- often
+      with up; as, to lock one's self in a room; to lock up the
+      prisoners; to lock up one's silver; to lock intruders out
+      of the house; to lock money into a vault; to lock a child
+      in one's arms; to lock a secret in one's breast.
+      [1913 Webster]
+
+   4. To link together; to clasp closely; as, to lock arms. ``
+      Lock hand in hand.'' --Shak.
+      [1913 Webster]
+
+   5. (Canals) To furnish with locks; also, to raise or lower (a
+      boat) in a lock.
+      [1913 Webster]
+
+   6. (Fencing) To seize, as the sword arm of an antagonist, by
+      turning the left arm around it, to disarm him.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>locking</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>locking
+     n : the act of locking something up to protect it [syn: {lockup}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lowlying</Word>
+  <Definitions>
+    <Definition>
+      <Word>lowlying</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>low-lying \low-lying\ adj.
+   1. having a small elevation above the ground or horizon or
+      sea level; as, low-lying clouds.
+      [WordNet 1.5]
+
+   2. at a low elevation above sea level.
+
+   Syn: sea-level.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lowlying</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>low-lying
+     adj 1: having a small elevation above the ground or horizon or sea
+            level; "low-lying clouds"
+     2: lying below the normal level; "a low-lying desert" [syn: {sea-level}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

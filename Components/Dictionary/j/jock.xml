@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>jock</Word>
+  <Definitions>
+    <Definition>
+      <Word>jock</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>jock
+     
+        1. A programmer who is characterised by large and somewhat
+        {brute-force} programs.
+     
+        2. When modified by another noun, describes a specialist in
+        some particular computing area.  The compounds "compiler jock"
+        and "systems jock" seem to be the best-established examples.
+     
+        [{Jargon File}]
+     
+        (1995-01-19)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>jock</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>jockstrap \jock"strap`\ (j[o^]k"str[a^]p), n.
+   1. A supporting undergarment for the external genitals worn
+      by men engaging in vigorous athletic sports or strenuous
+      exercise; called also {athletic supporter} and {jock}.
+
+   Syn: athletic supporter.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>jock</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>jock \jock\ n.
+   1. a person trained to compete in sports; an athlete.
+      [WordNet sense 1]
+
+   Syn: athlete.
+        [WordNet 1.5]
+
+   2. A jockstrap.
+      [PJC]
+
+   3. A {disk jockey}.
+      [PJC]
+
+   {shock jock} a radio talk-show host who is notorious for
+      voicing unpopular, controversial, or shocking opinions
+      guaranteed to offend many people.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>jock</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>jock n. 1. A programmer who is characterized by large and somewhat
+   brute-force programs. See {brute force}. 2. When modified by another
+   noun, describes a specialist in some particular computing area. The
+   compounds `compiler jock' and `systems jock' seem to be the
+   best-established examples.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>jock</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>jock
+     n 1: a person trained to compete in sports [syn: {athlete}]
+     2: a support for the genitals worn by men engaging in strenuous
+        exercise [syn: {athletic supporter}, {supporter}, {suspensor},
+         {jockstrap}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

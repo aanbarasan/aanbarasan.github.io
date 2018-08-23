@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>router</Word>
+  <Definitions>
+    <Definition>
+      <Word>router</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>router
+     
+        &lt;networking&gt; /roo't*/ A device which forwards {packets}
+        between {networks}.  The forwarding decision is based on
+        {network layer} information and routing tables, often
+        constructed by routing {protocols}.
+     
+        {Unix manual page}: route(8).
+     
+        See also {bridge}, {gateway}, {Exterior Gateway Protocol},
+        {Interior Gateway Protocol}, {flapping router}.
+     
+        (1999-08-24)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>router</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Router \Rout"er\, n.
+   1. (Carp.)
+      (a) A plane made like a spokeshave, for working the inside
+          edges of circular sashes.
+      (b) A plane with a hooked tool protruding far below the
+          sole, for smoothing the bottom of a cavity.
+          [1913 Webster]
+
+   2. (Mach.) A machine with a rapidly revolving vertical
+      spindle and cutter for scooping out the surface of wood or
+      metal, as between and around the engraved parts of an
+      electrotype.
+      [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>router</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>router
+     n 1: a worker who routes shipments for distribution and delivery
+     2: (computer science) a device that forwards data packets
+        between computer networks
+     3: a power tool with a shaped cutter; used in carpentry for
+        cutting grooves
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>visa</Word>
+  <Definitions>
+    <Definition>
+      <Word>visa</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Visa \Vi"sa\, n. [F.]
+   See {Vis?}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>visa</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Visa \Vi"sa\, v. t. [imp. &amp; p. p. {Visaed}; p. pr. &amp; vb. n.
+   {Visaing}.]
+   To indorse, after examination, with the word vis['e], as a
+   passport; to vis['e].
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>visa</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>visa
+     n : an endorsement made in a passport that allows the bearer to
+         enter the country issuing it
+     v 1: provide (a passport) with a visa
+     2: approve officially; "The list of speakers must be visaed"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

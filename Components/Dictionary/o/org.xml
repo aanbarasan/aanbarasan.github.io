@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>org</Word>
+  <Definitions>
+    <Definition>
+      <Word>org</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>org
+     
+        &lt;networking&gt; The {top-level domain} for organisations or
+        individuals that don't fit any other top-level domain
+        (national, com, edu, or gov).  Though many have .org domains,
+        it was never intended to be limited to non-profit
+        organisations.
+     
+        {RFC 1591}.
+     
+        (2001-05-14)
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

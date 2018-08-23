@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>valid</Word>
+  <Definitions>
+    <Definition>
+      <Word>valid</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Valid
+     
+        A {dataflow} language.
+     
+        ["A List-Processing-Oriented Data Flow Machine Architecture",
+        Makoto Amamiya et al, AFIPS NCC, June 1982, pp. 143-151].
+     
+        (1995-02-14)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>valid</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Valid \Val"id\, a. [F. valide, F. validus strong, from valere to
+   be strong. See {Valiant}.]
+   [1913 Webster]
+   1. Strong; powerful; efficient. [Obs.] ``Perhaps more valid
+      arms . . . may serve to better us.'' --Milton.
+      [1913 Webster]
+
+   2. Having sufficient strength or force; founded in truth;
+      capable of being justified, defended, or supported; not
+      weak or defective; sound; good; efficacious; as, a valid
+      argument; a valid objection.
+      [1913 Webster]
+
+            An answer that is open to no valid exception. --I.
+                                                  Taylor.
+      [1913 Webster]
+
+   3. (Law) Having legal strength or force; executed with the
+      proper formalities; incapable of being rightfully
+      overthrown or set aside; as, a valid deed; a valid
+      covenant; a valid instrument of any kind; a valid claim or
+      title; a valid marriage.
+      [1913 Webster]
+
+   Syn: Prevalent; available; efficacious; just; good; weighty;
+        sufficient; sound; well-grounded.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>valid</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>valid
+     adj 1: well grounded in logic or truth or having legal force; "a
+            valid inference"; "a valid argument"; "a valid
+            contract"; "a valid license" [ant: {invalid}]
+     2: still legally acceptable; "the license is still valid"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

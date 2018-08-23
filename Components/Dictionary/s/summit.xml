@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>summit</Word>
+  <Definitions>
+    <Definition>
+      <Word>summit</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Summit, AR (city, FIPS 67940)
+  Location: 36.25014 N, 92.68743 W
+  Population (1990): 480 (235 housing units)
+  Area: 3.2 sq km (land), 0.0 sq km (water)
+Summit, IL (village, FIPS 73638)
+  Location: 41.78477 N, 87.81620 W
+  Population (1990): 9971 (3514 housing units)
+  Area: 5.5 sq km (land), 0.4 sq km (water)
+Summit, MS (town, FIPS 71480)
+  Location: 31.28466 N, 90.46615 W
+  Population (1990): 1566 (661 housing units)
+  Area: 4.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 39666
+Summit, NJ (city, FIPS 71430)
+  Location: 40.71493 N, 74.36540 W
+  Population (1990): 19757 (8003 housing units)
+  Area: 15.7 sq km (land), 0.1 sq km (water)
+  Zip code(s): 07901
+Summit, NY
+  Zip code(s): 12175
+Summit, OK (town, FIPS 71450)
+  Location: 35.66890 N, 95.42235 W
+  Population (1990): 170 (66 housing units)
+  Area: 2.4 sq km (land), 0.0 sq km (water)
+Summit, SC (town, FIPS 70315)
+  Location: 33.92433 N, 81.42326 W
+  Population (1990): 242 (86 housing units)
+  Area: 3.9 sq km (land), 0.0 sq km (water)
+Summit, SD (town, FIPS 62220)
+  Location: 45.30378 N, 97.03675 W
+  Population (1990): 267 (138 housing units)
+  Area: 1.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 57266
+Summit, UT
+  Zip code(s): 84772
+Summit, WA (CDP, FIPS 68365)
+  Location: 47.17213 N, 122.35800 W
+  Population (1990): 6312 (2359 housing units)
+  Area: 12.5 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>summit</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Summit \Sum"mit\, n. [F. sommet, dim. of OF. som, sum, top, from
+   L. summum, from summus highest. See {Sum}, n.]
+   1. The top; the highest point.
+      [1913 Webster]
+
+            Fixed on the summit of the highest mount. --Shak.
+      [1913 Webster]
+
+   2. The highest degree; the utmost elevation; the acme; as,
+      the summit of human fame.
+      [1913 Webster]
+
+   3. (Zo["o]l.) The most elevated part of a bivalve shell, or
+      the part in which the hinge is situated.
+      [1913 Webster]
+
+   {Summit level}, the highest level of a canal, a railroad, or
+      the like, in surmounting an ascent.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>summit</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>summit
+     n 1: the highest level or degree attainable; "his landscapes were
+          deemed the acme of beauty"; "the artist's gifts are at
+          their acme"; "at the height of her career"; "the peak of
+          perfection"; "summer was at its peak"; "...catapulted
+          Einstein to the pinnacle of fame"; "the summit of his
+          ambition"; "so many highest superlatives achieved by
+          man"; "at the top of his profession" [syn: {acme}, {height},
+           {elevation}, {peak}, {pinnacle}, {superlative}, {top}]
+     2: the top point of a mountain or hill; "the view from the peak
+        was magnificent"; "they clambered to the summit of
+        Monadnock" [syn: {peak}, {crown}, {crest}, {top}, {tip}]
+     3: a meeting of heads of governments [syn: {summit meeting}]
+     v : reach the summit of a mountain; "Many mountaineers go up Mt.
+         Everest but not all summit"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

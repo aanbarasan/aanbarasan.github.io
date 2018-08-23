@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mead</Word>
+  <Definitions>
+    <Definition>
+      <Word>mead</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Mead, CO (town, FIPS 49600)
+  Location: 40.23433 N, 104.98792 W
+  Population (1990): 456 (151 housing units)
+  Area: 2.5 sq km (land), 0.2 sq km (water)
+Mead, NE (village, FIPS 31395)
+  Location: 41.22910 N, 96.48939 W
+  Population (1990): 513 (195 housing units)
+  Area: 0.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 68041
+Mead, OK (town, FIPS 47250)
+  Location: 34.00065 N, 96.51127 W
+  Population (1990): 109 (60 housing units)
+  Area: 0.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 73449
+Mead, WA
+  Zip code(s): 99021
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mead</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mead \Mead\ (m[=e]d), n. [OE. mede, AS. meodo; akin to D. mede,
+   G. met, meth, OHG. metu, mitu, Icel. mj["o][eth]r, Dan.
+   mi["o]d, Sw. mj["o]d, Russ. med', Lith. midus, W. medd, Gr.
+   me`qy wine, Skr. madhu honey, a sweet drink, as adj., sweet.
+   [root]270. Cf. {Metheglin}.]
+   1. A fermented drink made of water and honey with malt,
+      yeast, etc.; metheglin; hydromel. --Chaucer.
+      [1913 Webster]
+
+   2. A drink composed of sirup of sarsaparilla or other
+      flavoring extract, and water. It is sometimes charged with
+      carbonic acid gas. [U. S.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mead</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mead \Mead\, n. [AS. m[=ae]d. See {Meadow}.]
+   A meadow.
+   [1913 Webster]
+
+         A mede
+         All full of freshe flowers, white and reede. --Chaucer.
+   [1913 Webster]
+
+         To fertile vales and dewy meads
+         My weary, wandering steps he leads.      --Addison.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mead</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Mead
+     n 1: United States anthropologist noted for her claims about
+          adolescence and sexual behavior in Polynesian cultures
+          (1901-1978) [syn: {Margaret Mead}]
+     2: United States philosopher of pragmatism (1863-1931) [syn: {George
+        Herbert Mead}]
+     3: made of fermented honey and water
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

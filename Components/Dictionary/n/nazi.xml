@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nazi</Word>
+  <Definitions>
+    <Definition>
+      <Word>nazi</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Nazi
+     adj 1: relating to or consistent with or typical of the ideology
+            and practice of Nazism or the Nazis; "the total Nazi
+            crime"; "the Nazi interpretation of history"
+     2: relating to a form of socialism; "the national socialist
+        party came to power in 1933" [syn: {national socialist}]
+     n : a German member of Adolf Hitler's political party [syn: {German
+         Nazi}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>plopped</Word>
+  <Definitions>
+    <Definition>
+      <Word>plopped</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Plop \Plop\, v. i. [imp. &amp; p. p. {Plopped}; p. pr. &amp; vb. n.
+   {Plopping}.] [Imitative.]
+   To fall, drop, or move in any way, with a sudden splash or
+   slap, as on the surface of water.
+
+         The body plopped up, turning on its side. --Kipling.
+   [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>plopped</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>plop
+     n : the noise of a rounded object dropping into a liquid without
+         a splash
+     adv : with a short hollow thud; "plop came the ball down to the
+           corner of the green" [syn: {plunk}]
+     v 1: drop something with a plopping sound
+     2: drop with the sound of something falling into water
+     3: set (something or oneself) down with or as if with a noise;
+        "He planked the money on the table"; "He planked himself
+        into the sofa" [syn: {plank}, {flump}, {plonk}, {plunk}, {plump
+        down}, {plunk down}, {plump}]
+     [also: {plopping}, {plopped}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>plopped</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>plopped
+     See {plop}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

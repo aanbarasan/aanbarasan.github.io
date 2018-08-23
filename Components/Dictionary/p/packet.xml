@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>packet</Word>
+  <Definitions>
+    <Definition>
+      <Word>packet</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>packet
+     
+        The unit of data sent across a {network}.  "Packet" is a
+        generic term used to describe a unit of data at any layer of
+        the {OSI} {protocol stack}, but it is most correctly used to
+        describe {application layer} data units ("{application
+        protocol data unit}", APDU).
+     
+        See also {datagram}, {frame}.
+     
+        (1994-11-30)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>packet</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>packet \pack"et\ (p[a^]k"[e^]t), n. [F. paquet, dim. fr. LL.
+   paccus, from the same source as E. pack. See {Pack}.]
+   [1913 Webster]
+   1. A small pack or package; a little bundle or parcel; as, a
+      packet of letters. --Shak.
+      [1913 Webster]
+
+   2. Originally, a vessel employed by government to convey
+      dispatches or mails; hence, a vessel employed in conveying
+      dispatches, mails, passengers, and goods, and having fixed
+      days of sailing; a mail boat.
+      [1913 Webster]
+
+   {Packet boat}, {Packet ship}, or {Packet vessel}. See
+      {Packet}, n., 2.
+
+   {Packet day}, the day for mailing letters to go by packet; or
+      the sailing day.
+
+   {Packet note} or {Packet post}. See under {Paper}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>packet</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Packet \Pack"et\, v. t. [imp. &amp; p. p. {Packeted}; p. pr. &amp; vb.
+   n. {Packeting}.]
+   1. To make up into a packet or bundle.
+      [1913 Webster]
+
+   2. To send in a packet or dispatch vessel.
+      [1913 Webster]
+
+            Her husband
+            Was packeted to France.               --Ford.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>packet</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Packet \Pack"et\, v. i.
+   To ply with a packet or dispatch boat.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>packet</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>packet
+     n 1: a collection of things wrapped or boxed together [syn: {package},
+           {bundle}, {parcel}]
+     2: (computer science) a message or message fragment
+     3: a small package or bundle
+     4: a boat for carrying mail [syn: {mailboat}, {mail boat}, {packet
+        boat}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pumice</Word>
+  <Definitions>
+    <Definition>
+      <Word>pumice</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pumice \Pum"ice\, n. [L. pumex, pumicis, prob. akin to spuma
+   foam: cf. AS. pumic-st[=a]n. Cf. {Pounce} a powder, {Spume}.]
+   (Min.)
+   A very light porous volcanic scoria, usually of a gray color,
+   the pores of which are capillary and parallel, giving it a
+   fibrous structure. It is supposed to be produced by the
+   disengagement of watery vapor without liquid or plastic lava.
+   It is much used, esp. in the form of powder, for smoothing
+   and polishing. Called also {pumice stone}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pumice</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pumice
+     n : a light glass formed on the surface of some lavas; used as
+         an abrasive [syn: {pumice stone}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

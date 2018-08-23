@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>longterm</Word>
+  <Definitions>
+    <Definition>
+      <Word>longterm</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>long-term \long-term\ adj.
+   same as {long-run}; as, the long-term consequences.
+
+   Syn: long-run.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>longterm</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>long-term
+     adj : relating to or extending over a relatively long time; "the
+           long-run significance of the elections"; "the long-term
+           reconstruction of countries damaged by the war"; "a
+           long-term investment" [syn: {long-run}, {semipermanent}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

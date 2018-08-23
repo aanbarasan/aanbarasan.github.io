@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>misdirection</Word>
+  <Definitions>
+    <Definition>
+      <Word>misdirection</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Misdirection \Mis`di*rec"tion\, n.
+   1. The act of directing wrongly, or the state of being so
+      directed.
+      [1913 Webster]
+
+   2. (Law) An error of a judge in charging the jury on a matter
+      of law. --Mozley &amp; W.
+      [1913 Webster]
+
+   3. The direction of another's attention to an unimportant
+      place or matter, for the purpose of being able to perform
+      an action undetected; as, misdirection is an important
+      part of a magician's art.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>misdirection</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>misdirection
+     n 1: an incorrect charge to a jury given by a judge
+     2: incorrect directions or instructions
+     3: management that is careless or inefficient; "he accomplished
+        little due to the mismanagement of his energies" [syn: {mismanagement}]
+     4: the act of distracting; drawing someone's attention away
+        from something; "conjurers are experts at misdirection"
+        [syn: {distraction}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

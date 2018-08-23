@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nanny</Word>
+  <Definitions>
+    <Definition>
+      <Word>nanny</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Nanny \Nan"ny\, n.
+   1. A diminutive of Ann or Anne, the proper name.
+      [1913 Webster]
+
+   {Nanny goat}, a female goat. [Colloq.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nanny</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Nanny \Nan"ny\, Nannie \Nan"nie\(n[a^]n"n[y^]), n.; pl.
+   {nannies}.
+   1. a caretaker for a child; a child's nurse; a nursemaid.
+      [PJC]
+
+   2. Grandmother; -- a child's word, used especially as a form
+      of address. See also {nana}.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nanny</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nanny
+     n 1: a woman who is the custodian of children [syn: {nursemaid},
+          {nurse}]
+     2: female goat [syn: {nanny-goat}, {she-goat}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

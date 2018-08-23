@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>word</Word>
+  <Definitions>
+    <Definition>
+      <Word>word</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Word
+     
+        {Microsoft Word}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>word</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>word
+     
+        &lt;storage&gt; A fundamental unit of storage in a computer.  The
+        size of a word in a particular computer architecture is one of
+        its chief distinguishing characteristics.
+     
+        The size of a word is usually the same as the width of the
+        computer's {data bus} so it is possible to read or write a
+        word in a single operation.  An instruction is usually one or
+        more words long and a word can be used to hold a whole number
+        of characters.  These days, this nearly always means a whole
+        number of {bytes} (eight bits), most often 32 or 64 bits.  In
+        the past when six bit {character sets} were used, a word might
+        be a multiple of six bits, e.g. 24 bits (four characters) in
+        the {ICL 1900} series.
+     
+        (1994-11-11)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>word</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Word \Word\, n. [AS. word; akin to OFries. &amp; OS. word, D. woord,
+   G. wort, Icel. or[eth], Sw. &amp; Dan. ord, Goth. wa['u]rd,
+   OPruss. wirds, Lith. vardas a name, L. verbum a word; or
+   perhaps to Gr. "rh`twr an orator. Cf. {Verb}.]
+   [1913 Webster]
+   1. The spoken sign of a conception or an idea; an articulate
+      or vocal sound, or a combination of articulate and vocal
+      sounds, uttered by the human voice, and by custom
+      expressing an idea or ideas; a single component part of
+      human speech or language; a constituent part of a
+      sentence; a term; a vocable. ``A glutton of words.''
+      --Piers Plowman.
+      [1913 Webster]
+
+            You cram these words into mine ears, against
+            The stomach of my sense.              --Shak.
+      [1913 Webster]
+
+            Amongst men who confound their ideas with words,
+            there must be endless disputes.       --Locke.
+      [1913 Webster]
+
+   2. Hence, the written or printed character, or combination of
+      characters, expressing such a term; as, the words on a
+      page.
+      [1913 Webster]
+
+   3. pl. Talk; discourse; speech; language.
+      [1913 Webster]
+
+            Why should calamity be full of words? --Shak.
+      [1913 Webster]
+
+            Be thy words severe;
+            Sharp as he merits, but the sword forbear. --Dryden.
+      [1913 Webster]
+
+   4. Account; tidings; message; communication; information; --
+      used only in the singular.
+      [1913 Webster]
+
+            I pray you . . . bring me word thither
+            How the world goes.                   --Shak.
+      [1913 Webster]
+
+   5. Signal; order; command; direction.
+      [1913 Webster]
+
+            Give the word through.                --Shak.
+      [1913 Webster]
+
+   6. Language considered as implying the faith or authority of
+      the person who utters it; statement; affirmation;
+      declaration; promise.
+      [1913 Webster]
+
+            Obey thy parents; keep thy word justly. --Shak.
+      [1913 Webster]
+
+            I know you brave, and take you at your word.
+                                                  --Dryden.
+      [1913 Webster]
+
+            I desire not the reader should take my word.
+                                                  --Dryden.
+      [1913 Webster]
+
+   7. pl. Verbal contention; dispute.
+      [1913 Webster]
+
+            Some words there grew 'twixt Somerset and me.
+                                                  --Shak.
+      [1913 Webster]
+
+   8. A brief remark or observation; an expression; a phrase,
+      clause, or short sentence.
+      [1913 Webster]
+
+            All the law is fulfilled in one word, even in this;
+            Thou shalt love thy neighbor as thyself. --Gal. v.
+                                                  14.
+      [1913 Webster]
+
+            She said; but at the happy word ``he lives,''
+            My father stooped, re-fathered, o'er my wound.
+                                                  --Tennyson.
+      [1913 Webster]
+
+            There is only one other point on which I offer a
+            word of remark.                       --Dickens.
+      [1913 Webster]
+
+   {By word of mouth}, orally; by actual speaking. --Boyle.
+
+   {Compound word}. See under {Compound}, a.
+
+   {Good word}, commendation; favorable account. ``And gave the
+      harmless fellow a good word.'' --Pope.
+
+   {In a word}, briefly; to sum up.
+
+   {In word}, in declaration; in profession. ``Let us not love
+      in word, . . . but in deed and in truth.'' --1 John iii.
+      8.
+
+   {Nuns of the Word Incarnate} (R. C. Ch.), an order of nuns
+      founded in France in 1625, and approved in 1638. The
+      order, which also exists in the United States, was
+      instituted for the purpose of doing honor to the ``Mystery
+      of the Incarnation of the Son of God.''
+
+   {The word}, or {The Word}. (Theol.)
+      (a) The gospel message; esp., the Scriptures, as a
+          revelation of God. ``Bold to speak the word without
+          fear.'' --Phil. i. 14.
+      (b) The second person in the Trinity before his
+          manifestation in time by the incarnation; among those
+          who reject a Trinity of persons, some one or all of
+          the divine attributes personified. --John i. 1.
+
+   {To eat one's words}, to retract what has been said.
+
+   {To have the words for}, to speak for; to act as spokesman.
+      [Obs.] ``Our host hadde the wordes for us all.''
+      --Chaucer.
+
+   {Word blindness} (Physiol.), inability to understand printed
+      or written words or symbols, although the person affected
+      may be able to see quite well, speak fluently, and write
+      correctly. --Landois &amp; Stirling.
+
+   {Word deafness} (Physiol.), inability to understand spoken
+      words, though the person affected may hear them and other
+      sounds, and hence is not deaf.
+
+   {Word dumbness} (Physiol.), inability to express ideas in
+      verbal language, though the power of speech is unimpaired.
+      
+
+   {Word for word}, in the exact words; verbatim; literally;
+      exactly; as, to repeat anything word for word.
+
+   {Word painting}, the act of describing an object fully and
+      vividly by words only, so as to present it clearly to the
+      mind, as if in a picture.
+
+   {Word picture}, an accurate and vivid description, which
+      presents an object clearly to the mind, as if in a
+      picture.
+
+   {Word square}, a series of words so arranged that they can be
+      read vertically and horizontally with like results.
+      [1913 Webster]
+
+   Note:
+         H E A R T
+         E M B E R
+         A B U S E
+         R E S I N
+         T R E N T
+         (A word square)
+
+   Syn: See {Term}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>word</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Word \Word\, v. i.
+   To use words, as in discussion; to argue; to dispute. [R.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>word</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Word \Word\, v. t. [imp. &amp; p. p. {Worded}; p. pr. &amp; vb. n.
+   {Wording}.]
+   [1913 Webster]
+   1. To express in words; to phrase.
+      [1913 Webster]
+
+            The apology for the king is the same, but worded
+            with greater deference to that great prince.
+                                                  --Addison.
+      [1913 Webster]
+
+   2. To ply with words; also, to cause to be by the use of a
+      word or words. [Obs.] --Howell.
+      [1913 Webster]
+
+   3. To flatter with words; to cajole. [Obs.] --Shak.
+      [1913 Webster]
+
+   {To word it}, to bandy words; to dispute. [Obs.] ``To word it
+      with a shrew.'' --L'Estrange.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>word</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>word
+     n 1: a unit of language that native speakers can identify; "words
+          are the blocks from which sentences are made"; "he
+          hardly said ten words all morning"
+     2: a brief statement; "he didn't say a word about it"
+     3: new information about specific and timely events; "they
+        awaited news of the outcome" [syn: {news}, {intelligence},
+         {tidings}]
+     4: the divine word of God; the second person in the Trinity
+        (incarnate in Jesus) [syn: {Son}, {Logos}]
+     5: a promise; "he gave his word" [syn: {parole}, {word of honor}]
+     6: a secret word or phrase known only to a restricted group;
+        "he forgot the password" [syn: {password}, {watchword}, {parole},
+         {countersign}]
+     7: an exchange of views on some topic; "we had a good
+        discussion"; "we had a word or two about it" [syn: {discussion},
+         {give-and-take}]
+     8: the sacred writings of the Christian religions; "he went to
+        carry the Word to the heathen" [syn: {Bible}, {Christian
+        Bible}, {Book}, {Good Book}, {Holy Scripture}, {Holy Writ},
+         {Scripture}, {Word of God}]
+     9: a verbal command for action; "when I give the word, charge!"
+     10: a word is a string of bits stored in computer memory; "large
+         computers use words up to 64 bits long"
+     v : put into words or an expression; "He formulated his concerns
+         to the board of trustees" [syn: {give voice}, {formulate},
+          {phrase}, {articulate}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>literary</Word>
+  <Definitions>
+    <Definition>
+      <Word>literary</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Literary \Lit"er*a*ry\ (l[i^]t"[~e]r*[asl]*r[y^]), a. [L.
+   litterarius, literarius, fr. littera, litera, a letter: cf.
+   F. litt['e]raire. See {Letter}.]
+   [1913 Webster]
+   1. Of or pertaining to letters or literature; pertaining to
+      learning or learned men; as, literary fame; a literary
+      history; literary conversation.
+      [1913 Webster]
+
+            He has long outlived his century, the term commonly
+            fixed as the test of literary merit.  --Johnson.
+      [1913 Webster]
+
+   2. Versed in, or acquainted with, literature; occupied with
+      literature as a profession; connected with literature or
+      with men of letters; as, a literary man.
+      [1913 Webster]
+
+            In the literary as well as fashionable world.
+                                                  --Mason.
+      [1913 Webster]
+
+   {Literary property}.
+      (a) Property which consists in written or printed
+          compositions.
+      (b) The exclusive right of publication as recognized and
+          limited by law.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>literary</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>literary
+     adj 1: of or relating to or characteristic of literature; "literary
+            criticism"
+     2: knowledgeable about literature; "a literary style" [syn: {well-written}]
+     3: appropriate to literature rather than everyday speech or
+        writing; "when trying to impress someone she spoke in an
+        affected literary style"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

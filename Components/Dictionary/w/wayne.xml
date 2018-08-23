@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>wayne</Word>
+  <Definitions>
+    <Definition>
+      <Word>wayne</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Wayne, IL (village, FIPS 79397)
+  Location: 41.95210 N, 88.26129 W
+  Population (1990): 1541 (551 housing units)
+  Area: 14.1 sq km (land), 0.0 sq km (water)
+Wayne, ME
+  Zip code(s): 04284
+Wayne, MI (city, FIPS 84940)
+  Location: 42.27675 N, 83.38820 W
+  Population (1990): 19899 (7325 housing units)
+  Area: 15.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 48184
+Wayne, NE (city, FIPS 51840)
+  Location: 42.23706 N, 97.01668 W
+  Population (1990): 5142 (1830 housing units)
+  Area: 4.9 sq km (land), 0.0 sq km (water)
+  Zip code(s): 68787
+Wayne, NJ (CDP, FIPS 77870)
+  Location: 40.94590 N, 74.24550 W
+  Population (1990): 47025 (16306 housing units)
+  Area: 61.7 sq km (land), 3.5 sq km (water)
+  Zip code(s): 07470
+Wayne, OH (village, FIPS 82334)
+  Location: 41.30124 N, 83.47235 W
+  Population (1990): 803 (316 housing units)
+  Area: 0.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 43466
+Wayne, OK (town, FIPS 79300)
+  Location: 34.91719 N, 97.31577 W
+  Population (1990): 519 (239 housing units)
+  Area: 0.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 73095
+Wayne, WV (town, FIPS 84940)
+  Location: 38.22089 N, 82.44271 W
+  Population (1990): 1128 (515 housing units)
+  Area: 1.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 25570
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>wayne</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Wayne
+     n 1: United States film actor who played tough heroes (1907-1979)
+          [syn: {John Wayne}, {Duke Wayne}]
+     2: American general during the American Revolution (1745-1796)
+        [syn: {Anthony Wayne}, {Mad Anthony Wayne}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

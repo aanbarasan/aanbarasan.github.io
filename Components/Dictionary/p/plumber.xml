@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>plumber</Word>
+  <Definitions>
+    <Definition>
+      <Word>plumber</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Plumber
+     
+        &lt;programming, tool&gt; A system for obtaining information about
+        {memory leaks} in {Ada} and {C} programs.
+     
+        {Home (http://home.earthlink.net/~owenomalley/plumber.html)}.
+     
+        (17 Feb 1999)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>plumber</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Plumber \Plumb"er\, n. [F. plombier. See {Plumb}.]
+   One who works in lead; esp., one who furnishes, fits, and
+   repairs lead pipes.
+   [1913 Webster]
+
+   2. Hence: Any worker who installs or repairs piping and
+      related equipment for conveyance of water, gas, or
+      drainage into or out of buildings, or within buildings to
+      fixtures or equipment using water. The type of material
+      used for the conduits varies with the application, and may
+      be may be of lead, iron, copper, glass, palstic, or other
+      material.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>plumber</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>plumber
+     n : a craftsman who installs and repairs pipes and fixtures and
+         appliances [syn: {pipe fitter}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

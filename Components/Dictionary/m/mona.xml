@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mona</Word>
+  <Definitions>
+    <Definition>
+      <Word>mona</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Mona, UT (town, FIPS 51140)
+  Location: 39.81544 N, 111.85752 W
+  Population (1990): 584 (183 housing units)
+  Area: 3.5 sq km (land), 0.1 sq km (water)
+  Zip code(s): 84645
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mona</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mona \Mo"na\, n. [CF. Sp. &amp; Pg. mona, fem. of mono a monkey,
+   ape.] (Zo["o]l.)
+   A small, handsome, long-tailed West American monkey
+   ({Cercopithecus mona}). The body is dark olive, with a spot
+   of white on the haunches.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mona</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Mona
+     n : an island northwest of Wales [syn: {Anglesey}, {Anglesey
+         Island}, {Anglesea}, {Anglesea Island}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

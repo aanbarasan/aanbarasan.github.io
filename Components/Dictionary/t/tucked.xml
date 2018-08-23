@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tucked</Word>
+  <Definitions>
+    <Definition>
+      <Word>tucked</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tuck \Tuck\, v. t. [imp. &amp; p. p. {Tucked}; p. pr. &amp; vb. n.
+   {Tucking}.] [OE. tukken, LG. tukken to pull up, tuck up,
+   entice; akin to OD. tocken to entice, G. zucken to draw with
+   a short and quick motion, and E. tug. See {Tug}.]
+   1. To draw up; to shorten; to fold under; to press into a
+      narrower compass; as, to tuck the bedclothes in; to tuck
+      up one's sleeves.
+      [1913 Webster]
+
+   2. To make a tuck or tucks in; as, to tuck a dress.
+      [1913 Webster]
+
+   3. To inclose; to put within; to press into a close place;
+      as, to tuck a child into a bed; to tuck a book under one's
+      arm, or into a pocket.
+      [1913 Webster]
+
+   4. [Perhaps originally, to strike, beat: cf. F. toquer to
+      touch. Cf. {Tocsin}.] To full, as cloth. [Prov. Eng.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tucked</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tucked
+     adj : having tucked or being tucked; "tightly tucked blankets"; "a
+           fancy tucked shirt" [ant: {untucked}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

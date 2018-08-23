@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>refill</Word>
+  <Definitions>
+    <Definition>
+      <Word>refill</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Refill \Re*fill"\ (r?*f?l"), v. t. &amp; i.
+   To fill, or become full, again.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>refill</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>refill
+     n 1: a prescription drug that is provided again; "he got a refill
+          of his prescription"; "the prescription specified only
+          one refill"
+     2: a commercial product that refills a container with its
+        appropriate contents; "he got a refill for his ball-point
+        pen"; "he got a refill for his notebook"
+     v : fill something that had previously been emptied; "refill my
+         glass, please" [syn: {replenish}, {fill again}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

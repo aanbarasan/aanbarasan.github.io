@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>openminded</Word>
+  <Definitions>
+    <Definition>
+      <Word>openminded</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>open-minded \open-minded\ adj.
+   Ready to entertain new ideas. Contrasted with
+   {closed-minded}. [Narrower terms: {broad-minded (vs.
+   narrow-minded), broadminded, broad ]
+
+   Syn: open.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>openminded</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>open-minded
+     adj : ready to entertain new ideas; "an open-minded curiosity";
+           "open-minded impartiality"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

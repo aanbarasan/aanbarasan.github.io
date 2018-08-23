@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>spa</Word>
+  <Definitions>
+    <Definition>
+      <Word>spa</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Spa \Spa\ (?; 277), n.
+   A spring or mineral water; -- so called from a place of this
+   name in Belgium.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>spa</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>SPA
+     Software Publishers Association (org., USA)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>spa</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>spa
+     n 1: a health resort near a spring or at the seaside [syn: {watering
+          place}, {watering hole}]
+     2: a fashionable hotel usually in a resort area [syn: {resort
+        hotel}]
+     3: a place of business with equipment and facilities for
+        exercising and improving physical fitness [syn: {health
+        spa}, {health club}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

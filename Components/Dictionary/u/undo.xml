@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>undo</Word>
+  <Definitions>
+    <Definition>
+      <Word>undo</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Undo \Un*do"\, v. t. [AS. und?n. See 1st {Un-}, and Do to
+   perform.]
+   1. To reverse, as what has been done; to annul; to bring to
+      naught.
+      [1913 Webster]
+
+            What's done can not be undone.        --Shak.
+      [1913 Webster]
+
+            To-morrow, ere the setting sun,
+            She 'd all undo that she had done.    --Swift.
+      [1913 Webster]
+
+   2. To loose; to open; to take to piece; to unfasten; to
+      untie; hence, to unravel; to solve; as, to undo a knot; to
+      undo a puzzling question; to undo a riddle. --Tennyson.
+      [1913 Webster]
+
+            Pray you, undo this button.           --Shak.
+      [1913 Webster]
+
+            She took the spindle, and undoing the thread
+            gradually, measured it.               --Sir W.
+                                                  Scott.
+      [1913 Webster]
+
+   3. To bring to poverty; to impoverish; to ruin, as in
+      reputation, morals, hopes, or the like; as, many are
+      undone by unavoidable losses, but more undo themselves by
+      vices and dissipation, or by indolence.
+      [1913 Webster]
+
+            That quaffing and drinking will undo you, --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>undo</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>undo
+     v 1: cancel, annul, or reverse an action or its effect; "I wish I
+          could undo my actions"
+     2: deprive of certain characteristics [syn: {unmake}] [ant: {do}]
+     3: cause the ruin or downfall of; "A single mistake undid the
+        President and he had to resign"
+     4: cause to become loose; "undo the shoelace"; "untie the
+        knot"; "loosen the necktie" [syn: {untie}, {loosen}]
+     5: remove the outer cover or wrapping of; "Let's unwrap the
+        gifts!"; "undo the parcel" [syn: {unwrap}] [ant: {wrap}]
+     [also: {undone}, {undid}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

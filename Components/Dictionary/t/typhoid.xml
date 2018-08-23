@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>typhoid</Word>
+  <Definitions>
+    <Definition>
+      <Word>typhoid</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Typhoid \Ty"phoid\, a. [Typhus + -oid: cf. F. typho["i]de, Gr.
+   ?. See {Typhus}.] (Med.)
+   Of or pertaining to typhus; resembling typhus; of a low grade
+   like typhus; as, typhoid symptoms.
+   [1913 Webster]
+
+   {Typhoid fever}, a disease formerly confounded with typhus,
+      but essentially different from the latter. It is
+      characterized by fever, lasting usually three or more
+      weeks, diarrh[ae]a with evacuations resembling pea soup in
+      appearance, and prostration and muscular debility,
+      gradually increasing and often becoming profound at the
+      acme of the disease. Its local lesions are a scanty
+      eruption of spots, resembling flea bites, on the belly,
+      enlargement of the spleen, and ulceration of the
+      intestines over the areas occupied by Peyer's glands. The
+      virus, or contagion, of this fever is supposed to be a
+      microscopic vegetable organism, or bacterium. Called also
+      {enteric fever}. See {Peyer's glands}.
+
+   {Typhoid state}, a condition common to many diseases,
+      characterized by profound prostration and other symptoms
+      resembling those of typhus.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>typhoid</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>typhoid
+     n : serious infection marked by intestinal inflammation and
+         ulceration; caused by Salmonella typhosa ingested with
+         food or water [syn: {typhoid fever}, {enteric fever}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pubes</Word>
+  <Definitions>
+    <Definition>
+      <Word>pubes</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pubes \Pu"bes\, n. [L., the hair which appears on the body at
+   puberty, from pubes adult.]
+   1. (Anat.)
+      (a) The hair which appears upon the lower part of the
+          hypogastric region at the age of puberty.
+      (b) Hence (as more commonly used), the lower part of the
+          hypogastric region; the pubic region.
+          [1913 Webster]
+
+   2. (Bot.) The down of plants; a downy or villous substance
+      which grows on plants; pubescence.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pubes</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pubis
+     n : one of the three sections of the hipbone; together the two
+         pubic bones form the front of the pelvis [syn: {pubic
+         bone}, {os pubis}]
+     [also: {pubes} (pl)]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pubes</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pubes
+     n : the lower part of the abdomen just above the external
+         genital organs [syn: {pubic region}, {loins}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pubes</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pubes
+     See {pubis}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

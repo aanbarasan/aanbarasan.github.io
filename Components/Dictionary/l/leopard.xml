@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>leopard</Word>
+  <Definitions>
+    <Definition>
+      <Word>leopard</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Leopard
+   (Heb. namer, so called because spotted, Cant. 4:8), was that
+   great spotted feline which anciently infested the mountains of
+   Syria, more appropriately called a panther (Felis pardus). Its
+   fierceness (Isa. 11:6), its watching for its prey (Jer. 5:6),
+   its swiftness (Hab. 1:8), and the spots of its skin (Jer.
+   13:23), are noticed. This word is used symbolically (Dan. 7:6;
+   Rev. 13:2).
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>leopard</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Leopard \Leop"ard\ (l[e^]p"[~e]rd), n. [OE. leopart, leparde,
+   lebarde, libbard, OF. leopard, liepart, F. l['e]opard, L.
+   leopardus, fr. Gr. leo`pardos; le`wn lion + pa`rdos pard. See
+   {Lion}, and {Pard}.] (Zo["o]l.)
+   A large, savage, carnivorous mammal ({Felis leopardus}). It
+   is of a yellow or fawn color, with rings or roselike clusters
+   of black spots along the back and sides. It is found in
+   Southern Asia and Africa. By some the panther ({Felis
+   pardus}) is regarded as a variety of leopard.
+   [1913 Webster]
+
+   {Hunting leopard}. See {Cheetah}. 
+
+   {Leopard cat} (Zo["o]l.) any one of several species or
+      varieties of small, spotted cats found in Africa, Southern
+      Asia, and the East Indies; esp., {Felis Bengalensis}.
+
+   {Leopard marmot}. See {Gopher}, 2.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>leopard</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>leopard
+     n 1: the pelt of a leopard
+     2: large feline of African and Asian forests usually having a
+        tawny coat with black spots [syn: {Panthera pardus}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

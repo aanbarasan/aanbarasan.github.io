@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>signin</Word>
+  <Definitions>
+    <Definition>
+      <Word>signin</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sign in
+     v : announce one's arrival, e.g. at hotels or airports [syn: {check
+         in}] [ant: {check out}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>relatively</Word>
+  <Definitions>
+    <Definition>
+      <Word>relatively</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Relatively \Rel"a*tive*ly\, adv.
+   In a relative manner; in relation or respect to something
+   else; not absolutely.
+   [1913 Webster]
+
+         Consider the absolute affections of any being as it is
+         in itself, before you consider it relatively. --I.
+                                                  Watts.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>relatively</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>relatively
+     adv : in a relative manner; by comparison to something else; "the
+           situation is relatively calm now" [syn: {comparatively}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

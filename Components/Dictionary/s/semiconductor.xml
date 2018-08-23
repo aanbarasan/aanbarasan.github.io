@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>semiconductor</Word>
+  <Definitions>
+    <Definition>
+      <Word>semiconductor</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>semiconductor
+     
+        &lt;electronics&gt; A material, typically crystaline, which allows
+        {current} to flow under certain circumstances.  Common
+        semiconductors are silicon, germanium, gallium arsenide.
+        Semiconductors are used to make {diodes}, {transistors} and
+        other basic "solid state" electronic components.
+     
+        As crystals of these materials are grown, they are "doped"
+        with traces of other elements called {donors} or {acceptors}
+        to make regions which are n- or p-type respectively for the
+        {electron model} or p- or n-type under the {hole model}.
+        Where n and p type regions adjoin, a junction is formed which
+        will pass {current} in one direction (from p to n) but not the
+        other, giving a {diode}.
+     
+        One {model} of semiconductor behaviour describes the doping
+        elements as having either {free electrons} or {holes} dangling
+        at the points in the crystal lattice where the doping elements
+        replace one of the atoms of the foundation material.  When
+        external electrons are applied to n-type material (which
+        already has free electrons present) the repulsive force of
+        like charges causes the free electrons to migrate toward the
+        junction, where they are attracted to the holes in the p-type
+        material.  Thus the junction conducts current.
+     
+        In contrast, when external electrons are applied to p-type
+        material, the attraction of unlike charges causes the holes to
+        migrate away from the junction and toward the source of
+        external electrons.  The junction thus becomes "depleted" of
+        its charge carriers and is non-conducting.
+     
+        (1995-10-04)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>semiconductor</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>semiconductor
+     n 1: a substance as germanium or silicon whose electrical
+          conductivity is intermediate between that of a metal and
+          an insulator; its conductivity increases with
+          temperature and in the presence of impurities [syn: {semiconducting
+          material}]
+     2: a conductor made with semiconducting material [syn: {semiconductor
+        device}, {semiconductor unit}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>reluctance</Word>
+  <Definitions>
+    <Definition>
+      <Word>reluctance</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Reluctance \Re*luc"tance\ (r?-l?k"tans), Reluctancy
+\Re*luc"tan*cy\ (-tan-s?), n. [See {Reluctant}.]
+   1. The state or quality of being reluctant; repugnance;
+      aversion of mind; unwillingness; -- often followed by an
+      infinitive, or by to and a noun, formerly sometimes by
+      against. ``Tempering the severity of his looks with a
+      reluctance to the action.'' --Dryden.
+
+   Syn: Syn. See {Dislike}.
+        [1913 Webster]
+
+              He had some reluctance to obey the summons. --Sir
+                                                  W. Scott.
+        [1913 Webster]
+
+              Bear witness, Heaven, with what reluctancy
+              Her helpless innocence I doom to die. --Dryden.
+        [1913 Webster]
+
+   2. (Elec.) Magnetic resistance, being equal to the ratio of
+      magnetomotive force to magnetic flux.
+      [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>reluctance</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>reluctance
+     n 1: (physics) opposition to magnetic flux (analogous to electric
+          resistance)
+     2: a certain degree of unwillingness; "a reluctance to commit
+        himself"; "after some hesitation he agreed" [syn: {hesitancy},
+         {hesitation}, {disinclination}, {indisposition}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

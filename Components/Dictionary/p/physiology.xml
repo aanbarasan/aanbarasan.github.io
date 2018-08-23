@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>physiology</Word>
+  <Definitions>
+    <Definition>
+      <Word>physiology</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Physiology \Phys`i*ol"o*gy\, n.; pl. {Physiologies}. [L.
+   physiologia, Gr. ?; fy`sis nature + ? discourse: cf. F.
+   physiologie.]
+   1. The science which treats of the phenomena of living
+      organisms; the study of the processes incidental to, and
+      characteristic of, life.
+      [1913 Webster]
+
+   Note: It is divided into animal and vegetable physiology,
+         dealing with animal and vegetable life respectively.
+         When applied especially to a study of the functions of
+         the organs and tissues in man, it is called human
+         physiology.
+         [1913 Webster]
+
+   2. A treatise on physiology.
+      [1913 Webster]
+
+   {Mental physiology}, the science of the functions and
+      phenomena of the mind, as distinguished from a
+      philosophical explanation of the same.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>physiology</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>physiology
+     n 1: the branch of the biological sciences dealing with the
+          functioning of organisms
+     2: processes and functions of an organism
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

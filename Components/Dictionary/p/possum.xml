@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>possum</Word>
+  <Definitions>
+    <Definition>
+      <Word>possum</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Opossum \O*pos"sum\, n. [Of N. American Indian origin.]
+   (Zo["o]l.)
+   Any American marsupial of the genera {Didelphys} and
+   {Chironectes}; called also {possum}. The common species of
+   the United States is {Didelphys Virginiana}.
+   [1913 Webster]
+
+   Note: Several related species are found in South America. The
+         water opossum of Brazil ({Chironectes variegatus}),
+         which has the hind feet, webbed, is provided with a
+         marsupial pouch and with cheek pouches. It is called
+         also {yapock}.
+         [1913 Webster]
+
+   {Opossum mouse}. (Zo["o]l.) See {Flying mouse}, under
+      {Flying}.
+
+   {Opossum shrimp} (Zo["o]l.), any schizopod crustacean of the
+      genus {Mysis} and allied genera. See {Schizopoda}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>possum</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Possum \Pos"sum\, n. [Shortened from opossum.] (Zo["o]l.)
+   An opossum. [Colloq. U. S.]
+   [1913 Webster]
+
+   {To play possum}, {To act possum}, to feign ignorance,
+      indifference or inattention, with the intent to deceive;
+      to dissemble; -- in allusion to the habit of the opossum,
+      which feigns death when attacked or alarmed.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>possum</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>possum
+     n 1: nocturnal arboreal marsupial having a naked prehensile tail
+          found from southern North America to northern South
+          America [syn: {opossum}]
+     2: small furry Australian arboreal marsupials having long
+        usually prehensile tails [syn: {phalanger}, {opossum}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

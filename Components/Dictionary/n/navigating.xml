@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>navigating</Word>
+  <Definitions>
+    <Definition>
+      <Word>navigating</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>navigating
+     
+        &lt;networking, hypertext&gt; Finding your way around.  Often used
+        of the {Internet}, particularly the {World-Wide Web}.
+     
+        A {browser} is a tool for navigating {hypertext} documents.
+     
+        (1995-03-25)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>navigating</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Navigate \Nav"i*gate\, v. i. [imp. &amp; p. p. {Navigated}; p. pr. &amp;
+   vb. n. {Navigating}.] [L. navigatus, p. p. of navigare, v.t.
+   &amp; i.; navis ship + agere to move, direct. See {Nave}, and
+   {Agent}.]
+   1. To journey by water; to go in a vessel or ship; to perform
+      the duties of a navigator; to use the waters as a highway
+      or channel for commerce or communication; to sail.
+      [1913 Webster]
+
+            The Phenicians navigated to the extremities of the
+            Western Ocean.                        --Arbuthnot.
+      [1913 Webster]
+
+   2. To direct or operate a vehicle, especially a ship or
+      aircraft.
+      [PJC]
+
+   3. To pass through, over, or around; -- used especially of a
+      course having obstacles; as, to navigate around all the
+      randomly scattered tables to the far side of the room.
+      [PJC]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

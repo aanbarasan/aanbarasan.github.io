@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mode</Word>
+  <Definitions>
+    <Definition>
+      <Word>mode</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Mode
+     
+        An {object-oriented language}.
+     
+        ["The Programming Language Mode: Language Definition and User
+        Guide", J. Vihavainen, C-1987-50, U Helsinki, 1987].
+     
+        [{Jargon File}]
+     
+        (1994-10-21)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mode</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>mode
+     
+        1. A general state, usually used with an adjective describing
+        the state.  Use of the word "mode" rather than "state" implies
+        that the state is extended over time, and probably also that
+        some activity characteristic of that state is being carried
+        out. "No time to hack; I'm in thesis mode."
+     
+        In its jargon sense, "mode" is most often attributed to
+        people, though it is sometimes applied to programs and
+        inanimate objects.  In particular, see {hack mode}, {day
+        mode}, {night mode}, {demo mode}, {fireworks mode}, and {yoyo
+        mode}; also {chat}.
+     
+        2. More technically, a mode is a special state that certain
+        user interfaces must pass into in order to perform certain
+        functions.  For example, in order to insert characters into a
+        document in the Unix editor "vi", one must type the "i" key,
+        which invokes the "Insert" command.  The effect of this
+        command is to put vi into "insert mode", in which typing the
+        "i" key has a quite different effect (to wit, it inserts an
+        "i" into the document).  One must then hit another special
+        key, "ESC", in order to leave "insert mode".  Nowadays,
+        modeful interfaces are generally considered {losing} but
+        survive in quite a few widely used tools built in less
+        enlightened times.
+     
+        [{Jargon File}]
+     
+        (1994-12-22)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mode</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mode \Mode\ (m[=o]d), n. [L. modus a measure, due or proper
+   measure, bound, manner, form; akin to E. mete: cf. F. mode.
+   See {Mete}, and cf. {Commodious}, {Mood} in grammar,
+   {Modus}.]
+   1. Manner of doing or being; method; form; fashion; custom;
+      way; style; as, the mode of speaking; the mode of
+      dressing.
+      [1913 Webster]
+
+            The duty of itself being resolved on, the mode of
+            doing it may easily be found.         --Jer. Taylor.
+      [1913 Webster]
+
+            A table richly spread in regal mode.  --Milton.
+      [1913 Webster]
+
+   2. Prevailing popular custom; fashion, especially in the
+      phrase the mode.
+      [1913 Webster]
+
+            The easy, apathetic graces of a man of the mode.
+                                                  --Macaulay.
+      [1913 Webster]
+
+   3. Variety; gradation; degree. --Pope.
+      [1913 Webster]
+
+   4. (Metaph.) Any combination of qualities or relations,
+      considered apart from the substance to which they belong,
+      and treated as entities; more generally, condition, or
+      state of being; manner or form of arrangement or
+      manifestation; form, as opposed to {matter}.
+      [1913 Webster]
+
+            Modes I call such complex ideas, which, however
+            compounded, contain not in them the supposition of
+            subsisting by themselves, but are considered as
+            dependencies on, or affections of, substances.
+                                                  --Locke.
+      [1913 Webster]
+
+   5. (Logic) The form in which the proposition connects the
+      predicate and subject, whether by simple, contingent, or
+      necessary assertion; the form of the syllogism, as
+      determined by the quantity and quality of the constituent
+      proposition; mood.
+      [1913 Webster]
+
+   6. (Gram.) Same as {Mood}.
+      [1913 Webster]
+
+   7. (Mus.) The scale as affected by the various positions in
+      it of the minor intervals; as, the Dorian mode, the Ionic
+      mode, etc., of ancient Greek music.
+      [1913 Webster]
+
+   Note: In modern music, only the major and the minor mode, of
+         whatever key, are recognized.
+         [1913 Webster]
+
+   8. A kind of silk. See {Alamode}, n.
+      [1913 Webster]
+
+   9. (Gram.) the value of the variable in a frequency
+      distribution or probability distribution, at which the
+      probability or frequency has a maximum. The maximum may be
+      local or global. Distributions with only one such maximum
+      are called {unimodal}; with two maxima, {bimodal}, and
+      with more than two, {multimodal}.
+      [PJC]
+
+   Syn: Method; manner. See {Method}.
+        [1913 Webster]
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mode</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>mode n. [common] A general state, usually used with an adjective
+   describing the state. Use of the word `mode' rather than `state' implies
+   that the state is extended over time, and probably also that some
+   activity characteristic of that state is being carried out. "No time to
+   hack; I'm in thesis mode." In its jargon sense, `mode' is most often
+   attributed to people, though it is sometimes applied to programs and
+   inanimate objects. In particular, see {hack mode}, {day mode}, {night
+   mode}, {demo mode}, {fireworks mode}, and {yoyo mode}; also {talk mode}.
+
+   One also often hears the verbs `enable' and `disable' used in
+   connection with jargon modes. Thus, for example, a sillier way of saying
+   "I'm going to crash" is "I'm going to enable crash mode now". One might
+   also hear a request to "disable flame mode, please".
+
+   In a usage much closer to techspeak, a mode is a special state that
+   certain user interfaces must pass into in order to perform certain
+   functions. For example, in order to insert characters into a document in
+   the Unix editor `vi', one must type the "i" key, which invokes the
+   "Insert" command. The effect of this command is to put vi into "insert
+   mode", in which typing the "i" key has a quite different effect (to wit,
+   it inserts an "i" into the document). One must then hit another special
+   key, "ESC", in order to leave "insert mode". Nowadays, modeful
+   interfaces are generally considered {losing} but survive in quite a few
+   widely used tools built in less enlightened times.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mode</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mode
+     n 1: how something is done or how it happens; "her dignified
+          manner"; "his rapid manner of talking"; "their nomadic
+          mode of existence"; "in the characteristic New York
+          style"; "a lonely way of life"; "in an abrasive fashion"
+          [syn: {manner}, {style}, {way}, {fashion}]
+     2: a particular functioning condition or arrangement; "switched
+        from keyboard to voice mode"
+     3: a classification of propositions on the basis of whether
+        they claim necessity or possibility or impossibility [syn:
+         {modality}]
+     4: verb inflections that express how the action or state is
+        conceived by the speaker [syn: {mood}, {modality}]
+     5: any of various fixed orders of the various diatonic notes
+        within an octave [syn: {musical mode}]
+     6: the most frequent value of a random variable [syn: {modal
+        value}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

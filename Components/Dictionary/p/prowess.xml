@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>prowess</Word>
+  <Definitions>
+    <Definition>
+      <Word>prowess</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Prowess \Prow"ess\, n. [OF. proece, proesce, F. prouesse. See
+   {Prow}, a.]
+   Distinguished bravery; valor; especially, military bravery
+   and skill; gallantry; intrepidity; fearlessness. --Chaucer.
+   Sir P. Sidney.
+   [1913 Webster]
+
+         He by his prowess conquered all France.  --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>prowess</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>prowess
+     n : a superior skill that you can learn by study and practice
+         and observation; "the art of conversation"; "it's quite
+         an art" [syn: {art}, {artistry}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

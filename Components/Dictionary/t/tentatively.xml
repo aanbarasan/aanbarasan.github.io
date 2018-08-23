@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tentatively</Word>
+  <Definitions>
+    <Definition>
+      <Word>tentatively</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tentative \Ten*ta"tive\, a. [L. tentare to try: cf. F. tentatif.
+   See {Tempt}.]
+   Of or pertaining to a trial or trials; essaying;
+   experimental. ``A slow, tentative manner.'' --Carlyle. --
+   {Ten*ta"tive*ly}, adv.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tentatively</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tentatively
+     adv : in a tentative manner; "we agreed tentatively on a dinner
+           date"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

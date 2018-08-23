@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>spike</Word>
+  <Definitions>
+    <Definition>
+      <Word>spike</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>spike
+     
+        &lt;jargon&gt; To defeat a selection mechanism by introducing a
+        (sometimes temporary) device that forces a specific result.
+        The word is used in several industries; telephone engineers
+        refer to spiking a relay by inserting a pin to hold the relay
+        in either the closed or open state, and railroaders refer to
+        spiking a track switch so that it cannot be moved.  In
+        programming environments it normally refers to a temporary
+        change, usually for testing purposes (as opposed to a
+        permanent change, which would be called {hard-coded}).
+     
+        (1999-10-18)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>spike</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Spike \Spike\, n. [Akin to LG. spiker, spieker, a large nail, D.
+   spijker, Sw. spik, Dan. spiger, Icel. sp[=i]k; all perhaps
+   from L. spica a point, an ear of grain; but in the sense of
+   nail more likely akin to E. spoke of a wheel. Cf. {Spine}.]
+   1. A sort of very large nail; also, a piece of pointed iron
+      set with points upward or outward.
+      [1913 Webster]
+
+   2. Anything resembling such a nail in shape.
+      [1913 Webster]
+
+            He wears on his head the corona radiata . . .; the
+            spikes that shoot out represent the rays of the sun.
+                                                  --Addison.
+      [1913 Webster]
+
+   3. An ear of corn or grain.
+      [1913 Webster]
+
+   4. (Bot.) A kind of flower cluster in which sessile flowers
+      are arranged on an unbranched elongated axis.
+      [1913 Webster]
+
+   {Spike grass} (Bot.), either of two tall perennial American
+      grasses ({Uniola paniculata}, and {U. latifolia}) having
+      broad leaves and large flattened spikelets.
+
+   {Spike rush}. (Bot.) See under {Rush}.
+
+   {Spike shell} (Zo["o]l.), any pteropod of the genus
+      {Styliola} having a slender conical shell.
+
+   {Spike team}, three horses, or a horse and a yoke of oxen,
+      harnessed together, a horse leading the oxen or the span.
+      [U.S.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>spike</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Spike \Spike\, v. t. [imp. &amp; p. p. {Spiked}; p. pr. &amp; vb. n.
+   {Spiking}.]
+   1. To fasten with spikes, or long, large nails; as, to spike
+      down planks.
+      [1913 Webster]
+
+   2. To set or furnish with spikes.
+      [1913 Webster]
+
+   3. To fix on a spike. [R.] --Young.
+      [1913 Webster]
+
+   4. To stop the vent of (a gun or cannon) by driving a spike
+      nail, or the like into it.
+      [1913 Webster]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>spike</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Spike \Spike\, n. [Cf. G. spieke, L. spica an ear of grain. See
+   {Spikenard}.] (Bot.)
+   Spike lavender. See {Lavender}.
+   [1913 Webster]
+
+   {Oil of spike} (Chem.), a colorless or yellowish aromatic oil
+      extracted from the European broad-leaved lavender, or
+      aspic ({Lavendula Spica}), used in artist's varnish and in
+      veterinary medicine. It is often adulterated with oil of
+      turpentine, which it much resembles.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>spike</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>spike v. 1. To defeat a selection mechanism by introducing a (sometimes
+   temporary) device that forces a specific result. The word is used in
+   several industries; telephone engineers refer to spiking a relay by
+   inserting a pin to hold the relay in either the closed or open state,
+   and railroaders refer to spiking a track switch so that it cannot be
+   moved. In programming environments it normally refers to a temporary
+   change, usually for testing purposes (as opposed to a permanent change,
+   which would be called {hardwired}). 2. [borderline techspeak] A visible
+   peak in an otherwise rather constant graph (e.g. a sudden surge in line
+   voltage, an unexpected short "high" on a logical line in a circuit).
+   Hackers frequently use this for a sudden short increase in some quantity
+   such as system load or network traffic.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>spike</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>spike
+     n 1: a transient variation in voltage or current
+     2: sports equipment consisting of a sharp point on the sole of
+        a shoe worn by athletes; "spikes provide greater traction"
+     3: fruiting spike of a cereal plant especially corn [syn: {ear},
+         {capitulum}]
+     4: (botany) an indeterminate inflorescence bearing sessile
+        flowers on an unbranched axis
+     5: a sharp rise followed by a sharp decline; "the seismograph
+        showed a sharp spike in response to the temblor"
+     6: a sharp-pointed projection along the top of a fence or wall
+     7: a long sharp-pointed implement (wood or metal)
+     8: any holding device consisting of a long sharp-pointed object
+     9: a long metal nail
+     v 1: stand in the way of
+     2: pierce with a sharp stake or point; "impale a shrimp on a
+        skewer" [syn: {transfix}, {impale}, {empale}]
+     3: secure with spikes
+     4: bring forth a spike or spikes; "my hyacinths and orchids are
+        spiking now" [syn: {spike out}]
+     5: add alcohol beverages [syn: {lace}, {fortify}]
+     6: manifest a sharp increase; "the voltage spiked"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

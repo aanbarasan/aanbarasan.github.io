@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>staphylococcus</Word>
+  <Definitions>
+    <Definition>
+      <Word>staphylococcus</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>staphylococcus
+     n : spherical gram-positive parasitic bacteria that tend to form
+         irregular colonies; some cause boils or septicemia or
+         infections [syn: {staphylococci}, {staph}]
+     [also: {staphylococci} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

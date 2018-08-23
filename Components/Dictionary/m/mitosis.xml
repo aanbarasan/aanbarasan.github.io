@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mitosis</Word>
+  <Definitions>
+    <Definition>
+      <Word>mitosis</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Karyokinesis \Kar"y*o*ki*ne`sis\
+   (k[a^]r`[i^]*[-o]*k[-i]*n[=e]"s[i^]s), n. [NL., fr. Gr.
+   ka`ryon a nut, kernel + kinei^n to move.]
+   1. (Biol.) The indirect division of cells in which, prior to
+      division of the cell protoplasm, complicated changes take
+      place in the nucleus, attended with movement of the
+      nuclear fibrils; -- opposed to {karyostenosis}. The
+      nucleus becomes enlarged and convoluted, and finally the
+      threads are separated into two groups which ultimately
+      become disconnected and constitute the daughter nuclei.
+      Called also {mitosis}. See {Cell development}, under
+      {Cell}.
+      [1913 Webster]
+
+   2. The changes that occur in the nucleus of a cell,
+      especially movements of the chromosomes, in the process of
+      cell division.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mitosis</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mitosis \Mi*to"sis\, n. [NL., fr. Gr. ? a thread.] (Biol.)
+   See {Karyokinesis}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mitosis</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mitosis
+     n : cell division in which the nucleus divides into nuclei
+         containing the same number of chromosomes
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

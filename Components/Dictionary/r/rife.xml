@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>rife</Word>
+  <Definitions>
+    <Definition>
+      <Word>rife</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Rife \Rife\, a. [AS. r[=i]f abundant, or Icel. r[=i]fr
+   munificent; akin to OD. riff, rijve, abundant.]
+   1. Prevailing; prevalent; abounding.
+      [1913 Webster]
+
+            Before the plague of London, inflammations of the
+            lungs were rife and mortal.           --Arbuthnot.
+      [1913 Webster]
+
+            Even now the tumult of loud mirth
+            Was rife, and perfect in may listening ear.
+                                                  --Milton.
+      [1913 Webster]
+
+   2. Having power; active; nimble. [Obs.]
+      [1913 Webster]
+
+            What! I am rife a little yet.         --J. Webster.
+      [1913 Webster] -- {Rife"ly}, adv. -- {Rife"ness}, n.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>rife</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>rife
+     adj 1: encountered generally especially at the present time; "the
+            prevailing opinion was that a trade war could be
+            averted"; "the most prevalent religion in our area";
+            "speculation concerning the books author was rife"
+            [syn: {prevailing}, {prevalent}]
+     2: excessively abundant [syn: {overabundant}, {plethoric}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

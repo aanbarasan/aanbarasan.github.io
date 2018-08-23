@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>motivated</Word>
+  <Definitions>
+    <Definition>
+      <Word>motivated</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>motivated \motivated\ adj.
+   Having a strong motive; -- of people. Opposite of
+   {unmotivated}. [Narrower terms: {driven, impelled}]
+   [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>motivated</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>motivated
+     adj : provided with a motive or given incentive for action; "a
+           highly motivated child can learn almost anything"; "a
+           group of politically motivated men" [ant: {unmotivated}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>virulent</Word>
+  <Definitions>
+    <Definition>
+      <Word>virulent</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Virulent \Vir"u*lent\, a. [L. virulentus, fr. virus poison: cf.
+   F. virulent. See {Virus}.]
+   1. Extremely poisonous or venomous; very active in doing
+      injury.
+      [1913 Webster]
+
+            A contagious disorder rendered more virulent by
+            uncleanness.                          --Sir W.
+                                                  Scott.
+      [1913 Webster]
+
+   2. Very bitter in enmity; actuated by a desire to injure;
+      malignant; as, a virulent invective.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>virulent</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>virulent
+     adj 1: extremely poisonous or injurious; producing venom; "venomous
+            snakes"; "a virulent insect bite" [syn: {deadly}, {venomous}]
+     2: infectious; having the ability to cause disease [ant: {avirulent}]
+     3: harsh or corrosive in tone; "an acerbic tone piercing
+        otherwise flowery prose"; "a barrage of acid comments";
+        "her acrid remarks make her many enemies"; "bitter words";
+        "blistering criticism"; "caustic jokes about political
+        assassination, talk-show hosts and medical ethics"; "a
+        sulfurous denunciation" [syn: {acerb}, {acerbic}, {acid},
+        {acrid}, {bitter}, {blistering}, {caustic}, {sulfurous}, {sulphurous},
+         {venomous}, {vitriolic}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

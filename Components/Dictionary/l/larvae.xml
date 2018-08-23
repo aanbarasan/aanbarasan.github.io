@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>larvae</Word>
+  <Definitions>
+    <Definition>
+      <Word>larvae</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Larva \Lar"va\ (l[aum]r"v[.a]), n.; pl. L. {Larv[ae]}
+   (l[aum]r"v[ae]), E. {Larvas} (l[aum]r"v[.a]z). [L. larva
+   ghost, specter, mask.]
+   1. (Zo["o]l.) Any young insect from the time that it hatches
+      from the egg until it becomes a pupa, or chrysalis. During
+      this time it usually molts several times, and may change
+      its form or color each time. The larv[ae] of many insects
+      are much like the adults in form and habits, but have no
+      trace of wings, the rudimentary wings appearing only in
+      the pupa stage. In other groups of insects the larv[ae]
+      are totally unlike the parents in structure and habits,
+      and are called {caterpillars}, {grubs}, {maggots}, etc.
+      [1913 Webster]
+
+   2. (Zo["o]l.) The early, immature form of any animal when
+      more or less of a metamorphosis takes place, before the
+      assumption of the mature shape.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>larvae</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>larva
+     n : the immature free-living form of most invertebrates and
+         amphibians and fish which at hatching from the egg is
+         fundamentally unlike its parent and must metamorphose
+     [also: {larvae} (pl)]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>larvae</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>larvae
+     See {larva}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

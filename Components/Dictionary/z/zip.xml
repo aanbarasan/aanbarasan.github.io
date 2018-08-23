@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>zip</Word>
+  <Definitions>
+    <Definition>
+      <Word>zip</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>zip
+     
+        1. &lt;tool, compression, file format&gt; To create a compressed
+        {archive} (a "zip file") from one or more files using
+        {PKWare}'s {PKZIP} or a compatible {archiver}.  Its use is
+        spreading from {MS-DOS} now that portable implementations of
+        the {algorithm} have been written.
+     
+        zip is also the name of a {Unix} archiving utility compatible
+        with {PKZIP}.  {unzip} is the corresponding de-archiver.
+     
+        See also {gzip}, {tar and feather}.
+     
+        2. &lt;storage&gt; {Zip Drive}.
+     
+        [{Jargon File}]
+     
+        (1996-08-26)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>zip</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Zip \Zip\ (z[i^]p), n. [Imitative.]
+   A hissing or sibilant sound such as that made by a flying
+   bullet.
+   [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>zip</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Zip \Zip\, v. i.
+   To make, or move with, such a sound.
+   [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>zip</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>zip vt. [primarily MS-DOS] To create a compressed archive from a group
+   of files using PKWare's PKZIP or a compatible archiver. Its use is
+   spreading now that portable implementations of the algorithm have been
+   written. Commonly used as follows: "I'll zip it up and send it to you."
+   See {tar and feather}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>zip</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>ZIP
+     Zigzag Inline Package (VRAM)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>zip</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>ZIP
+     Zone Information Protocol (AppleTalk)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>zip</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>zip
+     n 1: a quantity of no importance; "it looked like nothing I had
+          ever seen before"; "reduced to nil all the work we had
+          done"; "we racked up a pathetic goose egg"; "it was all
+          for naught"; "I didn't hear zilch about it" [syn: {nothing},
+           {nil}, {nix}, {nada}, {null}, {aught}, {cipher}, {cypher},
+           {goose egg}, {naught}, {zero}, {zilch}]
+     2: a fastener for locking together two toothed edges by means
+        of a sliding tab [syn: {slide fastener}, {zipper}, {zip-fastener}]
+     v 1: close with a zipper; "Zip up your jacket--it's cold" [syn: {zip
+          up}, {zipper}] [ant: {unzip}]
+     2: move very fast; "The runner zipped past us at breakneck
+        speed" [syn: {travel rapidly}, {speed}, {hurry}]
+     [also: {zipping}, {zipped}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

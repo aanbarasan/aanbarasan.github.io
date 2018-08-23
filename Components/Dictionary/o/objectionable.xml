@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>objectionable</Word>
+  <Definitions>
+    <Definition>
+      <Word>objectionable</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Objectionable \Ob*jec"tion*a*ble\, a.
+   Liable to objection; likely to be objected to or disapproved
+   of; offensive; as, objectionable words. --
+   {Ob*jec"tion*a*bly}, adv.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>objectionable</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>objectionable
+     adj 1: causing disapproval or protest; "a vulgar and objectionable
+            person" [syn: {obnoxious}, {unpleasant}]
+     2: liable to objection or debate; used of something one might
+        take exception to; "a thoroughly unpleasant highly
+        exceptionable piece of writing"; "found the politician's
+        views objectionable" [syn: {exceptionable}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mascot</Word>
+  <Definitions>
+    <Definition>
+      <Word>mascot</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>MASCOT
+     
+        Modular Approach to Software Construction Operation and Test:
+        a method for software design aimed at real-time embedded
+        systems from the Royal Signals and Research Establishment, UK.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mascot</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Mascot, TN (CDP, FIPS 46400)
+  Location: 36.06821 N, 83.76614 W
+  Population (1990): 2138 (877 housing units)
+  Area: 18.0 sq km (land), 0.4 sq km (water)
+  Zip code(s): 37806
+Mascot, VA
+  Zip code(s): 23108
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mascot</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mascot \Mas"cot\, Mascotte \Mas"cotte\, n. [Through French fr.
+   Pr. mascot a little sorcerer or magician, mascotto
+   witchcraft, sorcery.]
+   1. A person who is supposed to bring good luck to the
+      household to which he or she belongs.
+      [1913 Webster]
+
+   2. Hence: Anything that brings good luck; especially, an
+      animal kept by a group, as a sports team, to serve as a
+      symbol and to bring luck.
+      [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mascot</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mascot
+     n : a person or animal that is adopted by a team or other group
+         as a symbolic figure
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pascal</Word>
+  <Definitions>
+    <Definition>
+      <Word>pascal</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Pascal
+     
+        &lt;language&gt; (After the French mathematician {Blaise Pascal}
+        (1623-1662)) A programming language designed by {Niklaus
+        Wirth} around 1970.  Pascal was designed for simplicity and
+        for teaching programming, in reaction to the complexity of
+        {ALGOL 68}.  It emphasises {structured programming}
+        constructs, data structures and {strong typing}. Innovations
+        included {enumeration types}, {subranges}, sets, {variant
+        records}, and the {case statement}.  Pascal has been extremely
+        influential in programming language design and has a great
+        number of variants and descendants.
+     
+        ANSI/IEEE770X3.97-1993 is very similar to {ISO Pascal} but
+        does not include {conformant arrays}.
+     
+        ISO 7185-1983(E).  Level 0 and Level 1.  Changes from Jensen &amp;
+        Wirth's Pascal include name equivalence; names must be bound
+        before they are used; loop index must be local to the
+        procedure; formal procedure parameters must include their
+        arguments; {conformant array schema}s.
+     
+        An ALGOL-descended language designed by Niklaus Wirth on the
+        CDC 6600 around 1967--68 as an instructional tool for
+        elementary programming.  This language, designed primarily to
+        keep students from shooting themselves in the foot and thus
+        extremely restrictive from a general-purpose-programming point
+        of view, was later promoted as a general-purpose tool and, in
+        fact, became the ancestor of a large family of languages
+        including Modula-2 and {Ada} (see also {bondage-and-discipline
+        language}).  The hackish point of view on Pascal was probably
+        best summed up by a devastating (and, in its deadpan way,
+        screamingly funny) 1981 paper by Brian Kernighan (of {K&amp;R}
+        fame) entitled "Why Pascal is Not My Favourite Programming
+        Language", which was turned down by the technical journals but
+        circulated widely via photocopies.  It was eventually
+        published in "Comparing and Assessing Programming Languages",
+        edited by Alan Feuer and Narain Gehani (Prentice-Hall, 1984).
+        Part of his discussion is worth repeating here, because its
+        criticisms are still apposite to Pascal itself after ten years
+        of improvement and could also stand as an indictment of many
+        other bondage-and-discipline languages.  At the end of a
+        summary of the case against Pascal, Kernighan wrote:
+     
+        9. There is no escape
+     
+        This last point is perhaps the most important.  The language
+        is inadequate but circumscribed, because there is no way to
+        escape its limitations.  There are no casts to disable the
+        type-checking when necessary.  There is no way to replace the
+        defective run-time environment with a sensible one, unless one
+        controls the compiler that defines the "standard procedures".
+        The language is closed.
+     
+        People who use Pascal for serious programming fall into a
+        fatal trap.  Because the language is impotent, it must be
+        extended.  But each group extends Pascal in its own direction,
+        to make it look like whatever language they really want.
+        Extensions for separate compilation, Fortran-like COMMON,
+        string data types, internal static variables, initialisation,
+        {octal} numbers, bit operators, etc., all add to the utility
+        of the language for one group but destroy its portability to
+        others.
+     
+        I feel that it is a mistake to use Pascal for anything much
+        beyond its original target.  In its pure form, Pascal is a toy
+        language, suitable for teaching but not for real programming.
+     
+        Pascal has since been almost entirely displaced (by {C}) from
+        the niches it had acquired in serious applications and systems
+        programming, but retains some popularity as a hobbyist
+        language in the {MS-DOS} and {Macintosh} worlds.
+     
+        See also {Kamin's interpreters}, {p2c}.
+     
+        ["The Programming Language Pascal", N. Wirth, Acta Informatica
+        1:35-63, 1971].
+     
+        ["PASCAL User Manual and Report", K. Jensen &amp; N. Wirth,
+        Springer 1975] made significant revisions to the language.
+     
+        [BS 6192, "Specification for Computer Programming Language
+        Pascal", {British Standards Institute} 1982].
+     
+        [{Jargon File}]
+     
+        (1996-06-12)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pascal</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Pascal-
+     
+        Pascal subset used in Brinch Hansen on Pascal Compilers, P.
+        Brinch Hansen, P-H 1985.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pascal</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>Pascal n. An Algol-descended language designed by Niklaus Wirth on the
+   CDC 6600 around 1967-68 as an instructional tool for elementary
+   programming. This language, designed primarily to keep students from
+   shooting themselves in the foot and thus extremely restrictive from a
+   general-purpose-programming point of view, was later promoted as a
+   general-purpose tool and, in fact, became the ancestor of a large family
+   of languages including Modula-2 and {{Ada}} (see also
+   {bondage-and-discipline language}). The hackish point of view on Pascal
+   was probably best summed up by a devastating (and, in its deadpan way,
+   screamingly funny) 1981 paper by Brian Kernighan (of {K&amp;R} fame)
+   entitled "Why Pascal is Not My Favorite Programming Language", which was
+   turned down by the technical journals but circulated widely via
+   photocopies. It was eventually published in "Comparing and Assessing
+   Programming Languages", edited by Alan Feuer and Narain Gehani
+   (Prentice-Hall, 1984). Part of his discussion is worth repeating here,
+   because its criticisms are still apposite to Pascal itself after many
+   years of improvement and could also stand as an indictment of many other
+   bondage-and-discipline languages. (The entire essay is available at
+   `http://www.lysator.liu.se/c/bwk-on-pascal.html'.) At the end of a
+   summary of the case against Pascal, Kernighan wrote:
+
+  9. There is no escape
+  
+  This last point is perhaps the most important.  The language is
+  inadequate but circumscribed, because there is no way to escape its
+  limitations.  There are no casts to disable the type-checking when
+  necessary.  There is no way to replace the defective run-time
+  environment with a sensible one, unless one controls the compiler
+  that defines the "standard procedures".  The language is closed.
+  
+  People who use Pascal for serious programming fall into a fatal
+  trap.  Because the language is impotent, it must be extended.  But
+  each group extends Pascal in its own direction, to make it look
+  like whatever language they really want.  Extensions for separate
+  compilation, FORTRAN-like COMMON, string data types, internal
+  static variables, initialization, octal numbers, bit operators,
+  etc., all add to the utility of the language for one group but
+  destroy its portability to others.
+  
+  I feel that it is a mistake to use Pascal for anything much beyond
+  its original target.  In its pure form, Pascal is a toy language,
+  suitable for teaching but not for real programming.
+  
+   Pascal has since been entirely displaced (mainly by {C}) from the
+   niches it had acquired in serious applications and systems programming,
+   and from its role as a teaching language by Java.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pascal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pascal
+     n 1: a unit of pressure equal to one newton per square meter
+          [syn: {Pa}]
+     2: French mathematician and philosopher and Jansenist; invented
+        an adding machine; contributed (with Fermat) to the theory
+        of probability (1623-1662) [syn: {Blaise Pascal}]
+     3: a programing language designed to teach programming through
+        a top-down modular approach
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>west</Word>
+  <Definitions>
+    <Definition>
+      <Word>west</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>West, MS (town, FIPS 78680)
+  Location: 33.19812 N, 89.78142 W
+  Population (1990): 184 (105 housing units)
+  Area: 1.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 39192
+West, TX (city, FIPS 77332)
+  Location: 31.80321 N, 97.09283 W
+  Population (1990): 2515 (1159 housing units)
+  Area: 3.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 76691
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>west</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>West \West\, adv. [AS. west.]
+   Westward.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>west</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>West \West\, v. i.
+   [1913 Webster]
+   1. To pass to the west; to set, as the sun. [Obs.] ``The hot
+      sun gan to west.'' --Chaucer.
+      [1913 Webster]
+
+   2. To turn or move toward the west; to veer from the north or
+      south toward the west.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>west</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>West \West\, n. [AS. west, adv.; akin to D. west, G. west,
+   westen, OHG. westan, Icel. vestr, Sw. vest, vester, vestan,
+   Dan. vest, vesten, and perhaps to L. vesper evening, Gr. ?.
+   ????. Cf. {Vesper}, {Visigoth}.]
+   [1913 Webster]
+   1. The point in the heavens where the sun is seen to set at
+      the equinox; or, the corresponding point on the earth;
+      that one of the four cardinal points of the compass which
+      is in a direction at right angles to that of north and
+      south, and on the left hand of a person facing north; the
+      point directly opposite to east.
+      [1913 Webster]
+
+            And fresh from the west is the free wind's breath.
+                                                  --Bryant.
+      [1913 Webster]
+
+   2. A country, or region of country, which, with regard to
+      some other country or region, is situated in the direction
+      toward the west.
+      [1913 Webster]
+
+   3. Specifically:
+      (a) The Westen hemisphere, or the New World so called, it
+          having been discovered by sailing westward from
+          Europe; the Occident.
+      (b) (U. S. Hist. &amp; Geog.) Formerly, that part of the
+          United States west of the Alleghany mountains; now,
+          commonly, the whole region west of the Mississippi
+          river; esp., that part which is north of the Indian
+          Territory, New Mexico, etc. Usually with the definite
+          article.
+          [1913 Webster]
+
+   {West by north}, {West by south}, according to the notation
+      of the mariner's compass, that point which lies 111/4[deg]
+      to the north or south, respectively, of the point due
+      west.
+
+   {West northwest}, {West southwest}, that point which lies
+      221/2[deg] to the north or south of west, or halfway
+      between west and northwest or southwest, respectively. See
+      Illust. of {Compass}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>west</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>West \West\, a.
+   1. Lying toward the west; situated at the west, or in a
+      western direction from the point of observation or
+      reckoning; proceeding toward the west, or coming from the
+      west; as, a west course is one toward the west; an east
+      and west line; a west wind blows from the west.
+      [1913 Webster]
+
+            This shall be your west border.       --Num. xxxiv.
+                                                  6.
+      [1913 Webster]
+
+   2. (Eccl.) Designating, or situated in, that part of a church
+      which is opposite to, and farthest from, the east, or the
+      part containing the chancel and choir.
+      [Webster 1913 Suppl.]
+
+   {West end}, the fashionable part of London, commencing from
+      the east, at Charing Cross.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>west</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>west
+     adj : situated in or facing or moving toward the west [ant: {east}]
+     n 1: the countries of (originally) Europe and (now including)
+          North and South America [syn: {Occident}]
+     2: the cardinal compass point that is a 270 degrees [syn: {due
+        west}, {W}]
+     3: the region of the United States lying to the west of the
+        Mississippi River [syn: {western United States}]
+     4: British writer (born in Ireland) (1892-1983) [syn: {Rebecca
+        West}, {Dame Rebecca West}, {Cicily Isabel Fairfield}]
+     5: United States film actress (1892-1980) [syn: {Mae West}]
+     6: English painter (born in America) who became the second
+        president of the Royal Academy (1738-1820) [syn: {Benjamin
+        West}]
+     adv : to, toward, or in the west; "we moved west to Arizona"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>successor</Word>
+  <Definitions>
+    <Definition>
+      <Word>successor</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>SuccessoR
+     
+        A language for {distributed computing} derived from {SR}.
+     
+        ["SuccessoR: Refinements to SR", R.A. Olsson et al, TR 84-3, U
+        Arizona 1984].
+     
+        (1994-12-15)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>successor</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>successor
+     
+        {daughter}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>successor</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Successor \Suc*ces"sor\, n. [OE. successour, OF. successur,
+   successor, F. successeur, L. successor. See {Succeed}.]
+   One who succeeds or follows; one who takes the place which
+   another has left, and sustains the like part or character; --
+   correlative to predecessor; as, the successor of a deceased
+   king. --Chaucer.
+   [1913 Webster]
+
+         A gift to a corporation, either of lands or of
+         chattels, without naming their successors, vests an
+         absolute property in them so lond as the corporation
+         subsists.                                --Blackstone.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>successor</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>successor
+     n 1: a person who follows next in order; "he was President
+          Lincoln's successor" [syn: {replacement}]
+     2: a thing or person that immediately replaces something or
+        someone
+     3: a person who inherits some title or office [syn: {heir}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

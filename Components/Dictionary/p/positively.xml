@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>positively</Word>
+  <Definitions>
+    <Definition>
+      <Word>positively</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Positively \Pos"i*tive*ly\, adv.
+   In a positive manner; absolutely; really; expressly; with
+   certainty; indubitably; peremptorily; dogmatically; --
+   opposed to negatively.
+   [1913 Webster]
+
+         Good and evil which is removed may be esteemed good or
+         evil comparatively, and positively simply. --Bacon.
+   [1913 Webster]
+
+         Give me some breath, some little pause, my lord,
+         Before I positively speak herein.        --Shak.
+   [1913 Webster]
+
+         I would ask . . . whether . . . the divine law does not
+         positively require humility and meekness. --Sprat.
+   [1913 Webster]
+
+   {Positively charged} or {Positively electrified} (Elec.),
+      having a charge of positive electricity; -- opposed to
+      {negatively charged}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>positively</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>positively
+     adv 1: extremely; "it was positively monumental"
+     2: so as to be positive; in a positive manner; "she intended
+        her remarks to be interpreted positively"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

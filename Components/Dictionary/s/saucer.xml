@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>saucer</Word>
+  <Definitions>
+    <Definition>
+      <Word>saucer</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Saucer \Sau"cer\, n. [F. sauci[`e]re, from sauce. See {Sauce}.]
+   1. A small pan or vessel in which sauce was set on a table.
+      [Obs.] --Bacon.
+      [1913 Webster]
+
+   2. A small dish, commonly deeper than a plate, in which a cup
+      is set at table.
+      [1913 Webster]
+
+   3. Something resembling a saucer in shape. Specifically:
+      (a) A flat, shallow caisson for raising sunken ships.
+      (b) A shallow socket for the pivot of a capstan.
+          [1913 Webster]
+
+   {Flying saucer}, a type of Unidentified Flying Object, having
+      a biconvex discoid shape; such objects are occasionally
+      reported to have been sighted, but no example of one has
+      been reliably shown to exist. They are believed by
+      ufologists to originate in outer space, but they are
+      generally presumed to be misinterpretations of ordinary
+      phenomena, illusions or imaginary objects. Fraudulent
+      photographs purporting to show flying saucers are
+      published from time to time.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>saucer</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>saucer
+     n 1: something with a round shape like a flat circular plate
+          [syn: {disk}, {disc}]
+     2: a small shallow dish for holding a cup at the table
+     3: directional antenna consisting of a parabolic reflector for
+        microwave or radio frequency radiation [syn: {dish}, {dish
+        aerial}, {dish antenna}]
+     4: a disk used in throwing competitions [syn: {discus}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

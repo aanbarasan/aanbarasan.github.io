@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>inhaled</Word>
+  <Definitions>
+    <Definition>
+      <Word>inhaled</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Inhale \In*hale"\, v. t. [imp. &amp; p. p. {Inhaled}; p. pr. &amp; vb.
+   n. {Inhaling}.] [L. inhalare to breathe upon; pref. in- in +
+   halare to breathe: cf. F. inhaler. Cf. {Exhale}.]
+   To breathe or draw into the lungs; to inspire; as, to inhale
+   air; -- opposed to exhale.
+   [1913 Webster]
+
+         Martin was walking forth to inhale the fresh breeze of
+         the evening.                             --Arbuthnot.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>inhaled</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>inhaled \inhaled\ adj.
+   drawn into the lungs; breathed in; as, inhaled smoke can
+   damage the lungs. Inverse of exhaled.
+   [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>inhaled</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>inhaled
+     adj : drawn into the lungs; breathed in; "inhaled smoke can damage
+           the lungs" [ant: {exhaled}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

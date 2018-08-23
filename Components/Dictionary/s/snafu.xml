@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>snafu</Word>
+  <Definitions>
+    <Definition>
+      <Word>snafu</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>SNAFU
+     Situation Normal All Fouled Up (telecommunication-slang)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>snafu</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>snafu
+     adj : snarled or stalled in complete confusion; "situation
+           normal--all fucked-up" [syn: {fucked-up}]
+     n : an acronym often used by soldiers in World War II: situation
+         normal all fucked up
+     v : cause to be in a state of complete confusion
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

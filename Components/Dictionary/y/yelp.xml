@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>yelp</Word>
+  <Definitions>
+    <Definition>
+      <Word>yelp</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Yelp \Yelp\, v. i. [imp. &amp; p. p. {Yelped}; p. pr. &amp; vb. n.
+   {Yelping}.] [OE. yelpen, [yogh]elpen, to boast, boast
+   noisily, AS. gielpan, gilpan, gylpan; akin to OHG. gelph
+   arrogant: cf. Icel. gj[=a]lpa to yelp. Cf. {Yap}.]
+   [1913 Webster]
+   1. To boast. [Obs.]
+      [1913 Webster]
+
+            I keep [care] not of armes for to yelpe. --Chaucer.
+      [1913 Webster]
+
+   2. To utter a sharp, quick cry, as a hound; to bark shrilly
+      with eagerness, pain, or fear; to yaup.
+      [1913 Webster]
+
+            A little herd of England's timorous deer,
+            Mazed with a yelping kennel of French curs? --Shak.
+      [1913 Webster]
+
+            At the least flourish of a broomstick or ladle, he
+            would fly to the door with a yelping precipitation.
+                                                  --W. Irving.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>yelp</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Yelp \Yelp\, n.
+   A sharp, quick cry; a bark. --Chaucer.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>yelp</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>yelp
+     n : a sharp high-pitched cry (especially by a dog) [syn: {yelping}]
+     v : bark in a high-pitched tone; "the puppies yelped" [syn: {yip},
+          {yap}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>neutralization</Word>
+  <Definitions>
+    <Definition>
+      <Word>neutralization</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Neutralization \Neu`tral*i*za"tion\, n. [Cf. F. neutralisation.]
+   1. The act or process of neutralizing, or the state of being
+      neutralized.
+      [1913 Webster]
+
+   2. (Chem.) The act or process by which an acid and a base are
+      combined in such proportions that the resulting compound
+      is neutral. See {Neutral}, a., 4.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>neutralization</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>neutralization
+     n 1: a chemical reaction in which an acid and a base interact
+          with the formation of a salt; with strong acids and
+          bases the essential reaction is the combination of
+          hydrogen ions with hydroxyl ions to form water [syn: {neutralisation},
+           {neutralization reaction}, {neutralisation reaction}]
+     2: action intended to keep a country politically neutral or
+        exclude it from a possible war; "the neutralization of
+        Belgium" [syn: {neutralisation}]
+     3: (euphemism) the removal of a threat by killing or destroying
+        it (especially in a covert operation or military
+        operation) [syn: {neutralisation}]
+     4: action intended to nullify the effects of some previous
+        action [syn: {neutralisation}, {counteraction}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>retrospect</Word>
+  <Definitions>
+    <Definition>
+      <Word>retrospect</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Retrospect \Re"tro*spect\, v. i. [L. retrospicere; retro back +
+   specere, spectum, to look. See {Spy}, and cf. {Expect}.]
+   To look backward; hence, to affect or concern what is past.
+   [1913 Webster]
+
+         It may be useful to retrospect to an early period. --A.
+                                                  Hamilton.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>retrospect</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Retrospect \Re"tro*spect\, n.
+   A looking back on things past; view or contemplation of the
+   past. --Cowper.
+   [1913 Webster]
+
+         We may introduce a song without retrospect to the old
+         comedy.                                  --Landor.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>retrospect</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>retrospect
+     n : contemplation of things past; "in retrospect"
+     v : look back upon (a period of time, sequence of events, etc.);
+         remember; "she reviewed her achievements with pride"
+         [syn: {review}, {look back}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

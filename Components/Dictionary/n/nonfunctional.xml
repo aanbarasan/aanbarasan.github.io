@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nonfunctional</Word>
+  <Definitions>
+    <Definition>
+      <Word>nonfunctional</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>nonfunctional \nonfunctional\ adj.
+   1. Not having or performing a function. [Narrower terms:
+      {cosmetic, decorative, ornamental ] Also See:
+      {unserviceable}. {functional}
+      [WordNet 1.5]
+
+   2. Not performing or able to perform its regular function;
+      as, the yard was littered with nonfunctional vehicles
+      waiting to be repaired. [Narrower terms: {down(predicate)
+      ]. Antonym: {functioning}.
+
+   Syn: malfunctioning, unserviceable, out of order.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nonfunctional</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nonfunctional
+     adj 1: not having or performing a function [ant: {functional}]
+     2: not performing or able to perform its regular function; "a
+        malfunctioning valve" [syn: {malfunctioning}] [ant: {functioning}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sesame</Word>
+  <Definitions>
+    <Definition>
+      <Word>sesame</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sesame \Ses"a*me\, n. [L. sesamum, sesama, Gr. ????, ???: cf. F.
+   s['e]same.] (Bot.)
+   Either of two annual herbaceous plants of the genus {Sesamum}
+   ({S. Indicum}, and {S. orientale}), from the seeds of which
+   an oil is expressed; also, the small obovate, flattish seeds
+   of these plants, sometimes used as food. See {Benne}.
+   [1913 Webster]
+
+   {Open Sesame}, the magical command which opened the door of
+      the robber's den in the Arabian Nights' tale of ``The
+      Forty Thieves;'' hence, a magical password.
+
+   {Sesame grass}. (Bot.) Same as {Gama grass}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sesame</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sesame
+     n : East Indian annual erect herb; source of sesame seed or
+         benniseed and sesame oil [syn: {benne}, {benni}, {benny},
+          {Sesamum indicum}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

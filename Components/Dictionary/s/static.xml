@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>static</Word>
+  <Definitions>
+    <Definition>
+      <Word>static</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Static \Stat"ic\ (st[a^]t"[i^]k), Statical \Stat"ic*al\
+   (-[i^]*kal), a. [Gr. statiko`s causing to stand, skilled in
+   weighing, fr. 'ista`nai to cause to stand: cf. F. statique.
+   See {Stand}, and cf. {Stage}.]
+   1. Resting; acting by mere weight without motion; as,
+      statical pressure; static objects.
+      [1913 Webster]
+
+   2. Pertaining to bodies at rest or in equilibrium.
+      [1913 Webster]
+
+   {Static electricity}, {Statical electricity}. See the Note
+      under {Electricity}, 1.
+
+   {Statical moment}. See under {Moment}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>static</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>static
+     adj 1: not active or moving; "a static village community and a
+            completely undynamic type of agriculture"; "static
+            feudal societies" [syn: {unchanging}]
+     2: not in physical motion; "the inertia of an object at rest"
+        [syn: {inactive}, {motionless}, {still}]
+     3: concerned with or producing or caused by static electricity;
+        "an electrostatic generator produces high-voltage static
+        electricity" [syn: {electrostatic}]
+     4: showing little if any change; "a static population" [syn: {stable},
+         {unchanging}]
+     n 1: a crackling or hissing noise cause by electrical
+          interference [syn: {atmospherics}, {atmospheric static}]
+     2: angry criticism; "they will probably give you a lot of
+        static about your editorial"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

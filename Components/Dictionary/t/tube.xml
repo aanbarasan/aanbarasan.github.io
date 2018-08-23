@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tube</Word>
+  <Definitions>
+    <Definition>
+      <Word>tube</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>tube
+     
+        1. &lt;hardware&gt; A {CRT} terminal.  Never used in the mainstream
+        sense of TV; real hackers don't watch TV, except for Loony
+        Toons, Rocky &amp; Bullwinkle, Trek Classic, the Simpsons, and the
+        occasional cheesy old swashbuckler movie.
+     
+        2. &lt;electronics&gt; {electron tube}.
+     
+        3. &lt;jargon&gt; (IBM) To send a copy of something to someone
+        else's terminal.  "Tube me that note."
+     
+        [{Jargon File}]
+     
+        (1996-02-05)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tube</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Subway \Sub"way`\, n.
+   1. An underground way or gallery; especially, a passage under
+      a street, in which water mains, gas mains, telegraph
+      wires, etc., are conducted.
+      [1913 Webster]
+
+   2. An underground railroad, usually having trains powered by
+      electricity provided by an electric line running through
+      the underground tunnel. It is usually confined to the
+      center portion of cities; -- called also {tube}, and in
+      Britain, {underground}. In certain other countries (as in
+      France or Russia) it is called the {metro}.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tube</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tube \Tube\, v. t. [imp. &amp; p. p. {Tubed}; p. pr. &amp; vb. n.
+   {Tubing}.]
+   To furnish with a tube; as, to tube a well.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tube</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tube \Tube\, n. [L. tubus; akin to tuba a trumpet: cf F. tube.]
+   1. A hollow cylinder, of any material, used for the
+      conveyance of fluids, and for various other purposes; a
+      pipe.
+      [1913 Webster]
+
+   2. A telescope. ``Glazed optic tube.'' --Milton.
+      [1913 Webster]
+
+   3. A vessel in animal bodies or plants, which conveys a fluid
+      or other substance.
+      [1913 Webster]
+
+   4. (Bot.) The narrow, hollow part of a gamopetalous corolla.
+      [1913 Webster]
+
+   5. (Gun.) A priming tube, or friction primer. See under
+      {Priming}, and {Friction}.
+      [1913 Webster]
+
+   6. (Steam Boilers) A small pipe forming part of the boiler,
+      containing water and surrounded by flame or hot gases, or
+      else surrounded by water and forming a flue for the gases
+      to pass through.
+      [1913 Webster]
+
+   7. (Zo["o]l.)
+      (a) A more or less cylindrical, and often spiral, case
+          secreted or constructed by many annelids, crustaceans,
+          insects, and other animals, for protection or
+          concealment. See Illust. of {Tubeworm}.
+      (b) One of the siphons of a bivalve mollusk.
+          [1913 Webster]
+
+   8. (Elec. Railways) A tunnel for a tube railway; also
+      (Colloq.), a tube railway; a subway. [Chiefly Eng.]
+
+   Note: In the New York area, the subways running under the
+         Hudson River are sometimes referred to as the tube.
+         [Webster 1913 Suppl. +PJC]
+
+   {Capillary tube}, a tube of very fine bore. See {Capillary}.
+      
+
+   {Fire tube} (Steam Boilers), a tube which forms a flue.
+
+   {Tube coral}. (Zo["o]l.) Same as {Tubipore}.
+
+   {Tube foot} (Zo["o]l.), one of the ambulacral suckers of an
+      echinoderm.
+
+   {Tube plate}, or {Tube sheet} (Steam Boilers), a flue plate.
+      See under {Flue}.
+
+   {Tube pouch} (Mil.), a pouch containing priming tubes.
+
+   {Tube spinner} (Zo["o]l.), any one of various species of
+      spiders that construct tubelike webs. They belong to
+      {Tegenaria}, {Agelena}, and allied genera.
+
+   {Water tube} (Steam Boilers), a tube containing water and
+      surrounded by flame or hot gases.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tube</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>tube 1. n. A CRT terminal. Never used in the mainstream sense of TV;
+   real hackers don't watch TV, except for Loony Toons, Rocky &amp; Bullwinkle,
+   Trek Classic, the Simpsons, Babylon 5, and the occasional cheesy old
+   swashbuckler movie. 2. [IBM] To send a copy of something to someone
+   else's terminal. "Tube me that note?"
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tube</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>tube
+     n 1: conduit consisting of a long hollow object (usually
+          cylindrical) used to hold and conduct objects or liquids
+          or gases [syn: {tubing}]
+     2: electronic device consisting of a system of electrodes
+        arranged in an evacuated glass or metal envelope [syn: {vacuum
+        tube}, {thermionic vacuum tube}, {thermionic tube}, {electron
+        tube}, {thermionic valve}]
+     3: a hollow cylindrical shape [syn: {pipe}]
+     4: (anatomy) any hollow cylindrical body structure [syn: {tube-shaped
+        structure}]
+     5: electric underground railway [syn: {metro}, {subway}, {underground}]
+     v 1: provide with a tube or insert a tube into
+     2: convey in a tube; "inside Paris, they used to tube mail"
+     3: ride or float on an inflated tube; "We tubed down the river
+        on a hot summer day"
+     4: place or enclose in a tube
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

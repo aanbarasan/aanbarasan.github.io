@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>millstone</Word>
+  <Definitions>
+    <Definition>
+      <Word>millstone</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Millstone, KY
+  Zip code(s): 41838
+Millstone, NJ (borough, FIPS 46590)
+  Location: 40.49935 N, 74.59127 W
+  Population (1990): 450 (172 housing units)
+  Area: 1.9 sq km (land), 0.0 sq km (water)
+Millstone, WV
+  Zip code(s): 25261
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>millstone</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Millstone \Mill"stone`\, n.
+   One of two circular stones used for grinding grain or other
+   substance in a mill[1].
+   [1913 Webster]
+
+         No man shall take the nether or the upper millstone to
+         pledge.                                  --Deut. xxiv.
+                                                  6.
+   [1913 Webster]
+
+   Note: The cellular siliceous rock called buhrstone is usually
+         employed for millstones; also, some kinds of lava, as
+         that Niedermendig, or other firm rock with rough
+         texture. The surface of a millstone has usually a
+         series of radial grooves in which the powdered material
+         collects.
+         [1913 Webster]
+
+   {Millstone girt} (Geol.), a hard and coarse, gritty
+      sandstone, dividing the Carboniferous from the
+      Subcarboniferous strata. See {Farewell rock}, under
+      {Farewell}, a., and Chart of {Geology}.
+
+   {To see into a millstone} or {To see through a millstone}, to
+      see into or through a difficult matter. (Colloq.)
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>millstone</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>millstone
+     n 1: (figurative) something that hinders or handicaps; "she was
+          an albatross around his neck" [syn: {albatross}]
+     2: any load that is difficult to carry
+     3: one of a pair of heavy flat disk-shaped stones that are
+        rotated against one another to grind the grain
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

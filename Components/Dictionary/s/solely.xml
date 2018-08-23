@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>solely</Word>
+  <Definitions>
+    <Definition>
+      <Word>solely</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Solely \Sole"ly\, adv.
+   Singly; alone; only; without another; as, to rest a cause
+   solely one argument; to rely solelyn one's own strength.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>solely</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>solely
+     adv : without any others being included or involved; "was entirely
+           to blame"; "a school devoted entirely to the needs of
+           problem children"; "he works for Mr. Smith
+           exclusively"; "did it solely for money"; "the burden of
+           proof rests on the prosecution alone"; "a privilege
+           granted only to him" [syn: {entirely}, {exclusively}, {alone},
+            {only}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

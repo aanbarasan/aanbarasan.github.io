@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>slumming</Word>
+  <Definitions>
+    <Definition>
+      <Word>slumming</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Slumming \Slum"ming\, vb. n.
+   Visiting slums. Sometimes used humorously, in reference to
+   the appearance of a dignified person in a situation generally
+   thought of as low-class.
+   [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>slumming</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>slum
+     n : a district of a city marked by poverty and inferior living
+         conditions [syn: {slum area}]
+     v : visit slums for entertainment or out of curiosity
+     [also: {slumming}, {slummed}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>slumming</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>slumming
+     See {slum}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

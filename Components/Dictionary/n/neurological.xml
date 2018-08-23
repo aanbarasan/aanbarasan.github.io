@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>neurological</Word>
+  <Definitions>
+    <Definition>
+      <Word>neurological</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Neurologic \Neu`ro*log"ic\, Neurological \Neu`ro*log"ic*al\, a.
+   Of or pertaining to neurology.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>neurological</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>neurological
+     adj : of or relating to or used in or practicing neurology;
+           "neurological evidence" [syn: {neurologic}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

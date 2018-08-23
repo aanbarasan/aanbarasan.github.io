@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mockery</Word>
+  <Definitions>
+    <Definition>
+      <Word>mockery</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mockery \Mock"er*y\, n.; pl. {Mockeries}. [F. moquerie.]
+   1. The act of mocking, deriding, and exposing to contempt, by
+      mimicry, by insincere imitation, or by a false show of
+      earnestness; a counterfeit appearance.
+      [1913 Webster]
+
+            It is, as the air, invulnerable,
+            And our vain blows malicious mockery. --Shak.
+      [1913 Webster]
+
+            Grace at meals is now generally so performed as to
+            look more like a mockery upon devotion than any
+            solemn application of the mind to God. --Law.
+      [1913 Webster]
+
+            And bear about the mockery of woe.    --Pope.
+      [1913 Webster]
+
+   2. Insulting or contemptuous action or speech; contemptuous
+      merriment; derision; ridicule.
+      [1913 Webster]
+
+            The laughingstock of fortune's mockeries. --Spenser.
+      [1913 Webster]
+
+   3. Subject of laughter, derision, or sport.
+      [1913 Webster]
+
+            The cruel handling of the city whereof they made a
+            mockery.                              --2 Macc.
+                                                  viii. 17.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mockery</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mockery
+     n 1: showing your contempt by derision [syn: {jeer}, {jeering}, {scoff},
+           {scoffing}]
+     2: a composition that imitates somebody's style in a humorous
+        way [syn: {parody}, {lampoon}, {spoof}, {sendup}, {takeoff},
+         {burlesque}, {travesty}, {charade}, {pasquinade}, {put-on}]
+     3: humorous or satirical mimicry [syn: {parody}, {takeoff}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>nightcrawler</Word>
+  <Definitions>
+    <Definition>
+      <Word>nightcrawler</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>nightcrawler \nightcrawler\ n.
+   A terrestrial worm that burrows into and helps aerate soil;
+   an earthworm. It often surfaces when the ground is cool or
+   wet, and is used as bait by anglers. The term is used mostly
+   in the northern and western U. S.
+
+   Syn: earthworm, angleworm, fishworm, fishing worm, wiggler,
+        nightwalker, dew worm, red worm.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>nightcrawler</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>nightcrawler
+     n : terrestrial worm that burrows into and helps aerate soil;
+         often surfaces when the ground is cool or wet; used as
+         bait by anglers [syn: {earthworm}, {angleworm}, {fishworm},
+          {fishing worm}, {wiggler}, {nightwalker}, {crawler}, {dew
+         worm}, {red worm}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

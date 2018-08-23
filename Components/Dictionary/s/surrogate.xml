@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>surrogate</Word>
+  <Definitions>
+    <Definition>
+      <Word>surrogate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Surrogate \Sur"ro*gate\, v. t.
+   To put in the place of another; to substitute. [R.] --Dr. H.
+   More.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>surrogate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Surrogate \Sur"ro*gate\, n. [L. surrogatus, p. p. of surrogare,
+   subrogare, to put in another's place, to substitute; sub
+   under + rogare to ask, ask for a vote, propose a law. See
+   {Rogation}, and cf. {Subrogate}.]
+   1. A deputy; a delegate; a substitute.
+      [1913 Webster]
+
+   2. The deputy of an ecclesiastical judge, most commonly of a
+      bishop or his chancellor, especially a deputy who grants
+      marriage licenses. [Eng.]
+      [1913 Webster]
+
+   3. In some States of the United States, an officer who
+      presides over the probate of wills and testaments and
+      yield the settlement of estates.
+      [1913 Webster]
+
+   4. a {surrogate mother}.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>surrogate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>surrogate
+     adj : providing or receiving nurture or parental care though not
+           related by blood or legal ties; "foster parent";
+           "foster child"; "foster home"; "surrogate father" [syn:
+            {foster}]
+     n 1: someone who takes the place of another person [syn: {alternate},
+           {replacement}]
+     2: a person appointed to represent or act on behalf of others
+        [syn: {deputy}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

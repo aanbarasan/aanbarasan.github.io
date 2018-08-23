@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lethal</Word>
+  <Definitions>
+    <Definition>
+      <Word>lethal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lethal \Leth"al\ (l[e^]th"[a^]l), n. [Lauric + ether + alcohol.]
+   (Chem.)
+   One of the higher alcohols of the paraffine series obtained
+   from spermaceti as a white crystalline solid. It is so called
+   because it occurs in the ethereal salt of lauric acid.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lethal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lethal \Le"thal\ (l[=e]"thal), a. [L. lethalis, letalis, fr.
+   lethum, letum, death: cf. F. l['e]thal.]
+   Deadly; mortal; fatal. ``The lethal blow.'' --W. Richardson.
+   -- {Le"thal*ly}, adv.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>lethal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>lethal
+     adj : of an instrument of certain death; "deadly poisons"; "lethal
+           weapon"; "a lethal injection" [syn: {deadly}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

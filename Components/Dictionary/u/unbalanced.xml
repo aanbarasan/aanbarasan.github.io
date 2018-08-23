@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unbalanced</Word>
+  <Definitions>
+    <Definition>
+      <Word>unbalanced</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Unbalanced \Un*bal"anced\, a. [In senses 1 and 2, pref. un- not
+   + balanced; in sense 3, 1st pref. un- + balance.]
+   1. Not balanced; not in equipoise; having no counterpoise, or
+      having insufficient counterpoise.
+      [1913 Webster]
+
+            Let Earth unbalanced from her orbit fly. --Pope.
+      [1913 Webster]
+
+   2. (Com.) Not adjusted; not settled; not brought to an
+      equality of debt and credit; as, an unbalanced account;
+      unbalanced books.
+      [1913 Webster]
+
+   3. Being, or being thrown, out of equilibrium; hence,
+      disordered or deranged in sense; unsteady; unsound; as, an
+      unbalanced mind. --Pope.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>unbalanced</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unbalanced
+     adj 1: being or thrown out of equilibrium [syn: {imbalanced}] [ant:
+             {balanced}]
+     2: affected with madness or insanity; "a man who had gone mad"
+        [syn: {brainsick}, {crazy}, {demented}, {distracted}, {disturbed},
+         {mad}, {sick}, {unhinged}]
+     3: debits and credits are not equal
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

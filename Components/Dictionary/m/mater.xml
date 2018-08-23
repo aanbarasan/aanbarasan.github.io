@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mater</Word>
+  <Definitions>
+    <Definition>
+      <Word>mater</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mater \Ma"ter\, n. [L., mother. See {Mother}.]
+   See {Alma mater}, {Dura mater}, and {Pia mater}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mater</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mater
+     n : informal terms for a mother [syn: {ma}, {mama}, {mamma}, {mom},
+          {momma}, {mommy}, {mammy}, {mum}, {mummy}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

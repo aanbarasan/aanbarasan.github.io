@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>thread</Word>
+  <Definitions>
+    <Definition>
+      <Word>thread</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>thread
+     
+        1. See {multithreading}.
+     
+        2. See {threaded code}.
+     
+        3. {topic thread}.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>thread</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Thread \Thread\ (thr[e^]d), n. [OE. threed, [thorn]red, AS.
+   [thorn]r[=ae]d; akin to D. draad, G. draht wire, thread, OHG.
+   dr[=a]t, Icel. [thorn]r[=a][eth]r a thread, Sw. tr[*a]d, Dan.
+   traad, and AS. [thorn]r[=a]wan to twist. See {Throw}, and cf.
+   {Third}.]
+   1. A very small twist of flax, wool, cotton, silk, or other
+      fibrous substance, drawn out to considerable length; a
+      compound cord consisting of two or more single yarns
+      doubled, or joined together, and twisted; also, one fiber
+      of a cord composed of multiple fibers.
+      [1913 Webster]
+
+   2. A filament of any substance, as of glass, gold or silver;
+      a filamentous part of an object, such as a flower; a
+      component fiber of any or of any fibrous substance, as of
+      bark.
+      [1913 Webster]
+
+   3. The prominent part of the spiral of a screw or nut; the
+      rib. See {Screw}, n., 1.
+      [1913 Webster]
+
+   4. (Fig.) Something continued in a long course or tenor; a
+      recurrent theme or related sequence of events in a larger
+      story; as the thread of a story, or of life, or of a
+      discourse. --Bp. Burnet.
+      [1913 Webster]
+
+   5. Fig.: Composition; quality; fineness. [Obs.]
+      [1913 Webster]
+
+            A neat courtier,
+            Of a most elegant thread.             --B. Jonson.
+      [1913 Webster]
+
+   6. (Computers) A related sequence of instructions or actions
+      within a program that runs at least in part independent of
+      other actions within the program; -- such threads are
+      capable of being executed only in oprating systems
+      permittnig multitasking.
+      [PJC]
+
+   7. (Computers) A sequence of messages posted to an on-line
+      newsgroup or discussion group, dealing with the same
+      topic; -- messages in such a thread typically refer to a
+      previous posting, thus allowing their identification as
+      part of the thread. Some news-reading programs allow a
+      user to follow a single such thread independent of the
+      other postings to that newsgroup.
+      [PJC]
+
+   {Air thread}, the fine white filaments which are seen
+      floating in the air in summer, the production of spiders;
+      gossamer.
+
+   {Thread and thrum}, the good and bad together. [Obs.] --Shak.
+
+   {Thread cell} (Zo["o]l.), a lasso cell. See under {Lasso}.
+
+   {Thread herring} (Zo["o]l.), the gizzard shad. See under
+      {Gizzard}.
+
+   {Thread lace}, lace made of linen thread.
+
+   {Thread needle}, a game in which children stand in a row,
+      joining hands, and in which the outer one, still holding
+      his neighbor, runs between the others; -- called also
+      {thread the needle}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>thread</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Thread \Thread\, v. t. [imp. &amp; p. p. {Threaded}; p. pr. &amp; vb. n.
+   {Threading}.]
+   1. To pass a thread through the eye of; as, to thread a
+      needle.
+      [1913 Webster]
+
+   2. To pass or pierce through as a narrow way; also, to effect
+      or make, as one's way, through or between obstacles; to
+      thrid.
+      [1913 Webster]
+
+            Heavy trading ships . . . threading the Bosphorus.
+                                                  --Mitford.
+      [1913 Webster]
+
+            They would not thread the gates.      --Shak.
+      [1913 Webster]
+
+   3. To form a thread, or spiral rib, on or in; as, to thread a
+      screw or nut.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>thread</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>thread n. [Usenet, GEnie, CompuServe] Common abbreviation of `topic
+   thread', a more or less continuous chain of postings on a single topic.
+   To `follow a thread' is to read a series of Usenet postings sharing a
+   common subject or (more correctly) which are connected by Reference
+   headers. The better newsreaders can present news in thread order
+   automatically. Not to be confused with the techspeak sense of `thread',
+   e.g. a lightweight process.
+
+   Interestingly, this is far from a neologism. The OED says: "That which
+   connects the successive points in anything, esp. a narrative, train of
+   thought, or the like; the sequence of events or ideas continuing
+   throughout the whole course of anything;" Citations are given going back
+   to 1642!
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>thread</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>thread
+     n 1: a fine cord of twisted fibers (of cotton or silk or wool or
+          nylon etc.) used in sewing and weaving [syn: {yarn}]
+     2: any long object resembling a thin line; "a mere ribbon of
+        land"; "the lighted ribbon of traffic"; "from the air the
+        road was a gray thread"; "a thread of smoke climbed
+        upward" [syn: {ribbon}]
+     3: the connections that link the various parts of an event or
+        argument together; "I couldn't follow his train of
+        thought"; "he lost the thread of his argument" [syn: {train
+        of thought}]
+     4: the raised helical rib going around a screw [syn: {screw
+        thread}]
+     v 1: to move or cause to move in a sinuous, spiral, or circular
+          course; "the river winds through the hills"; "the path
+          meanders through the vineyards"; "sometimes, the gout
+          wanders through the entire body" [syn: {weave}, {wind},
+          {meander}, {wander}]
+     2: pass a thread through; "thread a needle"
+     3: remove facial hair by tying a fine string around it and
+        pulling at the string; "She had her eyebrows threaded"
+     4: pass through or into; "thread tape"; "thread film"
+     5: thread on or as if on a string; "string pearls on a string";
+        "the child drew glass beads on a string"; "thread dried
+        cranberries" [syn: {string}, {draw}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

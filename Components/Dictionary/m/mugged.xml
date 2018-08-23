@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>mugged</Word>
+  <Definitions>
+    <Definition>
+      <Word>mugged</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mug
+     n 1: the quantity that can be held in a mug [syn: {mugful}]
+     2: a person who is gullible and easy to take advantage of [syn:
+         {chump}, {fool}, {gull}, {mark}, {patsy}, {fall guy}, {sucker},
+         {soft touch}]
+     3: the human face (`kisser' and `smiler' and `mug' are informal
+        terms for `face' and `phiz' is British) [syn: {countenance},
+         {physiognomy}, {phiz}, {visage}, {kisser}, {smiler}]
+     4: with handle and usually cylindrical
+     v : rob at gunpoint or with the threat of violence; "I was
+         mugged in the streets of New York last night"
+     [also: {mugging}, {mugged}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>mugged</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>mugged
+     See {mug}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

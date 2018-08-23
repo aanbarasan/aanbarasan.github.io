@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>preliminary</Word>
+  <Definitions>
+    <Definition>
+      <Word>preliminary</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Preliminary \Pre*lim"i*na*ry\, a. [Pref. pre + L. liminaris
+   belonging to a threshold, fr. limen, liminis, threshold,
+   entrance: cf. F. pr['e]liminaire. Cf. {Limit}.]
+   Introductory; previous; preceding the main discourse or
+   business; prefatory; as, preliminary observations to a
+   discourse or book; preliminary articles to a treaty;
+   preliminary measures; preliminary examinations.
+   [1913 Webster]
+
+   Syn: Introductory; preparatory; prefatory; proemial;
+        previous; prior; precedent; antecedent.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>preliminary</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Preliminary \Pre*lim"i*na*ry\, n.; pl. {Preliminaries}.
+   That which precedes the main discourse, work, design, or
+   business; something introductory or preparatory; as, the
+   preliminaries to a negotiation or duel; to take one's
+   preliminaries the year before entering college.
+   [1913 Webster]
+
+   Syn: Introduction; preface; prelude.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>preliminary</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>preliminary
+     adj : designed to orient or acquaint with a situation before
+           proceeding; "a preliminary investigation"
+     n 1: a minor match preceding the main event [syn: {prelim}]
+     2: something that serves as a preceding event or introduces
+        what follows; "training is a necessary preliminary to
+        employment"; "drinks were the overture to dinner" [syn: {overture},
+         {prelude}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

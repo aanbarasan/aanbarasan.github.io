@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>macroscopic</Word>
+  <Definitions>
+    <Definition>
+      <Word>macroscopic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Macroscopic \Mac`ro*scop"ic\, Macroscopical \Mac`ro*scop"ic*al\,
+   a. [Macro- + Gr. ? to view.]
+   Visible to the unassisted eye; -- as opposed to
+   {microscopic}. -- {Mac`ro*scop"ic*al*ly}, adv.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>macroscopic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>macroscopic
+     adj : large enough to be visible to the naked eye [syn: {macroscopical},
+            {large}] [ant: {microscopic}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

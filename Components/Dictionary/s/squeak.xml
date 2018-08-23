@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>squeak</Word>
+  <Definitions>
+    <Definition>
+      <Word>squeak</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Squeak
+     
+        &lt;language&gt; 1. &lt;graphics&gt;
+     
+        ["Squeak: A Language for Communicating with Mice", L. Cardelli
+        et al, Comp Graphics 19(3):199-204, July 1985].
+     
+        See {Newsqueak}.
+     
+        2. A {Smalltalk} implementation and a media {authoring} tool
+        by members of the original {Xerox PARC} team which created
+        Smalltalk ({Alan Kay}, Dan Ingalls, et al).  Squeak is an
+        {open-source} implementation, with a highly portable {virtual
+        machine} implemented in a subset of Smalltalk (translated into
+        {C} and compiled by a C {compiler} of the target {platform}).
+     
+        {Squeak Home (http://www.squeak.org/)}.
+     
+        {SqueakCentral (http://www.squeakland.org/)}.
+     
+        (2002-11-03)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>squeak</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Squeak \Squeak\, n.
+   A sharp, shrill, disagreeable sound suddenly uttered, either
+   of the human voice or of any animal or instrument, such as is
+   made by carriage wheels when dry, by the soles of leather
+   shoes, or by a pipe or reed.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>squeak</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Squeak \Squeak\ (skw[=e]k), v. i. [imp. &amp; p. p. {Squeaked}
+   (skw[=e]kt); p. pr. &amp; vb. n. {Squeaking}.] [Probably of
+   imitative origin; cf. Sw. sqv["a]ka to croak, Icel. skvakka
+   to give a sound as of water shaken in a bottle.]
+   1. To utter a sharp, shrill cry, usually of short duration;
+      to cry with an acute tone, as an animal; or, to make a
+      sharp, disagreeable noise, as a pipe or quill, a wagon
+      wheel, a door; to creak.
+      [1913 Webster]
+
+            Who can endure to hear one of the rough old Romans
+            squeaking through the mouth of an eunuch? --Addison.
+      [1913 Webster]
+
+            Zoilus calls the companions of Ulysses the
+            ``squeaking pigs'' of Homer.          --Pope.
+      [1913 Webster]
+
+   2. To break silence or secrecy for fear of pain or
+      punishment; to speak; to confess. [Colloq.]
+
+   Syn: squeal.
+        [1913 Webster]
+
+              If he be obstinate, put a civil question to him
+              upon the rack, and he squeaks, I warrant him.
+                                                  --Dryden.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>squeak</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>squeak
+     n 1: a short high-pitched noise; "the squeak of of shoes on
+          powdery snow"
+     2: something achieved (or escaped) by a narrow margin [syn: {close
+        call}, {close shave}, {squeaker}, {narrow escape}]
+     v : make a high-pitched, screeching noise; "The door creaked
+         when I opened it slowly" [syn: {screech}, {creak}, {screak},
+          {skreak}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

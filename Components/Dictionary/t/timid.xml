@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>timid</Word>
+  <Definitions>
+    <Definition>
+      <Word>timid</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Timid \Tim"id\, a. [L. timidus, fr. timere to fear; cf. Skr. tam
+   to become breathless, to become stupefief: cf. F. timide.]
+   Wanting courage to meet danger; easily frightened; timorous;
+   not bold; fearful; shy.
+   [1913 Webster]
+
+         Poor is the triumph o'er the timid hare. --Thomson.
+   [1913 Webster]
+
+   Syn: Fearful; timorous; afraid; cowardly; pusillanimous;
+        faint-hearted; shrinking; retiring.
+        [1913 Webster] -- {Tim"id*ly}, adv. -- {Tim"id*ness}, n.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>timid</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>timid
+     adj 1: showing fear and lack of confidence [ant: {bold}]
+     2: contemptibly timid
+     3: lacking self-confidence; "stood in the doorway diffident and
+        abashed"; "problems that call for bold not timid
+        responses"; "a very unsure young man" [syn: {diffident}, {shy},
+         {unsure}]
+     4: lacking conviction or boldness or courage; "faint heart
+        ne'er won fair lady" [syn: {faint}, {fainthearted}]
+     n : people who are fearful and cautious; "whitewater rafting is
+         not for the timid" [syn: {cautious}] [ant: {brave}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

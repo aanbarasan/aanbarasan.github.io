@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>peacefully</Word>
+  <Definitions>
+    <Definition>
+      <Word>peacefully</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Peaceful \Peace"ful\, a.
+   1. Possessing or enjoying peace; not disturbed by war,
+      tumult, agitation, anxiety, or commotion; quiet; tranquil;
+      as, a peaceful time; a peaceful country; a peaceful end.
+      [1913 Webster]
+
+   2. Not disposed or tending to war, tumult or agitation;
+      pacific; mild; calm; peaceable; as, peaceful words.
+      [1913 Webster]
+
+   Syn: See {Peaceable}.
+        [1913 Webster] --{Peace"ful*ly}, adv.. --
+        {Peace"ful*ness}, n.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>peacefully</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>peacefully
+     adv : in a peaceful manner; "the hen settled herself on the nest
+           most peacefully"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>promptly</Word>
+  <Definitions>
+    <Definition>
+      <Word>promptly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Promptly \Prompt"ly\, adv.
+   In a prompt manner.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>promptly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>promptly
+     adv 1: with little or no delay; "the rescue squad arrived
+            promptly"; "come here, quick!" [syn: {quickly}, {quick}]
+     2: in a punctual manner; "he did his homework promptly" [syn: {readily},
+         {pronto}, {without delay}]
+     3: at once (usually modifies an undesirable occurrence); "he
+        promptly forgot the address" [syn: {right away}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

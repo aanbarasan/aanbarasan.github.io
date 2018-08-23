@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>staples</Word>
+  <Definitions>
+    <Definition>
+      <Word>staples</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Staples, MN (city, FIPS 62446)
+  Location: 46.36398 N, 94.80343 W
+  Population (1990): 2754 (1247 housing units)
+  Area: 8.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 56479
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

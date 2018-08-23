@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>waldo</Word>
+  <Definitions>
+    <Definition>
+      <Word>waldo</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>waldo
+     
+        /wol'doh/ [Robert A. Heinlein's story "Waldo"] 1. A mechanical
+        agent, such as a gripper arm, controlled by a human limb.
+        When these were developed for the nuclear industry in the
+        mid-1940s they were named after the invention described by
+        Heinlein in the story, which he wrote in 1942.  Now known by
+        the more generic term "telefactoring", this technology is of
+        intense interest to NASA for tasks like space station
+        maintenance.
+     
+        2. At Harvard (particularly by Tom Cheatham and students),
+        this is used instead of {foobar} as a metasyntactic variable
+        and general nonsense word.  See {foo}, {bar}, {foobar},
+        {quux}.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>waldo</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Waldo, AL (town, FIPS 79488)
+  Location: 33.39087 N, 86.03539 W
+  Population (1990): 309 (115 housing units)
+  Area: 7.3 sq km (land), 0.1 sq km (water)
+Waldo, AR (city, FIPS 72350)
+  Location: 33.35247 N, 93.29532 W
+  Population (1990): 1495 (669 housing units)
+  Area: 5.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 71770
+Waldo, FL (city, FIPS 74925)
+  Location: 29.79055 N, 82.17166 W
+  Population (1990): 1017 (491 housing units)
+  Area: 4.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 32694
+Waldo, KS (city, FIPS 74575)
+  Location: 39.12015 N, 98.79750 W
+  Population (1990): 57 (45 housing units)
+  Area: 1.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 67673
+Waldo, KY
+  Zip code(s): 41632
+Waldo, OH (village, FIPS 80500)
+  Location: 40.46159 N, 83.08557 W
+  Population (1990): 340 (151 housing units)
+  Area: 1.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 43356
+Waldo, WI (village, FIPS 83100)
+  Location: 43.67559 N, 87.94654 W
+  Population (1990): 442 (155 housing units)
+  Area: 2.2 sq km (land), 0.1 sq km (water)
+  Zip code(s): 53093
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>waldo</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>waldo /wol'doh/ n. [From Robert A. Heinlein's story "Waldo"] 1. A
+   mechanical agent, such as a gripper arm, controlled by a human limb.
+   When these were developed for the nuclear industry in the mid-1940s they
+   were named after the invention described by Heinlein in the story, which
+   he wrote in 1942. Now known by the more generic term `telefactoring',
+   this technology is of intense interest to NASA for tasks like space
+   station maintenance. 2. At Harvard (particularly by Tom Cheatham and
+   students), this is used instead of {foobar} as a metasyntactic variable
+   and general nonsense word. See {foo}, {bar}, {foobar}, {quux}.
+
+
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>processor</Word>
+  <Definitions>
+    <Definition>
+      <Word>processor</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>processor
+     
+        {central processing unit}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>processor</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>processor
+     n 1: a business engaged in processing agricultural products and
+          preparing them for market
+     2: someone who processes things (foods or photographs or
+        applicants etc.)
+     3: (computer science) the part of a computer (a microprocessor
+        chip) that does most of the data processing; the CPU and
+        the memory form the central part of a computer to which
+        the peripherals are attached [syn: {central processing
+        unit}, {CPU}, {C.P.U.}, {central processor}, {mainframe}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

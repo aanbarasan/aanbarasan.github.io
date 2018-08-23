@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>trafficking</Word>
+  <Definitions>
+    <Definition>
+      <Word>trafficking</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Traffic \Traf"fic\, v. i. [imp. &amp; p. p. {Trafficked}; p. pr. &amp;
+   vb. n. {Trafficking}.] [F. trafiquer; cf. It. trafficare, Sp.
+   traficar, trafagar, Pg. traficar, trafegar, trafeguear, LL.
+   traficare; of uncertain origin, perhaps fr. L. trans across,
+   over + -ficare to make (see {-fy}, and cf. G. ["u]bermachen
+   to transmit, send over, e. g., money, wares); or cf. Pg.
+   trasfegar to pour out from one vessel into another, OPg.
+   also, to traffic, perhaps fr. (assumed) LL. vicare to
+   exchange, from L. vicis change (cf. {Vicar}).]
+   1. To pass goods and commodities from one person to another
+      for an equivalent in goods or money; to buy or sell goods;
+      to barter; to trade.
+      [1913 Webster]
+
+   2. To trade meanly or mercenarily; to bargain.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>trafficking</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>traffic
+     n 1: the aggregation of things (pedestrians or vehicles) coming
+          and going in a particular locality during a specified
+          period of time
+     2: buying and selling; especially illicit trade
+     3: the amount of activity over a communication system during a
+        given period of time; "heavy traffic overloaded the trunk
+        lines"; "traffic on the internet is lightest during the
+        night"
+     4: social or verbal interchange (usually followed by `with')
+        [syn: {dealings}]
+     v 1: deal illegally; "traffic drugs"
+     2: trade or deal a commodity; "They trafficked with us for
+        gold"
+     [also: {trafficking}, {trafficked}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>trafficking</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>trafficking
+     See {traffic}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

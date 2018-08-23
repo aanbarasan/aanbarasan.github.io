@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>polar</Word>
+  <Definitions>
+    <Definition>
+      <Word>polar</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Polar \Po"lar\, a. [Cf. F. polaire. See {Pole} of the earth.]
+   1. Of or pertaining to one of the poles of the earth, or of a
+      sphere; situated near, or proceeding from, one of the
+      poles; as, polar regions; polar seas; polar winds.
+      [1913 Webster]
+
+   2. Of or pertaining to the magnetic pole, or to the point to
+      which the magnetic needle is directed.
+      [1913 Webster]
+
+   3. (Geom.) Pertaining to, reckoned from, or having a common
+      radiating point; as, polar co["o]rdinates.
+      [1913 Webster]
+
+   {Polar axis}, that axis of an astronomical instrument, as an
+      equatorial, which is parallel to the earths axis.
+
+   {Polar bear} (Zo["o]l.), a large bear ({Ursus maritimus} syn.
+      {Thalarctos maritimus}) inhabiting the arctic regions. It
+      sometimes measures nearly nine feet in length and weighs
+      1,600 pounds. It is partially amphibious, very powerful,
+      and the most carnivorous of all the bears. The fur is
+      white, tinged with yellow. Called also {White bear}. See
+      {Bear}.
+
+   {Polar body}, {Polar cell}, or {Polar globule} (Biol.), a
+      minute cell which separates by karyokinesis from the ovum
+      during its maturation. In the maturation of ordinary ova
+      two polar bodies are formed, but in parthogenetic ova only
+      one. The first polar body formed is usually larger than
+      the second one, and often divides into two after its
+      separation from the ovum. Each of the polar bodies removes
+      maternal chromatin from the ovum to make room for the
+      chromatin of the fertilizing spermatozo["o]n; but their
+      functions are not fully understood.
+
+   {Polar circles} (Astron. &amp; Geog.), two circles, each at a
+      distance from a pole of the earth equal to the obliquity
+      of the ecliptic, or about 23[deg] 28', the northern called
+      the arctic circle, and the southern the antarctic circle.
+      
+
+   {Polar clock}, a tube, containing a polarizing apparatus,
+      turning on an axis parallel to that of the earth, and
+      indicating the hour of the day on an hour circle, by being
+      turned toward the plane of maximum polarization of the
+      light of the sky, which is always 90[deg] from the sun.
+
+   {Polar co["o]rdinates}. See under 3d {Co["o]rdinate}.
+
+   {Polar dial}, a dial whose plane is parallel to a great
+      circle passing through the poles of the earth. --Math.
+      Dict.
+
+   {Polar distance}, the angular distance of any point on a
+      sphere from one of its poles, particularly of a heavenly
+      body from the north pole of the heavens.
+
+   {Polar equation of a line} or {Polar equation of a surface},
+      an equation which expresses the relation between the polar
+      co["o]rdinates of every point of the line or surface.
+
+   {Polar forces} (Physics), forces that are developed and act
+      in pairs, with opposite tendencies or properties in the
+      two elements, as magnetism, electricity, etc.
+
+   {Polar hare} (Zo["o]l.), a large hare of Arctic America
+      ({Lepus arcticus}), which turns pure white in winter. It
+      is probably a variety of the common European hare ({Lepus
+      timidus}).
+
+   {Polar lights}, the aurora borealis or australis.
+
+   {Polar opposition}, or {Polaric opposition} or {Polar
+   contrast} or {Polaric contrast} (Logic), an opposition or
+      contrast made by the existence of two opposite conceptions
+      which are the extremes in a species, as white and black in
+      colors; hence, as great an opposition or contrast as
+      possible.
+
+   {Polar projection}. See under {Projection}.
+
+   {Polar spherical triangle} (Spherics), a spherical triangle
+      whose three angular points are poles of the sides of a
+      given triangle. See 4th {Pole}, 2.
+
+   {Polar whale} (Zo["o]l.), the right whale, or bowhead. See
+      {Whale}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>polar</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Polar \Po"lar\, n. (Conic Sections)
+   The right line drawn through the two points of contact of the
+   two tangents drawn from a given point to a given conic
+   section. The given point is called the pole of the line. If
+   the given point lies within the curve so that the two
+   tangents become imaginary, there is still a real polar line
+   which does not meet the curve, but which possesses other
+   properties of the polar. Thus the focus and directrix are
+   pole and polar. There are also poles and polar curves to
+   curves of higher degree than the second, and poles and polar
+   planes to surfaces of the second degree.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>polar</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>polar
+     adj 1: having a pair of equal and opposite charges
+     2: characterized by opposite extremes; completely opposed; "in
+        diametric contradiction to his claims"; "diametrical (or
+        opposite) points of view"; "opposite meanings"; "extreme
+        and indefensible polar positions" [syn: {diametric}, {diametrical},
+         {opposite}]
+     3: located at or near or coming from the earth's poles; "polar
+        diameter"; "polar zone"; "a polar air mass"; "Antarctica
+        is the only polar continent"
+     4: of or existing at or near a geographical pole or within the
+        Arctic or Antarctic Circles; "polar regions" [ant: {equatorial}]
+     5: extremely cold; "an arctic climate";  "a frigid day"; "gelid
+        waters of the North Atlantic"; "glacial winds"; "icy
+        hands"; "polar weather" [syn: {arctic}, {frigid}, {gelid},
+         {glacial}, {icy}]
+     6: being of crucial importance; "a pivotal event"; "Its pivotal
+        location has also exposed it to periodic invasions"- Henry
+        Kissinger; "the polar events of this study"; "a polar
+        principal" [syn: {pivotal}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

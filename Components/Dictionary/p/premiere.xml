@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>premiere</Word>
+  <Definitions>
+    <Definition>
+      <Word>premiere</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Premiere \Pre*mi[`e]re"\, a. fem. [F., prop. fem. of premier
+   first. See {Premier}, a.]
+   First; chief; as, a premi[`e]re danseuse. -- n. fem.; pl.
+   {-mi[`e]res} (F. pre*my[^a]r").
+   (a) The leading woman of a group, esp. in a theatrical cast.
+   (b) A first performance, as of a play; a first night.
+       [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>premiere</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>premiere
+     adj : preceding all others in time; "the premiere showing" [syn: {premier}]
+     n : the first public performance of a play or movie
+     v 1: be performed for the first time; "We premiered the opera of
+          the young composer and it was a critical success" [syn:
+          {premier}]
+     2: perform a work for the first time [syn: {premier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

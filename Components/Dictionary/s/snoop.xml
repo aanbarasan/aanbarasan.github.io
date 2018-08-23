@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>snoop</Word>
+  <Definitions>
+    <Definition>
+      <Word>snoop</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>snoop
+     n : a spy who makes uninvited inquiries into the private affairs
+         of others [syn: {snooper}]
+     v : watch, observe, or inquire secretly [syn: {spy}, {stag}, {sleuth}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

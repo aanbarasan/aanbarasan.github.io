@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sharpen</Word>
+  <Definitions>
+    <Definition>
+      <Word>sharpen</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sharpen \Sharp"en\, v. i.
+   To grow or become sharp.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sharpen</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sharpen \Sharp"en\, v. t. [imp. &amp; p. p. {Sarpened}; p. pr. &amp; vb.
+   n. {Sharpening}.] [See {Sharp}, a.]
+   To make sharp. Specifically:
+   (a) To give a keen edge or fine point to; to make sharper;
+       as, to sharpen an ax, or the teeth of a saw.
+   (b) To render more quick or acute in perception; to make more
+       ready or ingenious.
+       [1913 Webster]
+
+             The air . . . sharpened his visual ray
+             To objects distant far.              --Milton.
+       [1913 Webster]
+
+             He that wrestles with us strengthens our nerves and
+             sharpens our skill.                  --Burke.
+       [1913 Webster]
+   (c) To make more eager; as, to sharpen men's desires.
+       [1913 Webster]
+
+             Epicurean cooks
+             Sharpen with cloyless sauce his appetite. --Shak.
+       [1913 Webster]
+   (d) To make more pungent and intense; as, to sharpen a pain
+       or disease.
+   (e) To make biting, sarcastic, or severe. ``Sharpen each
+       word.'' --E. Smith.
+   (f) To render more shrill or piercing.
+       [1913 Webster]
+
+             Inclosures not only preserve sound, but increase
+             and sharpen it.                      --Bacon.
+       [1913 Webster]
+   (g) To make more tart or acid; to make sour; as, the rays of
+       the sun sharpen vinegar.
+   (h) (Mus.) To raise, as a sound, by means of a sharp; to
+       apply a sharp to.
+       [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sharpen</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sharpen
+     v 1: make sharp or sharper; "sharpen the knives" [ant: {dull}]
+     2: make sharp or sharper; "We had to sharpen our arguments"
+     3: become sharp or sharper; "The debate sharpened"
+     4: put (an image) into focus; "Please focus the image; we
+        cannot enjoy the movie" [syn: {focus}, {focalize}, {focalise}]
+        [ant: {blur}]
+     5: make (images or sounds) sharp or sharper [ant: {soften}]
+     6: raise the pitch of (musical notes) [ant: {flatten}]
+     7: give a point to; "The candles are tapered" [syn: {taper}, {point}]
+     8: make (one's senses) more acute; "This drug will sharpen your
+        vision" [syn: {heighten}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

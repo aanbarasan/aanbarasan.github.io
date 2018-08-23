@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>tom</Word>
+  <Definitions>
+    <Definition>
+      <Word>tom</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Tom, OK
+  Zip code(s): 74740
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tom</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tom \Tom\, n.
+   The knave of trumps at gleek. [Obs.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tom</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Tom \Tom\, n.
+   1. A familiar contraction of {Thomas}, a proper name of a
+      man.
+      [Webster 1913 Suppl.]
+
+   2. The male of certain animals; -- often used adjectively or
+      in composition; as, tom turkey, tomcat, etc.
+      [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>tom</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Tom
+     n 1: contemptuous name for a Black man who is abjectly servile
+          and deferential to Whites [syn: {Uncle Tom}]
+     2: male cat [syn: {tomcat}]
+     3: male turkey [syn: {turkey cock}, {gobbler}, {tom turkey}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

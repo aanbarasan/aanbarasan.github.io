@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unavailable</Word>
+  <Definitions>
+    <Definition>
+      <Word>unavailable</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unavailable
+     adj : not available or accessible or at hand; "fresh milk was
+           unavailable during the emergency"; "his secretary said
+           he was unavailable for comment" [ant: {available}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

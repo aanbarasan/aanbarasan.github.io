@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>vial</Word>
+  <Definitions>
+    <Definition>
+      <Word>vial</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Vial \Vi"al\, n. [OE. viole, fiole, F. fiole. See {Phial}.]
+   A small bottle, usually of glass; a little glass vessel with
+   a narrow aperture intended to be closed with a stopper; as, a
+   vial of medicine. [Written also {phial}.]
+   [1913 Webster]
+
+         Take thou this vial, being then in bed,
+         And this distilled liquor thou off.      --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>vial</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Vial \Vi"al\, v. t. [imp. &amp; p. p. {Vialed}or {Vialled}; p. pr. &amp;
+   vb. n. {Vialing} or {Vialling}.]
+   To put in a vial or vials. ``Precious vialed liquors.''
+   --Milton.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>vial</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>vial
+     n : a small bottle that contains a drug (especially a sealed
+         sterile container for injection by needle) [syn: {phial},
+          {ampule}, {ampul}, {ampoule}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

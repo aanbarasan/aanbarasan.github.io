@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>islamic</Word>
+  <Definitions>
+    <Definition>
+      <Word>islamic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Islamic \Islamic\ adj.
+   of or pertaining to Islamism; as, Islamic art.
+
+   Syn: Muslim, Moslem.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>islamic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mohammedan \Mo*ham"med*an\, a. [From Mohammed, fr. Ar.
+   muh['a]mmad praiseworthy, highly praised.]
+   Of or pertaining to Mohammed, or the religion and
+   institutions founded by Mohammed; in the latter sense,
+   synonymous with {Islamic}, the term preferred by Moslems.
+   [Written also {Mahometan}, {Mahomedan}, {Muhammadan}, etc.]
+   [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>islamic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Islamic
+     adj : of or relating to or supporting Islamism; "Islamic art"
+           [syn: {Muslim}, {Moslem}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

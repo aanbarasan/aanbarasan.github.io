@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pronoun</Word>
+  <Definitions>
+    <Definition>
+      <Word>pronoun</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pronoun \Pro"noun\, n. [Pref. pro- + noun: cf. F. pronom, L.
+   pronomen. See {Noun}.] (Gram.)
+   A word used instead of a noun or name, to avoid the
+   repetition of it. The personal pronouns in English are I,
+   thou or you, he, she, it, we, ye, and they.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pronoun</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pronoun
+     n : a function word that is used in place of a noun or noun
+         phrase
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

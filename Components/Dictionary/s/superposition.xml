@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>superposition</Word>
+  <Definitions>
+    <Definition>
+      <Word>superposition</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Superposition \Su`per*po*si"tion\, n. [Cf. F. superposition. See
+   {Super-}, and {Position}.]
+   The act of superposing, or the state of being superposed; as,
+   the superposition of rocks; the superposition of one plane
+   figure on another, in geometry.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>superposition</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>superposition
+     n 1: (geology) the deposition of one geological stratum on
+          another
+     2: (geology) the principle that in a series of stratified
+        sedimentary rocks the lowest stratum is the oldest [syn: {principle
+        of superposition}, {superposition principle}]
+     3: (geometry) the placement of one object ideally in the
+        position of another one in order to show that the two
+        coincide
+     4: the placement of one thing on top of another
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

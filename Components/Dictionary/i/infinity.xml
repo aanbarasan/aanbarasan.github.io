@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>infinity</Word>
+  <Definitions>
+    <Definition>
+      <Word>infinity</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>infinity
+     
+        1. &lt;mathematics&gt; The size of something {infinite}.
+     
+        Using the word in the context of sets is sloppy, since
+        different {infinite set}s aren't necessarily the same size
+        {cardinality} as each other.
+     
+        See also {aleph 0}
+     
+        2. &lt;programming&gt; The largest value that can be represented in
+        a particular type of variable ({register}, memory location,
+        data type, whatever).
+     
+        See also {minus infinity}.
+     
+        [{Jargon File}]
+     
+        (1994-11-18)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>infinity</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Infinity \In*fin"i*ty\, n.; pl. {Infinities}. [L. infinitas;
+   pref. in- not + finis boundary, limit, end: cf. F.
+   infinit['e]. See {Finite}.]
+   [1913 Webster]
+   1. Unlimited extent of time, space, or quantity; eternity;
+      boundlessness; immensity. --Sir T. More.
+      [1913 Webster]
+
+            There can not be more infinities than one; for one
+            of them would limit the other.        --Sir W.
+                                                  Raleigh.
+      [1913 Webster]
+
+   2. Unlimited capacity, energy, excellence, or knowledge; as,
+      the infinity of God and his perfections. --Hooker.
+      [1913 Webster]
+
+   3. Endless or indefinite number; great multitude; as an
+      infinity of beauties. --Broome.
+      [1913 Webster]
+
+   4. (Math.) A quantity greater than any assignable quantity of
+      the same kind.
+      [1913 Webster]
+
+   Note: Mathematically considered, infinity is always a limit
+         of a variable quantity, resulting from a particular
+         supposition made upon the varying element which enters
+         it. --Davies &amp; Peck (Math. Dict.).
+         [1913 Webster]
+
+   5. (Geom.) That part of a line, or of a plane, or of space,
+      which is infinitely distant. In modern geometry, parallel
+      lines or planes are sometimes treated as lines or planes
+      meeting at infinity.
+      [1913 Webster]
+
+   {Circle at infinity}, an imaginary circle at infinity,
+      through which, in geometry of three dimensions, every
+      sphere is imagined to pass.
+
+   {Circular points at infinity}. See under {Circular}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>infinity</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>infinity n. 1. The largest value that can be represented in a
+   particular type of variable (register, memory location, data type,
+   whatever). 2. `minus infinity': The smallest such value, not necessarily
+   or even usually the simple negation of plus infinity. In N-bit
+   twos-complement arithmetic, infinity is 2^(N-1) - 1 but minus infinity
+   is - (2^(N-1)), not -(2^(N-1) - 1). Note also that this is different
+   from "time T equals minus infinity", which is closer to a
+   mathematician's usage of infinity.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>infinity</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>infinity
+     n : time without end [syn: {eternity}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>lectured</Word>
+  <Definitions>
+    <Definition>
+      <Word>lectured</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Lecture \Lec"ture\, v. t. [imp. &amp; p. p. {Lectured} (-t[-u]rd);
+   p. pr. &amp; vb. n. {Lecturing}.]
+   1. To read or deliver a lecture to.
+      [1913 Webster]
+
+   2. To reprove formally and with authority.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

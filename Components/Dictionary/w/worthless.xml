@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>worthless</Word>
+  <Definitions>
+    <Definition>
+      <Word>worthless</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Worthless \Worth"less\, a. [AS. weor[eth]le['a]s.]
+   Destitute of worth; having no value, virtue, excellence,
+   dignity, or the like; undeserving; valueless; useless; vile;
+   mean; as, a worthless garment; a worthless ship; a worthless
+   man or woman; a worthless magistrate.
+   [1913 Webster]
+
+         'T is a worthless world to win or lose.  --Byron.
+   [1913 Webster] -- {Worth"less*ly}, adv. -- {Worth"less*ness},
+   n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>worthless</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>worthless
+     adj : lacking in excellence or value; "a worthless idler" [ant: {valuable}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

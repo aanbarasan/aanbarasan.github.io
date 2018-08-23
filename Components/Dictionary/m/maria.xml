@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>maria</Word>
+  <Definitions>
+    <Definition>
+      <Word>maria</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>maria \maria\ n. pl.
+   1. (Astron.) Plural form of {mare}, a dark region of
+      considerable extent on the surface of the moon.
+      [WordNet 1.5]
+
+   2. (Bot.) A valuable timber tree of Panama.
+
+   Syn: Calophyllum longifolium.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>maria</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>maria
+     n 1: a dark region of considerable extent on the surface of the
+          moon [syn: {mare}]
+     2: valuable timber tree of Panama [syn: {Calophyllum
+        longifolium}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

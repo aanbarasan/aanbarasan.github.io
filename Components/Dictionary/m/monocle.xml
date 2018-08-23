@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>monocle</Word>
+  <Definitions>
+    <Definition>
+      <Word>monocle</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Monocle \Mon"o*cle\, n. [F. See {Monocular}.]
+   An eyeglass for one eye. --Simmonds.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>monocle</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Eyeglass \Eye"glass`\, n.
+   1. A lens of glass worn in front of the eye to assist vision;
+      -- usually used in the plural, referring to a pair of
+      lenses fixed together in a frame, and worn resting on the
+      bridge of the nose, to improve the vision. A single
+      eyeglass in a frame is called a {monocle}.
+      [1913 Webster +PJC]
+
+   2. Eyepiece of a telescope, microscope, etc.
+      [1913 Webster]
+
+   3. The retina. [Poetic]
+      [1913 Webster]
+
+   4. A glass eyecup. See {Eyecup}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>monocle</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>monocle
+     n : lens for correcting defective vision in one eye; held in
+         place by facial muscles [syn: {eyeglass}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

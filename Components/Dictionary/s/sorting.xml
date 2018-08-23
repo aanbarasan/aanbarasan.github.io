@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>sorting</Word>
+  <Definitions>
+    <Definition>
+      <Word>sorting</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>sorting
+     
+        See {sort}.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sorting</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Sort \Sort\, v. t. [imp. &amp; p. p. {Sorted}; p. pr. &amp; vb. n.
+   {Sorting}.]
+   1. To separate, and place in distinct classes or divisions,
+      as things having different qualities; as, to sort cloths
+      according to their colors; to sort wool or thread
+      according to its fineness.
+      [1913 Webster]
+
+            Rays which differ in refrangibility may be parted
+            and sorted from one another.          --Sir I.
+                                                  Newton.
+      [1913 Webster]
+
+   2. To reduce to order from a confused state. --Hooker.
+      [1913 Webster]
+
+   3. To conjoin; to put together in distribution; to class.
+      [1913 Webster]
+
+            Shellfish have been, by some of the ancients,
+            compared and sorted with insects.     --Bacon.
+      [1913 Webster]
+
+            She sorts things present with things past. --Sir J.
+                                                  Davies.
+      [1913 Webster]
+
+   4. To choose from a number; to select; to cull.
+      [1913 Webster]
+
+            That he may sort out a worthy spouse. --Chapman.
+      [1913 Webster]
+
+            I'll sort some other time to visit you. --Shak.
+      [1913 Webster]
+
+   5. To conform; to adapt; to accommodate. [R.]
+      [1913 Webster]
+
+            I pray thee, sort thy heart to patience. --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>sorting</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>sorting
+     n 1: an operation that segregates items into groups according to
+          a specified criterion; "the bottleneck in mail delivery
+          it the process of sorting" [syn: {sort}]
+     2: the basic cognitive process of arranging into classes or
+        categories [syn: {classification}, {categorization}, {categorisation}]
+     3: grouping by class or kind or size
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

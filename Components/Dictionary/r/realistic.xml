@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>realistic</Word>
+  <Definitions>
+    <Definition>
+      <Word>realistic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Realistic \Re`al*is"tic\ (-[i^]s"t[i^]k), a.
+   Of or pertaining to the realists; in the manner of the
+   realists; characterized by realism rather than by
+   imagination.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>realistic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>realistic
+     adj 1: aware or expressing awareness of things as they really are;
+            "a realistic description"; "a realistic view of the
+            possibilities"; "a realistic appraisal of our
+            chances"; "the actors tried to create a realistic
+            portrayal of the Africans" [ant: {unrealistic}]
+     2: representing what is real; not abstract or ideal; "realistic
+        portraiture"; "a realistic novel"; "in naturalistic
+        colors"; "the school of naturalistic writers" [syn: {naturalistic}]
+     3: of or relating to the philosophical doctrine of realism; "a
+        realistic system of thought"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

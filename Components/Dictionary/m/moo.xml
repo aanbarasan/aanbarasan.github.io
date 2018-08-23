@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>moo</Word>
+  <Definitions>
+    <Definition>
+      <Word>moo</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>MOO
+     
+        {MUD Object Oriented}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>moo</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Moo \Moo\ (m[=o]), a., adv., &amp; n.
+   See {Mo}. [Obs.] --Chaucer.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>moo</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Moo \Moo\ (m[=oo]), v. i. [imp. &amp; p. p. {Mooed}; p. pr. &amp; vb. n.
+   {Mooing}.] [Of imitative origin.]
+   To make the noise of a cow; to low; -- a child's word.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>moo</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Moo \Moo\, n.
+   The lowing of a cow.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>moo</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>MOO
+     MUD Object Orientated (Internet, OOP, MUD)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>moo</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>moo
+     n : the sound made by a cow or bull
+     v : make a low noise, characteristic of bovines [syn: {low}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

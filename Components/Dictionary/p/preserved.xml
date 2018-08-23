@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>preserved</Word>
+  <Definitions>
+    <Definition>
+      <Word>preserved</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Preserve \Pre*serve"\, v. t. [imp. &amp; p. p. {Preserved}; p. pr. &amp;
+   vb. n. {Preserving}.] [F. pr['e]server, from L. prae before +
+   servare to save, preserve; cf. L. praeservare to observe
+   beforehand. See {Serve}.]
+   1. To keep or save from injury or destruction; to guard or
+      defend from evil, harm, danger, etc.; to protect.
+      [1913 Webster]
+
+            O Lord, thou preserved man and beast. --Ps. xxxvi.
+                                                  6.
+      [1913 Webster]
+
+            Now, good angels preserve the king.   --Shak.
+      [1913 Webster]
+
+   2. To save from decay by the use of some preservative
+      substance, as sugar, salt, etc.; to season and prepare for
+      remaining in a good state, as fruits, meat, etc.; as, to
+      preserve peaches or grapes.
+      [1913 Webster]
+
+            You can not preserve it from tainting. --Shak.
+      [1913 Webster]
+
+   3. To maintain throughout; to keep intact; as, to preserve
+      appearances; to preserve silence.
+      [1913 Webster]
+
+   {To preserve game}, to protect it from extermination.
+      [1913 Webster]
+
+   Syn: To keep; save; secure; uphold; sustain; defend; spare;
+        protect; guard; shield. See {Keep}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>preserved</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>preserved
+     adj 1: prevented from decaying or spoiling and prepared for future
+            use [ant: {fresh}]
+     2: kept intact or in a particular condition [ant: {destroyed}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

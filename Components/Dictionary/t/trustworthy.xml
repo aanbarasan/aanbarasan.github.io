@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>trustworthy</Word>
+  <Definitions>
+    <Definition>
+      <Word>trustworthy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Trustworthy \Trust"wor`thy\, a.
+   Worthy of trust or confidence; trusty. --
+   {Trust"wor`thi*ness}, n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>trustworthy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>trustworthy
+     adj 1: worthy of trust or belief; "a trustworthy report"; "an
+            experienced and trustworthy traveling companion" [syn:
+             {trusty}] [ant: {untrustworthy}]
+     2: taking responsibility for one's conduct and obligations;
+        "trustworthy public servants"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>voicemail</Word>
+  <Definitions>
+    <Definition>
+      <Word>voicemail</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>voice mail
+     
+        &lt;messaging, business&gt; Any system for sending, storing and
+        retrieving {audio} messages, like a telephone answering
+        machine.
+     
+        A voice mailbox is typically associated with a telephone
+        number or extension.  When the number is called and the line
+        is busy or not answered, the caller hears a message left by
+        the owner and is given instructions for leaving a message or
+        other available options, such as paging the individual or
+        being transferred to an operator.  The owner of a mailbox can
+        change the outgoing message or listen to incoming messages
+        after entering a {PIN}.  Members of a voice mail system can
+        generally forward or {broadcast} messages to other members'
+        boxes.
+     
+        The experience of two people trying to reach other by
+        telephone but always reaching each other's voice mail is
+        referred to as "(tele)phone tag".
+     
+        (1996-11-03)
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

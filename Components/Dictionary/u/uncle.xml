@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>uncle</Word>
+  <Definitions>
+    <Definition>
+      <Word>uncle</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Uncle \Un"cle\, n. [OE. uncle, OF. oncle, uncle, F. oncle, fr.
+   L. avunculus a maternal uncle, dim. of avus a grandfather;
+   akin to Lith. avynas uncle, Goth. aw? grandmother, Icel.
+   [=a]i great grandfather.]
+   1. The brother of one's father or mother; also applied to an
+      aunt's husband; -- the correlative of aunt in sex, and of
+      nephew and niece in relationship.
+      [1913 Webster]
+
+   2. A pawnbroker. [Slang] --Thackeray.
+      [1913 Webster]
+
+   3. An eldery man; -- used chiefly as a kindly or familiar
+      appellation, esp. (Southern U. S.) for a worthy old negro;
+      as, ``Uncle Remus.'' [Colloq.]
+
+            Plain old uncle as he [Socrates] was, with his great
+            ears, -- an immense talker.           --Emerson.
+      [Webster 1913 Suppl.]
+
+   {My uncle}, a pawnbroker. [Slang]
+
+   {Uncle Sam}, a humorous appellation given to the United
+      States Government. See {Uncle Sam}, in Dictionary of Noted
+      Names in Fiction.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>uncle</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>UNCLE
+     Unix Net for Computer security in Law Enforcement (org., USA, Unix),
+     "U.N.C.L.E."
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>uncle</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>uncle
+     n 1: the brother of your father or mother; the husband of your
+          aunt [ant: {aunt}]
+     2: a source of help and advice and encouragement; "he played
+        uncle to lonely students"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

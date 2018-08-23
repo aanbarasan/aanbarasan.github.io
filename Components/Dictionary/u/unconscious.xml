@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>unconscious</Word>
+  <Definitions>
+    <Definition>
+      <Word>unconscious</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Unconscious \Un*con"scious\, a.
+   1. Not conscious; having no consciousness or power of mental
+      perception; without cerebral appreciation; hence, not
+      knowing or regarding; ignorant; as, an unconscious man.
+      --Cowper.
+      [1913 Webster]
+
+   2. Not known or apprehended by consciousness; as, an
+      unconscious cerebration. ``Unconscious causes.''
+      --Blackmore.
+      [1913 Webster]
+
+   3. Having no knowledge by experience; -- followed by of; as,
+      a mule unconscious of the yoke. --Pope.
+      [1913 Webster] -- {Un*con"scious-ly}, adv. --
+      {Un*con"scious*ness}, n.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>unconscious</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>unconscious
+     adj 1: not conscious; lacking awareness and the capacity for
+            sensory perception as if asleep or dead; "lay
+            unconscious on the floor" [ant: {conscious}]
+     2: without conscious volition
+     3: (followed by `of') not knowing or perceiving; "happily
+        unconscious of the new calamity at home"- Charles Dickens
+        [syn: {unconscious(p)}]
+     n : that part of the mind wherein psychic activity takes place
+         of which the person is unaware [syn: {unconscious mind}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

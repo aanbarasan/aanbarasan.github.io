@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>union</Word>
+  <Definitions>
+    <Definition>
+      <Word>union</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>union
+     
+        1. &lt;set theory&gt; An operation on two {sets} which returns the
+        set of all elements that are a member of either or both of the
+        argument sets; normally written as an infix upper-case U
+        symbol.  The operator generalises to zero or more sets by
+        taking the union of the current partial result (initially the
+        empty set) with the next argument set, in any order.
+     
+        For example, (a, b, c) U (c, d, e) = (a, b, c, d, e)
+     
+        2. &lt;programming&gt; A {type} whose values may be of one of a
+        number of other types, thet current type depending on
+        conditions that are only known at {run-time}.  A {variable} of
+        union type must be allocated sufficient storage space to hold
+        the largest component type.  Some unions include extra
+        information to say which type of value the union currently has
+        (a "tagged union"), others rely on the program to keep track
+        of this independently.
+     
+        A union contrasts with a {structure} or {record} which stores
+        values of all component types at once.
+     
+        3. &lt;database&gt; An {SQL} {operator} that concatenates two result
+        sets, that must have the same number and types of {columns}.
+        The operator may be followed by the word "ALL" to indicate
+        that results that appear in both sets should appear twice in
+        the output.
+     
+        (2002-02-26)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>union</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Union, AL (town, FIPS 77616)
+  Location: 32.99343 N, 87.90550 W
+  Population (1990): 321 (120 housing units)
+  Area: 2.1 sq km (land), 0.0 sq km (water)
+Union, IA (city, FIPS 79545)
+  Location: 42.24294 N, 93.06263 W
+  Population (1990): 448 (223 housing units)
+  Area: 1.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 50258
+Union, IL (village, FIPS 76706)
+  Location: 42.23428 N, 88.54351 W
+  Population (1990): 542 (199 housing units)
+  Area: 1.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 60180
+Union, KY (city, FIPS 78384)
+  Location: 38.95291 N, 84.66917 W
+  Population (1990): 1001 (314 housing units)
+  Area: 5.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 41091
+Union, ME
+  Zip code(s): 04862
+Union, MI
+  Zip code(s): 49130
+Union, MO (city, FIPS 74626)
+  Location: 38.44826 N, 91.01262 W
+  Population (1990): 5909 (2306 housing units)
+  Area: 10.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 63084
+Union, MS (town, FIPS 75360)
+  Location: 32.57146 N, 89.11631 W
+  Population (1990): 1875 (829 housing units)
+  Area: 8.9 sq km (land), 0.0 sq km (water)
+  Zip code(s): 39365
+Union, NE (village, FIPS 49635)
+  Location: 40.81468 N, 95.92073 W
+  Population (1990): 299 (125 housing units)
+  Area: 0.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 68455
+Union, NH
+  Zip code(s): 03887
+Union, NJ (CDP, FIPS 74510)
+  Location: 40.69530 N, 74.26974 W
+  Population (1990): 50024 (19334 housing units)
+  Area: 23.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 07083
+Union, OH (city, FIPS 78470)
+  Location: 39.90270 N, 84.30992 W
+  Population (1990): 5501 (1826 housing units)
+  Area: 6.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 45322
+Union, OR (city, FIPS 75850)
+  Location: 45.20901 N, 117.86713 W
+  Population (1990): 1847 (802 housing units)
+  Area: 6.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 97883
+Union, SC (city, FIPS 73105)
+  Location: 34.72280 N, 81.62381 W
+  Population (1990): 9836 (4158 housing units)
+  Area: 19.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 29379
+Union, UT (CDP, FIPS 78110)
+  Location: 40.61910 N, 111.87257 W
+  Population (1990): 13684 (5399 housing units)
+  Area: 7.3 sq km (land), 0.0 sq km (water)
+Union, WA
+  Zip code(s): 98592
+Union, WV (town, FIPS 81940)
+  Location: 37.59063 N, 80.54319 W
+  Population (1990): 566 (296 housing units)
+  Area: 1.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 24983
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>union</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Union \Un"ion\ (?; 277), n. [F., from L. unio oneness, union, a
+   single large pearl, a kind of onion, fr. unus one. See {One},
+   and cf. {Onion}, {Unit}.]
+   1. The act of uniting or joining two or more things into one,
+      or the state of being united or joined; junction;
+      coalition; combination.
+      [1913 Webster]
+
+   Note: Union differs from connection, as it implies that the
+         bodies are in contact, without an inter?ening body;
+         whereas things may be connected by the in???vention of
+         a third body, as by a cord or chain.
+         [1913 Webster]
+
+   2. Agreement and conjunction of mind, spirit, will,
+      affections, or the like; harmony; concord.
+      [1913 Webster]
+
+   3. That which is united, or made one; something formed by a
+      combination or coalition of parts or members; a
+      confederation; a consolidated body; a league; as, the
+      weavers have formed a union; trades unions have become
+      very numerous; the United States of America are often
+      called the Union. --A. Hamilton.
+      [1913 Webster]
+
+   4. A textile fabric composed of two or more materials, as
+      cotton, silk, wool, etc., woven together.
+      [1913 Webster]
+
+   5. A large, fine pearl. [Obs.]
+      [1913 Webster]
+
+            If they [pearls] be white, great, round, smooth, and
+            weighty . . . our dainties and delicates here at
+            Rome . . . call them unions, as a man would say
+            ``singular,'' and by themselves alone. --Holland.
+      [1913 Webster]
+
+            In the cup an union shall he throw,
+            Richer than that which four successive kings
+            In Denmark's crown have worn.         --Shak.
+      [1913 Webster]
+
+   6. A device emblematic of union, used on a national flag or
+      ensign, sometimes, as in the military standard of Great
+      Britain, covering the whole field; sometimes, as in the
+      flag of the United States, and the English naval and
+      marine flag, occupying the upper inner corner, the rest of
+      the flag being called the fly. Also, a flag having such a
+      device; especially, the flag of Great Britain.
+      [1913 Webster]
+
+   Note: The union of the United States ensign is a cluster of
+         white stars, denoting the union of the States, and,
+         properly, equal in number to that of the States,
+         displayed on a blue field; the fly being composed of
+         alternate stripes of red and white. The union of the
+         British ensign is the three crosses of St. George, St.
+         Andrew, and St. Patrick in combination, denoting the
+         union of England, Scotland and Ireland, displayed on a
+         blue field in the national banner used on shore, on a
+         red, white, or blue field in naval ensigns, and with a
+         white border or fly in the merchant service.
+         [1913 Webster]
+
+   7. (Mach.) A joint or other connection uniting parts of
+      machinery, or the like, as the elastic pipe of a tender
+      connecting it with the feed pipe of a locomotive engine;
+      especially, a pipe fitting for connecting pipes, or pipes
+      and fittings, in such a way as to facilitate
+      disconnection.
+      [1913 Webster]
+
+   8. (Brewing) A cask suspended on trunnions, in which
+      fermentation is carried on.
+      [1913 Webster]
+
+   {Hypostatic union} (Theol.) See under {Hypostatic}.
+
+   {Latin union}. See under {Latin}.
+
+   {Legislative Union} (Eng. Hist.), the union of Great Britain
+      and Ireland, which took place Jan. 1, 1801.
+
+   {Union}, or {Act of Union} (Eng. Hist.), the act by which
+      Scotland was united to England, or by which the two
+      kingdoms were incorporated into one, in 1707.
+
+   {Union by the first intention}, or {Union by the second
+   intention}. (Surg.) See {To heal by the first intention}, or
+      {To heal by the second intention}, under {Intention}.
+
+   {Union down} (Naut.), a signal of distress at sea made by
+      reversing the flag, or turning its union downward.
+
+   {Union jack}. (Naut.) See {Jack}, n., 10.
+
+   {Union joint}. (Mech.)
+      (a) A joint formed by means of a union.
+      (b) A piece of pipe made in the form of the letter T.
+          [1913 Webster]
+
+   Syn: Unity; junction; connection; concord; alliance;
+        coalition; combination; confederacy.
+
+   Usage: {Union}, {Unity}. Union is the act of bringing two or
+          more things together so as to make but one, or the
+          state of being united into one. Unity is a state of
+          simple oneness, either of essence, as the unity of
+          God, or of action, feeling, etc., as unity of design,
+          of affection, etc. Thus, we may speak of effecting a
+          union of interests which shall result in a unity of
+          labor and interest in securing a given object.
+          [1913 Webster]
+
+                One kingdom, joy, and union without end.
+                                                  --Milton.
+          [1913 Webster]
+
+                [Man] is to . . . beget
+                Like of his like, his image multiplied.
+                In unity defective; which requires
+                Collateral love, and dearest amity. --Milton.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>union</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Union \Un"ion\ (?; 277), n. [F., from L. unio oneness, union, a
+   single large pearl, a kind of onion, fr. unus one. See {One},
+   and cf. {Onion}, {Unit}.]
+   1. The act of uniting or joining two or more things into one,
+      or the state of being united or joined; junction;
+      coalition; combination.
+      [1913 Webster]
+
+   Note: Union differs from connection, as it implies that the
+         bodies are in contact, without an inter?ening body;
+         whereas things may be connected by the in???vention of
+         a third body, as by a cord or chain.
+         [1913 Webster]
+
+   2. Agreement and conjunction of mind, spirit, will,
+      affections, or the like; harmony; concord.
+      [1913 Webster]
+
+   3. That which is united, or made one; something formed by a
+      combination or coalition of parts or members; a
+      confederation; a consolidated body; a league; as, the
+      weavers have formed a union; trades unions have become
+      very numerous; the United States of America are often
+      called the Union. --A. Hamilton.
+      [1913 Webster]
+
+   4. A textile fabric composed of two or more materials, as
+      cotton, silk, wool, etc., woven together.
+      [1913 Webster]
+
+   5. A large, fine pearl. [Obs.]
+      [1913 Webster]
+
+            If they [pearls] be white, great, round, smooth, and
+            weighty . . . our dainties and delicates here at
+            Rome . . . call them unions, as a man would say
+            ``singular,'' and by themselves alone. --Holland.
+      [1913 Webster]
+
+            In the cup an union shall he throw,
+            Richer than that which four successive kings
+            In Denmark's crown have worn.         --Shak.
+      [1913 Webster]
+
+   6. A device emblematic of union, used on a national flag or
+      ensign, sometimes, as in the military standard of Great
+      Britain, covering the whole field; sometimes, as in the
+      flag of the United States, and the English naval and
+      marine flag, occupying the upper inner corner, the rest of
+      the flag being called the fly. Also, a flag having such a
+      device; especially, the flag of Great Britain.
+      [1913 Webster]
+
+   Note: The union of the United States ensign is a cluster of
+         white stars, denoting the union of the States, and,
+         properly, equal in number to that of the States,
+         displayed on a blue field; the fly being composed of
+         alternate stripes of red and white. The union of the
+         British ensign is the three crosses of St. George, St.
+         Andrew, and St. Patrick in combination, denoting the
+         union of England, Scotland and Ireland, displayed on a
+         blue field in the national banner used on shore, on a
+         red, white, or blue field in naval ensigns, and with a
+         white border or fly in the merchant service.
+         [1913 Webster]
+
+   7. (Mach.) A joint or other connection uniting parts of
+      machinery, or the like, as the elastic pipe of a tender
+      connecting it with the feed pipe of a locomotive engine;
+      especially, a pipe fitting for connecting pipes, or pipes
+      and fittings, in such a way as to facilitate
+      disconnection.
+      [1913 Webster]
+
+   8. (Brewing) A cask suspended on trunnions, in which
+      fermentation is carried on.
+      [1913 Webster]
+
+   {Hypostatic union} (Theol.) See under {Hypostatic}.
+
+   {Latin union}. See under {Latin}.
+
+   {Legislative Union} (Eng. Hist.), the union of Great Britain
+      and Ireland, which took place Jan. 1, 1801.
+
+   {Union}, or {Act of Union} (Eng. Hist.), the act by which
+      Scotland was united to England, or by which the two
+      kingdoms were incorporated into one, in 1707.
+
+   {Union by the first intention}, or {Union by the second
+   intention}. (Surg.) See {To heal by the first intention}, or
+      {To heal by the second intention}, under {Intention}.
+
+   {Union down} (Naut.), a signal of distress at sea made by
+      reversing the flag, or turning its union downward.
+
+   {Union jack}. (Naut.) See {Jack}, n., 10.
+
+   {Union joint}. (Mech.)
+      (a) A joint formed by means of a union.
+      (b) A piece of pipe made in the form of the letter T.
+          [1913 Webster]
+
+   Syn: Unity; junction; connection; concord; alliance;
+        coalition; combination; confederacy.
+
+   Usage: {Union}, {Unity}. Union is the act of bringing two or
+          more things together so as to make but one, or the
+          state of being united into one. Unity is a state of
+          simple oneness, either of essence, as the unity of
+          God, or of action, feeling, etc., as unity of design,
+          of affection, etc. Thus, we may speak of effecting a
+          union of interests which shall result in a unity of
+          labor and interest in securing a given object.
+          [1913 Webster]
+
+                One kingdom, joy, and union without end.
+                                                  --Milton.
+          [1913 Webster]
+
+                [Man] is to . . . beget
+                Like of his like, his image multiplied.
+                In unity defective; which requires
+                Collateral love, and dearest amity. --Milton.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>union</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Union
+     adj 1: being of or having to do with the northern United States and
+            those loyal to the Union during the Civil War; "Union
+            soldiers"; "Federal forces"; "a Federal infantryman"
+            [syn: {Federal}]
+     2: of trade unions; "the union movement"; "union negotiations";
+        "a union-shop clause in the contract" [ant: {nonunion}]
+     n 1: an organization of employees formed to bargain with the
+          employer; "you have to join the union in order to get a
+          job" [syn: {labor union}, {trade union}, {trades union},
+           {brotherhood}]
+     2: the United States (especially the northern states during the
+        American Civil War); "he has visited every state in the
+        Union"; "Lee hoped to detach Maryland from the Union";
+        "the North's superior resources turned the scale" [syn: {North}]
+     3: the act of pairing a male and female for reproductive
+        purposes; "the casual couplings of adolescents"; "the
+        mating of some species occurs only in the spring" [syn: {coupling},
+         {mating}, {pairing}, {conjugation}, {sexual union}]
+     4: the state of being joined or united or linked; "there is
+        strength in union" [syn: {unification}] [ant: {separation}]
+     5: the state of being a married couple voluntarily joined for
+        life (or until divorce); "a long and happy marriage"; "God
+        bless this union" [syn: {marriage}, {matrimony}, {spousal
+        relationship}, {wedlock}]
+     6: healing process involving the growing together of the edges
+        of a wound or the growing together of broken bones [syn: {conglutination}]
+     7: a political unit formed from previously independent people
+        or organizations; "the Soviet Union"
+     8: a set containing all and only the members of two or more
+        given sets; "let C be the union of the sets A and B" [syn:
+         {sum}, {join}]
+     9: the occurrence of a uniting of separate parts; "lightning
+        produced an unusual union of the metals"
+     10: a device on a national flag emblematic of the union of two
+         or more sovereignties (typically in the upper inner
+         corner)
+     11: the act of making or becoming a single unit; "the union of
+         opposing factions"; "he looked forward to the unification
+         of his family for the holidays" [syn: {unification}, {uniting},
+          {conjugation}, {jointure}] [ant: {disunion}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>scheme</Word>
+  <Definitions>
+    <Definition>
+      <Word>scheme</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Scheme
+     
+        &lt;programming&gt; (Originally "Schemer", by analogy with {Planner}
+        and {Conniver}).  A small, uniform {Lisp} dialect with clean
+        {semantics}, developed initially by {Guy Steele} and {Gerald
+        Sussman} in 1975.  Scheme uses {applicative order reduction}
+        and {lexical scope}.  It treats both {functions} and
+        {continuations} as {first-class} objects.
+     
+        One of the most used implementations is {DrScheme}, others
+        include {Bigloo}, {Elk}, {Liar}, {Orbit}, {Scheme86} (Indiana
+        U), {SCM}, {MacScheme} (Semantic Microsystems), {PC Scheme}
+        (TI), {MIT Scheme}, and {T}.
+     
+        See also {Kamin's interpreters}, {PSD}, {PseudoScheme},
+        {Schematik}, {Scheme Repository}, {STk}, {syntax-case}, {Tiny
+        Clos}, {Paradigms of AI Programming}.
+     
+        There have been a series of revisions of the report defining
+        Scheme, known as {RRS} (Revised Report on Scheme), {R2RS}
+        (Revised Revised Report ..), {R3RS}, {R3.899RS}, {R4RS}.
+     
+        {Scheme resources (http://www.schemers.org/)}.
+     
+        Mailing list: scheme@mc.lcs.mit.edu.
+     
+        [IEEE P1178-1990, "IEEE Standard for the Scheme Programming
+        Language", ISBN 1-55937-125-0].
+     
+        (2003-09-14)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>scheme</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Scheme \Scheme\, n. [L. schema a rhetorical figure, a shape,
+   figure, manner, Gr. ?, ?, form, shape, outline, plan, fr. ?,
+   ?, to have or hold, to hold out, sustain, check, stop; cf.
+   Skr. sah to be victorious, to endure, to hold out, AS. sige
+   victory, G. sieg. Cf. {Epoch}, {Hectic}, {School}.]
+   1. A combination of things connected and adjusted by design;
+      a system.
+      [1913 Webster]
+
+            The appearance and outward scheme of things.
+                                                  --Locke.
+      [1913 Webster]
+
+            Such a scheme of things as shall at once take in
+            time and eternity.                    --Atterbury.
+      [1913 Webster]
+
+            Arguments . . . sufficient to support and
+            demonstrate a whole scheme of moral philosophy. --J.
+                                                  Edwards.
+      [1913 Webster]
+
+            The Revolution came and changed his whole scheme of
+            life.                                 --Macaulay.
+      [1913 Webster]
+
+   2. A plan or theory something to be done; a design; a
+      project; as, to form a scheme.
+      [1913 Webster]
+
+            The stoical scheme of supplying our wants by lopping
+            off our desires, is like cutting off our feet when
+            we want shoes.                        --Swift.
+      [1913 Webster]
+
+   3. Any lineal or mathematical diagram; an outline.
+      [1913 Webster]
+
+            To draw an exact scheme of Constantinople, or a map
+            of France.                            --South.
+      [1913 Webster]
+
+   4. (Astrol.) A representation of the aspects of the celestial
+      bodies for any moment or at a given event.
+      [1913 Webster]
+
+            A blue silk case, from which was drawn a scheme of
+            nativity.                             --Sir W.
+                                                  Scott.
+      [1913 Webster]
+
+   Syn: Plan; project; contrivance; purpose; device; plot.
+
+   Usage: {Scheme}, {Plan}. Scheme and plan are subordinate to
+          design; they propose modes of carrying our designs
+          into effect. Scheme is the least definite of the two,
+          and lies more in speculation. A plan is drawn out into
+          details with a view to being carried into effect. As
+          schemes are speculative, they often prove visionary;
+          hence the opprobrious use of the words schemer and
+          scheming. Plans, being more practical, are more
+          frequently carried into effect.
+          [1913 Webster]
+
+                He forms the well-concerted scheme of mischief;
+                'T is fixed, 't is done, and both are doomed to
+                death.                            --Rowe.
+          [1913 Webster]
+
+                Artists and plans relieved my solemn hours;
+                I founded palaces, and planted bowers. --Prior.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>scheme</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Scheme \Scheme\, v. t. [imp. &amp; p. p. {Schemed}; p. pr. &amp; vb. n.
+   {Scheming}.]
+   To make a scheme of; to plan; to design; to project; to plot.
+   [1913 Webster]
+
+         That wickedness which schemed, and executed, his
+         destruction.                             --G. Stuart.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>scheme</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Scheme \Scheme\, v. i.
+   To form a scheme or schemes.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>scheme</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>scheme
+     n 1: an elaborate and systematic plan of action [syn: {strategy}]
+     2: a statement that evades the question by cleverness or
+        trickery [syn: {dodge}, {dodging}]
+     3: a group of independent but interrelated elements comprising
+        a unified whole; "a vast system of production and
+        distribution and consumption keep the country going" [syn:
+         {system}]
+     4: an internal representation of the world; an organization of
+        concepts and actions that can be revised by new
+        information about the world [syn: {schema}]
+     5: a schematic or preliminary plan [syn: {outline}, {schema}]
+     v 1: form intrigues (for) in an underhand manner [syn: {intrigue},
+           {connive}]
+     2: devise a system or form a scheme for
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

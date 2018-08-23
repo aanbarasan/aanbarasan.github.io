@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>york</Word>
+  <Definitions>
+    <Definition>
+      <Word>york</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>York, AL (city, FIPS 84096)
+  Location: 32.49596 N, 88.29613 W
+  Population (1990): 3160 (1245 housing units)
+  Area: 15.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 36925
+York, ME
+  Zip code(s): 03909
+York, ND (city, FIPS 87860)
+  Location: 48.31348 N, 99.57342 W
+  Population (1990): 35 (35 housing units)
+  Area: 0.6 sq km (land), 0.0 sq km (water)
+York, NE (city, FIPS 54045)
+  Location: 40.87123 N, 97.59557 W
+  Population (1990): 7884 (3323 housing units)
+  Area: 14.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 68467
+York, PA (city, FIPS 87048)
+  Location: 39.96450 N, 76.73180 W
+  Population (1990): 42192 (18407 housing units)
+  Area: 13.5 sq km (land), 0.1 sq km (water)
+  Zip code(s): 17401, 17403
+York, SC (city, FIPS 79630)
+  Location: 34.99516 N, 81.23611 W
+  Population (1990): 6709 (2668 housing units)
+  Area: 15.7 sq km (land), 0.1 sq km (water)
+  Zip code(s): 29745
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>york</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>York
+     n : the English royal house (a branch of the Plantagenet line)
+         that reigned from 1461 to 1485; its emblem was a white
+         rose [syn: {House of York}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

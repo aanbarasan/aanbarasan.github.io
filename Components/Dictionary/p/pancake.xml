@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>pancake</Word>
+  <Definitions>
+    <Definition>
+      <Word>pancake</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pancake \Pan"cake`\ (p[a^]n"k[=a]k`), n.
+   A thin cake of batter fried in a pan or on a griddle; a
+   griddlecake; a flapjack. ``A pancake for Shrove Tuesday.''
+   --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>pancake</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>pancake
+     n : a flat cake of thin batter fried on both sides on a griddle
+         [syn: {battercake}, {flannel cake}, {flannel-cake}, {flapcake},
+          {flapjack}, {griddlecake}, {hotcake}, {hot cake}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

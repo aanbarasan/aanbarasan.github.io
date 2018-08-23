@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>quoted</Word>
+  <Definitions>
+    <Definition>
+      <Word>quoted</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Quote \Quote\ (kw[=o]t), v. t. [imp. &amp; p. p. {Quoted}; p. pr. &amp;
+   vb. n. {Quoting}.] [OF. quoter, F. coter to letter, number,
+   to quote, LL. quotare to divide into chapters and verses, fr.
+   L. quotus. See {Quota}.] [Formerly written also {cote}.]
+   1. To cite, as a passage from some author; to name, repeat,
+      or adduce, as a passage from an author or speaker, by way
+      of authority or illustration; as, to quote a passage from
+      Homer.
+      [1913 Webster]
+
+   2. To cite a passage from; to name as the authority for a
+      statement or an opinion; as, to quote Shakespeare.
+      [1913 Webster]
+
+   3. (Com.) To name the current price of.
+      [1913 Webster]
+
+   4. To notice; to observe; to examine. [Obs.] --Shak.
+      [1913 Webster]
+
+   5. To set down, as in writing. [Obs.] ``He's quoted for a
+      most perfidious slave.'' --Shak.
+      [1913 Webster]
+
+   Syn: To cite; name; adduce; repeat.
+
+   Usage: {Quote}, {Cite}. To cite was originally to call into
+          court as a witness, etc., and hence denotes bringing
+          forward any thing or person as evidence. Quote usually
+          signifies to reproduce another's words; it is also
+          used to indicate an appeal to some one as an
+          authority, without adducing his exact words.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>
