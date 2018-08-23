@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fewer</Word>
+  <Definitions>
+    <Definition>
+      <Word>fewer</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Few \Few\ (f[=u]), a. [Compar. {Fewer} (f[=u]"[~e]r); superl.
+   {Fewest}.] [OE. fewe, feawe, AS. fe['a], pl. fe['a]we; akin
+   to OS. f[=a]h, OHG. f[=o] fao, Icel. f[=a]r, Sw. f[*a], pl.,
+   Dan. faa, pl., Goth. faus, L. paucus, cf. Gr. pay^ros. Cf.
+   {Paucity}.]
+   Not many; small, limited, or confined in number; --
+   indicating a small portion of units or individuals
+   constituting a whole; often, by ellipsis of a noun, a few
+   people. ``Are not my days few?'' --Job x. 20.
+   [1913 Webster]
+
+         Few know and fewer care.                 --Proverb.
+   [1913 Webster]
+
+   Note: Few is often used partitively; as, few of them.
+         [1913 Webster]
+
+   {A few}, a small number.
+
+   {In few}, in a few words; briefly. --Shak.
+
+   {No few}, not few; more than a few; many. --Cowper.
+
+   {The few}, the minority; -- opposed to the many or the
+      majority.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fewer</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fewer
+     adj : (comparative of `few' used with count nouns) quantifier
+           meaning a smaller number of; "fewer birds came this
+           year"; "the birds are fewer this year"; "fewer trains
+           were late" [ant: {more(a)}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

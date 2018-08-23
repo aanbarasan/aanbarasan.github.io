@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>electrode</Word>
+  <Definitions>
+    <Definition>
+      <Word>electrode</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Electrode \E*lec"trode\ ([-e]*l[e^]k"tr[=o]d), n. [Electro- +
+   Gr. "odo`s way, path: cf. F. ['e]lectrode.] (Elec.)
+   a conducting object by which electricity is conveyed into or
+   from a solution or other non-metallic conducting medium;
+   esp., the ends of the wires or conductors, leading from
+   source of electricity, and terminating in the medium
+   traversed by the current.
+
+   Note: Electrodes may be specially designed or made of a
+         special material for particular purposes, as for
+         example silver electrodes used in electroplating.
+         [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>electrode</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>electrode
+     n : a conductor used to make electrical contact with some part
+         of a circuit
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

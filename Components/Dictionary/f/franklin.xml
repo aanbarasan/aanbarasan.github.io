@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>franklin</Word>
+  <Definitions>
+    <Definition>
+      <Word>franklin</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Franklin, AL (town, FIPS 28024)
+  Location: 32.45525 N, 85.80279 W
+  Population (1990): 152 (69 housing units)
+  Area: 8.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 36444
+Franklin, AR (town, FIPS 25030)
+  Location: 36.17140 N, 91.77233 W
+  Population (1990): 205 (84 housing units)
+  Area: 5.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 72536
+Franklin, AZ
+  Zip code(s): 85534
+Franklin, GA (city, FIPS 31292)
+  Location: 33.28141 N, 85.09767 W
+  Population (1990): 876 (362 housing units)
+  Area: 8.4 sq km (land), 0.4 sq km (water)
+Franklin, IA (city, FIPS 28740)
+  Location: 40.66642 N, 91.51167 W
+  Population (1990): 152 (58 housing units)
+  Area: 0.4 sq km (land), 0.0 sq km (water)
+Franklin, ID (city, FIPS 28810)
+  Location: 42.01611 N, 111.80232 W
+  Population (1990): 478 (177 housing units)
+  Area: 2.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 83237
+Franklin, IL (village, FIPS 27663)
+  Location: 39.62036 N, 90.04720 W
+  Population (1990): 634 (240 housing units)
+  Area: 1.6 sq km (land), 0.0 sq km (water)
+Franklin, IN (city, FIPS 25450)
+  Location: 39.49221 N, 86.05654 W
+  Population (1990): 12907 (4661 housing units)
+  Area: 18.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 46131
+Franklin, KY (city, FIPS 28918)
+  Location: 36.72802 N, 86.57394 W
+  Population (1990): 7607 (3257 housing units)
+  Area: 18.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 42134
+Franklin, LA (city, FIPS 27155)
+  Location: 29.80084 N, 91.51446 W
+  Population (1990): 9004 (3365 housing units)
+  Area: 11.4 sq km (land), 0.1 sq km (water)
+  Zip code(s): 70538
+Franklin, MA (CDP, FIPS 25100)
+  Location: 42.08689 N, 71.38731 W
+  Population (1990): 9965 (3604 housing units)
+  Area: 10.9 sq km (land), 0.2 sq km (water)
+  Zip code(s): 02038
+Franklin, ME
+  Zip code(s): 04634
+Franklin, MI (village, FIPS 30340)
+  Location: 42.51735 N, 83.30205 W
+  Population (1990): 2626 (1010 housing units)
+  Area: 6.9 sq km (land), 0.0 sq km (water)
+  Zip code(s): 48025
+Franklin, MN (city, FIPS 22364)
+  Location: 44.53085 N, 94.88612 W
+  Population (1990): 441 (226 housing units)
+  Area: 2.8 sq km (land), 0.0 sq km (water)
+Franklin, MN (city, FIPS 22382)
+  Location: 47.52364 N, 92.51995 W
+  Population (1990): 22 (11 housing units)
+  Area: 5.2 sq km (land), 0.3 sq km (water)
+  Zip code(s): 55333
+Franklin, MO (city, FIPS 25624)
+  Location: 39.01133 N, 92.75472 W
+  Population (1990): 181 (85 housing units)
+  Area: 0.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 65250
+Franklin, NC (town, FIPS 24640)
+  Location: 35.18105 N, 83.38181 W
+  Population (1990): 2873 (1682 housing units)
+  Area: 9.1 sq km (land), 0.1 sq km (water)
+  Zip code(s): 28734
+Franklin, NE (city, FIPS 17530)
+  Location: 40.09660 N, 98.95102 W
+  Population (1990): 1112 (576 housing units)
+  Area: 2.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 68939
+Franklin, NH (city, FIPS 27380)
+  Location: 43.45126 N, 71.66848 W
+  Population (1990): 8304 (3744 housing units)
+  Area: 71.4 sq km (land), 4.1 sq km (water)
+  Zip code(s): 03235
+Franklin, NJ (borough, FIPS 24930)
+  Location: 41.11050 N, 74.58985 W
+  Population (1990): 4977 (1970 housing units)
+  Area: 11.6 sq km (land), 0.2 sq km (water)
+  Zip code(s): 07416
+Franklin, NY (village, FIPS 27221)
+  Location: 42.34261 N, 75.16641 W
+  Population (1990): 409 (196 housing units)
+  Area: 0.9 sq km (land), 0.0 sq km (water)
+  Zip code(s): 13775
+Franklin, OH (city, FIPS 28476)
+  Location: 39.55392 N, 84.30117 W
+  Population (1990): 11026 (4208 housing units)
+  Area: 21.1 sq km (land), 0.6 sq km (water)
+Franklin, PA (borough, FIPS 27360)
+  Location: 40.34195 N, 78.88350 W
+  Population (1990): 565 (263 housing units)
+  Area: 1.4 sq km (land), 0.0 sq km (water)
+Franklin, PA (city, FIPS 27456)
+  Location: 41.39195 N, 79.83880 W
+  Population (1990): 7329 (3430 housing units)
+  Area: 11.8 sq km (land), 0.2 sq km (water)
+  Zip code(s): 16323
+Franklin, TN (city, FIPS 27740)
+  Location: 35.92941 N, 86.84198 W
+  Population (1990): 20098 (8748 housing units)
+  Area: 66.1 sq km (land), 0.2 sq km (water)
+  Zip code(s): 37064
+Franklin, TX (city, FIPS 27288)
+  Location: 31.02493 N, 96.48566 W
+  Population (1990): 1336 (615 housing units)
+  Area: 2.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 77856
+Franklin, VA (city, FIPS 620)
+  Location: 36.68080 N, 76.93597 W
+  Population (1990): 7864 (3166 housing units)
+  Area: 19.9 sq km (land), 0.1 sq km (water)
+Franklin, VA (city, FIPS 29600)
+  Location: 36.68080 N, 76.93597 W
+  Population (1990): 7864 (3166 housing units)
+  Area: 19.9 sq km (land), 0.1 sq km (water)
+  Zip code(s): 23851
+Franklin, VT
+  Zip code(s): 05457
+Franklin, WI (city, FIPS 27300)
+  Location: 42.88630 N, 88.00982 W
+  Population (1990): 21855 (7753 housing units)
+  Area: 89.7 sq km (land), 0.2 sq km (water)
+  Zip code(s): 53132
+Franklin, WV (town, FIPS 29044)
+  Location: 38.64603 N, 79.33311 W
+  Population (1990): 914 (412 housing units)
+  Area: 1.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 26807
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>franklin</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Franklin \Frank"lin\, n. [OE. frankelein; cf. LL. franchilanus.
+   See {Frank}, a.]
+   An English freeholder, or substantial householder. [Obs.]
+   --Chaucer.
+   [1913 Webster]
+
+         The franklin, a small landholder of those days. --Sir
+                                                  J. Stephen.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>franklin</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Franklin
+     n 1: United States historian noted for studies of Black American
+          history (born in 1915) [syn: {John Hope Franklin}]
+     2: printer whose success as an author led him to take up
+        politics; he helped draw up the Declaration of
+        Independence and the Constitution; he played a major role
+        in the American Revolution and negotiated French support
+        for the colonists; as a scientist he is remembered
+        particularly for his research in electricity (1706-1790)
+        [syn: {Benjamin Franklin}]
+     3: a landowner (14th and 15th centuries) who was free but not
+        of noble birth
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

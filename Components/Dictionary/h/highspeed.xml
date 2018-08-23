@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>highspeed</Word>
+  <Definitions>
+    <Definition>
+      <Word>highspeed</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>high-speed \high-speed\ adj.
+   1. same as {fast}; as, fast film. Opposite of {slow}.
+      [WordNet 1.5]
+
+   2. performed at a high rate of speed; as, a high-speed auto
+      chase on the freeway.
+
+   Syn: hot.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>highspeed</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>high-speed
+     adj 1: operating at high speed; "a high-speed food processor"; "a
+            high-velocity shell" [syn: {high-velocity}]
+     2: taking place at high speed; "a high-speed chase"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

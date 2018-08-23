@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>devices</Word>
+  <Definitions>
+    <Definition>
+      <Word>devices</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>devices
+     n : an inclination or desire; used in the plural in the phrase
+         `left to your own devices'; "eventually the family left
+         the house to the devices of this malevolent force"; "the
+         children were left to their own devices"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

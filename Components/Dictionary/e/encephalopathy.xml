@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>encephalopathy</Word>
+  <Definitions>
+    <Definition>
+      <Word>encephalopathy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Encephalopathy \En*ceph`a*lop"a*thy\, n. [Gr. 'egke`falos the
+   brain + pa`schein, paqei^n, to suffer.] (Med.)
+   Any disease or symptoms of disease referable to disorders of
+   the brain; as, lead encephalopathy, the cerebral symptoms
+   attending chronic lead poisoning.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>encephalopathy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>encephalopathy
+     n : any disorder or disease of the brain [syn: {brain disorder},
+          {brain disease}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

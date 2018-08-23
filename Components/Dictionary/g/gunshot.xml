@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>gunshot</Word>
+  <Definitions>
+    <Definition>
+      <Word>gunshot</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gunshot \Gun"shot`\, n.
+   1. Act of firing a gun; a shot.
+      [1913 Webster]
+
+   2. The distance to which shot can be thrown from a gun, so as
+      to be effective; the reach or range of a gun.
+      [1913 Webster]
+
+            Those who are come over to the royal party are
+            supposed to be out of gunshot.        --Dryden.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gunshot</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gunshot \Gun"shot`\, a.
+   Made by the shot of a gun: as. a gunshot wound.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gunshot</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>gunshot
+     n : the act of shooting a gun; "the gunfire endangered innocent
+         bystanders"; "they retreated in the face of withering
+         enemy fire" [syn: {gunfire}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>extension</Word>
+  <Definitions>
+    <Definition>
+      <Word>extension</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>extension
+     
+        1. &lt;filename extension&gt; {filename extension}.
+     
+        2. &lt;programming&gt; A {feature} or piece of {code} which
+        {extends} a program's {functionality}, e.g. a {plug-in}.
+     
+        (1997-06-21)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>extension</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Extension, LA
+  Zip code(s): 71239
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>extension</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Extension \Ex*ten"sion\, n. [L. extensio: cf. F. extension. See
+   {Extend}, v. t.]
+   1. The act of extending or the state of being extended; a
+      stretching out; enlargement in breadth or continuation of
+      length; increase; augmentation; expansion.
+      [1913 Webster]
+
+   2. (Physics) That property of a body by which it occupies a
+      portion of space.
+      [1913 Webster]
+
+   3. (Logic &amp; Metaph.)
+      (a) Capacity of a concept or general term to include a
+          greater or smaller number of objects; -- correlative
+          of {intension}.
+      (b) the class or set of objects to which a term refers; --
+          contrasted with {intension}, the logical specification
+          which defines members of a class, being the set of
+          attributes which are necessary and sufficient to
+          recognize an object as a member of the class.
+          [1913 Webster]
+
+                The law is that the intension of our knowledge
+                is in the inverse ratio of its extension. --Sir
+                                                  W. Hamilton.
+          [1913 Webster]
+
+                The extension of [the term] plant is greater
+                than that of geranium, because it includes more
+                objects.                          --Abp.
+                                                  Thomson.
+          [1913 Webster]
+
+   4. (Surg.) The operation of stretching a broken bone so as to
+      bring the fragments into the same straight line.
+      [1913 Webster]
+
+   5. (Physiol.) The straightening of a limb, in distinction
+      from {flexion}.
+      [1913 Webster]
+
+   6. (Com.) A written engagement on the part of a creditor,
+      allowing a debtor further time to pay a debt.
+      [1913 Webster]
+
+   {Counter extension}. (Surg.) See under {Counter}.
+
+   {Extension table}, a table so constructed as to be readily
+      extended or contracted in length.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>extension</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>extension
+     n 1: a mutually agreed delay in the date set for the completion
+          of a job or payment of a debt; "they applied for an
+          extension of the loan"
+     2: act of expanding in scope; making more widely available;
+        "extension of the program to all in need"
+     3: the spreading of something (a belief or practice) into new
+        regions [syn: {propagation}]
+     4: an educational opportunity provided by colleges and
+        universities to people who not enrolled as regular
+        students [syn: {extension service}, {university extension}]
+     5: act of stretching or straightening out a flexed limb [ant: {flexion}]
+     6: a string of characters beginning with a period and followed
+        by one to three letters; the optional second part of a PC
+        computer filename; "most applications provide extensions
+        for the files they create"; "most BASIC files use the
+        filename extension .BAS" [syn: {filename extension}, {file
+        name extension}]
+     7: the most direct or specific meaning of a word or expression;
+        the class of objects that an expression refers to; "the
+        extension of `satellite of Mars' is the set containing
+        only Demos and Phobos" [syn: {reference}, {denotation}]
+     8: the ability to raise the working leg high in the air; "the
+        dancer was praised for her uncanny extension"; "good
+        extension comes from a combination of training and native
+        ability"
+     9: amount or degree or range to which something extends; "the
+        wire has an extension of 50 feet" [syn: {lengthiness}, {prolongation}]
+     10: an additional telephone set that is connected to the same
+         telephone line [syn: {telephone extension}, {extension
+         phone}]
+     11: an addition to the length of something [syn: {elongation}]
+     12: an addition that extends a main building [syn: {annex}, {annexe},
+          {wing}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

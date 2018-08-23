@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hopeless</Word>
+  <Definitions>
+    <Definition>
+      <Word>hopeless</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hopeless \Hope"less\, a.
+   1. Destitute of hope; having no expectation of good;
+      despairing.
+      [1913 Webster]
+
+            I am a woman, friendless, hopeless.   --Shak.
+      [1913 Webster]
+
+   2. Giving no ground of hope; promising nothing desirable;
+      desperate; as, a hopeless cause.
+      [1913 Webster]
+
+            The hopelessword of ``never to return''
+            Breathe I against thee, upon pain of life. --Shak.
+      [1913 Webster]
+
+   3. Unhoped for; despaired of. [Obs.] --Marston. --
+      {Hope"less*ly}, adv. -- {Hope"less*ness}, n.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hopeless</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hopeless
+     adj 1: without hope because there seems to be no possibility of
+            comfort or success; "in an agony of hopeless grief";
+            "with a hopeless sigh he sat down" [ant: {hopeful}]
+     2: of a person unable to do something skillfully; "I'm hopeless
+        at mathematics"
+     3: certain to fail; "the situation is hopeless"
+     4: (informal to emphasize how bad it is) beyond hope of
+        management or reform; "she handed me a hopeless jumble of
+        papers"; "he is a hopeless romantic"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

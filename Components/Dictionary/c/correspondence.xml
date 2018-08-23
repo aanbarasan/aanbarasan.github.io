@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>correspondence</Word>
+  <Definitions>
+    <Definition>
+      <Word>correspondence</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Correspondence \Cor`re*spond"ence\ (-sp?nd"ens), n. [Cf. F.
+   correspondance.]
+   1. Friendly intercourse; reciprocal exchange of civilities;
+      especially, intercourse between persons by means of
+      letters.
+      [1913 Webster]
+
+            Holding also good correspondence with the other
+            great men in the state.               --Bacon.
+      [1913 Webster]
+
+            To facilitate correspondence between one part of
+            London and another, was not originally one of the
+            objects of the post office.           --Macaulay.
+      [1913 Webster]
+
+   2. The letters which pass between correspondents.
+      [1913 Webster]
+
+   3. Mutual adaptation, relation, or agreement, of one thing to
+      another; agreement; congruity; fitness; relation.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>correspondence</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>correspondence
+     n 1: communication by the exchange of letters
+     2: compatibility of observations; "there was no agreement
+        between theory and measurement"; "the results of two tests
+        were in correspondence" [syn: {agreement}]
+     3: the relation of correspondence in degree or size or amount
+        [syn: {commensurateness}, {proportionateness}]
+     4: a function such that for every element of one set there is a
+        unique element of another set [syn: {mapping}, {map}]
+     5: communication by exchange of letters
+     6: (mathematics) an attribute of a shape or relation; exact
+        correspondence of form on opposite sides of a dividing
+        line or plane [syn: {symmetry}, {symmetricalness}, {balance}]
+        [ant: {asymmetry}]
+     7: similarity by virtue of correspondence [syn: {parallelism}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

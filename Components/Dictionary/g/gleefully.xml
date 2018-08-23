@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>gleefully</Word>
+  <Definitions>
+    <Definition>
+      <Word>gleefully</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>gleefully
+     adv : in a joyous and gleeful manner; "the old man had greeted her
+           gleefully" [syn: {joyously}, {joyfully}] [ant: {joylessly}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

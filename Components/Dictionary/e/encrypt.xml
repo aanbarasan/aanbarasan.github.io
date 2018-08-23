@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>encrypt</Word>
+  <Definitions>
+    <Definition>
+      <Word>encrypt</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>encrypt \encrypt\ v. t.
+   to convert ordinary language into code; to hide the meaning
+   of a message by converting it into a form that cannot be
+   interpreted without knowing the secret method for
+   interpretation, called the key.
+
+   Syn: encode, code, encipher, cipher, cypher, inscribe, write
+        in code.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>encrypt</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>encrypt
+     v : convert ordinary language into code; "We should encode the
+         message for security reasons" [syn: {encode}, {code}, {encipher},
+          {cipher}, {cypher}, {inscribe}, {write in code}] [ant: {decode}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

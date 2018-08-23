@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>crossroads</Word>
+  <Definitions>
+    <Definition>
+      <Word>crossroads</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Cross Roads, PA (borough, FIPS 17416)
+  Location: 39.82047 N, 76.57030 W
+  Population (1990): 322 (115 housing units)
+  Area: 4.9 sq km (land), 0.0 sq km (water)
+Cross Roads, TX (town, FIPS 17852)
+  Location: 33.23063 N, 96.99406 W
+  Population (1990): 361 (163 housing units)
+  Area: 16.3 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>crossroads</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Crossroads, NM
+  Zip code(s): 88114
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>crossroads</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>crossroads
+     n 1: a community of people smaller than a village [syn: {hamlet}]
+     2: a crisis situation or point in time when a critical decision
+        must be made; "at that juncture he had no idea what to
+        do"; "he must be made to realize that the company stands
+        at a critical point" [syn: {juncture}, {critical point}]
+     3: a point where a choice must be made; "Freud's work stands at
+        the crossroads between psychology and neurology"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

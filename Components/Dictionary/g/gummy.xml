@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>gummy</Word>
+  <Definitions>
+    <Definition>
+      <Word>gummy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gummy \Gum"my\, a. [Compar. {Gummer} (?); superl. {Gummirst}.]
+   Consisting of gum; viscous; adhesive; producing or containing
+   gum; covered with gum or a substance resembling gum.
+   [1913 Webster]
+
+         Kindles the gummy bark of fir or pine.   --Milton.
+   [1913 Webster]
+
+         Then rubs his gummy eyes.                --Dryden.
+   [1913 Webster]
+
+   {Gummy tumor} (Med.), a gumma.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gummy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>gummy
+     adj : having the properties of glue [syn: {gluey}, {glutinous}, {mucilaginous},
+            {pasty}, {sticky}, {viscid}, {viscous}]
+     [also: {gummiest}, {gummier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

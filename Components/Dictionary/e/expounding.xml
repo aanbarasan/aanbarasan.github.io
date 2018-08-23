@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>expounding</Word>
+  <Definitions>
+    <Definition>
+      <Word>expounding</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Expound \Ex*pound"\ ([e^]ks*pound"), v. t. [imp. &amp; p. p.
+   {Expounded}; p. pr. &amp; vb. n. {Expounding}.] [OE. exponen,
+   expounen, expounden, fr. L. exponere to set out, expose,
+   expound; ex out + ponere to put: cf. OE. expondre, expondre.
+   See {Position}.]
+   1. To lay open; to expose to view; to examine. [Obs.]
+      [1913 Webster]
+
+            He expounded both his pockets.        --Hudibras.
+      [1913 Webster]
+
+   2. To lay open the meaning of; to explain; to clear of
+      obscurity; to interpret; as, to expound a text of
+      Scripture, a law, a word, a meaning, or a riddle.
+      [1913 Webster]
+
+            Expound this matter more fully to me. --Bunyan.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>expounding</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>expounding
+     n : a systematic interpretation or explanation (usually written)
+         of a specific topic [syn: {exposition}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

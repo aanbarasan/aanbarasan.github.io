@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dame</Word>
+  <Definitions>
+    <Definition>
+      <Word>dame</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dame \Dame\ (d[=a]m), n. [F. dame, LL. domna, fr. L. domina
+   mistress, lady, fem. of dominus master, ruler, lord; akin to
+   domare to tame, subdue. See {Tame}, and cf. {Dam} a mother,
+   {Dan}, {Danger}, {Dungeon}, {Dominie}, {Don}, n., {Duenna}.]
+   1. A mistress of a family, who is a lady; a woman in
+      authority; especially, a lady.
+      [1913 Webster]
+
+            Then shall these lords do vex me half so much,
+            As that proud dame, the lord protector's wife.
+                                                  --Shak.
+      [1913 Webster]
+
+   2. The mistress of a family in common life, or the mistress
+      of a common school; as, a dame's school.
+      [1913 Webster]
+
+            In the dame's classes at the village school.
+      --Emerson.
+      [1913 Webster]
+
+   3. A woman in general, esp. an elderly woman.
+      [1913 Webster]
+
+   4. A mother; -- applied to human beings and quadrupeds.
+      [Obs.] --Chaucer.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dame</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dame
+     n 1: informal terms for a (young) woman [syn: {doll}, {wench}, {skirt},
+           {chick}, {bird}]
+     2: a woman of refinement; "a chauffeur opened the door of the
+        limousine for the grand lady" [syn: {madam}, {ma'am}, {lady},
+         {gentlewoman}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

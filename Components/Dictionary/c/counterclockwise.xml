@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>counterclockwise</Word>
+  <Definitions>
+    <Definition>
+      <Word>counterclockwise</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>counterclockwise \coun"ter*clock"wise\ adj. &amp; adv.
+   in the opposite direction to that in which the hands of a
+   clock rotate, as viewed from in front of the clock face; --
+   of rotatory motion or spiral direction. Opposite of
+   {clockwise}, or {right-handed}
+
+   Note: [Narrower terms: {sinistral} {levororotary,
+         levorotatory}]
+
+   Syn: left-handed.
+        [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>counterclockwise</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>counterclockwise
+     adj : in the direction opposite to the rotation of the hands of a
+           clock [syn: {anticlockwise}, {contraclockwise}] [ant: {clockwise}]
+     adv : in a direction opposite to the direction in which the hands
+           of a clock move; "please move counterclockwise in a
+           circle!" [syn: {anticlockwise}] [ant: {clockwise}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

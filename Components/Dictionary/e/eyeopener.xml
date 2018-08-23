@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>eyeopener</Word>
+  <Definitions>
+    <Definition>
+      <Word>eyeopener</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>eye opener \eye opener\ n.
+   1. That which makes the eyes open, as startling news or
+      occurrence; something which causes one to suddenly
+      understand what was not previously known.
+      [1913 Webster]
+
+   2. A drink of liquor, especially the first one in the
+      morning. [U. S. Slang]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>eyeopener</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>eye opener
+     n 1: an alcoholic drink intended to wake one up early in the
+          morning
+     2: something surprising and revealing
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

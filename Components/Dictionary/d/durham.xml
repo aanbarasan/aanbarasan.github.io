@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>durham</Word>
+  <Definitions>
+    <Definition>
+      <Word>durham</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Durham, CA (CDP, FIPS 20270)
+  Location: 39.59953 N, 121.82768 W
+  Population (1990): 4784 (1766 housing units)
+  Area: 357.8 sq km (land), 1.7 sq km (water)
+  Zip code(s): 95938
+Durham, CT (CDP, FIPS 20740)
+  Location: 41.47391 N, 72.68192 W
+  Population (1990): 2650 (954 housing units)
+  Area: 16.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 06422
+Durham, KS (city, FIPS 19050)
+  Location: 38.48508 N, 97.22697 W
+  Population (1990): 119 (64 housing units)
+  Area: 0.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 67438
+Durham, MO
+  Zip code(s): 63438
+Durham, NC (city, FIPS 19000)
+  Location: 35.98043 N, 78.91497 W
+  Population (1990): 136611 (60607 housing units)
+  Area: 179.4 sq km (land), 0.2 sq km (water)
+  Zip code(s): 27701, 27703, 27704, 27705, 27706, 27707, 27712
+Durham, NH (CDP, FIPS 19620)
+  Location: 43.13945 N, 70.92323 W
+  Population (1990): 9236 (1569 housing units)
+  Area: 6.9 sq km (land), 0.1 sq km (water)
+Durham, NY
+  Zip code(s): 12422
+Durham, OK
+  Zip code(s): 73642
+Durham, OR (city, FIPS 21250)
+  Location: 45.39467 N, 122.75748 W
+  Population (1990): 748 (268 housing units)
+  Area: 1.1 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>durham</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Durham \Dur"ham\, n.
+   One or a breed of short-horned cattle, originating in the
+   county of Durham, England. The Durham cattle are noted for
+   their beef-producing quality.
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>durham</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Durham
+     n 1: a city of north central North Carolina; site of Duke
+          University
+     2: English breed of short-horned cattle [syn: {shorthorn}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>iaw</Word>
+  <Definitions>
+    <Definition>
+      <Word>iaw</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>IAW
+     
+        &lt;chat&gt; inactive window.
+     
+        Used in {talk} systems to mean that that person will not be
+        taking part in the conversation for a while.  The sadly
+        mispelled alternative, "unactive window" (UAW) has also been
+        reported.
+     
+        (1994-12-05)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>iaw</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>IAW
+     In Accordance With (telecommunication-slang, Usenet, IRC)
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

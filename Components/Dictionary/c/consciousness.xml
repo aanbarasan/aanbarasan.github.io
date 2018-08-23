@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>consciousness</Word>
+  <Definitions>
+    <Definition>
+      <Word>consciousness</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Consciousness \Con"scious*ness\, n.
+   1. The state of being conscious; knowledge of one's own
+      existence, condition, sensations, mental operations, acts,
+      etc.
+      [1913 Webster]
+
+            Consciousness is thus, on the one hand, the
+            recognition by the mind or ``ego'' of its acts and
+            affections; -- in other words, the self-affirmation
+            that certain modifications are known by me, and that
+            these modifications are mine.         --Sir W.
+                                                  Hamilton.
+      [1913 Webster]
+
+   2. Immediate knowledge or perception of the presence of any
+      object, state, or sensation. See the Note under
+      {Attention}.
+      [1913 Webster]
+
+            Annihilate the consciousness of the object, you
+            annihilate the consciousness of the operation. --Sir
+                                                  W. Hamilton.
+      [1913 Webster]
+
+            And, when the steam
+            Which overflowed the soul had passed away,
+            A consciousness remained that it had left.
+            . . . images and precious thoughts
+            That shall not die, and can not be destroyed.
+                                                  --Wordsworth.
+      [1913 Webster]
+
+            The consciousness of wrong brought with it the
+            consciousness of weakness.            --Froude.
+      [1913 Webster]
+
+   3. Feeling, persuasion, or expectation; esp., inward sense of
+      guilt or innocence. [R.]
+      [1913 Webster]
+
+            An honest mind is not in the power of a dishonest:
+            to break its peace there must be some guilt or
+            consciousness.                        --Pope.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>consciousness</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>consciousness
+     n 1: an alert cognitive state in which you are aware of yourself
+          and your situation; "he lost consciousness" [ant: {unconsciousness}]
+     2: having knowledge of; "he had no awareness of his mistakes";
+        "his sudden consciousness of the problem he faced"; "their
+        intelligence and general knowingness was impressive" [syn:
+         {awareness}, {cognizance}, {cognisance}, {knowingness}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

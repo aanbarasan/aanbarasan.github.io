@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hong</Word>
+  <Definitions>
+    <Definition>
+      <Word>hong</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hong \Hong\, n. [Chinese hang, Canton dialect hong, a mercantile
+   house, factory.]
+   A mercantile establishment or factory for foreign trade in
+   China, as formerly at Canton; a succession of offices
+   connected by a common passage and used for business or
+   storage.
+   [1913 Webster]
+
+   {Hong merchant}, one of the few Chinese merchants who,
+      previous to the treaty of 1842, formed a guild which had
+      the exclusive privilege of trading with foreigners.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hong</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hong \Hong\, v. t. &amp; i.
+   To hang. [Obs.] --Chaucer.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

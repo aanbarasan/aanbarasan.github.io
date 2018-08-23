@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>homogenous</Word>
+  <Definitions>
+    <Definition>
+      <Word>homogenous</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>homogenous
+     
+        {homogeneous}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>homogenous</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Homogenous \Ho*mog"e*nous\, a. (Biol.)
+   Having a resemblance in structure, due to descent from a
+   common progenitor with subsequent modification; homogenetic;
+   -- applied both to animals and plants. See {Homoplastic}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>homogenous</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>homogenous
+     adj : all of the same or similar kind or nature; "a close-knit
+           homogeneous group" [syn: {homogeneous}] [ant: {heterogeneous}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

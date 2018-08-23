@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>duct</Word>
+  <Definitions>
+    <Definition>
+      <Word>duct</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Duct \Duct\ (d[u^]kt), n. [L. ductus a leading, conducting,
+   conduit, fr. ducere, ductum, to lead. See {Duke}, and cf.
+   {Douche}.]
+   1. Any tube or canal by which a fluid or other substance is
+      conducted or conveyed.
+      [1913 Webster]
+
+   2. (Anat.) One of the vessels of an animal body by which the
+      products of glandular secretion are conveyed to their
+      destination.
+      [1913 Webster]
+
+   3. (Bot.) A large, elongated cell, either round or prismatic,
+      usually found associated with woody fiber.
+      [1913 Webster]
+
+   Note: Ducts are classified, according to the character of the
+         surface of their walls, or their structure, as annular,
+         spiral, scalariform, etc.
+         [1913 Webster]
+
+   4. Guidance; direction. [Obs.] --Hammond.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>duct</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>duct
+     n 1: a bodily passage or tube lined with epithelial cells and
+          conveying a secretion or other substance; "the tear duct
+          was obstructed"; "the alimentary canal"; "poison is
+          released through a channel in the snake's fangs" [syn: {epithelial
+          duct}, {canal}, {channel}]
+     2: a continuous tube formed by a row of elongated cells lacking
+        intervening end walls
+     3: an enclosed conduit for a fluid
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

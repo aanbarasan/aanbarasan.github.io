@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hacking</Word>
+  <Definitions>
+    <Definition>
+      <Word>hacking</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hack \Hack\, v. t. [imp. &amp; p. p. {Hacked} (h[a^]kt); p. pr. &amp;
+   vb. n. {Hacking}.] [OE. hakken, AS. haccian; akin to D.
+   hakken, G. hacken, Dan. hakke, Sw. hacka, and perh. to E.
+   hew. Cf. {Hew} to cut, {Haggle}.]
+   1. To cut irregulary, without skill or definite purpose; to
+      notch; to mangle by repeated strokes of a cutting
+      instrument; as, to hack a post.
+      [1913 Webster]
+
+            My sword hacked like a handsaw.       --Shak.
+      [1913 Webster]
+
+   2. Fig.: To mangle in speaking. --Shak.
+      [1913 Webster]
+
+   3. (Computers) To program (a computer) for pleasure or
+      compulsively; especially, to try to defeat the security
+      systems and gain unauthorized access to a computer.
+      [PJC]
+
+   4. To bear, physically or emotionally; as, he left the job
+      because he couldn't hack the pressure. [Colloq.]
+      [PJC]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

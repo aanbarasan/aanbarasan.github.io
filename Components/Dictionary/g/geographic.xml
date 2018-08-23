@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>geographic</Word>
+  <Definitions>
+    <Definition>
+      <Word>geographic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Geographic \Ge`o*graph"ic\, Geographical \Ge`o*graph"ic*al\, a.
+   [L. geographicus, Gr. ?: cf. F. g['e]ographique.]
+   Of or pertaining to geography.
+   [1913 Webster]
+
+   {Geographical distribution}. See under {Distribution}.
+
+   {Geographic latitude} (of a place), the angle included
+      between a line perpendicular or normal to the level
+      surface of water at rest at the place, and the plane of
+      the equator; differing slightly from the geocentric
+      latitude by reason of the difference between the earth's
+      figure and a true sphere.
+
+   {Geographical mile}. See under {Mile}.
+
+   {Geographical variation}, any variation of a species which is
+      dependent on climate or other geographical conditions.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>geographic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>geographic
+     adj 1: of or relating to the science of geography [syn: {geographical}]
+     2: determined by geography; "the north and south geographic
+        poles" [syn: {geographical}] [ant: {magnetic}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

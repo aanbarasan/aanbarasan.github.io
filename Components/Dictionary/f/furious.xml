@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>furious</Word>
+  <Definitions>
+    <Definition>
+      <Word>furious</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Furious \Fu"ri*ous\, a. [L. furiosus, fr. furia rage, fury: cf.
+   F. furieux. See {Fury}.]
+   1. Transported with passion or fury; raging; violent; as, a
+      furious animal.
+      [1913 Webster]
+
+   2. Rushing with impetuosity; moving with violence; as, a
+      furious stream; a furious wind or storm.
+
+   Syn: Impetuous; vehement; boisterous; fierce; turbulent;
+        tumultuous; angry; mad; frantic; frenzied. --
+        {Fu"ri*ous*ly}, adv. -- {Fu"ri*ous*ness}, n.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>furious</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>furious
+     adj 1: marked by extreme and violent energy; "a ferocious beating";
+            "fierce fighting"; "a furious battle" [syn: {ferocious},
+             {fierce}, {savage}]
+     2: marked by extreme anger; "the enraged bull attached";
+        "furious about the accident"; "a furious scowl";
+        "infuriated onlookers charged the police who were beating
+        the boy"; "could not control the maddened crowd" [syn: {angered},
+         {enraged}, {infuriated}, {maddened}]
+     3: (of the elements) as if showing violent anger; "angry clouds
+        on the horizon"; "furious winds"; "the raging sea" [syn: {angry},
+         {raging}, {tempestuous}, {wild}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

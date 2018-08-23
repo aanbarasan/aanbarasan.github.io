@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>grind</Word>
+  <Definitions>
+    <Definition>
+      <Word>grind</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Grind
+   (Ex. 32:20; Deut. 9:21; Judg. 16:21), to crush small (Heb.
+   tahan); to oppress the poor (Isa. 3:5). The hand-mill was early
+   used by the Hebrews (Num. 11:8). It consisted of two stones, the
+   upper (Deut. 24:6; 2 Sam. 11:21) being movable and slightly
+   concave, the lower being stationary. The grinders mentioned
+   Eccl. 12:3 are the teeth. (See {MILL}.)
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>grind</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>GRIND
+     
+        GRaphical INterpretive Display.
+     
+        A graphics input language for the {PDP-9}.
+     
+        ["GRIND: A Language and Translator for Computer Graphics",
+        A.P. Conn, Dartmouth, June 1969].
+     
+        [{Jargon File}]
+     
+        (1995-01-31)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>grind</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>grind
+     
+        1. (MIT and Berkeley) To prettify hardcopy of code, especially
+        LISP code, by reindenting lines, printing keywords and
+        comments in distinct fonts (if available), etc.  This usage
+        was associated with the MacLISP community and is now rare;
+        {prettyprint} was and is the generic term for such operations.
+     
+        2. (Unix) To generate the formatted version of a document from
+        the {nroff}, {troff}, {TeX}, or Scribe source.
+     
+        3. To run seemingly interminably, especially (but not
+        necessarily) if performing some tedious and inherently useless
+        task.  Similar to {crunch} or {grovel}.  Grinding has a
+        connotation of using a lot of CPU time, but it is possible to
+        grind a disk, network, etc.
+     
+        See also {hog}.
+     
+        4. To make the whole system slow.  "Troff really grinds a
+        PDP-11."
+     
+        5. "grind grind" excl. Roughly, "Isn't the machine slow
+        today!"
+     
+        [{Jargon File}]
+     
+        (1994-12-16)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>grind</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Grind \Grind\, v. i.
+   1. To perform the operation of grinding something; to turn
+      the millstones.
+      [1913 Webster]
+
+            Send thee
+            Into the common prison, there to grind. --Milton.
+      [1913 Webster]
+
+   2. To become ground or pulverized by friction; as, this corn
+      grinds well.
+      [1913 Webster]
+
+   3. To become polished or sharpened by friction; as, glass
+      grinds smooth; steel grinds to a sharp edge.
+      [1913 Webster]
+
+   4. To move with much difficulty or friction; to grate.
+      [1913 Webster]
+
+   5. To perform hard and distasteful service; to drudge; to
+      study hard, as for an examination. --Farrar.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>grind</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Grind \Grind\, v. t. [imp. &amp; p. p. {Ground}; p. pr. &amp; vb. n.
+   {Grinding}.] [AS. grindan; perh. akin to L. frendere to
+   gnash, grind. Cf. {Grist}.]
+   1. To reduce to powder by friction, as in a mill, or with the
+      teeth; to crush into small fragments; to produce as by the
+      action of millstones.
+      [1913 Webster]
+
+            Take the millstones, and grind meal.  --Is. xivii.
+                                                  2.
+      [1913 Webster]
+
+   2. To wear down, polish, or sharpen, by friction; to make
+      smooth, sharp, or pointed; to whet, as a knife or drill;
+      to rub against one another, as teeth, etc.
+      [1913 Webster]
+
+   3. To oppress by severe exactions; to harass.
+      [1913 Webster]
+
+            To grind the subject or defraud the prince.
+                                                  --Dryden.
+      [1913 Webster]
+
+   4. To study hard for examination; -- commonly used with away;
+      as, to grind away at one's studies. [College Slang]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>grind</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Grind \Grind\, n.
+   1. The act of reducing to powder, or of sharpening, by
+      friction.
+      [1913 Webster]
+
+   2. Any severe continuous work or occupation; esp., hard and
+      uninteresting study. [Colloq.] --T. Hughes.
+      [1913 Webster]
+
+   3. A student that studies hard; a dig; a wonk. [College
+      Slang]
+      [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>grind</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>grind vt. 1. [MIT and Berkeley; now rare] To prettify hardcopy of code,
+   especially LISP code, by reindenting lines, printing keywords and
+   comments in distinct fonts (if available), etc. This usage was
+   associated with the MacLISP community and is now rare; {prettyprint} was
+   and is the generic term for such operations. 2. [Unix] To generate the
+   formatted version of a document from the {{nroff}}, {{troff}}, {{TeX}},
+   or Scribe source. 3. [common] To run seemingly interminably, esp. (but
+   not necessarily) if performing some tedious and inherently useless task.
+   Similar to {crunch} or {grovel}. Grinding has a connotation of using a
+   lot of CPU time, but it is possible to grind a disk, network, etc. See
+   also {hog}. 4. To make the whole system slow. "Troff really grinds a
+   PDP-11." 5. `grind grind' excl. Roughly, "Isn't the machine slow today!"
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>grind</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>grind
+     n 1: an insignificant student who is ridiculed as being affected
+          or studying excessively [syn: {swot}, {nerd}, {wonk}, {dweeb}]
+     2: hard monotonous routine work [syn: {drudgery}, {plodding}, {donkeywork}]
+     3: the act of grinding to a powder or dust [syn: {mill}, {pulverization},
+         {pulverisation}]
+     v 1: press or grind with a crunching noise [syn: {crunch}, {cranch},
+           {craunch}]
+     2: make a grating or grinding sound by rubbing together; "grate
+        one's teeth in anger" [syn: {grate}]
+     3: reduce to small pieces or particles by pounding or abrading;
+        "grind the spices in a mortar"; "mash the garlic" [syn: {mash},
+         {crunch}, {bray}, {comminute}]
+     4: work hard; "She was digging away at her math homework";
+        "Lexicographers drudge all day long" [syn: {labor}, {labour},
+         {toil}, {fag}, {travail}, {drudge}, {dig}, {moil}]
+     5: dance by rotating the pelvis in an erotically suggestive
+        way, often while in contact with one's partner such that
+        the dancers' legs are interlaced
+     [also: {ground}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

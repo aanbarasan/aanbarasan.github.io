@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>holocaust</Word>
+  <Definitions>
+    <Definition>
+      <Word>holocaust</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Holocaust \Hol"o*caust\, n. [L. holocaustum, Gr. ?, neut. of ?,
+   ?, burnt whole; "o'los whole + kaysto`s burnt, fr. kai`ein to
+   burn (cf. {Caustic}): cf. F. holocauste.]
+   1. A burnt sacrifice; an offering, the whole of which was
+      consumed by fire, among the Jews and some pagan nations.
+      --Milton.
+      [1913 Webster]
+
+   2. Sacrifice or loss of many lives, as by the burning of a
+      theater or a ship.
+
+   Note: [An extended use not authorized by careful writers.]
+         [1913 Webster]
+
+   3. Specifically: The mass killing of millions of Jews by the
+      Nazis during the period from 1933 to 1945 in Germany and
+      German-occupied lands; usually referred to as {The
+      Holocaust}. In Hebrew, the same event is referred to by
+      the word {Shoah}.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>holocaust</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>holocaust
+     n 1: an act of great destruction and loss of life
+     2: the Nazi program of exterminating Jews under Hitler [syn: {final
+        solution}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>electronic</Word>
+  <Definitions>
+    <Definition>
+      <Word>electronic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Electronic \E`lec*tron"ic\, a. (Physics &amp; Chem.)
+   1. Of or pertaining to an electron or electrons; as,
+      electronic energy. [WordNet sense 2]
+      [Webster 1913 Suppl.]
+
+   2. Using the methods or principles of {electronics} as part
+      of the working mechanism; -- of devices; as, electronic
+      circuit; electronic devices; electronic entertainment
+      devices.
+      [PJC]
+
+   3. Using computerized storage or transmission of information;
+      as, electronic banking; electronic mail; electronic fund
+      transfer.
+      [PJC]
+
+   4. of or pertaining to electronics. [WordNet sense 1]
+      [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>electronic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>electronic
+     adj 1: of or relating to electronics; concerned with or using
+            devices that operate on principles governing the
+            behavior of electrons; "electronic devices"
+     2: of or concerned with electrons; "electronic energy"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

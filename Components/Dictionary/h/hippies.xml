@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hippies</Word>
+  <Definitions>
+    <Definition>
+      <Word>hippies</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hippies
+     n : a youth subculture (mostly from the middle class)
+         originating in San Francisco in the 1960s; advocated
+         universal love and peace and communes and long hair and
+         soft drugs; favored acid rock and progressive rock music
+         [syn: {flower people}, {hipsters}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

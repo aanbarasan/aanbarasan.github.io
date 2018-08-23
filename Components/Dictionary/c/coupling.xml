@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>coupling</Word>
+  <Definitions>
+    <Definition>
+      <Word>coupling</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>coupling
+     
+        &lt;programming, hardware&gt; The degree to which components depend
+        on one another.  There are two types of coupling, "tight" and
+        "loose".  Loose coupling is desirable for good {software
+        engineering} but tight coupling may be necessary for maximum
+        performance.  Coupling is increased when the data exchanged
+        between components becomes larger or more complex.
+     
+        (1996-08-01)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>coupling</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Couple \Cou"ple\, v. t. [imp. &amp; p. p. {Coupled} (k[u^]p"'ld); p.
+   pr. &amp; vb. n. {Coupling} (k[u^]p"l[i^]ng).] [F. coupler, fr.
+   L. copulare. See {Couple}, n., and cf. {Copulate}, {Cobble},
+   v.]
+   [1913 Webster]
+   1. To link or tie, as one thing to another; to connect or
+      fasten together; to join.
+      [1913 Webster]
+
+            Huntsman, I charge thee, tender well my hounds, . .
+            .
+            And couple Clowder with the deep-mouthed brach.
+                                                  --Shak.
+      [1913 Webster]
+
+   2. To join in wedlock; to marry. [Colloq.]
+      [1913 Webster]
+
+            A parson who couples all our beggars. --Swift.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>coupling</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Coupling \Coup"ling\ (-l?ng), n.
+   1. The act of bringing or coming together; connection; sexual
+      union.
+      [1913 Webster]
+
+   2. (Mach.) A device or contrivance which serves to couple or
+      connect adjacent parts or objects; as, a belt coupling,
+      which connects the ends of a belt; a car coupling, which
+      connects the cars in a train; a shaft coupling, which
+      connects the ends of shafts.
+      [1913 Webster]
+
+   {Box coupling}, {Chain coupling}. See under {Box}, Chain.
+
+   {Coupling box}, a coupling shaped like a journal box, for
+      clamping together the ends of two shafts, so that they may
+      revolve together.
+
+   {Coupling pin}, a pin or bolt used in coupling or joining
+      together railroad cars, etc.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>coupling</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>coupling
+     n 1: a connection (like a clamp or vise) between two things so
+          they move together [syn: {yoke}]
+     2: a mechanical device that serves to connect the ends of
+        adjacent objects [syn: {coupler}]
+     3: the act of pairing a male and female for reproductive
+        purposes; "the casual couplings of adolescents"; "the
+        mating of some species occurs only in the spring" [syn: {mating},
+         {pairing}, {conjugation}, {union}, {sexual union}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

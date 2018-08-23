@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fantasies</Word>
+  <Definitions>
+    <Definition>
+      <Word>fantasies</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fantasy \Fan"ta*sy\, n.; pl. {Fantasies}. [See {Fancy}.]
+   1. Fancy; imagination; especially, a whimsical or fanciful
+      conception; a vagary of the imagination; whim; caprice;
+      humor.
+      [1913 Webster]
+
+            Is not this something more than fantasy ? --Shak.
+      [1913 Webster]
+
+            A thousand fantasies
+            Begin to throng into my memory.       --Milton.
+      [1913 Webster]
+
+   2. Fantastic designs.
+      [1913 Webster]
+
+            Embroidered with fantasies and flourishes of gold
+            thread.                               --Hawthorne.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

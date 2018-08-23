@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hogwash</Word>
+  <Definitions>
+    <Definition>
+      <Word>hogwash</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hogwash \Hog"wash`\, n.
+   1. Swill. --Arbuthnot.
+      [1913 Webster]
+
+   2. Meaningless talk; nonsense; balderdash; bunk; -- also used
+      as an interjection, expressing scornful disbelief.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hogwash</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hogwash
+     n : unacceptable behavior (especially ludicrously false
+         statements) [syn: {bunk}, {bunkum}, {buncombe}, {guff}, {rot}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

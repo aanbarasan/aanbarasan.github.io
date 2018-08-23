@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>destination</Word>
+  <Definitions>
+    <Definition>
+      <Word>destination</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Destination \Des`ti*na"tion\, n. [L. destinatio determination:
+   cf. F. destination destination.]
+   1. The act of destining or appointing.
+      [1913 Webster]
+
+   2. Purpose for which anything is destined; predetermined end,
+      object, or use; ultimate design.
+      [1913 Webster]
+
+   3. The place set for the end of a journey, or to which
+      something is sent; place or point aimed at.
+
+   Syn: Appointment; design; purpose; intention; destiny; lot;
+        fate; end.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>destination</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>destination
+     n 1: the place designated as the end (as of a race or journey);
+          "a crowd assembled at the finish"; "he was nearly
+          exhuasted as their destination came into view" [syn: {finish},
+           {goal}]
+     2: the ultimate goal for which something is done [syn: {terminus}]
+     3: written directions for finding some location; written on
+        letters or packages that are to be delivered to that
+        location [syn: {address}, {name and address}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

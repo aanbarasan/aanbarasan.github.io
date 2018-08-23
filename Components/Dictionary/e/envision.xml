@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>envision</Word>
+  <Definitions>
+    <Definition>
+      <Word>envision</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>envision
+     v 1: imagine; conceive of; see in one's mind; "I can't see him on
+          horseback!"; "I can see what will happen"; "I can see a
+          risk in this strategy" [syn: {visualize}, {visualise}, {project},
+           {fancy}, {see}, {figure}, {picture}, {image}]
+     2: picture to oneself; imagine possible; "I cannot envision him
+        as President" [syn: {foresee}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

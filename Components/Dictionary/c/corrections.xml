@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>corrections</Word>
+  <Definitions>
+    <Definition>
+      <Word>corrections</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>corrections
+     n 1: the department of local government that is responsible for
+          managing the treatment of convicted offenders; "for a
+          career in corrections turn to the web site of the New
+          Jersey Department of Corrections" [syn: {department of
+          corrections}]
+     2: the social control of offenders through a system of
+        imprisonment and rehabilitation and probation and parole
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

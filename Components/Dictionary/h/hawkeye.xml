@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hawkeye</Word>
+  <Definitions>
+    <Definition>
+      <Word>hawkeye</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Hawkeye, IA (city, FIPS 35310)
+  Location: 42.93804 N, 91.95086 W
+  Population (1990): 460 (229 housing units)
+  Area: 1.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 52147
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

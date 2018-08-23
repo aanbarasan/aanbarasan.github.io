@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>inaccurate</Word>
+  <Definitions>
+    <Definition>
+      <Word>inaccurate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Inaccurate \In*ac"cu*rate\, a.
+   Not accurate; not according to truth; inexact; not quite
+   correct; incorrect; erroneous; as, in inaccurate man,
+   narration, copy, judgment, calculation, etc.
+
+   Note: The term inaccurate is usually used when an assertion
+         or result is near to the truth, but not exactly, or has
+         some basis for belief; however, it is sometimes used as
+         a gentle euphemism for wrong even if the error is
+         flagrant.
+         [1913 Webster +PJC]
+
+               The expression is plainly inaccurate. --Bp. Hurd.
+
+   Syn: Inexact; incorrect; erroneous; faulty; imperfect;
+        incomplete; defective.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>inaccurate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>inaccurate
+     adj 1: not accurate; "an inaccurate translation"; "the thermometer
+            is inaccurate" [ant: {accurate}]
+     2: not precisely accurate; "an inexact quotation" [syn: {inexact}]
+     3: containing or characterized by error; "erroneous
+        conclusions"; "the answer was inaccurate" [syn: {erroneous}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

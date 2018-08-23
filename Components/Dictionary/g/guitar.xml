@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>guitar</Word>
+  <Definitions>
+    <Definition>
+      <Word>guitar</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Guitar \Gui*tar"\, n. [F. guitare; cf. Pr., Sp., &amp; Pg.guitarra,
+   It. chitarra; all fr. Gr. ?; cf. L. cithara. Cf. {Cittern},
+   {Gittern}.]
+   A stringed instrument of music resembling the lute or the
+   violin, but larger, and having six strings, three of silk
+   covered with silver wire, and three of catgut, -- played upon
+   with the fingers.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>guitar</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>guitar
+     n : a stringed instrument usually having six strings; played by
+         strumming or plucking
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

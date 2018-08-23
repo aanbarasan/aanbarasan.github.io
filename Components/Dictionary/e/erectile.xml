@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>erectile</Word>
+  <Definitions>
+    <Definition>
+      <Word>erectile</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Erectile \E*rect"ile\, a. [Cf. F. ['e]rectile.]
+   1. Capable of being erected; susceptible of being erected of
+      dilated; as, erectile tissue.
+      [1913 Webster]
+
+   2. Of or pertaining to an erection[5]; as, erectile
+      dysfunction.
+      [PJC]
+
+   {Erectile tissue} (Anat.), a tissue, such as that contained
+      in the penis, which is capable of being greatly dilated
+      and made rigid by accumulation of blood in and the
+      consequent distension of the numerous blood vessels which
+      it contains.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>erectile</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>erectile
+     adj 1: capable of being raised to an upright position; "erectile
+            feathers"
+     2: filled with vascular sinuses and capable of becoming
+        distended and rigid as the result of being filled with
+        blood; "erectile tissue"; "the penis is an erectile organ"
+        [syn: {cavernous}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

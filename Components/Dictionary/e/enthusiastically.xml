@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>enthusiastically</Word>
+  <Definitions>
+    <Definition>
+      <Word>enthusiastically</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Enthusiastic \En*thu`si*as"tic\, Enthusiastical
+\En*thu`si*as"tic*al\, a. [Gr. ? .]
+   Filled with enthusiasm; characterized by enthusiasm; zealous;
+   as, an enthusiastic lover of art. ``Enthusiastical
+   raptures.'' --Calamy. -- {En*thu`si*as"tic*al*ly}, adv.
+   [1913 Webster]
+
+         A young man . . . of a visionary and enthusiastic
+         character.                               --W. Irving.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>enthusiastically</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>enthusiastically
+     adv 1: with enthusiasm; in an enthusiastic manner; "they discussed
+            the question enthusiastically" [ant: {unenthusiastically}]
+     2: in a lavish or enthusiastic manner; "he extolled her virtues
+        sky-high" [syn: {sky-high}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

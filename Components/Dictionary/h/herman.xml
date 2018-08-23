@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>herman</Word>
+  <Definitions>
+    <Definition>
+      <Word>herman</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Herman, MN (city, FIPS 28646)
+  Location: 45.81061 N, 96.13993 W
+  Population (1990): 485 (266 housing units)
+  Area: 2.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 56248
+Herman, NE (village, FIPS 22185)
+  Location: 41.67309 N, 96.21662 W
+  Population (1990): 186 (94 housing units)
+  Area: 0.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 68029
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>herman</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Herman
+     n : United States jazz musician and bandleader (1913-1987) [syn:
+          {Woody Herman}, {Woodrow Charles Herman}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

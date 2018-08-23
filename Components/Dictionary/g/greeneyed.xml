@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>greeneyed</Word>
+  <Definitions>
+    <Definition>
+      <Word>greeneyed</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Green-eyed \Green"-eyed\, a.
+   1. Having green eyes.
+      [1913 Webster]
+
+   2. Seeing everything under the influence of emotions which
+      discolor or distort. ``Green-eyed jealousy.'' --Shak.
+      [1913 Webster]
+
+   3. Hence: suspicious or unduly suspicious or fearful of being
+      displaced by a rival. [WordNet sense 1]
+
+   Syn: jealous, overjealous.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>greeneyed</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>green-eyed
+     adj : suspicious or unduly suspicious or fearful of being
+           displaced by a rival; "a jealous lover" [syn: {jealous},
+            {overjealous}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

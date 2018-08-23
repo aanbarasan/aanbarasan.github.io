@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>famously</Word>
+  <Definitions>
+    <Definition>
+      <Word>famously</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Famously \Fa"mous*ly\, adv.
+   In a famous manner; in a distinguished degree; greatly;
+   splendidly.
+   [1913 Webster]
+
+         Then this land was famously enriched
+         With politic grave counsel.              --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>famously</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>famously
+     adv 1: in a manner or to an extent that is well known; "in his
+            famously anecdotal style"
+     2: in a splendid manner; "he did splendidly in the exam"; "we
+        got along famously" [syn: {magnificently}, {splendidly}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

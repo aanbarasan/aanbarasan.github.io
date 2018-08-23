@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>halbert</Word>
+  <Definitions>
+    <Definition>
+      <Word>halbert</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Halberd \Hal"berd\ (h[o^]l"b[~e]rd; 277), n. [F. hallebarde; of
+   German origin; cf. MHG. helmbarte, G. hellebarte; prob.
+   orig., an ax to split a helmet, fr. G. barte a broad ax
+   (orig. from the same source as E. beard; cf. Icel. bar[eth]a,
+   a kind of ax, skegg beard, skeggja a kind of halberd) + helm
+   helmet; but cf. also MHG. helm, halm, handle, and E. helve.
+   See {Beard}, {Helmet}.] (Mil.)
+   An ancient long-handled weapon, of which the head had a point
+   and several long, sharp edges, curved or straight, and
+   sometimes additional points. The heads were sometimes of very
+   elaborate form. [Written also {halbert}.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>finder</Word>
+  <Definitions>
+    <Definition>
+      <Word>finder</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Finder \Find"er\, n.
+   1. One who, or that which, finds; specifically (Astron.), a
+      small telescope of low power and large field of view,
+      attached to a larger telescope, for the purpose of finding
+      an object more readily, called also a {finder telescope}
+      or {finder scope}.
+      [1913 Webster +PJC]
+
+   2. (Micros.) A slide ruled in squares, so as to assist in
+      locating particular points in the field of vision.
+      [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>finder</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>finder
+     n 1: someone who comes upon something after searching
+     2: someone who is the first to observe something [syn: {discoverer},
+         {spotter}]
+     3: optical device that helps a user to find the target of
+        interest [syn: {viewfinder}, {view finder}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>idealized</Word>
+  <Definitions>
+    <Definition>
+      <Word>idealized</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Idealize \I*de"al*ize\, v. t. [imp. &amp; p. p. {Idealized}; p. pr.
+   &amp; vb. n. {Idealizing}.]
+   1. To make ideal; to consider as ideal; to give an ideal form
+      or value to; to attribute ideal characteristics and
+      excellences to; as, to idealize real life. [WordNet sense
+      1]
+      [1913 Webster]
+
+   2. (Fine Arts) To treat in an ideal manner. See
+      {Idealization}, 2.
+      [1913 Webster]
+
+   3. to form ideals. [WordNet sense 2]
+      [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>idealized</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>idealized
+     adj : exalted to an ideal perfection or excellence [syn: {idealised}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

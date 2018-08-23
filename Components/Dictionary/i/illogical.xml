@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>illogical</Word>
+  <Definitions>
+    <Definition>
+      <Word>illogical</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Illogical \Il*log"ic*al\, a.
+   Ignorant or negligent of the rules of logic or correct
+   reasoning; as, an illogical disputant; contrary of the rules
+   of logic or sound reasoning; as, an illogical inference. --
+   {Il*log"ic*al*ly}, adv. -- {Il*log"ic*al*ness}, n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>illogical</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>illogical
+     adj 1: lacking in correct logical relation [syn: {unlogical}] [ant:
+             {logical}]
+     2: lacking orderly continuity; "a confused set of
+        instructions"; "a confused dream about the end of the
+        world"; "disconnected fragments of a story"; "scattered
+        thoughts" [syn: {confused}, {disconnected}, {disjointed},
+        {disordered}, {garbled}, {scattered}, {unconnected}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

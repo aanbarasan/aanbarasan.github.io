@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>deathbed</Word>
+  <Definitions>
+    <Definition>
+      <Word>deathbed</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Deathbed \Death"bed\, n.
+   The bed in which a person dies; hence, the closing hours of
+   life of one who dies by sickness or the like; the last
+   sickness.
+   [1913 Webster]
+
+         That often-quoted passage from Lord Hervey in which the
+         Queen's deathbed is described.           --Thackeray.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>deathbed</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>deathbed
+     n 1: the last few hours before death
+     2: the bed on which a person dies
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

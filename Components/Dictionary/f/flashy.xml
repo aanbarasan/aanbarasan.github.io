@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>flashy</Word>
+  <Definitions>
+    <Definition>
+      <Word>flashy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Flashy \Flash"y\, a.
+   1. Dazzling for a moment; making a momentary show of
+      brilliancy; transitorily bright.
+      [1913 Webster]
+
+            A little flashy and transient pleasure. --Barrow.
+      [1913 Webster]
+
+   2. Fiery; vehement; impetuous.
+      [1913 Webster]
+
+            A temper always flashy.               --Burke.
+      [1913 Webster]
+
+   3. Showy; gay; gaudy; as, a flashy dress.
+      [1913 Webster]
+
+   4. Without taste or spirit.
+      [1913 Webster]
+
+            Lean and flashy songs.                --Milton.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flashy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>flashy
+     adj 1: tastelessly showy; "a flash car"; "a flashy ring"; "garish
+            colors"; "a gaudy costume"; "loud sport shirts"; "a
+            meretricious yet stylish book"; "tawdry ornaments"
+            [syn: {brassy}, {cheap}, {flash}, {garish}, {gaudy}, {gimcrack},
+             {loud}, {meretricious}, {tacky}, {tatty}, {tawdry}, {trashy}]
+     2: (used especially of clothes) marked by conspicuous display
+        [syn: {gaudy}, {jazzy}, {showy}, {sporty}]
+     [also: {flashiest}, {flashier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

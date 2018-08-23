@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>disseminate</Word>
+  <Definitions>
+    <Definition>
+      <Word>disseminate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Disseminate \Dis*sem"i*nate\, v. t. &amp; i. [imp. &amp; p. p.
+   {Disseminated}; p. pr. &amp; vb. n. {Disseminating}.] [L.
+   disseminatus, p. p. of disseminare to disseminate; dis- +
+   seminare to sow, semen seed. See {Seminary}.]
+   1. to spread around widely; to sow broadcast or as seed; to
+      scatter for growth and propagation, like seed; to spread
+      abroad; to diffuse; as, principles, ideas, opinions, and
+      errors are disseminated when they are spread abroad for
+      propagation.
+      [1913 Webster]
+
+   2. To spread or extend by dispersion.
+      [1913 Webster]
+
+            A nearly uniform and constant fire or heat
+            disseminated throughout the body of the earth.
+                                                  --Woodward.
+
+   Syn: To spread; diffuse; propagate; circulate; disperse;
+        scatter.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>disseminate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>disseminate
+     v : cause to become widely known; "spread information";
+         "circulate a rumor"; "broadcast the news" [syn: {circulate},
+          {circularize}, {circularise}, {distribute}, {propagate},
+          {broadcast}, {spread}, {diffuse}, {disperse}, {pass
+         around}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

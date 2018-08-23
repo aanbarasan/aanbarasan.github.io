@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>feisty</Word>
+  <Definitions>
+    <Definition>
+      <Word>feisty</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>feisty
+     adj 1: showing courage; "the champion is faced with a feisty
+            challenger" [syn: {plucky}, {spunky}]
+     2: irritable and looking for trouble; "too touchy to make
+        judicious decisions" [syn: {touchy}]
+     [also: {feistiest}, {feistier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

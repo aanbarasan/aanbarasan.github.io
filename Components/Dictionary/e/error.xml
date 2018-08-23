@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>error</Word>
+  <Definitions>
+    <Definition>
+      <Word>error</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>error
+     
+        1. A discrepancy between a computed, observed, or measured
+        value or condition and the true, specified, or theoretically
+        correct value or condition.
+     
+        2. &lt;programming&gt; A mental mistake made by a programmer that
+        may result in a program {fault}.
+     
+        3. (verb) What a program does when it stops as result of a
+        programming error.
+     
+        (2000-03-28)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>error</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Error \Er"ror\, n. [OF. error, errur, F. erreur, L. error, fr.
+   errare to err. See {Err}.]
+   1. A wandering; a roving or irregular course. [Obs.]
+      [1913 Webster]
+
+            The rest of his journey, his error by sea. --B.
+                                                  Jonson.
+      [1913 Webster]
+
+   2. A wandering or deviation from the right course or
+      standard; irregularity; mistake; inaccuracy; something
+      made wrong or left wrong; as, an error in writing or in
+      printing; a clerical error.
+      [1913 Webster]
+
+   3. A departing or deviation from the truth; falsity; false
+      notion; wrong opinion; mistake; misapprehension.
+      [1913 Webster]
+
+            His judgment was often in error, though his candor
+            remained unimpaired.                  --Bancroft.
+      [1913 Webster]
+
+   4. A moral offense; violation of duty; a sin or
+      transgression; iniquity; fault. --Ps. xix. 12.
+      [1913 Webster]
+
+   5. (Math.) The difference between the approximate result and
+      the true result; -- used particularly in the rule of
+      double position.
+      [1913 Webster]
+
+   6. (Mensuration)
+      (a) The difference between an observed value and the true
+          value of a quantity.
+      (b) The difference between the observed value of a
+          quantity and that which is taken or computed to be the
+          true value; -- sometimes called {residual error}.
+          [1913 Webster]
+
+   7. (Law.) A mistake in the proceedings of a court of record
+      in matters of law or of fact.
+      [1913 Webster]
+
+   8. (Baseball) A fault of a player of the side in the field
+      which results in failure to put out a player on the other
+      side, or gives him an unearned base.
+      [1913 Webster]
+
+   {Law of error}, or {Law of frequency of error} (Mensuration),
+      the law which expresses the relation between the magnitude
+      of an error and the frequency with which that error will
+      be committed in making a large number of careful
+      measurements of a quantity.
+
+   {Probable error}. (Mensuration) See under {Probable}.
+
+   {Writ of error} (Law), an original writ, which lies after
+      judgment in an action at law, in a court of record, to
+      correct some alleged error in the proceedings, or in the
+      judgment of the court. --Bouvier. Burrill.
+
+   Syn: Mistake; fault; blunder; failure; fallacy; delusion;
+        hallucination; sin. See {Blunder}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>error</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>error
+     n 1: a wrong action attributable to bad judgment or ignorance or
+          inattention; "he made a bad mistake"; "she was quick to
+          point out my errors"; "I could understand his English in
+          spite of his grammatical faults" [syn: {mistake}, {fault}]
+     2: inadvertent incorrectness [syn: {erroneousness}]
+     3: a misconception resulting from incorrect information [syn: {erroneous
+        belief}]
+     4: (baseball) a failure of a defensive player to make an out
+        when normal play would have sufficed [syn: {misplay}]
+     5: departure from what is ethically acceptable [syn: {wrongdoing}]
+     6: (computer science) the occurrence of an incorrect result
+        produced by a computer [syn: {computer error}]
+     7: part of a statement that is not correct; "the book was full
+        of errors" [syn: {mistake}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>horseback</Word>
+  <Definitions>
+    <Definition>
+      <Word>horseback</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Horseback \Horse"back`\, n.
+   1. The back of a horse.
+      [1913 Webster]
+
+   2. An extended ridge of sand, gravel, and boulders, in a
+      half-stratified condition. --Agassiz.
+      [1913 Webster]
+
+   {On horseback}, on the back of a horse; mounted or riding on
+      a horse or horses; in the saddle.
+      [1913 Webster]
+
+            The long journey was to be performed on horseback.
+                                                  --Prescott.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>horseback</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>horseback
+     n 1: the back of a horse
+     2: a narrow ridge of hills [syn: {hogback}]
+     adv : on the back of a horse; "he rode horseback to town";
+           "managed to escape ahorse"; "policeman patrolled the
+           streets ahorseback" [syn: {ahorse}, {ahorseback}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

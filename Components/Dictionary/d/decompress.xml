@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>decompress</Word>
+  <Definitions>
+    <Definition>
+      <Word>decompress</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>decompress
+     
+        &lt;compression, data&gt; To reverse the effects of data
+        {compression}.
+     
+        (2001-01-30)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>decompress</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>decompress \decompress\ v. i.
+   to undergo the process of {decompression}.
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>decompress</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>decompress \decompress\ v. t.
+   to subject to the process of {decompression}.
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>decompress</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>decompress
+     v 1: restore to its uncompressed form; "decompress data" [syn: {uncompress}]
+          [ant: {compress}]
+     2: decrease the pressure of; "depressurize the cabin in the air
+        plane" [syn: {depressurize}, {depressurise}] [ant: {pressurize},
+         {pressurize}]
+     3: become less tense, rest, or take one's ease; "He relaxed in
+        the hot tub"; "Let's all relax after a hard day's work"
+        [syn: {relax}, {loosen up}, {unbend}, {unwind}, {slow down}]
+        [ant: {tense}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

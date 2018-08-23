@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>electromagnetism</Word>
+  <Definitions>
+    <Definition>
+      <Word>electromagnetism</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Electro-magnetism \E*lec`tro-mag"net*ism\ n.
+   1. magnetism produced by an electric current.
+      [WordNet 1.5]
+
+   2. one of the fundamental forces of nature, responsible for
+      both electrical and magnetic phenomena. Called also the
+      {electromagnetic force}. Formerly believed to be separate
+      phenomena, electricity and magnetism were shown by
+      experiment and theory to be different aspects of the
+      {electromagnetic force}. It is responsible for the forces
+      generated between magnetically or electrically charged
+      objects, and is the fundamental force responsible for the
+      characteristics of electromagnetic radiation, including
+      light.
+      [PJC]
+
+   3. the branch of physics concerned with electromagnetic
+      phenomena.
+      [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>electromagnetism</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>electromagnetism
+     n 1: magnetism produced by an electric current; "electromagnetism
+          was discovered when it was observed that a copper wire
+          carrying an electric current can magnetize pieces of
+          iron or steel near it"
+     2: the branch of physics concerned with electromagnetic
+        phenomena [syn: {electromagnetics}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

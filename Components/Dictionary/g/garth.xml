@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>garth</Word>
+  <Definitions>
+    <Definition>
+      <Word>garth</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Garth \Garth\ (g[aum]rth), n. [Icel. gar[eth]r yard. See
+   {Yard}.]
+   1. A close; a yard; a croft; a garden; as, a cloister garth.
+      [1913 Webster]
+
+            A clapper clapping in a garth
+            To scare the fowl from fruit.         --Tennyson.
+      [1913 Webster]
+
+   2. A dam or weir for catching fish.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>garth</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Garth \Garth\, n. [{Girth}.]
+   A hoop or band. [Prov. Eng.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

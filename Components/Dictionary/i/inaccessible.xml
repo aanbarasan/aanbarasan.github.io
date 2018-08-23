@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>inaccessible</Word>
+  <Definitions>
+    <Definition>
+      <Word>inaccessible</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Inaccessible \In`ac*cess"i*ble\, a. [L. inaccessibilis: cf. F.
+   inaccessible. See {In-} not, and {Accessible}.]
+   Not accessible; not to be reached, obtained, or approached;
+   as, an inaccessible rock, fortress, document, prince, etc. --
+   {In`ac*cess"i*ble*ness}, n. -- {In`ac*cess"i*bly}, adv.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>inaccessible</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>inaccessible
+     adj 1: capable of being reached only with great difficulty or not
+            at all [syn: {unaccessible}] [ant: {accessible}]
+     2: not capable of being obtained; "a rare work, today almost
+        inaccessible"; "timber is virtually unobtainable in the
+        islands"; "untouchable resources buried deep within the
+        earth" [syn: {unobtainable}, {unprocurable}, {untouchable}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

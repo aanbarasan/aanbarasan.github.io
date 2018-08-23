@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>entanglement</Word>
+  <Definitions>
+    <Definition>
+      <Word>entanglement</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Entanglement \En*tan"gle*ment\, n.
+   1. State of being entangled; intricate and confused
+      involution; that which entangles; intricacy; perplexity.
+      [1913 Webster]
+
+   2. (Mil.) An extensive low obstacle formed of stakes, stumps,
+      or the like, connected by wires, ropes, or the like.
+      [Webster 1913 Suppl.]
+
+   3. (Naut.) An obstruction of cables and spars across a river
+      or harbor entrance.
+      [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>entanglement</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>entanglement
+     n : an intricate trap that entangles or ensnares its victim
+         [syn: {web}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

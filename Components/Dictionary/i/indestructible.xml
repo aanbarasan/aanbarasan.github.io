@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>indestructible</Word>
+  <Definitions>
+    <Definition>
+      <Word>indestructible</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Indestructible \In`de*struc"ti*ble\, a. [Pref. in- not +
+   destructible: cf. F. indestructible.]
+   Not destructible; incapable of decomposition or of being
+   destroyed; as, the Russian harvesters had primitive
+   electronics, but they were built so sturdily they were almost
+   indestructible. -- {In`de*struc"ti*ble*ness}, n. --
+   {In`de*struc"ti*bly}, adv.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>indestructible</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>indestructible
+     adj 1: not easily destroyed [ant: {destructible}]
+     2: very long lasting; "less durable rocks were gradually worn
+        away to form valleys"; "the perdurable granite of the
+        ancient Appalachian spine of the continent" [syn: {durable},
+         {perdurable}, {undestroyable}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

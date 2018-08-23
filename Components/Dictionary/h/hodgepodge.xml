@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hodgepodge</Word>
+  <Definitions>
+    <Definition>
+      <Word>hodgepodge</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hodgepodge \Hodge"podge`\, n.
+   A mixed mass; a medley. See {Hotchpot}. --Johnson.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hodgepodge</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hodgepodge
+     n 1: a motley assortment of things [syn: {odds and ends}, {oddments},
+           {melange}, {farrago}, {ragbag}, {mishmash}, {mingle-mangle},
+           {hotchpotch}, {omnium-gatherum}]
+     2: a theory or argument made up of miscellaneous or incongruous
+        ideas [syn: {patchwork}, {jumble}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

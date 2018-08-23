@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>housekeeping</Word>
+  <Definitions>
+    <Definition>
+      <Word>housekeeping</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Housekeeping \House"keep`ing\, n.
+   1. The state of occupying a dwelling house as a householder.
+      [1913 Webster]
+
+   2. Care of domestic concerns; management of a house and home
+      affairs.
+      [1913 Webster]
+
+   3. Hospitality; a liberal and hospitable table; a supply of
+      provisions. [Obs.]
+      [1913 Webster]
+
+            Tell me, softly and hastily, what's in the pantry?
+            Small housekeeping enough, said Ph[oe]be. --Sir W.
+                                                  Scott.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>housekeeping</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Housekeeping \House"keep`ing\, a.
+   Domestic; used in a family; as, housekeeping commodities.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>housekeeping</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>housekeeping
+     n : the work of cleaning and running a house [syn: {housework}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

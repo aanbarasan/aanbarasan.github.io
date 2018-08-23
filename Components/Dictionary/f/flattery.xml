@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>flattery</Word>
+  <Definitions>
+    <Definition>
+      <Word>flattery</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Flattery \Flat"ter*y\, n.; pl. {Flatteries}. [OE. flaterie, OF.
+   flaterie, F. flaterie, fr. flater to flatter, F. flatter; of
+   uncertain origin. See {Flatter}, v. t.]
+   The act or practice of flattering; the act of pleasing by
+   artful commendation or compliments; adulation; false,
+   insincere, or excessive praise.
+   [1913 Webster]
+
+         Just praise is only a debt, but flattery is a present.
+                                                  --Rambler.
+   [1913 Webster]
+
+         Flattery corrupts both the receiver and the giver.
+                                                  --Burke.
+
+   Syn: Adulation; compliment; obsequiousness. See {Adulation}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flattery</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>flattery
+     n : excessive or insincere praise
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

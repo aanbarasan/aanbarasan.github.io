@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>controls</Word>
+  <Definitions>
+    <Definition>
+      <Word>controls</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>control-S
+     
+        &lt;character&gt; (Or XOFF, DC3, {Device Control} 3) The character
+        with {ASCII} code 19, used in {software handshaking} to
+        temporarily suspend output until a {control-Q} is received.
+     
+        [{Jargon File}]
+     
+        (1996-06-28)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>controls</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>control-S vi. "Stop talking for a second." From the ASCII DC3 or XOFF
+   character (the pronunciation /X-of/ is therefore also used). Control-S
+   differs from {control-O} in that the person is asked to stop talking
+   (perhaps because you are on the phone) but will be allowed to continue
+   when you're ready to listen to him -- as opposed to control-O, which has
+   more of the meaning of "Shut up." Considered silly.
+
+
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

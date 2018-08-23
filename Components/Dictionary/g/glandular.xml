@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>glandular</Word>
+  <Definitions>
+    <Definition>
+      <Word>glandular</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Glandular \Glan"du*lar\, a. [Cf. F. glandulaire. See
+   {Glandule}.]
+   Containing or supporting glands; consisting of glands;
+   pertaining to glands.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>glandular</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>glandular
+     adj : relating to or affecting or functioning as a gland;
+           "glandular malfunctions"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

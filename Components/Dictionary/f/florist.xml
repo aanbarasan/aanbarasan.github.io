@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>florist</Word>
+  <Definitions>
+    <Definition>
+      <Word>florist</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Florist \Flo"rist\ (? or ?; 277), n. [Cf. F. fleuriste,
+   floriste, fr. F. fleur flower. See {Flower}.]
+   1. A cultivator of, or dealer in, flowers.
+      [1913 Webster]
+
+   2. One who writes a flora, or an account of plants.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>florist</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>florist
+     n 1: someone who grows and deals in flowers; "the florist made up
+          an attractive bouquet"
+     2: a shop where flowers and ornamental plants are sold [syn: {florist
+        shop}, {flower store}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

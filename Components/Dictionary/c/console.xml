@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>console</Word>
+  <Definitions>
+    <Definition>
+      <Word>console</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>console
+     
+        1. The operator's station of a {mainframe}.  In times past,
+        this was a privileged location that conveyed godlike powers to
+        anyone with fingers on its keys.  Under {Unix} and other
+        modern {time-sharing} {operating system}s, such privileges are
+        guarded by passwords instead, and the console is just the
+        {tty} the system was booted from.  Some of the mystique
+        remains, however, and it is traditional for {sysadmin}s to
+        post urgent messages to all users from the console (on Unix,
+        /dev/console).
+     
+        2. On {microcomputer} {Unix} boxes, the main screen and
+        keyboard (as opposed to character-only terminals talking to a
+        {serial port}).  Typically only the console can do real
+        graphics or run {X}.  See also {CTY}.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>console</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Console \Con*sole"\, v. t. [imp. &amp; p. p. {Consoled}; p. pr. &amp;
+   vb. n. {Consoling}.] [L. consolari,. p. p. consolatus; con- +
+   solari to console, comfort: cf. F. consoler. See {Solace}.]
+   To cheer in distress or depression; to alleviate the grief
+   and raise the spirits of; to relieve; to comfort; to soothe.
+   [1913 Webster]
+
+         And empty heads console with empty sound. --Pope.
+   [1913 Webster]
+
+         I am much consoled by the reflection that the religion
+         of Christ has been attacked in vain by all the wits and
+         philosophers, and its triumph has been complete. --P.
+                                                  Henry.
+
+   Syn: To comfort; solace; soothe; cheer; sustain; encourage;
+        support. See {Comfort}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>console</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Console \Con"sole\, n. [F.]
+   1. (Arch.)
+      (a) A bracket whose projection is not more than half its
+          height.
+      (b) Any small bracket; also, a console table.
+          [1913 Webster]
+
+   2. (Computers) The keyboard and monitor of a computer
+      considered together.
+      [GG]
+
+   3. (Engineering) The controlling portion of an electrical,
+      electronic, or mechanical device or system, from which the
+      operator may observe the state of the system as indicated
+      by gauges or on some form of {display[n3]}, and may direct
+      or control the action of the system.
+      [GG +PJC]
+
+   4. the desklike controlling unit of an organ containing the
+      keyboard, pedals, stops, etc. by means of which the organ
+      is played.
+      [PJC]
+
+   5. a home entertainment device such as a television, radio,
+      phonograph, CD player, or combination of these, designed
+      as a piece of furniture, to stand on the floor rather than
+      on a table or in a separate cabinet; -- also used
+      attributively in the phrase {console model}.
+      [PJC]
+
+   {Console table}, a table whose top is supported by two or
+      more consoles instead of legs.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>console</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>console n. 1. The operator's station of a {mainframe}. In times past,
+   this was a privileged location that conveyed godlike powers to anyone
+   with fingers on its keys. Under Unix and other modern timesharing OSes,
+   such privileges are guarded by passwords instead, and the console is
+   just the {tty} the system was booted from. Some of the mystique remains,
+   however, and it is traditional for sysadmins to post urgent messages to
+   all users from the console (on Unix, /dev/console). 2. On microcomputer
+   Unix boxes, the main screen and keyboard (as opposed to character-only
+   terminals talking to a serial port). Typically only the console can do
+   real graphics or run {X}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>console</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>console
+     n 1: a small table fixed to a wall or designed to stand against a
+          wall [syn: {console table}]
+     2: a scientific instrument consisting of displays and an input
+        device that an operator can use to monitor and control a
+        system (especially a computer system)
+     3: an ornamental scroll-shaped bracket (especially one used to
+        support a wall fixture); "the bust of Napoleon stood on a
+        console"
+     4: housing for electronic instruments, as radio or television
+        [syn: {cabinet}]
+     v : give moral or emotional strength to [syn: {comfort}, {soothe},
+          {solace}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

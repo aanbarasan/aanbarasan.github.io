@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>incandescent</Word>
+  <Definitions>
+    <Definition>
+      <Word>incandescent</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Incandescent \In`can*des"cent\, a. [L. incandecens, -entis, p.
+   pr. of incandescere to become warm or hot; pref. in- in +
+   candescere to become of a glittering whiteness, to become red
+   hot, incho. fr. candere to be of a glittering whiteness: cf.
+   F. incandescent. See {Candle}.]
+   White, glowing, or luminous, with intense heat; as,
+   incandescent carbon or platinum; hence, clear; shining;
+   brilliant.
+   [1913 Webster]
+
+         Holy Scripture become resplendent; or, as one might
+         say, incandescent throughout.            --I. Taylor.
+   [1913 Webster]
+
+   {Incandescent lamp}, {Incandescent light}, {Incandescent
+   light bulb} (Elec.), a kind of lamp in which the light is
+      produced by a thin filament of conducting material, now
+      usually tungsten, but originally carbon, contained in a
+      vacuum or an atmosphere of inert gas within a glass bulb,
+      and heated to incandescence by an electric current. It was
+      inventerd by Thomas Edison, and was once called the
+      {Edison lamp}; -- called also {incandescence lamp}, and
+      {glowlamp}. This is one of the two most common sources of
+      electric light, the other being the {fluorescent light},
+      {fluorescent lamp} or {fluorescent bulb}.
+      [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>incandescent</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>incandescent
+     adj 1: emitting light as a result of being heated; "an incandescent
+            bulb" [syn: {candent}]
+     2: characterized by ardent emotion or intensity or brilliance;
+        "an incandescent performance"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

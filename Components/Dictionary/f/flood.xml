@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>flood</Word>
+  <Definitions>
+    <Definition>
+      <Word>flood</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Flood
+   an event recorded in Gen. 7 and 8. (See {DELUGE}.) In
+   Josh. 24:2, 3, 14, 15, the word "flood" (R.V., "river") means
+   the river Euphrates. In Ps. 66:6, this word refers to the river
+   Jordan.
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flood</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>flood
+     
+        &lt;chat&gt; On a real-time network (whether at the level of
+        {TCP/IP}, or at the level of, say, {IRC}), to send a huge
+        amount of data to another user (or a group of users, in a
+        channel) in an attempt to annoy him, lock his terminal, or to
+        overflow his network buffer and thus lose his network
+        connection.
+     
+        The basic principles of flooding are that you should have
+        better network {bandwidth} than the person you're trying to
+        flood, and that what you do to flood them (e.g., generate ping
+        requests) should be *less* resource-expensive for your machine
+        to produce than for the victim's machine to deal with.  There
+        is also the corrolary that you should avoid being caught.
+     
+        Failure to follow these principles regularly produces
+        hilarious results, e.g., an IRC user flooding himself off the
+        network while his intended victim is unharmed, the attacker's
+        flood attempt being detected, and him being banned from the
+        network in semi-perpetuity.
+     
+        See also {pingflood}, {clonebot} and {botwar}.
+     
+        [{Jargon File}]
+     
+        (1997-04-07)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flood</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Flood \Flood\, v. t. [imp. &amp; p. p. {Flooded}; p. pr. &amp; vb. n.
+   {Flooding}.]
+   1. To overflow; to inundate; to deluge; as, the swollen river
+      flooded the valley.
+      [1913 Webster]
+
+   2. To cause or permit to be inundated; to fill or cover with
+      water or other fluid; as, to flood arable land for
+      irrigation; to fill to excess or to its full capacity; as,
+      to flood a country with a depreciated currency.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flood</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Flood \Flood\ (fl[u^]d), n. [OE. flod a flowing, stream, flood,
+   AS. fl[=o]d; akin to D. vloed, OS. fl[=o]d, OHG. fluot, G.
+   flut, Icel. fl[=o][eth], Sw. &amp; Dan. flod, Goth. fl[=o]dus;
+   from the root of E. flow. [root]80. See {Flow}, v. i.]
+   1. A great flow of water; a body of moving water; the flowing
+      stream, as of a river; especially, a body of water,
+      rising, swelling, and overflowing land not usually thus
+      covered; a deluge; a freshet; an inundation.
+      [1913 Webster]
+
+            A covenant never to destroy
+            The earth again by flood.             --Milton.
+      [1913 Webster]
+
+   2. The flowing in of the tide; the semidiurnal swell or rise
+      of water in the ocean; -- opposed to {ebb}; as, young
+      flood; high flood.
+      [1913 Webster]
+
+            There is a tide in the affairs of men,
+            Which, taken at the flood, leads on to fortune.
+                                                  --Shak.
+      [1913 Webster]
+
+   3. A great flow or stream of any fluid substance; as, a flood
+      of light; a flood of lava; hence, a great quantity widely
+      diffused; an overflowing; a superabundance; as, a flood of
+      bank notes; a flood of paper currency.
+      [1913 Webster]
+
+   4. Menstrual disharge; menses. --Harvey.
+      [1913 Webster]
+
+   {Flood anchor} (Naut.), the anchor by which a ship is held
+      while the tide is rising.
+
+   {Flood fence}, a fence so secured that it will not be swept
+      away by a flood.
+
+   {Flood gate}, a gate for shutting out, admitting, or
+      releasing, a body of water; a tide gate.
+
+   {Flood mark}, the mark or line to which the tide, or a flood,
+      rises; high-water mark.
+
+   {Flood tide}, the rising tide; -- opposed to {ebb tide}.
+
+   {The Flood}, the deluge in the days of Noah.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flood</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>flood v. [common] 1. To overwhelm a network channel with
+   mechanically-generated traffic; especially used of IP, TCP/IP, UDP, or
+   ICMP denial-of-service attacks. 2. To dump large amounts of text onto an
+   {IRC} channel. This is especially rude when the text is uninteresting
+   and the other users are trying to carry on a serious conversation. Also
+   used in a similar sense on Usenet. 3. [Usenet] To post an unusually
+   large number or volume of files on a related topic.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flood</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>flood
+     n 1: the rising of a body of water and its overflowing onto
+          normally dry land; "plains fertilized by annual
+          inundations" [syn: {inundation}, {deluge}, {alluvion}]
+     2: an overwhelming number or amount; "a flood of requests"; "a
+        torrent of abuse" [syn: {inundation}, {deluge}, {torrent}]
+     3: light that is a source of artificial illumination having a
+        broad beam; used in photography [syn: {floodlight}, {flood
+        lamp}, {photoflood}]
+     4: a large flow [syn: {overflow}, {outpouring}]
+     5: the act of flooding; filling to overflowing [syn: {flowage}]
+     6: the inward flow of the tide; "a tide in the affairs of men
+        which, taken at the flood, leads on to fortune"
+        -Shakespeare
+     v 1: fill quickly beyond capacity; as with a liquid; "the
+          basement was inundated after the storm"; "The images
+          flooded his mind" [syn: {deluge}, {inundate}, {swamp}]
+     2: cover with liquid, usually water; "The swollen river flooded
+        the village"; "The broken vein had flooded blood in her
+        eyes"
+     3: supply with an excess of; "flood the market with tennis
+        shoes"; "Glut the country with cheap imports from the
+        Orient" [syn: {oversupply}, {glut}]
+     4: become filled to overflowing; "Our basement flooded during
+        the heavy rains"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

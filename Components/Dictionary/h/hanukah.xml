@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hanukah</Word>
+  <Definitions>
+    <Definition>
+      <Word>hanukah</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Hanukah
+     n : (Judaism) an eight-day Jewish holiday commemorating the
+         rededication of the Temple of Jerusalem in 165 BC [syn: {Hanukkah},
+          {Hannukah}, {Chanukah}, {Chanukkah}, {Channukah}, {Channukkah},
+          {Festival of Lights}, {Feast of Lights}, {Feast of
+         Dedication}, {Feast of the Dedication}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

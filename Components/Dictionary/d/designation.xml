@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>designation</Word>
+  <Definitions>
+    <Definition>
+      <Word>designation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Designation \Des`ig*na"tion\, n. [L. designatio: cf. F.
+   d['e]signation.]
+   1. The act of designating; a pointing out or showing;
+      indication.
+      [1913 Webster]
+
+   2. Selection and appointment for a purpose; allotment;
+      direction.
+      [1913 Webster]
+
+   3. That which designates; a distinguishing mark or name;
+      distinctive title; appellation.
+      [1913 Webster]
+
+            The usual designation of the days of the week.
+                                                  --Whewell.
+      [1913 Webster]
+
+   4. Use or application; import; intention; signification, as
+      of a word or phrase.
+      [1913 Webster]
+
+            Finite and infinite seem . . . to be attributed
+            primarily, in their first designation, only to those
+            things which have parts.              --Locke.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>designation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>designation
+     n 1: identifying word or words by which someone or something is
+          called and classified or distinguished from others [syn:
+           {appellation}, {denomination}, {appellative}]
+     2: the act of putting a person into a non-elective position;
+        "the appointment had to be approved by the whole
+        committee" [syn: {appointment}, {assignment}, {naming}]
+     3: the act of designating or identifying something [syn: {identification}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

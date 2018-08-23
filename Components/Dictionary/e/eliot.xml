@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>eliot</Word>
+  <Definitions>
+    <Definition>
+      <Word>eliot</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Eliot, ME
+  Zip code(s): 03903
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>eliot</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Eliot
+     n 1: British poet (born in the United States) who won the Nobel
+          prize for literature; his plays are outstanding examples
+          of modern verse drama (1888-1965) [syn: {T. S. Eliot}, {Thomas
+          Stearns Eliot}]
+     2: British writer of novels characterized by realistic analysis
+        of provincial Victorian society (1819-1880) [syn: {George
+        Eliot}, {Mary Ann Evans}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

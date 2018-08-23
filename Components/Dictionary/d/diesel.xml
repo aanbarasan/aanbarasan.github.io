@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>diesel</Word>
+  <Definitions>
+    <Definition>
+      <Word>diesel</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Diesel \Diesel\, Diesel engine \Die"sel en`gine\ or Diesel motor
+\Die"sel mo`tor\ (d[=e]"zel). [After Dr. Rudolf Diesel, of
+   Munich, the inventor.]
+   A type of internal-combustion engine in which the air drawn
+   in by the suction stroke is so highly compressed that the
+   heat generated ignites the fuel (usually a heavy oil), the
+   fuel being automatically sprayed into the cylinder under
+   pressure. The Diesel engine has a very high thermal
+   efficiency.
+   [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>diesel</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>DIESEL
+     Dumb Interpretatively Evaluated String Expression Language (AutoCAD)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>diesel</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Diesel
+     n 1: German engineer (born in France) who invented the diesel
+          engine (1858-1913) [syn: {Rudolf Diesel}, {Rudolf
+          Christian Karl Diesel}]
+     2: an internal-combustion engine that burns heavy oil [syn: {diesel
+        engine}, {diesel motor}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

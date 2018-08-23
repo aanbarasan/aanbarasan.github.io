@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dolphin</Word>
+  <Definitions>
+    <Definition>
+      <Word>dolphin</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Dolphin, VA
+  Zip code(s): 23843
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dolphin</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>dolphin \dol"phin\ (d[o^]l"f[i^]n), n. [F. dauphin dolphin,
+   dauphin, earlier spelt also doffin; cf. OF. dalphinal of the
+   dauphin; fr. L. delphinus, Gr. delfi`s a dolphin (in senses
+   1, 2, 3, &amp; 6), perh. properly, belly fish; cf. delfy`s womb,
+   Skr. garbha; perh. akin to E. calf. Cf. {Dauphin},
+   {Delphine}.]
+   1. (Zool.) A cetacean of the genus {Delphinus} and allied
+      genera (esp. {Delphinus delphis}); the true dolphin.
+      [1913 Webster]
+
+   Note: The dolphin of the ancients ({Delphinus delphis}) is
+         common in the Mediterranean and Atlantic, and attains a
+         length of from six to eight feet.
+         [1913 Webster]
+
+   2. (Zool.) The {Coryph[ae]na hippuris}, a fish of about five
+      feet in length, celebrated for its surprising changes of
+      color when dying. It is the fish commonly known as the
+      dolphin. The term is also applied to the related
+      {Coryphaena equisetis}. Called also {dolphinfish} and
+      (especially in Hawaii) {mahimahi}. See also {dolphinfish}
+      and {Coryph[ae]noid}.
+
+   Syn: dolphinfish, mahimahi.
+        [1913 Webster +PJC]
+
+   3. [Gr. delfi`s] (Gr. Antiq.) A mass of iron or lead hung
+      from the yardarm, in readiness to be dropped on the deck
+      of an enemy's vessel.
+      [1913 Webster]
+
+   4. (Naut.)
+      (a) A kind of wreath or strap of plaited cordage.
+      (b) A spar or buoy held by an anchor and furnished with a
+          ring to which ships may fasten their cables. --R. H.
+          Dana.
+      (c) A mooring post on a wharf or beach.
+      (d) A permanent fender around a heavy boat just below the
+          gunwale. --Ham. Nav. Encyc.
+          [1913 Webster]
+
+   5. (Gun.) In old ordnance, one of the handles above the
+      trunnions by which a cannon was lifted.
+      [1913 Webster]
+
+   6. (Astron.) A small constellation between Aquila and
+      Pegasus. See {Delphinus}, n., 2.
+      [1913 Webster]
+
+   {Dolphin fly} (Zo["o]l.), the black, bean, or collier, Aphis
+      ({Aphis fable}), destructive to beans.
+
+   {Dolphin striker} (Naut.), a short vertical spar under the
+      bowsprit.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dolphin</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dolphin
+     n 1: large slender food and game fish widely distributed in warm
+          seas (especially around Hawaii) [syn: {dolphinfish}, {mahimahi}]
+     2: any of various small toothed whales with a beaklike snout;
+        larger than porpoises
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

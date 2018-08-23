@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cutup</Word>
+  <Definitions>
+    <Definition>
+      <Word>cutup</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cut up
+     adj : cut into pieces
+     v 1: cut to pieces; "Father carved the ham" [syn: {carve}]
+     2: destroy or injure severely; "The madman mutilates art work"
+        [syn: {mutilate}, {mangle}]
+     3: separate into isolated compartments or categories; "You
+        cannot compartmentalize your life like this!" [syn: {compartmentalize},
+         {compartmentalise}]
+     4: significantly cut up a manuscript [syn: {hack}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cutup</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cut-up
+     n : someone who plays practical jokes on others [syn: {prankster},
+          {trickster}, {tricker}, {hoaxer}, {practical joker}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

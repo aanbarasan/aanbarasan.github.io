@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>distortion</Word>
+  <Definitions>
+    <Definition>
+      <Word>distortion</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Distortion \Dis*tor"tion\, n. [L. distortio: cf. F. distortion.]
+   1. The act of distorting, or twisting out of natural or
+      regular shape; a twisting or writhing motion; as, the
+      distortions of the face or body.
+      [1913 Webster]
+
+   2. A wresting from the true meaning. --Bp. Wren.
+      [1913 Webster]
+
+   3. The state of being distorted, or twisted out of shape or
+      out of true position; crookedness; perversion.
+      [1913 Webster]
+
+   4. (Med.) An unnatural deviation of shape or position of any
+      part of the body producing visible deformity.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>distortion</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>distortion
+     n 1: a change for the worse [syn: {deformation}]
+     2: a shape resulting from distortion [syn: {distorted shape}]
+     3: an optical phenomenon resulting from the failure of a lens
+        or mirror to produce a good image [syn: {aberration}, {optical
+        aberration}]
+     4: a change (usually undesired) in the waveform of an acoustic
+        or analog electrical signal; the difference between two
+        measurements of a signal (as between the input and output
+        signal); "heavy metal guitar players use vacuum tube
+        amplifiers to produce extreme distortion"
+     5: the act of distorting something so it seems to mean
+        something it was not intended to mean [syn: {overrefinement},
+         {straining}, {torture}, {twisting}]
+     6: the mistake of misrepresenting the facts
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

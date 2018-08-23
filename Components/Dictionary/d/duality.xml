@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>duality</Word>
+  <Definitions>
+    <Definition>
+      <Word>duality</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Duality \Du"al"i*ty\, n. [L. dualitas: cf. F. dualit['e].]
+   The quality or condition of being two or twofold; dual
+   character or usage.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>duality</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>duality
+     n 1: being twofold; a classification into two opposed parts or
+          subclasses; "the dichotomy between eastern and western
+          culture" [syn: {dichotomy}]
+     2: (physics) the property of matter and electromagnetic
+        radiation that is characterized by the fact that some
+        properties can be explained best by wave theory and others
+        by particle theory [syn: {wave-particle duality}]
+     3: (geometry) the interchangeability of the roles of points and
+        planes in the theorems of projective geometry
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

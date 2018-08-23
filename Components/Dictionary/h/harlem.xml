@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>harlem</Word>
+  <Definitions>
+    <Definition>
+      <Word>harlem</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Harlem, FL (CDP, FIPS 28925)
+  Location: 26.73511 N, 80.95168 W
+  Population (1990): 2826 (904 housing units)
+  Area: 1.2 sq km (land), 0.0 sq km (water)
+Harlem, GA (city, FIPS 36696)
+  Location: 33.41404 N, 82.31698 W
+  Population (1990): 2199 (658 housing units)
+  Area: 6.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 30814
+Harlem, MT (city, FIPS 34375)
+  Location: 48.53175 N, 108.78369 W
+  Population (1990): 882 (391 housing units)
+  Area: 1.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 59526
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>harlem</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Harlem
+     n : a district of Manhattan; now largely a Black ghetto
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

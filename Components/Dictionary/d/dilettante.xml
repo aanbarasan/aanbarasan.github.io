@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dilettante</Word>
+  <Definitions>
+    <Definition>
+      <Word>dilettante</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dilettante \Dil`et*tan"te\, n.; pl. {Dilettanti}. [It., prop. p.
+   pr. of dillettare to take delight in, fr. L. delectare to
+   delight. See {Delight}, v. t.]
+   An admirer or lover of the fine arts; popularly, an amateur;
+   especially, one who follows an art or a branch of knowledge,
+   desultorily, or for amusement only.
+   [1913 Webster]
+
+         The true poet is not an eccentric creature, not a mere
+         artist living only for art, not a dreamer or a
+         dilettante, sipping the nectar of existence, while he
+         keeps aloof from its deeper interests.   --J. C.
+                                                  Shairp.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dilettante</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dilettante
+     adj : showing frivolous or superficial interest; amateurish; "his
+           dilettantish efforts at painting" [syn: {dilettantish},
+            {dilettanteish}, {sciolistic}]
+     n : an amateur who engages in an activity without serious
+         intentions and who pretends to have knowledge [syn: {dabbler},
+          {sciolist}]
+     [also: {dilettanti} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

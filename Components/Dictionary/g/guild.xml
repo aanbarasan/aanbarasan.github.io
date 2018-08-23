@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>guild</Word>
+  <Definitions>
+    <Definition>
+      <Word>guild</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Guild, TN
+  Zip code(s): 37340
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>guild</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Guild \Guild\, n. [OE. gilds, AS. gild, gield, geld, tribute, a
+   society or company where payment was made for its charge and
+   support, fr. AS. gildan, gieldan, to pay. See {Yield}, v. t.]
+   1. An association of men belonging to the same class, or
+      engaged in kindred pursuits, formed for mutual aid and
+      protection; a business fraternity or corporation; as, the
+      Stationers' Guild; the Ironmongers' Guild. They were
+      originally licensed by the government, and endowed with
+      special privileges and authority.
+      [1913 Webster]
+
+   2. A guildhall. [Obs.] --Spenser.
+      [1913 Webster]
+
+   3. A religious association or society, organized for
+      charitable purposes or for assistance in parish work.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>guild</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>guild
+     n : a formal association of people with similar interests; "he
+         joined a golf club"; "they formed a small lunch society";
+         "men from the fraternal order will staff the soup kitchen
+         today" [syn: {club}, {society}, {gild}, {lodge}, {order}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

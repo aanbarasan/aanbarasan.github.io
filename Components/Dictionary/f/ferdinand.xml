@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ferdinand</Word>
+  <Definitions>
+    <Definition>
+      <Word>ferdinand</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Ferdinand, ID (city, FIPS 27460)
+  Location: 46.15282 N, 116.38946 W
+  Population (1990): 135 (59 housing units)
+  Area: 0.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 83526
+Ferdinand, IN (town, FIPS 22990)
+  Location: 38.22825 N, 86.86212 W
+  Population (1990): 2318 (774 housing units)
+  Area: 4.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 47532
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

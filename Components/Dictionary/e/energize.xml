@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>energize</Word>
+  <Definitions>
+    <Definition>
+      <Word>energize</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Energize \En"er*gize\, v. i. [imp. &amp; p. p. {Energized}; p. pr. &amp;
+   vb. n. {Energizing}.] [From {Energy}.]
+   To use strength in action; to act or operate with force or
+   vigor; to act in producing an effect.
+   [1913 Webster]
+
+         Of all men it is true that they feel and energize
+         first, they reflect and judge afterwards. --J. C.
+                                                  Shairp.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>energize</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Energize \En"er*gize\, v. t.
+   To give strength or force to; to make active; to alacrify;
+   as, to energize the will.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>energize</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>energize
+     v 1: cause to be alert and energetic; "Coffee and tea stimulate
+          me"; "This herbal infusion doesn't stimulate" [syn: {stimulate},
+           {arouse}, {brace}, {energise}, {perk up}] [ant: {de-energize},
+           {de-energize}, {sedate}]
+     2: raise to a higher energy level; "excite the atoms" [syn: {excite},
+         {energise}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

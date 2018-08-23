@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>inaugural</Word>
+  <Definitions>
+    <Definition>
+      <Word>inaugural</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Inaugural \In*au"gu*ral\, a. [Cf. F. inaugural.]
+   Pertaining to, or performed or pronounced at, an
+   inauguration; as, an inaugural address; the inaugural
+   exercises.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>inaugural</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Inaugural \In*au"gu*ral\, n.
+   An inaugural address. [U.S.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>inaugural</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>inaugural
+     adj 1: occurring at or characteristic of a formal investiture or
+            induction; "the President's inaugural address"; "an
+            inaugural ball" [ant: {exaugural}]
+     2: serving to set in motion; "the magazine's inaugural issue";
+        "the initiative phase in the negotiations"; "an initiatory
+        step toward a treaty"; "his first (or maiden) speech in
+        Congress"; "the liner's maiden voyage" [syn: {initiative},
+         {initiatory}, {first}, {maiden}]
+     n 1: an address delivered at an inaugural ceremony (especially by
+          a United States president) [syn: {inaugural address}]
+     2: the ceremonial induction into a position; "the new president
+        obviously enjoyed his inauguration" [syn: {inauguration}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

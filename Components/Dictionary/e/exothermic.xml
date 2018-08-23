@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>exothermic</Word>
+  <Definitions>
+    <Definition>
+      <Word>exothermic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Exothermic \Ex`o*ther"mic\, a. [Pref. exo- + thermic.] (Chem.)
+   Characterized by, or formed with, evolution of heat; as, an
+   exothermic reaction; -- opposed to {endothermic}.
+   [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>exothermic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>exothermic
+     adj : (of a chemical reaction or compound) occurring or formed
+           with evolution of heat [syn: {exothermal}, {heat-releasing}]
+           [ant: {endothermic}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

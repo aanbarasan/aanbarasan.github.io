@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>firing</Word>
+  <Definitions>
+    <Definition>
+      <Word>firing</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Firing \Fir"ing\, n.
+   1. The act of discharging firearms.
+      [1913 Webster]
+
+   2. The mode of introducing fuel into the furnace and working
+      it. --Knight.
+      [1913 Webster]
+
+   3. The application of fire, or of a cautery. --Dunglison.
+      [1913 Webster]
+
+   4. The process of partly vitrifying pottery by exposing it to
+      intense heat in a kiln.
+      [1913 Webster]
+
+   5. Fuel; firewood or coal. [Obs.] --Mortimer.
+      [1913 Webster]
+
+   {Firing iron}, an instrument used in cauterizing.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>firing</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>firing
+     n 1: the act of firing weapons or artillery at an enemy; "hold
+          your fire until you can see the whites of their eyes";
+          "they retreated in the face of withering enemy fire"
+          [syn: {fire}]
+     2: the act of discharging a gun [syn: {discharge}, {firing off}]
+     3: the act of setting on fire or catching fire [syn: {ignition},
+         {lighting}, {kindling}, {inflammation}]
+     4: the termination of someone's employment (leaving them free
+        to depart) [syn: {dismissal}, {dismission}, {discharge}, {liberation},
+         {release}, {sack}, {sacking}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

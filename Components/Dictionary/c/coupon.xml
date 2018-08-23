@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>coupon</Word>
+  <Definitions>
+    <Definition>
+      <Word>coupon</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Coupon \Cou"pon\ (k??"p?n; F. k??`p?n"), n. [F., fr. couper to
+   cut, cut off. See {Coppice}.]
+   1. (Com.) A certificate of interest due, printed at the
+      bottom of transferable bonds (state, railroad, etc.),
+      given for a term of years, designed to be cut off and
+      presented for payment when the interest is due; an
+      interest warrant.
+      [1913 Webster]
+
+   2. A section of a ticket, showing the holder to be entitled
+      to some specified accomodation or service, as to a passage
+      over a designated line of travel, a particular seat in a
+      theater, or the like.
+      [1913 Webster]
+
+   3. a ticket or form allowing the bearer to purchase a
+      specific quantity of rationed goods; -- such coupons are
+      typically issued by a governmental agency.
+      [PJC]
+
+   4. a printed form, often distributed as part of an
+      advertisement, entitling the bearer to purchase a specific
+      item of merchandise at a discount; or, a similar form
+      which may be submitted to the issuer to obtain goods or
+      information. Such coupons may be issued by the
+      manufacturer ({manufacturer's coupon}) or by a retail
+      establishment; in the latter case they may then be
+      redeemed only at that particular retail store.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>coupon</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>coupon
+     n 1: a negotiable certificate that can be detached and redeemed
+          as needed [syn: {voucher}]
+     2: a test sample of some substance
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

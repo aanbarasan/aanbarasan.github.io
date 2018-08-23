@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>elvish</Word>
+  <Definitions>
+    <Definition>
+      <Word>elvish</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>elvish
+     
+        &lt;character&gt; 1. The Tengwar of Feanor, a table of letterforms
+        resembling the beautiful Celtic half-uncial hand of the "Book
+        of Kells".  Invented and described by J.R.R. Tolkien in "The
+        Lord of The Rings" as an orthography for his fictional
+        "elvish" languages, this system (which is both visually and
+        phonetically {elegant}) has long fascinated hackers (who tend
+        to be intrigued by artificial languages in general).  It is
+        traditional for graphics printers, plotters, window systems,
+        and the like to support a Feanorian typeface as one of their
+        demo items.  By extension, the term might be used for any odd
+        or unreadable typeface produced by a graphics device.
+     
+        2. The typeface mundanely called "B"ocklin", an art-decoish
+        {display font}.  [Why?]
+     
+        [{Jargon File}]
+     
+        (1998-04-28)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>elvish</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Elves \Elves\, n.; pl. of {Elf}.
+   [1913 Webster] Elvish \Elv"ish\, a.
+   1. Pertaining to elves; implike; mischievous; weird; also,
+      vacant; absent in demeanor. See {Elfish}.
+      [1913 Webster]
+
+            He seemeth elvish by his countenance. --Chaucer.
+      [1913 Webster]
+
+   2. Mysterious; also, foolish. [Obs.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>elvish</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>elvish n. 1. The Tengwar of Feanor, a table of letterforms resembling
+   the beautiful Celtic half-uncial hand of the "Book of Kells". Invented
+   and described by J. R. R. Tolkien in "The Lord of The Rings" as an
+   orthography for his fictional `elvish' languages, this system (which is
+   both visually and phonetically {elegant}) has long fascinated hackers
+   (who tend to be intrigued by artificial languages in general). It is
+   traditional for graphics printers, plotters, window systems, and the
+   like to support a Feanorian typeface as one of their demo items. See
+   also {elder days}. 2. By extension, any odd or unreadable typeface
+   produced by a graphics device. 3. The typeface mundanely called
+   `Bo"cklin', an art-Noveau display font.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>elvish</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>elvish
+     adj : usually good-naturedly mischievous; "perpetrated a practical
+           joke with elfin delight"; "elvish tricks" [syn: {elfin},
+            {elfish}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

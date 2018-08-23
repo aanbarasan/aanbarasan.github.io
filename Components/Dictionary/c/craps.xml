@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>craps</Word>
+  <Definitions>
+    <Definition>
+      <Word>craps</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Crap \Crap\ (kr[a^]p), n.
+   1. In the game of craps, a first throw of the dice in which
+      the total is two, three, or twelve, in which case the
+      caster loses. Also called {craps}.
+      [Webster 1913 Suppl. +PJC]
+
+   2. same as {excrement} and {feces}. [vulgar]
+
+   Syn: shit. [PJC]
+
+   3. nonsense; balderdash; bullshit; -- also used as an
+      expletive. [vulgar]
+
+   Syn: bullshit. [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>craps</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Craps \Craps\ (kr[a^]ps), n.
+   A gambling game with dice. It is one of the more popular
+   games in casinos. [Local, U.S.]
+   [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>craps</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>craps
+     n 1: when two dice are thrown and both come up showing one spot
+          the results is called `craps' or `snake eyes' [syn: {snake
+          eyes}]
+     2: a gambling game using two dice [syn: {crap shooting}, {crapshoot},
+         {crap game}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

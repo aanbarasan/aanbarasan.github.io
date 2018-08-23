@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>iguana</Word>
+  <Definitions>
+    <Definition>
+      <Word>iguana</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Iguana \I*gua"na\, n. [Sp. iguana, from the native name in
+   Haiti. Cf. {Guana}.] (Zo["o]l.)
+   Any species of the genus {Iguana}, a genus of large American
+   lizards of the family {Iguanid[ae]}. They are arboreal in
+   their habits, usually green in color, and feed chiefly upon
+   fruits.
+   [1913 Webster]
+
+   Note: The common iguana ({Iguana tuberculata}) of the West
+         Indies and South America is sometimes five feet long.
+         Its flesh is highly prized as food. The horned iguana
+         ({Iguana cornuta}) has a conical horn between the eyes.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>iguana</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>iguana
+     n : large herbivorous tropical American arboreal lizards with a
+         spiny crest along the back; used as human food in Central
+         America and South America [syn: {common iguana}, {Iguana
+         iguana}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

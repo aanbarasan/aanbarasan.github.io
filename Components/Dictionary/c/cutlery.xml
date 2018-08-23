@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cutlery</Word>
+  <Definitions>
+    <Definition>
+      <Word>cutlery</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cutlery \Cut"ler*y\ (k[u^]t"l[~e]r*[y^]), n.
+   1. The business of a cutler.
+      [1913 Webster]
+
+   2. Edged or cutting instruments, collectively, especially
+      knives for cutting food.
+      [1913 Webster]
+
+   3. eating utensils such as knives, forks, and spoons.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cutlery</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cutlery
+     n 1: a cutting implement; a tool for cutting [syn: {cutter}, {cutting
+          tool}]
+     2: tableware implements for cutting and eating food [syn: {eating
+        utensil}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

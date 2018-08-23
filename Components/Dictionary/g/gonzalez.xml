@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>gonzalez</Word>
+  <Definitions>
+    <Definition>
+      <Word>gonzalez</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Gonzalez, FL (CDP, FIPS 26700)
+  Location: 30.57315 N, 87.29043 W
+  Population (1990): 7669 (2873 housing units)
+  Area: 29.2 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

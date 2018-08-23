@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dipper</Word>
+  <Definitions>
+    <Definition>
+      <Word>dipper</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dipper \Dip"per\, n.
+   1. One who, or that which, dips; especially, a vessel used to
+      dip water or other liquid; a ladle.
+      [1913 Webster]
+
+   2. (Zo["o]l.)
+      (a) A small grebe; the dabchick.
+      (b) The buffel duck.
+      (c) The water ouzel ({Cinolus aquaticus}) of Europe.
+      (d) The American dipper or ouzel ({Cinclus Mexicanus}).
+          [1913 Webster]
+
+   {The Dipper} (Astron.), the seven principal stars in the
+      constellation of the Great Bear; popularly so called from
+      their arrangement in the form of a dipper; -- called also
+      {Charles's Wain}. See {Ursa Major}, under {Ursa}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dipper</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dipper
+     n 1: a ladle that has a cup with a long handle
+     2: a cluster of seven stars in Ursa Minor; at the end of the
+        dipper's handle is Polaris [syn: {Little Dipper}]
+     3: a group of seven bright stars in the constellation Ursa
+        Major [syn: {Big Dipper}, {Plough}, {Charles's Wain}, {Wain},
+         {Wagon}]
+     4: small North American diving duck; males have bushy head
+        plumage [syn: {bufflehead}, {butterball}, {Bucephela
+        albeola}]
+     5: small stocky diving bird without webbed feet; frequents
+        fast-flowing streams and feeds along the bottom [syn: {water
+        ouzel}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

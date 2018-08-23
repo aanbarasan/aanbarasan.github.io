@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cray</Word>
+  <Definitions>
+    <Definition>
+      <Word>cray</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cray \Cray\ (kr[=a]), Crayer \Cray"er\ (-[~e]r), n.
+   See {Crare}. [Obs.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cray</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Crare \Crare\ (kr?r), n. [OF. craier, creer, croyer, ship of
+   war, LL. craiera, creyera, perh. from G. krieger warrior, or
+   D. krijger.]
+   A slow unwieldy trading vessel. [Obs.] [Written also
+   {crayer}, {cray}, and {craie}.] --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cray</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>cray /kray/ n. 1. (properly, capitalized) One of the line of
+   supercomputers designed by Cray Research. 2. Any supercomputer at all.
+   3. The {canonical} {number-crunching} machine.
+
+   The term is actually the lowercased last name of Seymour Cray, a noted
+   computer architect and co-founder of the company. Numerous vivid legends
+   surround him, some true and some admittedly invented by Cray Research
+   brass to shape their corporate culture and image.
+
+
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

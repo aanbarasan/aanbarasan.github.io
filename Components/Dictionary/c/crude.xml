@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>crude</Word>
+  <Definitions>
+    <Definition>
+      <Word>crude</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Crude \Crude\ (kr[udd]d), a. [Compar. {Cruder} (-[~e]r); superl.
+   {Crudest}.] [L. crudus raw; akin to cruor blood (which flows
+   from a wound). See {Raw}, and cf. {Cruel}.]
+   1. In its natural state; not cooked or prepared by fire or
+      heat; undressed; not altered, refined, or prepared for use
+      by any artificial process; raw; as, crude flesh. ``Common
+      crude salt.'' --Boyle.
+      [1913 Webster]
+
+            Molding to its will each successive deposit of the
+            crude materials.                      --I. Taylor.
+      [1913 Webster]
+
+   2. Unripe; not mature or perfect; immature.
+      [1913 Webster]
+
+            I come to pluck your berries harsh and crude.
+                                                  --Milton.
+      [1913 Webster]
+
+   3. Not reduced to order or form; unfinished; not arranged or
+      prepared; ill-considered; immature. ``Crude projects.''
+      --Macaulay.
+      [1913 Webster]
+
+            Crude, undigested masses of suggestion, furnishing
+            rather raw materials for composition. --De Quincey.
+      [1913 Webster]
+
+            The originals of Nature in their crude
+            Conception.                           --Milton.
+      [1913 Webster]
+
+   4. Undigested; unconcocted; not brought into a form to give
+      nourishment. ``Crude and inconcoct.'' --Bacon.
+      [1913 Webster]
+
+   5. Having, or displaying, superficial and undigested
+      knowledge; without culture or profundity; as, a crude
+      reasoner.
+      [1913 Webster]
+
+   6. (Paint.) Harsh and offensive, as a color; tawdry or in bad
+      taste, as a combination of colors, or any design or work
+      of art.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>crude</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>crude
+     adj 1: not carefully or expertly made; "managed to make a crude
+            splint"; "a crude cabin of logs with bark still on
+            them"; "rough carpentry" [syn: {rough}]
+     2: conspicuously and tastelessly indecent; "coarse language";
+        "a crude joke"; "crude behavior"; "an earthy sense of
+        humor"; "a revoltingly gross expletive"; "a vulgar
+        gesture"; "full of language so vulgar it should have been
+        edited" [syn: {coarse}, {earthy}, {gross}, {vulgar}]
+     3: not refined or processed; "unrefined ore"; "crude oil" [syn:
+         {unrefined}, {unprocessed}] [ant: {refined}]
+     4: belonging to an early stage of technical development;
+        characterized by simplicity and (often) crudeness; "the
+        crude weapons and rude agricultural implements of early
+        man"; "primitive movies of the 1890s"; "primitive living
+        conditions in the Appalachian mountains" [syn: {primitive},
+         {rude}]
+     5: devoid of any qualifications or disguise or adornment; "the
+        blunt truth"; "the crude facts"; "facing the stark reality
+        of the deadline" [syn: {blunt}, {crude(a)}, {stark(a)}]
+     6: not processed or subjected to analysis; "raw data"; "the raw
+        cost of production"; "only the crude vital statistics"
+        [syn: {raw}]
+     n : a dark oil consisting mainly of hydrocarbons [syn: {petroleum},
+          {crude oil}, {rock oil}, {fossil oil}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

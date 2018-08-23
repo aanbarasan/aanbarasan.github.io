@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>everyday</Word>
+  <Definitions>
+    <Definition>
+      <Word>everyday</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Everyday \Ev"er*y*day`\, a.
+   Used or fit for every day; common; usual; as, an everyday
+   suit of clothes.
+   [1913 Webster]
+
+         The mechanical drudgery of his everyday employment.
+                                                  --Sir. J.
+                                                  Herchel.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>everyday</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>every day
+     adj : occurring or done each day; "a daily record"; "day-by-day
+           labors of thousands of men and women"- H.S.Truman; "her
+           day-after-day behavior"; "an every day occurrence"
+           [syn: {daily}, {day-to-day}, {day-after-day}]
+     adv : without missing a day; "he stops by daily" [syn: {daily}, {each
+           day}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>everyday</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>everyday
+     adj 1: found in the ordinary course of events; "a placid everyday
+            scene"; "it was a routine day"; "there's nothing quite
+            like a real...train conductor to add color to a
+            quotidian commute"- Anita Diamant [syn: {mundane}, {quotidian},
+             {routine}, {unremarkable}, {workaday}]
+     2: suited for everyday use; "casual clothes"; "everyday
+        clothes" [syn: {casual}]
+     3: commonplace and ordinary; "the familiar everyday world"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

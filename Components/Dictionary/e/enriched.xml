@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>enriched</Word>
+  <Definitions>
+    <Definition>
+      <Word>enriched</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Enrich \En*rich"\, v. t. [imp. &amp; p. p. {Enriched}; p. pr. &amp; vb.
+   n. {Enriching}.] [F. enrichir; pref. en- (L. in) + riche
+   rich. See {Rich}.]
+   1. To make rich with any kind of wealth; to render opulent;
+      to increase the possessions of; as, to enrich the
+      understanding with knowledge.
+      [1913 Webster]
+
+            Seeing, Lord, your great mercy
+            Us hath enriched so openly.           --Chaucer's
+                                                  Dream.
+      [1913 Webster]
+
+   2. To supply with ornament; to adorn; as, to enrich a ceiling
+      by frescoes.
+      [1913 Webster]
+
+   3. To make rich with manure; to fertilize; -- said of the
+      soil; as, to enrich land by irrigation.
+      [1913 Webster]
+
+   4. To supply with knowledge; to instruct; to store; -- said
+      of the mind. --Sir W. Raleigh.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

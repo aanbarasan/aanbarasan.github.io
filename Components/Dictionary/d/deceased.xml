@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>deceased</Word>
+  <Definitions>
+    <Definition>
+      <Word>deceased</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Decease \De*cease"\, v. i. [imp. &amp; p. p. {Deceased}; p. pr. &amp;
+   vb. n. {Deceasing}.]
+   To depart from this life; to die; to pass away.
+   [1913 Webster]
+
+         She's dead, deceased, she's dead.        --Shak.
+   [1913 Webster]
+
+         When our summers have deceased.          --Tennyson.
+   [1913 Webster]
+
+         Inasmuch as he carries the malignity and the lie with
+         him, he so far deceases from nature.     --Emerson.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>deceased</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Deceased \De*ceased"\, a.
+   Passed away; dead; gone.
+   [1913 Webster]
+
+   {The deceased}, the dead person.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>deceased</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>deceased
+     adj : dead; "he is deceased"; "our dear departed friend" [syn: {asleep(p)},
+            {at peace(p)}, {at rest(p)}, {departed}, {gone}]
+     n : someone who is no longer alive; "I wonder what the dead
+         person would have done" [syn: {dead person}, {dead soul},
+          {deceased person}, {decedent}, {departed}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

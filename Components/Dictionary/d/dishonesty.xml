@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dishonesty</Word>
+  <Definitions>
+    <Definition>
+      <Word>dishonesty</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dishonesty \Dis*hon"es*ty\, n. [Cf. OF. deshonest['e], F.
+   d['e]shonn[^e]tet['e].]
+   1. Dishonor; dishonorableness; shame. [Obs.] ``The hidden
+      things of dishonesty.'' --2 Cor. iv. 2.
+      [1913 Webster]
+
+   2. Want of honesty, probity, or integrity in principle; want
+      of fairness and straightforwardness; a disposition to
+      defraud, deceive, or betray; faithlessness.
+      [1913 Webster]
+
+   3. Violation of trust or of justice; fraud; any deviation
+      from probity; a dishonest act.
+      [1913 Webster]
+
+   4. Lewdness; unchastity. --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dishonesty</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dishonesty
+     n 1: the quality of being dishonest [ant: {honesty}]
+     2: lack of honesty; acts of lying or cheating or stealing [syn:
+         {knavery}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

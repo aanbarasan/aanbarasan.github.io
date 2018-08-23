@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dermatology</Word>
+  <Definitions>
+    <Definition>
+      <Word>dermatology</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dermatology \Der`ma*tol"o*gy\, n. [Gr. de`rma, -atos, skin +
+   -logy: cf. F. dermatologie.]
+   The science which treats of the skin, its structure,
+   functions, and diseases.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dermatology</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dermatology
+     n : the branch of medicine dealing with the skin and its
+         diseases
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>gray</Word>
+  <Definitions>
+    <Definition>
+      <Word>gray</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Gray
+     
+        A {parser generator} written in {Forth} by Martin Anton Ertl
+        &lt;anton@mips.complang.tuwien.ac.at&gt;.  Gray takes grammars in an
+        {extended BNF} and produces executable Forth code for
+        {recursive descent parser}s.  There is no special support for
+        error handling.  Version 3 runs under {Tile Forth} Release 2
+        by Mikael Patel.
+     
+        (1992-05-22)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gray</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Gray, GA (city, FIPS 34512)
+  Location: 33.00739 N, 83.53575 W
+  Population (1990): 2189 (799 housing units)
+  Area: 6.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 31032
+Gray, IA (city, FIPS 32565)
+  Location: 41.84132 N, 94.98416 W
+  Population (1990): 83 (45 housing units)
+  Area: 2.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 50110
+Gray, KY
+  Zip code(s): 40734
+Gray, LA (CDP, FIPS 31180)
+  Location: 29.67689 N, 90.78160 W
+  Population (1990): 4260 (1496 housing units)
+  Area: 30.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 70359
+Gray, ME
+  Zip code(s): 04039
+Gray, TN (CDP, FIPS 30700)
+  Location: 36.41117 N, 82.47974 W
+  Population (1990): 1071 (444 housing units)
+  Area: 7.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 37615
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gray</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gray \Gray\ (gr[=a]), a. [Compar. {Grayer}; superl. {Grayest}.]
+   [OE. gray, grey, AS. gr[=ae]g, gr[=e]g; akin to D. graauw,
+   OHG. gr[=a]o, G. grau, Dan. graa, Sw. gr[*a], Icel. gr[=a]r.]
+   [Written also {grey}.]
+   1. any color of neutral hue between white and black; white
+      mixed with black, as the color of pepper and salt, or of
+      ashes, or of hair whitened by age; sometimes, a dark mixed
+      color; as, the soft gray eye of a dove.
+      [1913 Webster]
+
+            These gray and dun colors may be also produced by
+            mixing whites and blacks.             --Sir I.
+                                                  Newton.
+      [1913 Webster]
+
+   2. Gray-haired; gray-headed; of a gray color; hoary.
+      [1913 Webster]
+
+   3. Old; mature; as, gray experience. -- Ames.
+      [1913 Webster]
+
+   4. gloomy; dismal.
+      [PJC]
+
+   {Gray antimony} (Min.), stibnite.
+
+   {Gray buck} (Zo["o]l.), the chickara.
+
+   {Gray cobalt} (Min.), smaltite.
+
+   {Gray copper} (Min.), tetrahedrite.
+
+   {Gray duck} (Zo["o]l.), the gadwall; also applied to the
+      female mallard.
+
+   {Gray falcon} (Zo["o]l.) the peregrine falcon.
+
+   {Gray Friar}. See {Franciscan}, and {Friar}.
+
+   {Gray hen} (Zo["o]l.), the female of the blackcock or black
+      grouse. See {Heath grouse}.
+
+   {Gray mill} or {Gray millet} (Bot.), a name of several plants
+      of the genus {Lithospermum}; gromwell.
+
+   {Gray mullet} (Zo["o]l.) any one of the numerous species of
+      the genus {Mugil}, or family {Mugilid[ae]}, found both in
+      the Old World and America; as the European species
+      ({Mugilid[ae] capito}, and {Mugilid[ae] auratus}), the
+      American striped mullet ({Mugilid[ae] albula}), and the
+      white or silver mullet ({Mugilid[ae] Braziliensis}). See
+      {Mullet}.
+
+   {Gray owl} (Zo["o]l.), the European tawny or brown owl
+      ({Syrnium aluco}). The great gray owl ({Ulula cinerea})
+      inhabits arctic America.
+
+   {Gray parrot} (Zo["o]l.), an African parrot ({Psittacus
+      erithacus}), very commonly domesticated, and noted for its
+      aptness in learning to talk. Also called {jako}.
+
+   {Gray pike}. (Zo["o]l.) See {Sauger}.
+
+   {Gray snapper} (Zo["o]l.), a Florida fish; the sea lawyer.
+      See {Snapper}.
+
+   {Gray snipe} (Zo["o]l.), the dowitcher in winter plumage.
+
+   {Gray whale} (Zo["o]l.), a rather large and swift whale of
+      the northern Pacific ({Eschrichtius robustus}, formerly
+      {Rhachianectes glaucus}), having short jaws and no dorsal
+      fin. It grows to a length of 50 feet (someimes 60 feet).
+      It was formerly taken in large numbers in the bays of
+      California, and is now rare; -- called also {grayback},
+      {devilfish}, and {hardhead}. It lives up to 50 or 60 years
+      and adults weigh from 20 to 40 tons.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gray</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gray \Gray\ (gr[=a]), n.
+   1. A gray color; any mixture of white and black; also, a
+      neutral or whitish tint.
+      [1913 Webster]
+
+   2. An animal or thing of gray color, as a horse, a badger, or
+      a kind of salmon.
+      [1913 Webster]
+
+            Woe worth the chase, woe worth the day.
+            That coats thy life, my gallant gray. --Sir W.
+                                                  Scott.
+      [1913 Webster]
+
+   3. (U. S. History) the Confederate army or a soldier in the
+      confederate army; as, a battle between the blue and the
+      gray.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gray</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gray \Gray\ (gr[=a]), n. [named after Louis Harold Gray, English
+   radiobiologist.]
+   the SI unit of absorbed dosage of ionizing radiation, equal
+   to an absorbed energy of 1 joule per kilogram of irradiated
+   material; -- abbreviated Gy. This unit is 100 times the
+   commonly used unit, the {rad}.
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gray</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>gray
+     adj 1: an achromatic color of any lightness between the extremes of
+            black and white; "gray flannel suit"; "hair just
+            turning gray" [syn: {grey}, {grayish}, {greyish}]
+     2: showing characteristics of age, especially having gray or
+        white hair; "whose beard with age is hoar"-Coleridge;
+        "nodded his hoary head" [syn: {grey}, {gray-haired}, {grey-haired},
+         {gray-headed}, {grey-headed}, {grizzly}, {hoar}, {hoary},
+         {white-haired}]
+     3: darkened with overcast; "a dark day"; "a dull sky"; "a gray
+        rainy afternoon"; "gray clouds"; "the sky was leaden and
+        thick" [syn: {dull}, {grey}, {leaden}]
+     4: used to signify the Confederate forces in the Civil War (who
+        wore gray uniforms); "a stalwart gray figure" [syn: {grey}]
+     5: intermediate in character or position; "a gray area between
+        clearly legal and strictly illegal" [syn: {grey}]
+     n 1: a neutral achromatic color midway between white and black
+          [syn: {grayness}, {grey}, {greyness}]
+     2: gray clothing; "he was dressed in gray" [syn: {grey}]
+     3: any organization or party whose uniforms or badges are gray;
+        "the Confederate army was a vast gray" [syn: {grey}]
+     4: horse of a light grey or whitish color
+     5: English poet best known for his elegy written in a country
+        church-yard (1716-1771) [syn: {Thomas Gray}]
+     6: American navigator who twice circumnavigated the globe and
+        who discovered the Columbia River (1755-1806) [syn: {Robert
+        Gray}]
+     7: United States botanist who specialized in North American
+        flora and who was an early supporter of Darwin's theories
+        of evolution (1810-1888) [syn: {Asa Gray}]
+     v 1: make gray; "The painter decided to grey the sky" [syn: {grey}]
+     2: turn gray; "Her hair began to gray" [syn: {grey}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fluctuation</Word>
+  <Definitions>
+    <Definition>
+      <Word>fluctuation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fluctuation \Fluc`tu*a"tion\, n. [L. fluctuatio; cf. F.
+   fluctuation.]
+   1. A motion like that of waves; a moving in this and that
+      direction; as, the fluctuations of the sea.
+      [1913 Webster]
+
+   2. A wavering; unsteadiness; as, fluctuations of opinion;
+      fluctuations of prices.
+      [1913 Webster]
+
+   3. (Med.) The motion or undulation of a fluid collected in a
+      natural or artifical cavity, which is felt when it is
+      subjected to pressure or percussion. --Dunglison.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fluctuation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fluctuation
+     n 1: a wave motion; "the fluctuations of the sea"
+     2: an instance of change; the rate or magnitude of change [syn:
+         {variation}]
+     3: the quality of being unsteady and subject to fluctuations;
+        "he kept a record of price fluctuations" [syn: {wavering}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

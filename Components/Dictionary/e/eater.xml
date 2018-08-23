@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>eater</Word>
+  <Definitions>
+    <Definition>
+      <Word>eater</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Eater \Eat"er\ ([=e]t"[~e]r), n.
+   One who, or that which, eats.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>eater</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>eater
+     n 1: someone who consumes food for nourishment [syn: {feeder}]
+     2: any green goods that are good to eat; "these apples are good
+        eaters"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

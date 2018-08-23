@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>floyd</Word>
+  <Definitions>
+    <Definition>
+      <Word>floyd</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Floyd, IA (city, FIPS 28020)
+  Location: 43.12837 N, 92.73943 W
+  Population (1990): 359 (155 housing units)
+  Area: 1.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 50435
+Floyd, NM (village, FIPS 26570)
+  Location: 34.21470 N, 103.54890 W
+  Population (1990): 117 (53 housing units)
+  Area: 8.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 88118
+Floyd, VA (town, FIPS 28544)
+  Location: 36.91199 N, 80.31863 W
+  Population (1990): 396 (222 housing units)
+  Area: 1.2 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

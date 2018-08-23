@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>detective</Word>
+  <Definitions>
+    <Definition>
+      <Word>detective</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Detective \De*tect"ive\, a.
+   Fitted for, or skilled in, detecting; employed in detecting
+   crime or criminals; as, a detective officer.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>detective</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Detective \De*tect"ive\, n.
+   One who business it is so detect criminals or discover
+   matters of secrecy.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>detective</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>detective
+     n 1: a police officer who investigates crimes [syn: {investigator},
+           {tec}, {police detective}]
+     2: an investigator engaged or employed in obtaining information
+        not easily available to the public
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

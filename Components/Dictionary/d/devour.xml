@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>devour</Word>
+  <Definitions>
+    <Definition>
+      <Word>devour</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Devour \De*vour"\, v. t. [imp. &amp; p. p. {Devoured}; p. pr. &amp; vb.
+   n. {Devouring}.] [F. d['e]vorer, fr. L. devorare; de + vorare
+   to eat greedily, swallow up. See {Voracious}.]
+   1. To eat up with greediness; to consume ravenously; to feast
+      upon like a wild beast or a glutton; to prey upon.
+      [1913 Webster]
+
+            Some evil beast hath devoured him.    --Gen. xxxvii.
+                                                  20.
+      [1913 Webster]
+
+   2. To seize upon and destroy or appropriate greedily,
+      selfishly, or wantonly; to consume; to swallow up; to use
+      up; to waste; to annihilate.
+      [1913 Webster]
+
+            Famine and pestilence shall devour him. --Ezek. vii.
+                                                  15.
+      [1913 Webster]
+
+            I waste my life and do my days devour. --Spenser.
+      [1913 Webster]
+
+   3. To enjoy with avidity; to appropriate or take in eagerly
+      by the senses.
+      [1913 Webster]
+
+            Longing they look, and gaping at the sight,
+            Devour her o'er with vast delight.    --Dryden.
+
+   Syn: To consume; waste; destroy; annihilate.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>devour</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>devour
+     v 1: destroy completely; "Fire had devoured our home"
+     2: enjoy avidly; "She devoured his novels"
+     3: eat immoderately; "Some people can down a pound of meat in
+        the course of one meal" [syn: {down}, {consume}, {go
+        through}]
+     4: eat greedily; "he devoured three sandwiches" [syn: {guttle},
+         {raven}, {pig}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

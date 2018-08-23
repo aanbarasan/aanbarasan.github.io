@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>gradually</Word>
+  <Definitions>
+    <Definition>
+      <Word>gradually</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gradually \Grad"u*al*ly\, adv.
+   1. In a gradual manner.
+      [1913 Webster]
+
+   2. In degree. [Obs.]
+      [1913 Webster]
+
+            Human reason doth not only gradually, but
+            specifically, differ from the fantastic reason of
+            brutes.                               --Grew.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gradually</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>gradually
+     adv : in a gradual manner; "the snake moved gradually toward its
+           victim" [syn: {bit by bit}, {step by step}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

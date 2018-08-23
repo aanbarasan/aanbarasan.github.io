@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fiesta</Word>
+  <Definitions>
+    <Definition>
+      <Word>fiesta</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fiesta \Fies"ta\, n. [Sp. See {Feast}, n.]
+   1. Among Spanish, a religious festival; a saint's day or
+      holiday; also, a holiday or festivity.
+
+            Even . . . a bullfight is a fiesta.   --Am. Dialect
+                                                  Notes.
+
+            Some fiesta, when all the surrounding population
+            were expected to turn out in holiday dress for
+            merriment.                            --The Century.
+      [Webster 1913 Suppl.]
+
+   2. an organized series of acts and performances.
+
+   Syn: festival, feast, fete.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fiesta</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fiesta
+     n : an elaborate party (often outdoors) [syn: {fete}, {feast}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

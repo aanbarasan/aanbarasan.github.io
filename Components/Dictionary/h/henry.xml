@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>henry</Word>
+  <Definitions>
+    <Definition>
+      <Word>henry</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>henry
+     
+        &lt;unit&gt; (H) The {SI} unit of inductance: one henry is the
+        inductance of a closed loop in which the induced voltage is
+        one volt if the current flowing through it changes by one
+        ampere each second, i.e., 1 H = 1 Vs/A.  Named after the
+        American physicist Joseph Henry (1797-1878).
+     
+        (1997-03-16)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>henry</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Henry, IL (city, FIPS 34163)
+  Location: 41.11233 N, 89.36180 W
+  Population (1990): 2591 (1064 housing units)
+  Area: 3.2 sq km (land), 0.2 sq km (water)
+  Zip code(s): 61537
+Henry, NE (village, FIPS 22150)
+  Location: 41.99829 N, 104.04630 W
+  Population (1990): 145 (64 housing units)
+  Area: 0.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 69349
+Henry, SD (town, FIPS 28140)
+  Location: 44.88095 N, 97.46260 W
+  Population (1990): 215 (96 housing units)
+  Area: 4.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 57243
+Henry, TN (town, FIPS 33400)
+  Location: 36.20050 N, 88.41056 W
+  Population (1990): 317 (132 housing units)
+  Area: 2.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 38231
+Henry, VA
+  Zip code(s): 24102
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>henry</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Henry \Hen"ry\, n.; pl. {Henrys}. [From Joseph Henry, an
+   American physicist.]
+   The unit of electric induction; the induction in a circuit
+   when the electro-motive force induced in this circuit is one
+   volt, while the inducing current varies at the rate of one
+   amp[`e]re a second.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>henry</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>henry
+     n 1: a unit of inductance in which an induced electromotive force
+          of one volt is produced when the current is varied at
+          the rate of one ampere per second [syn: {H}]
+     2: English chemist who studied the quantities of gas absorbed
+        by water at different temperatures and under different
+        pressures (1775-1836) [syn: {William Henry}]
+     3: a leader of the American Revolution and a famous orator who
+        spoke out against British rule of the American colonies
+        (1736-1799) [syn: {Patrick Henry}]
+     4: United States physicist who studied electromagnetic
+        phenomena (1791-1878) [syn: {Joseph Henry}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

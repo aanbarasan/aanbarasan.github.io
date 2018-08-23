@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>derivative</Word>
+  <Definitions>
+    <Definition>
+      <Word>derivative</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Derivative \De*riv"a*tive\, a. [L. derivativus: cf. F.
+   d['e]rivatif.]
+   Obtained by derivation; derived; not radical, original, or
+   fundamental; originating, deduced, or formed from something
+   else; secondary; as, a derivative conveyance; a derivative
+   word.
+   [1913 Webster]
+
+   2. Hence, unoriginal (said of art or other intellectual
+      products.
+      [PJC]
+
+   {Derivative circulation}, a modification of the circulation
+      found in some parts of the body, in which the arteries
+      empty directly into the veins without the interposition of
+      capillaries. --Flint. -- {De*riv"a*tive*ly}, adv. --
+      {De*riv"a*tive*ness}, n.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>derivative</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Derivative \De*riv"a*tive\, n.
+   1. That which is derived; anything obtained or deduced from
+      another.
+      [1913 Webster]
+
+   2. (Gram.) A word formed from another word, by a prefix or
+      suffix, an internal modification, or some other change; a
+      word which takes its origin from a root.
+      [1913 Webster]
+
+   3. (Mus.) A chord, not fundamental, but obtained from another
+      by inversion; or, vice versa, a ground tone or root
+      implied in its harmonics in an actual chord.
+      [1913 Webster]
+
+   4. (Med.) An agent which is adapted to produce a derivation
+      (in the medical sense).
+      [1913 Webster]
+
+   5. (Math.) A derived function; a function obtained from a
+      given function by a certain algebraic process.
+      [1913 Webster]
+
+   Note: Except in the mode of derivation the derivative is the
+         same as the differential coefficient. See {Differential
+         coefficient}, under {Differential}.
+         [1913 Webster]
+
+   6. (Chem.) A substance so related to another substance by
+      modification or partial substitution as to be regarded as
+      derived from it; thus, the amido compounds are derivatives
+      of ammonia, and the hydrocarbons are derivatives of
+      methane, benzene, etc.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>derivative</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>derivative
+     adj : resulting from or employing derivation; "a derivative
+           process"; "a highly derivative prose style"
+     n 1: the result of mathematical differentiation; the
+          instantaneous change of one quantity relative to
+          another; df(x)/dx [syn: {derived function}, {differential
+          coefficient}, {differential}, {first derivative}]
+     2: a financial instrument whose value is based on another
+        security [syn: {derivative instrument}]
+     3: (linguistics) a word that is derived from another word;
+        "`electricity' is a derivative of `electric'"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

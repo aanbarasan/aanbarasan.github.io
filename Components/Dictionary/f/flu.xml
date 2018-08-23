@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>flu</Word>
+  <Definitions>
+    <Definition>
+      <Word>flu</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>flu
+     n : an acute febrile highly contagious viral disease [syn: {influenza},
+          {grippe}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

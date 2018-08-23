@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>continuation</Word>
+  <Definitions>
+    <Definition>
+      <Word>continuation</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>continuation
+     
+        See {continuation passing style}.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>continuation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Continuation \Con*tin`u*a"tion\, n. [L. continuatio: cf. F.
+   connuation.]
+   1. That act or state of continuing; the state of being
+      continued; uninterrupted extension or succession;
+      prolongation; propagation.
+      [1913 Webster]
+
+            Preventing the continuation of the royal line.
+                                                  --Macaulay.
+      [1913 Webster]
+
+   2. That which extends, increases, supplements, or carries on;
+      as, the continuation of a story.
+      [1913 Webster]
+
+            My continuation of the version of Statius. --Pope.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>continuation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>continuation
+     n 1: the act of continuing an activity without interruption [syn:
+           {continuance}] [ant: {discontinuance}, {discontinuance}]
+     2: a part added to a book or play that continues and extends it
+        [syn: {sequel}]
+     3: a Gestalt principle of organization holding that there is an
+        innate tendence to perceive a line as continuing its
+        established direction [syn: {good continuation}, {law of
+        continuation}]
+     4: the consequence of being lengthened in duration [syn: {lengthiness},
+         {prolongation}, {protraction}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

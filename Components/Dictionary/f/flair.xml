@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>flair</Word>
+  <Definitions>
+    <Definition>
+      <Word>flair</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>FLAIR
+     
+        &lt;language&gt; An early system on the {IBM 650}.
+     
+        [Listed in CACM 2(5):16 (May 1959)].
+     
+        (1995-03-17)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flair</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Flair \Flair\ (fl[^a]r), n. [OE. flaireodor, fr. OF. &amp; F. flair,
+   fr. OF. flairier, F. flairer, to smell, LL. flagrare for L.
+   fragrare. See {Flagrant}.]
+   1. Smell; odor. [Obs.]
+      [Webster 1913 Suppl.]
+
+   2. Sense of smell; scent; fig., discriminating sense.
+      [Webster 1913 Suppl.]
+
+   3. A talent or ability, expecially an intuitive one that
+      makes performance of a task appear easy; an intuitive
+      appreciation; a knack; as, she has a flair for acting.
+      [PJC]
+
+   4. An attractive way of performing a task; style.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flair</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>flair
+     n 1: a natural talent; "he has a flair for mathematics"; "he has
+          a genius for interior decorating" [syn: {genius}]
+     2: distinctive and stylish elegance; "he wooed her with the
+        confident dash of a cavalry officer" [syn: {dash}, {elan},
+         {panache}, {style}]
+     3: a shape that spreads outward; "the skirt had a wide flare"
+        [syn: {flare}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>discarded</Word>
+  <Definitions>
+    <Definition>
+      <Word>discarded</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Discard \Dis*card"\, v. t. [imp. &amp; p. p. {Discarded}; p. pr. &amp;
+   vb. n. {Discarding}.]
+   1. (Card Playing) To throw out of one's hand, as superfluous
+      cards; to lay aside (a card or cards).
+      [1913 Webster]
+
+   2. To cast off as useless or as no longer of service; to
+      dismiss from employment, confidence, or favor; to
+      discharge; to turn away.
+      [1913 Webster]
+
+            They blame the favorites, and think it nothing
+            extraordinary that the queen should . . . resolve to
+            discard them.                         --Swift.
+      [1913 Webster]
+
+   3. To put or thrust away; to reject.
+      [1913 Webster]
+
+            A man discards the follies of boyhood. --I. Taylor.
+
+   Syn: To dismiss; displace; discharge; cashier.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>discarded</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>discarded
+     adj 1: thrown away; "wearing someone's cast-off clothes";
+            "throwaway children living on the streets"; "salvaged
+            some thrown-away furniture" [syn: {cast-off(a)}, {throwaway(a)},
+             {thrown-away(a)}]
+     2: disposed of as useless; "waste paper" [syn: {cast-off(a)}, {junked},
+         {scrap(a)}, {waste}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

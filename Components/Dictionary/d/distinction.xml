@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>distinction</Word>
+  <Definitions>
+    <Definition>
+      <Word>distinction</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Distinction \Dis*tinc"tion\, n. [L. distinctio: cf. F.
+   distinction.]
+   1. A marking off by visible signs; separation into parts;
+      division. [Obs.]
+      [1913 Webster]
+
+            The distinction of tragedy into acts was not known.
+                                                  --Dryden.
+      [1913 Webster]
+
+   2. The act of distinguishing or denoting the differences
+      between objects, or the qualities by which one is known
+      from others; exercise of discernment; discrimination.
+      [1913 Webster]
+
+            To take away therefore that error, which confusion
+            breedeth, distinction is requisite.   --Hooker.
+      [1913 Webster]
+
+   3. That which distinguishes one thing from another;
+      distinguishing quality; sharply defined difference; as,
+      the distinction between real and apparent good.
+      [1913 Webster]
+
+            The distinction betwixt the animal kingdom and the
+            inferior parts of matter.             --Locke.
+      [1913 Webster]
+
+   4. Estimation of difference; regard to differences or
+      distinguishing circumstance.
+      [1913 Webster]
+
+            Maids, women, wives, without distinction, fall.
+                                                  --Dryden.
+      [1913 Webster]
+
+   5. Conspicuous station; eminence; superiority; honorable
+      estimation; as, a man of distinction.
+      [1913 Webster]
+
+            Your country's own means of distinction and defense.
+                                                  --D. Webster.
+
+   Syn: Difference; variation, variety; contrast; diversity;
+        contrariety; disagreement; discrimination; preference;
+        superiority; rank; note; eminence.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>distinction</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>distinction
+     n 1: a discrimination between things as different and distinct;
+          "it is necessary to make a distinction between love and
+          infatuation" [syn: {differentiation}]
+     2: high status importance owing to marked superiority; "a
+        scholar of great eminence" [syn: {eminence}, {preeminence},
+         {note}]
+     3: a distinguishing quality; "it has the distinction of being
+        the cheapest restaurant in town"
+     4: a distinguishing difference; "he learned the distinction
+        between gold and lead"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

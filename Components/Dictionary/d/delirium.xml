@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>delirium</Word>
+  <Definitions>
+    <Definition>
+      <Word>delirium</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Delirium
+     
+        An embedding coordinate language for parallel programming,
+        implemented on {Sequent Symmetry}, {Cray}, {BBN Butterfly}.
+     
+        ["Parallel Programming with Coordination Structures", S. Lucco
+        et al, 18th POPL, pp.197-208 (1991)].
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>delirium</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Delirium \De*lir"i*um\ (d[-e]*l[i^]r"[i^]*[u^]m), n. [L., fr.
+   delirare to rave, to wander in mind, prop., to go out of the
+   furrow in plowing; de- + lira furrow, track; perh. akin to G.
+   geleise track, rut, and E. last to endure.]
+   1. (Med.) A state in which the thoughts, expressions, and
+      actions are wild, irregular, and incoherent; mental
+      aberration; a roving or wandering of the mind, -- usually
+      dependent on a fever or some other disease, and so
+      distinguished from {mania}, or madness.
+      [1913 Webster]
+
+   2. Strong excitement; wild enthusiasm; madness.
+      [1913 Webster]
+
+            The popular delirium [of the French Revolution] at
+            first caught his enthusiastic mind.   --W. Irving.
+      [1913 Webster]
+
+            The delirium of the preceding session (of
+            Parliament).                          --Morley.
+      [1913 Webster]
+
+   {Delirium tremens}. [L., trembling delirium] (Med.), a
+      violent delirium induced by the excessive and prolonged
+      use of intoxicating liquors.
+
+   {Traumatic delirium} (Med.), a variety of delirium following
+      injury.
+
+   Syn: Insanity; frenzy; madness; derangement; aberration;
+        mania; lunacy; fury. See {Insanity}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>delirium</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>delirium
+     n 1: state of violent mental agitation [syn: {craze}, {frenzy}, {fury},
+           {hysteria}]
+     2: a usually brief state of excitement and mental confusion
+        often accompanied by hallucinations
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

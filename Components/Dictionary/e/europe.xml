@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>europe</Word>
+  <Definitions>
+    <Definition>
+      <Word>europe</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Europe
+     n 1: the 2nd smallest continent (actually a vast peninsula of
+          Eurasia); the British use `Europe' to refer to all of
+          the continent except the British Isles
+     2: an international organization of European countries formed
+        after World War II to reduce trade barriers and increase
+        cooperation among its members; "he took Britain into
+        Europe" [syn: {European Union}, {EU}, {European Community},
+         {EC}, {European Economic Community}, {EEC}, {Common
+        Market}]
+     3: the nations of the European continent collectively; "the
+        Marshall Plan helped Europe recover from World War II"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

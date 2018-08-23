@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>exploder</Word>
+  <Definitions>
+    <Definition>
+      <Word>exploder</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Exploder \Ex*plod"er\, n.
+   1. One who or that which explodes.
+      [1913 Webster]
+
+   2. One who rejects an opinion or scheme with open contempt.
+      --South.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>exploder</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>Exploder n. Used within Microsoft to refer to the Windows Explorer, the
+   interface component of Windows 95 and WinNT 4. Our spies report that
+   most of the heavy guns at MS came from a Unix background and use command
+   line utilities; even they are scornful of the over-gingerbreaded {WIMP
+   environment}s that they have been called upon to create.
+
+
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

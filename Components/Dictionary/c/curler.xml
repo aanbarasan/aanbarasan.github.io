@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>curler</Word>
+  <Definitions>
+    <Definition>
+      <Word>curler</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Curler \Curl"er\ (k[^u]rl"[~e]r), n.
+   1. One who, or that which, curls.
+      [1913 Webster]
+
+   2. A player at the game called {curling}. --Burns.
+      [1913 Webster]
+
+   3. A small cylindrical object sometimes having a clamping
+      attachment, around which hair is wound so as to produce
+      curls; as, she slept all night with a head full of
+      curlers.
+      [PJC]
+
+   4. an electrical appliance with a handle and a metal
+      rod-shaped tip which is heated and around which hair is
+      wound, to produce curls in the hair; -- called also
+      curling iron.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>curler</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>curler
+     n : a mechanical device consisting of a cylindrical tube around
+         which the hair is wound to curl it; "a woman with her
+         head full of curlers is not a pretty sight" [syn: {hair
+         curler}, {roller}, {crimper}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

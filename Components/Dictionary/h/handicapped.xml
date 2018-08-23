@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>handicapped</Word>
+  <Definitions>
+    <Definition>
+      <Word>handicapped</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Handicap \Hand"i*cap\, v. t. [imp. &amp; p. p. {Handicapped}
+   (-k[a^]pt); p. pr. &amp; vb. n. {Handicapping}.]
+   To encumber with a handicap in any contest; hence, in
+   general, to place at disadvantage; as, the candidate was
+   heavily handicapped.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>handicapped</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Handicapped \Hand"i*capped\ (h[a^]nd"[i^]*k[a^]pt), a.
+   suffering from a handicap (in senses 4 or 5); disabled; at a
+   disadvantage.
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>handicapped</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>handicapped
+     See {handicap}
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>handicapped</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>handicap
+     n 1: the condition of being unable to perform as a consequence of
+          physical or mental unfitness; "reading disability";
+          "hearing impairment" [syn: {disability}, {disablement},
+          {impairment}]
+     2: advantage given to a competitor to equalize chances of
+        winning
+     3: something immaterial that interferes with or delays action
+        or progress [syn: {hindrance}, {deterrent}, {impediment},
+        {balk}, {baulk}, {check}]
+     v 1: injure permanently; "He was disabled in a car accident"
+          [syn: {disable}, {invalid}, {incapacitate}]
+     2: attempt to forecast the winner (especially in a horse race)
+        and assign odds for or against a contestant
+     3: put at a disadvantage; "The brace I have to wear is
+        hindering my movements" [syn: {hinder}, {hamper}]
+     [also: {handicapping}, {handicapped}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>handicapped</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>handicapped
+     adj : incapacitated by injury or illness [syn: {disabled}, {incapacitated}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

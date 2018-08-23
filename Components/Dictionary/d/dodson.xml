@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dodson</Word>
+  <Definitions>
+    <Definition>
+      <Word>dodson</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Dodson, LA (village, FIPS 21170)
+  Location: 32.07917 N, 92.65816 W
+  Population (1990): 350 (160 housing units)
+  Area: 5.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 71422
+Dodson, MT (town, FIPS 21025)
+  Location: 48.39541 N, 108.24520 W
+  Population (1990): 137 (73 housing units)
+  Area: 0.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 59524
+Dodson, TX (town, FIPS 20716)
+  Location: 34.76499 N, 100.01954 W
+  Population (1990): 113 (56 housing units)
+  Area: 1.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 79230
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

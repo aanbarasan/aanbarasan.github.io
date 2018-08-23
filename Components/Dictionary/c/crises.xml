@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>crises</Word>
+  <Definitions>
+    <Definition>
+      <Word>crises</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Crisis \Cri"sis\ (kr?"s?s), n.; pl. {Crises} (-s?z). [L. crisis,
+   Gr. ????, fr. ???? to separate. See {Certain}.]
+   1. The point of time when it is to be decided whether any
+      affair or course of action must go on, or be modified or
+      terminate; the decisive moment; the turning point.
+      [1913 Webster]
+
+            This hour's the very crisis of your fate. --Dryden.
+      [1913 Webster]
+
+            The very times of crisis for the fate of the
+            country.                              --Brougham.
+      [1913 Webster]
+
+   2. (Med.) That change in a disease which indicates whether
+      the result is to be recovery or death; sometimes, also, a
+      striking change of symptoms attended by an outward
+      manifestation, as by an eruption or sweat.
+      [1913 Webster]
+
+            Till some safe crisis authorize their skill.
+                                                  --Dryden.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>crises</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>crises
+     See {crisis}
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>crises</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>crisis
+     n 1: an unstable situation of extreme danger or difficulty; "they
+          went bankrupt during the economic crisis"
+     2: a crucial stage or turning point in the course of something;
+        "after the crisis the patient either dies or gets better"
+     [also: {crises} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

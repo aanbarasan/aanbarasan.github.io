@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>expressive</Word>
+  <Definitions>
+    <Definition>
+      <Word>expressive</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Expressive \Ex*press"ive\, a. [Cf. F. expressif.]
+   1. Serving to express, utter, or represent; indicative;
+      communicative; -- followed by of; as, words expressive of
+      his gratitude.
+      [1913 Webster]
+
+            Each verse so swells expressive of her woes.
+                                                  --Tickell.
+      [1913 Webster]
+
+   2. Full of expression; vividly representing the meaning or
+      feeling meant to be conveyed; significant; emphatic; as,
+      expressive looks or words.
+      [1913 Webster]
+
+            You have restrained yourself within the list of too
+            cold an adieu; be more expressive to them. --Shak.
+      [1913 Webster]
+
+            Through her expressive eyes her soul distinctly
+            spoke.                                --Littelton.
+      -- {Ex*press"ive*ly},adv. -- {Ex*press"ive*ness},n.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>expressive</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>expressive
+     adj : characterized by expression; "a very expressive face"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>employed</Word>
+  <Definitions>
+    <Definition>
+      <Word>employed</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Employ \Em*ploy"\, v. t. [imp. &amp; p. p. {Employed}; p. pr. &amp; vb.
+   n. {Employing}.] [F. employer, fr. L. implicare to fold into,
+   infold, involve, implicate, engage; in + plicare to fold. See
+   {Ply}, and cf. {Imply}, {Implicate}.]
+   1. To inclose; to infold. [Obs.] --Chaucer.
+      [1913 Webster]
+
+   2. To use; to have in service; to cause to be engaged in
+      doing something; -- often followed by in, about, on, or
+      upon, and sometimes by to; as:
+      (a) To make use of, as an instrument, a means, a material,
+          etc., for a specific purpose; to apply; as, to employ
+          the pen in writing, bricks in building, words and
+          phrases in speaking; to employ the mind; to employ
+          one's energies.
+          [1913 Webster]
+
+                This is a day in which the thoughts . . . ought
+                to be employed on serious subjects. --Addison.
+      (b) To occupy; as, to employ time in study.
+      (c) To have or keep at work; to give employment or
+          occupation to; to intrust with some duty or behest;
+          as, to employ a hundred workmen; to employ an envoy.
+          [1913 Webster]
+
+                Jonathan . . . and Jahaziah . . . were employed
+                about this matter.                --Ezra x. 15.
+          [1913 Webster]
+
+                Thy vineyard must employ the sturdy steer
+                To turn the glebe.                --Dryden.
+          [1913 Webster]
+
+   {To employ one's self}, to apply or devote one's time and
+      attention; to busy one's self.
+
+   Syn: To use; busy; apply; exercise; occupy; engross; engage.
+        See {Use}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>employed</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>employed
+     adj 1: having your services engaged for; or having a job especially
+            one that pays wages or a salary; "most of our
+            graduates are employed" [ant: {unemployed}]
+     2: put to use [syn: {made use of(p)}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

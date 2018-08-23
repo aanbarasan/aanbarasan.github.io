@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>giveandtake</Word>
+  <Definitions>
+    <Definition>
+      <Word>giveandtake</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>give and take
+     v : make mutual concessions; "In life you have to give and take"
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>giveandtake</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>give-and-take
+     n 1: an exchange of views on some topic; "we had a good
+          discussion"; "we had a word or two about it" [syn: {discussion},
+           {word}]
+     2: light teasing repartee [syn: {banter}, {raillery}, {backchat}]
+     3: mutual interaction; the activity of interchanging or
+        reciprocating [syn: {interchange}, {reciprocation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

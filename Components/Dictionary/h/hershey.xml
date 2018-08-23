@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hershey</Word>
+  <Definitions>
+    <Definition>
+      <Word>hershey</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Hershey, NE (village, FIPS 22290)
+  Location: 41.15812 N, 101.00129 W
+  Population (1990): 579 (258 housing units)
+  Area: 1.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 69143
+Hershey, PA (CDP, FIPS 34144)
+  Location: 40.28008 N, 76.64770 W
+  Population (1990): 11860 (5490 housing units)
+  Area: 37.9 sq km (land), 0.1 sq km (water)
+  Zip code(s): 17033
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hershey</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Hershey
+     n 1: United States confectioner and philanthropist who created
+          the model industrial town of Hershey, Pennsylvania;
+          founded an industrial school for orphan boys (1857-1945)
+          [syn: {Milton Snavely Hershey}]
+     2: an industrial town east of Harrisburg
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

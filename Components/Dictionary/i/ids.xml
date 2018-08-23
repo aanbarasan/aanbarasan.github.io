@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ids</Word>
+  <Definitions>
+    <Definition>
+      <Word>ids</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>IDS
+     Information Delivery System
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ids</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>IDS
+     Intelligent Decision Server (IBM)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ids</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>IDS
+     Inter Data Systems [gmbh] (manufacturer)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ids</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>IDS
+     Internal Directory System
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ids</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>IDS
+     Intrusion Detection System (IDS)
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

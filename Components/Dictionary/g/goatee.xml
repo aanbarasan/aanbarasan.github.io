@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>goatee</Word>
+  <Definitions>
+    <Definition>
+      <Word>goatee</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Goatee \Goat`ee"\, n.
+   A part of a man's beard on the chin or lower lip which is
+   allowed to grow, and trimmed so as to resemble the beard of a
+   goat.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>goatee</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>goatee
+     n : a small chin beard trimmed to a point; named for its
+         resemblance to a goat's beard
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>eagerness</Word>
+  <Definitions>
+    <Definition>
+      <Word>eagerness</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Eagerness \Ea"ger*ness\, n.
+   1. The state or quality of being eager; ardent desire. ``The
+      eagerness of love.'' --Addison.
+      [1913 Webster]
+
+   2. Tartness; sourness. [Obs.]
+
+   Syn: Ardor; vehemence; earnestness; impetuosity; heartiness;
+        fervor; fervency; avidity; zeal; craving; heat; passion;
+        greediness.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>eagerness</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>eagerness
+     n : a positive feeling of wanting to push ahead with something
+         [syn: {avidity}, {avidness}, {keenness}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

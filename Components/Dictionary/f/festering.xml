@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>festering</Word>
+  <Definitions>
+    <Definition>
+      <Word>festering</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fester \Fes"ter\, v. i. [imp. &amp; p. p. {Festered}; p. pr. &amp; vb.
+   n. {Festering}.] [OE. festern, fr. fester, n.; or fr. OF.
+   festrir, fr. festre, n. See {Fester}, n.]
+   1. To generate pus; to become imflamed and suppurate; as, a
+      sore or a wound festers.
+      [1913 Webster]
+
+            Wounds immedicable
+            Rankle, and fester, and gangrene.     --Milton.
+      [1913 Webster]
+
+            Unkindness may give a wound that shall bleed and
+            smart, but it is treachery that makes it fester.
+                                                  --South.
+      [1913 Webster]
+
+            Hatred . . . festered in the hearts of the children
+            of the soil.                          --Macaulay.
+      [1913 Webster]
+
+   2. To be inflamed; to grow virulent, or malignant; to grow in
+      intensity; to rankle.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>festering</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>festering
+     n 1: (medicine) the formation of morbific matter in an abscess or
+          a vesicle and the discharge of pus [syn: {suppuration},
+          {maturation}]
+     2: a fluid product of inflammation [syn: {pus}, {purulence}, {suppuration},
+         {ichor}, {sanies}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

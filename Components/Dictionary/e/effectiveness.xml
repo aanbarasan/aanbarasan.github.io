@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>effectiveness</Word>
+  <Definitions>
+    <Definition>
+      <Word>effectiveness</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Effectiveness \Ef*fect"ive*ness\, n.
+   The quality of being effective.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>effectiveness</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>effectiveness
+     n 1: power to be effective; the quality of being able to bring
+          about an effect [syn: {effectivity}, {effectualness}, {effectuality}]
+          [ant: {ineffectiveness}]
+     2: capacity to produce strong physiological or chemical
+        effects; "the toxin's potency"; "the strength of the
+        drinks" [syn: {potency}, {strength}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

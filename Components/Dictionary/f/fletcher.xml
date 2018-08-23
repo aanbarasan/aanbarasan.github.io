@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fletcher</Word>
+  <Definitions>
+    <Definition>
+      <Word>fletcher</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Fletcher, MO
+  Zip code(s): 63030
+Fletcher, NC (town, FIPS 23760)
+  Location: 35.43428 N, 82.50287 W
+  Population (1990): 2787 (1193 housing units)
+  Area: 12.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 28732
+Fletcher, OH (village, FIPS 27412)
+  Location: 40.14443 N, 84.11177 W
+  Population (1990): 545 (201 housing units)
+  Area: 0.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 45326
+Fletcher, OK (town, FIPS 26350)
+  Location: 34.82446 N, 98.24032 W
+  Population (1990): 1002 (448 housing units)
+  Area: 1.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 73541
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fletcher</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fletcher \Fletch"er\, n. [OF. flechier.]
+   One who fletches or feathers arrows; a manufacturer of bows
+   and arrows. [Obs.] --Mortimer.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fletcher</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Fletcher
+     n : prolific English dramatist who collaborated with Francis
+         Beaumont and many other dramatists (1579-1625) [syn: {John
+         Fletcher}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

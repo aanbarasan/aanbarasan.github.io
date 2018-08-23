@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>diarrhea</Word>
+  <Definitions>
+    <Definition>
+      <Word>diarrhea</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Diarrhea \Di`ar*rhe"a\, Diarrhoea \Di`ar*rh[oe]"a\,
+   (d[imac]`ar*r[=e]"[.a]), n. [L. diarrhoea, Gr. dia`rroia, fr.
+   dia`rrei^n to flow through; dia` + "rei^n to flow; akin to E.
+   stream. See {Stream}.] (Med.)
+   A morbidly frequent and profuse discharge of loose or fluid
+   evacuations from the intestines, without tenesmus; a purging
+   or looseness of the bowels; a flux.
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>diarrhea</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>diarrhea
+     n : frequent and watery bowel movements; can be a symptom of
+         infection or food poisoning or colitis or a
+         gastrointestinal tumor [syn: {diarrhoea}, {looseness of
+         the bowels}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

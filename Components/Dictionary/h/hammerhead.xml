@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hammerhead</Word>
+  <Definitions>
+    <Definition>
+      <Word>hammerhead</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hammerhead \Ham"mer*head`\ (-h[e^]d`), n.
+   1. (Zo["o]l.) A shark of the genus {Sphyrna} or {Zyg[ae]na},
+      having the eyes set on projections from the sides of the
+      head, which gives it a hammer shape. The {Sphyrna
+      zyg[ae]na} is found in the North Atlantic. Called also
+      {hammer fish}, and {balance fish}.
+      [1913 Webster]
+
+   2. (Zo["o]l.) A fresh-water fish; the stone-roller.
+      [1913 Webster]
+
+   3. (Zo["o]l.) An African fruit bat ({Hypsignathus
+      monstrosus}); -- so called from its large blunt nozzle.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hammerhead</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hammerhead
+     n 1: these words are used to express a low opinion of someone's
+          intelligence [syn: {dunce}, {dunderhead}, {numskull}, {blockhead},
+           {bonehead}, {lunkhead}, {knucklehead}, {loggerhead}, {muttonhead},
+           {shithead}, {fuckhead}]
+     2: the striking part of a hammer
+     3: medium-sized live-bearing shark with eyes at either end of a
+        flattened hammer-shaped head; worldwide in warm waters;
+        can be dangerous [syn: {hammerhead shark}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fiasco</Word>
+  <Definitions>
+    <Definition>
+      <Word>fiasco</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fiasco \Fi*as"co\, n.; pl. {Fiascoes}. [It.]
+   A complete or ridiculous failure, esp. of a musical
+   performance, or of any pretentious undertaking.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fiasco</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fiasco
+     n : a sudden and violent collapse [syn: {debacle}]
+     [also: {fiascoes} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

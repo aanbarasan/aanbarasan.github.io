@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>feldspar</Word>
+  <Definitions>
+    <Definition>
+      <Word>feldspar</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Feldspar \Feld"spar`\, Feldspath \Feld"spath`\, n. [G.
+   feldspath; feld field + spath spar.] (Min.)
+   A name given to a group of minerals, closely related in
+   crystalline form, and all silicates of alumina with either
+   potash, soda, lime, or, in one case, baryta. They occur in
+   crystals and crystalline masses, vitreous in luster, and
+   breaking rather easily in two directions at right angles to
+   each other, or nearly so. The colors are usually white or
+   nearly white, flesh-red, bluish, or greenish.
+   [1913 Webster]
+
+   Note: The group includes the monoclinic (orthoclastic)
+         species orthoclase or common potash feldspar, and the
+         rare hyalophane or baryta feldspar; also the triclinic
+         species (called in general plagioclase) microcline,
+         like orthoclase a potash feldspar; anorthite or lime
+         feldspar; albite or soda feldspar; also intermediate
+         between the last two species, labradorite, andesine,
+         oligoclase, containing both lime and soda in varying
+         amounts. The feldspars are essential constituents of
+         nearly all crystalline rocks, as granite, gneiss, mica,
+         slate, most kinds of basalt and trachyte, etc. The
+         decomposition of feldspar has yielded a large part of
+         the clay of the soil, also the mineral kaolin, an
+         essential material in the making of fine pottery.
+         Common feldspar is itself largely used for the same
+         purpose.
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>feldspar</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>feldspar
+     n : any of a group of hard crystalline minerals that consist of
+         aluminum silicates of potassium or sodium or calcium or
+         barium [syn: {felspar}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

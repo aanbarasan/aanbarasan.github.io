@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>defined</Word>
+  <Definitions>
+    <Definition>
+      <Word>defined</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Define \De*fine"\, v. t. [imp. &amp; p. p. {Defined}; p. pr. &amp; vb.
+   n. {Defining}.] [OE. definer, usually, to end, to finish, F.
+   d['e]finir to define, L. definire to limit, define; de- +
+   finire to limit, end, finis boundary, limit, end. See
+   {Final}, {Finish}.]
+   1. To fix the bounds of; to bring to a termination; to end.
+      ``To define controversies.'' --Barrow.
+      [1913 Webster]
+
+   2. To determine or clearly exhibit the boundaries of; to mark
+      the limits of; as, to define the extent of a kingdom or
+      country.
+      [1913 Webster]
+
+   3. To determine with precision; to mark out with
+      distinctness; to ascertain or exhibit clearly; as, the
+      defining power of an optical instrument.
+      [1913 Webster]
+
+            Rings . . . very distinct and well defined. --Sir I.
+                                                  Newton.
+      [1913 Webster]
+
+   4. To determine the precise signification of; to fix the
+      meaning of; to describe accurately; to explain; to expound
+      or interpret; as, to define a word, a phrase, or a
+      scientific term.
+      [1913 Webster]
+
+            They define virtue to be life ordered according to
+            nature.                               --Robynson
+                                                  (More's
+                                                  Utopia).
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>defined</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>defined
+     adj 1: clearly characterized or delimited; "lost in a maze of words
+            both defined and undefined"; "each child has clearly
+            defined duties" [ant: {undefined}]
+     2: showing clearly the outline or profile or boundary; "hills
+        defined against the evening sky"; "the setting sun showed
+        the outlined figure of a man standing on the hill" [syn: {outlined}]
+     3: clearly defined; "I have no formed opinion about the chances
+        of success" [syn: {formed}, {settled}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

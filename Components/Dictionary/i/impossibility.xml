@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>impossibility</Word>
+  <Definitions>
+    <Definition>
+      <Word>impossibility</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Impossibility \Im*pos`si*bil"i*ty\, n.; pl. {Impossibilities}.
+   [L. impossibilitas: cf. F. impossibilit['e].]
+   1. The quality of being impossible; impracticability.
+      [1913 Webster]
+
+            They confound difficulty with impossibility.
+                                                  --South.
+      [1913 Webster]
+
+   2. An impossible thing; that which is not possible; that
+      which can not be thought, done, or endured.
+      [1913 Webster]
+
+            Impossibilities! O, no, there's none. --Cowley.
+      [1913 Webster]
+
+   3. Inability; helplessness. [R.] --Latimer.
+      [1913 Webster]
+
+   {Logical impossibility}, a condition or statement involving
+      contradiction or absurdity; as, that a thing can be and
+      not be at the same time. See {Principle of Contradiction},
+      under {Contradiction}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>impossibility</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>impossibility
+     n 1: incapability of existing or occurring [syn: {impossibleness}]
+          [ant: {possibility}]
+     2: an alternative that is not available [syn: {impossible
+        action}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

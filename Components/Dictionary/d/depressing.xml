@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>depressing</Word>
+  <Definitions>
+    <Definition>
+      <Word>depressing</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Depress \De*press"\, v. t. [imp. &amp; p. p. {Depressed}; p. pr. &amp;
+   vb. n. {Depressing}.] [L. depressus, p. p. of deprimere; de-
+   + premere to press. See {Press}.]
+   1. To press down; to cause to sink; to let fall; to lower;
+      as, to depress the muzzle of a gun; to depress the eyes.
+      ``With lips depressed.'' --Tennyson.
+      [1913 Webster]
+
+   2. To bring down or humble; to abase, as pride.
+      [1913 Webster]
+
+   3. To cast a gloom upon; to sadden; as, his spirits were
+      depressed.
+      [1913 Webster]
+
+   4. To lessen the activity of; to make dull; embarrass, as
+      trade, commerce, etc.
+      [1913 Webster]
+
+   5. To lessen in price; to cause to decline in value; to
+      cheapen; to depreciate.
+      [1913 Webster]
+
+   6. (Math.) To reduce (an equation) in a lower degree.
+      [1913 Webster]
+
+   {To depress the pole} (Naut.), to cause the sidereal pole to
+      appear lower or nearer the horizon, as by sailing toward
+      the equator.
+
+   Syn: To sink; lower; abase; cast down; deject; humble;
+        degrade; dispirit; discourage.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>depressing</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>depressing
+     adj 1: causing dejection; "a blue day"; "the dark days of the war";
+            "a week of rainy depressing weather"; "a disconsolate
+            winter landscape"; "the first dismal dispiriting days
+            of November"; "a dark gloomy day"; "grim rainy
+            weather" [syn: {blue}, {dark}, {disconsolate}, {dismal},
+             {dispiriting}, {gloomy}, {grim}]
+     2: causing or suggestive of sorrow or gloom; "a gloomy
+        outlook"; "gloomy news" [syn: {depressive}, {gloomy}, {saddening}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

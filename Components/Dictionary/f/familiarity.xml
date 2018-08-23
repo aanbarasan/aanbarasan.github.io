@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>familiarity</Word>
+  <Definitions>
+    <Definition>
+      <Word>familiarity</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Familiarity \Fa*mil`iar"i*ty\, n.; pl. {Familiarities}. [OE.
+   familarite, F. familiarit['e]fr. L. faniliaritas. See
+   {Familiar}.]
+   1. The state of being familiar; intimate and frequent
+      converse, or association; unconstrained intercourse;
+      freedom from ceremony and constraint; intimacy; as, to
+      live in remarkable familiarity.
+      [1913 Webster]
+
+   2. Anything said or done by one person to another
+      unceremoniously and without constraint; esp., in the pl.,
+      such actions and words as propriety and courtesy do not
+      warrant; liberties.
+
+   Syn: Acquaintance; fellowship; affability; intimacy. See
+        {Acquaintance}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>familiarity</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>familiarity
+     n 1: personal knowledge or information about someone or something
+          [syn: {acquaintance}, {conversance}, {conversancy}]
+     2: usualness by virtue of being familiar or well known [ant: {unfamiliarity}]
+     3: close or warm friendship; "the absence of fences created a
+        mysterious intimacy in which no one knew privacy" [syn: {intimacy},
+         {closeness}]
+     4: a casual manner [syn: {casualness}]
+     5: an act of undue intimacy [syn: {impropriety}, {indecorum}, {liberty}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

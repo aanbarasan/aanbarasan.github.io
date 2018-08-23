@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>employee</Word>
+  <Definitions>
+    <Definition>
+      <Word>employee</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Employee \Em`ploy*ee"\, n. [The Eng. form of employ['e].]
+   One employed by another.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>employee</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>employee
+     n : a worker who is hired to perform a job [ant: {employer}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

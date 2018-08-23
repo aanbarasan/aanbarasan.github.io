@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>distal</Word>
+  <Definitions>
+    <Definition>
+      <Word>distal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Distal \Dis"tal\, a. [From {Distant}.] (Physiol.)
+   (a) Remote from the point of attachment or origin; as, the
+       distal end of a bone or muscle; -- opposed to {proximal}.
+   (b) Pertaining to that which is distal; as, the distal
+       tuberosities of a bone.
+       [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>distal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>distal
+     adj 1: situated farthest from point of attachment or origin, as of
+            a limb or bone [ant: {proximal}]
+     2: directed away from the midline or mesial plane of the body
+        [ant: {mesial}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

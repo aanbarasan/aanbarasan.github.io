@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>disadvantage</Word>
+  <Definitions>
+    <Definition>
+      <Word>disadvantage</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Disadvantage \Dis`ad*van"tage\ (?; 48, 61), n. [Cf. F.
+   d['e]savantage.]
+   1. Deprivation of advantage; unfavorable or prejudicial
+      quality, condition, circumstance, or the like; that which
+      hinders success, or causes loss or injury.
+      [1913 Webster]
+
+            I was brought here under the disadvantage of being
+            unknown by sight to any of you.       --Burke.
+      [1913 Webster]
+
+            Abandoned by their great patron, the faction
+            henceforward acted at disadvantage.   --Palfrey.
+      [1913 Webster]
+
+   2. Loss; detriment; hindrance; prejudice to interest, fame,
+      credit, profit, or other good.
+      [1913 Webster]
+
+            They would throw a construction on his conduct, to
+            his disadvantage before the public.   --Bancroft.
+
+   Syn: Detriment; injury; hurt; loss; damage.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>disadvantage</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Disadvantage \Dis`ad*van"tage\, v. t. [Cf. F. d['e]savantager.]
+   To injure the interest of; to be detrimental to.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>disadvantage</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>disadvantage
+     n : the quality of having an inferior or less favorable position
+         [ant: {advantage}]
+     v : put at a disadvantage; hinder, harm; "This rule clearly
+         disadvantages me" [syn: {disfavor}, {disfavour}] [ant: {advantage}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

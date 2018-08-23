@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>flashback</Word>
+  <Definitions>
+    <Definition>
+      <Word>flashback</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>flashback \flashback\ n.
+   1. a transition (in literary or theatrical works or films) to
+      an earlier event or scene; also, the scene thus
+      introduced.
+      [WordNet 1.5]
+
+   2. An unusually vivid recollection of a prior experience,
+      often one that is traumatic, such as scenes from combat or
+      a criminal assault, or induced by hallucinogenic drugs
+      such as LSD; when accompanied by hallucinations it is
+      called flashback hallucinosis.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flashback</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>flash back
+     v : return in time; "the film cut back to an earlier event in
+         the story" [syn: {cut back}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flashback</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>flashback
+     n 1: a transition (in literary or theatrical works or films) to
+          an earlier event or scene that interrupts the normal
+          chronological development of the story [ant: {flash-forward}]
+     2: an unexpected but vivid recurrence of a past experience
+        (especially a recurrence of the effects of an
+        hallucinogenic drug taken much earlier)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

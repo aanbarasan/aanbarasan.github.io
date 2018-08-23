@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>incest</Word>
+  <Definitions>
+    <Definition>
+      <Word>incest</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Incest \In"cest\, n. [F. inceste, L. incestum unchastity,
+   incest, fr. incestus unchaste; pref. in- not + castus chaste.
+   See {Chaste}.]
+   The crime of cohabitation or sexual intercourse between
+   persons related within the degrees wherein marriage is
+   prohibited by law; broadly, sexual relations between closely
+   related persons, usually taken as first cousins or closer.
+   --Shak.
+   [1913 Webster +PJC]
+
+   {Spiritual incest}. (Eccl. Law)
+   (a) The crime of cohabitation committed between persons who
+       have a spiritual alliance by means of baptism or
+       confirmation.
+   (b) The act of a vicar, or other beneficiary, who holds two
+       benefices, the one depending on the collation of the
+       other.
+       [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>incest</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>incest
+     n : sexual intercourse between persons too closely related to
+         marry (as between a parent and a child)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>faulty</Word>
+  <Definitions>
+    <Definition>
+      <Word>faulty</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Faulty \Fault"y\, a.
+   1. Containing faults, blemishes, or defects; imperfect; not
+      fit for the use intended.
+      [1913 Webster]
+
+            Created once
+            So goodly and erect, though faulty since. --Milton.
+      [1913 Webster]
+
+   2. Guilty of a fault, or of faults; hence, blamable; worthy
+      of censure. --Shak.
+      [1913 Webster]
+
+            The king doth speak . . . as one which is faulty.
+                                                  --2 Sam. xiv.
+                                                  13.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>faulty</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>faulty adj. Non-functional; buggy. Same denotation as {bletcherous},
+   {losing}, q.v., but the connotation is much milder.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>faulty</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>faulty
+     adj 1: characterized by errors; "he submitted a faulty report"
+     2: having a defect; "I returned the appliance because it was
+        defective" [syn: {defective}]
+     [also: {faultiest}, {faultier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

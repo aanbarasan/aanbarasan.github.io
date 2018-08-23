@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>gif</Word>
+  <Definitions>
+    <Definition>
+      <Word>gif</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>GIF
+     
+        {Graphics Interchange Format}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gif</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gif \Gif\, conj. [AS. See {If}.]
+   If. [Obs.]
+   [1913 Webster]
+
+   Note: Gif is the old form of if, and frequently occurs in the
+         earlier English writers. See {If}.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gif</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>GIF \GIF\, n. [Acronym from Graphics Interchange Format.]
+   (Computers)
+   1. The Graphics Interchange Format, one of the most popular
+      standardized formats for storing graphic data in binary
+      computer files. The standard has been revised several
+      times, and includes provisions for interlacing and
+      animating images. Its disadvantage is that it can store
+      only 256 colors. Compare {JPEG}.
+      [PJC]
+
+   2. (Computers) An image stored in GIF[1] format, or the file
+      in which the image is stored; as, he sent three GIF's with
+      lovely pictures of his children.
+      [PJC]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

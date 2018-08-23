@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>douche</Word>
+  <Definitions>
+    <Definition>
+      <Word>douche</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Douche \Douche\, n. [F., fr. It. doccia, fr. docciare to flow,
+   pour, fr. an assumed LL. ductiare, fr. L. ducere, ductum, to
+   lead, conduct (water). See {Duct}.]
+   1. A jet or current of water or vapor directed upon some part
+      of the body to benefit it medicinally; a douche bath.
+      [1913 Webster]
+
+   2. (Med.) A syringe.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>douche</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>douche
+     n 1: a small syringe with detachable nozzles; used for vaginal
+          lavage and enemas [syn: {douche bag}]
+     2: irrigation with a jet of water or medicated solution into or
+        around a body part (especially the vagina) to treat
+        infections or cleanse from odorous contents
+     v : direct a spray of water into a bodily cavity, for cleaning
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

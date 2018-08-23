@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fiftysix</Word>
+  <Definitions>
+    <Definition>
+      <Word>fiftysix</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Fifty Six, AR
+  Zip code(s): 72533
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fiftysix</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Fifty-Six, AR (city, FIPS 23680)
+  Location: 35.96040 N, 92.22992 W
+  Population (1990): 156 (76 housing units)
+  Area: 5.3 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fiftysix</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fifty-six
+     adj : being six more than fifty [syn: {56}, {lvi}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>disrespectful</Word>
+  <Definitions>
+    <Definition>
+      <Word>disrespectful</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Disrespectful \Dis`re*spect"ful\, a.
+   Wanting in respect; manifesting disesteem or lack of respect;
+   uncivil; as, disrespectful behavior. --
+   {Dis`re*spect"ful*ly}, adv. -- {Dis`re*spect"ful*ness}, n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>disrespectful</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>disrespectful
+     adj 1: exhibiting lack of respect; rude and discourteous; "remarks
+            disrespectful of the law"; "disrespectful in the
+            presence of his parents"; "disrespectful toward his
+            teacher" [ant: {respectful}]
+     2: neither feeling nor showing respect [syn: {aweless}, {awless}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

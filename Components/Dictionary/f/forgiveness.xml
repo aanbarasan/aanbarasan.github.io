@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>forgiveness</Word>
+  <Definitions>
+    <Definition>
+      <Word>forgiveness</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Forgiveness \For*give"ness\, n. [AS. forgifnes.]
+   1. The act of forgiving; the state of being forgiven; as, the
+      forgiveness of sin or of injuries.
+      [1913 Webster]
+
+            To the Lord our God belong mercies and
+            forgivenesses.                        --Dan. ix. 9.
+      [1913 Webster]
+
+            In whom we have . . . the forgiveness of sin. --Eph.
+                                                  i. 7.
+      [1913 Webster]
+
+   2. Disposition to pardon; willingness to forgive.
+      [1913 Webster]
+
+            If thou, Lord, shouldest mark iniquities, O Lord,
+            who shall stand? But there is forgiveness with thee,
+            that thou mayest be feared.           --Ps. cxxx. 3,
+                                                  4.
+
+   Syn: Pardon, remission.
+
+   Usage: {Forgiveness}, {Pardon}. Forgiveness is Anglo-Saxon,
+          and pardon Norman French, both implying a giving back.
+          The word pardon, being early used in our Bible, has,
+          in religious matters, the same sense as forgiveness;
+          but in the language of common life there is a
+          difference between them, such as we often find between
+          corresponding Anglo-Saxon and Norman words. Forgive
+          points to inward feeling, and suppose alienated
+          affection; when we ask forgiveness, we primarily seek
+          the removal of anger. Pardon looks more to outward
+          things or consequences, and is often applied to
+          trifling matters, as when we beg pardon for
+          interrupting a man, or for jostling him in a crowd.
+          The civil magistrate also grants a pardon, and not
+          forgiveness. The two words are, therefore, very
+          clearly distinguished from each other in most cases
+          which relate to the common concerns of life.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>forgiveness</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>forgiveness
+     n 1: compassionate feelings that support a willingness to forgive
+     2: the act of excusing a mistake or offense [syn: {pardon}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

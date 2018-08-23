@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>deployment</Word>
+  <Definitions>
+    <Definition>
+      <Word>deployment</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Deploy \De*ploy"\, Deployment \De*ploy"ment\, n. (Mil.)
+   The act of deploying; a spreading out of a body of men in
+   order to extend their front. --Wilhelm.
+   [1913 Webster]
+
+         Deployments . . . which cause the soldier to turn his
+         back to the enemy are not suited to war. --H. L. Scott.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>deployment</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>deployment \deployment\ n.
+   the arrangement or distribution (of resources such as people
+   or equipment), in preparation for battle or work.
+   [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>deployment</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>deployment
+     n : the distribution of forces in preparation for battle or work
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

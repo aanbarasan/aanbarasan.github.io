@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>discretion</Word>
+  <Definitions>
+    <Definition>
+      <Word>discretion</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Discretion \Dis*cre"tion\, n. [F. discr['e]tion, L. discretio
+   separation, difference, discernment, fr. discernere,
+   discretum. See {Discreet}, {Discern}.]
+   1. Disjunction; separation. [Obs.] --Mede.
+      [1913 Webster]
+
+   2. The quality of being discreet; wise conduct and
+      management; cautious discernment, especially as to matters
+      of propriety and self-control; prudence; circumspection;
+      wariness.
+      [1913 Webster]
+
+            The better part of valor is discretion. --Shak.
+      [1913 Webster]
+
+            The greatest parts without discretion may be fatal
+            to their owner.                       --Hume.
+      [1913 Webster]
+
+   3. Discrimination.
+      [1913 Webster]
+
+            Well spoken, with good accent and good discretion.
+                                                  --Shak.
+      [1913 Webster]
+
+   4. Freedom to act according to one's own judgment;
+      unrestrained exercise of choice or will.
+      [1913 Webster]
+
+   {At discretion}, without conditions or stipulations.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>discretion</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>discretion
+     n 1: freedom to act or judge on one's own
+     2: knowing how to avoid embarrassment or distress; "the
+        servants showed great tact and discretion" [syn: {discreetness},
+         {circumspection}, {prudence}]
+     3: refined taste; tact [syn: {delicacy}]
+     4: the power of making free choices unconstrained by external
+        agencies [syn: {free will}]
+     5: the trait of judging wisely and objectively; "a man of
+        discernment" [syn: {discernment}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

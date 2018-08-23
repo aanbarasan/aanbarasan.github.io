@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>handball</Word>
+  <Definitions>
+    <Definition>
+      <Word>handball</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Handball \Hand"ball`\ (h[a^]nd"b[add]l`), n.
+   1. A small ball, usually made of rubber, thrown or struck
+      with the hand in various games.
+      [Webster 1913 Suppl.]
+
+   2. A game played with such a ball, as by players striking it
+      to and fro between them with the hands, or, when played in
+      a walled court or against a single wall, striking it in
+      turns against a wall, until one side or the other fails to
+      return the ball.
+      [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>handball</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>handball
+     n 1: a small rubber ball used in the game of handball
+     2: a game played in a walled court or against a single wall by
+        two or four players who strike a rubber ball with their
+        hands
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>donating</Word>
+  <Definitions>
+    <Definition>
+      <Word>donating</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Donate \Do"nate\ (d[=o]"n[=a]t), v. t. [imp. &amp; p. p. {Donated};
+   p. pr. &amp; vb. n. {Donating}.] [L. donatus, p. p. of donare to
+   donate, fr. donum gift, fr. dare to give. See 2d {Date}.]
+   To give; to bestow; to present; as, to donate fifty thousand
+   dollars to a college.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

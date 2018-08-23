@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dives</Word>
+  <Definitions>
+    <Definition>
+      <Word>dives</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dives \Di"ves\, n. [L., rich.]
+   The name popularly given to the rich man in our Lord's
+   parable of the ``Rich Man and Lazarus'' (--Luke xvi. 19-31).
+   Hence, a name for a rich worldling.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

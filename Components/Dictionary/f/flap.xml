@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>flap</Word>
+  <Definitions>
+    <Definition>
+      <Word>flap</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>FLAP
+     
+        A {symbolic mathematics} package for {IBM 360}.
+     
+        ["FLAP Programmer's Manual", A.H. Morris Jr., TR-2558 (1971)
+        US Naval Weapons Lab].
+     
+        [Sammet 1969, p. 506].
+     
+        [{Jargon File}]
+     
+        (1994-10-17)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flap</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>flap
+     
+        1. &lt;storage, jargon&gt; To unload a {DECtape} (so it goes flap,
+        flap, flap).  Old-time {hackers} at {MIT} tell of the days
+        when the disk was device 0 and {microtapes} were 1, 2,
+        etc. and attempting to flap device 0 would instead start a
+        motor banging inside a cabinet near the disk.
+     
+        The term is used, by extension, for unloading any magnetic
+        tape.  See also {macrotape}.  Modern {cartridge tapes} no
+        longer actually flap, but the usage has remained.
+     
+        The term could well be re-applied to {DEC}'s {TK50} cartridge
+        tape drive, a spectacularly misengineered contraption which
+        makes a loud flapping sound, almost like an old reel-type
+        lawnmower, in one of its many tape-eating failure modes.
+     
+        2. &lt;networking&gt; See {flapping router}.
+     
+        [{Jargon File}]
+     
+        (1997-06-17)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flap</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Flap \Flap\, v. t. [imp. &amp; p. p. {Flapped}; p. pr. &amp; vb. n.
+   {Flapping}.] [Prob. of imitative origin; cf. D. flappen, E.
+   flap, n., flop, flippant, fillip.]
+   1. To beat with a flap; to strike.
+      [1913 Webster]
+
+            Yet let me flap this bug with gilded wings. --Pope.
+      [1913 Webster]
+
+   2. To move, as something broad and flaplike; as, to flap the
+      wings; to let fall, as the brim of a hat.
+      [1913 Webster]
+
+   {To flap in the mouth}, to taunt. [Obs.] --W. Cartwright.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flap</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Flap \Flap\, n. [OE. flappe, flap, blow, bly-flap; cf. D. flap,
+   and E. flap, v.]
+   Anything broad and limber that hangs loose, or that is
+   attached by one side or end and is easily moved; as, the flap
+   of a garment.
+   [1913 Webster]
+
+         A cartilaginous flap upon the opening of the larynx.
+                                                  --Sir T.
+                                                  Browne.
+   [1913 Webster]
+
+   2. A hinged leaf, as of a table or shutter.
+      [1913 Webster]
+
+   3. The motion of anything broad and loose, or a stroke or
+      sound made with it; as, the flap of a sail or of a wing.
+      [1913 Webster]
+
+   4. pl. (Far.) A disease in the lips of horses.
+      [1913 Webster]
+
+   5. (Aeronautics) a movable part of an airplane wing, used to
+      increase lift or drag, especially when taking off or
+      landing. used often in the plural.
+      [WordNet 1.5]
+
+   {Flap tile}, a tile with a bent up portion, to turn a corner
+      or catch a drip.
+
+   {Flap valve} (Mech.), a valve which opens and shuts upon one
+      hinged side; a clack valve.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flap</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Flap \Flap\, v. i.
+   1. To move as do wings, or as something broad or loose; to
+      fly with wings beating the air.
+      [1913 Webster]
+
+            The crows flapped over by twos and threes. --Lowell.
+      [1913 Webster]
+
+   2. To fall and hang like a flap, as the brim of a hat, or
+      other broad thing. --Gay.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flap</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>flap vt. 1. [obs.] To unload a DECtape (so it goes flap, flap,
+   flap...). Old-time hackers at MIT tell of the days when the disk was
+   device 0 and DEC microtapes were 1, 2,... and attempting to flap device
+   0 would instead start a motor banging inside a cabinet near the disk. 2.
+   By extension, to unload any magnetic tape. See also {macrotape}. Modern
+   cartridge tapes no longer actually flap, but the usage has remained.
+   (The term could well be re-applied to DEC's TK50 cartridge tape drive, a
+   spectacularly misengineered contraption which makes a loud flapping
+   sound, almost like an old reel-type lawnmower, in one of its many
+   tape-eating failure modes.)
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flap</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>flap
+     n 1: any broad thin and limber covering attached at one edge;
+          hangs loose or projects freely; "he wrote on the flap of
+          the envelope"
+     2: an excited state of agitation; "he was in a dither"; "there
+        was a terrible flap about the theft" [syn: {dither}, {pother},
+         {fuss}, {tizzy}]
+     3: the motion made by flapping up and down [syn: {flapping}, {flutter},
+         {fluttering}]
+     4: a movable piece of tissue partly connected to the body
+     5: a movable airfoil that is part of an aircraft wing; used to
+        increase lift or drag [syn: {flaps}]
+     v 1: move in a wavy pattern or with a rising and falling motion;
+          "The curtains undulated"; "the waves rolled towards the
+          beach" [syn: {roll}, {undulate}, {wave}]
+     2: move noisily; "flags flapped in the strong wind"
+     3: move with a thrashing motion; "The bird flapped its wings";
+        "The eagle beat its wings and soared high into the sky"
+        [syn: {beat}]
+     4: move with a flapping motion; "The bird's wings were
+        flapping" [syn: {beat}]
+     5: make a fuss; be agitated [syn: {dither}, {pother}]
+     6: pronounce with a flap, of alveolar sounds
+     [also: {flapping}, {flapped}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

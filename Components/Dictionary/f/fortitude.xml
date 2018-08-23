@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fortitude</Word>
+  <Definitions>
+    <Definition>
+      <Word>fortitude</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fortitude \For"ti*tude\, n. [L. fortitudo, fr. fortis strong.
+   See {Fort}.]
+   1. Power to resist attack; strength; firmness. [Obs.]
+      [1913 Webster]
+
+            The fortitude of the place is best known to you.
+                                                  --Shak.
+      [1913 Webster]
+
+   2. That strength or firmness of mind which enables a person
+      to encounter danger with coolness and courage, or to bear
+      pain or adversity without murmuring, depression, or
+      despondency; passive courage; resolute endurance; firmness
+      in confronting or bearing up against danger or enduring
+      trouble.
+      [1913 Webster]
+
+            Extolling patience as the truest fortitude.
+                                                  --Milton.
+      [1913 Webster]
+
+            Fortitude is the guard and support of the other
+            virtues.                              --Locke.
+
+   Syn: Courage; resolution; resoluteness; endurance; bravery.
+        See {Courage}, and {Heroism}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fortitude</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fortitude
+     n : strength of mind that enables one to endure adversity with
+         courage
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

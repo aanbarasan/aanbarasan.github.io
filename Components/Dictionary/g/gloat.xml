@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>gloat</Word>
+  <Definitions>
+    <Definition>
+      <Word>gloat</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gloat \Gloat\, v. i. [imp. &amp; p. p. {Gloated}; p. pr. &amp; vb. n.
+   {Gloating}.] [Akin to Icel. glotta to smile scornfully, G.
+   glotzen to gloat.]
+   To look steadfastly; to gaze earnestly; to gaze with
+   passionate desire, lust, or avarice.
+   [1913 Webster]
+
+   2. To gaze with malignant satisfaction; to exult maliciously,
+      sometimes also triumphantly, in another's loss or
+      discomfort; -- usually in a bad sense.
+      [1913 Webster]
+
+            In vengeance gloating on another's pain. --Byron.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gloat</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>gloat
+     n : malicious satisfaction [syn: {gloating}, {glee}]
+     v 1: dwell on with satisfaction [syn: {triumph}, {crow}]
+     2: gaze at or think about something with great
+        self-satisfaction, gratification, or joy
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

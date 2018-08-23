@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>creator</Word>
+  <Definitions>
+    <Definition>
+      <Word>creator</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Creator \Cre*a"tor\ (kr[-e]*[=a]"t[~e]r), n. [L. creator: cf. F.
+   cr['e]ateur.]
+   One who creates, produces, or constitutes. Specifically, the
+   Supreme Being.
+   [1913 Webster]
+
+         To sin's rebuke and my Creater's praise. --Shak.
+   [1913 Webster]
+
+         The poets and artists of Greece, who are at the same
+         time its prophets, the creators of its divinities, and
+         the revealers of its theological beliefs. --Caird.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>creator</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Creator
+     n 1: terms referring to the Judeo-Christian God [syn: {Godhead},
+          {Lord}, {Maker}, {Divine}, {God Almighty}, {Almighty}, {Jehovah}]
+     2: a person who grows or makes or invents things
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

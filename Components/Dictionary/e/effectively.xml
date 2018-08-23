@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>effectively</Word>
+  <Definitions>
+    <Definition>
+      <Word>effectively</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Effectively \Ef*fect"ive*ly\, adv.
+   With effect; powerfully; completely; thoroughly.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>effectively</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>effectively
+     adv 1: in an effective manner; "these are real problems that can be
+            dealt with most effectively by rational discussion"
+            [syn: {efficaciously}] [ant: {inefficaciously}, {inefficaciously}]
+     2: in actuality or reality or fact; "she is effectively his
+        wife"; "in effect, they had no choice" [syn: {in effect}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

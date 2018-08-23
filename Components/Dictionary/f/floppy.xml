@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>floppy</Word>
+  <Definitions>
+    <Definition>
+      <Word>floppy</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Floppy
+     
+        &lt;programming, tool&gt; A {Fortran} coding convention checker.
+        A later version can generate {HTML}.
+     
+        See also {Flow}.
+     
+        ffccc posted to comp.sources.misc volume 12.
+     
+        (1996-08-23)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>floppy</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>floppy
+     
+        {floppy disk}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>floppy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Floppy \Flop"py\, n.
+   Having a tendency to flop or flap; as, a floppy hat brim.
+   --G. Eliot.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>floppy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>floppy
+     adj : hanging limply; "a spaniel with floppy ears"
+     n : a small plastic magnetic disk enclosed in a stiff envelope
+         with a radial slit; used to store data or programs for a
+         microcomputer; "floppy disks are noted for their
+         relatively slow speed and small capacity and low price"
+         [syn: {diskette}, {floppy disk}]
+     [also: {floppiest}, {floppier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

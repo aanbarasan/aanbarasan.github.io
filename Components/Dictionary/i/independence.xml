@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>independence</Word>
+  <Definitions>
+    <Definition>
+      <Word>independence</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Independence, CA
+  Zip code(s): 93526
+Independence, IA (city, FIPS 38100)
+  Location: 42.46805 N, 91.89099 W
+  Population (1990): 5972 (2480 housing units)
+  Area: 8.7 sq km (land), 0.3 sq km (water)
+  Zip code(s): 50644
+Independence, KS (city, FIPS 33875)
+  Location: 37.23152 N, 95.71385 W
+  Population (1990): 9942 (4735 housing units)
+  Area: 11.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 67301
+Independence, KY (city, FIPS 39142)
+  Location: 38.95442 N, 84.54735 W
+  Population (1990): 10444 (3686 housing units)
+  Area: 42.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 41051
+Independence, LA (town, FIPS 37025)
+  Location: 30.63547 N, 90.50506 W
+  Population (1990): 1632 (700 housing units)
+  Area: 5.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 70443
+Independence, MI
+  Zip code(s): 48346, 48348
+Independence, MN (city, FIPS 30842)
+  Location: 45.02205 N, 93.70519 W
+  Population (1990): 2822 (971 housing units)
+  Area: 84.4 sq km (land), 5.2 sq km (water)
+Independence, MO (city, FIPS 35000)
+  Location: 39.08934 N, 94.35341 W
+  Population (1990): 112301 (48262 housing units)
+  Area: 202.5 sq km (land), 0.3 sq km (water)
+  Zip code(s): 64050, 64052, 64053, 64055, 64056, 64057, 64058
+Independence, OH (city, FIPS 37240)
+  Location: 41.38032 N, 81.64151 W
+  Population (1990): 6500 (2424 housing units)
+  Area: 24.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 44131
+Independence, OR (city, FIPS 36150)
+  Location: 44.85534 N, 123.19249 W
+  Population (1990): 4425 (1539 housing units)
+  Area: 5.5 sq km (land), 0.2 sq km (water)
+  Zip code(s): 97351
+Independence, VA (town, FIPS 39528)
+  Location: 36.62284 N, 81.15101 W
+  Population (1990): 988 (495 housing units)
+  Area: 6.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 24348
+Independence, WI (city, FIPS 36800)
+  Location: 44.36216 N, 91.41931 W
+  Population (1990): 1041 (463 housing units)
+  Area: 2.6 sq km (land), 0.1 sq km (water)
+  Zip code(s): 54747
+Independence, WV
+  Zip code(s): 26374
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>independence</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Independence \In`de*pend"ence\, n. [Cf. F. ind['e]pendance.]
+   [1913 Webster]
+   1. The state or quality of being independent; freedom from
+      dependence; exemption from reliance on, or control by,
+      others; self-subsistence or maintenance; direction of
+      one's own affairs without interference.
+      [1913 Webster]
+
+            Let fortune do her worst, . . . as long as she never
+            makes us lose our honesty and our independence.
+                                                  --Pope.
+      [1913 Webster]
+
+   2. Sufficient means for a comfortable livelihood.
+      [1913 Webster]
+
+   {Declaration of Independence} (Amer. Hist.), the declaration
+      of the Congress of the Thirteen United States of America,
+      on the 4th of July, 1776, by which they formally declared
+      that these colonies were free and independent States, not
+      subject to the government of Great Britain.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>independence</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>independence
+     n 1: freedom from control or influence of another or others [syn:
+           {independency}]
+     2: the successful ending of the American Revolution; "they
+        maintained close relations with England even after
+        independence"
+     3: a city in western Missouri; the beginning of the Santa Fe
+        Trail
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

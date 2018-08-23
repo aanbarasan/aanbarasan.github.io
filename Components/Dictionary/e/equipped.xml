@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>equipped</Word>
+  <Definitions>
+    <Definition>
+      <Word>equipped</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Equip \E*quip"\, v. t. [imp. &amp; p. p. {Equipped}; p. pr. &amp; vb. n.
+   {Equipping}.] [F. ['e]quiper to supply, fit out, orig. said
+   of a ship, OF. esquiper to embark; of German origin; cf. OHG.
+   scif, G. schiff, Icel. skip, AS. scip. See {Ship}.]
+   1. To furnish for service, or against a need or exigency; to
+      fit out; to supply with whatever is necessary to efficient
+      action in any way; to provide with arms or an armament,
+      stores, munitions, rigging, etc.; -- said esp. of ships
+      and of troops. --Dryden.
+      [1913 Webster]
+
+            Gave orders for equipping a considerable fleet.
+                                                  --Ludlow.
+      [1913 Webster]
+
+   2. To dress up; to array; accouter.
+      [1913 Webster]
+
+            The country are led astray in following the town,
+            and equipped in a ridiculous habit, when they fancy
+            themselves in the height of the mode. --Addison.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>equipped</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>equip
+     v 1: provide with (something) usually for a specific purpose;
+          "The expedition was equipped with proper clothing, food,
+          and other necessities" [syn: {fit}, {fit out}, {outfit}]
+     2: provide with abilities or understanding; "She was never
+        equipped to be a dancer"
+     [also: {equipping}, {equipped}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>equipped</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>equipped
+     adj 1: provided or fitted out with what is necessary or useful or
+            appropriate; "a well equipped playground"; "a ship
+            equipped with every mechanical aid to navigation"
+            [syn: {equipt}] [ant: {unequipped}]
+     2: provided with whatever is necessary for a purpose (as
+        furniture or equipment or authority); "a furnished
+        apartment"; "a completely furnished toolbox" [syn: {furnished}]
+        [ant: {unfurnished}]
+     3: furnished with all equipment needed for voyaging [syn: {fitted
+        out(p)}]
+     4: prepared with proper equipment; "equipped for service in the
+        Arctic" [syn: {fitted out(p)}]
+     5: carrying weapons [syn: {weaponed}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>equipped</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>equipped
+     See {equip}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

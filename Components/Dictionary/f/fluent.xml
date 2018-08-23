@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fluent</Word>
+  <Definitions>
+    <Definition>
+      <Word>fluent</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fluent \Flu"ent\, n.
+   1. A current of water; a stream. [Obs.]
+      [1913 Webster]
+
+   2. [Cf. F. fluente.] (Math.) A variable quantity, considered
+      as increasing or diminishing; -- called, in the modern
+      calculus, the {function} or {integral}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fluent</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fluent \Flu"ent\, a. [L. fluens, -entis, p. pr. of fluere to
+   flow; cf. Gr. ? to boil over. Cf. {Fluctuate}, {Flux}.]
+   1. Flowing or capable of flowing; liquid; glodding; easily
+      moving.
+      [1913 Webster]
+
+   2. Ready in the use of words; voluble; copious; having words
+      at command; and uttering them with facility and
+      smoothness; as, a fluent speaker; hence, flowing; voluble;
+      smooth; -- said of language; as, fluent speech.
+      [1913 Webster]
+
+            With most fluent utterance.           --Denham.
+      [1913 Webster]
+
+            Fluent as the flight of a swallow is the sultan's
+            letter.                               --De Quincey.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fluent</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fluent
+     adj 1: easy and graceful in shape; "a yacht with long, fluent
+            curves"
+     2: smooth and unconstrained in movement; "a long, smooth
+        stride"; "the fluid motion of a cat"; "the liquid grace of
+        a ballerina"; "liquid prose" [syn: {flowing}, {fluid}, {liquid},
+         {smooth}]
+     3: expressing yourself readily, clearly, effectively; "able to
+        dazzle with his facile tongue"; "silver speech" [syn: {eloquent},
+         {facile}, {silver}, {silver-tongued}, {smooth-spoken}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

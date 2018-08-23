@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fred</Word>
+  <Definitions>
+    <Definition>
+      <Word>fred</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>FRED
+     
+        Robert Carr.  Language used by Framework, Ashton-Tate.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fred</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>fred
+     
+        1. The personal name most frequently used as a {metasyntactic
+        variable} (see {foo}).  Allegedly popular because it's easy
+        for a non-touch-typist to type on a standard QWERTY keyboard.
+        Unlike {J. Random Hacker} or "J. Random Loser", this name has
+        no positive or negative loading (but see {Mbogo, Dr. Fred}).
+        See also {barney}.
+     
+        2. An acronym for "Flipping Ridiculous Electronic Device";
+        other F-verbs may be substituted for "flipping".
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fred</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Fred, TX
+  Zip code(s): 77616
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fred</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fred \Fred\ (fr[e^]d), n. [AS. fri[eth] peace. See {Frith}
+   inclosure.]
+   Peace; -- a word used in composition, especially in proper
+   names; as, Alfred; Frederic.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fred</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>fred n. 1. The personal name most frequently used as a {metasyntactic
+   variable} (see {foo}). Allegedly popular because it's easy for a
+   non-touch-typist to type on a standard QWERTY keyboard. In Great
+   Britain, `fred', `jim' and `sheila' are common metasyntactic variables
+   because their uppercase versions were _official_ names given to the 3
+   memory areas that held I/O status registers on the lovingly-remembered
+   BBC Microcomputer! (It is reported that SHEILA was poked the most
+   often.) Unlike {J. Random Hacker} or `J. Random Loser', the name `fred'
+   has no positive or negative loading (but see {Dr. Fred Mbogo}). See also
+   {barney}. 2. An acronym for `Flipping Ridiculous Electronic Device';
+   other F-verbs may be substituted for `flipping'.
+
+
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

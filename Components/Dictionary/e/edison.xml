@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>edison</Word>
+  <Definitions>
+    <Definition>
+      <Word>edison</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Edison
+     
+        1. (Named after the American inventor Thomas Edison
+        (1847-1931))
+     
+        A simplified Pascal by Per Brinch Hansen with {modules} and
+        {concurrency} (cobegin/coend).
+     
+        ["Edison - A Multiprocessor Language", P. Brinch Hansen, CS
+        Dept, USC, Sep 1980].
+     
+        ["Programming a Personal Computer", Brinch Hansen, P-H 1977].
+     
+        2. A language which adds an {OPS5}-like {rete}-based
+        {production system} system to {C}.  It is implemented as a {C}
+        {preprocessor}.
+     
+        ["Edison, A Unix and C Friendly Rete Based Production System",
+        B. Thirion, SIGPLAN Notices 27(1):75-84 (Jan 1992)].
+     
+        (1994-12-08)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>edison</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Edison, GA (city, FIPS 26448)
+  Location: 31.56072 N, 84.73807 W
+  Population (1990): 1182 (482 housing units)
+  Area: 6.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 31746
+Edison, NE (village, FIPS 14520)
+  Location: 40.27759 N, 99.77569 W
+  Population (1990): 148 (104 housing units)
+  Area: 0.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 68936
+Edison, NJ (CDP, FIPS 20260)
+  Location: 40.52877 N, 74.36929 W
+  Population (1990): 88680 (32832 housing units)
+  Area: 78.2 sq km (land), 1.3 sq km (water)
+  Zip code(s): 08817, 08820, 08837
+Edison, OH (village, FIPS 24598)
+  Location: 40.55806 N, 82.86355 W
+  Population (1990): 488 (163 housing units)
+  Area: 0.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 43320
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>edison</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Edison
+     n : United States inventor; inventions included the phonograph
+         and incandescent electric light and the microphone and
+         the Kinetoscope (1847-1931) [syn: {Thomas Edison}, {Thomas
+         Alva Edison}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>iceberg</Word>
+  <Definitions>
+    <Definition>
+      <Word>iceberg</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Iceberg \Ice"berg`\, n. [Prob. of Scand. origin; cf. Dan.
+   iisbierg, Sw. isberg, properly, a mountain of ice. See {Ice},
+   and {Berg}.]
+   A large mass of ice, generally floating in the ocean.
+   [1913 Webster]
+
+   Note: Icebergs are large detached portions of glaciers, which
+         in cold regions often project into the sea.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>iceberg</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>iceberg
+     n 1: a large mass of ice floating at sea; usually broken off of a
+          polar glacier [syn: {berg}]
+     2: lettuce with crisp tightly packed light-green leaves in a
+        firm head; "iceberg is still the most popular lettuce"
+        [syn: {crisphead lettuce}, {iceberg lettuce}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

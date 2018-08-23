@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>eyecontact</Word>
+  <Definitions>
+    <Definition>
+      <Word>eyecontact</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>eye contact
+     n 1: a meeting of the eyes between two people that expresses
+          meaningful nonverbal communication; "it was a mere
+          glance, but the eye contact was enough to tell her that
+          he was desperate to leave"
+     2: contact that occurs when two people look directly at each
+        other; "a teacher should make eye contact with the
+        students"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>darwin</Word>
+  <Definitions>
+    <Definition>
+      <Word>darwin</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Darwin
+     
+        1. &lt;operating system&gt; An {operating system} based on the
+        {FreeBSD} version of {Unix}, running on top of a {microkernel}
+        ({Mach} 3.0 with darwin 1.02) that offers advanced networking,
+        services such as the {Apache} {web server}, and support for
+        both {Macintosh} and Unix {file systems}.  Darwin was
+        originally released in March 1999.  It currently runs on
+        {PowerPC} based Macintosh computers, and, in October 2000, was
+        being ported to {Intel} processor-based computers and
+        compatible systems by the Darwin community.
+     
+        2. &lt;programming, tool&gt; A general purpose structuring tool of
+        use in building complex {distributed systems} from diverse
+        components and diverse component interaction mechanisms.
+        Darwin is being developed by the Distributed Software
+        Engineering Section of the Department of Computing at
+        {Imperial College}.  It is in essence a {declarative} binding
+        language which can be used to define hierarchic compositions
+        of interconnected components.  Distribution is dealt with
+        orthogonally to system structuring.  The language allows the
+        specification of both static structures and dynamic structures
+        which evolve during execution.  The central abstractions
+        managed by Darwin are components and services.  Bindings are
+        formed by manipulating references to services.
+     
+        The {operational semantics} of Darwin is described in terms of
+        the {Pi-calculus}, {Milner}'s calculus of mobile processes.
+        The correspondence between the treatment of names in the
+        Pi-calculus and the management of service references in Darwin
+        leads to an elegant and concise Pi-calculus model of Darwin's
+        {operational semantics}.  The model has proved useful in
+        arguing the correctness of Darwin implementations and in
+        designing extensions to Darwin and reasoning about their
+        behaviour.
+     
+        {Distributed Software Engineering Section
+        (http://www-dse.doc.ic.ac.uk/)}.  {Darwin publications
+        (http://scorch.doc.ic.ac.uk/dse-papers/darwin/)}.
+     
+        E-mail: Jeff Magee &lt;jnm@doc.ic.ac.uk&gt;, Naranker Dulay
+        &lt;nd@doc.ic.ac.uk&gt;.
+     
+        3. {Core War}.
+     
+        (2003-08-08)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>darwin</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Darwin, MN (city, FIPS 14842)
+  Location: 45.09701 N, 94.40406 W
+  Population (1990): 252 (124 housing units)
+  Area: 1.9 sq km (land), 0.2 sq km (water)
+  Zip code(s): 55324
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>darwin</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Darwin
+     n 1: English natural scientist who formulated a theory of
+          evolution by natural selection (1809-1882) [syn: {Charles
+          Darwin}, {Charles Robert Darwin}]
+     2: provincial capital of the Northern Territory of Australia
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

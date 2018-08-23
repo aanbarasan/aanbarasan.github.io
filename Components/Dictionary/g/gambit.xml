@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>gambit</Word>
+  <Definitions>
+    <Definition>
+      <Word>gambit</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Gambit
+     
+        &lt;language&gt; A variant of {Scheme} R3.99 supporting the {future}
+        construct of {Multilisp} by Marc Feeley
+        &lt;feeley@iro.umontreal.ca&gt;.  Implementation includes optimising
+        compilers for {Macintosh} (with Toolbox and built-in editor)
+        and {Motorola} {680x0} {Unix} systems and {HP300}, {BBN}
+        {GP100} and {NeXT}.  Version 2.0 conforms to the {IEEE}
+        {Scheme} standard.
+     
+        Gambit used {PVM} as its intermediate language.
+     
+        {(ftp://acorn.cs.brandeis.edu/dist)},
+        {(ftp://ftp.cso.uiuc.edu/pub/amiga/fish/f7/ff764/Gambit_Terp)}.
+        {(ftp://ftp.iro.umontreal.ca/pub/parallele/gambit/)}.
+     
+        Mailing list: gambit@trex.umontreal.ca.
+     
+        (1998-02-10)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gambit</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gambit \Gam"bit\, n. [F. gambit, cf. It. gambitto gambit, a
+   tripping up. See {Gambol}, n.] (Chess Playing)
+   A mode of opening the game, in which a pawn is sacrificed to
+   gain an attacking position.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gambit</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>gambit
+     n 1: an opening remark intended to secure an advantage for the
+          speaker [syn: {ploy}]
+     2: a maneuver in a game or conversation [syn: {ploy}, {stratagem}]
+     3: a chess move early in the game in which the player
+        sacrifices minor pieces in order to obtain an advantageous
+        position
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

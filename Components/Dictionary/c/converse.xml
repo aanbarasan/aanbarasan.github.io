@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>converse</Word>
+  <Definitions>
+    <Definition>
+      <Word>converse</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>converse
+     
+        &lt;logic&gt; The truth of a {proposition} of the form A =&gt; B and
+        its converse B =&gt; A are shown in the following truth table:
+     
+        	A   B | A =&gt; B   B =&gt; A
+        	------+----------------
+        	f   f |	  t	   t
+        	f   t |	  t	   f
+        	t   f |	  f	   t
+        	t   t |	  t	   t
+     
+        (2002-07-12)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>converse</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Converse, IN (town, FIPS 14986)
+  Location: 40.57994 N, 85.87791 W
+  Population (1990): 1144 (506 housing units)
+  Area: 2.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 46919
+Converse, LA (village, FIPS 17215)
+  Location: 31.78036 N, 93.69979 W
+  Population (1990): 436 (191 housing units)
+  Area: 5.5 sq km (land), 0.0 sq km (water)
+Converse, TX (city, FIPS 16468)
+  Location: 29.51375 N, 98.31185 W
+  Population (1990): 8887 (3035 housing units)
+  Area: 13.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 78109
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>converse</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Converse \Con*verse"\ (k[o^]n*v[~e]rs"), v. i. [imp. &amp; p. p.
+   {Conversed}; p. pr. &amp; vb. n. {Conversing}.] [F. converser, L.
+   conversari to associate with; con- + versari to be turned, to
+   live, remain, fr. versare to turn often, v. intens. of
+   vertere to turn See {Convert}.]
+   1. To keep company; to hold intimate intercourse; to commune;
+      -- followed by with.
+      [1913 Webster]
+
+            To seek the distant hills, and there converse
+            With nature.                          --Thomson.
+      [1913 Webster]
+
+            Conversing with the world, we use the world's
+            fashions.                             --Sir W.
+                                                  Scott.
+      [1913 Webster]
+
+            But to converse with heaven 
+            This is not easy.                     --Wordsworth.
+      [1913 Webster]
+
+   2. To engage in familiar colloquy; to interchange thoughts
+      and opinions in a free, informal manner; to chat; --
+      followed by with before a person; by on, about,
+      concerning, etc., before a thing.
+      [1913 Webster]
+
+            Companions
+            That do converse and waste the time together.
+                                                  --Shak.
+      [1913 Webster]
+
+            We had conversed so often on that subject. --Dryden.
+      [1913 Webster]
+
+   3. To have knowledge of, from long intercourse or study; --
+      said of things.
+      [1913 Webster]
+
+            According as the objects they converse with afford
+            greater or less variety.              --Locke.
+
+   Syn: To associate; commune; discourse; talk; chat.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>converse</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Converse \Con"verse\, n.
+   1. Frequent intercourse; familiar communion; intimate
+      association. --Glanvill.
+      [1913 Webster]
+
+            ``T is but to hold
+            Converse with Nature's charms, and view her stores
+            unrolled.                             --Byron.
+      [1913 Webster]
+
+   2. Familiar discourse; free interchange of thoughts or views;
+      conversation; chat.
+      [1913 Webster]
+
+            Formed by thy converse happily to steer
+            From grave to gay, from lively to severe. --Pope.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>converse</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Converse \Con"verse\, a. [L. conversus, p. p. of convertere. See
+   {Convert}.]
+   Turned about; reversed in order or relation; reciprocal; as,
+   a converse proposition.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>converse</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Converse \Con"verse\, n.
+   1. (Logic) A proposition which arises from interchanging the
+      terms of another, as by putting the predicate for the
+      subject, and the subject for the predicate; as, no virtue
+      is vice, no vice is virtue.
+      [1913 Webster]
+
+   Note: It should not (as is often done) be confounded with the
+         contrary or opposite of a proposition, which is formed
+         by introducing the negative not or no.
+         [1913 Webster]
+
+   2. (Math.) A proposition in which, after a conclusion from
+      something supposed has been drawn, the order is inverted,
+      making the conclusion the supposition or premises, what
+      was first supposed becoming now the conclusion or
+      inference. Thus, if two sides of a sides of a triangle are
+      equal, the angles opposite the sides are equal; and the
+      converse is true, i.e., if these angles are equal, the two
+      sides are equal.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>converse</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>converse
+     adj 1: of words so related that one reverses the relation denoted
+            by the other; "`parental' and `filial' are converse
+            terms"
+     2: turned about in order or relation; "transposed letters"
+        [syn: {reversed}, {transposed}]
+     n : a proposition obtained by conversion
+     v : carry on a conversation [syn: {discourse}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

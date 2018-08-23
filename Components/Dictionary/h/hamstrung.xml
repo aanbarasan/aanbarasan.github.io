@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hamstrung</Word>
+  <Definitions>
+    <Definition>
+      <Word>hamstrung</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hamstring \Ham"string`\, v. t. [imp. &amp; p. p. {Hamstrung}; p. pr.
+   &amp; vb. n. {Hamstringing}. See {String}.]
+   To lame or disable by cutting the tendons of the ham or knee;
+   to hough; hence, to cripple; to incapacitate; to disable.
+   [1913 Webster]
+
+         So have they hamstrung the valor of the subject by
+         seeking to effeminate us all at home.    --Milton.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hamstrung</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hamstrung
+     See {hamstring}
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hamstrung</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hamstring
+     n : one of the tendons at the back of the knee [syn: {hamstring
+         tendon}]
+     v 1: make ineffective or powerless; "The teachers were hamstrung
+          by the overly rigid schedules"
+     2: cripple by cutting the hamstring
+     [also: {hamstrung}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fiendishly</Word>
+  <Definitions>
+    <Definition>
+      <Word>fiendishly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fiendish \Fiend"ish\, a.
+   Like a fiend; diabolically wicked or cruel; infernal;
+   malignant; devilish; hellish. -- {Fiend"ish*ly}, adv. --
+   {Fiend"ish*ness}, n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fiendishly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fiendishly
+     adv : as a devil; in an evil manner; "his writing could be
+           diabolically satiric" [syn: {diabolically}, {devilishly}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

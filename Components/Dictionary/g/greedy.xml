@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>greedy</Word>
+  <Definitions>
+    <Definition>
+      <Word>greedy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Greedy \Greed"y\ (gr[=e]d"[y^]), a. [Compar. {Greedier}
+   (-[i^]*[~e]r); superl. {Greediest}.] [OE. gredi, AS.
+   gr[=ae]dig, gr[=e]dig; akin to D. gretig, OS. gr[=a]dag, OHG.
+   gr[=a]tag, Dan. graadig, OSw. gradig, gr[*a]dig, Icel.
+   gr[=a][eth]ugr, Goth. gr[=e]dags greedy, gr[=e]d[=e]n to be
+   hungry; cf. Skr. g[.r]dh to be greedy. Cf. {Greed.}]
+   1. Having a keen appetite for food or drink; ravenous;
+      voracious; very hungry; -- followed by of; as, a lion that
+      is greedy of his prey.
+      [1913 Webster]
+
+   2. Having a keen desire for anything; vehemently desirous;
+      eager to obtain; avaricious; as, {greedy} of gain.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>greedy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>greedy
+     adj 1: immoderately desirous of acquiring e.g. wealth; "they are
+            avaricious and will do anything for money"; "casting
+            covetous eyes on his neighbor's fields"; "a grasping
+            old miser"; "grasping commercialism"; "greedy for
+            money and power"; "grew richer and greedier";
+            "prehensile employers stingy with raises for their
+            employees" [syn: {avaricious}, {covetous}, {grabby}, {grasping},
+             {prehensile}]
+     2: (often followed by `for') ardently or excessively desirous;
+        "avid for adventure"; "an avid ambition to succeed";
+        "fierce devouring affection"; "the esurient eyes of an
+        avid curiosity"; "greedy for fame" [syn: {avid}, {devouring(a)},
+         {esurient}]
+     3: wanting to eat or drink more than one can reasonably
+        consume; "don't be greedy with the cookies"
+     [also: {greediest}, {greedier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

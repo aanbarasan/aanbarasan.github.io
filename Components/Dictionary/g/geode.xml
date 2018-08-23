@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>geode</Word>
+  <Definitions>
+    <Definition>
+      <Word>geode</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Geode \Ge"ode\ (j[=e]"[=o]d), n. [F. g['e]ode, L. geodes, fr.
+   Gr. ? earthlike; ge`a, gh^, the earth + e'i^dos form.] (Min.)
+      (a) A nodule of stone, containing a cavity, lined with
+          crystals or mineral matter.
+      (b) The cavity in such a nodule.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>geode</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>geode
+     n : (mineralogy) a hollow rock or nodule with the cavity usually
+         lined with crystals
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

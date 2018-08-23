@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fraternal</Word>
+  <Definitions>
+    <Definition>
+      <Word>fraternal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fraternal \Fra*ter"nal\, a.[F. fraternel, LL. fraternalis, fr.
+   L. fraternus, fr. frater brother. See {Brother}.]
+   Of, pertaining to, or involving, brethren; becoming to
+   brothers; brotherly; as, fraternal affection; a fraternal
+   embrace. -- {Fra*ter"nal*ly}, adv.
+   [1913 Webster]
+
+         An abhorred, a cursed, a fraternal war.  --Milton.
+   [1913 Webster]
+
+         Fraternal love and friendship.           --Addison.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fraternal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fraternal
+     adj 1: of or relating to a fraternity or society of usually men; "a
+            fraternal order"
+     2: (of twins) derived from two separate fertilized ova;
+        "fraternal twins are biovular" [syn: {biovular}] [ant: {identical}]
+     3: like or characteristic of or befitting a brother; "brotherly
+        feelings"; "close fraternal ties" [syn: {brotherly}, {brotherlike}]
+        [ant: {sisterly}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

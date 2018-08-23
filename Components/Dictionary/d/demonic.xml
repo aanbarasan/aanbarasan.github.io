@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>demonic</Word>
+  <Definitions>
+    <Definition>
+      <Word>demonic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Demonic \De*mo"nic\, a. [L. daemonicus, Gr. daimoniko`s.]
+   Of or pertaining to a demon or to demons; demoniac. ``Demonic
+   ambushes.'' --Lowell.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>demonic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>demonic
+     adj : extremely evil or cruel; expressive of cruelty or befitting
+           hell; "something demonic in him--something that could
+           be cruel"; "fires lit up a diabolic scene"; "diabolical
+           sorcerers under the influence of devils"; "a fiendish
+           despot"; "hellish torture"; "infernal instruments of
+           war"; "satanic cruelty"; "unholy grimaces" [syn: {diabolic},
+            {diabolical}, {fiendish}, {hellish}, {infernal}, {satanic},
+            {unholy}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

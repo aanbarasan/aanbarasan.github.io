@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>crossover</Word>
+  <Definitions>
+    <Definition>
+      <Word>crossover</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>crossover \crossover\ n.
+   1. (genetics) the interchange of sections between pairing
+      homologous chromosomes during the prophase of meiosis.
+
+   Syn: crossing over.
+        [WordNet 1.5]
+
+   2. a structure, such as a bridge, bearing a path for crossing
+      over a river or highway.
+      [PJC]
+
+   3. votes from members of one political party cast for
+      candidates of another party; -- called also {crossover
+      vote}; as, there was a high crossover in this election.
+      [PJC]
+
+   4. a member of one political party who votes for a candidate
+      of another party; -- called also {crossover voter}.
+      [PJC]
+
+   5. (Plumbing) a U-shaped section of pipe which serves to pass
+      one pipeline over another which is directly in its path.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>crossover</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>crossover
+     n 1: the interchange of sections between pairing homologous
+          chromosomes during the prophase of meiosis [syn: {crossing
+          over}]
+     2: a voter who is registered as a member of one political party
+        but who votes in the primary of another party [syn: {crossover
+        voter}]
+     3: the appropriation of a new style (especially in popular
+        music) by combining elements of different genres in order
+        to appeal to a wider audience; "a jazz-classical crossover
+        album"
+     4: a path (often marked) where something (as a street or
+        railroad) can be crossed to get from one side to the other
+        [syn: {crossing}, {crosswalk}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

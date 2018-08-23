@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dynamic</Word>
+  <Definitions>
+    <Definition>
+      <Word>dynamic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dynamic \Dy*nam"ic\, Dynamical \Dy*nam"ic*al\, a. [Gr. ?
+   powerful, fr. ? power, fr. ? to be able; cf. L. durus hard,
+   E. dure: cf. F. dynamique.]
+   1. Of or pertaining to dynamics; belonging to energy or
+      power; characterized by energy or production of force.
+      [1913 Webster]
+
+            Science, as well as history, has its past to show,
+            -- a past indeed, much larger; but its immensity is
+            dynamic, not divine.                  --J.
+                                                  Martineau.
+      [1913 Webster]
+
+            The vowel is produced by phonetic, not by dynamic,
+            causes.                               --J. Peile.
+      [1913 Webster]
+
+   2. Relating to physical forces, effects, or laws; as,
+      dynamical geology.
+      [1913 Webster]
+
+            As natural science has become more dynamic, so has
+            history.                              --Prof. Shedd.
+      [1913 Webster]
+
+   {Dynamical electricity}. See under {Electricity}.
+      [1913 Webster]
+
+   Note: WordNet lists a number of narrower terms for dynamic
+         and
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dynamic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dynamic
+     adj 1: characterized by action or forcefulness or force of
+            personality; "a dynamic market"; "a dynamic speaker";
+            "the dynamic president of the firm" [syn: {dynamical}]
+            [ant: {undynamic}]
+     2: of or relating to dynamics
+     3: expressing action rather than a state of being; used of
+        verbs (e.g. `to run') and participial adjectives (e.g.
+        `running' in `running water') [syn: {active}] [ant: {stative}]
+     n : an efficient incentive; "they hoped it would act as a
+         spiritual dynamic on all churches" [syn: {moral force}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>grilling</Word>
+  <Definitions>
+    <Definition>
+      <Word>grilling</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Grill \Grill\, v. t. [imp. &amp; p. p. {Grilled}; p. pr. &amp; vb. n.
+   {Grilling}.] [F. griller, fr. gril gridiron, OF. gra["i]l, L.
+   craticulum for craticula fine hurdlework, a small gridiron,
+   dim. of crates hurdle. See {Grate}, n.]
+   [1913 Webster]
+   1. To broil on a grill or gridiron.
+      [1913 Webster]
+
+            Boiling of men in caldrons, grilling them on
+            gridirons.                            --Marvell.
+
+   2. To torment, as if by broiling. --Dickens.
+      [1913 Webster]
+
+   3. To stamp or mark with a grill.
+      [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>grilling</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>grilling
+     n : cooking by direct exposure to radiant heat (as over a fire
+         or under a grill) [syn: {broil}, {broiling}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

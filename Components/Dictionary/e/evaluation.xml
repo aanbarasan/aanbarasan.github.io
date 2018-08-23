@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>evaluation</Word>
+  <Definitions>
+    <Definition>
+      <Word>evaluation</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>evaluation
+     
+        &lt;programming&gt; 1. Converting an expression into a value using
+        some {reduction strategy}.
+     
+        2. The process of examining a system or system component to
+        determine the extent to which specified properties are
+        present.
+     
+        (1996-05-13)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>evaluation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Evaluation \E*val`u*a"tion\, n. [Cf. F. ['e]valuation, LL.
+   evaluatio.]
+   Valuation; appraisement. --J. S. Mill.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>evaluation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>evaluation
+     n 1: act of ascertaining or fixing the value or worth of [syn: {rating}]
+     2: an appraisal of the value of something; "he set a high
+        valuation on friendship" [syn: {valuation}, {rating}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

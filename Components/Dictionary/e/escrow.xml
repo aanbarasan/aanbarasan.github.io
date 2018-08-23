@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>escrow</Word>
+  <Definitions>
+    <Definition>
+      <Word>escrow</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>escrow
+     
+        &lt;security&gt; An arrangement where something (generally money or
+        documents) is held in trust ("in escrow") by a trusted third
+        party until certain agreed conditions are met.  In computing
+        the term is used for {key escrow} and also for {source code
+        escrow}.
+     
+        (1999-12-14)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>escrow</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Escrow \Es"crow\, n. [OF. escroe, escroue, a roll of writings,
+   bond. See {Scroll}.] (Law)
+   A deed, bond, or other written engagement, delivered to a
+   third person, to be held by him till some act is done or some
+   condition is performed, and then to be by him delivered to
+   the grantee. --Blackstone.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>escrow</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>escrow
+     n : a written agreement (or property or money) delivered to a
+         third party or put in trust by one party to a contract to
+         be returned after fulfillment of some condition
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

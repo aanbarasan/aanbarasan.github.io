@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>forms</Word>
+  <Definitions>
+    <Definition>
+      <Word>forms</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>forms
+     
+        1. &lt;programming&gt; {fill-out form}.
+     
+        2. &lt;library&gt; (Xforms) A {GUI} component library for {X11}.
+     
+        (1998-03-24)
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

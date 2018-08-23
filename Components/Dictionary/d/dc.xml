@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dc</Word>
+  <Definitions>
+    <Definition>
+      <Word>dc</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>DC
+     
+        &lt;language, tool&gt; The {Unix} {arbitrary precision} {postfix}
+        calculator and its language.
+     
+        Here is an example program which prints out {factorial}s:
+     
+        	echo "[la1+dsa*pla2220&gt;y]sy0sa1lyx" | dc
+     
+        {Unix manual page}: dc(1).
+     
+        {bc} provides a somewhat more readable syntax which is
+        compiled into dc.  There is also a {GNU DC}.
+     
+        (1995-03-17)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dc</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>electric current \electric current\, electrical current
+\electrical current\,
+   the movement of electrically charged particles, atoms, or
+   ions, through solids, liquids, gases, or free space; the term
+   is usually used of relatively smooth movements of electric
+   charge through conductors, whether constant or variable.
+   Sudden movements of charge are usually referred to by other
+   terms, such as {spark} or {lightning} or {discharge}. In
+   metallic conductors the electric current is usually due to
+   movement of electrons through the metal. The current is
+   measured as the rate of movement of charge per unit time, and
+   is counted in units of amperes. As a formal definition, the
+   direction of movement of electric current is considered as
+   the same as the direction of movement of positive charge, or
+   in a direction opposite to the movement of negative charge.
+   Electric current may move constantly in a single direction,
+   called {direct current} (abbreviated {DC}), or may move
+   alternately in one direction and then the opposite direction,
+   called {alternating current} (abbreviated {AC}).
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dc</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>DC
+     Data Cartridge
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dc</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>DC
+     Device Context
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dc</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>DC
+     Dublin Core [meta data]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dc</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>DC
+     n 1: the district occupied entirely by the city of Washington;
+          chosen by George Washington as the site of the nation's
+          capital and carve out of land ceded by Maryland and
+          Virginia [syn: {District of Columbia}, {D.C.}]
+     2: an electric current that flows in one direction steadily
+        [syn: {direct current}] [ant: {alternating current}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dc</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>D.C.
+     n : the district occupied entirely by the city of Washington;
+         chosen by George Washington as the site of the nation's
+         capital and carve out of land ceded by Maryland and
+         Virginia [syn: {District of Columbia}, {DC}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

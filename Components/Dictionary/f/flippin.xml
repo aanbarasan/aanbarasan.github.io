@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>flippin</Word>
+  <Definitions>
+    <Definition>
+      <Word>flippin</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Flippin, AR (city, FIPS 24010)
+  Location: 36.27702 N, 92.59206 W
+  Population (1990): 1006 (509 housing units)
+  Area: 4.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 72634
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

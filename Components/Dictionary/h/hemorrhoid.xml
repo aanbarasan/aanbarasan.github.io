@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hemorrhoid</Word>
+  <Definitions>
+    <Definition>
+      <Word>hemorrhoid</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hemorrhoids \Hem"or*rhoids\, n. pl. [L. haemorrhoidae, pl., Gr.
+   ?, sing., ? (sc. ?), pl., veins liable to discharge blood,
+   hemorrhoids, fr. ? flowing with blood; a"i^ma blood + ? to
+   flow: cf. F. h['e]morro["i]des, h['e]morrho["i]des. See
+   {Rheum}.] (Med.)
+   Livid and painful swellings formed by the dilation of the
+   blood vessels around the margin of, or within, the anus, from
+   which blood or mucus is occasionally discharged; piles;
+   emerods.
+
+   Usage: [The sing. {hemorrhoid} is rarely used.]
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hemorrhoid</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hemorrhoid
+     n : pain caused by venous swelling at or inside the anal
+         sphincter [syn: {haemorrhoid}, {piles}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

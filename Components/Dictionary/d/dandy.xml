@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dandy</Word>
+  <Definitions>
+    <Definition>
+      <Word>dandy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dandy \Dan"dy\ (d[a^]n"d[y^]), n.; pl. {Dandies}
+   (d[a^]n"d[i^]z). [Cf. F. dandin, ninny, silly fellow,
+   dandiner to waddle, to play the fool; prob. allied to E.
+   dandle. Senses 2 &amp; 3 are of uncertain etymology.]
+   1. One who affects special finery or gives undue attention to
+      dress; a fop; a coxcomb.
+      [1913 Webster]
+
+   2. (Naut.)
+      (a) A sloop or cutter with a jigger on which a lugsail is
+          set.
+      (b) A small sail carried at or near the stern of small
+          boats; -- called also {jigger}, and {mizzen}.
+          [1913 Webster]
+
+   3. A dandy roller. See below.
+      [1913 Webster]
+
+   {Dandy brush}, a yard whalebone brush.
+
+   {Dandy fever}. See {Dengue}.
+
+   {Dandy line}, a kind of fishing line to which are attached
+      several crosspieces of whalebone which carry a hook at
+      each end.
+
+   {Dandy roller}, a roller sieve used in machines for making
+      paper, to press out water from the pulp, and set the
+      paper.
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dandy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dandy
+     adj : very good; "he did a bully job"; "a neat sports car"; "had a
+           great time at the party"; "you look simply smashing"
+           [syn: {bang-up}, {bully}, {corking}, {cracking}, {great},
+            {groovy}, {keen}, {neat}, {nifty}, {not bad(p)}, {peachy},
+            {slap-up}, {swell}, {smashing}]
+     n : a man who is much concerned with his dress and appearance
+         [syn: {dude}, {fop}, {gallant}, {sheik}, {beau}, {swell},
+          {fashion plate}, {clotheshorse}]
+     [also: {dandiest}, {dandier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>derail</Word>
+  <Definitions>
+    <Definition>
+      <Word>derail</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Derail \De*rail"\, v. t. [imp. &amp; p. p. {Derailed}; p. pr. &amp; vb.
+   n. {Derailing}.]
+   To cause to run off from the rails of a railroad, as a
+   locomotive. --Lardner.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>derail</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>derail
+     v 1: cause to run off the tracks; "they had planned to derail the
+          trains that carried atomic waste"
+     2: run off or leave the rails; "the train derailed because a
+        cow was standing on the tracks" [syn: {jump}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

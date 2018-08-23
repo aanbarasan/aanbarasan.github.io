@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>deviated</Word>
+  <Definitions>
+    <Definition>
+      <Word>deviated</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Deviate \De"vi*ate\, v. i. [imp. &amp; p. p. {Deviated}; p. pr. &amp;
+   vb. n. {Deviating}.] [L. deviare to deviate; de + viare to
+   go, travel, via way. See {Viaduct}.]
+   To go out of the way; to turn aside from a course or a
+   method; to stray or go astray; to err; to digress; to
+   diverge; to vary.
+   [1913 Webster]
+
+         Thus Pegasus, a nearer way to take,
+         May boldly deviate from the common track. --Pope.
+
+   Syn: To swerve; stray; wander; digress; depart; deflect; err.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

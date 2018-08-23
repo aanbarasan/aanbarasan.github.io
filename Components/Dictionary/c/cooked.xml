@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cooked</Word>
+  <Definitions>
+    <Definition>
+      <Word>cooked</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cook \Cook\, v. t. [imp. &amp; p. p. {Cooked} (k[oo^]kt); p. pr &amp;
+   vb. n. {Cooking}.]
+   1. To prepare, as food, by boiling, roasting, baking,
+      broiling, etc.; to make suitable for eating, by the agency
+      of fire or heat.
+      [1913 Webster]
+
+   2. To concoct or prepare; hence, to tamper with or alter; to
+      garble; -- often with up; as, to cook up a story; to cook
+      an account. [Colloq.]
+      [1913 Webster]
+
+            They all of them receive the same advices from
+            abroad, and very often in the same words; but their
+            way of cooking it is so different.    --Addison.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cooked</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cooked
+     adj : having been prepared for eating by the application of heat
+           [ant: {raw}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

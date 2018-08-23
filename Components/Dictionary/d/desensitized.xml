@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>desensitized</Word>
+  <Definitions>
+    <Definition>
+      <Word>desensitized</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>desensitized \desensitized\ adj.
+   rendered insensitive.
+
+   Syn: deadened.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>desensitized</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>desensitized
+     adj 1: made less sensitive; "desensitized to the allergen";
+            "desensitized photographic film is less sensitive to
+            light" [syn: {desensitised}]
+     2: rendered emotionally insensitive; "a desensitized public
+        indifferent to the violence in films" [syn: {desensitised}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

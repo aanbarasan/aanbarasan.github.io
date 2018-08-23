@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>custer</Word>
+  <Definitions>
+    <Definition>
+      <Word>custer</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Custer, KY
+  Zip code(s): 40115
+Custer, MI (village, FIPS 19420)
+  Location: 43.95026 N, 86.21944 W
+  Population (1990): 312 (128 housing units)
+  Area: 2.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 49405
+Custer, MT
+  Zip code(s): 59024
+Custer, SD (city, FIPS 15140)
+  Location: 43.76648 N, 103.60073 W
+  Population (1990): 1741 (792 housing units)
+  Area: 3.7 sq km (land), 0.0 sq km (water)
+Custer, WA
+  Zip code(s): 98240
+Custer, WI
+  Zip code(s): 54423
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>custer</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Custer
+     n : United States general who was killed along with all his
+         command by the Sioux at the battle of Little Bighorn
+         (1839-1876) [syn: {George Armstrong Custer}, {General
+         Custer}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

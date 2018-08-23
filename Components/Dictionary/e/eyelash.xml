@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>eyelash</Word>
+  <Definitions>
+    <Definition>
+      <Word>eyelash</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Eyelash \Eye"lash`\, n.
+   1. The fringe of hair that edges the eyelid; -- usually in
+      the pl.
+      [1913 Webster]
+
+   2. A hair of the fringe on the edge of the eyelid.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>eyelash</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>eyelash
+     n : any of the short curved hairs that grow from the edges of
+         the eyelids [syn: {lash}, {cilium}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cornwall</Word>
+  <Definitions>
+    <Definition>
+      <Word>cornwall</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Cornwall, NY
+  Zip code(s): 12518
+Cornwall, PA (borough, FIPS 16256)
+  Location: 40.26951 N, 76.40811 W
+  Population (1990): 3231 (1211 housing units)
+  Area: 25.1 sq km (land), 0.4 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cornwall</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Cornwall
+     n : a hilly county in southwestern England
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

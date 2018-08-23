@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>howdoyoudo</Word>
+  <Definitions>
+    <Definition>
+      <Word>howdoyoudo</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>how-do-you-do
+     n 1: an awkward situation; "that's a fine how-d'ye-do" [syn: {how-d'ye-do}]
+     2: an expression of greeting; "every morning they exchanged
+        polite hellos" [syn: {hello}, {hullo}, {hi}, {howdy}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

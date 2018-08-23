@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>horde</Word>
+  <Definitions>
+    <Definition>
+      <Word>horde</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Horde \Horde\ (h[=o]rd), n. [F. horde (cf. G. horde), fr. Turk.
+   ord[=u], ord[=i], camp; of Tartar origin.]
+   1. A wandering troop or gang; especially, a clan or tribe of
+      a nomadic people migrating from place to place for the
+      sake of pasturage, plunder, etc.; a predatory multitude.
+      --Thomson.
+      [1913 Webster]
+
+   2. Hence: Any large group of people or animals, especially
+      one wandering or moving about; as, the movie star was
+      surrounded by a horde of screaming fans.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>horde</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>horde
+     n 1: a vast multitude [syn: {host}, {legion}]
+     2: a nomadic community
+     3: a moving crowd [syn: {drove}, {swarm}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

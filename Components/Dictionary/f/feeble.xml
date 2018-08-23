@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>feeble</Word>
+  <Definitions>
+    <Definition>
+      <Word>feeble</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Feeble \Fee"ble\ (f[=e]"b'l), a. [Compar. {Feebler} (-bl[~e]r);
+   superl. {Feeblest} (-bl[e^]st).] [OE. feble, OF. feble,
+   flebe, floibe, floible, foible, F. faible, L. flebilis to be
+   wept over, lamentable, wretched, fr. flere to weep. Cf.
+   {Foible}.]
+   1. Deficient in physical strength; weak; infirm; debilitated.
+      [1913 Webster]
+
+            Carried all the feeble of them upon asses. --2
+                                                  Chron. xxviii.
+                                                  15.
+      [1913 Webster]
+
+   2. Wanting force, vigor, or efficiency in action or
+      expression; not full, loud, bright, strong, rapid, etc.;
+      faint; as, a feeble color; feeble motion. ``A lady's
+      feeble voice.'' --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>feeble</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Feeble \Fee"ble\, v. t.
+   To make feble; to enfeeble. [Obs.]
+   [1913 Webster]
+
+         Shall that victorious hand be feebled here? --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>feeble</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>feeble
+     adj 1: pathetically lacking in force or effectiveness; "a feeble
+            excuse"; "a lame argument" [syn: {lame}]
+     2: lacking strength or vigor; "damning with faint praise";
+        "faint resistance"; "feeble efforts"; "a feeble voice"
+        [syn: {faint}]
+     3: lacking physical strength or vitality; "a feeble old woman";
+        "her body looked sapless" [syn: {decrepit}, {debile}, {infirm},
+         {sapless}, {weak}, {weakly}]
+     4: lacking strength; "a weak, nerveless fool, devoid of energy
+        and promptitude"- Nathaniel Hawthorne [syn: {nerveless}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

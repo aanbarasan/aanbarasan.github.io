@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ensemble</Word>
+  <Definitions>
+    <Definition>
+      <Word>ensemble</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ensemble \En`sem"ble\, n. [F.]
+   The whole; all the parts taken together.
+   [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ensemble</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ensemble \En`sem"ble\, adv. [F.]
+   All at once; together.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ensemble</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ensemble
+     n 1: a group of musicians playing or singing together; "a string
+          ensemble"
+     2: a cast other than the principles [syn: {supporting players}]
+     3: the chorus of a ballet company [syn: {corps de ballet}]
+     4: an assemblage of parts or details (as in a work of art)
+        considered as forming a whole [syn: {tout ensemble}]
+     5: a coordinated outfit (set of clothing)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

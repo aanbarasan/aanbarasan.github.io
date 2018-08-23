@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>goodlooking</Word>
+  <Definitions>
+    <Definition>
+      <Word>goodlooking</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Good-looking \Good"-look`ing\, a.
+   Handsome; fine-looking; as, a good-looking man.
+
+   Syn: fine-looking, better-looking, handsome, well-favored,
+        well-favoured.
+        [1913 Webster + WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>goodlooking</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>good-looking
+     adj : pleasing in appearance especially by reason of conformity to
+           ideals of form and proportion; "a fine-looking woman";
+           "a good-looking man"; "better-looking than her sister";
+           "very pretty but not so extraordinarily handsome"-
+           Thackeray; "our southern women are well-favored"-
+           Lillian Hellman [syn: {fine-looking}, {better-looking},
+            {handsome}, {well-favored}, {well-favoured}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

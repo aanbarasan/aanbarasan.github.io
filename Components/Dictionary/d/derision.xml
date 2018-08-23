@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>derision</Word>
+  <Definitions>
+    <Definition>
+      <Word>derision</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Derision \De*ri"sion\, n. [L. derisio: cf. F. d['e]rision. See
+   {Deride}.]
+   1. The act of deriding, or the state of being derided;
+      mockery; scornful or contemptuous treatment which holds
+      one up to ridicule.
+      [1913 Webster]
+
+            He that sitteth in the heavens shall laugh; the Lord
+            shall have them in derision.          --Ps. ii. 4.
+      [1913 Webster]
+
+            Satan beheld their plight,
+            And to his mates thus in derision called. --Milton.
+      [1913 Webster]
+
+   2. An object of derision or scorn; a laughing-stock.
+      [1913 Webster]
+
+            I was a derision to all my people.    --Lam. iii.
+                                                  14.
+
+   Syn: Scorn; mockery; contempt; insult; ridicule.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>derision</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>derision
+     n 1: contemptuous laughter
+     2: the act of deriding or treating with contempt [syn: {ridicule}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

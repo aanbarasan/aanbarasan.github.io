@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>doityourself</Word>
+  <Definitions>
+    <Definition>
+      <Word>doityourself</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>do-it-yourself \do-it-yourself\ adj.
+   performed or made by an end-user who is without professional
+   training in the relevant techniques; as, their house was a
+   do-it-yourself project. Contrasted with {factory-made} and
+   {professional}.
+   [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>doityourself</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>do-it-yourself
+     adj : done by yourself; "their house was a do-it-yourself
+           project"; "he opened a do-it-yourself store"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

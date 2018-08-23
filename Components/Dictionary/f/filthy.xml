@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>filthy</Word>
+  <Definitions>
+    <Definition>
+      <Word>filthy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Filthy \Filth"y\, a. [Compar. {Filthier}; superl. {Filthiest}.]
+   Defiled with filth, whether material or moral; nasty; dirty;
+   polluted; foul; impure; obscene. ``In the filthy-mantled
+   pool.'' --Shak.
+   [1913 Webster]
+
+         He which is filthy let him be filthy still. --Rev.
+                                                  xxii. 11.
+
+   Syn: Nasty; foul; dirty; squalid; unclean; sluttish; gross;
+        vulgar; licentious. See {Nasty}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>filthy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>filthy
+     adj 1: disgustingly dirty; filled or smeared with offensive matter;
+            "as filthy as a pigsty"; "a foul pond"; "a nasty
+            pigsty of a room" [syn: {foul}, {nasty}]
+     2: vile; despicable; "a dirty (or lousy) trick"; "a filthy
+        traitor" [syn: {dirty}, {lousy}]
+     3: thoroughly unpleasant; "filthy (or foul or nasty or vile)
+        weather we're having" [syn: {foul}, {nasty}, {vile}]
+     4: characterized by obscenity; "had a filthy mouth"; "foul
+        language"; "smutty jokes" [syn: {foul}, {nasty}, {smutty}]
+     [also: {filthiest}, {filthier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

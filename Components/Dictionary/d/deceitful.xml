@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>deceitful</Word>
+  <Definitions>
+    <Definition>
+      <Word>deceitful</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Deceitful \De*ceit"ful\, a.
+   Full of, or characterized by, deceit; serving to mislead or
+   insnare; trickish; fraudulent; cheating; insincere.
+   [1913 Webster]
+
+         Harboring foul deceitful thoughts.       --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>deceitful</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>deceitful
+     adj 1: intended to deceive; "deceitful advertising"; "fallacious
+            testimony"; "smooth, shining, and deceitful as thin
+            ice" - S.T.Coleridge; "a fraudulent scheme to escape
+            paying taxes" [syn: {fallacious}, {fraudulent}]
+     2: marked by deliberate deceptiveness especially by pretending
+        one set of feelings and acting under the influence of
+        another; "she was a deceitful scheming little thing"-
+        Israel Zangwill; "a double-dealing double agent"; "a
+        double-faced infernal traitor and schemer"- W.M.Thackeray
+        [syn: {ambidextrous}, {double-dealing}, {duplicitous}, {Janus-faced},
+         {two-faced}, {double-faced}, {double-tongued}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

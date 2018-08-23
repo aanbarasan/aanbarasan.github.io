@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>elixir</Word>
+  <Definitions>
+    <Definition>
+      <Word>elixir</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Elixir \E*lix"ir\, n. [F. ['e]lixir, Sp. elixir, Ar. eliks[=i]r
+   the philosopher's stone, prob. from Gr. ? dry, (hence
+   probably) a dry powder; cf. Skr. ksh[=a] to burn.]
+   1. (Med.) A tincture with more than one base; a compound
+      tincture or medicine, composed of various substances, held
+      in solution by alcohol in some form.
+      [1913 Webster]
+
+   2. (Alchemy) An imaginary liquor capable of transmuting
+      metals into gold; also, one for producing life
+      indefinitely; as, elixir vit[ae], or the elixir of life.
+      [1913 Webster]
+
+   3. The refined spirit; the quintessence.
+      [1913 Webster]
+
+            The . . . elixir of worldly delights. --South.
+      [1913 Webster]
+
+   4. Any cordial or substance which invigorates.
+      [1913 Webster]
+
+            The grand elixir, to support the spirits of human
+            nature.                               --Addison.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>elixir</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>elixir
+     n 1: a sweet flavored liquid (usually containing a small amount
+          of alcohol) used in compounding medicines to be taken by
+          mouth in order to mask an unpleasant taste
+     2: a substance believed to cure all ills
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fatal</Word>
+  <Definitions>
+    <Definition>
+      <Word>fatal</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>fatal
+     
+        &lt;programming&gt; Resulting in termination of the program.
+     
+        (1997-08-03)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fatal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fatal \Fa"tal\, a. [L. fatalis, fr. fatum: cf. F. fatal. See
+   {Fate}.]
+   1. Proceeding from, or appointed by, fate or destiny;
+      necessary; inevitable. [R.]
+      [1913 Webster]
+
+            These thing are fatal and necessary.  --Tillotson.
+      [1913 Webster]
+
+            It was fatal to the king to fight for his money.
+                                                  --Bacon.
+      [1913 Webster]
+
+   2. Foreboding death or great disaster. [R.]
+      [1913 Webster]
+
+            That fatal screech owl to our house
+            That nothing sung but death to us and ours. --Shak.
+      [1913 Webster]
+
+   3. Causing death or destruction; deadly; mortal; destructive;
+      calamitous; as, a fatal wound; a fatal disease; a fatal
+      day; a fatal error.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fatal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fatal
+     adj 1: bringing death [ant: {nonfatal}]
+     2: having momentous consequences; of decisive importance; "that
+        fateful meeting of the U.N. when...it declared war on
+        North Korea"- Saturday Rev; "the fatal day of the election
+        finally arrived" [syn: {fateful}]
+     3: (of events) having extremely unfortunate or dire
+        consequences; bringing ruin; "the stock market crashed on
+        Black Friday"; "a calamitous defeat"; "the battle was a
+        disastrous end to a disastrous campaign"; "such doctrines,
+        if true, would be absolutely fatal to my theory"- Charles
+        Darwin; "it is fatal to enter any war without the will to
+        win it"- Douglas MacArthur; "a fateful error" [syn: {black},
+         {calamitous}, {disastrous}, {fateful}]
+     4: controlled or decreed by fate; predetermined; "a fatal
+        series of events" [syn: {fateful}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

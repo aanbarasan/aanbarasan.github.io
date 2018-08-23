@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>duds</Word>
+  <Definitions>
+    <Definition>
+      <Word>duds</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Duds \Duds\, n. pl. [Scot. dud rag, pl. duds clothing of
+   inferior quality.]
+   1. Old or inferior clothes; tattered garments. [Colloq.]
+      [1913 Webster]
+
+   2. Effects, in general.[Slang]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>duds</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>duds
+     n : informal terms for clothing [syn: {togs}, {threads}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

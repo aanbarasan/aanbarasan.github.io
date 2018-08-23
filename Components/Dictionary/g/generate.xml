@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>generate</Word>
+  <Definitions>
+    <Definition>
+      <Word>generate</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>generate
+     
+        To produce something according to an {algorithm} or program or
+        set of rules, or as a (possibly unintended) {side effect} of
+        the execution of an algorithm or program.
+     
+        The opposite of {parse}.
+     
+        [{Jargon File}]
+     
+        (1995-06-15)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>generate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Generate \Gen"er*ate\, v. t. [imp. &amp; p. p. {Generated}; p. pr. &amp;
+   vb. n. {Generating}.] [L. generatus, p. p. of generare to
+   generate, fr. genus. See {Genus}, {Gender}.]
+   [1913 Webster]
+   1. To beget; to procreate; to propagate; to produce (a being
+      similar to the parent); to engender; as, every animal
+      generates its own species.
+      [1913 Webster]
+
+   2. To cause to be; to bring into life. --Milton.
+      [1913 Webster]
+
+   3. To originate, especially by a vital or chemical process;
+      to produce; to cause.
+      [1913 Webster]
+
+            Whatever generates a quantity of good chyle must
+            likewise generate milk.               --Arbuthnot.
+      [1913 Webster]
+
+   4. (Math.) To trace out, as a line, figure, or solid, by the
+      motion of a point or a magnitude of inferior order.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>generate</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>generate vt. To produce something according to an algorithm or program
+   or set of rules, or as a (possibly unintended) side effect of the
+   execution of an algorithm or program. The opposite of {parse}. This term
+   retains its mechanistic connotations (though often humorously) when used
+   of human behavior. "The guy is rational most of the time, but mention
+   nuclear energy around him and he'll generate {infinite} flamage."
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>generate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>generate
+     v 1: bring into existence; "The new manager generated a lot of
+          problems"; "The computer bug generated chaos in the
+          office" [syn: {bring forth}]
+     2: give or supply; "The cow brings in 5 liters of milk"; "This
+        year's crop yielded 1,000 bushels of corn"; "The estate
+        renders some revenue for the family" [syn: {render}, {yield},
+         {return}, {give}]
+     3: produce (energy); "We can't generate enough power for the
+        entire city"; "The hydroelectric plant needs to to
+        generate more electricity"
+     4: make children; "Abraham begot Isaac"; "Men often father
+        children but don't recognize them" [syn: {beget}, {get}, {engender},
+         {father}, {mother}, {sire}, {bring forth}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

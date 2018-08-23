@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>endearment</Word>
+  <Definitions>
+    <Definition>
+      <Word>endearment</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Endearment \En*dear"ment\, n.
+   The act of endearing or the state of being endeared; also,
+   that which manifests, excites, or increases, affection. ``The
+   great endearments of prudent and temperate speech.'' --Jer.
+   Taylor.
+   [1913 Webster]
+
+         Her first endearments twining round the soul.
+                                                  --Thomson.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>endearment</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>endearment
+     n : the act of showing affection
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

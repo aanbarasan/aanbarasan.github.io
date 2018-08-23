@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>depot</Word>
+  <Definitions>
+    <Definition>
+      <Word>depot</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Depot \De"pot\ (d[=e]"p[-o]; French d[asl]*p[=o]"; 277), n. [F.
+   d['e]p[^o]t, OF. depost, fr. L. depositum a deposit. See
+   {Deposit}, n.]
+   1. A place of deposit for the storing of goods; a warehouse;
+      a storehouse.
+      [1913 Webster]
+
+            The islands of Guernsey and Jersey are at present
+            the great depots of this kingdom.     --Brit. Critic
+                                                  (1794).
+      [1913 Webster]
+
+   2. (Mil.)
+      (a) A military station where stores and provisions are
+          kept, or where recruits are assembled and drilled.
+      (b) (Eng. &amp; France) The headquarters of a regiment, where
+          all supplies are received and distributed, recruits
+          are assembled and instructed, infirm or disabled
+          soldiers are taken care of, and all the wants of the
+          regiment are provided for.
+          [1913 Webster]
+
+   3. A railway station; a building for the accommodation and
+      protection of railway passengers or freight. [U. S.]
+
+   Syn: See {Station}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>depot</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>depot
+     n 1: station where transport vehicles load or unload passengers
+          or goods [syn: {terminal}, {terminus}]
+     2: a depository for goods; "storehouses were built close to the
+        docks" [syn: {storehouse}, {entrepot}, {storage}, {store}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hooks</Word>
+  <Definitions>
+    <Definition>
+      <Word>hooks</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Hooks, TX (city, FIPS 34736)
+  Location: 33.46928 N, 94.28496 W
+  Population (1990): 2684 (1207 housing units)
+  Area: 5.3 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hooks</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hooks
+     n : large strong hand (as of a fighter); "wait till I get my
+         hooks on him" [syn: {meat hooks}, {maulers}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

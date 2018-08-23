@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>gentlemanly</Word>
+  <Definitions>
+    <Definition>
+      <Word>gentlemanly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gentlemanlike \Gen"tle*man*like`\, Gentlemanly \Gen"tle*man*ly\,
+   a.
+   Of, pertaining to, resembling, or becoming, a gentleman;
+   befitting a man of good breeding; well-behaved; courteous;
+   polite; as, gentlemanly behavior.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gentlemanly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>gentlemanly
+     adj : befitting a man of good breeding; "gentlemanly behavior"
+           [syn: {gentlemanlike}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fitness</Word>
+  <Definitions>
+    <Definition>
+      <Word>fitness</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fitness \Fit"ness\, n.
+   The state or quality of being fit; as, the fitness of
+   measures or laws; a person's fitness for office.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fitness</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fitness
+     n 1: the condition of being suitable; "they had to prove their
+          fitness for the position" [syn: {fittingness}] [ant: {unfitness}]
+     2: good physical condition; being in shape or in condition
+        [syn: {physical fitness}, {good shape}, {good condition}]
+        [ant: {unfitness}]
+     3: fitness to traverse the seas [syn: {seaworthiness}]
+     4: the quality of being qualified
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

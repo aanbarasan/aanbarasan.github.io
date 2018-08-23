@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>format</Word>
+  <Definitions>
+    <Definition>
+      <Word>format</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Format \For`mat"\ (f[-o]r`m[.a]" or f[-o]r`m[aum]t"), n. [F. or
+   G. Cf. {Formation}.]
+   1. (Print.) The shape and size of a book or other printed
+      publication; hence, its external form. [WordNet sense 2]
+      [Webster 1913 Suppl.]
+
+            The older manuscripts had been written in a much
+            larger format than that found convenient for
+            university work.                      --G. H.
+                                                  Putnam.
+      [Webster 1913 Suppl.]
+
+            One might, indeed, protest that the format is a
+            little too luxurious.                 --Nature.
+      [Webster 1913 Suppl.]
+
+   2. (Print.) the arrangement of the parts of a printed page,
+      such as text and graphics; as, text flowing around an
+      illustration provides a more pleasing format; multiple
+      columns are a more common format for large pages.
+      [PJC]
+
+   3. (Computers) The pattern of organization of information in
+      an electronic storage medium, such as the number and size
+      of records, or the size, spacing, or separation symbols
+      for fields in a record. A computer file, for example, may
+      be in fixed-length format, in which each field or record
+      occupies the same number of bytes, or in variable-length
+      format, in which the lengths of fields or records varies.
+      The number of formats are unlimited, being specifiable at
+      will by programmers or in some cases by the users of
+      programs. [WordNet sense 1]
+
+   Syn: data format.
+        [PJC]
+
+   4. Hence, The general organization, form, or plan for
+      anything, such as an organized social, political, or
+      entertainment event.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>format</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>format \format\ v. t.
+   to set into a specific format; -- of printed matter or data
+   recorded on a data soorage medium.
+
+   Syn: arrange.
+        [WordNet 1.5 +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>format</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>format
+     n 1: the organization of information according to preset
+          specifications (usually for computer processing) [syn: {formatting},
+           {data format}, {data formatting}]
+     2: the general appearance of a publication
+     v 1: set (printed matter) into a specific format; "Format this
+          letter so it can be printed out" [syn: {arrange}]
+     2: determine the arrangement of (data) for storage and display
+        (in computer science)
+     3: divide (a disk) into marked sectors so that it may store
+        data; "Please format this disk before entering data!"
+        [syn: {initialize}, {initialise}]
+     [also: {formatting}, {formatted}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

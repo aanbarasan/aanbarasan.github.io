@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>goto</Word>
+  <Definitions>
+    <Definition>
+      <Word>goto</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>goto
+     
+        &lt;programming&gt; (Or "GOTO", "go to", "GO TO", "JUMP", "JMP") A
+        construct and {keyword} found in several higher-level
+        programming languages (e.g. {Fortran}, {COBOL}, {BASIC}, {C})
+        to cause an {unconditional jump} or transfer of {control} from
+        one point in a program to another.  The destination of the
+        jump is usually indicated by a {label}.
+     
+        In some languages, a label is a line number, in which case
+        every statement may be labelled, in others a label is an
+        optional alphanumeric {identifier}.  In any case, the
+        destination label usually follows the GOTO keyword.
+     
+        Use of the GOTO instruction in {high level language}
+        programming fell into disrepute with the development and
+        general acceptance of {structured programming}, and especially
+        following the famous article "GOTO statement {considered
+        harmful}".  Since a GOTO is effectively an {assignment} to the
+        {program counter}, it is tempting to make the generalisation
+        "assignment considered harmful" and indeed, this is the basis
+        of {functional programming}.
+     
+        Nearly(?) all {machine language} {instruction sets} include a
+        GOTO instruction, though in this context it is usually called
+        branch or jump or some {mnemonic} based on these.
+     
+        See also {COME FROM}.
+     
+        (2000-12-13)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>goto</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Go \Go\, v. i. [imp. {Went} (w[e^]nt); p. p. {Gone} (g[o^]n;
+   115); p. pr. &amp; vb. n. {Going}. Went comes from the AS,
+   wendan. See {Wend}, v. i.] [OE. gan, gon, AS. g[=a]n, akin to
+   D. gaan, G. gehn, gehen, OHG. g[=e]n, g[=a]n, SW. g[*a], Dan.
+   gaae; cf. Gr. kicha`nai to reach, overtake, Skr. h[=a] to go,
+   AS. gangan, and E. gang. The past tense in AS., eode, is from
+   the root i to go, as is also Goth. iddja went. [root]47a. Cf.
+   {Gang}, v. i., {Wend}.]
+   1. To pass from one place to another; to be in motion; to be
+      in a state not motionless or at rest; to proceed; to
+      advance; to make progress; -- used, in various
+      applications, of the movement of both animate and
+      inanimate beings, by whatever means, and also of the
+      movements of the mind; also figuratively applied.
+      [1913 Webster]
+
+   2. To move upon the feet, or step by step; to walk; also, to
+      walk step by step, or leisurely.
+      [1913 Webster]
+
+   Note: In old writers go is much used as opposed to run, or
+         ride. ``Whereso I go or ride.'' --Chaucer.
+         [1913 Webster]
+
+               You know that love
+               Will creep in service where it can not go.
+                                                  --Shak.
+         [1913 Webster]
+
+               Thou must run to him; for thou hast staid so long
+               that going will scarce serve the turn. --Shak.
+         [1913 Webster]
+
+               He fell from running to going, and from going to
+               clambering upon his hands and his knees.
+                                                  --Bunyan.
+         [1913 Webster]
+
+   Note: In Chaucer go is used frequently with the pronoun in
+         the objective used reflexively; as, he goeth him home.
+         [1913 Webster]
+
+   3. To be passed on fron one to another; to pass; to
+      circulate; hence, with for, to have currency; to be taken,
+      accepted, or regarded.
+      [1913 Webster]
+
+            The man went among men for an old man in the days of
+            Saul.                                 --1 Sa. xvii.
+                                                  12.
+      [1913 Webster]
+
+            [The money] should go according to its true value.
+                                                  --Locke.
+      [1913 Webster]
+
+   4. To proceed or happen in a given manner; to fare; to move
+      on or be carried on; to have course; to come to an issue
+      or result; to succeed; to turn out.
+      [1913 Webster]
+
+            How goes the night, boy ?             --Shak.
+      [1913 Webster]
+
+            I think, as the world goes, he was a good sort of
+            man enough.                           --Arbuthnot.
+      [1913 Webster]
+
+            Whether the cause goes for me or against me, you
+            must pay me the reward.               --I Watts.
+      [1913 Webster]
+
+   5. To proceed or tend toward a result, consequence, or
+      product; to tend; to conduce; to be an ingredient; to
+      avail; to apply; to contribute; -- often with the
+      infinitive; as, this goes to show.
+      [1913 Webster]
+
+            Against right reason all your counsels go. --Dryden.
+      [1913 Webster]
+
+            To master the foul flend there goeth some complement
+            knowledge of theology.                --Sir W.
+                                                  Scott.
+      [1913 Webster]
+
+   6. To apply one's self; to set one's self; to undertake.
+      [1913 Webster]
+
+            Seeing himself confronted by so many, like a
+            resolute orator, he went not to denial, but to
+            justify his cruel falsehood.          --Sir P.
+                                                  Sidney.
+      [1913 Webster]
+
+   Note: Go, in this sense, is often used in the present
+         participle with the auxiliary verb to be, before an
+         infinitive, to express a future of intention, or to
+         denote design; as, I was going to say; I am going to
+         begin harvest.
+         [1913 Webster]
+
+   7. To proceed by a mental operation; to pass in mind or by an
+      act of the memory or imagination; -- generally with over
+      or through.
+      [1913 Webster]
+
+            By going over all these particulars, you may receive
+            some tolerable satisfaction about this great
+            subject.                              --South.
+      [1913 Webster]
+
+   8. To be with young; to be pregnant; to gestate.
+      [1913 Webster]
+
+            The fruit she goes with,
+            I pray for heartily, that it may find
+            Good time, and live.                  --Shak.
+      [1913 Webster]
+
+   9. To move from the person speaking, or from the point whence
+      the action is contemplated; to pass away; to leave; to
+      depart; -- in opposition to stay and come.
+      [1913 Webster]
+
+            I will let you go, that ye may sacrifice to the Lord
+            your God; . . . only ye shall not go very far away.
+                                                  --Ex. viii.
+                                                  28.
+      [1913 Webster]
+
+   10. To pass away; to depart forever; to be lost or ruined; to
+       perish; to decline; to decease; to die.
+       [1913 Webster]
+
+             By Saint George, he's gone!
+             That spear wound hath our master sped. --Sir W.
+                                                  Scott.
+       [1913 Webster]
+
+   11. To reach; to extend; to lead; as, a line goes across the
+       street; his land goes to the river; this road goes to New
+       York.
+       [1913 Webster]
+
+             His amorous expressions go no further than virtue
+             may allow.                           --Dryden.
+       [1913 Webster]
+
+   12. To have recourse; to resort; as, to go to law.
+       [1913 Webster]
+
+   Note: Go is used, in combination with many prepositions and
+         adverbs, to denote motion of the kind indicated by the
+         preposition or adverb, in which, and not in the verb,
+         lies the principal force of the expression; as, to go
+         against to go into, to go out, to go aside, to go
+         astray, etc.
+         [1913 Webster]
+
+   {Go to}, come; move; go away; -- a phrase of exclamation,
+      serious or ironical.
+
+   {To go a-begging}, not to be in demand; to be undesired.
+
+   {To go about}.
+       (a) To set about; to enter upon a scheme of action; to
+           undertake. ``They went about to slay him.'' --Acts
+           ix. 29.
+           [1913 Webster]
+
+                 They never go about . . . to hide or palliate
+                 their vices.                     --Swift.
+       (b) (Naut.) To tack; to turn the head of a ship; to wear.
+           
+
+   {To go abraod}.
+       (a) To go to a foreign country.
+       (b) To go out of doors.
+       (c) To become public; to be published or disclosed; to be
+           current.
+           [1913 Webster]
+
+                 Then went this saying abroad among the
+                 brethren.                        --John xxi.
+                                                  23.
+
+   {To go against}.
+       (a) To march against; to attack.
+       (b) To be in opposition to; to be disagreeable to.
+
+   {To go ahead}.
+       (a) To go in advance.
+       (b) To go on; to make progress; to proceed.
+
+   {To go and come}. See {To come and go}, under {Come}.
+
+   {To go aside}.
+       (a) To withdraw; to retire.
+           [1913 Webster]
+
+                 He . . . went aside privately into a desert
+                 place.                           --Luke. ix.
+                                                  10.
+       (b) To go from what is right; to err. --Num. v. 29.
+
+   {To go back on}.
+       (a) To retrace (one's path or footsteps).
+       (b) To abandon; to turn against; to betray. [Slang, U.
+           S.]
+
+   {To go below}
+       (Naut), to go below deck.
+
+   {To go between}, to interpose or mediate between; to be a
+      secret agent between parties; in a bad sense, to pander.
+      
+
+   {To go beyond}. See under {Beyond}.
+
+   {To go by}, to pass away unnoticed; to omit.
+
+   {To go by the board} (Naut.), to fall or be carried
+      overboard; as, the mast went by the board.
+
+   {To go down}.
+       (a) To descend.
+       (b) To go below the horizon; as, the sun has gone down.
+       (c) To sink; to founder; -- said of ships, etc.
+       (d) To be swallowed; -- used literally or figuratively.
+           [Colloq.]
+           [1913 Webster]
+
+                 Nothing so ridiculous, . . . but it goes down
+                 whole with him for truth.        --L' Estrange.
+
+   {To go far}.
+       (a) To go to a distance.
+       (b) To have much weight or influence.
+
+   {To go for}.
+       (a) To go in quest of.
+       (b) To represent; to pass for.
+       (c) To favor; to advocate.
+       (d) To attack; to assault. [Low]
+       (e) To sell for; to be parted with for (a price).
+
+   {To go for nothing}, to be parted with for no compensation or
+      result; to have no value, efficacy, or influence; to count
+      for nothing.
+
+   {To go forth}.
+       (a) To depart from a place.
+       (b) To be divulged or made generally known; to emanate.
+           [1913 Webster]
+
+                 The law shall go forth of Zion, and the word of
+                 the Lord from Jerusalem.         --Micah iv. 2.
+
+   {To go hard with}, to trouble, pain, or endanger.
+
+   {To go in}, to engage in; to take part. [Colloq.]
+
+   {To go in and out}, to do the business of life; to live; to
+      have free access. --John x. 9.
+
+   {To go in for}. [Colloq.]
+       (a) To go for; to favor or advocate (a candidate, a
+           measure, etc.).
+       (b) To seek to acquire or attain to (wealth, honor,
+           preferment, etc.)
+       (c) To complete for (a reward, election, etc.).
+       (d) To make the object of one's labors, studies, etc.
+           [1913 Webster]
+
+                 He was as ready to go in for statistics as for
+                 anything else.                   --Dickens.
+           
+
+   {To go in to} or {To go in unto}.
+       (a) To enter the presence of. --Esther iv. 16.
+       (b) To have sexual intercourse with. [Script.]
+
+   {To go into}.
+       (a) To speak of, investigate, or discuss (a question,
+           subject, etc.).
+       (b) To participate in (a war, a business, etc.).
+
+   {To go large}.
+       (Naut) See under {Large}.
+
+   {To go off}.
+       (a) To go away; to depart.
+           [1913 Webster]
+
+                 The leaders . . . will not go off until they
+                 hear you.                        --Shak.
+       (b) To cease; to intermit; as, this sickness went off.
+       (c) To die. --Shak.
+       (d) To explode or be discharged; -- said of gunpowder, of
+           a gun, a mine, etc.
+       (e) To find a purchaser; to be sold or disposed of.
+       (f) To pass off; to take place; to be accomplished.
+           [1913 Webster]
+
+                 The wedding went off much as such affairs do.
+                                                  --Mrs.
+                                                  Caskell.
+
+   {To go on}.
+       (a) To proceed; to advance further; to continue; as, to
+           go on reading.
+       (b) To be put or drawn on; to fit over; as, the coat will
+           not go on.
+
+   {To go all fours}, to correspond exactly, point for point.
+      [1913 Webster]
+
+            It is not easy to make a simile go on all fours.
+                                                  --Macaulay.
+
+   {To go out}.
+       (a) To issue forth from a place.
+       (b) To go abroad; to make an excursion or expedition.
+           [1913 Webster]
+
+                 There are other men fitter to go out than I.
+                                                  --Shak.
+           [1913 Webster]
+
+                 What went ye out for to see ?    --Matt. xi. 7,
+                                                  8, 9.
+       (c) To become diffused, divulged, or spread abroad, as
+           news, fame etc.
+       (d) To expire; to die; to cease; to come to an end; as,
+           the light has gone out.
+           [1913 Webster]
+
+                 Life itself goes out at thy displeasure.
+                                                  --Addison.
+
+   {To go over}.
+       (a) To traverse; to cross, as a river, boundary, etc.; to
+           change sides.
+           [1913 Webster]
+
+                 I must not go over Jordan.       --Deut. iv.
+                                                  22.
+           [1913 Webster]
+
+                 Let me go over, and see the good land that is
+                 beyond Jordan.                   --Deut. iii.
+                                                  25.
+           [1913 Webster]
+
+                 Ishmael . . . departed to go over to the
+                 Ammonites.                       --Jer. xli.
+                                                  10.
+       (b) To read, or study; to examine; to review; as, to go
+           over one's accounts.
+           [1913 Webster]
+
+                 If we go over the laws of Christianity, we
+                 shall find that . . . they enjoin the same
+                 thing.                           --Tillotson.
+       (c) To transcend; to surpass.
+       (d) To be postponed; as, the bill went over for the
+           session.
+       (e) (Chem.) To be converted (into a specified substance
+           or material); as, monoclinic sulphur goes over into
+           orthorhombic, by standing; sucrose goes over into
+           dextrose and levulose.
+
+   {To go through}.
+       (a) To accomplish; as, to go through a work.
+       (b) To suffer; to endure to the end; as, to go through a
+           surgical operation or a tedious illness.
+       (c) To spend completely; to exhaust, as a fortune.
+       (d) To strip or despoil (one) of his property. [Slang]
+       (e) To botch or bungle a business. [Scot.]
+
+   {To go through with}, to perform, as a calculation, to the
+      end; to complete.
+
+   {To go to ground}.
+       (a) To escape into a hole; -- said of a hunted fox.
+       (b) To fall in battle.
+
+   {To go to naught} (Colloq.), to prove abortive, or
+      unavailling.
+
+   {To go under}.
+       (a) To set; -- said of the sun.
+       (b) To be known or recognized by (a name, title, etc.).
+       (c) To be overwhelmed, submerged, or defeated; to perish;
+           to succumb.
+
+   {To go up}, to come to nothing; to prove abortive; to fail.
+      [Slang]
+
+   {To go upon}, to act upon, as a foundation or hypothesis.
+
+   {To go with}.
+       (a) To accompany.
+       (b) To coincide or agree with.
+       (c) To suit; to harmonize with.
+
+   {To go well with}, {To go ill with}, {To go hard with}, to
+      affect (one) in such manner.
+
+   {To go without}, to be, or to remain, destitute of.
+
+   {To go wrong}.
+       (a) To take a wrong road or direction; to wander or
+           stray.
+       (b) To depart from virtue.
+       (c) To happen unfortunately; to unexpectedly cause a
+           mishap or failure.
+       (d) To miss success; to fail.
+
+   {To let go}, to allow to depart; to quit one's hold; to
+      release.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>goto</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>go to
+     v : be present at (meetings, church services, university), etc.;
+         "She attends class regularly"; "I rarely attend services
+         at my church"; "did you go to the meeting?" [syn: {attend}]
+         [ant: {miss}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

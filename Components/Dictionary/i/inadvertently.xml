@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>inadvertently</Word>
+  <Definitions>
+    <Definition>
+      <Word>inadvertently</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Inadvertent \In`ad*vert"ent\, a. [Cf. F. inadvertant. See 2d
+   {In-}, and {Advert}.]
+   Not turning the mind to a matter; heedless; careless;
+   negligent; inattentive.
+   [1913 Webster]
+
+         An inadvertent step may crush the snail
+         That crawls at evening in the public path. --Cowper.
+   -- {In`ad*vert"ent*ly}, adv.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>inadvertently</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>inadvertently
+     adv : without knowledge or intention; "he unwittingly deleted the
+           references" [syn: {unwittingly}, {unknowingly}] [ant: {mindfully},
+            {wittingly}, {wittingly}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

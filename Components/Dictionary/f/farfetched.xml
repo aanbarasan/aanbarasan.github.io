@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>farfetched</Word>
+  <Definitions>
+    <Definition>
+      <Word>farfetched</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Farfetched \Far"fetched`\, a.
+   1. Brought from far, or from a remote place.
+      [1913 Webster]
+
+            Every remedy contained a multitude of farfetched and
+            heterogeneous ingredients.            --Hawthorne.
+      [1913 Webster]
+
+   2. Studiously sought; not easily or naturally deduced or
+      introduced; forced; strained; hence, implausible or
+      improbable.
+      [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>farfetched</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>farfetched
+     adj : highly imaginative but unlikely; "a farfetched excuse"; "an
+           implausible explanation" [syn: {implausible}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

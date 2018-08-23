@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>happily</Word>
+  <Definitions>
+    <Definition>
+      <Word>happily</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>happily
+     
+        Of software, used to emphasise that a program is unaware of
+        some important fact about its environment, either because it
+        has been fooled into believing a lie, or because it doesn't
+        care.  The sense of "happy" here is not that of elation, but
+        rather that of blissful ignorance.  "The program continues to
+        run, happily unaware that its output is going to /dev/null."
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>happily</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Happily \Hap"pi*ly\ (h[a^]p"p[i^]*l[y^]), adv. [From {Happy}.]
+   1. By chance; peradventure; haply. [Obs.] --Piers Plowman.
+      [1913 Webster]
+
+   2. By good fortune; fortunately; luckily.
+      [1913 Webster]
+
+            Preferred by conquest, happily o'erthrown. --Waller.
+      [1913 Webster]
+
+   3. In a happy manner or state; in happy circumstances; as, he
+      lived happily with his wife.
+      [1913 Webster]
+
+   4. With address or dexterity; gracefully; felicitously; in a
+      manner to insure success; with success.
+      [1913 Webster]
+
+            Formed by thy converse, happily to steer
+            From grave to gay, from lively to severe. --Pope.
+
+   Syn: Fortunately; luckily; successfully; prosperously;
+        contentedly; dexterously; felicitously.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>happily</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>happily adv. Of software, used to emphasize that a program is unaware
+   of some important fact about its environment, either because it has been
+   fooled into believing a lie, or because it doesn't care. The sense of
+   `happy' here is not that of elation, but rather that of blissful
+   ignorance. "The program continues to run, happily unaware that its
+   output is going to /dev/null." Also used to suggest that a program or
+   device would really rather be doing something destructive, and is being
+   given an opportunity to do so. "If you enter an O here instead of a
+   zero, the program will happily erase all your data." Neverheless, use of
+   this term implies a basically benign attitude towards the program: It
+   didn't mean any harm, it was just eager to do its job. We'd like to be
+   angry at it but we shouldn't, we should try to understand it instead.
+   The adjective "cheerfully" is often used in exactly the same way.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>happily</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>happily
+     adv 1: in a joyous manner; "they shouted happily" [syn: {merrily},
+            {mirthfully}, {gayly}, {blithely}, {jubilantly}, {with
+            happiness}] [ant: {unhappily}]
+     2: in an unexpectedly lucky way; "happily he was not injured"
+        [ant: {sadly}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

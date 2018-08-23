@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>existing</Word>
+  <Definitions>
+    <Definition>
+      <Word>existing</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Exist \Ex*ist"\, v. i. [imp. &amp; p. p. {Existed}; p. pr. &amp; vb. n.
+   {Existing}.] [L. existere, exsistere, to step out or forth,
+   emerge, appear, exist; ex out + sistere to cause to stand, to
+   set, put, place, stand still, fr. stare to stand: cf. F.
+   exister. See {Stand}.]
+   1. To be as a fact and not as a mode; to have an actual or
+      real being, whether material or spiritual.
+      [1913 Webster]
+
+            Who now, alas! no more is missed
+            Than if he never did exist.           --Swift.
+      [1913 Webster]
+
+            To conceive the world . . . to have existed from
+            eternity.                             --South.
+      [1913 Webster]
+
+   2. To be manifest in any manner; to continue to be; as, great
+      evils existed in his reign.
+      [1913 Webster]
+
+   3. To live; to have life or the functions of vitality; as,
+      men can not exist in water, nor fishes on land.
+
+   Syn: See {Be}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>existing</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>existing \existing\ adj.
+   1. having existence or being or actuality; as, much of the
+      beluga caviar existing in the world is found in the Soviet
+      Union and Iran. Opposite of {nonexistent}. [Narrower
+      terms: {active, alive}; {extant, surviving}] Also See:
+      {extant}.
+
+   Syn: existent.
+        [WordNet 1.5]
+
+   2. Present. Opposite of {absent}.
+      [WordNet 1.5]
+
+   3. Presently existing; as, the existing system.
+      [WordNet 1.5] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>existing</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>existing
+     adj 1: having existence or being or actuality; "an attempt to
+            refine the existent machinery to make it more
+            efficient"; "much of the beluga caviar existing in the
+            world is found in the Soviet Union and Iran" [syn: {existent}]
+            [ant: {nonexistent}]
+     2: existing in something specified; "depletion of the oxygen
+        existing in the bloodstream"
+     3: presently existing; "the existing system"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

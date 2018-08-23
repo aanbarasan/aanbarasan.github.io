@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>horribly</Word>
+  <Definitions>
+    <Definition>
+      <Word>horribly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Horribly \Hor"ri*bly\, adv.
+   In a manner to excite horror; dreadfully; terribly.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>horribly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>horribly
+     adv : of a dreadful kind; "there was a dreadfully bloody accident
+           on the road this morning" [syn: {dreadfully}, {awfully}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

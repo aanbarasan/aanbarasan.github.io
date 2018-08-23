@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>frontier</Word>
+  <Definitions>
+    <Definition>
+      <Word>frontier</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Frontier, ND (city, FIPS 28720)
+  Location: 46.80038 N, 96.83301 W
+  Population (1990): 218 (57 housing units)
+  Area: 0.5 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>frontier</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Frontier \Fron"tier\, n. [F. fronti[`e]re, LL. frontaria. See
+   {Front}.]
+   1. That part of a country which fronts or faces another
+      country or an unsettled region; the marches; the border,
+      confine, or extreme part of a country, bordering on
+      another country; the border of the settled and cultivated
+      part of a country; as, the frontier of civilization.
+      [1913 Webster]
+
+   2. (Fort.) An outwork. [Obs.]
+      [1913 Webster]
+
+            Palisadoes, frontiers, parapets.      --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>frontier</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Frontier \Fron"tier\, a.
+   1. Lying on the exterior part; bordering; conterminous; as, a
+      frontier town.
+      [1913 Webster]
+
+   2. Of or relating to a frontier. ``Frontier experience.''
+      --W. Irving.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>frontier</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Frontier \Fron"tier\, v. i.
+   To constitute or form a frontier; to have a frontier; -- with
+   on. [Obs.] --Sir W. Temple.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>frontier</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>frontier
+     n 1: a wilderness at the edge of a settled area of a country;
+          "the individualism of the frontier in Andrew Jackson's
+          day"
+     2: an international boundary or the area (often fortified)
+        immediately inside the boundary
+     3: an undeveloped field of study; a topic inviting research and
+        development; "he worked at the frontier of brain science"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

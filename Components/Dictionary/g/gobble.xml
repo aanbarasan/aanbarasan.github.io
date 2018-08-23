@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>gobble</Word>
+  <Definitions>
+    <Definition>
+      <Word>gobble</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>gobble
+     
+        1. To consume, usually used with "up".  "The output
+        spy gobbles characters out of a {tty} output buffer."
+     
+        2. To obtain, usually used with "down".  "I guess I'll gobble
+        down a copy of the documentation tomorrow."
+     
+        See also {snarf}.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gobble</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gobble \Gob"ble\, v. t. [imp. &amp; p. p. {Gobbled}; p. pr. &amp; vb. n.
+   {Gobbling}.] [Freq. of 2d gob.]
+   [1913 Webster]
+   1. To swallow or eat greedily or hastily; to gulp.
+      [1913 Webster]
+
+            Supper gobbled up in haste.           --Swift.
+      [1913 Webster]
+
+   2. To utter (a sound) like a turkey cock.
+      [1913 Webster]
+
+            He . . . gobbles out a note of self-approbation.
+                                                  --Goldsmith.
+      [1913 Webster]
+
+   {To gobble up}, to capture in a mass or in masses; to capture
+      suddenly. [Slang]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gobble</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gobble \Gob"ble\, v. i.
+   1. To eat greedily.
+      [1913 Webster]
+
+   2. To make a noise like that of a turkey cock. --Prior.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gobble</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gobble \Gob"ble\, n.
+   A noise made in the throat.
+   [1913 Webster]
+
+         Ducks and geese . . . set up a discordant gobble.
+                                                  --Mrs. Gore.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gobble</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>gobble vt. 1. To consume, usu. used with `up'. "The output spy gobbles
+   characters out of a {tty} output buffer." 2. To obtain, usu. used with
+   `down'. "I guess I'll gobble down a copy of the documentation tomorrow."
+   See also {snarf}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gobble</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>gobble
+     n : the characteristic sound made by a turkey cock
+     v 1: eat hastily without proper chewing; "Don't bolt your food!"
+          [syn: {bolt}]
+     2: make a gurgling sound, characteristic of turkeys
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

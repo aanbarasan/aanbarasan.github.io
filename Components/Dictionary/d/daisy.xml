@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>daisy</Word>
+  <Definitions>
+    <Definition>
+      <Word>daisy</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Daisy
+     
+        A {functional language}.
+     
+        ["Daisy Programming Manual", S.D. Johnson, CS Dept TR, Indiana
+        U, 1988].
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>daisy</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Daisy, AR (town, FIPS 17140)
+  Location: 34.23309 N, 93.74189 W
+  Population (1990): 122 (104 housing units)
+  Area: 3.0 sq km (land), 0.8 sq km (water)
+Daisy, GA (city, FIPS 21268)
+  Location: 32.15085 N, 81.83713 W
+  Population (1990): 138 (57 housing units)
+  Area: 2.6 sq km (land), 0.1 sq km (water)
+Daisy, KY
+  Zip code(s): 41733
+Daisy, MO
+  Zip code(s): 63743
+Daisy, OK
+  Zip code(s): 74540
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>daisy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Daisy \Dai"sy\ (d[=a]"z[y^]), n.; pl. {Daisies} (d[=a]"z[i^]z).
+   [OE. dayesye, AS. d[ae]ges-e['a]ge day's eye, daisy. See
+   {Day}, and {Eye}.] (Bot.)
+   (a) A genus of low herbs ({Bellis}), belonging to the family
+       {Composit[ae]}. The common English and classical daisy is
+       {Bellis perennis}, which has a yellow disk and white or
+       pinkish rays.
+   (b) The whiteweed ({Chrysanthemum Leucanthemum}), the plant
+       commonly called daisy in North America; -- called also
+       {oxeye daisy}. See {Whiteweed}.
+       [1913 Webster]
+
+   Note: The word daisy is also used for composite plants of
+         other genera, as {Erigeron}, or fleabane.
+         [1913 Webster]
+
+   {Michaelmas daisy} (Bot.), any plant of the genus {Aster}, of
+      which there are many species.
+
+   {Oxeye daisy} (Bot.), the whiteweed. See {Daisy}
+   (b) .
+       [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>daisy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>daisy
+     n : any of numerous composite plants having flower heads with
+         well-developed ray flowers usually arranged in a single
+         whorl
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

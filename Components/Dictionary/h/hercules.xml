@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hercules</Word>
+  <Definitions>
+    <Definition>
+      <Word>hercules</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Hercules, CA (city, FIPS 33308)
+  Location: 38.02043 N, 122.29689 W
+  Population (1990): 16829 (5652 housing units)
+  Area: 14.3 sq km (land), 30.6 sq km (water)
+  Zip code(s): 94547
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hercules</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hercules \Her"cu*les\, n.
+   1. (Gr. Myth.) A hero, fabled to have been the son of Jupiter
+      and Alcmena, and celebrated for great strength, esp. for
+      the accomplishment of his twelve great tasks or
+      ``labors.''
+      [1913 Webster]
+
+   2. (Astron.) A constellation in the northern hemisphere, near
+      Lyra.
+      [1913 Webster]
+
+   {Hercules' beetle} (Zo["o]l.), any species of {Dynastes}, an
+      American genus of very large lamellicorn beetles, esp.
+      {Dynastes hercules} of South America, which grows to a
+      length of six inches.
+
+   {Hercules powder}, an explosive containing nitroglycerin; --
+      used for blasting.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hercules</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Hercules
+     n 1: (classical mythology) a hero noted for his strength;
+          performed 12 immense labors to gain immortality [syn: {Heracles},
+           {Herakles}, {Alcides}]
+     2: a large constellation in the northern hemisphere between
+        Lyra and Corona Borealis
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>feral</Word>
+  <Definitions>
+    <Definition>
+      <Word>feral</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Feral \Fe"ral\, a. [L. ferus. See {Fierce}.] (Bot. &amp; Zo["o]l.)
+   Wild; untamed; ferine; not domesticated; -- said of beasts,
+   birds, and plants.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>feral</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Feral \Fe"ral\, a. [L. feralis, belonging to the dead.]
+   Funereal; deadly; fatal; dangerous. [R.] ``Feral accidents.''
+   --Burton.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>feral</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>feral
+     adj : wild and menacing; "a ferocious dog" [syn: {ferine}, {savage}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

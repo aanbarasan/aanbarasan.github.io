@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hyphen</Word>
+  <Definitions>
+    <Definition>
+      <Word>hyphen</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hyphen \Hy"phen\ (h[imac]"f[e^]n), n. [L., fr. Gr. "yfe`n, fr.
+   "yf "e`n under one, into one, together, fr. ? under + ?,
+   neut. of ? one. See {Hypo-}.] (Print.)
+   A mark or short dash, thus [-], placed at the end of a line
+   which terminates with a syllable of a word, the remainder of
+   which is carried to the next line; or between the parts of
+   many a compound word; as in fine-leaved, clear-headed. It is
+   also sometimes used to separate the syllables of words.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hyphen</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hyphen \Hy"phen\, v. t. [imp. &amp; p. p. {Hyphened}; p. pr. &amp; vb.
+   n. {Hyphening}.]
+   To connect with, or separate by, a hyphen, as two words or
+   the parts of a word.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hyphen</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hyphen
+     n : a punctuation mark (-) used between parts of a compound word
+         or between the syllables of a word when the word is
+         divided at the end of a line of text [syn: {dash}]
+     v : divide or connect with a hyphen; "hyphenate these words and
+         names" [syn: {hyphenate}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

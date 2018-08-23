@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>greasy</Word>
+  <Definitions>
+    <Definition>
+      <Word>greasy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Greasy \Greas"y\, a. [Compar. {Greasier}; superl. {Greasiest}.]
+   1. Composed of, or characterized by, grease; oily; unctuous;
+      as, a greasy dish.
+      [1913 Webster]
+
+   2. Smeared or defiled with grease.
+      [1913 Webster]
+
+            With greasy aprons, rules, and hammers. --Shak.
+      [1913 Webster]
+
+   3. Like grease or oil; smooth; seemingly unctuous to the
+      touch, as is mineral soapstone.
+      [1913 Webster]
+
+   4. Fat of body; bulky. [R.] --Shak.
+      [1913 Webster]
+
+   5. Gross; indelicate; indecent. [Obs.] --Marston.
+      [1913 Webster]
+
+   6. (Far.) Affected with the disease called {grease}; as, the
+      heels of a horse. See {Grease}, n., 2.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>greasy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>greasy
+     adj 1: containing an unusual amount of grease or oil; "greasy
+            hamburgers"; "oily fried potatoes"; "oleaginous seeds"
+            [syn: {oily}, {sebaceous}, {oleaginous}]
+     2: smeared or soiled with grease or oil; "greasy coveralls";
+        "get rid of rubbish and oily rags" [syn: {oily}]
+     [also: {greasiest}, {greasier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

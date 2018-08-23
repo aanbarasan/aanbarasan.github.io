@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>easement</Word>
+  <Definitions>
+    <Definition>
+      <Word>easement</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Easement \Ease"ment\, n. [OF. aisement. See {Ease}, n.]
+   1. That which gives ease, relief, or assistance; convenience;
+      accommodation.
+      [1913 Webster]
+
+            In need of every kind of relief and easement.
+                                                  --Burke.
+      [1913 Webster]
+
+   2. (Law) A liberty, privilege, or advantage, which one
+      proprietor has in the estate of another proprietor,
+      distinct from the ownership of the soil, as a way, water
+      course, etc. It is a species of what the civil law calls
+      servitude. --Kent.
+      [1913 Webster]
+
+   3. (Arch.) A curved member instead of an abrupt change of
+      direction, as in a baseboard, hand rail, etc.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>easement</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>easement
+     n 1: (law) the privilege of using something that is not your own
+          (as using another's land as a right of way to your own
+          land)
+     2: the act of reducing something unpleasant (as pain or
+        annoyance); "he asked the nurse for relief from the
+        constant pain" [syn: {easing}, {alleviation}, {relief}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

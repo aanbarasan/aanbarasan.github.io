@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hypnotist</Word>
+  <Definitions>
+    <Definition>
+      <Word>hypnotist</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hypnotist \Hyp"no*tist\, n.
+   A person who hypnotizes another, especially one who is
+   professionally trained in the technique.
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hypnotist</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hypnotist
+     n : a person who induces hypnosis [syn: {hypnotizer}, {hypnotiser},
+          {mesmerist}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

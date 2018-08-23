@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>finnish</Word>
+  <Definitions>
+    <Definition>
+      <Word>finnish</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Finnish \Finn"ish\, a.
+   Of or pertaining to Finland, to the Finns, or to their
+   language. -- n. A Northern Turanian group of languages; the
+   language of the Finns.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>finnish</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Finnish
+     adj : of or relating to or characteristic of Finland or the people
+           of Finland; "Finnish architecture"
+     n : the official language of Finland; belongs to the Baltic
+         Finnic family of languages [syn: {Suomi}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

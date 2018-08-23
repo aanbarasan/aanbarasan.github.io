@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>garlic</Word>
+  <Definitions>
+    <Definition>
+      <Word>garlic</Word>
+      <Dictionary>
+        <Id>easton</Id>
+        <Name>Easton's 1897 Bible Dictionary</Name>
+      </Dictionary>
+      <WordDefinition>Garlic
+   (Heb. shum, from its strong odour), mentioned only once (Num.
+   11:5). The garlic common in Eastern countries is the Allium
+   sativum or Allium Ascalonicum, so called from its having been
+   brought into Europe from Ascalon by the Crusaders. It is now
+   known by the name of "shallot" or "eschalot."
+   
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>garlic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Garlic \Gar"lic\, n. [OE. garlek, AS. g[=a]rle['a]c; gar spear,
+   lance + le['a]c leek. See {Gar}, n., and {Leek}.]
+   1. (Bot.) A plant of the genus {Allium} ({A. sativum} is the
+      cultivated variety), having a bulbous root, a very strong
+      smell, and an acrid, pungent taste. Each root is composed
+      of several lesser bulbs, called cloves of garlic, inclosed
+      in a common membranous coat, and easily separable.
+      [1913 Webster]
+
+   2. A kind of jig or farce. [Obs.] --Taylor (1630).
+      [1913 Webster]
+
+   {Garlic mustard}, a European plant of the Mustard family
+      ({Alliaria officinalis}) which has a strong smell of
+      garlic.
+
+   {Garlic pear tree}, a tree in Jamaica ({Crat[ae]va
+      gynandra}), bearing a fruit which has a strong scent of
+      garlic, and a burning taste.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>garlic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>garlic
+     n 1: bulbous herb of southern Europe widely naturalized; bulb
+          breaks up into separate strong-flavored cloves [syn: {Allium
+          sativum}]
+     2: aromatic bulb used as seasoning [syn: {ail}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

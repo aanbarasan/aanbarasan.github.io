@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>counterproposal</Word>
+  <Definitions>
+    <Definition>
+      <Word>counterproposal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>counterproposal
+     n : a proposal offered as an alternative to an earlier proposal
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

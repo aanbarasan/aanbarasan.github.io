@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>herring</Word>
+  <Definitions>
+    <Definition>
+      <Word>herring</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Herring \Her"ring\ (h[e^]r"r[i^]ng), n. [OE. hering, AS.
+   h[ae]ring; akin to D. haring, G. h["a]ring, hering, OHG.
+   haring, hering, and prob. to AS. here army, and so called
+   because they commonly move in large numbers. Cf. {Harry}.]
+   (Zo["o]l.)
+   One of various species of fishes of the genus {Clupea}, and
+   allied genera, esp. the common round or English herring
+   ({Clupea harengus}) of the North Atlantic. Herrings move in
+   vast schools, coming in spring to the shores of Europe and
+   America, where they are salted and smoked in great
+   quantities.
+   [1913 Webster]
+
+   {Herring gull} (Zo["o]l.), a large gull which feeds in part
+      upon herrings; esp., {Larus argentatus} in America, and
+      {Larus cachinnans} in England. See {Gull}.
+
+   {Herring hog} (Zo["o]l.), the common porpoise.
+
+   {King of the herrings}. (Zo["o]l.)
+   (a) The chim[ae]ra ({Chimaera monstrosa}) which follows the
+       schools of herring. Called also {rabbit fish} in the U.
+       K. See {Chim[ae]ra}.
+   (b) The opah.
+       [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>herring</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>herring
+     n 1: valuable flesh of fatty fish from shallow waters of northern
+          Atlantic or Pacific; usually salted or pickled
+     2: commercially important food fish of northern waters of both
+        Atlantic and Pacific [syn: {Clupea harangus}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

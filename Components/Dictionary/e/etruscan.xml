@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>etruscan</Word>
+  <Definitions>
+    <Definition>
+      <Word>etruscan</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Etruscan \E*trus"can\, n. [L. Etruscus.]
+   Of or relating to Etruria. -- n. A native or inhabitant of
+   Etruria.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>etruscan</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Etruscan
+     n : a native or inhabitant of ancient Etruria; the Etruscans
+         influenced the Romans (who had suppressed them by about
+         200 BC)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

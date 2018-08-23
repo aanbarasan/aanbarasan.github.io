@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>goosebumps</Word>
+  <Definitions>
+    <Definition>
+      <Word>goosebumps</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>goose bumps \goose bumps\ n.
+   Same as {gooseflesh}.
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>goosebumps</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>gooseflesh \gooseflesh\ n.
+   A peculiar roughness of the skin produced by cold or fear, in
+   which the hair follicles become erect and form bumps on the
+   skin; -- called also {goose skin}, {goose pimples}, {goose
+   bumps}.
+
+   Syn: goose bumps, goose pimples, goose skin.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

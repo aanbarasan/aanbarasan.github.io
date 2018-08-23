@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>highlight</Word>
+  <Definitions>
+    <Definition>
+      <Word>highlight</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>highlight \highlight\ v. t.
+   1. To emphasize or call attention to, by moving into the
+      foreground or otherwise making more prominent.
+
+   Syn: foreground, spotlight, play up.
+        [WordNet 1.5]
+
+   2. To make (part of a text or image) more prominent,
+      especially by making it of a lighter hue or of a different
+      color than the remaining part.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>highlight</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>highlight \highlight\ n.
+   The part of an image that has the most intense light.
+   [PJC]
+
+   2. The most memorable or enjoyable part; -- of events or
+      activities; as, the highlight of our trip was the tour of
+      the Vatican.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>highlight</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>highlight
+     n 1: the most interesting or memorable part; "the highlight of
+          the tour was our visit to the Vatican" [syn: {high spot}]
+     2: an area of lightness in a picture [syn: {highlighting}]
+     v : move into the foreground to make more visible or prominent;
+         "The introduction highlighted the speaker's distinguished
+         career in linguistics" [syn: {foreground}, {spotlight}, {play
+         up}] [ant: {background}, {background}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

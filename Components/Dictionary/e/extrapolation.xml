@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>extrapolation</Word>
+  <Definitions>
+    <Definition>
+      <Word>extrapolation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>extrapolation
+     n 1: (mathematics) calculation of the value of a function outside
+          the range of known values
+     2: an inference about the future (or about some hypothetical
+        situation) based on known facts and observations
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

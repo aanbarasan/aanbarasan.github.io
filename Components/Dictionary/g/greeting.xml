@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>greeting</Word>
+  <Definitions>
+    <Definition>
+      <Word>greeting</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Greeting \Greet"ing\, n.
+   Expression of kindness or joy; salutation at meeting; a
+   compliment from one absent.
+   [1913 Webster]
+
+         Write to him . . . gentle adieus and greetings. --Shak.
+
+   Syn: Salutation; salute; compliment.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>greeting</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Greet \Greet\, v. t. [imp. &amp; p. p. {Greeted}; p. pr. &amp; vb. n.
+   {Greeting}.] [OE. greten, AS. gr[=e]tan to address, approach;
+   akin to OS. gr[=o]tian, LG. gr["o]ten, D. groeten, OHG.
+   gruozzen, G. gr["u]ssen. [root]50.]
+   1. To address with salutations or expressions of kind wishes;
+      to salute; to hail; to welcome; to accost with friendship;
+      to pay respects or compliments to, either personally or
+      through the intervention of another, or by writing or
+      token.
+      [1913 Webster]
+
+            My lord, the mayor of London comes to greet you.
+                                                  --Shak.
+      [1913 Webster]
+
+   2. To come upon, or meet, as with something that makes the
+      heart glad.
+      [1913 Webster]
+
+            In vain the spring my senses greets.  --Addison.
+      [1913 Webster]
+
+   3. To accost; to address. --Pope.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>greeting</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>greeting
+     n : (usually plural) an acknowledgment or expression of good
+         will (especially on meeting) [syn: {salutation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

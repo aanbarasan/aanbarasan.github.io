@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>gloomy</Word>
+  <Definitions>
+    <Definition>
+      <Word>gloomy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gloomy \Gloom"y\, a. [Compar. {Gloomier}; superl. {Gloomiest}.]
+   1. Imperfectly illuminated; dismal through obscurity or
+      darkness; dusky; dim; clouded; as, the cavern was gloomy.
+      ``Though hid in gloomiest shade.'' --Milton.
+      [1913 Webster]
+
+   2. Affected with, or expressing, gloom; melancholy; dejected;
+      as, a gloomy temper or countenance.
+
+   Syn: Dark; dim; dusky; dismal; cloudy; moody; sullen; morose;
+        melancholy; sad; downcast; depressed; dejected;
+        disheartened.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gloomy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>gloomy
+     adj 1: characterized by hopelessness; filled with gloom; "gloomy at
+            the thought of what he had to face"; "gloomy
+            predictions"; "a gloomy silence"; "took a grim view of
+            the economy"; "the darkening mood" [syn: {grim}, {darkening}]
+     2: depressing in character or appearance; "drove through dingy
+        streets"; "the dismal prison twilight"- Charles Dickens;
+        "drab old buildings"; "a dreary mining town"; "gloomy
+        tenements"; "sorry routine that follows on the heels of
+        death"- B.A.Williams [syn: {dingy}, {dismal}, {drab}, {drear},
+         {dreary}, {sorry}]
+     3: depressingly dark; "the gloomy forest"; "the glooming
+        interior of an old inn"; "`gloomful' is archaic" [syn: {glooming},
+         {gloomful}]
+     4: causing or suggestive of sorrow or gloom; "a gloomy
+        outlook"; "gloomy news" [syn: {depressing}, {depressive},
+        {saddening}]
+     5: reflecting gloom; "gloomy faces" [syn: {glum}, {long-faced}]
+     6: causing dejection; "a blue day"; "the dark days of the war";
+        "a week of rainy depressing weather"; "a disconsolate
+        winter landscape"; "the first dismal dispiriting days of
+        November"; "a dark gloomy day"; "grim rainy weather" [syn:
+         {blue}, {dark}, {depressing}, {disconsolate}, {dismal}, {dispiriting},
+         {grim}]
+     [also: {gloomiest}, {gloomier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>gene</Word>
+  <Definitions>
+    <Definition>
+      <Word>gene</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>gene
+     n : (genetics) a segment of DNA that is involved in producing a
+         polypeptide chain; it can include regions preceding and
+         following the coding DNA as well as introns between the
+         exons; it is considered a unit of heredity; "genes were
+         formerly called factors" [syn: {cistron}, {factor}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

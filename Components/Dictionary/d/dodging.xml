@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dodging</Word>
+  <Definitions>
+    <Definition>
+      <Word>dodging</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dodge \Dodge\, v. i. [imp. &amp; p. p. {Dodged}; p. pr. &amp; vb. n.
+   {Dodging}.] [Of uncertain origin: cf. dodder, v., daddle,
+   dade, or dog, v. t.]
+   1. To start suddenly aside, as to avoid a blow or a missile;
+      to shift place by a sudden start. --Milton.
+      [1913 Webster]
+
+   2. To evade a duty by low craft; to practice mean shifts; to
+      use tricky devices; to play fast and loose; to quibble.
+      [1913 Webster]
+
+            Some dodging casuist with more craft than sincerity.
+                                                  --Milton.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dodging</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dodging
+     n 1: nonperformance of something distasteful (as by deceit or
+          trickery) that you are supposed to do; "his evasion of
+          his clear duty was reprehensible"; "that escape from the
+          consequences is possible but unattractive" [syn: {evasion},
+           {escape}]
+     2: a statement that evades the question by cleverness or
+        trickery [syn: {dodge}, {scheme}]
+     3: deliberately avoiding; keeping away from or preventing from
+        happening [syn: {avoidance}, {turning away}, {shunning}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

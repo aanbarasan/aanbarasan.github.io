@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cryptanalysis</Word>
+  <Definitions>
+    <Definition>
+      <Word>cryptanalysis</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>cryptanalysis
+     
+        The branch of {cryptography} concerned with decoding encrypted
+        messages when you're not supposed to be able to.
+     
+        (1994-12-06)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cryptanalysis</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>cryptanalysis \crypt"a*nal"y*sis\, n.
+   1. the science which studies methods to discovering the
+      secret meaning of encrypted messages for which one does
+      not possess the secret decoding information (called the
+      {key}).
+      [PJC]
+
+   2. the methods and procedures used to discover the secret
+      meaning hidden in encrypted messages.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cryptanalysis</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cryptanalysis
+     n : the science of analyzing and deciphering codes and ciphers
+         and cryptograms [syn: {cryptanalytics}, {cryptography}, {cryptology}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

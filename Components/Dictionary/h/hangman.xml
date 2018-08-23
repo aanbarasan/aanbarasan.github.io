@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hangman</Word>
+  <Definitions>
+    <Definition>
+      <Word>hangman</Word>
+      <Dictionary>
+        <Id>devils</Id>
+        <Name>THE DEVIL'S DICTIONARY ((C)1911 Released April 15 1993)</Name>
+      </Dictionary>
+      <WordDefinition>HANGMAN, n.  An officer of the law charged with duties of the highest
+dignity and utmost gravity, and held in hereditary disesteem by a
+populace having a criminal ancestry.  In some of the American States
+his functions are now performed by an electrician, as in New Jersey,
+where executions by electricity have recently been ordered -- the
+first instance known to this lexicographer of anybody questioning the
+expediency of hanging Jerseymen.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hangman</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hangman \Hang"man\ (h[a^]ng"man), n.; pl. {Hangmen} (-men).
+   One who hangs another; esp., one who makes a business of
+   hanging; a public executioner; -- sometimes used as a term of
+   reproach, without reference to office. --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hangman</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hangman
+     n : an executioner who hangs the condemned person
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

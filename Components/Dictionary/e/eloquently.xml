@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>eloquently</Word>
+  <Definitions>
+    <Definition>
+      <Word>eloquently</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Eloquently \El"o*quent*ly\, adv.
+   In an eloquent manner.
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>eloquently</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>eloquently
+     adv 1: with eloquence; "he expressed his ideas eloquently" [syn: {articulately}]
+            [ant: {ineloquently}, {ineloquently}]
+     2: in an articulate manner; "he argued articulately for his
+        plan" [syn: {articulately}] [ant: {inarticulately}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

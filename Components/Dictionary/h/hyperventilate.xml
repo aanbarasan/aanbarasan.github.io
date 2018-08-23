@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hyperventilate</Word>
+  <Definitions>
+    <Definition>
+      <Word>hyperventilate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>hyperventilate \hyperventilate\ v. i.
+   to breathe rapidly and deeply; to breathe excessively; as,
+   The mountain climber started to hyperventilate.
+   [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hyperventilate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hyperventilate
+     v 1: produce hyperventilation in; "The nurses had to
+          hyperventilate the patient"
+     2: breathe excessively hard and fast; "The mountain climber
+        started to hyperventilate"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

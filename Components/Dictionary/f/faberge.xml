@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>faberge</Word>
+  <Definitions>
+    <Definition>
+      <Word>faberge</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Faberge
+     n : Russian goldsmith noted for creating a series of jeweled and
+         enameled Easter eggs for European royalty (1846-1920)
+         [syn: {Peter Carl Faberge}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

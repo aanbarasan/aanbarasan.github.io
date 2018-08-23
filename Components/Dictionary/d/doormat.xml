@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>doormat</Word>
+  <Definitions>
+    <Definition>
+      <Word>doormat</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>doormat \doormat\ n.
+   1. a mat placed outside and exterior door for wiping the
+      shoes before entering. [WordNet sense 2]
+
+   Syn: welcome mat.
+        [WordNet 1.5]
+
+   2. (figurative) A person who is habitually abused, taken
+      advantage of or humiliated; sometimes, one who is
+      physically weak; as, they used him for a doormat. [WordNet
+      sense 1]
+
+   Syn: weakling.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>doormat</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>doormat
+     n 1: a person who is physically weak and ineffectual [syn: {weakling},
+           {wuss}]
+     2: a mat placed outside an exterior door for wiping the shoes
+        before entering [syn: {welcome mat}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

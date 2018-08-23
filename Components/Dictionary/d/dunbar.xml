@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dunbar</Word>
+  <Definitions>
+    <Definition>
+      <Word>dunbar</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Dunbar, NE (village, FIPS 13855)
+  Location: 40.66867 N, 96.03031 W
+  Population (1990): 171 (79 housing units)
+  Area: 0.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 68346
+Dunbar, PA (borough, FIPS 20216)
+  Location: 39.97957 N, 79.61415 W
+  Population (1990): 1213 (529 housing units)
+  Area: 1.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 15431
+Dunbar, WI
+  Zip code(s): 54119
+Dunbar, WV (city, FIPS 22564)
+  Location: 38.36819 N, 81.73673 W
+  Population (1990): 8697 (4239 housing units)
+  Area: 7.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 25064
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>elite</Word>
+  <Definitions>
+    <Definition>
+      <Word>elite</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>elite
+     
+        1. &lt;security&gt; A term used to describe skilled {crackers} or
+        {hackers}, or their deeds.  In the last sense, compare to
+        {elegant}.
+     
+        The term is also used to describe exclusive forums ({ftp}
+        sites, {BBS}s) used for trading pirated software, {crack}ing
+        tools, or {phreaking} codes.
+     
+        (1997-01-31)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>elite</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>'Elite \['E]`lite"\ ([=a]`l[=e]t"), n. [F., fr. ['e]lire to
+   choose, L. eligere. See {Elect}.]
+   1. A choice or select body; the flower; as, the ['e]lite of
+      society.
+      [1913 Webster]
+
+   2. See {Army organization}, Switzerland.
+      [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>elite</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>elite adj. Clueful. Plugged-in. One of the cognoscenti. Also used as a
+   general positive adjective. This term is not actually native hacker
+   slang; it is used primarily by crackers and {warez d00dz}, for which
+   reason hackers use it only with heavy irony. The term used to refer to
+   the folks allowed in to the "hidden" or "privileged" sections of BBSes
+   in the early 1980s (which, typically, contained pirated software).
+   Frequently, early boards would only let you post, or even see, a certain
+   subset of the sections (or `boards') on a BBS. Those who got to the
+   frequently legendary `triple super secret' boards were elite.
+   Misspellings of this term in warez d00dz style abound; the forms `l337'
+   `eleet', and `31337' (among others) have been sighted.
+
+   A true hacker would be more likely to use `wizardly'. Oppose {lamer}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>elite</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>elite
+     adj : selected as the best; "an elect circle of artists"; "elite
+           colleges" [syn: {elect}]
+     n : a group or class of persons enjoying superior intellectual
+         or social or economic status [syn: {elite group}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

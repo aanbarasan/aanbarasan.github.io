@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fp</Word>
+  <Definitions>
+    <Definition>
+      <Word>fp</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>FP
+     
+        1. {functional programming}.
+     
+        2. {floating-point}.
+     
+        3. Functional Programming.  A {combinator}-based {functional
+        language} by John Backus stressing the use of {higher-order
+        function}s.
+     
+        Implementation by Andy Valencia.
+        {(ftp://apple.com/comp.sources.Unix/volume13)}.
+     
+        See also {FFP}, {FL}, {IFP}, {Berkeley FP}.
+     
+        ["Can Programming be Liberated From the von Neumann Style?  A
+        Functional Style and Its Algebra of Programs", John Backus,
+        1977 Turing Award Lecture, CACM 21(8):165-180 (Aug 1978)].
+     
+        4. &lt;programming&gt; {Function Point}.
+     
+        (1995-03-12)
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

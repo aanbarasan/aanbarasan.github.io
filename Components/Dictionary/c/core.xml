@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>core</Word>
+  <Definitions>
+    <Definition>
+      <Word>core</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>core
+     
+        1. &lt;storage&gt; {Main memory} or {RAM}.  This term dates from the
+        days of {ferrite core memory}; now archaic most places outside
+        {IBM}, but also still used in the {Unix} community and by
+        old-time {hackers} or those who would sound like them.
+     
+        Some derived idioms are quite current; "in core", for example,
+        means "in memory" ({paged in}, as opposed to "on disk", {paged
+        out}), and both {core dump} and the "core image" or "core
+        file" produced by one are terms in favour.  Some varieties of
+        Commonwealth hackish prefer {store}.
+     
+        [{Jargon File}]
+     
+        (1995-03-03)
+     
+        2. &lt;processor&gt; An {integrated circuit} design, usually for a
+        {microprocessor}, which includes only the {CPU} and which is
+        intended to form part of a complete circuit design which
+        incorporates other circuits on the same chip such as {cache},
+        {memory management unit}, I/O ports and timers.
+     
+        The {ARM6}, {ARM7} and {ARM8} are examples.
+     
+        3. &lt;language&gt; A varient on {kernel} as used to describe
+        features built into a language as opposed to those provided by
+        {libraries}.
+     
+        (1995-03-03)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>core</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Core, WV
+  Zip code(s): 26529
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>core</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Koran \Ko"ran\ (k[=o]"ran or k[-o]*r[aum]n"; 277), n. [Ar.
+   qor[=a]n; with the Ar. article, Alkoran, Alcoran; = Turk.
+   Pers. qur[^a]n, from Ar. quran, qoran, book, reading, from
+   q[^a]r[^a], read. See {Alcoran}.]
+   The Scriptures of the Muslims, containing the professed
+   revelations to Mohammed; -- called also {Alcoran}. [Written
+   also {Kuran} or {Quran}, Also rarely {Coran} and {Core}.]
+
+   Note: The Koran is the sacred book of the Muslims (sometimes
+         called Mohammedans by non-Muslims, a term considered
+         offensive by some Muslims). It is the most important
+         foundation on which Islam rests and it is held in the
+         highest veneration by all Islamic sects. When being
+         read it must be kept on a stand elevated above the
+         floor. No one may read it or touch it without first
+         making a legal ablution. It is written in the Arabic
+         language, and its style is considered a model. The
+         substance of the Koran is held to be uncreated and
+         eternal. Mohammed was merely the person to whom the
+         work was revealed. At first the Koran was not written,
+         but entirely committed to memory. But when a great many
+         of the best Koran reciters had been killed in battle,
+         Omar suggested to Abu-Bekr (the successor of Mohammed)
+         that it should be written down. Abu-Bekr accordingly
+         commanded Zeid, an amanuensis of the prophet, to commit
+         it to writing. This was the authorized text until 23
+         years after the death of the prophet. A number of
+         variant readings had, however, crept into use. By order
+         of the calif Osman in the year 30 of the Hejira, Zeid
+         and three assistants made a careful revision which was
+         adopted as the standard, and all the other copies were
+         ordered to be burned. The Koran consists of 114 suras
+         or divisions. These are not numbered, but each one has
+         a separate name. They are not arranged in historical
+         order. These suras purport to be the addresses
+         delivered by Mohammed during his career at Mecca and
+         Medina. As a general rule the shorter suras, which
+         contain the theology of Islam, belong to the Meccan
+         period; while the longer ones, relating to social
+         duties and relationships, to Medina. The Koran is
+         largely drawn from Jewish and Christian sources, the
+         former prevailing. Moses and Jesus are reckoned among
+         the prophets. The biblical narratives are interwoven
+         with rabbinical legends. The customs of the Jews are
+         made to conform to those of the Arabians. Islamic
+         theology consists in the study of the Koran and its
+         commentaries. A very fine collection of Korans,
+         including one in Cufic (the old Arabic character), is
+         to be found in the Khedival Library at Cairo, Egypt.
+         [Century Dict. 1906]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>core</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cor \Cor\ (k[^o]r), n. [Heb. k[=o]r.]
+   A Hebrew measure of capacity; a homer. [Written also {core}.]
+   [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>core</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Core \Core\ (k[=o]r), n. [F. corps. See {Corps}.]
+   A body of individuals; an assemblage. [Obs.]
+   [1913 Webster]
+
+         He was in a core of people.              --Bacon.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>core</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Core \Core\, n. [Cf. {Chore}.] (Mining.)
+   A miner's underground working time or shift. --Raymond.
+   [1913 Webster]
+
+   Note: The twenty-four hours are divided into three or four
+         cores.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>core</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Core \Core\, n. [Heb. k[=o]r: cf. Gr. ko`ros.]
+   A Hebrew dry measure; a cor or homer. --Num. xi. 32 (Douay
+   version).
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>core</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Core \Core\, n. [OF. cor, coer, cuer, F. c[oe]ur, fr. L. cor
+   heart. See {Heart}.]
+   1. The heart or inner part of a thing, as of a column, wall,
+      rope, of a boil, etc.; especially, the central part of
+      fruit, containing the kernels or seeds; as, the core of an
+      apple or quince.
+      [1913 Webster]
+
+            A fever at the core,
+            Fatal to him who bears, to all who ever bore.
+                                                  --Byron.
+      [1913 Webster]
+
+   2. The center or inner part, as of an open space; as, the
+      core of a square. [Obs.] --Sir W. Raleigh.
+      [1913 Webster]
+
+   3. The most important part of a thing; the essence; as, the
+      core of a subject; -- also used attributively, as the core
+      curriculum at a college.
+      [1913 Webster +PJC]
+
+   4. (Founding) The portion of a mold which shapes the interior
+      of a cylinder, tube, or other hollow casting, or which
+      makes a hole in or through a casting; a part of the mold,
+      made separate from and inserted in it, for shaping some
+      part of the casting, the form of which is not determined
+      by that of the pattern.
+      [1913 Webster]
+
+   5. A disorder of sheep occasioned by worms in the liver.
+      [Prov. Eng.] --Halliwell.
+      [1913 Webster]
+
+   6. (Anat.) The bony process which forms the central axis of
+      the horns in many animals.
+      [1913 Webster]
+
+   7. (Elec.) A mass of iron or other ferrous metal, forming the
+      central part of an electromagnet, such as those upon which
+      the conductor of an armature, a transformer, or an
+      induction coil is wound.
+
+   Note: The presence of the iron intensifies the magnetic field
+         created by a a current passing through the windings.
+         [Webster 1913 Suppl. +PJC]
+
+   8. (mining) a sample of earth or rock extracted from
+      underground by a drilling device in such a manner that the
+      layers of rock are preserved in the same order as they
+      exist underground; as, to drill a core; to extract a core.
+      The sample is typically removed with a rotating drill bit
+      having a hollow center, and is thus shaped like a
+      cylinder.
+      [PJC]
+
+   9. (computers) the main working memory of a digital computer
+      system, which typically retains the program code being
+      executed as well as the data structures that are
+      manipulated by the program. Contrasted to {ROM} and {data
+      storage device}.
+
+   Note: The term was applied originally to small ferromagnetic
+         rings that were used to store data in a computer, each
+         ring representing one bit of information by virtue of
+         its state of magnetization. They were superseded by
+         electronic data storage devices.
+
+   Syn: core memory, random access memory, RAM
+        [PJC]
+
+   9. (Geol.) the central part of the earth, believed to be a
+      sphere with a radius of about 2100 miles, and composed
+      primarily of molten iron with some nickel. It is
+      distinguished from the crust and mantle.
+      [PJC]
+
+   9. (Engineering) the central part of a nuclear reactor,
+      containing the fissionable fuel.
+      [PJC]
+
+   {Core box} (Founding), a box or mold, usually divisible, in
+      which cores are molded.
+
+   {Core print} (Founding), a projecting piece on a pattern
+      which forms, in the mold, an impression for holding in
+      place or steadying a core.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>core</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Core \Core\, v. t. [imp. &amp; p. p. {Cord} (k?rd); p. pr. &amp; vb. n.
+   {Coring}.]
+   1. To take out the core or inward parts of; as, to core an
+      apple.
+      [1913 Webster]
+
+            He's like a corn upon my great toe . . . he must be
+            cored out.                            --Marston.
+      [1913 Webster]
+
+   2. To form by means of a core, as a hole in a casting.
+      [1913 Webster]
+
+   3. To extract a cylindrical sample from, with a boring
+      device. See {core[8]}.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>core</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>core n. Main storage or RAM. Dates from the days of ferrite-core
+   memory; now archaic as techspeak most places outside IBM, but also still
+   used in the Unix community and by old-time hackers or those who would
+   sound like them. Some derived idioms are quite current; `in core', for
+   example, means `in memory' (as opposed to `on disk'), and both {core
+   dump} and the `core image' or `core file' produced by one are terms in
+   favor. Some varieties of Commonwealth hackish prefer {store}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>core</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>core
+     n 1: the center of an object; "the ball has a titanium core"
+     2: a small group of indispensable persons or things; "five
+        periodicals make up the core of their publishing program"
+        [syn: {nucleus}, {core group}]
+     3: the central part of the Earth
+     4: the choicest or most essential or most vital part of some
+        idea or experience; "the gist of the prosecutor's
+        argument"; "the heart and soul of the Republican Party";
+        "the nub of the story" [syn: {kernel}, {substance}, {center},
+         {essence}, {gist}, {heart}, {heart and soul}, {inwardness},
+         {marrow}, {meat}, {nub}, {pith}, {sum}, {nitty-gritty}]
+     5: a cylindrical sample of soil or rock obtained with a hollow
+        drill
+     6: an organization founded by James Leonard Farmer in 1942 to
+        work for racial equality [syn: {Congress of Racial
+        Equality}]
+     7: the central meaning or theme of a speech or literary work
+        [syn: {effect}, {essence}, {burden}, {gist}]
+     8: the chamber of a nuclear reactor containing the fissile
+        material where the reaction takes place
+     9: a bar of magnetic material (as soft iron) that passes
+        through a coil and serves to increase the inductance of
+        the coil
+     v : remove the core or center from; "core an apple"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

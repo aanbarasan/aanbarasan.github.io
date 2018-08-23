@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fm</Word>
+  <Definitions>
+    <Definition>
+      <Word>fm</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>FM
+     
+        1. &lt;communications&gt; {Frequency Modulation}.
+     
+        2. &lt;jargon&gt; Fucking Manual, a back-formation from {RTFM}.
+        Used to refer to the manual itself.
+     
+        3. &lt;jargon&gt; Fucking Magic, in the sense of {black magic}.
+     
+        (2001-04-30)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fm</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>fm
+     
+        &lt;networking&gt; The {country code} for the Federated States of
+        Micronesia.
+     
+        Heavily used for {vanity domains} by FM radio stations.
+     
+        (1999-01-27)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fm</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>FM \FM\ n. [Frequency Modulaiton.]
+   A method of transmitting radio signals by modulating the
+   frequency of the carrier wave; -- opposed to AM (amplitude
+   modulation), in which the signal modulates the amplitude,
+   rather than the frequency of the carrier wave. [acron.]
+
+   Syn: frequency modulation.
+        [WordNet 1.5 +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fm</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fm \Fm\ prop. n.
+   The chemical symbol for {Fermium}, a transuranic element.
+
+   Syn: fermium, atomic number 100.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fm</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fm \Fm\ prop. n.
+   the symbol for the element {Fermium}.
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fm</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>FM /F-M/ n. 1. [common] _Not_ `Frequency Modulation' but rather an
+   abbreviation for `Fucking Manual', the back-formation from {RTFM}. Used
+   to refer to the manual itself in the {RTFM}. "Have you seen the
+   Networking FM lately?" 2. Abbreviation for "Fucking Magic", used in the
+   sense of {black magic}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fm</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>FM
+     Frequenz-Modulation
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fm</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>FM
+     n 1: modulation of the frequency of the (radio) carrier wave
+          [syn: {frequency modulation}]
+     2: a radioactive transuranic metallic element produced by
+        bombarding plutonium with neutrons [syn: {fermium}, {atomic
+        number 100}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>editorial</Word>
+  <Definitions>
+    <Definition>
+      <Word>editorial</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Editorial \Ed`i*to"ri*al\, n.
+   A leading article in a newspaper or magazine; an editorial
+   article; an article published as an expression of the views
+   of the editor.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>editorial</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Editorial \Ed`i*to"ri*al\, a.
+   Of or pertaining to an editor; written or sanctioned by an
+   editor; as, editorial labors; editorial remarks.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>editorial</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>editorial
+     adj 1: of or relating to an article stating opinions or giving
+            perspectives; "editorial column"
+     2: relating to or characteristic of an editor; "editorial
+        duties"
+     n : an article giving opinions or perspectives [syn: {column}, {newspaper
+         column}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>harvey</Word>
+  <Definitions>
+    <Definition>
+      <Word>harvey</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Harvey, AR
+  Zip code(s): 72841
+Harvey, IA (city, FIPS 34860)
+  Location: 41.31662 N, 92.92341 W
+  Population (1990): 235 (107 housing units)
+  Area: 1.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 50119
+Harvey, IL (city, FIPS 33383)
+  Location: 41.60725 N, 87.65190 W
+  Population (1990): 29771 (10286 housing units)
+  Area: 16.0 sq km (land), 0.0 sq km (water)
+Harvey, LA (CDP, FIPS 33245)
+  Location: 29.88603 N, 90.06727 W
+  Population (1990): 21222 (9406 housing units)
+  Area: 17.2 sq km (land), 0.9 sq km (water)
+  Zip code(s): 70058
+Harvey, MI (CDP, FIPS 37080)
+  Location: 46.49283 N, 87.35090 W
+  Population (1990): 1377 (548 housing units)
+  Area: 5.2 sq km (land), 1.4 sq km (water)
+Harvey, ND (city, FIPS 35900)
+  Location: 47.77005 N, 99.93072 W
+  Population (1990): 2263 (1060 housing units)
+  Area: 2.9 sq km (land), 0.0 sq km (water)
+Harvey, WV
+  Zip code(s): 25901
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>harvey</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Harvey
+     n : English physician and scientist who described the
+         circulation of the blood; he later proposed that all
+         animals originate from an ovum produced by the female of
+         the species (1578-1657) [syn: {William Harvey}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

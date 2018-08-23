@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>duly</Word>
+  <Definitions>
+    <Definition>
+      <Word>duly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Duly \Du"ly\, adv.
+   In a due, fit, or becoming manner; as it (anything) ought to
+   be; properly; regularly.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>duly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>duly
+     adv : at the proper time; "she was duly apprised of the raise"
+           [syn: {punctually}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

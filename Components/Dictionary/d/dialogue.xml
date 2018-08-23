@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dialogue</Word>
+  <Definitions>
+    <Definition>
+      <Word>dialogue</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dialogue \Di"a*logue\, v. i. [Cf. F. dialoguer.]
+   To take part in a dialogue; to dialogize. [R.] --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dialogue</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dialogue \Di"a*logue\, v. t.
+   To express as in dialogue. [R.]
+   [1913 Webster]
+
+         And dialogued for him what he would say. --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dialogue</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dialogue \Di"a*logue\ (?; 115), n. [OE. dialogue, L. dialogus,
+   fr. Gr. ?, fr. ? to converse, dia` through + ? to speak: cf.
+   F. dialogue. See {Legend}.]
+   1. A conversation between two or more persons; particularly,
+      a formal conservation in theatrical performances or in
+      scholastic exercises.
+      [1913 Webster]
+
+   2. A written composition in which two or more persons are
+      represented as conversing or reasoning on some topic; as,
+      the Dialogues of Plato.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dialogue</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dialogue
+     n 1: a conversation between two persons [syn: {dialog}, {duologue}]
+     2: the lines spoken by characters in drama or fiction [syn: {dialog}]
+     3: a literary composition in the form of a conversation between
+        two people; "he has read Plato's Dialogues in the original
+        Greek" [syn: {dialog}]
+     4: a discussion intended to produce an agreement; "the buyout
+        negotiation lasted several days"; "they disagreed but kept
+        an open dialogue"; "talks between Israelis and
+        Palestinians" [syn: {negotiation}, {talks}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

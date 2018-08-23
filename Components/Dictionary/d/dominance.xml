@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dominance</Word>
+  <Definitions>
+    <Definition>
+      <Word>dominance</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dominance \Dom"i*nance\, Dominancy \Dom"i*nan*cy\, n.
+   Predominance; ascendency; authority.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dominance</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dominance
+     n 1: superior development of one side of the body [syn: {laterality}]
+     2: the state that exists when one person or group has power
+        over another; "her apparent dominance of her husband was
+        really her attempt to make him pay attention to her" [syn:
+         {ascendance}, {ascendence}, {ascendancy}, {ascendency}, {control}]
+     3: the power or right to give orders or make decisions; "he has
+        the authority to issue warrants"; "deputies are given
+        authorization to make arrests" [syn: {authority}, {authorization},
+         {authorisation}, {say-so}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

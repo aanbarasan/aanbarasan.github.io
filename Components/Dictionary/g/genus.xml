@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>genus</Word>
+  <Definitions>
+    <Definition>
+      <Word>genus</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Genus \Ge"nus\ (j[=e]"n[u^]s), n.; pl. {Genera}. [L., birth,
+   race, kind, sort; akin to Gr. ?. See {Gender}, and cf.
+   {Benign}.]
+   [1913 Webster]
+   1. (Logic) A class of objects divided into several
+      subordinate species; a class more extensive than a
+      species; a precisely defined and exactly divided class;
+      one of the five predicable conceptions, or sorts of terms.
+      [1913 Webster]
+
+   2. (Biol.) An assemblage of species, having so many
+      fundamental points of structure in common, that in the
+      judgment of competent scientists, they may receive a
+      common substantive name. A genus is not necessarily the
+      lowest definable group of species, for it may often be
+      divided into several subgenera. In proportion as its
+      definition is exact, it is natural genus; if its
+      definition can not be made clear, it is more or less an
+      artificial genus.
+      [1913 Webster]
+
+   Note: Thus in the animal kingdom the lion, leopard, tiger,
+         cat, and panther are species of the Cat kind or genus,
+         while in the vegetable kingdom all the species of oak
+         form a single genus. Some genera are represented by a
+         multitude of species, as Solanum (Nightshade) and Carex
+         (Sedge), others by few, and some by only one known
+         species.
+         [1913 Webster]
+
+   {Subaltern genus} (Logic), a genus which may be a species of
+      a higher genus, as the genus denoted by quadruped, which
+      is also a species of mammal.
+
+   {Summum genus} [L.] (Logic), the highest genus; a genus which
+      can not be classed as a species, as being.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>genus</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>genus
+     n 1: a general kind of something; "ignore the genus communism"
+     2: (biology) taxonomic group containing one or more species
+     [also: {genera} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

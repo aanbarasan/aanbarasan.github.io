@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>crusty</Word>
+  <Definitions>
+    <Definition>
+      <Word>crusty</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Crusty \Crust"y\ (-[y^]), a.
+   1. Having the nature of crust; pertaining to a hard covering;
+      as, a crusty coat; a crusty surface or substance.
+      [1913 Webster]
+
+   2. [Possibly a corruption of cursty. Cf. {Curst},
+      {Curstness}.] Having a hard exterior, or a short, rough
+      manner, though kind at heart; snappish; peevish; surly.
+      [1913 Webster]
+
+            Thou crusty batch of nature, what's the news?
+                                                  --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>crusty</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>crusty
+     adj 1: having a hardened crust as a covering [syn: {crusted}, {encrusted},
+             {crustlike}]
+     2: brusque and surly and forbidding; "crusty remarks"; "a
+        crusty old man"; "his curmudgeonly temper"; "gruff
+        manner"; "a gruff reply" [syn: {curmudgeonly}, {gruff}, {ill-humored},
+         {ill-humoured}]
+     [also: {crustiest}, {crustier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

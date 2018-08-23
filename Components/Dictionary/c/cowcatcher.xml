@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cowcatcher</Word>
+  <Definitions>
+    <Definition>
+      <Word>cowcatcher</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cowcatcher \Cow"catch`er\ (-k?ch`?r), n.
+   A strong inclined frame, usually of wrought-iron bars, in
+   front of a locomotive engine, for catching or throwing off
+   obstructions on a railway, as cattle; the {pilot}. [U.S.]
+
+   Syn: fender, buffer, pilot.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cowcatcher</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cowcatcher
+     n : an inclined metal frame at the front of a locomotive to
+         clear the track [syn: {fender}, {buffer}, {pilot}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>entomologist</Word>
+  <Definitions>
+    <Definition>
+      <Word>entomologist</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Entomologist \En`to*mol"o*gist\, n. [Cf. F. entomologiste.]
+   One versed in entomology.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>entomologist</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>entomologist
+     n : a zoologist who studies insects [syn: {bugologist}, {bug-hunter}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

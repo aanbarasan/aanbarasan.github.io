@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>freeelectron</Word>
+  <Definitions>
+    <Definition>
+      <Word>freeelectron</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>free electron
+     n : electron that is not attached to an atom or ion or molecule
+         but is free to move under the influence of an electric
+         field
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

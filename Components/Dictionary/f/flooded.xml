@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>flooded</Word>
+  <Definitions>
+    <Definition>
+      <Word>flooded</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Flood \Flood\, v. t. [imp. &amp; p. p. {Flooded}; p. pr. &amp; vb. n.
+   {Flooding}.]
+   1. To overflow; to inundate; to deluge; as, the swollen river
+      flooded the valley.
+      [1913 Webster]
+
+   2. To cause or permit to be inundated; to fill or cover with
+      water or other fluid; as, to flood arable land for
+      irrigation; to fill to excess or to its full capacity; as,
+      to flood a country with a depreciated currency.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flooded</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>flooded \flooded\ adj.
+   1. covered or overflowing with water.
+
+   Syn: afloat(predicate), awash(predicate).
+        [WordNet 1.5]
+
+   2. filled to overflowing as if with water; as, a desk flooded
+      with applications.
+
+   Syn: inundated, swamped.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flooded</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>flooded
+     adj 1: covered with water; "the main deck was afloat (or awash)";
+            "the monsoon left the whole place awash"; "a flooded
+            bathroom"; "inundated farmlands"; "an overflowing tub"
+            [syn: {afloat(p)}, {awash(p)}, {inundated}, {overflowing}]
+     2: rendered powerless especially by an excessive amount or
+        profusion of something; "a desk flooded with
+        applications"; "felt inundated with work"; "too much
+        overcome to notice"; "a man engulfed by fear"; "swamped by
+        work" [syn: {inundated}, {overcome}, {overpowered}, {overwhelmed},
+         {swamped}, {engulfed}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

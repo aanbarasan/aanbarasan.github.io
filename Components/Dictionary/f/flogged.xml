@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>flogged</Word>
+  <Definitions>
+    <Definition>
+      <Word>flogged</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Flog \Flog\ (fl[o^]g), v. t. [imp. &amp; p. p. {Flogged} (fl[o^]gd);
+   p. pr. &amp; vb. n. {Flogging} (-g[i^]ng).] [Cf. Scot. fleg blow,
+   stroke, kick, AS. flocan to strike, or perh. fr. L.
+   flagellare to whip. Cf. {Flagellate}.]
+   To beat or strike with a rod or whip; to whip; to lash; to
+   chastise with repeated blows.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flogged</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>flog
+     v 1: beat severely with a whip or rod; "The teacher often flogged
+          the students"; "The children were severely trounced"
+          [syn: {welt}, {whip}, {lather}, {lash}, {slash}, {strap},
+           {trounce}]
+     2: beat with a cane [syn: {cane}, {lambaste}, {lambast}]
+     [also: {flogging}, {flogged}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flogged</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>flogged
+     See {flog}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

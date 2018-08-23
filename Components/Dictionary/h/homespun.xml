@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>homespun</Word>
+  <Definitions>
+    <Definition>
+      <Word>homespun</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Homespun \Home"spun\, a.
+   1. Spun or wrought at home; of domestic manufacture; coarse;
+      plain. ``Homespun country garbs.'' --W. Irving.
+      [1913 Webster]
+
+   2. Plain in manner or style; not elegant; rude; coarse. ``Our
+      homespun English proverb.'' --Dryden. ``Our homespun
+      authors.'' --Addison.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>homespun</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Homespun \Home"spun\, n.
+   1. Cloth made at home; as, he was dressed in homespun.
+      [1913 Webster]
+
+   2. An unpolished, rustic person. [Obs.] --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>homespun</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>homespun
+     adj 1: of textiles; having a rough surface; "a sweater knitted of
+            nubbly homespun yarns" [syn: {homespun(p)}, {nubby}, {nubbly},
+             {slubbed}, {tweedy}]
+     2: characteristic of country life; "cracker-barrel philosophy";
+        "folksy humor"; "the air of homespun country boys" [syn: {cracker-barrel},
+         {folksy}]
+     3: made of cloth spun or woven in the home; "homespun linen";
+        "homespun garments"
+     n : a rough loosely woven fabric originally made with homespun
+         yarn [syn: {homespun fabric}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

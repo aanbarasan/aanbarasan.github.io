@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>exuberant</Word>
+  <Definitions>
+    <Definition>
+      <Word>exuberant</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Exuberant \Ex*u"ber*ant\, a. [L. exuberans, exuberantis, p. pr.
+   of exuberare to be abundant; ex + uberare to be fruitful, fr.
+   uber fruitful, fertile, uber udder: cf. F. exub['e]rant. See
+   {Udder}.]
+   Characterized by abundance or superabundance; plenteous;
+   rich; overflowing; copious or excessive in production; as,
+   exuberant goodness; an exuberant intellect; exuberant
+   foliage. ``Exuberant spring.'' --Thomson. --
+   {Ex*u"ber*ant*ly}, adv.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>exuberant</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>exuberant
+     adj 1: joyously unrestrained [syn: {ebullient}, {high-spirited}]
+     2: unrestrained in especially feelings; "extravagant praise";
+        "exuberant compliments"; "overweening ambition";
+        "overweening greed" [syn: {excessive}, {extravagant}, {overweening}]
+     3: produced or growing in extreme abundance; "their riotous
+        blooming" [syn: {lush}, {luxuriant}, {profuse}, {riotous}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

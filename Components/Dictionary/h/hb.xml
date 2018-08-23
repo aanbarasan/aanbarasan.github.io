@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hb</Word>
+  <Definitions>
+    <Definition>
+      <Word>hb</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Hb
+     n : a hemoprotein composed of globin and heme that gives red
+         blood cells their characteristic color; function
+         primarily to transport oxygen from the lungs to the body
+         tissues; "fish have simpler hemoglobin than mammals"
+         [syn: {hemoglobin}, {haemoglobin}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

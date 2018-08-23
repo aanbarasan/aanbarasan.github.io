@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hatter</Word>
+  <Definitions>
+    <Definition>
+      <Word>hatter</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hatter \Hat"ter\ (-t[~e]r), v. t. [Prov. E., to entangle; cf.
+   LG. verhaddern, verheddern, verhiddern.]
+   To tire or worry; -- with out. [Obs.] --Dryden.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hatter</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hatter \Hat"ter\, n.
+   One who makes or sells hats.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hatter</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hatter
+     n : someone who makes and sells hats [syn: {hatmaker}, {milliner},
+          {modiste}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

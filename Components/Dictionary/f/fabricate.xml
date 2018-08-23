@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fabricate</Word>
+  <Definitions>
+    <Definition>
+      <Word>fabricate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fabricate \Fab"ri*cate\, v. t. [imp. &amp; p. p. {Fabricated}; p.
+   pr. &amp; vb. n. {Fabricating}.] [L. fabricatus, p. p. of
+   fabricari, fabricare, to frame, build, forge, fr. fabrica.
+   See {Fabric}, {Farge}.]
+   1. To form into a whole by uniting its parts; to frame; to
+      construct; to build; as, to fabricate a bridge or ship.
+      [1913 Webster]
+
+   2. To form by art and labor; to manufacture; to produce; as,
+      to fabricate woolens.
+      [1913 Webster]
+
+   3. To invent and form; to forge; to devise falsely; as, to
+      fabricate a lie or story.
+      [1913 Webster]
+
+            Our books were not fabricated with an accomodation
+            to prevailing usages.                 --Paley.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fabricate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fabricate
+     v 1: put together out of components or parts; "the company
+          fabricates plastic chairs"; "They manufacture small
+          toys" [syn: {manufacture}, {construct}]
+     2: make up something artificial or untrue [syn: {manufacture},
+        {cook up}, {make up}, {invent}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

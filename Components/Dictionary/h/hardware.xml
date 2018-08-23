@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hardware</Word>
+  <Definitions>
+    <Definition>
+      <Word>hardware</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>hardware
+     
+        &lt;hardware&gt; The physical, touchable, material parts of a
+        computer or other system.  The term is used to distinguish
+        these fixed parts of a system from the more changable
+        {software} or {data} components which it executes, stores, or
+        carries.
+     
+        Computer hardware typically consists chiefly of electronic
+        devices ({CPU}, {memory}, {display}) with some
+        electromechanical parts (keyboard, {printer}, {disk drives},
+        {tape drives}, loudspeakers) for input, output, and storage,
+        though completely non-electronic (mechanical,
+        electromechanical, hydraulic, biological) computers have also
+        been conceived of and built.
+     
+        See also {firmware}, {wetware}.
+     
+        (1997-01-23)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hardware</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hardware \Hard"ware`\ (h[aum]rd"w[^a]r`), n.
+   1. Ware made of metal, as cutlery, kitchen utensils, and the
+      like; ironmongery.
+      [1913 Webster]
+
+   2. Any of the physical objects used in carrying out an
+      activity, in contrast to the knowledge, skill, or theory
+      required to perform the activity; mostly used
+      collectively.
+      [PJC]
+
+   3. Specifically: (Computers) The sum of all the physical
+      objects, such as the electrical, mechanical, and
+      electronic devices which comprise a computer system; as,
+      the typical PC hardware suite consists of a mainboard and
+      a number of peripherals such as hard drives and speakers,
+      connected by adapter cards, but the input and output from
+      users occurs mostly through the keyboard and monitor;
+      contrasted with {software}, the programs executed by the
+      computer.
+      [PJC]
+
+   4. Specifically: (Military) The weapons, transport, and other
+      physical objects used in conducting a war.
+      [PJC]
+
+   5. (Slang) Weapons, especially handguns, carried on the
+      person; as, check your hardware at the door before
+      entering.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hardware</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hardware
+     n 1: major items of military weaponry (as tanks or missile)
+     2: instrumentalities (tools or implements) made of metal [syn:
+        {ironware}]
+     3: (computer science) the mechanical, magnetic, electronic, and
+        electrical components making up a computer system [syn: {computer
+        hardware}] [ant: {software}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

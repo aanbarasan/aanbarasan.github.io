@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>distinctly</Word>
+  <Definitions>
+    <Definition>
+      <Word>distinctly</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Distinctly \Dis*tinct"ly\, adv.
+   1. With distinctness; not confusedly; without the blending of
+      one part or thing another; clearly; plainly; as, to see
+      distinctly.
+      [1913 Webster]
+
+   2. With meaning; significantly. [Obs.]
+      [1913 Webster]
+
+            Thou dost snore distinctly;
+            There's meaning in thy snores.        --Shak.
+
+   Syn: Separately; clearly; plainly; obviously.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>distinctly</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>distinctly
+     adv 1: clear to the mind; with distinct mental discernment; "it's
+            distinctly possible"; "I could clearly see myself in
+            his situation" [syn: {clearly}]
+     2: in a distinct and distinguishable manner; "the subtleties of
+        this distinctly British occasion"
+     3: to a distinct degree; "urbanization in Spain is distinctly
+        correlated with a fall in reproductive rate"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

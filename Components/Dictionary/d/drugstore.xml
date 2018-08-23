@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>drugstore</Word>
+  <Definitions>
+    <Definition>
+      <Word>drugstore</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>drugstore \drugstore\ n.
+   a retail shop where medicine and other articles are sold.
+
+   Syn: apothecary's shop, chemist's, chemist's shop,
+        dispensary, pharmacy.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>drugstore</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>chemist's \chemist's\ n.
+   a retail shop where medicine and other articles are sold; a
+   {drugstore}. [British]
+
+   Syn: drugstore, apothecary's shop, chemist's shop,
+        dispensary, pharmacy.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>drugstore</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>drugstore
+     n : a retail shop where medicine and other articles are sold
+         [syn: {apothecary's shop}, {chemist's}, {chemist's shop},
+          {pharmacy}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>handy</Word>
+  <Definitions>
+    <Definition>
+      <Word>handy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Handy \Hand"y\ (h[a^]nd"[y^]), a. [Compar. {Handier}
+   (-[i^]*[~e]r); superl. {Handiest}.] [OE. hendi, AS. hendig
+   (in comp.), fr. hand hand; akin to D. handig, Goth. handugs
+   clever, wise.]
+   1. Performed by the hand. [Obs.]
+      [1913 Webster]
+
+            To draw up and come to handy strokes. --Milton.
+      [1913 Webster]
+
+   2. Skillful in using the hand; dexterous; ready; adroit.
+      ``Each is handy in his way.'' --Dryden.
+      [1913 Webster]
+
+   3. Ready to the hand; near; also, suited to the use of the
+      hand; convenient; valuable for reference or use; as, my
+      tools are handy; a handy volume.
+      [1913 Webster]
+
+   4. (Naut.) Easily managed; obedient to the helm; -- said of a
+      vessel.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>handy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>handy
+     adj 1: easy to reach; "found a handy spot for the can opener" [syn:
+             {convenient}, {ready to hand(p)}]
+     2: easy to use; "a handy gadget"
+     3: skillful with the hands; "handy with an axe"
+     n : United States blues musician who transcribed and published
+         traditional blues music (1873-1958) [syn: {W. C. Handy},
+         {William Christopher Handy}]
+     [also: {handiest}, {handier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

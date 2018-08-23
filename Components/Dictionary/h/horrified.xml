@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>horrified</Word>
+  <Definitions>
+    <Definition>
+      <Word>horrified</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Horrify \Hor"ri*fy\, v. t. [imp. &amp; p. p. {Horrified}; p. pr. &amp;
+   vb. n. {Horrifying}.] [L. horrificare. See {Horrific}.]
+   To cause to feel horror; to strike or impress with horror;
+   as, the sight horrified the beholders. --E. Irving.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>horrified</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>horrified
+     See {horrify}
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>horrified</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>horrified
+     adj : stricken with horror [syn: {horror-stricken}, {horror-struck}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>horrified</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>horrify
+     v : fill with apprehension or alarm; cause to be unpleasantly
+         surprised; "I was horrified at the thought of being late
+         for my interview"; "The news of the executions horrified
+         us" [syn: {dismay}, {alarm}, {appal}, {appall}]
+     [also: {horrified}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

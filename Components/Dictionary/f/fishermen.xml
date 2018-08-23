@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fishermen</Word>
+  <Definitions>
+    <Definition>
+      <Word>fishermen</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fisherman \Fish"er*man\, n.; pl. {Fishermen}.
+   1. One whose occupation is to catch fish.
+      [1913 Webster]
+
+   2. (Naut.) A ship or vessel employed in the business of
+      taking fish, as in the cod fishery.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

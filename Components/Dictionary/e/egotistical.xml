@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>egotistical</Word>
+  <Definitions>
+    <Definition>
+      <Word>egotistical</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Egotistic \E`go*tis"tic\, Egotistical \E`go*tis"tic*al\, a.
+   Addicted to, or manifesting, egotism; having an exaggerated
+   view of one's own importance or good qualities.
+
+   Syn: egotistic; narcissistic; self-loving; conceited; vain;
+        self-important; opinionated.
+        [1913 Webster + WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>egotistical</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>egotistical
+     adj 1: characteristic of those having an inflated idea of their own
+            importance [syn: {egotistic}, {narcissistic}, {self-loving}]
+     2: characteristic of false pride; having an exaggerated sense
+        of self-importance; "a conceited fool"; "an attitude of
+        self-conceited arrogance"; "an egotistical disregard of
+        others"; "so swollen by victory that he was unfit for
+        normal duty"; "growing ever more swollen-headed and
+        arbitrary"; "vain about her clothes" [syn: {conceited}, {egotistic},
+         {self-conceited}, {swollen}, {swollen-headed}, {vain}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

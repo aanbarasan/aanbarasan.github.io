@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>expelled</Word>
+  <Definitions>
+    <Definition>
+      <Word>expelled</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Expel \Ex*pel"\, v. t. [imp. &amp; p. p. {Expelled}, p. pr. &amp; vb.
+   n.. {Expelling}.] [L. expellere, expulsum; ex out + pellere
+   to drive: cf.F. expeller. See {Pulse} a beat.]
+   1. To drive or force out from that within which anything is
+      contained, inclosed, or situated; to eject; as, to expel
+      air from a bellows.
+      [1913 Webster]
+
+            Did not ye . . . expel me out of my father's house?
+                                                  --Judg. xi. 7.
+      [1913 Webster]
+
+   2. To drive away from one's country; to banish.
+      [1913 Webster]
+
+            Forewasted all their land, and them expelled.
+                                                  --Spenser.
+      .
+      [1913 Webster]
+
+            He shall expel them from before you . . . and ye
+            shall possess their land.             --Josh. xxiii.
+                                                  5.
+      [1913 Webster]
+
+   3. To cut off from further connection with an institution of
+      learning, a society, and the like; as, to expel a student
+      or member.
+      [1913 Webster]
+
+   4. To keep out, off, or away; to exclude. ``To expel the
+      winter's flaw.'' --Shak.
+      [1913 Webster]
+
+   5. To discharge; to shoot. [Obs.]
+      [1913 Webster]
+
+            Then he another and another [shaft] did expel.
+                                                  --Spenser.
+      .
+
+   Syn: To banish; exile; eject; drive out. See {Banish}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>expelled</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>expel
+     v 1: force to leave or move out; "He was expelled from his native
+          country" [syn: {throw out}, {kick out}]
+     2: put out or expel from a place; "The child was expelled from
+        the classroom" [syn: {eject}, {chuck out}, {exclude}, {throw
+        out}, {kick out}, {turf out}, {boot out}, {turn out}]
+     3: remove from a position or office; "The chairman was ousted
+        after he misappropriated funds" [syn: {oust}, {throw out},
+         {drum out}, {boot out}, {kick out}]
+     4: cause to flee; "rout out the fighters from their caves"
+        [syn: {rout}, {rout out}]
+     5: eliminate (substances) from the body [syn: {discharge}, {eject},
+         {release}]
+     [also: {expelling}, {expelled}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>expelled</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>expelled
+     See {expel}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

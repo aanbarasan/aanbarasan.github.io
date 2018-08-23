@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>idiotic</Word>
+  <Definitions>
+    <Definition>
+      <Word>idiotic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Idiotic \Id`i*ot"ic\, Idiotical \Id`i*ot"ic*al\, a. [L.
+   idioticus ignorant, Gr. ?: cf. F. idiotique. See {Idiot}.]
+   1. Common; simple. [Obs.] --Blackwall.
+      [1913 Webster]
+
+   2. Pertaining to, or like, an idiot; characterized by idiocy;
+      foolish; fatuous; as, an idiotic person, speech, laugh, or
+      action.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>idiotic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>idiotic
+     adj 1: insanely irresponsible; "an idiotic idea" [syn: {crackbrained}]
+     2: completely devoid of wisdom or good sense; "the absurd
+        excuse that the dog ate his homework"; "that's a cockeyed
+        idea"; "ask a nonsensical question and get a nonsensical
+        answer"; "a contribution so small as to be laughable"; "it
+        is ludicrous to call a cottage a mansion"; "a preposterous
+        attempt to turn back the pages of history"; "her conceited
+        assumption of universal interest in her rather dull
+        children was ridiculous" [syn: {absurd}, {cockeyed}, {derisory},
+         {laughable}, {ludicrous}, {nonsensical}, {preposterous},
+        {ridiculous}]
+     3: having a mental age of three to seven years [syn: {imbecile},
+         {imbecilic}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

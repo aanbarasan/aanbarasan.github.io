@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hardwired</Word>
+  <Definitions>
+    <Definition>
+      <Word>hardwired</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>hard-wired
+     
+        1. &lt;electronics&gt; An aspect of an electronic circuit which is
+        determined by the wiring of the hardware, as opposed to being
+        programmable in software or controlled by a switch.
+     
+        2. &lt;software, jargon&gt; In software, a synonym for {hard-coded}.
+     
+        3. By extension, anything that is not modifiable, especially
+        in the sense of customisable to one's particular needs or
+        tastes.
+     
+        [{Jargon File}]
+     
+        (1999-10-18)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hardwired</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>hard-wired \hard"-wired"\, hard wired \hard"
+wired"\(h[aum]rd"w[imac]rd"), a.
+   1. (Computers) Contained within the circuitry of a computer
+      or computer peripheral device, and not changeable by
+      programming; -- of functions; as, error correction is
+      hard-wired into the circuit of the disk drive, so it
+      proceeds very rapidly.
+      [PJC]
+
+   2. Connected by a continuous electrical wire, rather than
+      through a switch; as, the air-conditioner was hard-wired
+      into the wall circuit, so moving it would require an
+      electrician.
+      [PJC]
+
+   3. (Metaph.) Performed by an inborn pattern of neural
+      circuits; instinctive; not learned; as, many bird songs
+      are hard-wired, but some are learned.
+      [PJC]
+
+            People, as the cybernetic metaphor now has it, are
+            ``hard wired'' to do good in order to enhance their
+            own happiness. --Andrew Delbanco (New York Times
+      Magazine, May 7, 2000; p. 46).
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hardwired</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>hard-wired \hard"-wired"\, hard wired \hard"
+wired"\(h[aum]rd"w[imac]rd"), a.
+   1. (Computers) Contained within the circuitry of a computer
+      or computer peripheral device, and not changeable by
+      programming; -- of functions; as, error correction is
+      hard-wired into the circuit of the disk drive, so it
+      proceeds very rapidly.
+      [PJC]
+
+   2. Connected by a continuous electrical wire, rather than
+      through a switch; as, the air-conditioner was hard-wired
+      into the wall circuit, so moving it would require an
+      electrician.
+      [PJC]
+
+   3. (Metaph.) Performed by an inborn pattern of neural
+      circuits; instinctive; not learned; as, many bird songs
+      are hard-wired, but some are learned.
+      [PJC]
+
+            People, as the cybernetic metaphor now has it, are
+            ``hard wired'' to do good in order to enhance their
+            own happiness. --Andrew Delbanco (New York Times
+      Magazine, May 7, 2000; p. 46).
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hardwired</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>hardwired adj. 1. In software, syn. for {hardcoded}. 2. By extension,
+   anything that is not modifiable, especially in the sense of customizable
+   to one's particular needs or tastes.
+
+
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

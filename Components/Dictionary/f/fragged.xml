@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fragged</Word>
+  <Definitions>
+    <Definition>
+      <Word>fragged</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>frag \frag\ (fr[a^]g), v. t. [imp. &amp; p. p. {fragged} (fr[a^]gd);
+   p. pr. &amp; vb. n. {fragging}.] [by shortening from
+   fragmentation grenade; ca. 1965.] (Mil.)
+   To assault, especially to kill or wound, with a fragmentation
+   grenade. [Slang]
+
+   Note: This term became popularized when disaffected American
+         troops serving in Vietnam were reported on occasion to
+         kill unpopular commanders by the use of grenades.
+         [PJC]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

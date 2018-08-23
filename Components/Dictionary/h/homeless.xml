@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>homeless</Word>
+  <Definitions>
+    <Definition>
+      <Word>homeless</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Homeless \Home"less\, a. [AS. h[=a]mleas.]
+   Destitute of a home. -- {Home"less*ness}, n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>homeless</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>homeless \home"less\, n. pl.
+   Those people who have no permanent residence, especially
+   those who live outdoors due to poverty; usually used in the
+   definite phrase {the homeless}.
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>homeless</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>homeless
+     adj 1: without nationality or citizenship; "stateless persons"
+            [syn: {stateless}]
+     2: physically or spiritually homeless or deprived of security;
+        "made a living out of shepherding dispossed people from
+        one country to another"- James Stern [syn: {dispossessed},
+         {roofless}]
+     n 1: someone with no housing; "the homeless became a problem in
+          the large cities" [syn: {homeless person}]
+     2: people who are homeless; "the homeless lived on the city
+        streets"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

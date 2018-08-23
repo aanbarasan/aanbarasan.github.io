@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>conscious</Word>
+  <Definitions>
+    <Definition>
+      <Word>conscious</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Conscious \Con"scious\, a. [L. conscius; con- + scire to know.
+   See {Conscience}.]
+   1. Possessing the faculty of knowing one's own thoughts or
+      mental operations.
+      [1913 Webster]
+
+            Some are thinking or conscious beings, or have a
+            power of thought.                     --I. Watts.
+      [1913 Webster]
+
+   2. Possessing knowledge, whether by internal, conscious
+      experience or by external observation; cognizant; aware;
+      sensible.
+      [1913 Webster]
+
+            Her conscious heart imputed suspicion where none
+            could have been felt.                 --Hawthorne.
+      [1913 Webster]
+
+            The man who breathes most healthilly is least
+            conscious of his own breathing.       --De Quincey.
+      [1913 Webster]
+
+   3. Made the object of consciousness; known to one's self; as,
+      conscious guilt.
+      [1913 Webster]
+
+            With conscious terrors vex me round.  --Milton.
+
+   Syn: Aware; apprised; sensible; felt; known.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>conscious</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>conscious
+     adj 1: intentionally conceived; "a conscious effort to speak more
+            slowly"; "a conscious policy" [syn: {witting}]
+     2: knowing and perceiving; having awareness of surroundings and
+        sensations and thoughts; "remained conscious during the
+        operation"; "conscious of his faults"; "became conscious
+        that he was being followed" [ant: {unconscious}]
+     3: (followed by `of') showing realization or recognition of
+        something; "few voters seem conscious of the issue's
+        importance"; "conscious of having succeeded"; "the careful
+        tread of one conscious of his alcoholic load"- Thomas
+        Hardy [syn: {conscious(p)}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

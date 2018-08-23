@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>goal</Word>
+  <Definitions>
+    <Definition>
+      <Word>goal</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>goal
+     
+        &lt;programming&gt; In {logic programming}, a {predicate} applied to
+        its {arguments} which the system attempts to prove by matching
+        it against the {clauses} of the program.  A goal may fail or
+        it may succeed in one or more ways.
+     
+        (1997-07-14)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>goal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Goal \Goal\, n. [F. gaule pole, Prov. F. waule, of German
+   origin; cf. Fries. walu staff, stick, rod, Goth. walus, Icel.
+   v["o]lr a round stick; prob. akin to E. wale.]
+   [1913 Webster]
+   1. The mark set to bound a race, and to or around which the
+      constestants run, or from which they start to return to it
+      again; the place at which a race or a journey is to end.
+      [1913 Webster]
+
+            Part curb their fiery steeds, or shun the goal
+            With rapid wheels.                    --Milton.
+      [1913 Webster]
+
+   2. The final purpose or aim; the end to which a design tends,
+      or which a person aims to reach or attain.
+      [1913 Webster]
+
+            Each individual seeks a several goal. --Pope.
+      [1913 Webster]
+
+   3. A base, station, or bound used in various games as the
+      point or object which a team must reach in order to score
+      points; in certain games, the point which the ball or puck
+      must pass in order for points to be scored. In football,
+      it is a line between two posts across which the ball must
+      pass in order to score points; in soccer or ice hockey, it
+      is a net at each end of the soccer field into which the
+      soccer ball or hocjey puck must be propelled; in
+      basketball, it is the basket[7] suspended from the
+      backboard, through which the basketball must pass.
+      [1913 Webster +PJC]
+
+   4. (Sport) The act or instance of propelling the ball or puck
+      into or through the goal[3], thus scoring points; as, to
+      score a goal.
+      [PJC]
+
+   {Goal keeper}, (Sport) the player charged with the defense of
+      the goal, such as in soccer or ice hockey.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>goal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>goal
+     n 1: the state of affairs that a plan is intended to achieve and
+          that (when achieved) terminates behavior intended to
+          achieve it; "the ends justify the means" [syn: {end}]
+     2: a successful attempt at scoring; "the winning goal came with
+        less than a minute left to play"
+     3: game equipment consisting of the place toward which players
+        of a game try to advance a ball or puck in order to score
+        points
+     4: the place designated as the end (as of a race or journey);
+        "a crowd assembled at the finish"; "he was nearly
+        exhuasted as their destination came into view" [syn: {finish},
+         {destination}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

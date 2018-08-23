@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>impairment</Word>
+  <Definitions>
+    <Definition>
+      <Word>impairment</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Impairment \Im*pair"ment\, n. [OE. enpeirement, OF. empirement.]
+   The state, act, or process of being impaired; injury. ``The
+   impairment of my health.'' --Dryden.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>impairment</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>impairment
+     n 1: the occurrence of a change for the worse [syn: {damage}, {harm}]
+     2: a symptom of reduced quality or strength [syn: {deterioration}]
+     3: the condition of being unable to perform as a consequence of
+        physical or mental unfitness; "reading disability";
+        "hearing impairment" [syn: {disability}, {disablement}, {handicap}]
+     4: damage that results in a reduction of strength or quality
+     5: the act of making something futile and useless (as by
+        routine) [syn: {stultification}, {constipation}, {deadening}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

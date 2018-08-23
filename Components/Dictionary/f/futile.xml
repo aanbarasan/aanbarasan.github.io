@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>futile</Word>
+  <Definitions>
+    <Definition>
+      <Word>futile</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Futile \Fu"tile\ (?; 277), a. [L. futilis that easily pours out,
+   that easily lets loose, vain, worthless, from the root of
+   fundere to pour out: cf. F. futile. See {Fuse}, v. t.]
+   [1913 Webster]
+   1. Talkative; loquacious; tattling. [Obs.]
+      [1913 Webster]
+
+            Talkers and futile persons.           --Bacon.
+      [1913 Webster]
+
+   2. Of no importance; answering no useful end; useless; vain;
+      worthless. ``Futile theories.'' --I. Taylor.
+      [1913 Webster]
+
+            His reasoning . . . was singularly futile.
+                                                  --Macaulay.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>futile</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>futile
+     adj 1: producing no result or effect; "a futile effort"; "the
+            therapy was ineffectual"; "an otiose undertaking"; "an
+            unavailing attempt" [syn: {ineffectual}, {otiose}, {unavailing}]
+     2: unproductive of success; "a fruitless search"; "futile years
+        after her artistic peak"; "a sleeveless errand"; "a vain
+        attempt" [syn: {bootless}, {fruitless}, {sleeveless}, {vain}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

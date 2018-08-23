@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>doon</Word>
+  <Definitions>
+    <Definition>
+      <Word>doon</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Doon, IA (city, FIPS 21900)
+  Location: 43.27875 N, 96.23162 W
+  Population (1990): 476 (173 housing units)
+  Area: 1.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 51235
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

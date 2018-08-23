@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>courteous</Word>
+  <Definitions>
+    <Definition>
+      <Word>courteous</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Courteous \Cour"te*ous\ (k?r"t?-?s; 277), a. [OE. cortais,
+   corteis, cortois, rarely corteous, OF. corties, corteis, F.
+   courtois. See {Court}.]
+   Of courtlike manners; pertaining to, or expressive of,
+   courtesy; characterized by courtesy; civil; obliging; well
+   bred; polite; affable; complaisant.
+   [1913 Webster]
+
+         A patient and courteous bearing.         --Prescott.
+   [1913 Webster]
+
+         His behavior toward his people is grave and courteous.
+                                                  --Fuller.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>courteous</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>courteous
+     adj 1: exhibiting courtesy and politeness; "a nice gesture" [syn: {gracious},
+             {nice}]
+     2: characterized by courtesy and gracious good manners; "if a
+        man be gracious and courteous to strangers it shows he is
+        a citizen of the world"-Francis Bacon [ant: {discourteous}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

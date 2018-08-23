@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>honeymoon</Word>
+  <Definitions>
+    <Definition>
+      <Word>honeymoon</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Honeymoon \Hon"ey*moon`\, n.
+   1. The first month after marriage. --Addison.
+      [1913 Webster]
+
+   2. A vacation taken together by a newly married couple,
+      usually including a trip away from home.
+      [PJC]
+
+   3. Hence: [fig.] Any initial period of harmony after two or
+      more people or organizations begin working together; as,
+      the usual honeymoon for a newly elected president was cut
+      short by resumption of partisan sniping over the budget.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>honeymoon</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>honeymoon
+     n 1: a holiday taken by a newly married couple
+     2: the early usually calm and harmonious period of a
+        relationship; business or political
+     v : spend a holiday after one's marriage; "they plan to
+         honeymoon in Hawai'i"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

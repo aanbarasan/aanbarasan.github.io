@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ifs</Word>
+  <Definitions>
+    <Definition>
+      <Word>ifs</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>IFS
+     
+        1. &lt;operating system&gt; {internal field separators}.
+     
+        2. &lt;operating system&gt; {Installable File System}.
+     
+        3. &lt;graphics&gt; {Iterated Function System}.
+     
+        (1999-04-07)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ifs</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>IFS
+     ICOT Free Software (ICOT)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ifs</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>IFS
+     Installable File System (OS/2, DOS)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ifs</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>IFS
+     Intelligent Fax System (Ricoh)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ifs</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>IFS
+     InterFrame Space (MAC, 802.11a)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ifs</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>IFS
+     Internal Field Separator (Unix, AWK)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ifs</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>IFS
+     Internet File System (Oracle, DB, Internet)
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

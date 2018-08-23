@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ego</Word>
+  <Definitions>
+    <Definition>
+      <Word>ego</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>ego \e"go\, n.; pl. {egos}. [L., I.]
+   The conscious and permanent subject of all psychical
+   experiences, whether held to be directly known or the product
+   of reflective thought; the subject consciously considered as
+   ``I'' by a person; -- opposed to {non-ego}.
+   [1913 Webster +PJC]
+
+   2. (Psychoanalysis) that one of the three parts of a person's
+      psychic apparatus that mediates consciously between the
+      drives of the id and the realities of the external
+      physical and social environment, by integrating
+      perceptions of the external world and organizing the
+      reactions to it. Contrasted with the {id} and {superego}.
+      [PJC]
+
+   3. egotism; as, a job requiring a diplomat without too much
+      ego.
+      [PJC]
+
+   4. self-esteem; as, he has an overinflated ego.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ego</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ego
+     n 1: an inflated feeling of pride in your superiority to others
+          [syn: {egotism}, {self-importance}]
+     2: your consciousness of your own identity [syn: {self}]
+     3: (psychoanalysis) the conscious mind
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

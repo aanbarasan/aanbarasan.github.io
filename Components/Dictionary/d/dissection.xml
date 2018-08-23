@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dissection</Word>
+  <Definitions>
+    <Definition>
+      <Word>dissection</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dissection \Dis*sec"tion\, n. [Cf. F. dissection.]
+   1. The act of dissecting an animal or plant; as, dissection
+      of the human body was held sacrilege till the time of
+      Francis I.
+      [1913 Webster]
+
+   2. Fig.: The act of separating or dividing for the purpose of
+      critical examination.
+      [1913 Webster]
+
+   3. Anything dissected; especially, some part, or the whole,
+      of an animal or plant dissected so as to exhibit the
+      structure; an anatomical so prepared.
+      [1913 Webster]
+
+   {Dissection wound}, a poisoned wound incurred during the
+      dissection of a dead body.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dissection</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dissection
+     n 1: cutting so as to separate into pieces
+     2: a minute and critical analysis
+     3: detailed part-by-part critical analysis or examination as of
+        a literary work
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hereditary</Word>
+  <Definitions>
+    <Definition>
+      <Word>hereditary</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hereditary \He*red"i*ta*ry\, a. [L. hereditarius, fr. hereditas
+   heirship, inheritance, fr. heres heir: cf. F.
+   h['e]r['e]ditaire. See {Heir}.]
+   1. Descended, or capable of descending, from an ancestor to
+      an heir at law; received or passing by inheritance, or
+      that must pass by inheritance; as, an hereditary estate or
+      crown.
+      [1913 Webster]
+
+   2. Transmitted, or capable of being transmitted, as a
+      constitutional quality or condition from a parent to a
+      child; as, hereditary pride, bravery, disease.
+
+   Syn: Ancestral; patrimonial; inheritable.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hereditary</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hereditary
+     adj 1: tending to occur among members of a family usually by
+            heredity; "an inherited disease"; "familial traits";
+            "genetically transmitted features" [syn: {familial}, {genetic},
+             {inherited}, {transmitted}, {transmissible}]
+     2: inherited or inheritable by established rules (usually legal
+        rules) of descent; "ancestral home"; "ancestral lore";
+        "hereditary monarchy"; "patrimonial estate";
+        "transmissible tradition" [syn: {ancestral}, {patrimonial},
+         {transmissible}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

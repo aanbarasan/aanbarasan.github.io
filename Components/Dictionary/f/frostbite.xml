@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>frostbite</Word>
+  <Definitions>
+    <Definition>
+      <Word>frostbite</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Frostbite \Frost`bite"\, v. t.
+   To expose to the effect of frost, or a frosty air; to blight
+   or nip with frost.
+   [1913 Webster]
+
+         My wife up and with Mrs. Pen to walk in the fields to
+         frostbite themselves.                    --Pepys.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>frostbite</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Frostbite \Frost"bite\, n.
+   The freezing, or effect of a freezing, of some part of the
+   body, as the ears, fingers, toes, or nose. Severe frostbite
+   can lead to the loss of fingers or toes. --Kane.
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>frostbite</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>frostbite
+     n : destruction of tissue by freezing and characterized by
+         tingling, blistering and possibly gangrene [syn: {cryopathy}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

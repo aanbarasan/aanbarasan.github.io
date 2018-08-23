@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>flipflop</Word>
+  <Definitions>
+    <Definition>
+      <Word>flipflop</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>flip-flop
+     
+        &lt;hardware&gt; A digital logic circuit that can be in one of two
+        states which it switches (or "{toggles}") between under
+        control of its inputs.  It can thus be considered as a one bit
+        memory.  Three types of flip-flop are common: the {SR
+        flip-flop}, the {JK flip-flop} and the {D-type flip-flop} (or
+        {latch}).
+     
+        Early literature refers to the "Eccles-Jordan circuit" and the
+        "Eccles-Jordan binary counter", using two {vacuum tubes} as
+        the active (amplifying) elements for each {bit} of information
+        storage.  Later implementations using {bipolar transistors}
+        could operate at up to 20 million state transitions per second
+        as early as 1963.
+     
+        (1995-11-11)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>flipflop</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>flip-flop
+     n 1: a decision to reverse an earlier decision [syn: {reversal},
+          {change of mind}, {turnabout}, {turnaround}]
+     2: a backless sandal held to the foot by a thong between the
+        big toe and the second toe
+     3: an electronic circuit that can assume either of two stable
+        states
+     4: a backward somersault
+     v : reverse (a direction, attitude, or course of action) [syn: {interchange},
+          {tack}, {switch}, {alternate}, {flip}]
+     [also: {flip-flopping}, {flip-flopped}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

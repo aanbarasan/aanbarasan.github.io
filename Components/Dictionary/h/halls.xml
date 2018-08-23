@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>halls</Word>
+  <Definitions>
+    <Definition>
+      <Word>halls</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Halls, TN (CDP, FIPS 31810)
+  Location: 36.08185 N, 83.93291 W
+  Population (1990): 6450 (2539 housing units)
+  Area: 22.6 sq km (land), 0.0 sq km (water)
+Halls, TN (town, FIPS 31820)
+  Location: 35.88061 N, 89.40084 W
+  Population (1990): 2431 (1053 housing units)
+  Area: 6.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 38040
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

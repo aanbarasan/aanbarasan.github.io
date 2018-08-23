@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>homeostasis</Word>
+  <Definitions>
+    <Definition>
+      <Word>homeostasis</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>homeostasis \homeostasis\ n.
+   The ability and tendency of certain systems to maintain a
+   relatively constant internal state in spite of changes in
+   external conditions; this ability is achieved by the presence
+   of feedback mechanisms which can adjust the state of the
+   system to compensate for changes in the state caused by the
+   external environment. It is exemplified in homeothermal
+   biological systems, such as animals which maintain relatively
+   constant blood temperature and composition in spite of
+   variations in external temperature or the composition of the
+   food ingested.
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>homeostasis</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>homeostasis
+     n : metabolic equilibrium actively maintained by several complex
+         biological mechanisms that operate via the autonomic
+         nervous system to offset disrupting changes
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

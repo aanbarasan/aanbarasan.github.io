@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>crispy</Word>
+  <Definitions>
+    <Definition>
+      <Word>crispy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Crispy \Crisp"y\ (-?), a.
+   1. Formed into short, close ringlets; frizzed; crisp; as,
+      crispy locks.
+      [1913 Webster]
+
+   2. Crisp; brittle; as, a crispy pie crust.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>crispy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>crispy
+     adj : tender and brittle; "crisp potato chips" [syn: {crisp}]
+     [also: {crispiest}, {crispier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

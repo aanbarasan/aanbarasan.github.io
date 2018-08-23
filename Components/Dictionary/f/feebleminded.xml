@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>feebleminded</Word>
+  <Definitions>
+    <Definition>
+      <Word>feebleminded</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Feeble-minded \Fee"ble-mind"ed\, a.
+   Weak in intellectual power; wanting firmness or constancy;
+   irresolute; vacillating; imbecile. ``comfort the
+   feeble-minded.'' --1 Thess. v. 14. -- {Fee"ble-mind"ed*ness},
+   n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>feebleminded</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>feebleminded
+     adj 1: retarded in intellectual development [syn: {backward}]
+     2: mentally deficient [syn: {half-witted}, {slow-witted}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

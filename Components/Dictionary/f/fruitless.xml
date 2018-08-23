@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fruitless</Word>
+  <Definitions>
+    <Definition>
+      <Word>fruitless</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fruitless \Fruit"less\, a.
+   1. Lacking, or not bearing, fruit; barren; destitute of
+      offspring; as, a fruitless tree or shrub; a fruitless
+      marriage. --Shak.
+      [1913 Webster]
+
+   2. Productive of no advantage or good effect; vain; idle;
+      useless; unprofitable; as, a fruitless attempt; a
+      fruitless controversy.
+      [1913 Webster]
+
+            They in mutual accusation spent
+            The fruitless hours.                  --Milton.
+
+   Syn: Useless; barren; unprofitable; abortive; ineffectual;
+        vain; idle; profitless. See {Useless}. --
+        {Fruit"less*ly}, adv. -- {Fruit"lness*ness}, n.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fruitless</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fruitless
+     adj : unproductive of success; "a fruitless search"; "futile years
+           after her artistic peak"; "a sleeveless errand"; "a
+           vain attempt" [syn: {bootless}, {futile}, {sleeveless},
+            {vain}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

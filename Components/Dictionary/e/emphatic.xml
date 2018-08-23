@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>emphatic</Word>
+  <Definitions>
+    <Definition>
+      <Word>emphatic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>emphatic \em*phat"ic\, emphatical \em*phat"ic*al\, a. [Gr. ?:
+   cf. F. emphatique. See {Emphasis}.]
+   1. Uttered with emphasis; made prominent and impressive by a
+      peculiar stress of voice; laying stress; deserving of
+      stress or emphasis; forcible; impressive; strong; as, to
+      remonstrate in an emphatic manner; emphatic denials; an
+      emphatic word; an emphatic tone; emphatic reasoning.
+      [1913 Webster]
+
+   2. Striking the sense; attracting special attention;
+      impressive; forcible. ``Emphatical colors.'' --Boyle.
+      ``Emphatical evils.'' --Bp. Reynolds.
+
+   3. Forceful and definite in expression or action; -- of
+      statements, actions, or sections of documents; as, the
+      document contained a particularly emphatic guarantee of
+      religious liberty.
+
+   Syn: forceful.
+        [WordNet 1.5 +PJC]
+
+   4. Sudden and strong; -- of statements; as, an emphatic no.
+
+   Syn: exclamatory.
+        [WordNet 1.5]
+
+   Syn: Forcible; earnest; impressive; energetic; striking;
+        positive; important; special; significant.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>emphatic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>emphatic
+     adj 1: spoken with emphasis; "an emphatic word" [syn: {emphasized},
+             {emphasised}]
+     2: sudden and strong; "an emphatic no" [syn: {exclamatory}]
+     3: forceful and definite in expression or action; "the document
+        contained a particularly emphatic guarantee of religious
+        liberty" [syn: {forceful}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

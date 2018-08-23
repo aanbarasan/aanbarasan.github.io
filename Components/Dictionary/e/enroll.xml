@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>enroll</Word>
+  <Definitions>
+    <Definition>
+      <Word>enroll</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Enroll \En*roll"\, v. t. [imp. &amp; p. p. {Enrolled}; p. pr. &amp; vb.
+   n. {Enrolling}.] [Pref. en- + roll: cf. F. enr[^o]ler; pref.
+   en- (L. in) + r[^o]le roll or register. See {Roll}, n.]
+   [Written also {enrol}.]
+   1. To insert in a roil; to register or enter in a list or
+      catalogue or on rolls of court; hence, to record; to
+      insert in records; to leave in writing; as, to enroll men
+      for service; to enroll a decree or a law; also,
+      reflexively, to enlist.
+      [1913 Webster]
+
+            An unwritten law of common right, so engraven in the
+            hearts of our ancestors, and by them so constantly
+            enjoyed and claimed, as that it needed not
+            enrolling.                            --Milton.
+      [1913 Webster]
+
+            All the citizen capable of bearing arms enrolled
+            themselves.                           --Prescott.
+      [1913 Webster]
+
+   2. To envelop; to inwrap; to involve. [Obs.] --Spenser.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>enroll</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>enroll
+     v : register formally as a participant or member; "The party
+         recruited many new members" [syn: {inscribe}, {enter}, {enrol},
+          {recruit}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

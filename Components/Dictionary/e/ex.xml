@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ex</Word>
+  <Definitions>
+    <Definition>
+      <Word>ex</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ex- \Ex-\
+   A prefix from the latin preposition, ex, akin to Gr. 'ex or
+   'ek signifying out of, out, proceeding from. Hence, in
+   composition, it signifies out of, as, in exhale, exclude;
+   off, from, or out, as in exscind; beyond, as, in excess,
+   exceed, excel; and sometimes has a privative sense of
+   without, as in exalbuminous, exsanguinous. In some words, it
+   intensifies the meaning; in others, it has little affect on
+   the signification. It becomes ef- before f, as in effuse. The
+   form e- occurs instead of ex- before b, d, g, l, m, n, r, and
+   v, as in ebullient, emanate, enormous, etc. In words from the
+   French it often appears as es-, sometimes as s- or ['e]-; as,
+   escape, scape, ['e]lite. Ex-, prefixed to names implying
+   office, station, condition, denotes that the person formerly
+   held the office, or is out of the office or condition now;
+   as, ex-president, ex-governor, ex-mayor, ex-convict. The
+   Greek form 'ex becomes ex in English, as in exarch; 'ek
+   becomes ec, as in eccentric.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ex</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ex
+     adj : out of fashion; "a suit of rather antique appearance";
+           "demode (or outmoded) attire"; "outmoded ideas" [syn: {antique},
+            {demode}, {old-fashioned}, {old-hat(p)}, {outmoded}, {passe},
+            {passee}]
+     n 1: a man who was formerly a certain woman's husband [syn: {ex-husband}]
+     2: a woman who was formerly a particular man's wife; "all his
+        exes live in Texas" [syn: {exwife}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

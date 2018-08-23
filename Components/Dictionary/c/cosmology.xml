@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cosmology</Word>
+  <Definitions>
+    <Definition>
+      <Word>cosmology</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>cosmology \cos*mol"o*gy\ (k[o^]z*m[o^]l"[-o]*j[y^]), n. [Gr.
+   ko`smos the world + -logy: cf. F. cosmologie.]
+   1. The branch of science or philosophy dealing with the
+      origin and nature of the universe as a whole. specifically
+      (a) (Philosophy) the branch of metaphysics speculating on
+          the structure and nature of the most fundamental parts
+          of the system of creation, such as space and time, the
+          elements of bodies, the structure of the universe, the
+          modifications of material things, causality, the laws
+          of motion, and the order and course of nature.
+      (b) (Astronomy) the branch of astronomy dealing with the
+          origin and structure of the universe, including the
+          evolution of its present observable structure, using
+          the methods of observational astronomy as well as
+          mathematical physics.
+          [1913 Webster +PJC]
+
+   2. a treatise dealing with the original and structure of the
+      universe.
+      [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cosmology</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cosmology
+     n 1: the metaphysical study of the origin and nature of the
+          universe
+     2: the branch of astrophysics that studies the origin and
+        evolution and structure of the universe [syn: {cosmogony},
+         {cosmogeny}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>curlicue</Word>
+  <Definitions>
+    <Definition>
+      <Word>curlicue</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>curlicue \curl"i*cue\ (k?rl"?-k?), n. [Cf. F. caracole.]
+   Some thing curled or spiral, as a flourish made with a pen on
+   paper, or with skates on the ice; a trick; a frolicsome
+   caper. [Sometimes written {curlycue} or {carlicue}.] [
+   Colloq. U.S.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>curlicue</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>curlicue
+     n 1: a round shape formed by a series of concentric circles [syn:
+           {coil}, {whorl}, {roll}, {curl}, {ringlet}, {gyre}, {scroll}]
+     2: a short twisting line [syn: {squiggle}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

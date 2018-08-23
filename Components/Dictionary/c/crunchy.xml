@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>crunchy</Word>
+  <Definitions>
+    <Definition>
+      <Word>crunchy</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>crunchy
+     
+        {floppy disk}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>crunchy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>crunchy
+     adj : pleasingly firm and fresh and making a crunching noise when
+           chewed; "crisp carrot and celery sticks"; "a firm
+           apple"; "crunchy lettuce" [syn: {crisp}, {firm}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

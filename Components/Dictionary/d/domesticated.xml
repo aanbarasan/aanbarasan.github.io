@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>domesticated</Word>
+  <Definitions>
+    <Definition>
+      <Word>domesticated</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Domesticate \Do*mes"ti*cate\, v. t. [imp. &amp; p. p.
+   {Domesticated}; p. pr. &amp; vb. n. {Domesticating.}] [LL.
+   domesticatus, p. p. of domesticare to reside in, to tame. See
+   {Domestic}, a.]
+   1. To make domestic; to habituate to home life; as, to
+      domesticate one's self.
+      [1913 Webster]
+
+   2. To cause to be, as it were, of one's family or country;
+      as, to domesticate a foreign custom or word.
+      [1913 Webster]
+
+   3. To tame or reclaim from a wild state; as, to domesticate
+      wild animals; to domesticate a plant.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>domesticated</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>domesticated \domesticated\ adj.
+   1. tame, tamed; -- of animals. Opposite of {wild}.
+
+   Syn: domestic.
+        [WordNet 1.5 +PJC]
+
+   2. accustomed to home life; as, some men think it unmanly to
+      be domesticated; others find gratification in it.
+      [WordNet 1.5]
+
+   3. acclimated to a new environment; -- of plants or animals.
+
+   Syn: naturalized, nonnative.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>domesticated</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>domesticated
+     adj 1: converted or adapted to domestic use; "domestic animals";
+            "domesticated plants like maize" [syn: {domestic}]
+     2: accustomed to home life; "some men think it unmanly to be
+        domesticated; others find gratification in it"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

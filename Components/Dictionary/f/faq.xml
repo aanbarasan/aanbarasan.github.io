@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>faq</Word>
+  <Definitions>
+    <Definition>
+      <Word>faq</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>FAQ
+     
+        {frequently asked question}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>faq</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>FAQ /F-A-Q/ or /fak/ n. [Usenet] 1. A Frequently Asked Question. 2. A
+   compendium of accumulated lore, posted periodically to high-volume
+   newsgroups in an attempt to forestall such questions. Some people prefer
+   the term `FAQ list' or `FAQL' /fa'kl/, reserving `FAQ' for sense 1.
+
+   This lexicon itself serves as a good example of a collection of one
+   kind of lore, although it is far too big for a regular FAQ posting.
+   Examples: "What is the proper type of NULL?" and "What's that funny name
+   for the `#' character?" are both Frequently Asked Questions. Several
+   FAQs refer readers to this file.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>faq</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>FAQ
+     Frequently Asked Questions (telecommunication-slang, Usenet)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>faq</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>FAQ
+     n : a list of questions that are frequently asked (about a given
+         topic) along with their answers
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

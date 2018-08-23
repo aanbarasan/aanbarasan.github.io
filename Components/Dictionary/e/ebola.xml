@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ebola</Word>
+  <Definitions>
+    <Definition>
+      <Word>ebola</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Ebola
+     n : a severe and often fatal disease in humans and nonhuman
+         primates (monkeys and chimpanzees) caused by the Ebola
+         virus; characterized by high fever and severe internal
+         bleeding; can be spread from person to person; is largely
+         limited to Africa [syn: {Ebola hemorrhagic fever}, {Ebola
+         fever}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

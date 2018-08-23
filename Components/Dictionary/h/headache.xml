@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>headache</Word>
+  <Definitions>
+    <Definition>
+      <Word>headache</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Headache \Head"ache`\ (h[e^]d"[=a]k`), n.
+   Pain in the head; cephalalgia. ``Headaches and shivering
+   fits.'' --Macaulay.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>headache</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>head ache
+     n : pain in the head caused by dilation of cerebral arteries or
+         muscle contractions or a reaction to drugs [syn: {headache},
+          {cephalalgia}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>headache</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>headache
+     n 1: something or someone that causes anxiety; a source of
+          unhappiness; "New York traffic is a constant concern";
+          "it's a major worry" [syn: {concern}, {worry}, {vexation}]
+     2: pain in the head caused by dilation of cerebral arteries or
+        muscle contractions or a reaction to drugs [syn: {head
+        ache}, {cephalalgia}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

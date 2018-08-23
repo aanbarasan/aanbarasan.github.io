@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>frisch</Word>
+  <Definitions>
+    <Definition>
+      <Word>frisch</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Frisch
+     n 1: British physicist (born in Austria) who with Lise Meitner
+          recognized that Otto Hahn had produced a new kind of
+          nuclear reaction which they named nuclear fission;
+          Frisch described the explosive potential of a chain
+          nuclear reaction (1904-1979) [syn: {Otto Frisch}, {Otto
+          Robert Frisch}]
+     2: Norwegian economist noted for his work in econometrics
+        (1895-1973) [syn: {Ragnar Frisch}, {Ragnar Anton Kittil
+        Frisch}]
+     3: Austrian zoologist noted for his studies of honeybees
+        (1886-1982) [syn: {Karl von Frisch}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

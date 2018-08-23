@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>festive</Word>
+  <Definitions>
+    <Definition>
+      <Word>festive</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Festive \Fes"tive\, a. [L. festivus, fr. festum holiday, feast.
+   See {feast}, and cf. {Festivous}.]
+   Pertaining to, or becoming, a feast; festal; joyous; gay;
+   mirthful; sportive. -- {Fes"tive*ly}, adv.
+   [1913 Webster]
+
+         The glad circle round them yield their souls
+         To festive mirth and wit that knows no gall. --Thomson.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>festive</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>festive
+     adj : offering fun and gaiety; "a gala ball after the
+           inauguration"; "a festive (or festal) occasion"; "gay
+           and exciting night life"; "a merry evening" [syn: {gala(a)},
+            {gay}, {festal}, {merry}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>heavyhanded</Word>
+  <Definitions>
+    <Definition>
+      <Word>heavyhanded</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>heavy-handed \heavy-handed\ adj.
+   1. same as {ham-fisted}.
+
+   Syn: bumbling, bungling, butterfingered, ham-fisted,
+        ham-handed, handless, left-handed.
+        [WordNet 1.5]
+
+   2. unjustly harsh or domineering; as, incensed at the
+      government's heavy-handed economic policies.
+
+   Syn: harsh, roughshod.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>heavyhanded</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>heavy-handed
+     adj 1: not skillful in physical movement especially with the hands;
+            "a bumbling mechanic"; "a bungling performance";
+            "ham-handed governmental interference"; "could
+            scarcely empty a scuttle of ashes, so handless was the
+            poor creature"- Mary H. Vorse [syn: {bumbling}, {bungling},
+             {butterfingered}, {ham-fisted}, {ham-handed}, {handless},
+             {left-handed}]
+     2: unjustly domineering; "incensed at the government's
+        heavy-handed economic economic policies"; "a manager who
+        rode roughshod over all opposition" [syn: {roughshod}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

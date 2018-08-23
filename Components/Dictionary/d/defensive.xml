@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>defensive</Word>
+  <Definitions>
+    <Definition>
+      <Word>defensive</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Defensive \De*fen"sive\, a. [Cf. F. d['e]fensif.]
+   1. Serving to defend or protect; proper for defense; opposed
+      to offensive; as, defensive armor.
+      [1913 Webster]
+
+            A moat defensive to a house.          --Shak.
+      [1913 Webster]
+
+   2. Carried on by resisting attack or aggression; -- opposed
+      to offensive; as, defensive war.
+      [1913 Webster]
+
+   3. In a state or posture of defense. --Milton.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>defensive</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Defensive \De*fen"sive\, n.
+   That which defends; a safeguard.
+   [1913 Webster]
+
+         Wars preventive, upon just fears, are true defensives.
+                                                  --Bacon.
+   [1913 Webster]
+
+   {To be on the defensive}, {To stand on the defensive}, to be
+      or stand in a state or posture of defense or resistance,
+      in opposition to aggression or attack.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>defensive</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>defensive
+     adj 1: intended or appropriate for defending against or deterring
+            aggression or attack; "defensive weapons"; "a
+            defensive stance" [ant: {offensive}]
+     2: attempting to justify or defend in speech or writing [syn: {justificative},
+         {justificatory}]
+     3: serving as or appropriate for defending or protecting;
+        "defensive fortifications"; "defensive dikes to protect
+        against floods"
+     n : an attitude of defensiveness (especially in the phrase `on
+         the defensive') [syn: {defensive attitude}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

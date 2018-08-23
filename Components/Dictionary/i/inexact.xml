@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>inexact</Word>
+  <Definitions>
+    <Definition>
+      <Word>inexact</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Inexact \In`ex*act"\, a. [Pref. in- not + exact: cf. F.
+   inexact.]
+   Not exact; not precisely correct or true; inaccurate.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>inexact</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>inexact
+     adj 1: not exact [ant: {exact}]
+     2: not precisely accurate; "an inexact quotation" [syn: {inaccurate}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

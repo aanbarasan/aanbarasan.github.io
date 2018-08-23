@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>coupled</Word>
+  <Definitions>
+    <Definition>
+      <Word>coupled</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Couple \Cou"ple\, v. t. [imp. &amp; p. p. {Coupled} (k[u^]p"'ld); p.
+   pr. &amp; vb. n. {Coupling} (k[u^]p"l[i^]ng).] [F. coupler, fr.
+   L. copulare. See {Couple}, n., and cf. {Copulate}, {Cobble},
+   v.]
+   [1913 Webster]
+   1. To link or tie, as one thing to another; to connect or
+      fasten together; to join.
+      [1913 Webster]
+
+            Huntsman, I charge thee, tender well my hounds, . .
+            .
+            And couple Clowder with the deep-mouthed brach.
+                                                  --Shak.
+      [1913 Webster]
+
+   2. To join in wedlock; to marry. [Colloq.]
+      [1913 Webster]
+
+            A parson who couples all our beggars. --Swift.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>coupled</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>coupled \coupled\ adj.
+   1. joined together especially in a pair or pairs.
+
+   Syn: conjugate, conjugated.
+        [WordNet 1.5]
+
+   2. connected by a physical link, as railway cars or trailer
+      trucks. Opposite of {unconnected} or {unlinked}
+
+   Syn: joined, linked.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>coupled</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>coupled
+     adj 1: joined together especially in a pair or pairs [syn: {conjugate},
+             {conjugated}]
+     2: connected by a link, as railway cars or trailer trucks [syn:
+         {joined}, {linked}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

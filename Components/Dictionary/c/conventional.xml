@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>conventional</Word>
+  <Definitions>
+    <Definition>
+      <Word>conventional</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Conventional \Con*ven"tion*al\, a. [L. conventionalis: cf. F.
+   conventionnel.]
+   1. Formed by agreement or compact; stipulated.
+      [1913 Webster]
+
+            Conventional services reserved by tenures upon
+            grants, made out of the crown or knights' service.
+                                                  --Sir M. Hale.
+      [1913 Webster]
+
+   2. Growing out of, or depending on, custom or tacit
+      agreement; sanctioned by general concurrence or usage;
+      formal. ``Conventional decorum.'' --Whewell.
+      [1913 Webster]
+
+            The conventional language appropriated to monarchs.
+                                                  --Motley.
+      [1913 Webster]
+
+            The ordinary salutations, and other points of social
+            behavior, are conventional.           --Latham.
+      [1913 Webster]
+
+   3. (Fine Arts)
+      (a) Based upon tradition, whether religious and historical
+          or of artistic rules.
+      (b) Abstracted; removed from close representation of
+          nature by the deliberate selection of what is to be
+          represented and what is to be rejected; as, a
+          conventional flower; a conventional shell. Cf.
+          {Conventionalize}, v. t.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>conventional</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>conventional
+     adj 1: following accepted customs and proprieties; "conventional
+            wisdom"; "she had strayed from the path of
+            conventional behavior"; "conventional forms of
+            address" [ant: {unconventional}, {unconventional}]
+     2: conforming with accepted standards; "a conventional view of
+        the world" [syn: {established}]
+     3: (weapons) using non-nuclear energy for propulsion or
+        destruction; "conventional warfare"; "conventional
+        weapons" [ant: {nuclear}]
+     4: unimaginative and conformist; "conventional bourgeois
+        lives"; "conventional attitudes" [ant: {unconventional}]
+     5: represented in simplified or symbolic form [syn: {formal}, {schematic}]
+     6: in accord with or being a tradition or practice accepted
+        from the past; "a conventional church wedding with the
+        bride in traditional white"; "the conventional handshake"
+     7: rigidly formal or bound by convention; "their ceremonious
+        greetings did not seem heartfelt" [syn: {ceremonious}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

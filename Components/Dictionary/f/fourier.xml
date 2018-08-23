@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fourier</Word>
+  <Definitions>
+    <Definition>
+      <Word>fourier</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Fourier
+     n 1: French mathematician who developed Fourier analysis and
+          studied the conduction of heat (1768-1830) [syn: {Jean
+          Baptiste Joseph Fourier}, {Baron Jean Baptiste Joseph
+          Fourier}]
+     2: French sociologist and reformer who hoped to achieve
+        universal harmony by reorganizing society (1772-1837)
+        [syn: {Charles Fourier}, {Francois Marie Charles Fourier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

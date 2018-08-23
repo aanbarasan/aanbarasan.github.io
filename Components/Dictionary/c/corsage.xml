@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>corsage</Word>
+  <Definitions>
+    <Definition>
+      <Word>corsage</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Corsage \Cor"sage\ (k[^o]r"s[asl]j), n. [F. See {Corset}.]
+   1. The waist or bodice of a lady's dress; as, a low corsage.
+
+   2. (k[^o]r*s[aum]zh") a flower or small arrangement of
+      flowers worn by a person as a personal ornament. Typically
+      worn by women on special occasions (as, at a ball or an
+      anniversary celebration), a corsage may be worn pinned to
+      the chest, or tied to the wrist. It is usually larger or
+      more elaborate than a {boutonniere}.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>corsage</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>corsage
+     n : an arrangement of flowers that is usually given as a present
+         [syn: {bouquet}, {posy}, {nosegay}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

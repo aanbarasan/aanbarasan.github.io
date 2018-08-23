@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dreamland</Word>
+  <Definitions>
+    <Definition>
+      <Word>dreamland</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dreamland \Dream"land`\, n.
+   An unreal, delightful country such as in sometimes pictured
+   in dreams; region of fancies; fairyland.
+   [1913 Webster]
+
+         [He] builds a bridge from dreamland for his lay.
+                                                  --Lowell.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dreamland</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dreamland
+     n : a pleasing country existing only in dreams or imagination
+         [syn: {never-never land}, {dreamworld}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

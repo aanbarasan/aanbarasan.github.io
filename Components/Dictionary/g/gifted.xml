@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>gifted</Word>
+  <Definitions>
+    <Definition>
+      <Word>gifted</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gift \Gift\, v. t. [imp. &amp; p. p. {Gifted}; p. pr. &amp; vb. n.
+   {Gifting}.]
+   To endow with some power or faculty. See {gift}[4].
+   [1913 Webster]
+
+         He was gifted . . . with philosophical sagacity. --I.
+                                                  Taylor.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gifted</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>gifted \gifted\ adj. [Cf. See {gift}[4] and {gift}, v. t..]
+   1. having unusual talent in some field.
+
+   Syn: talented.
+        [PJC]
+
+   2. having exceptionally high intelligence; -- said of
+      children, especially in discourse on education; as, a
+      program for gifted children.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gifted</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>gifted
+     adj : showing a natural aptitude for something [syn: {talented}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

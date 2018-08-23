@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hal</Word>
+  <Definitions>
+    <Definition>
+      <Word>hal</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>HAL
+     
+        1. &lt;computer&gt; HAL 9000, the murdering computer on the
+        spaceship in the science fiction classic "2001, A Space
+        Odyssey" by Arthur C. Clark.
+     
+        "HAL" is "{IBM}" with each letter changed to the one before
+        and there is an unconfirmed rumour that 9000 is the sum of the
+        various IBM computer numbers that were in service at the time.
+        However, in the sequel "2010", Clarke emphatically denies that
+        HAL's name is supposed to be "one step ahead of IBM".  It is,
+        rather, short for "heuristic algorithm".
+     
+        2. &lt;operating system&gt; {Hardware Abstraction Layer}.
+     
+        (1995-11-09)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hal</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>HAL
+     Hardware Abstraction Layer (Windows NT)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hal</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>HAL
+     Hard Array Logic
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hal</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>HAL
+     Heuristically programmed ALgorithmic computer (2001)
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

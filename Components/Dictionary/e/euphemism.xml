@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>euphemism</Word>
+  <Definitions>
+    <Definition>
+      <Word>euphemism</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Euphemism \Eu"phe*mism\ ([=u]"f[-e]*m[i^]z'm), n. [Gr. ? fr. ?
+   to use word of a good omen; e'y^ well + ? to speak: cf. F.
+   euph['e]misme. See {Fame}.] (Rhet.)
+   A figure in which a harsh or indelicate word or expression is
+   softened; a way of describing an offensive thing by an
+   inoffensive expression; a mild name for something
+   disagreeable.
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>euphemism</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>euphemism
+     n : an inoffensive expression that is substituted for one that
+         is considered offensive [ant: {dysphemism}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

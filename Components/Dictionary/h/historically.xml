@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>historically</Word>
+  <Definitions>
+    <Definition>
+      <Word>historically</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Historically \His*tor"ic*al*ly\, adv.
+   In the manner of, or in accordance with, history.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>historically</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>historically
+     adv 1: throughout history; "historically they have never co-existed
+            peacefully"
+     2: with respect to history; "this is historically interesting"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

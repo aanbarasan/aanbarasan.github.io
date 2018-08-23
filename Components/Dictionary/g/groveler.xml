@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>groveler</Word>
+  <Definitions>
+    <Definition>
+      <Word>groveler</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Groveler \Grov"el*er\, n.
+   One who grovels; an abject wretch. [Written also
+   --groveller.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>groveler</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>groveler
+     n : someone who humbles himself as a sign of respect; who
+         behaves as if he had no self-respect [syn: {apple
+         polisher}, {bootlicker}, {fawner}, {groveller}, {truckler},
+          {ass-kisser}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>graduation</Word>
+  <Definitions>
+    <Definition>
+      <Word>graduation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Graduation \Grad"u*a"tion\, n. [LL. graduatio promotion to a
+   degree: cf. F. graduation division into degrees.]
+   [1913 Webster]
+   1. The act of graduating, or the state of being graduated;
+      as, graduation of a scale; graduation at a college;
+      graduation in color; graduation by evaporation; the
+      graduation of a bird's tail, etc.
+      [1913 Webster]
+
+   2. The marks on an instrument or vessel to indicate degrees
+      or quantity; a scale.
+      [1913 Webster]
+
+   3. The exposure of a liquid in large surfaces to the air, so
+      as to hasten its evaporation.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>graduation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>graduation
+     n 1: the successful completion of a program of study
+     2: an academic exercise in which diplomas are conferred [syn: {commencement},
+         {commencement exercise}, {commencement ceremony}, {graduation
+        exercise}]
+     3: a line (as on a vessel or ruler) that marks a measurement;
+        "the ruler had 16 graduations per inch"
+     4: the act of arranging in grades [syn: {gradation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>inertia</Word>
+  <Definitions>
+    <Definition>
+      <Word>inertia</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Inertia \In*er"ti*a\, n. [L., idleness, fr. iners idle. See
+   {Inert}.]
+   [1913 Webster]
+   1. (Physics) That property of matter by which it tends when
+      at rest to remain so, and when in motion to continue in
+      motion, and in the same straight line or direction, unless
+      acted on by some external force; -- sometimes called {vis
+      inerti[ae]}. The inertia of a body is proportional to its
+      mass.
+      [1913 Webster +PJC]
+
+   2. Inertness; indisposition to motion, exertion, or action;
+      lack of energy; sluggishness.
+      [1913 Webster]
+
+            Men . . . have immense irresolution and inertia.
+                                                  --Carlyle.
+      [1913 Webster]
+
+   3. (Med.) Lack of activity; sluggishness; -- said especially
+      of the uterus, when, in labor, its contractions have
+      nearly or wholly ceased.
+      [1913 Webster]
+
+   {Center of inertia}. (Mech.) See under {Center}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>inertia</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>inertia
+     n 1: a disposition to remain inactive or inert; "he had to
+          overcome his inertia and get back to work" [syn: {inactiveness},
+           {inactivity}] [ant: {activeness}]
+     2: (physics) the tendency of a body to maintain is state of
+        rest or uniform motion unless acted upon by an external
+        force
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

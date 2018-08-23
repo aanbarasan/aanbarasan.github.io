@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>elicit</Word>
+  <Definitions>
+    <Definition>
+      <Word>elicit</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Elicit \E*lic"it\, a. [L. elictus, p. p. of elicere to elicit; e
+   + lacere to entice. Cf. {Delight}, {Lace}.]
+   Elicited; drawn out; made real; open; evident. [Obs.] ``An
+   elicit act of equity.'' --Jer. Taylor.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>elicit</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Elicit \E*lic"it\, v. t. [imp. &amp; p. p. {Elicited}; p. pr. &amp; vb.
+   n. {Eliciting}.]
+   To draw out or entice forth; to bring to light; to bring out
+   against the will; to deduce by reason or argument; as, to
+   elicit truth by discussion.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>elicit</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>elicit
+     v 1: call forth (emotions, feelings, and responses); "arouse
+          pity"; "raise a smile"; "evoke sympathy" [syn: {arouse},
+           {enkindle}, {kindle}, {evoke}, {fire}, {raise}, {provoke}]
+     2: deduce (a principle) or construe (a meaning); "We drew out
+        some interesting linguistic data from the native
+        informant" [syn: {educe}, {evoke}, {extract}, {draw out}]
+     3: derive by reason; "elicit a solution"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

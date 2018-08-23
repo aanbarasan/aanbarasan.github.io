@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>illness</Word>
+  <Definitions>
+    <Definition>
+      <Word>illness</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Illness \Ill"ness\, n. [From {Ill}.]
+   1. The condition of being ill, evil, or bad; badness;
+      unfavorableness. [Obs.] ``The illness of the weather.''
+      --Locke.
+      [1913 Webster]
+
+   2. Disease; indisposition; malady; disorder of health;
+      sickness; as, a short or a severe illness.
+      [1913 Webster]
+
+   3. Wrong moral conduct; wickedness. --Shak.
+
+   Syn: Malady; disease; indisposition; ailment.
+
+   Usage: {Illness}, {Sickness}. Within the present century,
+          there has been a tendency in England to use illness in
+          the sense of a continuous disease, disorder of health,
+          or sickness, and to confine sickness more especially
+          to a sense of nausea, or ``sickness of the stomach.''
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>illness</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>illness
+     n : impairment of normal physiological function affecting part
+         or all of an organism [syn: {unwellness}, {malady}, {sickness}]
+         [ant: {health}, {health}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

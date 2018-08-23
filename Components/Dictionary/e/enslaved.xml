@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>enslaved</Word>
+  <Definitions>
+    <Definition>
+      <Word>enslaved</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Enslave \En*slave"\, v. t. [imp. &amp; p. p. {Enslaved}; p. pr. &amp;
+   vb. n. {Enslaving}.]
+   To reduce to slavery; to make a slave of; to subject to a
+   dominant influence.
+   [1913 Webster]
+
+         The conquer'd, also, and enslaved by war,
+         Shall, with their freedom lost, all virtue lose.
+                                                  --Milton.
+   [1913 Webster]
+
+         Pleasure admitted in undue degree
+         Enslaves the will.                       --Cowper.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>enslaved</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>enslaved
+     adj : held in slavery; "born of enslaved parents" [syn: {bond}, {enthralled},
+            {in bondage}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dreadful</Word>
+  <Definitions>
+    <Definition>
+      <Word>dreadful</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dreadful \Dread"ful\, a.
+   1. Full of dread or terror; fearful. [Obs.] ``With dreadful
+      heart.'' --Chaucer.
+      [1913 Webster]
+
+   2. Inspiring dread; impressing great fear; fearful; terrible;
+      as, a dreadful storm. `` Dreadful gloom.'' --Milton.
+      [1913 Webster]
+
+            For all things are less dreadful than they seem.
+                                                  --Wordsworth.
+      [1913 Webster]
+
+   3. Inspiring awe or reverence; awful. [Obs.] ``God's dreadful
+      law.'' --Shak.
+
+   Syn: Fearful; frightful; terrific; terrible; horrible;
+        horrid; formidable; tremendous; awful; venerable. See
+        {Frightful}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dreadful</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dreadful
+     adj 1: causing fear or dread or terror; "the awful war"; "an awful
+            risk"; "dire news"; "a career or vengeance so direful
+            that London was shocked"; "the dread presence of the
+            headmaster"; "polio is no longer the dreaded disease
+            it once was"; "a dreadful storm"; "a fearful howling";
+            "horrendous explosions shook the city"; "a terrible
+            curse" [syn: {awful}, {dire}, {direful}, {dread(a)}, {dreaded},
+             {fearful}, {fearsome}, {frightening}, {horrendous}, {horrific},
+             {terrible}]
+     2: exceptionally bad or displeasing; "atrocious taste";
+        "abominable workmanship"; "an awful voice"; "dreadful
+        manners"; "a painful performance"; "terrible handwriting";
+        "an unspeakable odor came sweeping into the room" [syn: {atrocious},
+         {abominable}, {awful}, {painful}, {terrible}, {unspeakable}]
+     3: very unpleasant
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

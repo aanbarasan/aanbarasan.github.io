@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>denial</Word>
+  <Definitions>
+    <Definition>
+      <Word>denial</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Denial \De*ni"al\, n. [See {Deny}.]
+   1. The act of gainsaying, refusing, or disowning; negation;
+      -- the contrary of {affirmation}.
+      [1913 Webster]
+
+            You ought to converse with so much sincerity that
+            your bare affirmation or denial may be sufficient.
+                                                  --Bp.
+                                                  Stillingfleet.
+      [1913 Webster]
+
+   2. A refusal to admit the truth of a statement, charge,
+      imputation, etc.; assertion of the untruth of a thing
+      stated or maintained; a contradiction.
+      [1913 Webster]
+
+   3. A refusal to grant; rejection of a request.
+      [1913 Webster]
+
+            The commissioners, . . . to obtain from the king's
+            subjects as much as they would willingly give, . . .
+            had not to complain of many peremptory denials.
+                                                  --Hallam.
+      [1913 Webster]
+
+   4. A refusal to acknowledge; disclaimer of connection with;
+      disavowal; -- the contrary of confession; as, the denial
+      of a fault charged on one; a denial of God.
+      [1913 Webster]
+
+   {Denial of one's self}, a declining of some gratification;
+      restraint of one's appetites or propensities; self-denial.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>denial</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>denial
+     n 1: the act of refusing to comply (as with a request); "it
+          resulted in a complete denial of his privileges"
+     2: the act of asserting that something alleged is not true
+     3: (psychiatry) a defense mechanism that denies painful
+        thoughts
+     4: renunciation of your own interests in favor of the interests
+        of others [syn: {abnegation}, {self-abnegation}, {self-denial},
+         {self-renunciation}]
+     5: a defendant's answer or plea denying the truth of the
+        charges against him; "he gave evidence for the defense"
+        [syn: {defense}, {defence}, {demurrer}] [ant: {prosecution}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

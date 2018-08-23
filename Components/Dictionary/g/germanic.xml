@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>germanic</Word>
+  <Definitions>
+    <Definition>
+      <Word>germanic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Germanic \Ger*man"ic\, a. (Chem.)
+   Pertaining to, or containing, germanium.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>germanic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Germanic \Ger*man"ic\, a. [L. Germanicus: cf. F. germanique. See
+   {German}, n.]
+   1. Of or pertaining to Germany; as, the Germanic confederacy.
+      [1913 Webster]
+
+   2. Teutonic. [A loose sense]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>germanic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Germanic
+     adj 1: of or relating to the language of Germans; "the Germanic
+            sound shifts"
+     2: of or pertaining to the ancient Teutons or their languages;
+        "Teutonic peoples such as Germans and Scandinavians and
+        British"; "Germanic mythology" [syn: {Teutonic}]
+     3: of a more or less German nature; somewhat German; "Germanic
+        peoples"; "his Germanic nature"; "formidable volumes
+        Teutonic in their thoroughness" [syn: {German}, {Teutonic}]
+     n : a branch of the Indo-European family of languages; members
+         that are spoken currently fall into two major groups:
+         Scandinavian and West Germanic [syn: {Germanic language}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

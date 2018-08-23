@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>encourage</Word>
+  <Definitions>
+    <Definition>
+      <Word>encourage</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Encourage \En*cour"age\ (?; 48), v. t. [imp. &amp; p. p.
+   {Encouraged} (?; 48); p. pr. &amp; vb. n. {Encouraging}.] [F.
+   encourager; pref. en- (L. in) + courage courage. See
+   {Courage}.]
+   To give courage to; to inspire with courage, spirit, or hope;
+   to raise, or to increase, the confidence of; to animate;
+   enhearten; to incite; to help forward; -- the opposite of
+   {discourage}.
+   [1913 Webster]
+
+         David encouraged himself in the Lord.    --1 Sam. xxx.
+                                                  6.
+
+   Syn: To embolden; inspirit; animate; enhearten; hearten;
+        incite; cheer; urge; impel; stimulate; instigate;
+        countenance; comfort; promote; advance; forward;
+        strengthen.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>encourage</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>encourage
+     v 1: contribute to the progress or growth of; "I am promoting the
+          use of computers in the classroom" [syn: {promote}, {advance},
+           {boost}, {further}]
+     2: inspire with confidence; give hope or courage to [ant: {discourage}]
+     3: spur on; "His financial success encouraged him to look for a
+        wife"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

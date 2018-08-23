@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>consistency</Word>
+  <Definitions>
+    <Definition>
+      <Word>consistency</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Consistence \Con*sist"ence\, Consistency \Con*sist"en*cy\, n.
+   [Cf. F. consistance.]
+   1. The condition of standing or adhering together, or being
+      fixed in union, as the parts of a body; existence;
+      firmness; coherence; solidity.
+      [1913 Webster]
+
+            Water, being divided, maketh many circles, till it
+            restore itself to the natural consistence. --Bacon.
+      [1913 Webster]
+
+            We are as water, weak, and of no consistence. --Jer.
+                                                  Taylor.
+      [1913 Webster]
+
+            The same form, substance, and consistency. --T.
+                                                  Burnet.
+      [1913 Webster]
+
+   2. A degree of firmness, density, viscosity, or spissitude; a
+      measure of the ability to hold together when manipulated.
+
+   Syn: body.
+        [1913 Webster]
+
+              Let the expressed juices be boiled into the
+              consistence of a sirup.             --Arbuthnot.
+        [1913 Webster]
+
+   3. That which stands together as a united whole; a
+      combination.
+      [1913 Webster]
+
+            The church of God, as meaning the whole consistence
+            of orders and members.                --Milton.
+      [1913 Webster]
+
+   4. Firmness of constitution or character; substantiality;
+      durability; persistency.
+      [1913 Webster]
+
+            His friendship is of a noble make and a lasting
+            consistency.                          --South.
+      [1913 Webster]
+
+   5. Agreement or harmony of all parts of a complex thing among
+      themselves, or of the same thing with itself at different
+      times; the harmony of conduct with profession; congruity;
+      correspondence; as, the consistency of laws, regulations,
+      or judicial decisions; consistency of opinions;
+      consistency of conduct or of character.
+      [1913 Webster]
+
+            That consistency of behavior whereby he inflexibly
+            pursues those measures which appear the most just.
+                                                  --Addison.
+      [1913 Webster]
+
+            Consistency, thou art a jewel.        --Popular
+                                                  Saying.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>consistency</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>consistency
+     n 1: the property of holding together and retaining its shape;
+          "when the dough has enough consistency it is ready to
+          bake" [syn: {consistence}, {body}]
+     2: a harmonious uniformity or agreement among things or parts
+        [syn: {consistence}] [ant: {inconsistency}]
+     3: logical coherence and accordance with the facts; "a rambling
+        argument that lacked any consistency"
+     4: (logic) an attribute of a logical system that is so
+        constituted that none of the propositions deducible from
+        the axioms contradict one another
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

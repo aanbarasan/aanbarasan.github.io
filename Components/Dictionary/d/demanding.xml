@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>demanding</Word>
+  <Definitions>
+    <Definition>
+      <Word>demanding</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Demand \De*mand"\, v. t. [imp. &amp; p. p. {Demanded}; p. pr. &amp; vb.
+   n. {Demanding}.] [F. demander, LL. demandare to demand,
+   summon, send word, fr. L. demandare to give in charge,
+   intrust; de- + mandare to commit to one's charge, commission,
+   order, command. Cf. {Mandate}, {Commend}.]
+   1. To ask or call for with authority; to claim or seek from,
+      as by authority or right; to claim, as something due; to
+      call for urgently or peremptorily; as, to demand a debt;
+      to demand obedience.
+      [1913 Webster]
+
+            This, in our foresaid holy father's name,
+            Pope Innocent, I do demand of thee.   --Shak.
+      [1913 Webster]
+
+   2. To inquire authoritatively or earnestly; to ask, esp. in a
+      peremptory manner; to question.
+      [1913 Webster]
+
+            I did demand what news from Shrewsbury. --Shak.
+      [1913 Webster]
+
+   3. To require as necessary or useful; to be in urgent need
+      of; hence, to call for; as, the case demands care.
+      [1913 Webster]
+
+   4. (Law) To call into court; to summon. --Burrill.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>demanding</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>demanding
+     adj : requiring more than usually expected or thought due;
+           especially great patience and effort and skill; "found
+           the job very demanding"; "a baby can be so demanding"
+           [ant: {undemanding}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

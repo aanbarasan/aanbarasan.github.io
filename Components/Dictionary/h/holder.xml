@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>holder</Word>
+  <Definitions>
+    <Definition>
+      <Word>holder</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Holder, IL
+  Zip code(s): 61736
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>holder</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Holder \Hold"er\, n.
+   One who is employed in the hold of a vessel.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>holder</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Holder \Hold"er\, n.
+   1. One who, or that which, holds.
+      [1913 Webster]
+
+   2. One who holds land, etc., under another; a tenant.
+      [1913 Webster]
+
+   3. (Com.) The payee of a bill of exchange or a promissory
+      note, or the one who owns or holds it.
+      [1913 Webster]
+
+   Note: Holder is much used as the second part of a compound;
+         as, shareholder, officeholder, stockholder,etc.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>holder</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>holder
+     n 1: a holding device; "a towel holder"
+     2: the person who is in possession of a check or note or bond
+        or document of title that is endorsed to him or to whoever
+        holds it; "the bond was marked `payable to bearer'" [syn:
+        {bearer}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

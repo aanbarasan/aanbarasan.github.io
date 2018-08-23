@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>formal</Word>
+  <Definitions>
+    <Definition>
+      <Word>formal</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>FORMAL
+     
+        1. FORmula MAnipulation Language.
+     
+        An early {Fortran} extension for {symbolic mathematics}.
+     
+        ["FORMAL, A Formula Manipulation Language", C.K. Mesztenyi,
+        Computer Note CN-1, CS Dept, U Maryland (Jan 1971)].
+     
+        2.  A data manipulation language for nonprogrammers from {IBM}
+        {LASC}.
+     
+        ["FORMAL: A Forms-Oriented and Visual-Directed Application
+        System", N.C. Shu, IEEE Computer 18(8):38-49 (1985)].
+     
+        (1994-12-06)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>formal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Formal \For"mal\ (f[^o]r"mal), n. [L. formic + alcohol.] (Chem.)
+   See {Methylal}.
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>formal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Formal \Form"al\ (f[^o]rm"al), a. [L. formalis: cf. F. formel.]
+   1. Belonging to the form, shape, frame, external appearance,
+      or organization of a thing.
+      [1913 Webster]
+
+   2. Belonging to the constitution of a thing, as distinguished
+      from the matter composing it; having the power of making a
+      thing what it is; constituent; essential; pertaining to or
+      depending on the forms, so called, of the human intellect.
+      [1913 Webster]
+
+            Of [the sounds represented by] letters, the material
+            part is breath and voice; the formal is constituted
+            by the motion and figure of the organs of speech.
+                                                  --Holder.
+      [1913 Webster]
+
+   3. Done in due form, or with solemnity; according to regular
+      method; not incidental, sudden or irregular; express; as,
+      he gave his formal consent.
+      [1913 Webster]
+
+            His obscure funeral . . .
+            No noble rite nor formal ostentation. --Shak.
+      [1913 Webster]
+
+   4. Devoted to, or done in accordance with, forms or rules;
+      punctilious; regular; orderly; methodical; of a prescribed
+      form; exact; prim; stiff; ceremonious; as, a man formal in
+      his dress, his gait, his conversation.
+      [1913 Webster]
+
+            A cold-looking, formal garden, cut into angles and
+            rhomboids.                            --W. Irwing.
+      [1913 Webster]
+
+            She took off the formal cap that confined her hair.
+                                                  --Hawthorne.
+      [1913 Webster]
+
+   5. Having the form or appearance without the substance or
+      essence; external; as, formal duty; formal worship; formal
+      courtesy, etc.
+      [1913 Webster]
+
+   6. Dependent in form; conventional.
+      [1913 Webster]
+
+            Still in constraint your suffering sex remains,
+            Or bound in formal or in real chains. --Pope.
+      [1913 Webster]
+
+   7. Sound; normal. [Obs.]
+      [1913 Webster]
+
+            To make of him a formal man again.    --Shak.
+      [1913 Webster]
+
+   {Formal cause}. See under {Cause}.
+
+   Syn: Precise; punctilious; stiff; starched; affected; ritual;
+        ceremonial; external; outward.
+
+   Usage: {Formal}, {Ceremonious}. When applied to things, these
+          words usually denote a mere accordance with the rules
+          of form or ceremony; as, to make a formal call; to
+          take a ceremonious leave. When applied to a person or
+          his manners, they are used in a bad sense; a person
+          being called formal who shapes himself too much by
+          some pattern or set form, and ceremonious when he lays
+          too much stress on the conventional laws of social
+          intercourse. Formal manners render a man stiff or
+          ridiculous; a ceremonious carriage puts a stop to the
+          ease and freedom of social intercourse.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>formal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Methylal \Meth"yl*al\, n. [Methylene + alcohol.] (Chem.)
+   A light, volatile liquid, {H2C(OCH3)2}, regarded as a complex
+   ether, and having a pleasant ethereal odor. It is obtained by
+   the partial oxidation of methyl alcohol. Called also
+   {formal}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>formal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>formal
+     adj 1: being in accord with established forms and conventions and
+            requirements (as e.g. of formal dress); "pay one's
+            formal respects"; "formal dress"; "a formal ball";
+            "the requirement was only formal and often ignored";
+            "a formal education" [ant: {informal}]
+     2: characteristic of or befitting a person in authority;
+        "formal duties"; "an official banquet"
+     3: (of spoken and written language) adhering to traditional
+        standards of correctness and without casual, contracted,
+        and colloquial forms; "the paper was written in formal
+        English" [ant: {informal}]
+     4: represented in simplified or symbolic form [syn: {conventional},
+         {schematic}]
+     5: logically deductive; "formal proof"
+     6: refined or imposing in manner or appearance; befitting a
+        royal court; "a courtly gentleman" [syn: {courtly}, {elegant},
+         {stately}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

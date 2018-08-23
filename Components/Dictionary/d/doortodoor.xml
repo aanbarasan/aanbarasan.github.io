@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>doortodoor</Word>
+  <Definitions>
+    <Definition>
+      <Word>doortodoor</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>door-to-door \door-to-door\ adj.
+   1. direct without intermediate changes of vehicle; -- of e.g.
+      journeys or deliveries; as, the limousine offers direct
+      door-to-door service.
+      [WordNet 1.5]
+
+   2. omitting no one; from the door of one house to that of the
+      next; as, a door-to-door solicitation, canvass, or
+      campaign.
+
+   Syn: house-to-house.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>doortodoor</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>door-to-door
+     adj 1: of e.g. journeys or deliveries; "the limousine offers
+            door-to-door service"
+     2: omitting no one; from the door of one house to that of the
+        next; "a door-to-door campaign"; "house-to-house coverage"
+        [syn: {house-to-house}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

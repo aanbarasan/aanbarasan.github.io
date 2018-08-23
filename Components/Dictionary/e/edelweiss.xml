@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>edelweiss</Word>
+  <Definitions>
+    <Definition>
+      <Word>edelweiss</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Edelweiss \E"del*weiss\, n. [G., fr. edel noble + weiss white.]
+   (Bot.)
+   A little, perennial, white, woolly plant ({Leontopodium
+   alpinum}), growing at high elevations in the Alps. It is the
+   national flower of Austria.
+   [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>edelweiss</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>edelweiss
+     n : alpine perennial plant native to Europe having leaves
+         covered with whitish down and small flower heads held in
+         stars of glistening whitish bracts [syn: {Leontopodium
+         alpinum}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>indemnification</Word>
+  <Definitions>
+    <Definition>
+      <Word>indemnification</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Indemnification \In*dem`ni*fi*ca"tion\, n.
+   1. The act or process of indemnifying, preserving, or
+      securing against loss, damage, or penalty; reimbursement
+      of loss, damage, or penalty; the state of being
+      indemnified.
+      [1913 Webster]
+
+            Indemnification is capable of some estimate; dignity
+            has no standard.                      --Burke.
+      [1913 Webster]
+
+   2. That which indemnifies.
+      [1913 Webster]
+
+            No reward with the name of an indemnification. --De
+                                                  Quincey.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>indemnification</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>indemnification
+     n 1: a sum of money paid in compensation for loss or injury [syn:
+           {damages}, {amends}, {indemnity}, {restitution}, {redress}]
+     2: an act of compensation for actual loss or damage or for
+        trouble and annoyance
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

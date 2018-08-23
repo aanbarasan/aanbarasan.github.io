@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>consultant</Word>
+  <Definitions>
+    <Definition>
+      <Word>consultant</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>consultant \consultant\ n.
+   an expert who gives advice.
+
+   Syn: adviser, advisor.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>consultant</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>consultant
+     n : an expert who gives advice; "an adviser helped students
+         select their courses"; "the United States sent military
+         advisors to Guatemala" [syn: {adviser}, {advisor}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

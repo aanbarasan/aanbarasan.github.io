@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>household</Word>
+  <Definitions>
+    <Definition>
+      <Word>household</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Household \House"hold`\, n.
+   1. Those who dwell under the same roof and compose a family.
+      [1913 Webster]
+
+            And calls, without affecting airs,
+            His household twice a day to prayers. --Swift.
+      [1913 Webster]
+
+   2. A line of ancestory; a race or house. [Obs.] --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>household</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Household \House"hold`\, a.
+   Belonging to the house and family; domestic; as, household
+   furniture; household affairs.
+   [1913 Webster]
+
+   {Household bread}, bread made in the house for common use;
+      hence, bread that is not of the finest quality. [Obs.]
+
+   {Household gods} (Rom. Antiq.), the gods presiding over the
+      house and family; the Lares and Penates; hence, all
+      objects endeared by association with home.
+
+   {Household troops}, troops appointed to attend and guard the
+      sovereign or his residence.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>household</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>household
+     n : a social unit living together; "he moved his family to
+         Virginia"; "It was a good Christian household"; "I waited
+         until the whole house was asleep"; "the teacher asked how
+         many people made up his home" [syn: {family}, {house}, {home},
+          {menage}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

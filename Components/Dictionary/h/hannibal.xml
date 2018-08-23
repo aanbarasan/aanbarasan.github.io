@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hannibal</Word>
+  <Definitions>
+    <Definition>
+      <Word>hannibal</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Hannibal, MO (city, FIPS 30214)
+  Location: 39.70755 N, 91.38364 W
+  Population (1990): 18004 (7896 housing units)
+  Area: 29.3 sq km (land), 1.2 sq km (water)
+  Zip code(s): 63401
+Hannibal, NY (village, FIPS 32017)
+  Location: 43.31776 N, 76.57757 W
+  Population (1990): 613 (240 housing units)
+  Area: 2.9 sq km (land), 0.0 sq km (water)
+  Zip code(s): 13074
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hannibal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Hannibal
+     n 1: general who commanded the Carthaginian army in the second
+          Punic War; crossed the Alps and defeated the Romans but
+          was recalled to defend Carthage and was defeated
+          (247-182 BC)
+     2: a town in northeast Missouri on the Mississippi River;
+        boyhood home of Mark Twain
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

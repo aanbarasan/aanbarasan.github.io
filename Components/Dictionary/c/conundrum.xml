@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>conundrum</Word>
+  <Definitions>
+    <Definition>
+      <Word>conundrum</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Conundrum \Co*nun"drum\, n. [Origin unknown.]
+   1. A kind of riddle based upon some fanciful or fantastic
+      resemblance between things quite unlike; a puzzling
+      question, of which the answer is or involves a pun.
+      [1913 Webster]
+
+            Or pun ambiguous, or conundrum quaint. --J. Philips.
+      [1913 Webster]
+
+   2. A question to which only a conjectural answer can be made.
+      [1913 Webster]
+
+            Do you think life is long enough to let me speculate
+            on conundrums like that?              --W. Black.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>conundrum</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>conundrum
+     n : a difficult problem [syn: {riddle}, {enigma}, {brain-teaser}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

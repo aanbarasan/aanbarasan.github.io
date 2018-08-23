@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>grammar</Word>
+  <Definitions>
+    <Definition>
+      <Word>grammar</Word>
+      <Dictionary>
+        <Id>devils</Id>
+        <Name>THE DEVIL'S DICTIONARY ((C)1911 Released April 15 1993)</Name>
+      </Dictionary>
+      <WordDefinition>GRAMMAR, n.  A system of pitfalls thoughtfully prepared for the feet
+for the self-made man, along the path by which he advances to
+distinction.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>grammar</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>grammar
+     
+        A formal definition of the syntactic structure of a language
+        (see {syntax}), normally given in terms of {production rule}s
+        which specify the order of constituents and their
+        sub-constituents in a {sentence} (a well-formed string in the
+        language).  Each rule has a left-hand side symbol naming a
+        syntactic category (e.g. "noun-phrase" for a {natural
+        language} grammar) and a right-hand side which is a sequence
+        of zero or more symbols.  Each symbol may be either a
+        {terminal symbol} or a non-terminal symbol.  A terminal symbol
+        corresponds to one "{lexeme}" - a part of the sentence with
+        no internal syntactic structure (e.g. an identifier or an
+        operator in a computer language).  A non-terminal symbol is
+        the left-hand side of some rule.
+     
+        One rule is normally designated as the top-level rule which
+        gives the structure for a whole sentence.
+     
+        A grammar can be used either to parse a sentence (see
+        {parser}) or to generate one.  Parsing assigns a terminal
+        syntactic category to each input token and a non-terminal
+        category to each appropriate group of tokens, up to the level
+        of the whole sentence.  Parsing is usually preceded by
+        {lexical analysis}.  Generation starts from the top-level rule
+        and chooses one alternative production wherever there is a
+        choice.
+     
+        See also {BNF}, {yacc}, {attribute grammar}, {grammar
+        analysis}.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>grammar</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Grammar \Gram"mar\, n. [OE. gramere, OF. gramaire, F. grammaire
+   Prob. fr. L. gramatica Gr ?, fem. of ? skilled in grammar,
+   fr. ? letter. See {Gramme}, {Graphic}, and cf. {Grammatical},
+   {Gramarye}.]
+   1. The science which treats of the principles of language;
+      the study of forms of speech, and their relations to one
+      another; the art concerned with the right use and
+      application of the rules of a language, in speaking or
+      writing.
+      [1913 Webster]
+
+   Note: The whole fabric of grammar rests upon the classifying
+         of words according to their function in the sentence.
+         --Bain.
+         [1913 Webster]
+
+   2. The art of speaking or writing with correctness or
+      according to established usage; speech considered with
+      regard to the rules of a grammar.
+      [1913 Webster]
+
+            The original bad grammar and bad spelling.
+                                                  --Macaulay.
+      [1913 Webster]
+
+   3. A treatise on the principles of language; a book
+      containing the principles and rules for correctness in
+      speaking or writing.
+      [1913 Webster]
+
+   4. treatise on the elements or principles of any science; as,
+      a grammar of geography.
+      [1913 Webster]
+
+   {Comparative grammar}, the science which determines the
+      relations of kindred languages by examining and comparing
+      their grammatical forms.
+
+   {Grammar school}.
+      (a) A school, usually endowed, in which Latin and Greek
+          grammar are taught, as also other studies preparatory
+          to colleges or universities; as, the famous Rugby
+          Grammar School. This use of the word is more common in
+          England than in the United States.
+          [1913 Webster]
+
+                When any town shall increase to the number of a
+                hundred
+                families or householders, they shall set up a
+                grammar school, the master thereof being able to
+                instruct youth so far as they may be fitted for
+                the University.                   --Mass.
+                                                  Records
+                                                  (1647).
+      (b) In the American system of graded common schools, at
+          one time the term referred to an intermediate school
+          between the primary school and the high school, in
+          which the principles of English grammar were taught;
+          now, it is synonymous with {primary school} or
+          {elementary school}, being the first school at which
+          children are taught subjects required by the state
+          educational laws. In different communities, the
+          grammar school (primary school) may have grades 1 to
+          4, 1 to 6, or 1 to 8, usually together with a
+          kindergarten. Schools between the primary school and
+          high school are now commonly termed {middle school} or
+          {intermediate school}.
+          [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>grammar</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Grammar \Gram"mar\, v. i.
+   To discourse according to the rules of grammar; to use
+   grammar. [Obs.] --Beau. &amp; Fl.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>grammar</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>grammar
+     n : studies of the formation of basic linguistic units
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

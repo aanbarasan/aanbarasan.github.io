@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>crybaby</Word>
+  <Definitions>
+    <Definition>
+      <Word>crybaby</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>crybaby
+     n 1: a person who lacks confidence, is irresolute and wishy-washy
+          [syn: {wimp}, {chicken}]
+     2: a person given to excessive complaints and crying and
+        whining [syn: {whiner}, {complainer}, {moaner}, {sniveller},
+         {bellyacher}, {grumbler}, {squawker}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

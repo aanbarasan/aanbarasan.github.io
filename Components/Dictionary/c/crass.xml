@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>crass</Word>
+  <Definitions>
+    <Definition>
+      <Word>crass</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Crass \Crass\ (kr?s), a. [L. crassus thick, fat, gross, prob.
+   orig., closely woven. See {Grease} animal fat, and cf.
+   {Crate}, {Hurdle}.]
+   Gross; thick; dense; coarse; not elaborated or refined.
+   ``Crass and fumid exhalations.'' --Sir. T. Browne. ``Crass
+   ignorance'' --Cudworth.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>crass</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>crass
+     adj : (of persons) so unrefined as to be lacking in discrimination
+           and sensibility
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

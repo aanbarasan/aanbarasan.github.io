@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dysentery</Word>
+  <Definitions>
+    <Definition>
+      <Word>dysentery</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dysentery \Dys"en*ter*y\, n. [L. dysenteria, Gr. ?; dys- ill,
+   bad + ?, pl. ?, intestines, fr. 'ento`s within, fr. ? in,
+   akin to E. in: cf. F. dysenterie. See {Dys}, and {In}.]
+   (Med.)
+   A disease attended with inflammation and ulceration of the
+   colon and rectum, and characterized by griping pains,
+   constant desire to evacuate the bowels, and the discharge of
+   mucus and blood.
+   [1913 Webster]
+
+   Note: When acute, dysentery is usually accompanied with high
+         fevers. It occurs epidemically, and is believed to be
+         communicable through the medium of the alvine
+         discharges.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dysentery</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dysentery
+     n : an infection of the intestines marked by severe diarrhea
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

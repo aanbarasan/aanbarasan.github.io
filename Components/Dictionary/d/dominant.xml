@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dominant</Word>
+  <Definitions>
+    <Definition>
+      <Word>dominant</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dominant \Dom"i*nant\, a. [L. dominans, -antis, p. pr. of
+   dominari: cf. F. dominant. See {Dominate}.]
+   Ruling; governing; prevailing; controlling; predominant; as,
+   the dominant party, church, spirit, power.
+   [1913 Webster]
+
+         The member of a dominant race is, in his dealings with
+         the subject race, seldom indeed fraudulent, . . . but
+         imperious, insolent, and cruel.          --Macaulay.
+   [1913 Webster]
+
+   {Dominant estate} or {Dominant tenement} (Law), the estate to
+      which a servitude or easement is due from another estate,
+      the estate over which the servitude extends being called
+      the servient estate or tenement. --Bouvier. --Wharton's
+      Law Dict.
+
+   {Dominant owner} (Law), one who owns lands on which there is
+      an easement owned by another.
+      [1913 Webster]
+
+   Syn: Governing; ruling; controlling; prevailing; predominant;
+        ascendant.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dominant</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dominant \Dom"i*nant\, n. (Mus.)
+   The fifth tone of the scale; thus G is the dominant of C, A
+   of D, and so on.
+   [1913 Webster]
+
+   {Dominant chord} (Mus.), the chord based upon the dominant.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dominant</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dominant
+     adj 1: exercising influence or control; "television plays a
+            dominant role in molding public opinion"; "the
+            dominant partner in the marriage" [ant: {subordinate}]
+     2: of genes; producing the same phenotype whether its allele is
+        identical or dissimilar [ant: {recessive}]
+     n : (music) the fifth note of the diatonic scale
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

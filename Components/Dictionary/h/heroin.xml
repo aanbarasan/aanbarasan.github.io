@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>heroin</Word>
+  <Definitions>
+    <Definition>
+      <Word>heroin</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>heroin \her"o*in\ (h[~e]r"[-o]*[i^]n), n. (Chem.)
+   a morphine derivative, {diacetyl morphine}, used to relieve
+   severe pain and as a sedative. It is highly addictive, and
+   its use is strictly controlled in the U.S. by federal law. It
+   is a popular strong narcotic drug of abuse, in part because
+   it is more soluble than morphine. It is sometimes included as
+   one of the components of Brompton's mixture, used to control
+   pain in terminallly ill patients.
+
+   Syn: diacetyl morphine, H, horse, junk, scag, shit, smack.
+        [WordNet 1.5 +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>heroin</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>heroin
+     n : a narcotic that is considered a hard drug; a highly
+         addictive morphine derivative; intravenous injection
+         provides the fastest and most intense rush [syn: {diacetylmorphine}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

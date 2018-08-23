@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>heinz</Word>
+  <Definitions>
+    <Definition>
+      <Word>heinz</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Heinz
+     n : United States industrialist who manufactured and sold
+         processed foods (1844-1919) [syn: {Henry John Heinz}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

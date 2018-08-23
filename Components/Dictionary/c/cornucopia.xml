@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cornucopia</Word>
+  <Definitions>
+    <Definition>
+      <Word>cornucopia</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Cornucopia, WI
+  Zip code(s): 54827
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cornucopia</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cornucopia \Cor`nu*co"pi*a\ (k[^o]r`n[-u]*k[=o]"p[i^]*[.a]), n.;
+   pl. {Cornucopias} (-[.a]z). [L. cornu copiae horn of plenty.
+   See {Horn}, and {Copious}.]
+   1. The horn of plenty, from which fruits and flowers are
+      represented as issuing. It is an emblem of abundance.
+      [1913 Webster]
+
+   2. pl. (Bot.) A genus of grasses bearing spikes of flowers
+      resembling the cornucopia in form.
+      [1913 Webster]
+
+   Note: Some writers maintain that this word should be written,
+         in the singular, {cornu copi[ae]}, and in the plural,
+         {cornua copi[ae]}.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cornucopia</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cornucopia
+     n : the property of being extremely abundant [syn: {profusion},
+         {profuseness}, {richness}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

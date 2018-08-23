@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>glossy</Word>
+  <Definitions>
+    <Definition>
+      <Word>glossy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Glossy \Gloss"y\ (gl[o^]s"[y^]), a. [Compar. {Glossier}
+   (gl[o^]s"[i^]*[~e]r); superl. {Glossiest}.] [See {Gloss}
+   luster.]
+   1. Smooth and shining; reflecting luster from a smooth
+      surface; highly polished; lustrous; as, glossy silk; a
+      glossy surface.
+      [1913 Webster]
+
+   2. Smooth; specious; plausible; as, glossy deceit.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>glossy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>glossy
+     adj 1: having a smooth, gleaming surface; "glossy auburn hair";
+            "satiny gardenia petals"; "sleek black fur"; "silken
+            eyelashes"; "silky skin"; "a silklike fabric"; "slick
+            seals and otters" [syn: {satiny}, {sleek}, {silken}, {silky},
+             {silklike}, {slick}]
+     2: (of paper and fabric and leather) having a surface made
+        smooth and glossy especially by pressing between rollers;
+        "calendered paper"; "a dress of glossy sateen" [syn: {calendered}]
+     3: reflecting light; "glistening bodies of swimmers"; "the
+        horse's glossy coat"; "lustrous auburn hair"; "saw the
+        moon like a shiny dime on a deep blue velvet carpet";
+        "shining white enamel" [syn: {glistening}, {lustrous}, {sheeny},
+         {shiny}, {shining}]
+     [also: {glossiest}, {glossier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

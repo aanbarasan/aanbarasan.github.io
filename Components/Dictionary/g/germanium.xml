@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>germanium</Word>
+  <Definitions>
+    <Definition>
+      <Word>germanium</Word>
+      <Dictionary>
+        <Id>elements</Id>
+        <Name>Elements database 20001107</Name>
+      </Dictionary>
+      <WordDefinition>germanium
+Symbol: Ge
+Atomic number: 32
+Atomic weight: 72.59
+Lustrous hard metalloid element, belongs to group 14 of the periodic
+table. Forms a large number of organometallic compounds. Predicted by
+Mendeleev in 1871, it was actually found in 1886 by Winkler.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>germanium</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Germanium \Ger*ma"ni*um\, n. [NL., fr. L. Germania Germany.]
+   (Chem.)
+   A rare element, discovered in 1885 in a silver ore
+   (argyrodite) at Freiberg. It is a brittle, silver-white
+   metal, chemically intermediate between the metals and
+   nonmetals, resembles tin, and is in general identical with
+   the predicted {ekasilicon}. Symbol Ge. Atomic number 32.
+   Atomic weight 72.59. It has excellent semiconductor
+   properties, and is used in transistors and diodes.
+   [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>germanium</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ekasilicon \Ek`a*sil"i*con\, n. [Skr. [=e]ka one + E. silicon.]
+   (Chem.)
+   The name of a hypothetical element predicted and afterwards
+   discovered and named {germanium}; -- so called because it was
+   a missing analogue of the silicon group. See {Germanium}, and
+   cf. {Ekabor}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>germanium</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>germanium
+     n : a brittle gray crystalline element that is a semiconducting
+         metalloid (resembling silicon) used in transistors;
+         occurs in germanite and argyrodite [syn: {Ge}, {atomic
+         number 32}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

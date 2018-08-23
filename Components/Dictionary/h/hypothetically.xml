@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hypothetically</Word>
+  <Definitions>
+    <Definition>
+      <Word>hypothetically</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hypothetic \Hy`po*thet"ic\, Hypothetical \Hy`po*thet"ic*al\, a.
+   [L. hypotheticus, Gr. ?: cf. F. hypoth['e]tique.]
+   Characterized by, or of the nature of, an hypothesis;
+   conditional; assumed without proof, for the purpose of
+   reasoning and deducing proof, or of accounting for some fact
+   or phenomenon.
+   [1913 Webster]
+
+         Causes hypothetical at least, if not real, for the
+         various phenomena of the existence of which our
+         experience informs us.                   --Sir W.
+                                                  Hamilton.
+   [1913 Webster]
+
+   {Hypothetical baptism} (Ch. of Eng.), baptism administered to
+      persons in respect to whom it is doubtful whether they
+      have or have not been baptized before. --Hook. --
+      {Hy`po*thet"ic*al*ly}, adv. --South.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hypothetically</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hypothetically
+     adv : by hypothesis
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

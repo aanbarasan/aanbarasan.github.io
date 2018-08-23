@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>emailing</Word>
+  <Definitions>
+    <Definition>
+      <Word>emailing</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>E-mail \E-mail\, email \email\, e-mail \e-mail\v. t. [imp. &amp; p.
+   p. {E-mailed}; p. pr. &amp; vb. n. {E-mailing}.]
+   to send (an e-mail message) to someone; as, I emailed the
+   article to the editor; she emailed me her report.
+
+   Syn: mail electronically.
+        [WordNet 1.5] ||
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

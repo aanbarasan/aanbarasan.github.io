@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>container</Word>
+  <Definitions>
+    <Definition>
+      <Word>container</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Container \Con*tain"er\, n.
+   1. One who, or that which, contains; particularly, an
+      artifactual object that is designed to contain some fluid
+      or solid material, object or objects, especially for
+      convenience in transporting the contained objects.
+      [1913 Webster]
+
+   2. a large metallic box designed to hold many smaller boxes
+      or packages, and used for convenience in loading and
+      unloading large quantities of freight, such as on ships,
+      trains, or airplanes.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>container</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>container
+     n : any object that can be used to hold things (especially a
+         large metal boxlike object of standardized dimensions
+         that can be loaded from one form of transport to another)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

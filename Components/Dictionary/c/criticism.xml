@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>criticism</Word>
+  <Definitions>
+    <Definition>
+      <Word>criticism</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Criticism \Crit"i*cism\ (kr?t"?-s?z'm), n.
+   1. The rules and principles which regulate the practice of
+      the critic; the art of judging with knowledge and
+      propriety of the beauties and faults of a literary
+      performance, or of a production in the fine arts; as,
+      dramatic criticism.
+      [1913 Webster]
+
+            The elements ofcriticism depend on the two
+            principles of Beauty and Truth, one of which is the
+            final end or object of study in every one of its
+            pursuits: Beauty, in letters and the arts; Truth, in
+            history and sciences.                 --Brande &amp; C.
+      [1913 Webster]
+
+            By criticism, as it was first instituted by
+            Aristotle, was meant a standard of judging well.
+                                                  --Dryden.
+      [1913 Webster]
+
+   2. The act of criticising; a critical judgment passed or
+      expressed; a critical observation or detailed examination
+      and review; a critique; animadversion; censure.
+      [1913 Webster]
+
+            About the plan of ``Rasselas'' little was said by
+            the critics; and yet the faults of the plan might
+            seem to invite severe criticism.      --Macaulay.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>criticism</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>criticism
+     n 1: disapproval expressed by pointing out faults or
+          shortcomings; "the senator received severe criticism
+          from his opponent" [syn: {unfavorable judgment}]
+     2: a serious examination and judgment of something;
+        "constructive criticism is always appreciated" [syn: {critique}]
+     3: a written evaluation of a work of literature [syn: {literary
+        criticism}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

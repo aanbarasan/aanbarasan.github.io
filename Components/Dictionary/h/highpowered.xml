@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>highpowered</Word>
+  <Definitions>
+    <Definition>
+      <Word>highpowered</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>high-power \high-power\ high-powered \high-powered\adj.
+   1. vigorously energetic or forceful. high-powered executives
+
+   Syn: high-octane, high-voltage.
+        [WordNet 1.5]
+
+   2. capable of a high degree of magnification; -- used of
+      optical instruments such as microscopes or telescopes. a
+      high-powered microscope
+      [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>highpowered</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>high-powered
+     adj 1: vigorously energetic or forceful; "a high-octane sales
+            manager"; "a high-octane marketing plan";
+            "high-powered executives"; "a high-voltage theatrical
+            entrepreneur" [syn: {high-octane}, {high-power}, {high-voltage},
+             {high-energy}]
+     2: (used of microscopes) capable of a high degree of
+        magnification; "a high-powered microscope"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

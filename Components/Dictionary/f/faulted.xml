@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>faulted</Word>
+  <Definitions>
+    <Definition>
+      <Word>faulted</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fault \Fault\, v. t. [imp. &amp; p. p. {Faulted}; p. pr. &amp; vb. n.
+   {Faulting}.]
+   1. To charge with a fault; to accuse; to find fault with; to
+      blame. [Obs.]
+      [1913 Webster]
+
+            For that I will not fault thee.       --Old Song.
+      [1913 Webster]
+
+   2. (Geol.) To interrupt the continuity of (rock strata) by
+      displacement along a plane of fracture; -- chiefly used in
+      the p. p.; as, the coal beds are badly faulted.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

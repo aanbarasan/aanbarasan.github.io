@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>doughboy</Word>
+  <Definitions>
+    <Definition>
+      <Word>doughboy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>doughboy
+     n 1: an American infantryman in World War I
+     2: a rounded lump of dough that is deep-fried and served as hot
+        bread; "the doughboy was a predecessor of the doughnut"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

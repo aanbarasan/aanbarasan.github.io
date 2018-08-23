@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>germ</Word>
+  <Definitions>
+    <Definition>
+      <Word>germ</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Germ \Germ\, v. i.
+   To germinate. [R.] --J. Morley.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>germ</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Germ \Germ\ (j[~e]rm), n. [F. germe, fr. L. germen, germinis,
+   sprout, but, germ. Cf. {Germen}, {Germane}.]
+   1. (Biol.) That which is to develop a new individual; as, the
+      germ of a fetus, of a plant or flower, and the like; the
+      earliest form under which an organism appears.
+      [1913 Webster]
+
+            In the entire process in which a new being
+            originates . . . two distinct classes of action
+            participate; namely, the act of generation by which
+            the germ is produced; and the act of development, by
+            which that germ is evolved into the complete
+            organism.                             --Carpenter.
+      [1913 Webster]
+
+   2. That from which anything springs; origin; first principle;
+      as, the germ of civil liberty.
+      [1913 Webster]
+
+   3. (Biol.) The germ cells, collectively, as distinguished
+      from the somatic cells, or {soma}. Germ is often used in
+      place of germinal to form phrases; as, germ area, germ
+      disc, germ membrane, germ nucleus, germ sac, etc.
+      [Webster 1913 Suppl.]
+
+   4. A microorganism, especially a disease-causing bacterium or
+      virus; -- used informally, as, the don't eat food that
+      falls on the floor, it may have germs on it.
+      [PJC]
+
+   {Disease germ} (Biol.), a name applied to certain tiny
+      bacterial organisms or their spores, such as {Anthrax
+      bacillus} and the {Micrococcus} of fowl cholera, which
+      have been demonstrated to be the cause of certain
+      diseases; same as germ[4]. See {Germ theory} (below).
+
+   {Germ cell} (Biol.), the germ, egg, spore, or cell from which
+      the plant or animal arises. At one time a part of the body
+      of the parent, it finally becomes detached, and by a
+      process of multiplication and growth gives rise to a mass
+      of cells, which ultimately form a new individual like the
+      parent. See {Ovum}.
+
+   {Germ gland}. (Anat.) See {Gonad}.
+
+   {Germ stock} (Zo["o]l.), a special process on which buds are
+      developed in certain animals. See {Doliolum}.
+
+   {Germ theory} (Biol.), the theory that living organisms can
+      be produced only by the evolution or development of living
+      germs or seeds. See {Biogenesis}, and {Abiogenesis}. As
+      applied to the origin of disease, the theory claims that
+      the zymotic diseases are due to the rapid development and
+      multiplication of various bacteria, the germs or spores of
+      which are either contained in the organism itself, or
+      transferred through the air or water. See {Fermentation
+      theory}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>germ</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>germ
+     n 1: anything that provides inspiration for later work [syn: {source},
+           {seed}]
+     2: a small simple structure (as a fertilized egg) from which
+        new tissue can develop into a complete organism
+     3: a minute life form (especially a disease-causing bacterium);
+        the term is not in technical use [syn: {microbe}, {bug}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

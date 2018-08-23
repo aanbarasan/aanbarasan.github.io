@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fortification</Word>
+  <Definitions>
+    <Definition>
+      <Word>fortification</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fortification \For`ti*fi*ca"tion\, n. [L. fortificatio : cf. F.
+   fortification.]
+   1. The act of fortifying; the art or science of fortifying
+      places in order to defend them against an enemy.
+      [1913 Webster]
+
+   2. That which fortifies; especially, a work or works erected
+      to defend a place against attack; a fortified place; a
+      fortress; a fort; a castle.
+      [1913 Webster]
+
+   {Fortification agate}, Scotch pebble.
+
+   Syn: Fortress; citadel; bulwark. See {Fortress}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fortification</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fortification
+     n 1: defensive structure consisting of walls or mounds built
+          around a stronghold to strengthen it [syn: {munition}]
+     2: the art or science of strengthening defenses
+     3: the addition of an ingredient for the purpose of enrichment
+        (as the addition of alcohol to wine or the addition of
+        vitamins to food)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

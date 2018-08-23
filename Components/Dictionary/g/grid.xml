@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>grid</Word>
+  <Definitions>
+    <Definition>
+      <Word>grid</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Grid \Grid\ (gr[i^]d), n.
+   1. A grating of thin parallel bars, similar to a gridiron.
+      [1913 Webster]
+
+   2. (Elec.) A plate or sheet of lead with perforations, or
+      other irregularities of surface, by which the active
+      material of a secondary battery or accumulator is
+      supported.
+      [Webster 1913 Suppl.]
+
+   3. (Electronics) a mesh or coil of fine wire in an electron
+      tube, connected to the circuit so as to regulate the
+      current passing through the tube.
+      [PJC]
+
+   4. any network of crossing horizontal and vertical lines; --
+      they are used, for example, as reference coordinates to
+      locate objects or places on a map.
+      [PJC]
+
+   5. anything resembling a grid[4], as the Manhattan street
+      grid. See also {gridlock}.
+      [PJC]
+
+   6. a network of connected conductors for distributing
+      electrical power, especially one using high-tension lines
+      for wide geographic distribution of power; as, the
+      Northeast power grid.
+      [PJC]
+
+   7. (Football) the {gridiron}.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>grid</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>grid
+     n 1: a system of high tension cables by which electrical power is
+          distributed throughout a region [syn: {power system}, {power
+          grid}]
+     2: a network of horizontal and vertical lines that provide
+        coordinates for locating points on an image [syn: {reference
+        grid}]
+     3: an electrode placed between the cathode and anode of a
+        vacuum tube to control the flow of electrons through the
+        tube [syn: {control grid}]
+     4: a cooking utensil of parallel metal bars; used to grill fish
+        or meat [syn: {gridiron}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

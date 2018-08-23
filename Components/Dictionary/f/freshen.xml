@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>freshen</Word>
+  <Definitions>
+    <Definition>
+      <Word>freshen</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Freshen \Fresh"en\, v. t. [imp. &amp; p. p. {Freshened}; p. pr. &amp;
+   vb. n. {Freshening}]
+   1. To make fresh; to separate, as water, from saline
+      ingredients; to make less salty; as, to freshen water,
+      fish, or flesh.
+      [1913 Webster]
+
+   2. To refresh; to revive. [Obs.] --Spenser.
+      [1913 Webster]
+
+   3. (Naut.) To relieve, as a rope, by change of place where
+      friction wears it; or to renew, as the material used to
+      prevent chafing; as, to freshen a hawse. -- Totten.
+      [1913 Webster]
+
+   {To freshen ballast} (Naut.), to shift Or restore it.
+
+   {To freshen the hawse}, to pay out a little more cable, so as
+      to bring the chafe on another part.
+
+   {To freshen the way}, to increase the speed of a vessel.
+      --Ham. Nav. Encyc.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>freshen</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Freshen \Fresh"en\, v. i.
+   1. To grow fresh; to lose saltness.
+      [1913 Webster]
+
+   2. To grow brisk or strong; as, the wind freshens.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>freshen</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>freshen
+     v 1: make (to feel) fresh; "The cool water refreshed us" [syn: {refresh}]
+     2: become or make oneself fresh again; "She freshened up after
+        the tennis game" [syn: {refresh}, {refreshen}, {freshen up}]
+     3: make fresh again [syn: {refresh}, {refreshen}] [ant: {tire}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

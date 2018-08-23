@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fro</Word>
+  <Definitions>
+    <Definition>
+      <Word>fro</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fro \Fro\ (fr[=o]), adv. [OE. fra, fro, adv. &amp; prep., Icel.
+   fr[=a], akin to Dan. fra from, E. from. See {From}.]
+   From; away; back or backward; -- now used only in opposition
+   to the word to, in the phrase to and fro, that is, to and
+   from. See {To and fro} under {To}. --Milton.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fro</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fro \Fro\, prep.
+   From. [Obs.] --Chaucer.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

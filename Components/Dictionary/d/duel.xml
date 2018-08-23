@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>duel</Word>
+  <Definitions>
+    <Definition>
+      <Word>duel</Word>
+      <Dictionary>
+        <Id>devils</Id>
+        <Name>THE DEVIL'S DICTIONARY ((C)1911 Released April 15 1993)</Name>
+      </Dictionary>
+      <WordDefinition>DUEL, n.  A formal ceremony preliminary to the reconciliation of two
+enemies.  Great skill is necessary to its satisfactory observance; if
+awkwardly performed the most unexpected and deplorable consequences
+sometimes ensue.  A long time ago a man lost his life in a duel.
+
+    That dueling's a gentlemanly vice
+        I hold; and wish that it had been my lot
+        To live my life out in some favored spot --
+    Some country where it is considered nice
+    To split a rival like a fish, or slice
+        A husband like a spud, or with a shot
+        Bring down a debtor doubled in a knot
+    And ready to be put upon the ice.
+    Some miscreants there are, whom I do long
+        To shoot, to stab, or some such way reclaim
+    The scurvy rogues to better lives and manners,
+    I seem to see them now -- a mighty throng.
+        It looks as if to challenge _me_ they came,
+    Jauntily marching with brass bands and banners!
+                                                          Xamba Q. Dar
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>duel</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>DUEL
+     
+        A front end to {gdb} by Michael Golan &lt;mg@cs.princeton.edu&gt;.
+        DUEL implements a language designed for debugging {C}
+        programs.  It mainly features efficient ways to select and
+        display data items.  It is normally linked into the gdb
+        executable, but could stand alone.  It interprets a subset of
+        {C} in addition to its own language.
+     
+        Version 1.10.
+     
+        {(ftp://ftp.cs.princeton.edu/duel/)}.
+     
+        (1993-03-20)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>duel</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Duel \Du"el\, v. i. &amp; t.
+   To fight in single combat. [Obs.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>duel</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Duel \Du"el\, n. [It. duello, fr. L. duellum, orig., a contest
+   between two, which passed into the common form bellum war,
+   fr. duo two: cf. F. duel. See {Bellicose}, {Two}, and cf.
+   {Duello}.]
+   A combat between two persons, fought with deadly weapons, by
+   agreement. It usually arises from an injury done or an
+   affront given by one to the other.
+   [1913 Webster]
+
+   {Trial by duel} (Old Law), a combat between two persons for
+      proving a cause; trial by battel.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>duel</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>duel
+     n 1: a prearranged fight with deadly weapons by two people
+          (accompanied by seconds) in order to settle a quarrel
+          over a point of honor [syn: {affaire d'honneur}]
+     2: any struggle between two skillful opponents (individuals or
+        groups)
+     v : fight a duel, as over one's honor or a woman; "In the 19th
+         century, men often dueled over small matters"
+     [also: {duelling}, {duelled}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

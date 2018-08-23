@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>electrified</Word>
+  <Definitions>
+    <Definition>
+      <Word>electrified</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Electrify \E*lec"tri*fy\, v. t. [imp. &amp; p. p. {Electrified}; p.
+   pr. &amp; vb. n. {Electrifying} .] [Electric + -fy.]
+   1. To communicate electricity to; to charge with electricity;
+      as, to electrify a jar.
+      [1913 Webster]
+
+   2. To cause electricity to pass through; to affect by
+      electricity; to give an electric shock to; as, to
+      electrify a limb, or the body.
+      [1913 Webster]
+
+   3. To excite suddenly and violently, esp. by something highly
+      delightful or inspiriting; to thrill; as, this patriotic
+      sentiment electrified the audience.
+      [1913 Webster]
+
+            If the sovereign were now to immure a subject in
+            defiance of the writ of habeas corpus . . . the
+            whole nation would be instantly electrified by the
+            news.                                 --Macaulay.
+      [1913 Webster]
+
+            Try whether she could electrify Mr. Grandcourt by
+            mentioning it to him at table.        --G. Eliot.
+      [1913 Webster]
+
+   4. To equip for employment of electric power; to modify (a
+      device) so that it uses electrical power as the main
+      source of energy; as, to electrify a railroad.
+      [Webster 1913 Suppl. +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>electrified</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>electrify
+     v 1: excite suddenly and intensely; "The news electrified us"
+     2: charge (a conductor) with electricity
+     3: equip for use with electricity; "electrify an appliance"
+        [syn: {wire}]
+     [also: {electrified}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>electrified</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>electrified
+     See {electrify}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

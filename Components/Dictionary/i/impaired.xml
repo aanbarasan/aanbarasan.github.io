@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>impaired</Word>
+  <Definitions>
+    <Definition>
+      <Word>impaired</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Impair \Im*pair"\, v. t. [imp. &amp; p. p. {Impaired}; p. pr. &amp; vb.
+   n. {Impairing}.] [Written also {empair}.] [OE. empeiren,
+   enpeiren, OF. empeirier, empirier, F. empirer, LL.
+   impejorare; L. pref. im- in + pejorare to make worse, fr.
+   pejor worse. Cf. {Appair}.]
+   To make worse; to diminish in quantity, value, excellence, or
+   strength; to deteriorate; as, to impair health, character,
+   the mind, value.
+   [1913 Webster]
+
+         Time sensibly all things impairs.        --Roscommon.
+   [1913 Webster]
+
+         In years he seemed, but not impaired by years. --Pope.
+
+   Syn: To diminish; decrease; injure; weaken; enfeeble;
+        debilitate; reduce; debase; deteriorate.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>impaired</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>impaired
+     adj 1: diminished in strength, quality, or utility; "impaired
+            eyesight" [ant: {unimpaired}]
+     2: mentally or physically unfit [syn: {afflicted}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

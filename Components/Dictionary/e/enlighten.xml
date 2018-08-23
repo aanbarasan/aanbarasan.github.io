@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>enlighten</Word>
+  <Definitions>
+    <Definition>
+      <Word>enlighten</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Enlighten \En*light"en\, v. t. [Pref. en- + lighten: cf. AS.
+   inl[=i]htan. Cf. {Enlight}.]
+   1. To supply with light; to illuminate; as, the sun
+      enlightens the earth.
+      [1913 Webster]
+
+            His lightnings enlightened the world. --Ps. xcvii.
+                                                  4.
+      [1913 Webster]
+
+   2. To make clear to the intellect or conscience; to shed the
+      light of truth and knowledge upon; to furnish with
+      increase of knowledge; to instruct; as, to enlighten the
+      mind or understanding.
+      [1913 Webster]
+
+            The conscience enlightened by the Word and Spirit of
+            God.                                  --Trench.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>enlighten</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>enlighten
+     v 1: make understand; "Can you enlighten me--I don't understand
+          this proposal" [syn: {edify}]
+     2: give spiritual insight to; in religion [syn: {irradiate}]
+     3: make free from confusion or ambiguity; make clear; "Could
+        you clarify these remarks?"; "Clear up the question of who
+        is at fault" [syn: {clear}, {clear up}, {shed light on}, {crystallize},
+         {crystallise}, {crystalize}, {crystalise}, {straighten
+        out}, {sort out}, {illuminate}, {elucidate}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

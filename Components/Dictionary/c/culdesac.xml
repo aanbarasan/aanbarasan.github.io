@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>culdesac</Word>
+  <Definitions>
+    <Definition>
+      <Word>culdesac</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Culdesac, ID (city, FIPS 19900)
+  Location: 46.37499 N, 116.66935 W
+  Population (1990): 280 (127 housing units)
+  Area: 0.5 sq km (land), 0.0 sq km (water)
+  Zip code(s): 83524
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>culdesac</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cul-de-sac \Cul`-de-sac"\ (ku`de-s?k" or kul`de-s?k"), n.; pl.
+   {Culs-de-sac} (ku`- or kulz`-). [ F., lit., bottom of a bag.]
+   [1913 Webster]
+   1. A passage with only one outlet, as a street closed at one
+      end; a blind alley; hence, a trap.
+      [1913 Webster]
+
+   2. (Mil.) a position in which an army finds itself with no
+      way of exit but to the front.
+      [1913 Webster]
+
+   3. (Anat.) Any bag-shaped or tubular cavity, vessel, or
+      organ, open only at one end.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>culdesac</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cul de sac
+     n 1: a passage with access only at one end [syn: {cul}, {dead end}]
+     2: a street with only one way in or out [syn: {blind alley}, {dead-end
+        street}, {impasse}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

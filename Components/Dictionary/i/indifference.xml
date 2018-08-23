@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>indifference</Word>
+  <Definitions>
+    <Definition>
+      <Word>indifference</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Indifference \In*dif"fer*ence\, n. [L. indifferentia similarity,
+   lack of difference: cf. F. indiff['e]rence.]
+   [1913 Webster]
+   1. The quality or state of being indifferent, or not making a
+      difference; lack of sufficient importance to constitute a
+      difference; absence of weight; insignificance.
+      [1913 Webster]
+
+   2. Passableness; mediocrity.
+      [1913 Webster]
+
+   3. Impartiality; freedom from prejudice, prepossession, or
+      bias.
+      [1913 Webster]
+
+            He . . . is far from such indifference and equity as
+            ought and must be in judges which he saith I assign.
+                                                  --Sir T. More.
+      [1913 Webster]
+
+   4. Absence of anxiety or interest in respect to what is
+      presented to the mind; unconcernedness; as, entire
+      indifference to all that occurs.
+      [1913 Webster]
+
+            Indifference can not but be criminal, when it is
+            conversant about objects which are so far from being
+            of an indifferent nature, that they are highest
+            importance.                           --Addison.
+
+   Syn: Carelessness; negligence; unconcern; apathy;
+        insensibility; coldness; lukewarmness.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>indifference</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>indifference
+     n 1: unbiased impartial unconcern
+     2: apathy demonstrated by an absence of emotional reactions
+        [syn: {emotionlessness}, {impassivity}, {impassiveness}, {phlegm},
+         {stolidity}, {unemotionality}]
+     3: the trait of lacking enthusiasm for or interest in things
+        generally [syn: {apathy}, {spiritlessness}]
+     4: the trait of remaining calm and seeming not to care; a
+        casual lack of concern [syn: {nonchalance}, {unconcern}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fiery</Word>
+  <Definitions>
+    <Definition>
+      <Word>fiery</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fiery \Fi"er*y\ (? or ?), a. [Formerly written firy, fr. fire.]
+   1. Consisting of, containing, or resembling, fire; as, the
+      fiery gulf of Etna; a fiery appearance.
+      [1913 Webster]
+
+            And fiery billows roll below.         --I. Watts.
+      [1913 Webster]
+
+   2. Vehement; ardent; very active; impetuous.
+      [1913 Webster]
+
+            Hath thy fiery heart so parched thine entrails?
+                                                  --Shak.
+      [1913 Webster]
+
+            The fiery spirit of his forefathers.  --W. Irwing.
+      [1913 Webster]
+
+   3. Passionate; easily provoked; irritable.
+      [1913 Webster]
+
+            You know the fiery quality of the duke. --Shak.
+      [1913 Webster]
+
+   4. Unrestrained; fierce; mettlesome; spirited.
+      [1913 Webster]
+
+            One curbed the fiery steed.           --Dryden.
+      [1913 Webster]
+
+   5. heated by fire, or as if by fire; burning hot; parched;
+      feverish. --Pope.
+      [1913 Webster]
+
+            The sword which is made fiery.        --Hooker.
+      [1913 Webster]
+
+   {Fiery cross}, a cross constructed of two firebrands, and
+      pitched upon the point of a spear; formerly in Scotland
+      borne by a runner as a signal for the clan to take up
+      arms. --Sir W. Scott.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fiery</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fiery
+     adj 1: characterized by intense emotion; "ardent love"; "an ardent
+            lover"; "a burning enthusiasm"; "a fervent desire to
+            change society"; "a fervent admirer"; "fiery oratory";
+            "an impassioned appeal"; "a torrid love affair" [syn:
+            {ardent}, {burning(a)}, {fervent}, {fervid}, {impassioned},
+             {perfervid}, {torrid}]
+     2: like or suggestive of fire; "the burning sand"; "a fiery
+        desert wind"; "an igneous desert atmosphere" [syn: {igneous}]
+     3: very intense; "a fiery temper"; "flaming passions" [syn: {flaming}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

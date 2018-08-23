@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>horizontal</Word>
+  <Definitions>
+    <Definition>
+      <Word>horizontal</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Horizontal \Hor`i*zon"tal\, a. [Cf. F. horizontal.]
+   1. Pertaining to, or near, the horizon. ``Horizontal misty
+      air.'' --Milton.
+      [1913 Webster]
+
+   2. Parallel to the horizon; on a level; as, a horizontalline
+      or surface.
+      [1913 Webster]
+
+   3. Measured or contained in a plane of the horizon; as,
+      horizontal distance.
+      [1913 Webster]
+
+   {Horizontal drill}, a drilling machine having a horizontal
+      drill spindle.
+
+   {Horizontal engine}, one the piston of which works
+      horizontally.
+
+   {Horizontal fire} (Mil.), the fire of ordnance and small arms
+      at point-blank range or at low angles of elevation.
+
+   {Horizontal force} (Physics), the horizontal component of the
+      earth's magnetic force.
+
+   {Horizontal line} (Descriptive Geometry &amp; Drawing), a
+      constructive line, either drawn or imagined, which passes
+      through the point of sight, and is the chief line in the
+      projection upon which all verticals are fixed, and upon
+      which all vanishing points are found.
+
+   {Horizontal parallax}. See under {Parallax}.
+
+   {Horizontal plane} (Descriptive Geometry), a plane parallel
+      to the horizon, upon which it is assumed that objects are
+      projected. See {Projection}. It is upon the horizontal
+      plane that the ground plan of the buildings is supposed to
+      be drawn.
+
+   {Horizontal projection}, a projection made on a plane
+      parallel to the horizon.
+
+   {Horizontal range} (Gunnery), the distance in a horizontal
+      plane to which a gun will throw a projectile.
+
+   {Horizontal water wheel}, a water wheel in which the axis is
+      vertical, the buckets or floats revolving in a horizontal
+      plane, as in most turbines.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>horizontal</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>horizontal
+     adj : parallel to or in the plane of the horizon or a base line;
+           "a horizontal surface" [ant: {vertical}, {inclined}]
+     n : something that is oriented horizontally
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

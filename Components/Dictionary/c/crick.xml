@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>crick</Word>
+  <Definitions>
+    <Definition>
+      <Word>crick</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Crick \Crick\ (kr[i^]k), n. [See {Creak}.]
+   The creaking of a door, or a noise resembling it. [Obs.]
+   --Johnson.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>crick</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Crick \Crick\, n. [The same as creek a bending, twisting. See
+   {Creek}, {Crook}.]
+   1. A painful, spasmodic affection of the muscles of some part
+      of the body, as of the neck or back, rendering it
+      difficult to move the part.
+      [1913 Webster]
+
+            To those also that, with a crick or cramp, have thei
+            necks drawn backward.                 --Holland.
+      [1913 Webster]
+
+   2. [Cf. F. cric.] A small jackscrew. --Knight.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>crick</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>crick
+     n 1: a painful muscle spasm especially in the neck or back
+          (`rick' and `wrick' are British) [syn: {rick}, {wrick}]
+     2: English biochemist who (with Watson in 1953) helped discover
+        the helical structure of DNA (born in 1916) [syn: {Francis
+        Crick}, {Francis Henry Compton Crick}]
+     v : twist the head into a strained position
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

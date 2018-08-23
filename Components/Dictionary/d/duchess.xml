@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>duchess</Word>
+  <Definitions>
+    <Definition>
+      <Word>duchess</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Duchess \Duch"ess\, n. [F. duchesse, fr. duc duke.]
+   The wife or widow of a duke; also, a lady who has the
+   sovereignty of a duchy in her own right.
+   [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>duchess</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>duchess
+     n : the wife of a duke or a woman holding ducal title in her own
+         right
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>deployed</Word>
+  <Definitions>
+    <Definition>
+      <Word>deployed</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Deploy \De*ploy"\, v. t. &amp; i. [imp. &amp; p. p. {Deployed}; p. pr. &amp;
+   vb. n. {Deploying}.] [F. d['e]ployer; pref. d['e]? = d['e]s
+   (L. dis) + ployer, equiv. to plier to fold, fr. L. plicare.
+   See {Ply}, and cf. {Display}.] (Mil.)
+   To open out; to unfold; to spread out (a body of troops) in
+   such a way that they shall display a wider front and less
+   depth; -- the reverse of ploy; as, to deploy a column of
+   troops into line of battle.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

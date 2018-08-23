@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hallmark</Word>
+  <Definitions>
+    <Definition>
+      <Word>hallmark</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hall-mark \Hall"-mark`\ (h[add]l"m[aum]rk`), n.
+   1. The official stamp of the Goldsmiths' Company and other
+      assay offices, in the United Kingdom, on gold and silver
+      articles, attesting their purity.
+      [1913 Webster]
+
+   2. Hence, [figuratively]: A distinguishing characteristic or
+      characteristics; as, a word or phrase lacks the hall-mark
+      of the best writers.
+      [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hallmark</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hallmark
+     n 1: a distinctive characteristic or attribute [syn: {trademark},
+           {earmark}, {stylemark}]
+     2: a mark on an article of trade to indicate its origin and
+        authenticity [syn: {authentication}, {assay-mark}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

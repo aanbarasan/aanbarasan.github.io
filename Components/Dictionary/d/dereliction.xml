@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dereliction</Word>
+  <Definitions>
+    <Definition>
+      <Word>dereliction</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dereliction \Der`e*lic"tion\, n. [L. derelictio.]
+   1. The act of leaving with an intention not to reclaim or
+      resume; an utter forsaking abandonment.
+      [1913 Webster]
+
+            Cession or dereliction, actual or tacit, of other
+            powers.                               --Burke.
+      [1913 Webster]
+
+   2. A neglect or omission as if by willful abandonment.
+      [1913 Webster]
+
+            A total dereliction of military duties. --Sir W.
+                                                  Scott.
+      [1913 Webster]
+
+   3. The state of being left or abandoned.
+      [1913 Webster]
+
+   4. (Law) A retiring of the sea, occasioning a change of
+      high-water mark, whereby land is gained.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dereliction</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dereliction
+     n 1: a tendency to be negligent and uncaring; "he inherited his
+          delinquency from his father"; "his derelictions were not
+          really intended as crimes"; "his adolescent protest
+          consisted of willful neglect of all his
+          responsibilities" [syn: {delinquency}, {willful neglect}]
+     2: willful negligence
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

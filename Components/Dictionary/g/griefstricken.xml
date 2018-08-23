@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>griefstricken</Word>
+  <Definitions>
+    <Definition>
+      <Word>griefstricken</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>grief-stricken
+     adj : sorrowful through loss or deprivation; "bereft of hope"
+           [syn: {bereaved}, {bereft}, {grieving}, {mourning(a)},
+           {sorrowing(a)}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

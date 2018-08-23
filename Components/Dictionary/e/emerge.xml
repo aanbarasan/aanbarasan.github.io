@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>emerge</Word>
+  <Definitions>
+    <Definition>
+      <Word>emerge</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Emerge \E*merge"\, v. i. [imp. &amp; p. p. {Emerged}; p. pr. &amp; vb.
+   n. {Emerging}.] [L. emergere, emersum; e out + mergere to
+   dip, plunge. See {Merge}.]
+   To rise out of a fluid; to come forth from that in which
+   anything has been plunged, enveloped, or concealed; to issue
+   and appear; as, to emerge from the water or the ocean; the
+   sun emerges from behind the moon in an eclipse; to emerge
+   from poverty or obscurity. ``Thetis . . . emerging from the
+   deep.'' --Dryden.
+   [1913 Webster]
+
+         Those who have emerged from very low, some from the
+         lowest, classes of society.              --Burke.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>emerge</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>emerge
+     v 1: come out into view, as from concealment; "Suddenly, the
+          proprietor emerged from his office"
+     2: come out of; "Water issued from the hole in the wall"; "The
+        words seemed to come out by themselves" [syn: {issue}, {come
+        out}, {come forth}, {go forth}, {egress}]
+     3: become known or apparent; "Some nice results emerged from
+        the study"
+     4: come up to the surface of or rise; "He felt new emotions
+        emerge"
+     5: happen or occur as a result of something [syn: {come forth}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

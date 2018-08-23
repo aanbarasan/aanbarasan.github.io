@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>inbox</Word>
+  <Definitions>
+    <Definition>
+      <Word>inbox</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>in-box \in-box\ n.
+   a wood or metal receptacle placed on a desk to hold incoming
+   material requiring attention, especially documents.
+
+   Syn: in-tray, in-basket.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

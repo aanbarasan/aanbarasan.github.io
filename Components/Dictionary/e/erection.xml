@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>erection</Word>
+  <Definitions>
+    <Definition>
+      <Word>erection</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Erection \E*rec"tion\, n. [L. erectio: cf. F. ['e]rection.]
+   1. The act of erecting, or raising upright; the act of
+      constructing, as a building or a wall, or of fitting
+      together the parts of, as a machine; the act of founding
+      or establishing, as a commonwealth or an office; also, the
+      act of rousing to excitement or courage.
+      [1913 Webster]
+
+   2. The state of being erected, lifted up, built, established,
+      or founded; exaltation of feelings or purposes.
+      [1913 Webster]
+
+            Her peerless height my mind to high erection draws
+            up.                                   --Sidney
+      [1913 Webster]
+
+   3. State of being stretched to stiffness; tension.
+      [1913 Webster]
+
+   4. Anything erected; a building of any kind.
+      [1913 Webster]
+
+   5. (Physiol.) The state of a body part which, from having
+      been soft, has become hard and swollen by the accumulation
+      of blood in the erectile tissue; -- used especially of the
+      penis; as, to get or have an erection.
+      [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>erection</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>erection
+     n 1: an erect penis [syn: {hard-on}]
+     2: a structure that has been erected
+     3: the act of building or putting up [syn: {erecting}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

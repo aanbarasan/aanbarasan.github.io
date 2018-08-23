@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>diverted</Word>
+  <Definitions>
+    <Definition>
+      <Word>diverted</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Divert \Di*vert"\, v. t. [imp. &amp; p. p. {Diverted}; p. pr. &amp; vb.
+   n. {Diverting}.] [F. divertir, fr. L. divertere, diversum, to
+   go different ways, turn aside; di- = dis- + vertere to turn.
+   See {Verse}, and cf. {Divorce}.]
+   1. To turn aside; to turn off from any course or intended
+      application; to deflect; as, to divert a river from its
+      channel; to divert commerce from its usual course.
+      [1913 Webster]
+
+            That crude apple that diverted Eve.   --Milton.
+      [1913 Webster]
+
+   2. To turn away from any occupation, business, or study; to
+      cause to have lively and agreeable sensations; to amuse;
+      to entertain; as, children are diverted with sports; men
+      are diverted with works of wit and humor.
+      [1913 Webster]
+
+            We are amused by a tale, diverted by a comedy. --C.
+                                                  J. Smith.
+
+   Syn: To please; gratify; amuse; entertain; exhilarate;
+        delight; recreate. See {Amuse}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>diverted</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>diverted
+     adj : pleasantly occupied; "We are not amused" -Queen Victoria
+           [syn: {amused}, {entertained}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

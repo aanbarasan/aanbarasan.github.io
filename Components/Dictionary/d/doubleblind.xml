@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>doubleblind</Word>
+  <Definitions>
+    <Definition>
+      <Word>doubleblind</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>double blind
+     n : a test procedure in which the identity of those receiving
+         the intervention is concealed from both the
+         administrators and the subjects until after the test is
+         completed; designed to reduce or eliminate bias in the
+         results
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

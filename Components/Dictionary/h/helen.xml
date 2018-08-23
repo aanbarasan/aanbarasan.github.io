@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>helen</Word>
+  <Definitions>
+    <Definition>
+      <Word>helen</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Helen, GA (city, FIPS 37788)
+  Location: 34.70199 N, 83.72225 W
+  Population (1990): 300 (256 housing units)
+  Area: 5.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 30545
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>helen</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Helen
+     n : (Greek mythology) the beautiful daughter of Zeus and Leda
+         who was abducted by Paris; the Greek army sailed to Troy
+         to get her back which resulted in the Trojan War [syn: {Helen
+         of Troy}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

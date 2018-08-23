@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fellows</Word>
+  <Definitions>
+    <Definition>
+      <Word>fellows</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Fellows, CA
+  Zip code(s): 93224
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

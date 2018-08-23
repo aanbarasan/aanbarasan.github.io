@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>gusto</Word>
+  <Definitions>
+    <Definition>
+      <Word>gusto</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gusto \Gus"to\, n. [It. or Sp., fr. L. gustus; akin to E.
+   choose. Cf. 2d {Gust}, {Go[^u]t}.]
+   Nice or keen appreciation or enjoyment; relish; taste; fancy;
+   as, he ate it with gusto. --Dryden.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gusto</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>gusto
+     n : vigorous and enthusiastic enjoyment [syn: {relish}, {zest},
+         {zestfulness}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

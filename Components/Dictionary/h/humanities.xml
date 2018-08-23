@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>humanities</Word>
+  <Definitions>
+    <Definition>
+      <Word>humanities</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Humanity \Hu*man"i*ty\, n.; pl. {Humanities}. [L. humanitas: cf.
+   F. humanit['e]. See {Human}.]
+   1. The quality of being human; the peculiar nature of man, by
+      which he is distinguished from other beings.
+      [1913 Webster]
+
+   2. Mankind collectively; the human race.
+      [1913 Webster]
+
+            But hearing oftentimes
+            The still, and music humanity.        --Wordsworth.
+      [1913 Webster]
+
+            It is a debt we owe to humanity.      --S. S. Smith.
+      [1913 Webster]
+
+   3. The quality of being humane; the kind feelings,
+      dispositions, and sympathies of man; especially, a
+      disposition to relieve persons or animals in distress, and
+      to treat all creatures with kindness and tenderness. ``The
+      common offices of humanity and friendship.'' --Locke.
+      [1913 Webster]
+
+   4. Mental cultivation; liberal education; instruction in
+      classical and polite literature.
+      [1913 Webster]
+
+            Polished with humanity and the study of witty
+            science.                              --Holland.
+      [1913 Webster]
+
+   5. pl. (With definite article) The branches of polite or
+      elegant learning; as language, rhetoric, poetry, and the
+      ancient classics; belles-letters.
+      [1913 Webster]
+
+   Note: The cultivation of the languages, literature, history,
+         and arch[ae]ology of Greece and Rome, were very
+         commonly called liter[ae] humaniores, or, in English,
+         the humanities, . . . by way of opposition to the
+         liter[ae] divin[ae], or divinity. --G. P. Marsh.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>humanities</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>humanities
+     n : studies intended to provide general knowledge and
+         intellectual skills (rather than occupational or
+         professional skills); "the college of arts and sciences"
+         [syn: {humanistic discipline}, {liberal arts}, {arts}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

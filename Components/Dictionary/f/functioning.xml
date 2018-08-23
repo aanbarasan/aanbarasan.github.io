@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>functioning</Word>
+  <Definitions>
+    <Definition>
+      <Word>functioning</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>functioning
+     adj : performing or able to perform its regular function; "a
+           functioning flashlight" [ant: {malfunctioning}]
+     n : process or manner of functioning or operating; "the power of
+         its engine determine its operation"; "the plane's
+         operation in high winds"; "they compared the cooking
+         performance of each oven"; "the jet's performance
+         conformed to high standards" [syn: {operation}, {performance}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

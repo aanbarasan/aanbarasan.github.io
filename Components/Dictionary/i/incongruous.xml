@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>incongruous</Word>
+  <Definitions>
+    <Definition>
+      <Word>incongruous</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Incongruous \In*con"gru*ous\, a. [L. incongruus. See {In-} not,
+   and {Congruous}.]
+   Not congruous; reciprocally disagreeing; not capable of
+   harmonizing or readily assimilating; inharmonious;
+   inappropriate; unsuitable; not fitting; inconsistent;
+   improper; as, an incongruous remark; incongruous behavior,
+   action, dress, etc. ``Incongruous mixtures of opinions.''
+   --I. Taylor. ``Made up of incongruous parts.'' --Macaulay.
+   [1913 Webster]
+
+         Incongruous denotes that kind of absence of harmony or
+         suitableness of which the taste and experience of men
+         takes cognizance.                        --C. J. Smith.
+   [1913 Webster]
+
+   {Incongruous numbers} (Arith.), two numbers, which, with
+      respect to a third, are such that their difference can not
+      be divided by it without a remainder, the two numbers
+      being said to be incongruous with respect to the third;
+      as, twenty and twenty-five are incongruous with respect to
+      four.
+
+   Syn: Inconsistent; unsuitable; inharmonious; disagreeing;
+        absurd; inappropriate; unfit; improper. See
+        {Inconsistent}. -- {In*con"gru*ous*ly}, adv. --
+        {In*con"gru*ous*ness}, n.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>incongruous</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>incongruous
+     adj : lacking in harmony or compatibility or appropriateness; "a
+           plan incongruous with reason"; "incongruous behavior";
+           "a joke that was incongruous with polite conversation"
+           [ant: {congruous}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cyst</Word>
+  <Definitions>
+    <Definition>
+      <Word>cyst</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cyst \Cyst\ (s[i^]st), n. [Gr. ky`stis bladder, bag, pouch, fr.
+   ky`ein to be pregnant. Cf. {Cyme}.]
+   1. (Med.)
+      (a) A pouch or sac without opening, usually membranous and
+          containing morbid matter, which is accidentally
+          developed in one of the natural cavities or in the
+          substance of an organ.
+      (b) In old authors, the urinary bladder, or the gall
+          bladder. [Written also {cystis}.]
+          [1913 Webster]
+
+   2. (Bot.) One of the bladders or air vessels of certain
+      alg[ae], as of the great kelp of the Pacific, and common
+      rockweeds ({Fuci}) of our shores. --D. C. Eaton.
+      [1913 Webster]
+
+   3. (Zo["o]l.)
+      (a) A small capsule or sac of the kind in which many
+          immature entozoans exist in the tissues of living
+          animals; also, a similar form in Rotifera, etc.
+      (b) A form assumed by Protozoa in which they become
+          saclike and quiescent. It generally precedes the
+          production of germs. See {Encystment}.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cyst</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cyst
+     n 1: a closed sac that develops abnormally in some body structure
+     2: a small anatomically normal sac or bladderlike structure
+        (especially one containing fluid) [syn: {vesicle}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

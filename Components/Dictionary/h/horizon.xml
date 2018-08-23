@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>horizon</Word>
+  <Definitions>
+    <Definition>
+      <Word>horizon</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Horizon \Ho*ri"zon\, n. [F., fr. L. horizon, fr. Gr. ? (sc. ?)
+   the bounding line, horizon, fr. ? to bound, fr. ? boundary,
+   limit.]
+   1. The line which bounds that part of the earth's surface
+      visible to a spectator from a given point; the apparent
+      junction of the earth and sky.
+      [1913 Webster]
+
+            And when the morning sun shall raise his car
+            Above the border of this horizon.     --Shak.
+      [1913 Webster]
+
+            All the horizon round
+            Invested with bright rays.            --Milton.
+      [1913 Webster]
+
+   2. (Astron.)
+      (a) A plane passing through the eye of the spectator and
+          at right angles to the vertical at a given place; a
+          plane tangent to the earth's surface at that place;
+          called distinctively the sensible horizon.
+      (b) A plane parallel to the sensible horizon of a place,
+          and passing through the earth's center; -- called also
+          {rational horizon} or {celestial horizon}.
+      (c) (Naut.) The unbroken line separating sky and water, as
+          seen by an eye at a given elevation, no land being
+          visible.
+          [1913 Webster]
+
+   3. (Geol.) The epoch or time during which a deposit was made.
+      [1913 Webster]
+
+            The strata all over the earth, which were formed at
+            the same time, are said to belong to the same
+            geological horizon.                   --Le Conte.
+      [1913 Webster]
+
+   4. (Painting) The chief horizontal line in a picture of any
+      sort, which determines in the picture the height of the
+      eye of the spectator; in an extended landscape, the
+      representation of the natural horizon corresponds with
+      this line.
+      [1913 Webster]
+
+   5. The limit of a person's range of perception, capabilities,
+      or experience; as, children raised in the inner city have
+      limited horizons.
+      [PJC]
+
+   6. [fig.] A boundary point or line, or a time point, beyond
+      which new knowledge or experiences may be found; as, more
+      powerful computers are just over the horizon.
+      [PJC]
+
+   {Apparent horizon}. See under {Apparent}.
+
+   {Artificial horizon}, a level mirror, as the surface of
+      mercury in a shallow vessel, or a plane reflector adjusted
+      to the true level artificially; -- used chiefly with the
+      sextant for observing the double altitude of a celestial
+      body.
+
+   {Celestial horizon}. (Astron.) See def. 2, above.
+
+   {Dip of the horizon} (Astron.), the vertical angle between
+      the sensible horizon and a line to the visible horizon,
+      the latter always being below the former.
+
+   {Rational horizon}, and {Sensible horizon}. (Astron.) See
+      def. 2, above.
+
+   {Visible horizon}. See definitions 1 and 2, above.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>horizon</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>horizon
+     n 1: the line at which the sky and Earth appear to meet [syn: {apparent
+          horizon}, {visible horizon}, {sensible horizon}, {skyline}]
+     2: the range of interest or activity that can be anticipated;
+        "It is beyond the horizon of present knowledge" [syn: {view},
+         {purview}]
+     3: a specific layer or stratum of soil or subsoil in a vertical
+        cross section of land
+     4: the great circle on the celestial sphere whose plane passes
+        through the sensible horizon and the center of the Earth
+        [syn: {celestial horizon}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

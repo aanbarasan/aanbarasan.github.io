@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>evacuate</Word>
+  <Definitions>
+    <Definition>
+      <Word>evacuate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Evacuate \E*vac"u*ate\, v. i.
+   1. To let blood [Obs.] --Burton.
+      [1913 Webster]
+
+   2. to expel stool from the bowels; to defecate.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>evacuate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Evacuate \E*vac"u*ate\, v. t. [imp. &amp; p. p. {Evacuated}; p. pr.
+   &amp; vb. n. {Evacuating}.] [l. evacuatus, p. p. of evacuare to
+   empty, nullify; e out + vacuus empty, vacare to be empty. See
+   {Vacate}.]
+   1. To make empty; to empty out; to remove the contents of;
+      as, to evacuate a vessel or dish.
+      [1913 Webster]
+
+   2. Fig.: To make empty; to deprive. [R.]
+      [1913 Webster]
+
+            Evacuate the Scriptures of their most important
+            meaning.                              --Coleridge.
+      [1913 Webster]
+
+   3. To remove; to eject; to void; to discharge, as the
+      contents of a vessel, or of the bowels.
+      [1913 Webster]
+
+   4. To withdraw from; to quit; to retire from; as, soldiers
+      from a country, city, or fortress.
+      [1913 Webster]
+
+            The Norwegians were forced to evacuate the country.
+                                                  --Burke.
+      [1913 Webster]
+
+   5. To make void; to nullify; to vacate; as, to evacuate a
+      contract or marriage. [Obs.] --Bacon.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>evacuate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>evacuate
+     v 1: move out of an unsafe location into safety; "After the
+          earthquake, residents were evacuated"
+     2: empty completely; "evacuate the bottle"
+     3: move people from their homes or country
+     4: create a vacuum in (a bulb, flask, reaction vessel, etc.)
+        [syn: {exhaust}]
+     5: excrete or discharge from the body [syn: {void}, {empty}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

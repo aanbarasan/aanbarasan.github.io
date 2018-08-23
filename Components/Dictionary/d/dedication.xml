@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dedication</Word>
+  <Definitions>
+    <Definition>
+      <Word>dedication</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dedication \Ded`i*ca"tion\, n. [L. dedicatio.]
+   1. The act of setting apart or consecrating to a divine
+      Being, or to a sacred use, often with religious
+      solemnities; solemn appropriation; as, the dedication of
+      Solomon's temple.
+      [1913 Webster]
+
+   2. A devoting or setting aside for any particular purpose;
+      as, a dedication of lands to public use.
+      [1913 Webster]
+
+   3. An address to a patron or friend, prefixed to a book,
+      testifying respect, and often recommending the work to his
+      special protection and favor.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dedication</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dedication
+     n 1: complete and wholehearted fidelity
+     2: a ceremony in which something (as a building) is dedicated
+        to some goal or purpose
+     3: a message that makes a pledge [syn: {commitment}]
+     4: a short message (as in a book or musical work or on a
+        photograph) dedicating it to someone or something [syn: {inscription}]
+     5: the act of binding yourself (intellectually or emotionally)
+        to a course of action; "his long commitment to public
+        service"; "they felt no loyalty to a losing team" [syn: {commitment},
+         {allegiance}, {loyalty}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>elsewhere</Word>
+  <Definitions>
+    <Definition>
+      <Word>elsewhere</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Elsewhere \Else"where`\, adv.
+   1. In any other place; as, these trees are not to be found
+      elsewhere.
+      [1913 Webster]
+
+   2. In some other place; in other places, indefinitely; as, it
+      is reported in town and elsewhere.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>elsewhere</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>elsewhere
+     adv : in or to another place; "he went elsewhere"; "look elsewhere
+           for the answer"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

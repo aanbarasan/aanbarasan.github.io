@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hairiest</Word>
+  <Definitions>
+    <Definition>
+      <Word>hairiest</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hairiest
+     See {hairy}
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hairiest</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hairy
+     adj 1: having or covered with hair; "Jacob was a hairy man"; "a
+            hairy caterpillar" [syn: {hirsute}] [ant: {hairless}]
+     2: hazardous and frightening; "hairy moments in the mountains"
+     [also: {hairiest}, {hairier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

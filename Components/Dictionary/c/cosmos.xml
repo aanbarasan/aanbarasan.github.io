@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cosmos</Word>
+  <Definitions>
+    <Definition>
+      <Word>cosmos</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Cosmos, MN (city, FIPS 13420)
+  Location: 44.93587 N, 94.69737 W
+  Population (1990): 610 (255 housing units)
+  Area: 2.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 56228
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cosmos</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cosmos \Cos"mos\ (k[o^]z"m[o^]s), n. [NL., fr. Gr. ko`smos
+   order, harmony, the world (from its perfect order and
+   arrangement); akin to Skr. [,c]ad to distinguish one's self.]
+   [1913 Webster]
+   1. The universe or universality of created things; -- so
+      called from the order and harmony displayed in it.
+      [1913 Webster]
+
+   2. The theory or description of the universe, as a system
+      displaying order and harmony. --Humboldt.
+      [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cosmos</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cosmos \Cos"mos\, n. (Bot.)
+   A genus of composite plants closely related to {Bidens},
+   usually with very showy flowers, some with yellow, others
+   with red, scarlet, purple, white, or lilac rays. They are
+   natives of the warmer parts of America, and many species are
+   cultivated. {Cosmos bipinnatus} and {Cosmos diversifolius}
+   are among the best-known species; {Cosmos caudatus}, of the
+   West Indies, is widely naturalized.
+   [Webster 1913 Suppl.]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cosmos</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>COSMOS
+     COmputer System for Mainframe OperationS
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cosmos</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cosmos
+     n 1: everything that exists anywhere; "they study the evolution
+          of the universe"; "the biggest tree in existence" [syn:
+          {universe}, {existence}, {creation}, {world}, {macrocosm}]
+     2: any of various mostly Mexican herbs of the genus Cosmos
+        having radiate heads of variously colored flowers and
+        pinnate leaves; popular fall-blooming annuals [syn: {cosmea}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

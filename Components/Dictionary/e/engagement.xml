@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>engagement</Word>
+  <Definitions>
+    <Definition>
+      <Word>engagement</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Engagement \En*gage"ment\, n. [Cf. F. engagement.]
+   1. The act of engaging, pledging, enlisting, occupying, or
+      entering into contest.
+      [1913 Webster]
+
+   2. The state of being engaged, pledged or occupied; specif.,
+      a pledge to take some one as husband or wife.
+      [1913 Webster]
+
+   3. That which engages; engrossing occupation; employment of
+      the attention; obligation by pledge, promise, or contract;
+      an enterprise embarked in; as, his engagements prevented
+      his acceptance of any office.
+      [1913 Webster]
+
+            Religion, which is the chief engagement of our
+            league.                               --Milton.
+      [1913 Webster]
+
+   4. (Mil.) An action; a fight; a battle.
+      [1913 Webster]
+
+            In hot engagement with the Moors.     --Dryden.
+      [1913 Webster]
+
+   5. (Mach.) The state of being in gear; as, one part of a
+      clutch is brought into engagement with the other part.
+
+   Syn: Vocation; business; employment; occupation; promise;
+        stipulation; betrothal; word; battle; combat; fight;
+        contest; conflict. See {Battle}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>engagement</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>engagement
+     n 1: a hostile meeting of opposing military forces in the course
+          of a war; "Grant won a decisive victory in the battle of
+          Chickamauga"; "he lost his romantic ideas about war when
+          he got into a real engagement" [syn: {battle}, {conflict},
+           {fight}]
+     2: a meeting arranged in advance; "she asked how to avoid
+        kissing at the end of a date" [syn: {date}, {appointment}]
+     3: a mutual promise to marry [syn: {betrothal}, {troth}]
+     4: the act of giving someone a job [syn: {employment}]
+     5: employment for performers or performing groups that lasts
+        for a limited period of time; "the play had bookings
+        throughout the summer" [syn: {booking}]
+     6: contact by fitting together; "the engagement of the clutch";
+        "the meshing of gears" [syn: {mesh}, {meshing}, {interlocking}]
+     7: the act of sharing in the activities of a group; "the
+        teacher tried to increase his students' engagement in
+        class activities" [syn: {participation}, {involvement}, {involution}]
+        [ant: {non-engagement}, {non-engagement}, {non-engagement}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

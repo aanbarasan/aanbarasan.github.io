@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>deity</Word>
+  <Definitions>
+    <Definition>
+      <Word>deity</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Deity \De"i*ty\ (d[=e]"[i^]*t[y^]), n.; pl. {Deities}
+   (d[=e]"[i^]*t[i^]z). [OE. deite, F. d['e]it['e], fr. L.
+   deitas, fr. deus a god; akin to divus divine, Jupiter, gen.
+   Jovis, Jupiter, dies day, Gr. di^os divine, Zey`s, gen.
+   Dio`s, Zeus, Skr. d[=e]va divine, as a noun, god, daiva
+   divine, dy[=o] sky, day, hence, the sky personified as a god,
+   and to the first syllable of E. Tuesday, Gael. &amp; Ir. dia God,
+   W. duw. Cf. {Divine}, {Journey}, {Journal}, {Tuesday}.]
+   1. The collection of attributes which make up the nature of a
+      god; divinity; godhead; as, the deity of the Supreme Being
+      is seen in his works.
+      [1913 Webster]
+
+            They declared with emphasis the perfect deity and
+            the perfect manhood of Christ.        --Milman.
+      [1913 Webster]
+
+   2. A god or goddess; a heathen god.
+      [1913 Webster]
+
+            To worship calves, the deities
+            Of Egypt.                             --Milton.
+      [1913 Webster]
+
+   {The Deity}, God, the Supreme Being.
+      [1913 Webster]
+
+            This great poet and philosopher [Simonides], the
+            more he contemplated the nature of the Deity, found
+            that he waded but the more out of his depth.
+                                                  --Addison.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>deity</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>deity
+     n : any supernatural being worshipped as controlling some part
+         of the world or some aspect of life or who is the
+         personification of a force [syn: {divinity}, {god}, {immortal}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

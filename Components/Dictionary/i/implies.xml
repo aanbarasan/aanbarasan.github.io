@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>implies</Word>
+  <Definitions>
+    <Definition>
+      <Word>implies</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>implies
+     
+        &lt;logic&gt; (=&gt; or a thin right arrow) A binary {Boolean} function
+        and {logical connective}.  A =&gt; B is true unless A is true and
+        B is false.  The {truth table} is
+     
+        	A B | A =&gt; B
+        	----+-------
+        	F F |   T
+        	F T |   T
+        	T F |   F
+        	T T |   T
+     
+        It is surprising at first that A =&gt; B is always true if A is
+        false, but if X =&gt; Y then we would expect that (X &amp; Z) =&gt; Y
+        for any Z.
+     
+        (1995-09-30)
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

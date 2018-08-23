@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>danish</Word>
+  <Definitions>
+    <Definition>
+      <Word>danish</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Danish \Dan"ish\, a. [See {Dane}.]
+   Belonging to the Danes, or to their language or country. --
+   n. The language of the Danes.
+   [1913 Webster]
+
+   {Danish dog} (Zo["o]l.), one of a large and powerful breed of
+      dogs reared in Denmark; -- called also {great Dane}. See
+      Illustration in Appendix.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>danish</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Danish
+     adj : of or relating to or characteristic of Denmark or the Danes;
+           "Danish furniture"
+     n 1: a Scandinavian language that is the official language of
+          Denmark
+     2: light sweet yeast-raised roll usually filled with fruits or
+        cheese [syn: {Danish pastry}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

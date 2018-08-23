@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>harvard</Word>
+  <Definitions>
+    <Definition>
+      <Word>harvard</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Harvard, ID
+  Zip code(s): 83834
+Harvard, IL (city, FIPS 33331)
+  Location: 42.42116 N, 88.61528 W
+  Population (1990): 5975 (2243 housing units)
+  Area: 6.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 60033
+Harvard, MA
+  Zip code(s): 01451
+Harvard, NE (city, FIPS 21345)
+  Location: 40.61932 N, 98.09623 W
+  Population (1990): 976 (466 housing units)
+  Area: 1.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 68944
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>harvard</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Harvard
+     n 1: a university in Massachusetts [syn: {Harvard University}]
+     2: American philanthropist who left his library and half his
+        estate to the Massachusetts college that now bears his
+        name (1607-1638) [syn: {John Harvard}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

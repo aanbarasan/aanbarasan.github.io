@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>disinclination</Word>
+  <Definitions>
+    <Definition>
+      <Word>disinclination</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Disinclination \Dis*in`cli*na"tion\, n.
+   The state of being disinclined; want of propensity, desire,
+   or affection; slight aversion or dislike; indisposition.
+   [1913 Webster]
+
+         Disappointment gave him a disinclination to the fair
+         sex.                                     --Arbuthnot.
+   [1913 Webster]
+
+         Having a disinclination to books or business.
+                                                  --Guardian.
+
+   Syn: Unwillingness; disaffection; alienation; dislike;
+        indisposition; distaste; aversion; repugnance.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>disinclination</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>disinclination
+     n 1: that toward which you are inclined to feel dislike; "his
+          disinclination for modesty is well known" [ant: {inclination}]
+     2: a certain degree of unwillingness; "a reluctance to commit
+        himself"; "after some hesitation he agreed" [syn: {reluctance},
+         {hesitancy}, {hesitation}, {indisposition}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

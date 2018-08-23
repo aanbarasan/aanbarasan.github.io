@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>heartbeat</Word>
+  <Definitions>
+    <Definition>
+      <Word>heartbeat</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>heartbeat
+     
+        1. &lt;networking&gt; The signal emitted by a Level 2 Ethernet
+        transceiver at the end of every {packet} to show that the
+        collision-detection circuit is still connected.
+     
+        2. A periodic synchronisation signal used by software or
+        hardware, such as a {bus} clock or a periodic {interrupt}.
+     
+        3. The "natural" oscillation frequency of a computer's clock
+        crystal, before frequency division down to the machine's clock
+        rate.
+     
+        4. A signal emitted at regular intervals by software to
+        demonstrate that it is still alive.  Sometimes hardware is
+        designed to reboot the machine if it stops hearing a
+        heartbeat.  See also {breath-of-life packet}, {watchdog}.
+     
+        [{Jargon File}]
+     
+        (1996-03-12)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>heartbeat</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>heartbeat \heartbeat\ n.
+   the audible and palpable rhythmic contraction and expansion
+   of the arteries with each beat of the heart; as, he listened
+   to her heartbeat with a stethoscope.
+
+   Syn: pulse, pulsation, beat.
+        [WordNet 1.5]
+
+   {in a heartbeat} immediately.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>heartbeat</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>heartbeat n. 1. The signal emitted by a Level 2 Ethernet transceiver at
+   the end of every packet to show that the collision-detection circuit is
+   still connected. 2. A periodic synchronization signal used by software
+   or hardware, such as a bus clock or a periodic interrupt. 3. The
+   `natural' oscillation frequency of a computer's clock crystal, before
+   frequency division down to the machine's clock rate. 4. A signal emitted
+   at regular intervals by software to demonstrate that it is still alive.
+   Sometimes hardware is designed to reboot the machine if it stops hearing
+   a heartbeat. See also {breath-of-life packet}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>heartbeat</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>heartbeat
+     n 1: the rhythmic contraction and expansion of the arteries with
+          each beat of the heart; "he could feel the beat of her
+          heart" [syn: {pulse}, {pulsation}, {beat}]
+     2: a very short time (as the time it takes the eye blink or the
+        heart to beat); "if I had the chance I'd do it in a flash"
+        [syn: {blink of an eye}, {flash}, {instant}, {jiffy}, {split
+        second}, {trice}, {twinkling}, {wink}, {New York minute}]
+     3: an animating or vital unifying force; "New York is the
+        commercial heartbeat of America"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

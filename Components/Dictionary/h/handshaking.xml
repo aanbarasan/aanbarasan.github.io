@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>handshaking</Word>
+  <Definitions>
+    <Definition>
+      <Word>handshaking</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>handshaking
+     
+        1. Predetermined hardware or software activity designed to
+        establish or maintain two machines or programs in
+        synchronisation.  Handshaking often concerns the exchange of
+        messages or {packet}s of data between two systems with limited
+        {buffer}s.  A simple handshaking {protocol} might only involve
+        the receiver sending a message meaning "I received your last
+        message and I am ready for you to send me another one."  A
+        more complex handshaking {protocol} might allow the sender to
+        ask the receiver if he is ready to receive or for the receiver
+        to reply with a negative acknowledgement meaning "I did not
+        receive your last message correctly, please resend it" (e.g. if
+        the data was corrupted en route).
+     
+        {Hardware handshaking} uses voltage levels or pulses on wires
+        to carry the handshaking signals whereas {software
+        handshaking} uses data units (e.g. {ASCII} characters) carried
+        by some underlying communication medium.
+     
+        {Flow control} in bit-serial data transmission such as
+        {EIA-232} may use either hardware or software handshaking.
+     
+        2. The method used by two {modem}s to establish contact with
+        each other and to agreee on {baud rate}, {error correction}
+        and {compression} {protocol}s.
+     
+        3. The exchange of predetermined signals between agents
+        connected by a communications channel to assure each that it
+        is connected to the other (and not to an imposter).  This may
+        also include the use of passwords and codes by an operator.
+     
+        [{Jargon File}]
+     
+        (1995-01-13)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>handshaking</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>handshaking n. [very common] Hardware or software activity designed to
+   start or keep two machines or programs in synchronization as they {do
+   protocol}. Often applied to human activity; thus, a hacker might watch
+   two people in conversation nodding their heads to indicate that they
+   have heard each others' points and say "Oh, they're handshaking!". See
+   also {protocol}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>handshaking</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>handshaking
+     n : grasping and shaking a person's hand (as to acknowledge an
+         introduction or to agree on a contract) [syn: {handshake},
+          {shake}, {handclasp}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

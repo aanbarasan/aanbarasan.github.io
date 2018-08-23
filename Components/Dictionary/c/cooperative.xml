@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cooperative</Word>
+  <Definitions>
+    <Definition>
+      <Word>cooperative</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cooperative \Co*["o]p"er*a*tive\, a.
+   Operating jointly to the same end.
+   [1913 Webster]
+
+   {Co["o]perative society}, a society established on the
+      principle of a joint-stock association, for the production
+      of commodities, or their purchase and distribution for
+      consumption, or for the borrowing and lending of capital
+      among its members.
+
+   {Co["o]perative store}, a store established by a
+      co["o]perative society, where the members make their
+      purchases and share in the profits or losses.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cooperative</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cooperative
+     adj 1: involving the joint activity of two or more; "the attack was
+            met by the combined strength of two divisions";
+            "concerted action"; "the conjunct influence of fire
+            and strong dring"; "the conjunctive focus of political
+            opposition"; "a cooperative effort"; "a united
+            effort"; "joint military activities" [syn: {combined},
+             {concerted}, {conjunct}, {conjunctive}, {united}]
+     2: done with or working with others for a common purpose or
+        benefit; "a cooperative effort" [ant: {uncooperative}]
+     3: willing to adjust to differences in order to obtain
+        agreement [syn: {accommodative}]
+     n 1: a jointly owned commercial enterprise (usually organized by
+          farmers or consumers) that produces and distributes
+          goods and services and is run for the benefit of its
+          owners [syn: {co-op}]
+     2: an association formed and operated for the benefit of those
+        using it
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

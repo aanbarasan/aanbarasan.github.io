@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>harmful</Word>
+  <Definitions>
+    <Definition>
+      <Word>harmful</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Harmful \Harm"ful\ (h[aum]rm"f[.u]l), a.
+   Full of harm; injurious; hurtful; mischievous. `` Most
+   harmful hazards.'' --Strype. --{Harm"ful*ly}, adv. --
+   {Harm"ful*ness}, n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>harmful</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>harmful
+     adj 1: injurious to physical or mental health; "noxious chemical
+            wastes"; "noxious ideas" [syn: {noxious}] [ant: {innocuous}]
+     2: able or likely to do harm
+     3: causing or capable of causing harm; "too much sun is harmful
+        to the skin"; "harmful effects of smoking" [ant: {harmless}]
+     4: constituting a disadvantage [syn: {disadvantageous}] [ant: {advantageous}]
+     5: contrary to your interests or welfare; "adverse
+        circumstances"; "made a place for themselves under the
+        most untoward conditions" [syn: {adverse}, {inauspicious},
+         {untoward}]
+     6: tending to cause great harm [syn: {evil}, {injurious}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

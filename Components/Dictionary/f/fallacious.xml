@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fallacious</Word>
+  <Definitions>
+    <Definition>
+      <Word>fallacious</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fallacious \Fal*la"cious\, a. [L. fallaciosus, fr. fallacia: cf.
+   F. fallacieux. See {Fallacy}.]
+   Embodying or pertaining to a fallacy; illogical; fitted to
+   deceive; misleading; delusive; as, fallacious arguments or
+   reasoning. -- {Fal*la"cious*ly}, adv. -{Fal*la"cious*ness},
+   n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fallacious</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fallacious
+     adj 1: containing or based on a fallacy; "fallacious reasoning";
+            "an unsound argument" [syn: {unsound}]
+     2: intended to deceive; "deceitful advertising"; "fallacious
+        testimony"; "smooth, shining, and deceitful as thin ice" -
+        S.T.Coleridge; "a fraudulent scheme to escape paying
+        taxes" [syn: {deceitful}, {fraudulent}]
+     3: based on an incorrect or misleading notion or information;
+        "fallacious hope"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

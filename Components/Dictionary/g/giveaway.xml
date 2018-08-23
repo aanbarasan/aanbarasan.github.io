@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>giveaway</Word>
+  <Definitions>
+    <Definition>
+      <Word>giveaway</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>give away
+     v 1: make a gift of; "She gave away her antique furniture"
+     2: make known to the public information that was previously
+        known only to a few people or that was meant to be kept a
+        secret; "The auction house would not disclose the price at
+        which the van Gogh had sold"; "The actress won't reveal
+        how old she is"; "bring out the truth"; "he broke the news
+        to her" [syn: {disclose}, {let on}, {bring out}, {reveal},
+         {discover}, {expose}, {divulge}, {impart}, {break}, {let
+        out}]
+     3: formally hand over to the bridegroom in marriage; of a bride
+        by her father
+     4: give away information about somebody; "He told on his
+        classmate who had cheated on the exam" [syn: {denounce}, {tell
+        on}, {betray}, {rat}, {grass}, {shit}, {shop}, {snitch}, {stag}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>giveaway</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>giveaway
+     n 1: a gift of public land or resources for the private gain of a
+          limited group
+     2: an unintentional disclosure
+     3: a television or radio program in which contestants compete
+        for awards [syn: {game show}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

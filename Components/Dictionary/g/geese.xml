@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>geese</Word>
+  <Definitions>
+    <Definition>
+      <Word>geese</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Geese \Geese\ (g[=e]s), n.,
+   pl. of {Goose}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>geese</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Goose \Goose\ (g[=oo]s), n.; pl. {Geese} (g[=e]s). [OE. gos, AS.
+   g[=o]s, pl. g[=e]s; akin to D. &amp; G. gans, Icel. g[=a]s, Dan.
+   gaas, Sw. g[*a]s, Russ. guse. OIr. geiss, L. anser, for
+   hanser, Gr. chh`n, Skr. ha[.m]sa. [root]233. Cf. {Gander},
+   {Gannet}, {Ganza}, {Gosling}.] (Zo["o]l.)
+   [1913 Webster]
+   1. Any large web-footen bird of the subfamily {Anserin[ae]},
+      and belonging to {Anser}, {Branta}, {Chen}, and several
+      allied genera. See {Anseres}.
+      [1913 Webster]
+
+   Note: The common domestic goose is believed to have been
+         derived from the European graylag goose ({Anser
+         anser}). The bean goose ({A. segetum}), the American
+         wild or Canada goose ({Branta Canadensis}), and the
+         bernicle goose ({Branta leucopsis}) are well known
+         species. The American white or snow geese and the blue
+         goose belong to the genus {Chen}. See {Bernicle},
+         {Emperor goose}, under {Emperor}, {Snow goose}, {Wild
+         goose}, {Brant}.
+         [1913 Webster]
+
+   2. Any large bird of other related families, resembling the
+      common goose.
+      [1913 Webster]
+
+   Note: The Egyptian or fox goose ({Alopochen [AE]gyptiaca})
+         and the African spur-winged geese ({Plectropterus})
+         belong to the family {Plectropterid[ae]}. The
+         Australian semipalmated goose ({Anseranas semipalmata})
+         and Cape Barren goose ({Cereopsis
+         Nov[ae]-Hollandi[ae]}) are very different from northern
+         geese, and each is made the type of a distinct family.
+         Both are domesticated in Australia.
+         [1913 Webster]
+
+   3. A tailor's smoothing iron, so called from its handle,
+      which resembles the neck of a goose.
+      [1913 Webster]
+
+   4. A silly creature; a simpleton.
+      [1913 Webster]
+
+   5. A game played with counters on a board divided into
+      compartments, in some of which a goose was depicted.
+      [1913 Webster]
+
+            The pictures placed for ornament and use,
+            The twelve good rules, the royal game of goose.
+                                                  --Goldsmith.
+      [1913 Webster]
+
+   {A wild goose chase}, an attempt to accomplish something
+      impossible or unlikely of attainment.
+
+   {Fen goose}. See under {Fen}.
+
+   {Goose barnacle} (Zo["o]l.), any pedunculated barnacle of the
+      genus {Anatifa} or {Lepas}; -- called also {duck
+      barnacle}. See {Barnacle}, and {Cirripedia}.
+
+   {Goose cap}, a silly person. [Obs.] --Beau. &amp; .
+
+   {Goose corn} (Bot.), a coarse kind of rush ({Juncus
+      squarrosus}).
+
+   {Goose feast}, Michaelmas. [Colloq. Eng.]
+
+   {Goose grass}. (Bot.)
+      (a) A plant of the genus {Galium} ({G. Aparine}), a
+          favorite food of geese; -- called also {catchweed} and
+          {cleavers}.
+      (b) A species of knotgrass ({Polygonum aviculare}).
+      (c) The annual spear grass ({Poa annua}).
+
+   {Goose neck}, anything, as a rod of iron or a pipe, curved
+      like the neck of a goose; specially (Naut.), an iron hook
+      connecting a spar with a mast.
+
+   {Goose quill}, a large feather or quill of a goose; also, a
+      pen made from it.
+
+   {Goose skin}. See {Goose flesh}, above.
+
+   {Goose tongue} (Bot.), a composite plant ({Achillea
+      ptarmica}), growing wild in the British islands.
+
+   {Sea goose}. (Zo["o]l.) See {Phalarope}.
+
+   {Solan goose}. (Zo["o]l.) See {Gannet}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>geese</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>goose
+     n 1: web-footed long-necked typically gregarious migratory
+          aquatic birds usually larger and less aquatic than ducks
+     2: a man who is a stupid incompetent fool [syn: {fathead}, {goof},
+         {goofball}, {bozo}, {jackass}, {cuckoo}, {twat}, {zany}]
+     3: flesh of a goose (domestic or wild)
+     [also: {geese} (pl)]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>geese</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>geese
+     See {goose}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

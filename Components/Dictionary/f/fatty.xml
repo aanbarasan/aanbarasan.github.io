@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fatty</Word>
+  <Definitions>
+    <Definition>
+      <Word>fatty</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fatty \Fat"ty\, a.
+   Containing fat, or having the qualities of fat; greasy;
+   gross; as, a fatty substance.
+   [1913 Webster]
+
+   {Fatty acid} (Chem.), any one of the paraffin series of
+      monocarbonic acids, as formic acid, acetic, etc.; -- so
+      called because the higher members, as stearic and palmitic
+      acids, occur in the natural fats, and are themselves
+      fatlike substances.
+
+   {Fatty clays}. See under {Clay}.
+
+   {Fatty degeneration} (Med.), a diseased condition, in which
+      the oil globules, naturally present in certain organs, are
+      so multiplied as gradually to destroy and replace the
+      efficient parts of these organs.
+
+   {Fatty heart}, {Fatty liver}, etc. (Med.), a heart, liver,
+      etc., which have been the subjects of fatty degeneration
+      or infiltration.
+
+   {Fatty infiltration} (Med.), a condition in which there is an
+      excessive accumulation of fat in an organ, without
+      destruction of any essential parts of the latter.
+
+   {Fatty tumor} (Med.), a tumor consisting of fatty or adipose
+      tissue; lipoma.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fatty</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fatty
+     adj : containing or composed of fat; "fatty food"; "fat tissue"
+           [syn: {fat}] [ant: {nonfat}]
+     n : a rotund individual [syn: {fatso}, {fat person}, {roly-poly},
+          {butterball}] [ant: {thin person}]
+     [also: {fattiest}, {fattier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

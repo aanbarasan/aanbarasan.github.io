@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dendritic</Word>
+  <Definitions>
+    <Definition>
+      <Word>dendritic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dendritic \Den*drit"ic\, Dendritical \Den*drit"ic*al\, a.
+   Pertaining to a dendrite, or to arborescent crystallization;
+   having a form resembling a shrub or tree; arborescent.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dendritic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dendritic
+     adj : (neuroscience) of or relating to or resembling a dendrite;
+           "dendritic fiber"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

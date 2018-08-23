@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>girth</Word>
+  <Definitions>
+    <Definition>
+      <Word>girth</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Girth \Girth\ (g[~e]rth), n. [Icel. gj["o]r[eth] girdle, or
+   ger[eth] girth; akin to Goth. ga['i]rda girdle. See {Gird} to
+   girt, and cf. {Girdle}, n.]
+   1. A band or strap which encircles the body; especially, one
+      by which a saddle is fastened upon the back of a horse.
+      [1913 Webster]
+
+   2. The measure round the body, as at the waist or belly; the
+      circumference of anything.
+      [1913 Webster]
+
+            He's a lu
+            sty, jolly fellow, that lives well, at least three
+            yards in the girth.                   --Addison.
+      [1913 Webster]
+
+   3. A small horizontal brace or girder.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>girth</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Girth \Girth\, v. t. [From {Girth}, n., cf. {Girt}, v. t.]
+   To bind as with a girth. [R.] --Johnson.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>girth</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>girth
+     n 1: the distance around a person's body
+     2: stable gear consisting of a band around a horse's belly that
+        holds the saddle in place [syn: {cinch}]
+     v 1: encircle or bind; "Trees girded the green fields" [syn: {girt},
+           {begird}, {gird}]
+     2: tie a cinch around; "cinch horses" [syn: {cinch}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

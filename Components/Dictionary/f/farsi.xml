@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>farsi</Word>
+  <Definitions>
+    <Definition>
+      <Word>farsi</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Iranian \I*ra"ni*an\, a.
+   Of or pertaining to Iran. -- n. A native of Iran; also, the
+   Iranian or Persian language, a division of the Aryan family
+   of languages, the modern version of which is called {Farsi}.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>farsi</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Farsi
+     n 1: a person of Iranian descent; "many Farsi emigrated to India
+          near Bombay"
+     2: the language of Persia (Iran) in any of its ancient forms
+        [syn: {Persian}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>enlargement</Word>
+  <Definitions>
+    <Definition>
+      <Word>enlargement</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Enlargement \En*large"ment\, n.
+   1. The act of increasing in size or bulk, real or apparent;
+      the state of being increased; augmentation; further
+      extension; expansion.
+      [1913 Webster]
+
+   2. Expansion or extension, as of the powers of the mind;
+      ennoblement, as of the feelings and character; as, an
+      enlargement of views, of knowledge, of affection.
+      [1913 Webster]
+
+   3. A setting at large, or being set at large; release from
+      confinement, servitude, or distress; liberty.
+      [1913 Webster]
+
+            Give enlargement to the swain.        --Shak.
+      [1913 Webster]
+
+   4. Diffusiveness of speech or writing; expatiation; a wide
+      range of discourse or argument.
+      [1913 Webster]
+
+            An enlargement upon the vices and corruptions that
+            were got into the army.               --Clarendon.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>enlargement</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>enlargement
+     n 1: the act of increasing (something) in size or volume or
+          quantity or scope [syn: {expansion}] [ant: {contraction}]
+     2: a discussion that provides additional information [syn: {expansion},
+         {elaboration}]
+     3: a photographic print that has been enlarged [syn: {blowup},
+        {magnification}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

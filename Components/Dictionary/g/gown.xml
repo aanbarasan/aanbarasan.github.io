@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>gown</Word>
+  <Definitions>
+    <Definition>
+      <Word>gown</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gown \Gown\, n. [OE. goune, prob. from W. gwn gown, loose robe,
+   akin to Ir. gunn, Gael. g[`u]n; cf. OF. gone, prob. of the
+   same origin.]
+   1. A loose, flowing upper garment; especially:
+      (a) The ordinary outer dress of a woman; as, a calico or
+          silk gown.
+      (b) The official robe of certain professional men and
+          scholars, as university students and officers,
+          barristers, judges, etc.; hence, the dress of peace;
+          the dress of civil officers, in distinction from
+          military.
+          [1913 Webster]
+
+                He Mars deposed, and arms to gowns made yield.
+                                                  --Dryden.
+      (c) A loose wrapper worn by gentlemen within doors; a
+          dressing gown.
+          [1913 Webster]
+
+   2. Any sort of dress or garb.
+      [1913 Webster]
+
+            He comes . . . in the gown of humility. --Shak.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gown</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>gown
+     n 1: long, usually formal, woman's dress
+     2: protective garment worn by surgeons during operations [syn:
+        {surgical gown}, {scrubs}]
+     3: outerwear consisting of a long flowing garment used for
+        official or ceremonial occasions [syn: {robe}]
+     v : dress in a gown
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

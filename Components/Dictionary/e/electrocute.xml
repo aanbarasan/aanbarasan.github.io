@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>electrocute</Word>
+  <Definitions>
+    <Definition>
+      <Word>electrocute</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Electrocute \E*lec"tro*cute`\, v. t. [Electro- + cute in
+   execute.]
+   To execute or put to death by electricity. --
+   {E*lec`tro*cu"tion}, n.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>electrocute</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>electrocute
+     v 1: kill by electric shock; "She dropped the hair dryer into the
+          bathtub and was instantly electrocuted"
+     2: kill by electrocution, as in the electric chair; "The serial
+        killer was electrocuted" [syn: {fry}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

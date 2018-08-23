@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>freefall</Word>
+  <Definitions>
+    <Definition>
+      <Word>freefall</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>free fall
+     n 1: the ideal falling motion of something subject only to a
+          gravitational field
+     2: a sudden sharp decrease in some quantity; "a drop of 57
+        points on the Dow Jones index"; "there was a drop in
+        pressure in the pulmonary artery"; "a dip in prices";
+        "when that became known the price of their stock went into
+        free fall" [syn: {drop}, {dip}, {fall}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>convenient</Word>
+  <Definitions>
+    <Definition>
+      <Word>convenient</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Convenient \Con*ven"ient\ (?; 277), a. [L. conveniens, -entis,
+   suitable, p. pr. of convenire to be suitable, to come. See
+   {Convene}, v. i.]
+   1. Fit or adapted; suitable; proper; becoming; appropriate.
+      [Archaic]
+      [1913 Webster]
+
+            Feed me with food convenient for me.  --Prov. xxx.
+                                                  8.
+      [1913 Webster]
+
+            Neither filthiness, nor foolish talking, nor
+            jesting, which are not convenient.    --Eph. v. 4.
+      [1913 Webster]
+
+   2. Affording accommodation or advantage; well adapted to use;
+      handly; as, a convenient house; convenient implements or
+      tools.
+      [1913 Webster]
+
+   3. Seasonable; timely; opportune; as, a convenient occasion;
+      a convenient season. --Acts xxiv. 25.
+      [1913 Webster]
+
+   4. Near at hand; easy of access. [Colloq.]
+      [1913 Webster]
+
+            Hereties used to be brought thither, convenient for
+            burning.                              --Thackeray.
+
+   Syn: Fit; suitable; proper; adapted; fitted; suited; handly;
+        commodious.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>convenient</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>convenient
+     adj 1: suited to your comfort or purpose or needs; "a convenient
+            excuse for not going" [ant: {inconvenient}]
+     2: easy to reach; "found a handy spot for the can opener" [syn:
+         {handy}, {ready to hand(p)}]
+     3: large and roomy (`convenient' is archaic in this sense); "a
+        commodious harbor"; "a commodious building suitable for
+        conventions" [syn: {commodious}] [ant: {incommodious}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

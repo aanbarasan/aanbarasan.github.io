@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hand's</Word>
+  <Definitions>
+    <Definition>
+      <Word>hand's</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>hands \hands\ n.
+   1. a person's power or discretionary action; as, my fate is
+      in your hands.
+
+   Syn: custody.
+        [WordNet 1.5]
+
+   2. The force of workers available; as, all hands on deck.
+
+   Syn: work force, manpower, men.
+        [WordNet 1.5]
+
+              A dictionary containing a natural history requires
+              too many hands, as well as too much time, ever to
+              be hoped for.                       --Locke.
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hand's</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hands
+     n 1: (with `in') guardianship over; in divorce cases it is the
+          right to house and care for and discipline a child; "my
+          fate is in your hands"; "too much power in the
+          president's hands"; "your guests are now in my custody";
+          "the mother was awarded custody of the children" [syn: {custody}]
+     2: the force of workers available [syn: {work force}, {workforce},
+         {manpower}, {men}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

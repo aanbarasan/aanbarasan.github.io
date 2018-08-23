@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fundamentally</Word>
+  <Definitions>
+    <Definition>
+      <Word>fundamentally</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fundamentally \Fun`da*men"tal*ly\, adv.
+   Primarily; originally; essentially; radically; at the
+   foundation; in origin or constituents. ``Fundamentally
+   defective.'' --Burke.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fundamentally</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fundamentally
+     adv : at bottom or by one's (or its) very nature; "He is basically
+           dishonest"; "the argument was essentially a technical
+           one"; "for all his bluster he is in essence a shy
+           person" [syn: {basically}, {essentially}, {in essence},
+            {au fond}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

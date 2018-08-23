@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>herpes</Word>
+  <Definitions>
+    <Definition>
+      <Word>herpes</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Herpes \Her"pes\, n. [L., fr. Gr. "e`rphs, fr. "e`rpein to
+   creep.] (Med.)
+   An eruption of the skin, taking various names, according to
+   its form, or the part affected, caused by a herpesvirus
+   infection; especially, an eruption of vesicles in small
+   distinct clusters, accompanied with itching or tingling,
+   including shingles, ringworm, and the like; -- so called from
+   its tendency to creep or spread from one part of the skin to
+   another.
+   [1913 Webster +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>herpes</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>herpes
+     n 1: viral diseases causing eruptions of the skin or mucous
+          membrane
+     2: any of the animal viruses that cause painful blisters on the
+        skin [syn: {herpes virus}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hairless</Word>
+  <Definitions>
+    <Definition>
+      <Word>hairless</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hairless \Hair"less\, a.
+   Destitute of hair; bald. --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hairless</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hairless
+     adj : having no hair or fur; "a Mexican Hairless is about the size
+           of a fox terrier and hairless except for a tufts on the
+           head and tail" [ant: {hairy}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

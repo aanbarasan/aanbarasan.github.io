@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>excite</Word>
+  <Definitions>
+    <Definition>
+      <Word>excite</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Excite \Ex*cite"\, v. t. [imp. &amp; p. p. {Excited}; p. pr. &amp; vb.
+   n. {exciting}.] [L. excitare; ex out + citare to move
+   rapidly, to rouse: cf. OF. esciter, exciter, F. exciter. See
+   {Cite}.]
+   1. To call to activity in any way; to rouse to feeling; to
+      kindle to passionate emotion; to stir up to combined or
+      general activity; as, to excite a person, the spirits, the
+      passions; to excite a mutiny or insurrection; to excite
+      heat by friction.
+      [1913 Webster]
+
+   2. (Physiol.) To call forth or increase the vital activity of
+      an organism, or any of its parts.
+
+   3. (Elec.) To energize (an electro-magnet); to produce a
+      magnetic field in; as, to excite a dynamo.
+      [Webster 1913 Suppl.]
+
+   4. (Physics) To raise to a higher energy level; -- used
+      especially of atoms or molecules, or of electrons within
+      atoms or molecules; as, absorption of a photon excites the
+      cesium atom, which subsequently radiates the excess
+      energy.
+      [Webster 1913 Suppl. +PJC]
+
+   Syn: To incite; awaken; animate; rouse or arouse; stimulate;
+        inflame; irritate; provoke.
+
+   Usage: To {Excite}, {Incite}. When we excite we rouse into
+          action feelings which were less strong; when we incite
+          we spur on or urge forward to a specific act or end.
+          Demosthenes excited the passions of the Athenians
+          against Philip, and thus incited the whole nation to
+          unite in the war against him. Antony, by his speech
+          over the body of C[ae]sar, so excited the feelings of
+          the populace, that Brutus and his companions were
+          compelled to flee from Rome; many however, were
+          incited to join their standard, not only by love of
+          liberty, but hopes of plunder.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>excite</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>excite
+     v 1: arouse or elicit a feeling
+     2: act as a stimulant; "The book stimulated her imagination";
+        "This play stimulates" [syn: {stimulate}] [ant: {stifle}]
+     3: raise to a higher energy level; "excite the atoms" [syn: {energize},
+         {energise}]
+     4: stir feelings in; "stimulate my appetite"; "excite the
+        audience"; "stir emotions" [syn: {stimulate}, {stir}]
+     5: cause to be agitated, excited, or roused; "The speaker
+        charged up the crowd with his inflammatory remarks" [syn:
+        {agitate}, {rouse}, {turn on}, {charge}, {commove}, {charge
+        up}] [ant: {calm}]
+     6: stimulate sexually; "This movie usually arouses the male
+        audience" [syn: {arouse}, {sex}, {turn on}, {wind up}]
+     7: stir the feelings, emotions, or peace of; "These stories
+        shook the community"; "the civil war shook the country"
+        [syn: {stimulate}, {shake}, {shake up}, {stir}]
+     8: produce a magnetic field in; "excite the neurons"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

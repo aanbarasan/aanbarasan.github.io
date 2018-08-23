@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hog</Word>
+  <Definitions>
+    <Definition>
+      <Word>hog</Word>
+      <Dictionary>
+        <Id>devils</Id>
+        <Name>THE DEVIL'S DICTIONARY ((C)1911 Released April 15 1993)</Name>
+      </Dictionary>
+      <WordDefinition>HOG, n.  A bird remarkable for the catholicity of its appetite and
+serving to illustrate that of ours.  Among the Mahometans and Jews,
+the hog is not in favor as an article of diet, but is respected for
+the delicacy and the melody of its voice.  It is chiefly as a songster
+that the fowl is esteemed; the cage of him in full chorus has been
+known to draw tears from two persons at once.  The scientific name of
+this dicky-bird is _Porcus Rockefelleri_.  Mr. Rockefeller did not
+discover the hog, but it is considered his by right of resemblance.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hog</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>hog
+     
+        1. Favoured term to describe programs or hardware that seem to
+        eat far more than their share of a system's resources,
+        especially those which noticeably degrade interactive
+        response.  *Not* used of programs that are simply extremely
+        large or complex or that are merely painfully slow themselves
+        (see {pig, run like a}).  More often than not encountered in
+        qualified forms, e.g. "memory hog", "core hog", "hog the
+        processor", "hog the disk".  "A controller that never gives up
+        the I/O bus gets killed after the bus-hog timer expires."
+     
+        2. Also said of *people* who use more than their fair share of
+        resources (particularly disk, where it seems that 10% of the
+        people use 90% of the disk, no matter how big the disk is or
+        how many people use it).  Of course, once disk hogs fill up
+        one file system, they typically find some other new one to
+        infect, claiming to the sysadmin that they have an important
+        new project to complete.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hog</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hog \Hog\, v. t. [imp. &amp; p. p. {Hogged}; p. pr. &amp; vb. n.
+   {Hogging}.]
+   1. To cut short like bristles; as, to hog the mane of a
+      horse. --Smart.
+      [1913 Webster]
+
+   2. (Naut.) To scrub with a hog, or scrubbing broom.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hog</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hog \Hog\, v. i. (Naut.)
+   To become bent upward in the middle, like a hog's back; --
+   said of a ship broken or strained so as to have this form.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hog</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hog \Hog\ (h[o^]g), n. [Prob. akin to E. hack to cut, and
+   meaning orig., a castrated boar; cf. also W. hwch swine, sow,
+   Armor. houc'h, hoc'h. Cf. {Haggis}, {Hogget}, and
+   {Hoggerel}.]
+   1. (Zo["o]l.) A quadruped of the genus {Sus}, and allied
+      genera of {Suid[ae]}; esp., the domesticated varieties of
+      {Sus scrofa}, kept for their fat and meat, called,
+      respectively, {lard} and {pork}; swine; porker;
+      specifically, a castrated boar; a barrow.
+      [1913 Webster]
+
+   Note: The domestic hogs of Siam, China, and parts of Southern
+         Europe, are thought to have been derived from {Sus
+         Indicus}.
+         [1913 Webster]
+
+   2. A mean, filthy, or gluttonous fellow. [Low.]
+      [1913 Webster]
+
+   3. A young sheep that has not been shorn. [Eng.]
+      [1913 Webster]
+
+   4. (Naut.) A rough, flat scrubbing broom for scrubbing a
+      ship's bottom under water. --Totten.
+      [1913 Webster]
+
+   5. (Paper Manuf.) A device for mixing and stirring the pulp
+      of which paper is made.
+      [1913 Webster]
+
+   {Bush hog}, {Ground hog}, etc.. See under {Bush}, {Ground},
+      etc.
+
+   {Hog caterpillar} (Zo["o]l.), the larva of the green
+      grapevine sphinx; -- so called because the head and first
+      three segments are much smaller than those behind them, so
+      as to make a resemblance to a hog's snout. See {Hawk
+      moth}.
+
+   {Hog cholera}, an epidemic contagious fever of swine,
+      attended by liquid, fetid, diarrhea, and by the appearance
+      on the skin and mucous membrane of spots and patches of a
+      scarlet, purple, or black color. It is fatal in from one
+      to six days, or ends in a slow, uncertain recovery. --Law
+      (Farmer's Veter. Adviser.)
+
+   {Hog deer} (Zo["o]l.), the axis deer.
+
+   {Hog gum} (Bot.), West Indian tree ({Symphonia globulifera}),
+      yielding an aromatic gum.
+
+   {Hog of wool}, the trade name for the fleece or wool of sheep
+      of the second year.
+
+   {Hog peanut} (Bot.), a kind of earth pea.
+
+   {Hog plum} (Bot.), a tropical tree, of the genus {Spondias}
+      ({Spondias lutea}), with fruit somewhat resembling plums,
+      but chiefly eaten by hogs. It is found in the West Indies.
+      
+
+   {Hog's bean} (Bot.), the plant henbane.
+
+   {Hog's bread}.(Bot.) See {Sow bread}.
+
+   {Hog's fennel}. (Bot.) See under {Fennel}.
+
+   {Mexican hog} (Zo["o]l.), the peccary.
+
+   {Water hog}. (Zo["o]l.) See {Capybara}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hog</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>hog n.,vt. 1. Favored term to describe programs or hardware that seem
+   to eat far more than their share of a system's resources, esp. those
+   which noticeably degrade interactive response. _Not_ used of programs
+   that are simply extremely large or complex or that are merely painfully
+   slow themselves. More often than not encountered in qualified forms,
+   e.g., `memory hog', `core hog', `hog the processor', `hog the disk'. "A
+   controller that never gives up the I/O bus gets killed after the bus-hog
+   timer expires." 2. Also said of _people_ who use more than their fair
+   share of resources (particularly disk, where it seems that 10% of the
+   people use 90% of the disk, no matter how big the disk is or how many
+   people use it). Of course, once disk hogs fill up one filesystem, they
+   typically find some other new one to infect, claiming to the sysadmin
+   that they have an important new project to complete.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hog</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hog
+     n 1: a person regarded as greedy and pig-like [syn: {pig}]
+     2: a sheep up to the age of one year; one yet to be sheared
+        [syn: {hogget}, {hogg}]
+     3: domestic swine [syn: {pig}, {grunter}, {squealer}, {Sus
+        scrofa}]
+     v : take greedily; take more than one's share
+     [also: {hogging}, {hogged}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

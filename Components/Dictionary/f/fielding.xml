@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fielding</Word>
+  <Definitions>
+    <Definition>
+      <Word>fielding</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Fielding, UT (town, FIPS 25290)
+  Location: 41.81201 N, 112.11636 W
+  Population (1990): 422 (124 housing units)
+  Area: 1.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 84311
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fielding</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fielding \Field"ing\, n. (Ball Playing)
+   The act of playing as a fielder.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fielding</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Field \Field\, v. i. [imp. &amp; p. p. {Fielded}; p. pr. &amp; vb. n.
+   {Fielding}.]
+   1. To take the field. [Obs.] --Spenser.
+      [1913 Webster]
+
+   2. (Ball Playing) To stand out in the field, ready to catch,
+      stop, or throw the ball.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fielding</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fielding
+     n 1: (baseball) handling the ball while playing in the field
+     2: English novelist and dramatist (1707-1754) [syn: {Henry
+        Fielding}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

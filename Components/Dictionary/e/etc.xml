@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>etc</Word>
+  <Definitions>
+    <Definition>
+      <Word>etc</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>ETC
+     
+        ExTendible Compiler.  Fortran-like, macro extendible.  "ETC -
+        An Extendible Macro-Based Compiler", B.N. Dickman, Proc SJCC
+        38 (1971).
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>etc</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>ETC
+     European Test Conference (VDE, IEEE-CS, conference)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>etc</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>etc.
+     adv : continuing in the same way [syn: {and so forth}, {and so on},
+            {etcetera}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>idiopathic</Word>
+  <Definitions>
+    <Definition>
+      <Word>idiopathic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Idiopathic \Id`i*o*path"ic\, Idiopathical \Id`i*o*path"ic*al\,
+   a. [Cf. F. idiopathique.] (Med.)
+   Pertaining to idiopathy; characterizing a disease arising
+   primarily, and not in consequence of some other disease or
+   injury; -- opposed to {symptomatic}, {sympathetic}, and
+   {traumatic}. -- {Id`i*o*path"ic*al*ly}, adv.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>idiopathic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>idiopathic
+     adj : (of diseases) arising from an unknown cause; "idiopathic
+           epilepsy"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

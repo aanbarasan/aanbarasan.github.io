@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>desperation</Word>
+  <Definitions>
+    <Definition>
+      <Word>desperation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Desperation \Des`per*a"tion\, n. [L. desperatio: cf. OF.
+   desperation.]
+   1. The act of despairing or becoming desperate; a giving up
+      of hope.
+      [1913 Webster]
+
+            This desperation of success chills all our industry.
+                                                  --Hammond.
+      [1913 Webster]
+
+   2. A state of despair, or utter hopeless; abandonment of
+      hope; extreme recklessness; reckless fury.
+      [1913 Webster]
+
+            In the desperation of the moment, the officers even
+            tried to cut their way through with their swords.
+                                                  --W. Irving.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>desperation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>desperation
+     n 1: a state in which everything seems wrong and will turn out
+          badly; "they were rescued from despair at the last
+          minute" [syn: {despair}]
+     2: desperate recklessness; "it was a policy of desperation"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

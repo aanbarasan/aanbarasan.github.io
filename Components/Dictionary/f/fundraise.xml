@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fundraise</Word>
+  <Definitions>
+    <Definition>
+      <Word>fundraise</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fund raise
+     v : raise money for a cause or project; "We are fundraising for
+         AIDS research" [syn: {fund-raise}, {fundraise}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fundraise</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fund-raise
+     v : raise money for a cause or project; "We are fundraising for
+         AIDS research" [syn: {fund raise}, {fundraise}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fundraise</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fundraise
+     v : raise money for a cause or project; "We are fundraising for
+         AIDS research" [syn: {fund-raise}, {fund raise}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

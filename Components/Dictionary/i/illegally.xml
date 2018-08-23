@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>illegally</Word>
+  <Definitions>
+    <Definition>
+      <Word>illegally</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Illegally \Il*le"gal*ly\, adv.
+   In a illegal manner; unlawfully.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>illegally</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>illegally
+     adv : in an illegal manner; "they dumped the waste illegally"
+           [syn: {illicitly}, {lawlessly}] [ant: {legitimately}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

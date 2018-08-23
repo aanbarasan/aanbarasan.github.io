@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>descendants</Word>
+  <Definitions>
+    <Definition>
+      <Word>descendants</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>descendants \descendants\ n.
+   all of the offspring of a given progenitor.
+
+   Syn: posterity.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>descendants</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>descendants
+     n : all of the offspring of a given progenitor; "we must secure
+         the benefits of freedom for ourselves and our posterity"
+         [syn: {posterity}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

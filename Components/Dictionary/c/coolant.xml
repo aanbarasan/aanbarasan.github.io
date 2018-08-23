@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>coolant</Word>
+  <Definitions>
+    <Definition>
+      <Word>coolant</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>coolant \coolant\ n.
+   a fluid (gas or liquid) used to cool a device by transferring
+   heat away from one part to another.
+   [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>coolant</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>coolant
+     n : a fluid agent (gas or liquid) that produces cooling;
+         especially one used to cool a system by transfering heat
+         away from one part to another; "he added more coolant to
+         the car's radiator"; "the atomic reactor used a gas
+         coolant"; "lathe operators use an emulsion of oil and
+         water as a coolant for the cutting tool"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>european</Word>
+  <Definitions>
+    <Definition>
+      <Word>european</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>European \Eu`ro*pe"an\, prop. a. [L. europeaus, Gr. ?, fr. Gr. ?
+   (L. europa.)]
+   Of or pertaining to Europe, or to its inhabitants.
+   [1913 Webster]
+
+   {On the European plan}, having rooms to let, and leaving it
+      optional with guests whether they will take meals in the
+      house; -- said of hotels. [U. S.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>european</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>European \Eu`ro*pe"an\, prop. n.
+   A native or an inhabitant of Europe.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>european</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>European
+     adj : of or relating to or characteristic of Europe or the people
+           of Europe; "European Community"
+     n : a native or inhabitant of Europe
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

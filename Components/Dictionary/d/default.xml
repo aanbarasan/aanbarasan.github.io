@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>default</Word>
+  <Definitions>
+    <Definition>
+      <Word>default</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Default \De*fault"\, n. [OE. defaute, OF. defaute, defalte,
+   fem., F. d['e]faut, masc., LL. defalta, fr. a verb meaning,
+   to be deficient, to want, fail, fr. L. de- + fallere to
+   deceive. See {Fault}.]
+   1. A failing or failure; omission of that which ought to be
+      done; neglect to do what duty or law requires; as, this
+      evil has happened through the governor's default.
+      [1913 Webster]
+
+   2. Fault; offense; ill deed; wrong act; failure in virtue or
+      wisdom.
+      [1913 Webster]
+
+            And pardon craved for his so rash default.
+                                                  --Spenser.
+      [1913 Webster]
+
+            Regardless of our merit or default.   --Pope.
+      [1913 Webster]
+
+   3. (Law) A neglect of, or failure to take, some step
+      necessary to secure the benefit of law, as a failure to
+      appear in court at a day assigned, especially of the
+      defendant in a suit when called to make answer; also of
+      jurors, witnesses, etc.
+      [1913 Webster]
+
+   {In default of}, in case of failure or lack of.
+      [1913 Webster]
+
+            Cooks could make artificial birds and fishes in
+            default of the real ones.             --Arbuthnot.
+
+   {To suffer a default} (Law), to permit an action to be called
+      without appearing to answer.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>default</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Default \De*fault"\, v. t.
+   1. To fail to perform or pay; to be guilty of neglect of; to
+      omit; as, to default a dividend.
+      [1913 Webster]
+
+            What they have defaulted towards him as no king.
+                                                  --Milton.
+      [1913 Webster]
+
+   2. (Law) To call a defendant or other party whose duty it is
+      to be present in court, and make entry of his default, if
+      he fails to appear; to enter a default against.
+      [1913 Webster]
+
+   3. To leave out of account; to omit. [Obs.]
+      [1913 Webster]
+
+            Defaulting unnecessary and partial discourses.
+                                                  --Hales.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>default</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Default \De*fault"\, v. i. [imp. &amp; p. p. {Defaulted}; p. pr. &amp;
+   vb. n. {Defaulting}.]
+   1. To fail in duty; to offend.
+      [1913 Webster]
+
+            That he gainst courtesy so foully did default.
+                                                  --Spenser.
+      [1913 Webster]
+
+   2. To fail in fulfilling a contract, agreement, or duty.
+      [1913 Webster]
+
+   3. To fail to appear in court; to let a case go by default.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>default</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>default
+     n 1: loss due to not showing up; "he lost the game by default"
+     2: act of failing to meet a financial obligation [syn: {nonpayment},
+         {nonremittal}]
+     3: loss resulting from failure of a debt to be paid [syn: {nonpayment},
+         {nonremittal}] [ant: {payment}]
+     4: an option that is selected automatically unless an
+        alternative is specified [syn: {default option}]
+     v : fail to pay up [syn: {default on}] [ant: {pay up}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

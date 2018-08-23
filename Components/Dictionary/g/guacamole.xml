@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>guacamole</Word>
+  <Definitions>
+    <Definition>
+      <Word>guacamole</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>guacamole
+     n : a dip made of mashed avocado mixed with chopped onions and
+         other seasonings
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

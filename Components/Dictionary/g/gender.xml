@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>gender</Word>
+  <Definitions>
+    <Definition>
+      <Word>gender</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gender \Gen"der\ (j[e^]n"d[~e]r), n. [OF. genre, gendre (with
+   excrescent d.), F.genre, fr. L. genus, generis, birth,
+   descent, race, kind, gender, fr. the root of genere, gignere,
+   to beget, in pass., to be born, akin to E. kin. See {Kin},
+   and cf. {Generate}, {Genre}, {Gentle}, {Genus}.]
+   [1913 Webster]
+   1. Kind; sort. [Obs.] ``One gender of herbs.'' --Shak.
+      [1913 Webster]
+
+   2. Sex, male or female.
+      [1913 Webster]
+
+   Note: The use of the term gender to refer to the sex of an
+         animal, especially a person, was once common, then fell
+         into disuse as the term became used primarily for the
+         distinction of grammatical declension forms in
+         inflected words. In the late 1900's, the term again
+         became used to refer to the sex of people, as a
+         euphemism for the term {sex}, especially in discussions
+         of laws and policies on equal treatment of sexes.
+         Objections by prescriptivists that the term should be
+         used only in a grammatical context ignored the earlier
+         uses.
+         [PJC]
+
+   3. (Gram.) A classification of nouns, primarily according to
+      sex; and secondarily according to some fancied or imputed
+      quality associated with sex.
+      [1913 Webster]
+
+            Gender is a grammatical distinction and applies to
+            words only. Sex is natural distinction and applies
+            to living objects.                    --R. Morris.
+      [1913 Webster]
+
+   Note: Adjectives and pronouns are said to vary in gender when
+         the form is varied according to the gender of the words
+         to which they refer.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gender</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gender \Gen"der\, v. t. [imp. &amp; p. p. {Gendered}; p. pr. &amp; vb.
+   n. {Gendering}.] [OF. gendrer, fr. L. generare. See {Gender},
+   n.]
+   To beget; to engender.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gender</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gender \Gen"der\, v. i.
+   To copulate; to breed. [R.] --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gender</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>gender
+     n 1: a grammatical category in inflected languages governing the
+          agreement between nouns and pronouns and adjectives; in
+          some languages it is quite arbitrary but in
+          Indo-European languages it is usually based on sex or
+          animateness [syn: {grammatical gender}]
+     2: the properties that distinguish organisms on the basis of
+        their reproductive roles; "she didn't want to know the sex
+        of the foetus" [syn: {sex}, {sexuality}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

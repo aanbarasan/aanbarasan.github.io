@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>inexperienced</Word>
+  <Definitions>
+    <Definition>
+      <Word>inexperienced</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Inexperienced \In`ex*pe"ri*enced\, a.
+   Not having experience; unskilled; naive. ``Inexperienced
+   youth.'' --Cowper.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>inexperienced</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>inexperienced
+     adj 1: lacking practical experience or training [ant: {experienced}]
+     2: lacking basic knowledge; "how can someone that age be so
+        ignorant?"; "inexperienced and new to the real world"
+        [syn: {ignorant}]
+     3: lacking experience of life; "a callow youth of seventeen"
+        [syn: {callow}, {naive}, {unsophisticated}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

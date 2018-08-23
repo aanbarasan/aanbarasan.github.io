@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>eureka</Word>
+  <Definitions>
+    <Definition>
+      <Word>eureka</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Eureka
+     
+        A European technological development programme.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>eureka</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Eureka, CA (city, FIPS 23042)
+  Location: 40.79532 N, 124.15568 W
+  Population (1990): 27025 (11781 housing units)
+  Area: 24.5 sq km (land), 13.0 sq km (water)
+  Zip code(s): 95501
+Eureka, IL (city, FIPS 24543)
+  Location: 40.71558 N, 89.27514 W
+  Population (1990): 4435 (1609 housing units)
+  Area: 5.7 sq km (land), 0.1 sq km (water)
+  Zip code(s): 61530
+Eureka, KS (city, FIPS 21800)
+  Location: 37.82271 N, 96.28844 W
+  Population (1990): 2974 (1630 housing units)
+  Area: 5.0 sq km (land), 0.0 sq km (water)
+  Zip code(s): 67045
+Eureka, MO (city, FIPS 22834)
+  Location: 38.50290 N, 90.64268 W
+  Population (1990): 4683 (1601 housing units)
+  Area: 24.1 sq km (land), 0.2 sq km (water)
+Eureka, MT (town, FIPS 24850)
+  Location: 48.87593 N, 115.04801 W
+  Population (1990): 1043 (491 housing units)
+  Area: 2.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 59917
+Eureka, NC (town, FIPS 21960)
+  Location: 35.54089 N, 77.87746 W
+  Population (1990): 282 (120 housing units)
+  Area: 0.9 sq km (land), 0.0 sq km (water)
+  Zip code(s): 27830
+Eureka, NV
+  Zip code(s): 89316
+Eureka, SD (city, FIPS 20180)
+  Location: 45.76871 N, 99.62296 W
+  Population (1990): 1197 (644 housing units)
+  Area: 1.9 sq km (land), 0.2 sq km (water)
+Eureka, TX (city, FIPS 24816)
+  Location: 32.00972 N, 96.28594 W
+  Population (1990): 242 (105 housing units)
+  Area: 6.2 sq km (land), 0.0 sq km (water)
+Eureka, UT (city, FIPS 24080)
+  Location: 39.95502 N, 112.11558 W
+  Population (1990): 562 (326 housing units)
+  Area: 2.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 84628
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>eureka</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Eureka \Eu*re"ka\ [Gr. ? I have found, perfect indicative of ?
+   to find.]
+   The exclamation attributed to Archimedes, who is said to have
+   cried out ``Eureka! eureka!'' (I have found it! I have found
+   it!), upon suddenly discovering a method of finding out how
+   much the gold of King Hiero's crown had been alloyed. Hence,
+   an expression of triumph concerning a discovery.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>eureka</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Eureka
+     n 1: a copper-nickel alloy with high electrical resistance and a
+          low temperature coefficient; used as resistance wire
+          [syn: {constantan}]
+     2: a town in northwest California on an arm of the Pacific
+        Ocean
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>crosswalk</Word>
+  <Definitions>
+    <Definition>
+      <Word>crosswalk</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>crosswalk
+     n : a path (often marked) where something (as a street or
+         railroad) can be crossed to get from one side to the
+         other [syn: {crossing}, {crossover}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

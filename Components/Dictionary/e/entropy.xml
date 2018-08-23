@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>entropy</Word>
+  <Definitions>
+    <Definition>
+      <Word>entropy</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>entropy
+     
+        &lt;theory&gt; A measure of the disorder of a system.  Systems tend
+        to go from a state of order (low entropy) to a state of
+        maximum disorder (high entropy).
+     
+        The entropy of a system is related to the amount of
+        {information} it contains.  A highly ordered system can be
+        described using fewer {bit}s of information than a disordered
+        one.  For example, a string containing one million "0"s can be
+        described using {run-length encoding} as [("0", 1000000)]
+        whereas a string of random symbols (e.g. bits, or characters)
+        will be much harder, if not impossible, to compress in this
+        way.
+     
+        {Shannon}'s formula gives the entropy H(M) of a message M in
+        bits:
+     
+        	H(M) = -log2 p(M)
+     
+        Where p(M) is the probability of message M.
+     
+        (1998-11-23)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>entropy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Heat \Heat\ (h[=e]t), n. [OE. hete, h[ae]te, AS. h[=ae]tu,
+   h[=ae]to, fr. h[=a]t hot; akin to OHG. heizi heat, Dan. hede,
+   Sw. hetta. See {Hot}.]
+   1. A force in nature which is recognized in various effects,
+      but especially in the phenomena of fusion and evaporation,
+      and which, as manifested in fire, the sun's rays,
+      mechanical action, chemical combination, etc., becomes
+      directly known to us through the sense of feeling. In its
+      nature heat is a mode of motion, being in general a form
+      of molecular disturbance or vibration. It was formerly
+      supposed to be a subtile, imponderable fluid, to which was
+      given the name {caloric}.
+      [1913 Webster]
+
+   Note: As affecting the human body, heat produces different
+         sensations, which are called by different names, as
+         heat or sensible heat, warmth, cold, etc., according to
+         its degree or amount relatively to the normal
+         temperature of the body.
+         [1913 Webster]
+
+   2. The sensation caused by the force or influence of heat
+      when excessive, or above that which is normal to the human
+      body; the bodily feeling experienced on exposure to fire,
+      the sun's rays, etc.; the reverse of {cold}.
+      [1913 Webster]
+
+   3. High temperature, as distinguished from low temperature,
+      or cold; as, the heat of summer and the cold of winter;
+      heat of the skin or body in fever, etc.
+      [1913 Webster]
+
+            Else how had the world . . .
+            Avoided pinching cold and scorching heat! --Milton.
+      [1913 Webster]
+
+   4. Indication of high temperature; appearance, condition, or
+      color of a body, as indicating its temperature; redness;
+      high color; flush; degree of temperature to which
+      something is heated, as indicated by appearance,
+      condition, or otherwise.
+      [1913 Webster]
+
+            It has raised . . . heats in their faces. --Addison.
+      [1913 Webster]
+
+            The heats smiths take of their iron are a blood-red
+            heat, a white-flame heat, and a sparkling or welding
+            heat.                                 --Moxon.
+      [1913 Webster]
+
+   5. A single complete operation of heating, as at a forge or
+      in a furnace; as, to make a horseshoe in a certain number
+      of heats.
+      [1913 Webster]
+
+   6. A violent action unintermitted; a single effort; a single
+      course in a race that consists of two or more courses; as,
+      he won two heats out of three.
+      [1913 Webster]
+
+            Many causes . . . for refreshment betwixt the heats.
+                                                  --Dryden.
+      [1913 Webster]
+
+            [He] struck off at one heat the matchless tale of
+            ``Tam o' Shanter.''                   --J. C.
+                                                  Shairp.
+      [1913 Webster]
+
+   7. Utmost violence; rage; vehemence; as, the heat of battle
+      or party. ``The heat of their division.'' --Shak.
+      [1913 Webster]
+
+   8. Agitation of mind; inflammation or excitement;
+      exasperation. ``The heat and hurry of his rage.'' --South.
+      [1913 Webster]
+
+   9. Animation, as in discourse; ardor; fervency; as, in the
+      heat of argument.
+      [1913 Webster]
+
+            With all the strength and heat of eloquence.
+                                                  --Addison.
+      [1913 Webster]
+
+   10. (Zo["o]l.) Sexual excitement in animals; readiness for
+       sexual activity; estrus or rut.
+       [1913 Webster +PJC]
+
+   11. Fermentation.
+       [1913 Webster]
+
+   12. Strong psychological pressure, as in a police
+       investigation; as, when they turned up the heat, he took
+       it on the lam. [slang]
+       [PJC]
+
+   {Animal heat}, {Blood heat}, {Capacity for heat}, etc. See
+      under {Animal}, {Blood}, etc.
+
+   {Atomic heat} (Chem.), the product obtained by multiplying
+      the atomic weight of any element by its specific heat. The
+      atomic heat of all solid elements is nearly a constant,
+      the mean value being 6.4.
+
+   {Dynamical theory of heat}, that theory of heat which assumes
+      it to be, not a peculiar kind of matter, but a peculiar
+      motion of the ultimate particles of matter.
+
+   {Heat engine}, any apparatus by which a heated substance, as
+      a heated fluid, is made to perform work by giving motion
+      to mechanism, as a hot-air engine, or a steam engine.
+
+   {Heat producers}. (Physiol.) See under {Food}.
+
+   {Heat rays}, a term formerly applied to the rays near the red
+      end of the spectrum, whether within or beyond the visible
+      spectrum.
+
+   {Heat weight} (Mech.), the product of any quantity of heat by
+      the mechanical equivalent of heat divided by the absolute
+      temperature; -- called also {thermodynamic function}, and
+      {entropy}.
+
+   {Mechanical equivalent of heat}. See under {Equivalent}.
+
+   {Specific heat of a substance (at any temperature)}, the
+      number of units of heat required to raise the temperature
+      of a unit mass of the substance at that temperature one
+      degree.
+
+   {Unit of heat}, the quantity of heat required to raise, by
+      one degree, the temperature of a unit mass of water,
+      initially at a certain standard temperature. The
+      temperature usually employed is that of 0[deg] Centigrade,
+      or 32[deg] Fahrenheit.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>entropy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Entropy \En"tro*py\, n. [Gr. ? a turning in; ? in + ? a turn,
+   fr. ? to turn.] (Thermodynamics)
+   A certain property of a body, expressed as a measurable
+   quantity, such that when there is no communication of heat
+   the quantity remains constant, but when heat enters or leaves
+   the body the quantity increases or diminishes. If a small
+   amount, h, of heat enters the body when its temperature is t
+   in the thermodynamic scale the entropy of the body is
+   increased by h / t. The entropy is regarded as measured from
+   some standard temperature and pressure. Sometimes called the
+   {thermodynamic function}.
+   [1913 Webster]
+
+         The entropy of the universe tends towards a maximum.
+                                                  --Clausius.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>entropy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>entropy
+     n 1: (communication theory) a numerical measure of the
+          uncertainty of an outcome; "the signal contained
+          thousands of bits of information" [syn: {information}, {selective
+          information}]
+     2: (thermodynamics) a thermodynamic quantity representing the
+        amount of energy in a system that is no longer available
+        for doing mechanical work; "entropy increases as matter
+        and energy in the universe degrade to an ultimate state of
+        inert uniformity" [syn: {randomness}, {S}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

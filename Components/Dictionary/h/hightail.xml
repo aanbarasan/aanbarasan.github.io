@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hightail</Word>
+  <Definitions>
+    <Definition>
+      <Word>hightail</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>high-tail
+     v : retreat at full speed; "The actress haigh-tailed to her
+         villa when reporters began to follow her to the
+         restaurant"
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hightail</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hightail
+     v : leave as fast as possible; "We hightailed it when we saw the
+         police walking in"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

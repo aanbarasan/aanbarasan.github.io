@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>heritage</Word>
+  <Definitions>
+    <Definition>
+      <Word>heritage</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Heritage \Her"it*age\, a. [OE. heritage, eritage, OF. heritage,
+   eritage, F. h['e]ritage, fr. h['e]riter to inherit, LL.
+   heriditare. See {Hereditable}.]
+   1. That which is inherited, or passes from heir to heir;
+      inheritance.
+      [1913 Webster]
+
+            Part of my heritage,
+            Which my dead father did bequeath to me. --Shak.
+      [1913 Webster]
+
+   2. (Script.) A possession; the Israelites, as God's chosen
+      people; also, a flock under pastoral charge. --Joel iii.
+      2. --1 Peter v. 3.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>heritage</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>heritage
+     n 1: practices that are handed down from the past by tradition;
+          "a heritage of freedom"
+     2: any attribute or immaterial possession that is inherited
+        from ancestors; "my only inheritance was my mother's
+        blessing"; "the world's heritage of knowledge" [syn: {inheritance}]
+     3: that which is inherited; a title or property or estate that
+        passes by law to the heir on the death of the owner [syn:
+        {inheritance}]
+     4: hereditary succession to a title or an office or property
+        [syn: {inheritance}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

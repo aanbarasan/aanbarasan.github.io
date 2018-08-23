@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>extraneous</Word>
+  <Definitions>
+    <Definition>
+      <Word>extraneous</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Extraneous \Ex*tra"ne*ous\, a. [L. extraneus, from extra. See
+   {Extra-}, {Strange}.]
+   Not belonging to, or dependent upon, a thing; without or
+   beyond a thing; not essential or intrinsic; foreign; as, to
+   separate gold from extraneous matter.
+   [1913 Webster]
+
+         Nothing is admitted extraneous from the indictment.
+                                                  --Landor.
+   -- {Ex*tra"ne*ous*ly}, adv.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>extraneous</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>extraneous
+     adj 1: not pertinent to the matter under consideration; "an issue
+            extraneous to the debate"; "the price was immaterial";
+            "mentioned several impertinent facts before finally
+            coming to the point" [syn: {immaterial}, {impertinent},
+             {orthogonal}]
+     2: not essential; "the ballet struck me as extraneous and
+        somewhat out of keeping with the rest of the play"
+     3: not belonging to that in which it is contained; introduced
+        from an outside source; "water free of extraneous matter";
+        "foreign particles in milk" [syn: {foreign}]
+     4: coming from the outside; "extraneous light in the camera
+        spoiled the photograph"; "relying upon an extraneous
+        income"; "disdaining outside pressure groups" [syn: {external},
+         {outside}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

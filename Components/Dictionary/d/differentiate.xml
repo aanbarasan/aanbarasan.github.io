@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>differentiate</Word>
+  <Definitions>
+    <Definition>
+      <Word>differentiate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Differentiate \Dif`fer*en"ti*ate\, v. t.
+   1. To distinguish or mark by a specific difference; to effect
+      a difference in, as regards classification; to develop
+      differential characteristics in; to specialize; to
+      desynonymize.
+      [1913 Webster]
+
+            The word then was differentiated into the two forms
+            then and than.                        --Earle.
+      [1913 Webster]
+
+            Two or more of the forms assumed by the same
+            original word become differentiated in
+            signification.                        --Dr. Murray.
+      [1913 Webster]
+
+   2. To express the specific difference of; to describe the
+      properties of (a thing) whereby it is differenced from
+      another of the same class; to discriminate. --Earle.
+      [1913 Webster]
+
+   3. (Math.) To obtain the differential, or differential
+      coefficient, of; as, to differentiate an algebraic
+      expression, or an equation.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>differentiate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Differentiate \Dif`fer*en"ti*ate\, v. i. (Biol.)
+   To acquire a distinct and separate character. --Huxley.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>differentiate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>differentiate
+     v 1: mark as different; "We distinguish several kinds of maple"
+          [syn: {distinguish}, {separate}, {secern}, {secernate},
+          {severalize}, {severalise}, {tell}, {tell apart}]
+     2: be a distinctive feature, attribute, or trait; sometimes in
+        a very positive sense; "His modesty distinguishes him form
+        his peers" [syn: {distinguish}, {mark}]
+     3: calculate a derivative; take the derivative [ant: {integrate}]
+     4: become different during development; "cells differentiate"
+        [ant: {dedifferentiate}]
+     5: evolve so as to lead to a new species or develop in a way
+        most suited to the environment [syn: {speciate}, {specialize},
+         {specialise}]
+     6: become distinct and acquire a different character
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

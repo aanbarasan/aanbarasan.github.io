@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dickens</Word>
+  <Definitions>
+    <Definition>
+      <Word>dickens</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Dickens, IA (city, FIPS 21360)
+  Location: 43.13337 N, 95.02207 W
+  Population (1990): 214 (84 housing units)
+  Area: 2.2 sq km (land), 0.0 sq km (water)
+  Zip code(s): 51333
+Dickens, NE (village, FIPS 13050)
+  Location: 40.82583 N, 100.99345 W
+  Population (1990): 16 (7 housing units)
+  Area: 0.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 69132
+Dickens, TX (city, FIPS 20332)
+  Location: 33.62126 N, 100.83583 W
+  Population (1990): 322 (182 housing units)
+  Area: 2.6 sq km (land), 0.0 sq km (water)
+  Zip code(s): 79229
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dickens</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dickens \Dick"ens\, n. or interj. [Perh. a contr. of the dim.
+   devilkins.]
+   The devil. [A vulgar euphemism.]
+   [1913 Webster]
+
+         I can not tell what the dickens his name is. --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dickens</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dickens
+     n 1: a word used in exclamations of confusion; "what the devil";
+          "the deuce with it"; "the dickens you say" [syn: {devil},
+           {deuce}]
+     2: English writer whose novels depicted and criticized social
+        injustice (1812-1870) [syn: {Charles Dickens}, {Charles
+        John Huffam Dickens}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

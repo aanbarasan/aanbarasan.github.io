@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>headshot</Word>
+  <Definitions>
+    <Definition>
+      <Word>headshot</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>headshot
+     n 1: a photograph of a person's head
+     2: an attempt to put the soccer ball into the net by using the
+        head
+     3: a shot aimed at a person's head
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

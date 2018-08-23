@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>droid</Word>
+  <Definitions>
+    <Definition>
+      <Word>droid</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>droid
+     
+        &lt;robotics&gt; (From "android") The robots of the Star Wars
+        universe.  While androids look somewhat human-like, Star Wars'
+        droids are typically fashioned in the likeness of their
+        creators or in a utilitarian design that stresses function
+        over appearance.  Droids are equipped with artificial
+        intelligence, though some are naturally created smarter than
+        others depending on the function they are designed to serve.
+     
+        "Droid" is a Lucasfilm Ltd. trademark.
+     
+        {starwars.com (http://www.starwars.com/databank/droid/)}.
+     
+        ["A Guide to the Star Wars Universe", Bill Slavicsek, 1994,
+        Lucasfilm Ltd.]
+     
+        [Was George Lucas really the first to use the abbreviation?]
+     
+        (2003-05-11)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>droid</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>droid n. [from `android', SF terminology for a humanoid robot of
+   essentially biological (as opposed to mechanical/electronic)
+   construction] A person (esp. a low-level bureaucrat or service-business
+   employee) exhibiting most of the following characteristics: (a) naive
+   trust in the wisdom of the parent organization or `the system'; (b) a
+   blind-faith propensity to believe obvious nonsense emitted by authority
+   figures (or computers!); (c) a rule-governed mentality, one unwilling or
+   unable to look beyond the `letter of the law' in exceptional situations;
+   (d) a paralyzing fear of official reprimand or worse if Procedures are
+   not followed No Matter What; and (e) no interest in doing anything above
+   or beyond the call of a very narrowly-interpreted duty, or in particular
+   in fixing that which is broken; an "It's not my job, man" attitude.
+
+   Typical droid positions include supermarket checkout assistant and
+   bank clerk; the syndrome is also endemic in low-level government
+   employees. The implication is that the rules and official procedures
+   constitute software that the droid is executing; problems arise when the
+   software has not been properly debugged. The term `droid mentality' is
+   also used to describe the mindset behind this behavior. Compare {suit},
+   {marketroid}; see {-oid}.
+
+   In England there is equivalent mainstream slang; a `jobsworth' is an
+   obstructive, rule-following bureaucrat, often of the uniformed or suited
+   variety. Named for the habit of denying a reasonable request by sucking
+   his teeth and saying "Oh no, guv, sorry I can't help you: that's more
+   than my job's worth".
+
+
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

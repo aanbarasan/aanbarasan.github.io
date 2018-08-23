@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cpr</Word>
+  <Definitions>
+    <Definition>
+      <Word>cpr</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>cardiopulmonary resuscitation \cardiopulmonary resuscitation\ n.
+   An emergency procedure to revive heart and lung function in
+   persons whose heart has apparently stopped beating, involving
+   forced respiration, periodic pressure on the heart by pushing
+   on the chest, and sometimes electrical or mechanical
+   equipment. It is often referred to by the acronym {CPR}.
+   [PJC] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cpr</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>CPR
+     n : an emergency procedure consisting of external cardiac
+         massage and artificial respiration; the first treatment
+         for a person who has collapsed and has no pulse and has
+         stopped breathing; attempts to restore circulation of the
+         blood and prevent death or brain damage due to lack of
+         oxygen [syn: {cardiopulmonary resuscitation}, {cardiac
+         resuscitation}, {mouth-to-mouth resuscitation}, {kiss of
+         life}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

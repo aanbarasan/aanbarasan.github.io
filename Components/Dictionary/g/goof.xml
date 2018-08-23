@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>goof</Word>
+  <Definitions>
+    <Definition>
+      <Word>goof</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>goof \goof\ n.
+   a stupid fool. [Colloq.]
+
+   Syn: fathead, jackass, goose, cuckoo, zany.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>goof</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>goof \goof\ v. i.
+   to commit a faux pas or fault.
+
+   Syn: sin, commit an offence, blunder, boob.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>goof</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gove \Gove\ (g[=o]v), n. [Also {goaf}, {goof}, {goff}.]
+   A mow; a rick for hay. [Obs.] --Tusser.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>goof</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>goof
+     n : a man who is a stupid incompetent fool [syn: {fathead}, {goofball},
+          {bozo}, {jackass}, {goose}, {cuckoo}, {twat}, {zany}]
+     v : commit a faux pas or a fault or make a serious mistake; "I
+         blundered during the job interview" [syn: {sin}, {blunder},
+          {boob}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

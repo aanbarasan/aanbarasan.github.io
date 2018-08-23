@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fragrance</Word>
+  <Definitions>
+    <Definition>
+      <Word>fragrance</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fragrance \Fra"grance\, Fragrancy \Fra"gran*cy\, n. [L.
+   fragrantia: cf. OF. fragrance.]
+   The quality of being fragrant; sweetness of smell; a sweet
+   smell; a pleasing odor; perfume.
+   [1913 Webster]
+
+         Eve separate he spies,
+         Veiled in a cloud of fragrance.          --Milton.
+   [1913 Webster]
+
+         The goblet crowned,
+         Breathed aromatic fragrancies around.    --Pope.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fragrance</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fragrance
+     n 1: a distinctive odor that is pleasant [syn: {aroma}, {perfume},
+           {scent}]
+     2: a pleasingly sweet olfactory property [syn: {bouquet}, {redolence},
+         {sweetness}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

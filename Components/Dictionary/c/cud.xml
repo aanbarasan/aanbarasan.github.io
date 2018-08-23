@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cud</Word>
+  <Definitions>
+    <Definition>
+      <Word>cud</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cud \Cud\ (k[u^]d), n. [AS. cudu, cwudu,cwidu,cweodo, of
+   uncertain origin; cf, G. k["o]der bait, Icel. kvi[eth]r womb,
+   Goth. qi[thorn]us. Cf. {Quid}.]
+   1. That portion of food which is brought up into the mouth by
+      ruminating animals from their first stomach, to be chewed
+      a second time.
+      [1913 Webster]
+
+            Whatsoever parteth the hoof, and is cloven-footed,
+            and cheweth the cud, among the beasts, that shall ye
+            eat.                                  --Levit. xi. 3
+      [1913 Webster]
+
+   2. A portion of tobacco held in the mouth and chewed; a quid.
+      [Low]
+      [1913 Webster]
+
+   3. The first stomach of ruminating beasts. --Crabb.
+      [1913 Webster]
+
+   {To chew the cud}, to ruminate; to meditate; used with of;
+      as, to chew the cud of bitter memories.
+      [1913 Webster]
+
+            Chewed the thrice turned cud of wrath. --Tennyson.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cud</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cud
+     n 1: food of a ruminant regurgitated to be chewed again [syn: {rechewed
+          food}]
+     2: a wad of something chewable as tobacco [syn: {chew}, {chaw},
+         {quid}, {plug}, {wad}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

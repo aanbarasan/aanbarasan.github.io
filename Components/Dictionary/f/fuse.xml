@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fuse</Word>
+  <Definitions>
+    <Definition>
+      <Word>fuse</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>FUSE
+     
+        A {DEC} {software development environment} for {ULTRIX},
+        offering an integrated toolkit for developing, testing,
+        debugging and maintenance.
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fuse</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fuse \Fuse\ (f[=u]z), v. t. [imp. &amp; p. p. {Fused} (f[=u]zd); p.
+   pr. &amp; vb. n. {Fusing}.] [L. fusus, p. p. of fundere to pour,
+   melt, cast. See {Foundo} to cast, and cf. Futile.]
+   1. To liquefy by heat; to render fluid; to dissolve; to melt.
+      [1913 Webster]
+
+   2. To unite or blend, as if melted together.
+      [1913 Webster]
+
+            Whose fancy fuses old and new.        --Tennyson.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fuse</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fuse \Fuse\, v. i.
+   1. To be reduced from a solid to a fluid state by heat; to be
+      melted; to melt.
+      [1913 Webster]
+
+   2. To be blended, as if melted together.
+      [1913 Webster]
+
+   {Fusing point}, the degree of temperature at which a
+      substance melts; the point of fusion; the melting point.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fuse</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fuse \Fuse\, n. [For fusee, fusil. See 2d {Fusil}.] (Gunnery,
+   Mining, etc.)
+   1. A tube or casing filled with combustible matter, by means
+      of which a charge of powder is ignited, as in blasting; --
+      called also {fuzee}. See {Fuze}.
+      [1913 Webster]
+
+   {Fuse hole}, the hole in a shell prepared for the reception
+      of the fuse. --Farrow.
+      [1913 Webster]
+
+   2. (Mil.) a mechanism in a bomb, torpedo, rocket, or
+      artillery shell, usually having an easily detonated
+      explosive charge and activated by the shock of impact,
+      which detonates the main explosive charge. Some fuses may
+      have timing mechanisms, delaying the explosion for a short
+      time, or up to several days after impact. Fuses activated
+      by other mechanisms more sophisticated than impact, such
+      as proximity or heat, are used in modern weapons such as
+      antiaircraft or antimissile missiles.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fuse</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fuse \Fuse\, or Fuze \Fuze\, n. (Elec.)
+   A wire, bar, or strip of fusible metal inserted for safety in
+   an electric circuit. When the current increases beyond a
+   certain safe strength, the metal melts, interrupting the
+   circuit and thereby preventing possibility of damage. It
+   serves the same function as a {circuit breaker}.
+   [Webster 1913 Suppl. +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fuse</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fuse
+     n 1: electrical device that can interrupt the flow of electrical
+          current when it is overloaded [syn: {electrical fuse}]
+     2: any igniter that is used to initiate the burning of a
+        propellant [syn: {fuze}, {fusee}, {fuzee}, {primer}, {priming}]
+     v 1: mix together different elements; "The colors blend well"
+          [syn: {blend}, {flux}, {mix}, {conflate}, {commingle}, {immix},
+           {coalesce}, {meld}, {combine}, {merge}]
+     2: become plastic or fluid or liquefied from heat; "The
+        substances fused at a very high temperature"
+     3: equip with a fuse; provide with a fuse [ant: {defuse}]
+     4: make liquid or plastic by heating; "The storm fused the
+        electric mains"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

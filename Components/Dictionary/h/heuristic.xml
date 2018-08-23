@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>heuristic</Word>
+  <Definitions>
+    <Definition>
+      <Word>heuristic</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>heuristic
+     
+        1. &lt;programming&gt; A rule of thumb, simplification, or educated
+        guess that reduces or limits the search for solutions in
+        domains that are difficult and poorly understood.  Unlike
+        {algorithms}, heuristics do not guarantee optimal, or even
+        {feasible}, solutions and are often used with no theoretical
+        guarantee.
+     
+        2. &lt;algorithm&gt; {approximation algorithm}.
+     
+        (2001-04-12)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>heuristic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Heuristic \Heu*ris"tic\ (h[-u]*r[i^]s"t[i^]k), n.
+   1. A heuristic method; a specific heuristic procedure.
+      [PJC]
+
+   2. A theory or approach which serves to promote discovery or
+      learning by encouraging experimentation.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>heuristic</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Heuristic \Heu*ris"tic\ (h[-u]*r[i^]s"t[i^]k), a. [Gr.
+   e"yri`skein to discover.]
+   1. Serving to promote discovery or learning; -- used
+      especially of thories or paradigms which stimulate new
+      ideas for discovering facts in experimental sciences.
+      [1913 Webster +PJC]
+
+   2. Serving to stimulate people to learn and discover on their
+      own, especially by encouraging experimental and
+      trial-and-error methods for solving problems.
+      [PJC]
+
+   3. Pertaining to or based on trial-and-error and experimental
+      methods of learning and evaluation.
+      [PJC]
+
+   4. (Computers) Based on the use of an efficient trial-and
+      error method to search a space of possible solutions to a
+      problem, or to find an acceptable approximate solution,
+      when an exact algorithmic method is unavailable or too
+      time-consuming.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>heuristic</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>heuristic
+     adj : of or relating to or using a general formulation that serves
+           to guide investigation [ant: {algorithmic}]
+     n : a commonsense rule (or set of rules) intended to increase
+         the probability of solving some problem [syn: {heuristic
+         rule}, {heuristic program}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

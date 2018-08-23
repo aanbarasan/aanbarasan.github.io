@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>geometry</Word>
+  <Definitions>
+    <Definition>
+      <Word>geometry</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Geometry \Ge*om"e*try\, n.; pl. {Geometries}[F. g['e]om['e]trie,
+   L. geometria, fr. Gr. ?, fr. ? to measure land; ge`a, gh^,
+   the earth + ? to measure. So called because one of its
+   earliest and most important applications was to the
+   measurement of the earth's surface. See {Geometer}.]
+   1. That branch of mathematics which investigates the
+      relations, properties, and measurement of solids,
+      surfaces, lines, and angles; the science which treats of
+      the properties and relations of magnitudes; the science of
+      the relations of space.
+      [1913 Webster]
+
+   2. A treatise on this science.
+      [1913 Webster]
+
+   {Analytical geometry}, or {Co["o]rdinate geometry}, that
+      branch of mathematical analysis which has for its object
+      the analytical investigation of the relations and
+      properties of geometrical magnitudes.
+
+   {Descriptive geometry}, that part of geometry which treats of
+      the graphic solution of all problems involving three
+      dimensions.
+
+   {Elementary geometry}, that part of geometry which treats of
+      the simple properties of straight lines, circles, plane
+      surface, solids bounded by plane surfaces, the sphere, the
+      cylinder, and the right cone.
+
+   {Higher geometry}, that pert of geometry which treats of
+      those properties of straight lines, circles, etc., which
+      are less simple in their relations, and of curves and
+      surfaces of the second and higher degrees.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>geometry</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Mathematics \Math`e*mat"ics\, n. [F. math['e]matiques, pl., L.
+   mathematica, sing., Gr. ? (sc. ?) science. See {Mathematic},
+   and {-ics}.]
+   That science, or class of sciences, which treats of the exact
+   relations existing between quantities or magnitudes, and of
+   the methods by which, in accordance with these relations,
+   quantities sought are deducible from other quantities known
+   or supposed; the science of spatial and quantitative
+   relations.
+   [1913 Webster]
+
+   Note: Mathematics embraces three departments, namely: 1.
+         {Arithmetic}. 2. {Geometry}, including {Trigonometry}
+         and {Conic Sections}. 3. {Analysis}, in which letters
+         are used, including {Algebra}, {Analytical Geometry},
+         and {Calculus}. Each of these divisions is divided into
+         pure or abstract, which considers magnitude or quantity
+         abstractly, without relation to matter; and mixed or
+         applied, which treats of magnitude as subsisting in
+         material bodies, and is consequently interwoven with
+         physical considerations.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>geometry</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>geometry
+     n : the pure mathematics of points and lines and curves and
+         surfaces
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

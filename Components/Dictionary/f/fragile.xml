@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fragile</Word>
+  <Definitions>
+    <Definition>
+      <Word>fragile</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>fragile
+     
+        {brittle}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fragile</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fragile \Frag"ile\, a. [L. fragilis, from frangere to break; cf.
+   F. fragile. See {Break}, v. t., and cf. {Frail}, a.]
+   Easily broken; brittle; frail; delicate; easily destroyed.
+   [1913 Webster]
+
+         The state of ivy is tough, and not fragile. --Bacon.
+
+   Syn: Brittle; infirm; weak; frail; frangible; slight. --
+        {Frag"ile*ly}, adv.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fragile</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>fragile adj. Syn {brittle}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fragile</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fragile
+     adj 1: easily broken or damaged or destroyed; "a kite too delicate
+            to fly safely"; "fragile porcelain plates"; "fragile
+            old bones"; "a frail craft" [syn: {delicate}, {frail}]
+     2: vulnerably delicate; "she has the fragile beauty of youth"
+     3: lacking solidity or strength; "a flimsy table"; "flimsy
+        construction"; "a fragile link with the past" [syn: {flimsy}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

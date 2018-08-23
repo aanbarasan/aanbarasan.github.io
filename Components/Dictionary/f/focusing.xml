@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>focusing</Word>
+  <Definitions>
+    <Definition>
+      <Word>focusing</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Focus \Fo"cus\, v. t. [imp. &amp; p. p. {Focused}; p. pr. &amp; vb. n.
+   {Focusing}.]
+   To bring to a focus; to focalize; as, to focus a camera. --R.
+   Hunt.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>focusing</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>focusing \focusing\, focussing \focussing\n.
+   1. the concentration of attention or energy on something.
+
+   Syn: focus, focussing.
+        [WordNet 1.5]
+
+   2. the act of bringing into focus.
+
+   Syn: focalization, focalisation.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>focusing</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>focusing
+     n 1: the concentration of attention or energy on something; "the
+          focus of activity shifted to molecular biology"; "he had
+          no direction in his life" [syn: {focus}, {focussing}, {direction},
+           {centering}]
+     2: the act of bringing into focus [syn: {focalization}, {focalisation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

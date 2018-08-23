@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>horoscope</Word>
+  <Definitions>
+    <Definition>
+      <Word>horoscope</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Horoscope \Hor"o*scope\, n. [F. horoscope, L. horoscopus, fr.
+   Gr. ?, adj., observing hours or times, esp. observing the
+   hour of birth, n., a horoscope; ? hour + ? to view, observe.
+   See {Hour}, and {-scope}.]
+   1. (Astrol.)
+      (a) The representation made of the aspect of the heavens
+          at the moment of a person's birth, by which the
+          astrologer professed to foretell the events of the
+          person's life; especially, the sign of the zodiac
+          rising above the horizon at such a moment.
+      (b) The diagram or scheme of twelve houses or signs of the
+          zodiac, into which the whole circuit of the heavens
+          was divided for the purposes of such prediction of
+          fortune.
+          [1913 Webster]
+
+   2. The planisphere invented by Jean Paduanus.
+      [1913 Webster]
+
+   3. A table showing the length of the days and nights at all
+      places. --Heyse.
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>horoscope</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>horoscope
+     n 1: a prediction of someone's future based on the relative
+          positions of the planets
+     2: a diagram of the positions of the planets and signs of the
+        zodiac at a particular time and place
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

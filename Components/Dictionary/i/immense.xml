@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>immense</Word>
+  <Definitions>
+    <Definition>
+      <Word>immense</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Immense \Im*mense"\, a. [L. immensus; pref. im- not + mensus, p.
+   p. of metiri to measure: cf. F. immense. See {Measure}.]
+   Immeasurable; unlimited. In commonest use: Very great; vast;
+   huge. ``Immense the power'' --Pope. ``Immense and boundless
+   ocean.'' --Daniel.
+   [1913 Webster]
+
+         O Goodness infinite! Goodness immense!   --Milton.
+
+   Syn: Infinite; immeasurable; illimitable; unbounded;
+        unlimited; interminable; vast; prodigious; enormous;
+        monstrous. See {Enormous}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>immense</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>immense
+     adj : unusually great in size or amount or degree or especially
+           extent or scope; "huge government spending"; "huge
+           country estates"; "huge popular demand for higher
+           education"; "a huge wave"; "the Los Angeles aqueduct
+           winds like an immense snake along the base of the
+           mountains"; "immense numbers of birds"; "at vast (or
+           immense) expense"; "the vast reaches of outer space";
+           "the vast accumulation of knowledge...which we call
+           civilization"- W.R.Inge [syn: {huge}, {vast}, {Brobdingnagian}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>incinerate</Word>
+  <Definitions>
+    <Definition>
+      <Word>incinerate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Incinerate \In*cin"er*ate\, [LL. incineratus, p. p. of
+   incinerare to incinerate; L. pref. in- in + cinis, cineris,
+   ashes.]
+   Reduced to ashes by burning; thoroughly consumed by fire.
+   [Obs.] --Bacon.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>incinerate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Incinerate \In*cin"er*ate\, v. t. [imp. &amp; p. p. {Incinerated};
+   p. pr. &amp; vb. n. {Incinerating}.]
+   To burn to ashes; to consume by fire; to burn. --Bacon.
+   [1913 Webster]
+
+         It is the fire only that incinerates bodies. --Boyle.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>incinerate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>incinerate
+     v 1: become reduced to ashes; "The paper incinerated quickly"
+     2: cause to undergo combustion; "burn garbage"; "The car burns
+        only Diesel oil" [syn: {burn}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

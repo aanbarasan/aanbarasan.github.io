@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>currency</Word>
+  <Definitions>
+    <Definition>
+      <Word>currency</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Currency \Cur"ren*cy\ (k?r"r?n-c?), n.; pl. {Currencies} (-s?z).
+   [Cf. LL. currentia a current, fr. L. currens, p. pr. of
+   currere to run. See {Current}.]
+   1. A continued or uninterrupted course or flow like that of a
+      stream; as, the currency of time. [Obs.] --Ayliffe.
+      [1913 Webster]
+
+   2. The state or quality of being current; general acceptance
+      or reception; a passing from person to person, or from
+      hand to hand; circulation; as, a report has had a long or
+      general currency; the currency of bank notes.
+      [1913 Webster]
+
+   3. That which is in circulation, or is given and taken as
+      having or representing value; as, the currency of a
+      country; a specie currency; esp., government or bank notes
+      circulating as a substitute for metallic money.
+      [1913 Webster]
+
+   4. Fluency; readiness of utterance. [Obs.]
+      [1913 Webster]
+
+   5. Current value; general estimation; the rate at which
+      anything is generally valued.
+      [1913 Webster]
+
+            He . . . takes greatness of kingdoms according to
+            their bulk and currency, and not after intrinsic
+            value.                                --Bacon.
+      [1913 Webster]
+
+            The bare name of Englishman . . . too often gave a
+            transient currency to the worthless and ungrateful.
+                                                  --W. Irving.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>currency</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>currency
+     n 1: the metal or paper medium of exchange that is presently used
+     2: general acceptance or use; "the currency of ideas"
+     3: a current state of general acceptance and use [syn: {vogue}]
+     4: the property of belonging to the present time; "the currency
+        of a slang term" [syn: {currentness}, {up-to-dateness}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

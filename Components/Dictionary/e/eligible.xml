@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>eligible</Word>
+  <Definitions>
+    <Definition>
+      <Word>eligible</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Eligible \El"i*gi*ble\, a. [F. ['e]ligible, fr. L. eligere. See
+   {Elect}.]
+   1. That may be selected; proper or qualified to be chosen;
+      legally qualified to be elected and to hold office.
+      [1913 Webster]
+
+   2. Worthy to be chosen or selected; suitable; desirable; as,
+      an eligible situation for a house.
+      [1913 Webster]
+
+            The more eligible of the two evils.   --Burke.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>eligible</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>eligible
+     adj 1: qualified for or allowed or worthy of being chosen;
+            "eligible to run for office"; "eligible for retirement
+            benefits"; "an eligible bachelor" [ant: {ineligible}]
+     2: prohibited by official rules; "an eligible pass receiver"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

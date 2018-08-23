@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>corpse</Word>
+  <Definitions>
+    <Definition>
+      <Word>corpse</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Corpse \Corpse\ (k[^o]rps), n. [OF. cors (sometimes written
+   corps), F. corps, L. corpus; akin to AS. hrif womb. See
+   {Midriff}, and cf. {Corse}, {Corselet}, {Corps}, {Cuerpo}.]
+   1. A human body in general, whether living or dead; --
+      sometimes contemptuously. [Obs.]
+      [1913 Webster]
+
+   Note: Formerly written (after the French form) corps. See
+         {Corps}, n., 1.
+         [1913 Webster]
+
+   2. The dead body of a human being; -- used also Fig.
+      [1913 Webster]
+
+            He touched the dead corpse of Public Credit, and it
+            sprung upon its feet.                 --D. Webster.
+      [1913 Webster]
+
+   {Corpse candle}.
+      (a) A thick candle formerly used at a lich wake, or the
+          customary watching with a corpse on the night before
+          its interment.
+      (b) A luminous appearance, resembling the flame of a
+          candle, sometimes seen in churchyards and other damp
+          places, superstitiously regarded as portending death.
+          
+
+   {Corpse gate}, the gate of a burial place through which the
+      dead are carried, often having a covered porch; -- called
+      also {lich gate}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>corpse</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>corpse
+     n : the dead body of a human being [syn: {cadaver}, {stiff}, {clay},
+          {remains}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

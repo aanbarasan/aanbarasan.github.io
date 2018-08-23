@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>genital</Word>
+  <Definitions>
+    <Definition>
+      <Word>genital</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Genital \Gen"i*tal\, a. [L. genitalis, fr. genere, gignere, to
+   beget: cf. F. g['e]nital. See {Gender}.]
+   Pertaining to generation, or to the generative organs; as,
+   genital herpes.
+   [1913 Webster]
+
+   {Genital cord} (Anat.), a cord developed in the fetus by the
+      union of portions of the Wolffian and M["u]llerian ducts
+      and giving rise to parts of the urogenital passages in
+      both sexes.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>genital</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>genital
+     adj : of or relating to the external sex organs; "genital herpes";
+           "venereal disease" [syn: {venereal}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

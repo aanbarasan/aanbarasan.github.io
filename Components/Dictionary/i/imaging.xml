@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>imaging</Word>
+  <Definitions>
+    <Definition>
+      <Word>imaging</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>imaging
+     
+        &lt;graphics&gt; The production of graphic {images}, either from a
+        video camera or from digitally generated data (see
+        {visualisation}), or the recording of such images on
+        microfilm, videotape or laser disk.
+     
+        See also {scanner}.
+     
+        (1997-07-20)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>imaging</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Image \Im"age\ ([i^]m"[asl]j; 48), v. t. [imp. &amp; p. p. {Imaged}
+   ([i^]m"[asl]jd; 48); p. pr. &amp; vb. n. {Imaging}.]
+   1. To represent or form an image of; as, the still lake
+      imaged the shore; the mirror imaged her figure. ``Shrines
+      of imaged saints.'' --J. Warton.
+      [1913 Webster]
+
+   2. To represent to the mental vision; to form a likeness of
+      by the fancy or recollection; to imagine.
+      [1913 Webster]
+
+            Condemn'd whole years in absence to deplore,
+            And image charms he must behold no more. --Pope.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>imaging</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>imaging
+     n 1: the ability to form mental images of things or events; "he
+          could still hear her in his imagination" [syn: {imagination},
+           {imagery}, {mental imagery}]
+     2: (medicine) obtaining pictures of the interior of the body
+        [syn: {tomography}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

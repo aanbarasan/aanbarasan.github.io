@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>edward</Word>
+  <Definitions>
+    <Definition>
+      <Word>edward</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Edward, NC
+  Zip code(s): 27821
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>edward</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Edward
+     n 1: third son of Elizabeth II (born in 1964) [syn: {Prince
+          Edward}, {Edward Antony Richard Louis}]
+     2: son of Edward III who defeated the French at Crecy and
+        Poitiers in the Hundred Years' War (1330-1376) [syn: {Black
+        Prince}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

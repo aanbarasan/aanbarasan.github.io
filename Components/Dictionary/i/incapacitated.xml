@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>incapacitated</Word>
+  <Definitions>
+    <Definition>
+      <Word>incapacitated</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Incapacitate \In`ca*pac"i*tate\, v. t. [imp. &amp; p. p.
+   {Incapacitated}; p. pr. &amp; vb. n. {Incapacitating}.] [Pref.
+   in- not + capacitate.]
+   [1913 Webster]
+   1. To deprive of capacity or natural power; to disable; to
+      render incapable or unfit; to disqualify; as, his age
+      incapacitated him for war.
+      [1913 Webster]
+
+   2. (Law) To deprive of legal or constitutional requisites, or
+      of ability or competency for the performance of certain
+      civil acts; to disqualify.
+      [1913 Webster]
+
+            It absolutely incapacitated them from holding rank,
+            office, function, or property.        --Milman.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>incapacitated</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>incapacitated
+     adj 1: lacking in or deprived of strength or power; "lying ill and
+            helpless"; "helpless with laughter" [syn: {helpless}]
+     2: incapacitated by injury or illness [syn: {disabled}, {handicapped}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

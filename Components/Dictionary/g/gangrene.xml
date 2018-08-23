@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>gangrene</Word>
+  <Definitions>
+    <Definition>
+      <Word>gangrene</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gangrene \Gan"grene\, n. [F. gangr[`e]ne, L. gangraena, fr. Gr.
+   ?, fr. ? to gnaw, eat; cf. Skr. gras, gar, to devour, and E.
+   voracious, also canker, n., in sense 3.] (Med.)
+   A term formerly restricted to mortification of the soft
+   tissues which has not advanced so far as to produce complete
+   loss of vitality; but now applied to mortification of the
+   soft parts in any stage.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gangrene</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gangrene \Gan"grene\, v. t. &amp; i. [imp. &amp; p. p. {Gangrened}; p.
+   pr. &amp; vb. n. {Gangrening}.] [Cf. F. gangr['e]ner.]
+   To produce gangrene in; to be affected with gangrene.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gangrene</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>gangrene
+     n 1: necrotic tissue; a mortified or gangrenous part or mass
+          [syn: {sphacelus}, {slough}]
+     2: the localized death of living cells (as from infection or
+        the interruption of blood supply) [syn: {necrosis}, {mortification},
+         {sphacelus}]
+     v : undergo necrosis; "the tissue around the wound necrosed"
+         [syn: {necrose}, {mortify}, {sphacelate}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

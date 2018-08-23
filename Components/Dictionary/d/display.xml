@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>display</Word>
+  <Definitions>
+    <Definition>
+      <Word>display</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>display
+     
+        1. &lt;hardware&gt; {monitor}.
+     
+        2. &lt;language&gt; A vector of pointers to {activation record}s.
+        The Nth element points to the activation record containing
+        variables declared at {lexical depth} N.  This allows faster
+        access to variables from outer {scope}s than the alternative
+        of linked activation records (but most variable accesses are
+        either local or global or occasionally to the immediately
+        enclosing scope).  Displays were used in some {ALGOL}
+        implementations.
+     
+        (1996-02-22)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>display</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Display \Dis*play"\, v. t. [imp. &amp; p. p. {Displayed}; p. pr. &amp;
+   vb. n. {Displaying}.] [OE. displaien, desplaien, OF.
+   despleier, desploier, F. d['e]ployer; pref. des- (L. dis-) +
+   pleier, ploier, plier, F. ployer, plier, to fold, bend, L.
+   plicare. See {Ply}, and cf. {Deploy}, {Splay}.]
+   1. To unfold; to spread wide; to expand; to stretch out; to
+      spread.
+      [1913 Webster]
+
+            The northern wind his wings did broad display.
+                                                  --Spenser.
+      [1913 Webster]
+
+   2. (Mil.) To extend the front of (a column), bringing it into
+      line. --Farrow.
+      [1913 Webster]
+
+   3. To spread before the view; to show; to exhibit to the
+      sight, or to the mind; to make manifest.
+      [1913 Webster]
+
+            His statement . . . displays very clearly the actual
+            condition of the army.                --Burke.
+      [1913 Webster]
+
+   4. To make an exhibition of; to set in view conspicuously or
+      ostentatiously; to exhibit for the sake of publicity; to
+      parade.
+      [1913 Webster]
+
+            Proudly displaying the insignia of their order.
+                                                  --Prescott.
+      [1913 Webster]
+
+   5. (Print.) To make conspicuous by large or prominent type.
+      [1913 Webster]
+
+   6. To discover; to descry. [Obs.]
+      [1913 Webster]
+
+            And from his seat took pleasure to display
+            The city so adorned with towers.      --Chapman.
+
+   7. (Computers) To output (results or data) in a visible
+      manner on the screen of a monitor, CRT, or other device.
+      [PJC]
+
+   Syn: To exhibit; show; manifest; spread out; parade; expand;
+        flaunt.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>display</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Display \Dis*play"\, v. i.
+   To make a display; to act as one making a show or
+   demonstration. --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>display</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Display \Dis*play"\, n.
+   1. An opening or unfolding; exhibition; manifestation.
+      [1913 Webster]
+
+            Having witnessed displays of his power and grace.
+                                                  --Trench.
+      [1913 Webster]
+
+   2. Ostentatious show; exhibition for effect; parade.
+      [1913 Webster]
+
+            He died, as erring man should die,
+            Without display, without parade.      --Byron.
+      [1913 Webster]
+
+   3. (Electronics) An electronic device on which the output
+      signal of another electronic device may be presented in a
+      visual form; -- also called {display device}. Typically
+      the display device it is the screen of a cathode-ray tube,
+      as in a computer monitor, but other forms of visual
+      display such as LED or liquid crystal devices are also
+      used. The printed output from a computer or other device
+      is not considered as a display.
+      [PJC]
+
+   4. (Computers) The output signal from a computer program,
+      displayed on a display device. The displayed signal may
+      consist of letters, numbers, or any graphical image.
+      [PJC]
+
+   5. (Biology) a pattern of behavior, such as showing a body
+      part to another animal, by which one animal conveys
+      information to another, as for mating or defense.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>display</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>display
+     n 1: something intended to communicate a particular impression;
+          "made a display of strength"; "a show of impatience"; "a
+          good show of looking interested" [syn: {show}]
+     2: something shown to the public; "the museum had many exhibits
+        of oriental art" [syn: {exhibit}, {showing}]
+     3: an electronic device that represents information in visual
+        form
+     4: a visual representation of something [syn: {presentation}]
+     5: behavior that makes your feelings public; "a display of
+        emotion"
+     6: exhibiting openly in public view; "a display of courage"
+     v 1: to show, make visible or apparent; "The Metropolitan Museum
+          is exhibiting Goya's works this month"; "Why don't you
+          show your nice legs and wear shorter skirts?"; "National
+          leaders will have to display the highest skills of
+          statesmanship" [syn: {expose}, {exhibit}]
+     2: make clear and visible; "The article revealed the policies
+        of the government" [syn: {reveal}, {show}]
+     3: attract attention by displaying some body part or posing; of
+        animals
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

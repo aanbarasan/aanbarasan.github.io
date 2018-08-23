@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>curt</Word>
+  <Definitions>
+    <Definition>
+      <Word>curt</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Curt \Curt\ (k[u^]rt), a. [L. curtus; cf. Skr. kart to cut. Cf.
+   {Curtail}.]
+   Characterized by excessive brevity; short; rudely concise;
+   as, curt limits; a curt answer.
+   [1913 Webster]
+
+         The curt, yet comprehensive reply.       --W. Irving.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>curt</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>curt
+     adj 1: marked by rude or peremptory shortness; "try to cultivate a
+            less brusque manner"; "a curt reply"; "the salesgirl
+            was very short with him" [syn: {brusque}, {brusk}, {short(p)}]
+     2: brief and to the point; effectively cut short; "a crisp
+        retort"; "a response so curt as to be almost rude"; "the
+        laconic reply; `yes'"; "short and terse and easy to
+        understand" [syn: {crisp}, {laconic}, {terse}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

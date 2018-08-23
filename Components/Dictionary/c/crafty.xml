@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>crafty</Word>
+  <Definitions>
+    <Definition>
+      <Word>crafty</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Crafty \Craft"y\ (kr?ft"?), a. [AS. cr[ae]ftig.]
+   1. Relating to, or characterized by, craft or skill;
+      dexterous. [Obs.] ``Crafty work.'' --Piers Plowman.
+      [1913 Webster]
+
+   2. Possessing dexterity; skilled; skillful.
+      [1913 Webster]
+
+            A noble crafty man of trees.          --Wyclif.
+      [1913 Webster]
+
+   3. Skillful at deceiving others; characterized by craft;
+      cunning; wily. ``A pair of crafty knaves.'' --Shak.
+      [1913 Webster]
+
+            With anxious care and crafty wiles.   --J. Baillie.
+
+   Syn: Skillful; dexterous; cunning; artful; wily; sly;
+        fraudulent; deceitful; subtle; shrewd. See {Cunning}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>crafty</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>crafty
+     adj : marked by skill in deception; "cunning men often pass for
+           wise"; "deep political machinations"; "a foxy scheme";
+           "a slick evasive answer"; "sly as a fox"; "tricky Dik";
+           "a wily old attorney" [syn: {cunning}, {dodgy}, {foxy},
+            {guileful}, {knavish}, {slick}, {sly}, {tricksy}, {tricky},
+            {wily}]
+     [also: {craftiest}, {craftier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

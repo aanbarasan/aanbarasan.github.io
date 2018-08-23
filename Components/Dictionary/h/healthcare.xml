@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>healthcare</Word>
+  <Definitions>
+    <Definition>
+      <Word>healthcare</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>health care
+     n 1: social insurance for the ill and injured
+     2: the preservation of mental and physical health by preventing
+        or treating illness through services offered by the health
+        profession [syn: {healthcare}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>healthcare</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>healthcare
+     n : the preservation of mental and physical health by preventing
+         or treating illness through services offered by the
+         health profession [syn: {health care}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

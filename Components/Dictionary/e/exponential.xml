@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>exponential</Word>
+  <Definitions>
+    <Definition>
+      <Word>exponential</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>exponential
+     
+        1. &lt;mathematics&gt; A function which raises some given constant
+        (the "base") to the power of its argument.  I.e.
+     
+        	f x = b^x
+     
+        If no base is specified, {e}, the base of {natural
+        logarthim}s, is assumed.
+     
+        2. &lt;complexity&gt; {exponential-time algorithm}.
+     
+        (1995-04-27)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>exponential</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Exponential \Ex`po*nen"tial\, a. [Cf. F. exponentiel.]
+   1. Pertaining to exponents; involving variable exponents; as,
+      an exponential expression; exponential calculus; an
+      exponential function.
+      [1913 Webster]
+
+   2. changing over time in an exponential manner, i. e.
+      increasing or decreasing by a fixed ratio for each unit of
+      time; as, exponential growth; exponential decay.
+      [PJC]
+
+   Note:
+
+   {Exponential growth} is characteristic of bacteria and other
+      living populations in circumstances where the conditions
+      of growth are favorable, and all required nutrients are
+      plentiful. For example, the bacterium {Escherichia coli}
+      in rich media may double in number every 20 minutes until
+      one of the nutrients becomes exhausted or waste products
+      begin to inhibit growth. Many fascinating thought
+      experiments are proposed on the theme of exponential
+      growth. One may calculate, for example how long it would
+      take the progeny of one {Escherichia coli} to equal the
+      mass of the known universe if it multiplied unimpeded at
+      such a rate. The answer, assuming the equivalent of
+      10^{80} hydrogen atoms in the universe, is less than three
+      days. Exponential increases in a quantity can be
+      surprising, and this principle is often used by banks to
+      make investment at a certain rate of interest seem to be
+      very profitable over time.
+
+   {Exponential decay} is exhibited by decay of radioactive
+      materials and some chemical reactions (first order
+      reactions), in which one-half of the initial quantity of
+      radioactive element (or chemical substance) is lost for
+      each lapse of a characteristic time called the
+      {half-life}.
+      [PJC]
+
+   {Exponential curve}, a curve whose nature is defined by means
+      of an exponential equation.
+
+   {Exponential equation}, an equation which contains an
+      exponential quantity, or in which the unknown quantity
+      enters as an exponent.
+
+   {Exponential quantity} (Math.), a quantity whose exponent is
+      unknown or variable, as a^{x}.
+
+   {Exponential series}, a series derived from the development
+      of exponential equations or quantities.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>exponential</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>exponential
+     adj : of or involving exponents; "exponential growth"
+     n : a function in which an independent variable appears as an
+         exponent [syn: {exponential function}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

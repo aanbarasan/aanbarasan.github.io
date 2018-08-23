@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fortunately</Word>
+  <Definitions>
+    <Definition>
+      <Word>fortunately</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fortunately \For"tu*nate*ly\, adv.
+   In a fortunate manner; luckily; successfully; happily.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fortunately</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fortunately
+     adv : by good fortune; "fortunately the weather was good" [syn: {fortuitously},
+            {luckily}, {as luck would have it}] [ant: {unfortunately},
+            {unfortunately}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

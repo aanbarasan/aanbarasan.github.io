@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>gazelle</Word>
+  <Definitions>
+    <Definition>
+      <Word>gazelle</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Gazelle, CA
+  Zip code(s): 96034
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gazelle</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Gazelle \Ga*zelle"\, n. [F. gazelle, OF. also, gazel; cf. Sp.
+   gacela, Pr. gazella, It. gazella; all fr. Ar. ghaz?l a wild
+   goat.] (Zo["o]l.)
+   One of several small, swift, elegantly formed species of
+   antelope, of the genus {Gazella}, esp. {G. dorcas}; -- called
+   also {algazel}, {corinne}, {korin}, and {kevel}. The gazelles
+   are celebrated for the luster and soft expression of their
+   eyes. [Written also {gazel}.]
+
+   Note: The common species of Northern Africa ({Gazella
+         dorcas}); the Arabian gazelle, or ariel ({G. Arabica});
+         the mohr of West Africa ({G. mohr}); the Indian ({G.
+         Bennetti}); the {ahu} or Persian ({G. subgutturosa});
+         and the springbok or tsebe ({G. euchore}) of South
+         Africa, are the best known.
+         [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gazelle</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>gazelle
+     n : small swift graceful antelope of Africa and Asia having
+         lustrous eyes
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

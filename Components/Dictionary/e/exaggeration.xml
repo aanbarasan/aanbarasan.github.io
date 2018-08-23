@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>exaggeration</Word>
+  <Definitions>
+    <Definition>
+      <Word>exaggeration</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Exaggeration \Ex*ag`ger*a"tion\, n. [L. exaggeratio : cf. F.
+   exag['e]ration.]
+   1. The act of heaping or piling up. [Obs.] ``Exaggeration of
+      sand.'' --Sir M. Hale.
+      [1913 Webster]
+
+   2. The act of exaggerating; the act of doing or representing
+      in an excessive manner; a going beyond the bounds of truth
+      reason, or justice; a hyperbolical representation;
+      hyperbole; overstatement.
+      [1913 Webster]
+
+            No need of an exaggeration of what they saw. --I.
+                                                  Taylor.
+      [1913 Webster]
+
+   3. (Paint.) A representation of things beyond natural life,
+      in expression, beauty, power, vigor.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>exaggeration</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>exaggeration
+     n 1: extravagant exaggeration [syn: {hyperbole}]
+     2: the act of making something more noticeable than usual; "the
+        dance involved a deliberate exaggeration of his
+        awkwardness"
+     3: making to seem more important than it really is [syn: {overstatement},
+         {magnification}] [ant: {understatement}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

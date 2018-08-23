@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>humiliation</Word>
+  <Definitions>
+    <Definition>
+      <Word>humiliation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Humiliation \Hu*mil`i*a"tion\, n. [L. humiliatio: cf. F.
+   humiliation.]
+   1. The act of humiliating or humbling; abasement of pride;
+      mortification. --Bp. Hopkins.
+      [1913 Webster]
+
+   2. The state of being humiliated, humbled, or reduced to
+      lowliness or submission.
+      [1913 Webster]
+
+            The former was a humiliation of Deity; the latter a
+            humiliation of manhood.               --Hooker.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>humiliation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>humiliation
+     n 1: state of disgrace or loss of self-respect
+     2: strong feelings of embarrassment [syn: {chagrin}, {mortification}]
+     3: an instance in which you are caused to lose your prestige or
+        self-respect; "he had to undergo one humiliation after
+        another" [syn: {mortification}]
+     4: depriving one of self-esteem [syn: {abasement}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

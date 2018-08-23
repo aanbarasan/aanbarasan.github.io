@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cuticle</Word>
+  <Definitions>
+    <Definition>
+      <Word>cuticle</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cuticle \Cu"ti*cle\ (k[=u]"t[i^]*k'l), n. [L. cuticula, dim. of
+   cutis skin; akin to E. hide skin of an animal.]
+   1. (Anat.) The scarfskin or epidermis. See {Skin}.
+      [1913 Webster]
+
+   2. (Bot.) The outermost skin or pellicle of a plant, found
+      especially in leaves and young stems.
+      [1913 Webster]
+
+   3. A thin skin formed on the surface of a liquid.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cuticle</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cuticle
+     n 1: the outer layer of the skin covering the exterior body
+          surface of vertebrates [syn: {epidermis}]
+     2: hard outer covering or case of certain organisms such as
+        arthropods and turtles [syn: {carapace}, {shell}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

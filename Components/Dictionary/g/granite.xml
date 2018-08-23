@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>granite</Word>
+  <Definitions>
+    <Definition>
+      <Word>granite</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Granite, CO
+  Zip code(s): 81228
+Granite, MD
+  Zip code(s): 21163
+Granite, OK (town, FIPS 30950)
+  Location: 34.96294 N, 99.37830 W
+  Population (1990): 1844 (587 housing units)
+  Area: 3.9 sq km (land), 0.0 sq km (water)
+  Zip code(s): 73547
+Granite, OR (city, FIPS 30500)
+  Location: 44.81056 N, 118.41941 W
+  Population (1990): 8 (48 housing units)
+  Area: 1.0 sq km (land), 0.0 sq km (water)
+Granite, UT (CDP, FIPS 30900)
+  Location: 40.56743 N, 111.80560 W
+  Population (1990): 3300 (903 housing units)
+  Area: 10.0 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>granite</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Granite \Gran"ite\ (gr[a^]n"[i^]t), n. [It. granito granite,
+   adj., grainy, p. p. of granire to make grainy, fr. L. granum
+   grain; cf. F. granit. See {Grain}.] (Geol.)
+   A crystalline, granular rock, consisting of quartz, feldspar,
+   and mica, and usually of a whitish, grayish, or flesh-red
+   color. It differs from gneiss in not having the mica in
+   planes, and therefore in being destitute of a schistose
+   structure.
+   [1913 Webster]
+
+   Note: Varieties containing hornblende are common. See also
+         the {Note} under {Mica}.
+         [1913 Webster]
+
+   {Gneissoid granite}, granite in which the mica has traces of
+      a regular arrangement.
+
+   {Graphic granite}, granite consisting of quartz and feldspar
+      without mica, and having the quartz crystals so arranged
+      in the transverse section like oriental characters.
+
+   {Porphyritic granite}, granite containing feldspar in
+      distinct crystals.
+
+   {Hornblende granite}, or
+
+   {Syenitic granite}, granite containing hornblende as well as
+      mica, or, according to some authorities hornblende
+      replacing the mica.
+
+   {Granite ware}.
+   (a) A kind of stoneware.
+   (b) A Kind of ironware, coated with an enamel resembling
+       granite.
+       [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>granite</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Syenite \Sy"e*nite\, n. [L. Syenites (sc. lapis), from Syene,
+   Gr. ?.] (Min.)
+   (a) Orig., a rock composed of quartz, hornblende, and
+       feldspar, anciently quarried at Syene, in Upper Egypt,
+       and now called {granite}.
+   (b) A granular, crystalline, ingeous rock composed of
+       orthoclase and hornblende, the latter often replaced or
+       accompanied by pyroxene or mica. Syenite sometimes
+       contains nephelite (el[ae]olite) or leucite, and is then
+       called {nephelite (el[ae]olite) syenite} or {leucite
+       syenite}.
+       [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>granite</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>granite
+     n 1: plutonic igneous rock having visibly crystalline texture;
+          generally composed of feldspar and mica and quartz
+     2: something having the quality of granite (unyielding
+        firmness); "a man of granite"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

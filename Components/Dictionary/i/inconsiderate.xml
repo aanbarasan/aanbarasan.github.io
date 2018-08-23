@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>inconsiderate</Word>
+  <Definitions>
+    <Definition>
+      <Word>inconsiderate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Inconsiderate \In`con*sid"er*ate\, a. [L. inconsideratus. See
+   {In-} not, and {Considerate}.]
+   [1913 Webster]
+   1. Not considerate; not attentive to safety or to propriety;
+      not regarding the rights or feelings of others; hasty;
+      careless; thoughtless; heedless; as, the young are
+      generally inconsiderate; inconsiderate conduct.
+      [1913 Webster]
+
+            It is a very unhappy token of our corruption, that
+            there should be any so inconsiderate among us as to
+            sacrifice morality to politics.       --Addison.
+      [1913 Webster]
+
+   2. Inconsiderable. [Obs.] --E. Terry.
+
+   Syn: Thoughtless; inattentive; inadvertent; heedless;
+        negligent; improvident; careless; imprudent; indiscreet;
+        incautious; injudicious; rash; hasty.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>inconsiderate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>inconsiderate
+     adj 1: lacking regard for the rights or feelings of others;
+            "shockingly inconsiderate behavior" [ant: {considerate}]
+     2: without proper consideration or reflection; "slovenly
+        inconsiderate reasoning"; "unconsidered words"; "prejudice
+        is the holding of unconsidered opinions" [syn: {unconsidered}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>criteria</Word>
+  <Definitions>
+    <Definition>
+      <Word>criteria</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Criterion \Cri*te"ri*on\ (kr?-t?"r?-?n), n.; pl. {Criteria}
+   (-?), sometimes {Criterions} (-?nz). [Gr. ????? a means for
+   judging, fr. ???? decider, judge, fr. ????? to separate. See
+   {Certain}.]
+   A standard of judging; any approved or established rule or
+   test, by which facts, principles opinions, and conduct are
+   tried in forming a correct judgment respecting them.
+   [1913 Webster]
+
+         Of the diseases of the mind there is no criterion.
+                                                  --Donne.
+   [1913 Webster]
+
+         Inferences founded on such enduring criteria. --Sir G.
+                                                  C. Lewis.
+
+   Syn: Standard; measure; rule.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>criteria</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>criteria
+     See {criterion}
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>criteria</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>criterion
+     n 1: a basis for comparison; a reference point against which
+          other things can be evaluated; "they set the measure for
+          all subsequent work" [syn: {standard}, {measure}, {touchstone}]
+     2: the ideal in terms of which something can be judged; "they
+        live by the standards of their community" [syn: {standard}]
+     [also: {criteria} (pl)]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

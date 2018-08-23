@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dopamine</Word>
+  <Definitions>
+    <Definition>
+      <Word>dopamine</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dopamine
+     n : a monoamine neurotransmitter found in the brain and
+         essential for the normal functioning of the central
+         nervous system; as a drug (trade names Dopastat and
+         Intropin) it is used to treat shock and hypotension [syn:
+          {Dopastat}, {Intropin}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

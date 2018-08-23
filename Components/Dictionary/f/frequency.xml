@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>frequency</Word>
+  <Definitions>
+    <Definition>
+      <Word>frequency</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Frequency \Fre"quen*cy\, n.; pl. {Frequencies}. [L. frequentia
+   numerous attendance, multitude: cf. F. fr['e]quence. See
+   {Frequent}.]
+   1. The condition of returning frequently; occurrence often
+      repeated; common occurence; as, the frequency of crimes;
+      the frequency of miracles.
+      [1913 Webster]
+
+            The reasons that moved her to remove were, because
+            Rome was a place of riot and luxury, her soul being
+            almost stifled with, the frequencies of ladies'
+            visits.                               --Fuller.
+      [1913 Webster]
+
+   2. A crowd; a throng. [Obs.] --B. Jonson.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>frequency</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>frequency
+     n 1: the number of occurrences within a given time period
+          (usually 1 second); "the frequency of modulation was 40
+          cycles per second" [syn: {frequence}, {oftenness}]
+     2: the ratio of the number of observations in a statistical
+        category to the total number of observations [syn: {relative
+        frequency}]
+     3: the number of observations in a given statistical category
+        [syn: {absolute frequency}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dashboard</Word>
+  <Definitions>
+    <Definition>
+      <Word>dashboard</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dashboard \Dash"board`\ (d[a^]sh"b[=o]rd`), n.
+   1. A board placed on the fore part of a carriage, sleigh, or
+      other vehicle, to intercept water, mud, or snow, thrown up
+      by the heels of the horses; -- in England commonly called
+      {splashboard}.
+      [1913 Webster]
+
+   2. (Naut.)
+      (a) The float of a paddle wheel.
+      (b) A screen at the bow af a steam launch to keep off the
+          spray; -- called also {sprayboard}.
+          [1913 Webster]
+
+   3. an instrument panel beneath the front window of a motor
+      vehicle (such as an automobile or truck), containing
+      indicating gauges and dials, such as the speedometer and
+      fuel gauges, and sometimes certain control knobs or other
+      devices.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dashboard</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dashboard
+     n 1: protective covering consisting of a panel to protect people
+          from the splashing water or mud etc. [syn: {splashboard},
+           {splasher}]
+     2: instrument panel on an automobile or airplane containing
+        dials and controls
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

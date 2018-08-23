@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>enlightened</Word>
+  <Definitions>
+    <Definition>
+      <Word>enlightened</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>enlightened
+     adj 1: highly educated; having extensive information or
+            understanding; "an enlightened public"; "knowing
+            instructors"; "a knowledgeable critic"; "a
+            knowledgeable audience" [syn: {knowing}, {knowledgeable},
+             {learned}, {lettered}, {well-educated}, {well-read}]
+     2: having knowledge and spiritual insight; [ant: {unenlightened}]
+     3: freed from illusion [syn: {disillusioned}]
+     4: having or based on relevant experience; "an educated guess";
+        "an enlightened electorate" [syn: {educated}]
+     n : people who have been introduced to the mysteries of some
+         field or activity; "it is very familiar to the initiate"
+         [syn: {initiate}] [ant: {uninitiate}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

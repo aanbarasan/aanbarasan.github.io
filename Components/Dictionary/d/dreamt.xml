@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dreamt</Word>
+  <Definitions>
+    <Definition>
+      <Word>dreamt</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dream \Dream\, v. i. [imp. &amp; p. p. {Dreamed} (dr[=e]md) or
+   {Dreamt} (dr[e^]mt); p. pr. &amp; vb. n. {Dreaming}.] [Cf. AS.
+   dr[=e]man, dr[=y]man, to rejoice. See {Dream}, n.]
+   1. To have ideas or images in the mind while in the state of
+      sleep; to experience sleeping visions; -- often with of;
+      as, to dream of a battle, or of an absent friend.
+      [1913 Webster]
+
+   2. To let the mind run on in idle revery or vagary; to
+      anticipate vaguely as a coming and happy reality; to have
+      a visionary notion or idea; to imagine.
+      [1913 Webster]
+
+            Here may we sit and dream
+            Over the heavenly theme.              --Keble.
+      [1913 Webster]
+
+            They dream on in a constant course of reading, but
+            not digesting.                        --Locke.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dreamt</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dream
+     n 1: a series of mental images and emotions occurring during
+          sleep; "I had a dream about you last night" [syn: {dreaming}]
+     2: a cherished desire; "his ambition is to own his own
+        business" [syn: {ambition}, {aspiration}]
+     3: imaginative thoughts indulged in while awake; "he lives in a
+        dream that has nothing to do with reality" [syn: {dreaming}]
+     4: a fantastic but vain hope (from fantasies induced by the
+        opium pipe); "I have this pipe dream about being emperor
+        of the universe" [syn: {pipe dream}]
+     5: a state of mind characterized by abstraction and release
+        from reality; "he went about his work as if in a dream"
+     6: someone of something wonderful; "this dessert is a dream"
+     v 1: have a daydream; indulge in a fantasy [syn: {daydream}, {woolgather},
+           {stargaze}]
+     2: experience while sleeping; "She claims to never dream"; "He
+        dreamt a strange scene"
+     [also: {dreamt}]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dreamt</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dreamt
+     See {dream}
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>europium</Word>
+  <Definitions>
+    <Definition>
+      <Word>europium</Word>
+      <Dictionary>
+        <Id>elements</Id>
+        <Name>Elements database 20001107</Name>
+      </Dictionary>
+      <WordDefinition>europium
+Symbol: Eu
+Atomic number: 63
+Atomic weight: 151.25
+Soft silvery metallic element belonging to the lanthanoids. Eu-151 and
+Eu-153 are the only two stable isotopes, both of which are {neutron}
+absorbers. Discovered in 1889 by Sir William Crookes.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>europium</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Europium \Eu*ro"pi*um\, n. [NL.; Europe + -ium, as in
+   aluminium.] (Chem.)
+   A metallic element of the rare-earth group (Lanthanide
+   series), discovered spectroscopically by Demarcay in 1896.
+   Symbol, Eu; atomic number 63; at. wt., 151.965 (C=12.011);
+   valence = +2 or +3.
+   [Webster 1913 Suppl. +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>europium</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>europium
+     n : a bivalent and trivalent metallic element of the rare earth
+         group [syn: {Eu}, {atomic number 63}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

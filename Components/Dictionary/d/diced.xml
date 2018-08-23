@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>diced</Word>
+  <Definitions>
+    <Definition>
+      <Word>diced</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dice \Dice\ (d[imac]s), v. i. [imp. &amp; p. p. {Diced} (d[imac]st);
+   p. pr. &amp; vb. n. {Dicing}.]
+   To play games with dice.
+   [1913 Webster]
+
+         I . . . diced not above seven times a week. --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>diced</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dice \Dice\ (d[imac]s), v. t. [imp. &amp; p. p. {Diced} (d[imac]st);
+   p. pr. &amp; vb. n. {Dicing}.]
+   1. (Cooking) To cut into small cubes; as, to slice and dice
+      carrots.
+      [PJC]
+
+   2. To ornament with squares, diamonds, or cubes.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cortisol</Word>
+  <Definitions>
+    <Definition>
+      <Word>cortisol</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>cortisol \cortisol\ n.
+   a steroid hormone ({C21H30O5}) active in carbohydrate and
+   protein metabolism; -- called also {hydrocortisone}. It is
+   used in medicine as an antiinflammatory agent
+
+   Syn: hydrocortisone.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cortisol</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cortisol
+     n : an adrenal-cortex hormone (trade names Hydrocortone or
+         Cortef) that is active in carbohydrate and protein
+         metabolism [syn: {hydrocortisone}, {Hydrocortone}, {Cortef}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

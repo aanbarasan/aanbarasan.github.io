@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>idiom</Word>
+  <Definitions>
+    <Definition>
+      <Word>idiom</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Idiom \Id"i*om\ ([i^]d"[i^]*[u^]m), n. [F. idiome, L. idioma,
+   fr. Gr. 'idi`wma, fr. 'idioy^n to make a person's own, to
+   make proper or peculiar; fr. 'i`dios one's own, proper,
+   peculiar; prob. akin to the reflexive pronoun o"y^, o'i^,
+   'e`, and to "eo`s, 'o`s, one's own, L. suus, and to E. so.]
+   1. The syntactical or structural form peculiar to any
+      language; the genius or cast of a language.
+      [1913 Webster]
+
+            Idiom may be employed loosely and figuratively as a
+            synonym of language or dialect, but in its proper
+            sense it signifies the totality of the general rules
+            of construction which characterize the syntax of a
+            particular language and distinguish it from other
+            tongues.                              --G. P. Marsh.
+      [1913 Webster]
+
+            By idiom is meant the use of words which is peculiar
+            to a particular language.             --J. H.
+                                                  Newman.
+      [1913 Webster]
+
+            He followed their language [the Latin], but did not
+            comply with the idiom of ours.        --Dryden.
+      [1913 Webster]
+
+   2. An expression conforming or appropriate to the peculiar
+      structural form of a language.
+      [1913 Webster]
+
+            Some that with care true eloquence shall teach,
+            And to just idioms fix our doubtful speech. --Prior.
+      [1913 Webster]
+
+   3. A combination of words having a meaning peculiar to itself
+      and not predictable as a combination of the meanings of
+      the individual words, but sanctioned by usage; as, an
+      idiomatic expression; less commonly, a single word used in
+      a peculiar sense.
+      [1913 Webster +PJC]
+
+            It is not by means of rules that such idioms as the
+            following are made current: ``I can make nothing of
+            it.'' ``He treats his subject home.'' --Dryden. ``It
+            is that within us that makes for righteousness.''
+            --M. Arnold.                          --Gostwick
+                                                  (Eng. Gram.)
+      [1913 Webster]
+
+            Sometimes we identify the words with the object --
+            though by courtesy of idiom rather than in strict
+            propriety of language.                --Coleridge.
+      [1913 Webster]
+
+   4. The phrase forms peculiar to a particular author; as,
+      written in his own idiom.
+      [1913 Webster]
+
+            Every good writer has much idiom.     --Landor.
+      [1913 Webster]
+
+   5. Dialect; a variant form of a language.
+      [1913 Webster]
+
+   Syn: Dialect.
+
+   Usage: {Idiom}, {Dialect}. The idioms of a language belong to
+          its very structure; its dialects are varieties of
+          expression ingrafted upon it in different localities
+          or by different professions. Each county of England
+          has some peculiarities of dialect, and so have most of
+          the professions, while the great idioms of the
+          language are everywhere the same. See {Language}.
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>idiom</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>idiom
+     n 1: a manner of speaking that is natural to native speakers of a
+          language [syn: {parlance}]
+     2: the usage or vocabulary that is characteristic of a specific
+        group of people; "the immigrants spoke an odd dialect of
+        English"; "he has a strong German accent" [syn: {dialect},
+         {accent}]
+     3: the style of a particular artist or school or movement; "an
+        imaginative orchestral idiom" [syn: {artistic style}]
+     4: an expression whose meanings cannot be inferred from the
+        meanings of the words that make it up [syn: {idiomatic
+        expression}, {phrasal idiom}, {set phrase}, {phrase}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

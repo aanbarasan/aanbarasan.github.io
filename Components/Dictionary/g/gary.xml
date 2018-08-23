@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>gary</Word>
+  <Definitions>
+    <Definition>
+      <Word>gary</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Gary, IN (city, FIPS 27000)
+  Location: 41.59575 N, 87.34415 W
+  Population (1990): 116646 (47082 housing units)
+  Area: 130.1 sq km (land), 18.2 sq km (water)
+  Zip code(s): 46402, 46403, 46404, 46406, 46407, 46408, 46409
+Gary, MN (city, FIPS 23246)
+  Location: 47.37283 N, 96.26506 W
+  Population (1990): 200 (93 housing units)
+  Area: 0.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 56545
+Gary, SD (city, FIPS 23860)
+  Location: 44.79519 N, 96.45797 W
+  Population (1990): 274 (163 housing units)
+  Area: 1.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 57237
+Gary, TX
+  Zip code(s): 75643
+Gary, WV (city, FIPS 30196)
+  Location: 37.36187 N, 81.53813 W
+  Population (1990): 1355 (609 housing units)
+  Area: 2.3 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gary</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Gary
+     n : a city in northwest Indiana on Lake Michigan; steel
+         production
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

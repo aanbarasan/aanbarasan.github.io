@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fiber</Word>
+  <Definitions>
+    <Definition>
+      <Word>fiber</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fiber \Fi"ber\, Fibre \Fi"bre\,, n. [F. fibre, L. fibra.]
+   1. One of the delicate, threadlike portions of which the
+      tissues of plants and animals are in part constituted; as,
+      the fiber of flax or of muscle.
+      [1913 Webster]
+
+   2. Any fine, slender thread, or threadlike substance; as, a
+      fiber of spun glass; especially, one of the slender
+      rootlets of a plant. [WordNet sense 1]
+      [1913 Webster]
+
+   3. the inherent complex of attributes that determine a
+      person's moral and ethical actions and reactions; sinew;
+      strength; toughness; as, a man of real fiber. [WordNet
+      sense 2]
+
+   Syn: character, fibre.
+        [1913 Webster + WordNet 1.5]
+
+              Yet had no fibers in him, nor no force. --Chapman.
+        [1913 Webster]
+
+   4. A general name for the raw material, such as cotton, flax,
+      hemp, etc., used in textile manufactures.
+      [1913 Webster]
+
+   5. (Nutrition) that portion of food composed of carbohydrates
+      which are completely or partly indigestible, such as
+      cellulose or pectin; it may be in an insoluble or a
+      soluble form. It provides bulk to the solid waste and
+      stimulates peristalsis in the intestine. It is found
+      especially in grains, fruits, and vegetables. There is
+      some medical evidence which indicates that diets high in
+      fiber reduce the risk of colon cancer and reduce
+      cholesterol levels in the blood. It is also called
+      {dietary fiber}, {roughage}, or {bulk}.
+      [PJC]
+
+   6. a leatherlike material made by compressing layers of paper
+      or cloth. [WordNet sense 3]
+
+   Syn: fibre, vulcanized fiber.
+        [WordNet 1.5]
+
+   {Fiber gun}, a kind of steam gun for converting, wood, straw,
+      etc., into fiber. The material is shut up in the gun with
+      steam, air, or gas at a very high pressure which is
+      afterward relieved suddenly by letting a lid at the muzzle
+      fly open, when the rapid expansion separates the fibers.
+      
+
+   {Fiber plants} (Bot.), plants capable of yielding fiber
+      useful in the arts, as hemp, flax, ramie, agave, etc.
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fiber</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fiber
+     n 1: a slender and greatly elongated solid substance [syn: {fibre}]
+     2: the inherent complex of attributes that determine a persons
+        moral and ethical actions and reactions; "education has
+        for its object the formation of character"- Herbert
+        Spencer [syn: {character}, {fibre}]
+     3: a leatherlike material made by compressing layers of paper
+        or cloth [syn: {fibre}, {vulcanized fiber}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

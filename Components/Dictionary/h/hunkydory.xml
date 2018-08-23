@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hunkydory</Word>
+  <Definitions>
+    <Definition>
+      <Word>hunkydory</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hunky-dory
+     adj : being satisfactory or in satisfactory condition; "an
+           all-right movie"; "the passengers were shaken up but
+           are all right"; "is everything all right?";
+           "everything's fine"; "things are okay"; "dinner and the
+           movies had been fine"; "another minute I'd have been
+           fine" [syn: {all right}, {fine}, {ok}, {o.k.}, {okay}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

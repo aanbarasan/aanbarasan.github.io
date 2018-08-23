@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>induced</Word>
+  <Definitions>
+    <Definition>
+      <Word>induced</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Induce \In*duce"\, v. t. [imp. &amp; p. p. {Induced}; p. pr. &amp; vb.
+   n. {Inducing}.] [L. inducere, inductum; pref. in- in + ducere
+   to lead. See {Duke}, and cf. {Induct}.]
+   [1913 Webster]
+   1. To lead in; to introduce. [Obs.]
+      [1913 Webster]
+
+            The poet may be seen inducing his personages in the
+            first Iliad.                          --Pope.
+      [1913 Webster]
+
+   2. To draw on; to overspread. [A Latinism] --Cowper.
+      [1913 Webster]
+
+   3. To lead on; to influence; to prevail on; to incite; to
+      persuade; to move by persuasion or influence. --Shak.
+      [1913 Webster]
+
+            He is not obliged by your offer to do it, . . .
+            though he may be induced, persuaded, prevailed upon,
+            tempted.                              --Paley.
+      [1913 Webster]
+
+            Let not the covetous desire of growing rich induce
+            you to ruin your reputation.          --Dryden.
+      [1913 Webster]
+
+   4. To bring on; to effect; to cause; as, a fever induced by
+      fatigue or exposure; anaphylactic shock induced by
+      exposure to a allergen.
+      [1913 Webster +PJC]
+
+            Sour things induces a contraction in the nerves.
+                                                  --Bacon.
+      [1913 Webster]
+
+   5. (Physics) To produce, or cause, by proximity without
+      contact or transmission, as a particular electric or
+      magnetic condition in a body, by the approach of another
+      body in an opposite electric or magnetic state.
+      [1913 Webster]
+
+   6. (Logic) To generalize or conclude as an inference from all
+      the particulars; -- the opposite of {deduce}.
+
+   7. (Genetics, Biochemistry) To cause the expression of (a
+      gene or gene product) by affecting a transcription control
+      element on the genome, either by inhibiting a negative
+      control or by activating a positive control; to derepress;
+      as, lactose induces the production of beta-galactosidase
+      in {Eschericia coli}..
+      [PJC]
+
+   Syn: To move; instigate; urge; impel; incite; press;
+        influence; actuate.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>induced</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>induced \induced\ adj.
+   brought about or caused; not spontaneous; as, a case of
+   steroid-induced weakness. Contrasted to {spontaneous}.
+   [Narrower terms: {elicited, evoked ]
+   [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>induced</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>induced
+     adj : brought about or caused; not spontaneous; "a case of
+           steroid-induced weakness" [ant: {spontaneous}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

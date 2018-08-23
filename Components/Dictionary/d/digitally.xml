@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>digitally</Word>
+  <Definitions>
+    <Definition>
+      <Word>digitally</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>digitally
+     adv 1: by means of the fingers; "the exam was carried out
+            digitally"
+     2: in terms of integers; "the time was digitally displayed"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

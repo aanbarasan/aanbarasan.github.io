@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hayden</Word>
+  <Definitions>
+    <Definition>
+      <Word>hayden</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Hayden, AL (town, FIPS 33640)
+  Location: 33.89533 N, 86.75436 W
+  Population (1990): 385 (146 housing units)
+  Area: 2.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 35079
+Hayden, AZ (town, FIPS 32020)
+  Location: 32.99988 N, 110.78096 W
+  Population (1990): 909 (370 housing units)
+  Area: 3.3 sq km (land), 0.0 sq km (water)
+Hayden, CO (town, FIPS 35070)
+  Location: 40.48809 N, 107.26032 W
+  Population (1990): 1444 (583 housing units)
+  Area: 3.7 sq km (land), 0.0 sq km (water)
+  Zip code(s): 81639
+Hayden, ID (city, FIPS 36370)
+  Location: 47.76020 N, 116.78853 W
+  Population (1990): 3744 (1556 housing units)
+  Area: 10.2 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

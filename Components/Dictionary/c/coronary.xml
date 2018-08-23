@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>coronary</Word>
+  <Definitions>
+    <Definition>
+      <Word>coronary</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Coronary \Cor"o*na*ry\ (k?r"?-n?-r?), a. [L. coronarius: cf. F.
+   coronaire.]
+   1. Of or pertaining to a crown; forming, or adapted to form,
+      a crown or garland. ``Coronary thorns.'' --Bp. Pearson.
+      [1913 Webster]
+
+            The catalogue of coronary plants is not large in
+            Theophrastus.                         --Sir T.
+                                                  Browne.
+      [1913 Webster]
+
+   2. (Anat.) Resembling, or situated like, a crown or circlet;
+      as, the coronary arteries and veins of the heart.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>coronary</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Coronary \Cor"o*na*ry\, n.
+   1. A small bone in the foot of a horse.
+      [Webster 1913 Suppl.]
+
+   2. Informal shortening of {coronary thrombosis}, also used
+      informally to mean {heart attack}.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>coronary</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>coronary
+     adj : surrounding like a crown (especially of the blood vessels
+           surrounding the heart); "coronary arteries"
+     n : obstruction of blood flow in a coronary artery by a blood
+         clot (thrombus) [syn: {coronary thrombosis}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

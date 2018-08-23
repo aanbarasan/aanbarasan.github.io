@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>disenchanted</Word>
+  <Definitions>
+    <Definition>
+      <Word>disenchanted</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Disenchant \Dis`en*chant"\, v. t. [imp. &amp; p. p. {Disenchanted};
+   p. pr. &amp; vb. n. {Disenchanting}.] [Pref. dis- + enchant: cf.
+   F. d['e]senchanter.]
+   1. To free from enchantment; to deliver from the power of
+      charms or spells.
+      [1913 Webster]
+
+            Haste to thy work; a noble stroke or two
+            Ends all the charms, and disenchants the grove.
+                                                  --Dryden.
+      [1913 Webster]
+
+   2. to free (a person) from fascination or delusion; to
+      destroy the false hopes or overoptimistic expectations of
+      (a person); to disillusion; -- used with people or events
+      as the agent (subject); as, the candidate was disenchanted
+      by the low turnout at the rally.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>disenchanted</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>disenchanted
+     adj : freed from enchantment [ant: {enchanted}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

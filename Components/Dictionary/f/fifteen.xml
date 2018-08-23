@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fifteen</Word>
+  <Definitions>
+    <Definition>
+      <Word>fifteen</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fifteen \Fif"teen`\, a. [OE. fiftene, AS. f[=i]ft[=y]ne,
+   f[=i]ft[=e]ne. See {Five}, and {Ten}, and cf. {Fifty}.]
+   Five and ten; one more than fourteen.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fifteen</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fifteen \Fif"teen`\, n.
+   1. The sum of five and ten; fifteen units or objects.
+      [1913 Webster]
+
+   2. A symbol representing fifteen units, as 15, or xv.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fifteen</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fifteen
+     adj : being one more than fourteen [syn: {15}, {xv}]
+     n : the cardinal number that is the sum of fourteen and one
+         [syn: {15}, {XV}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

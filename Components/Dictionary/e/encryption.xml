@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>encryption</Word>
+  <Definitions>
+    <Definition>
+      <Word>encryption</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>encryption
+     
+        &lt;algorithm, cryptography&gt; Any procedure used in {cryptography}
+        to convert {plaintext} into {ciphertext} (encrypted message)
+        in order to prevent any but the intended recipient from
+        reading that data.
+     
+        Schematically, there are two classes of encryption primitives:
+        {public-key cryptography} and {private-key cryptography}; they
+        are generally used complementarily.
+        Public-key encryption algorithms include {RSA};
+        private-key algorithms include the obsolescent {Data Encryption
+        Standard}, the {Advanced Encryption Standard}, as well as
+        {RC4}.
+     
+        The {Unix} command {crypt} performs a weak form of encryption.
+        Stronger encryption programs include {Pretty Good Privacy} and
+        the {GNU Privacy Guard}.
+     
+        Other closely related aspects of {cryptograph} include
+        {message digests}.
+     
+        (2003-04-12)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>encryption</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>encryption \encryption\ n.
+   the process of converting messages in ordinary language, or
+   other information into a secret coded form that cannot be
+   interpreted without knowing the secret method for
+   interpretation, called the key.
+
+   Note: Encryption is used commonly to allow messages to be
+         transmitted between parties at a distance without
+         permitting others to read and understand the message.
+         It is also used to make data more secure from possible
+         discovery and uninterpretable by unauthorized people
+         accessing the data. In order to read an encrypted
+         message, a party normally requires knowledge of both
+         the method of encryption and the secret key, which may
+         be a single word or more complex sequence of
+         characters. Until recently, transmission of such secret
+         messages required that the key be transmitted secretly
+         by some seecure and reliable method to the party
+         receiving the message. More recently, a mathematical
+         method was discovered to allow a party to publish an
+         encoding key (the public key) which allows anyone to
+         encode a message, but the message thus encoded can only
+         be decoded by the person possessing a corresponding
+         key, called the private key. This two-key system is
+         called the {public-key encryption} method.
+
+   Syn: encoding, coding, enciphering, ciphering, cyphering,
+        writing in code.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>encryption</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>encryption
+     n : the activity of converting from plain text into code [syn: {encoding}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

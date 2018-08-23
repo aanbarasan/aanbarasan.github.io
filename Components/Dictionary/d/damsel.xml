@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>damsel</Word>
+  <Definitions>
+    <Definition>
+      <Word>damsel</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Damsel \Dam"sel\ (d[a^]m"z[e^]l), n. [OE. damosel, damesel,
+   damisel, damsel, fr. OF. damoisele, damisele, gentlewoman, F.
+   demoiselle young lady; cf. OF. damoisel young nobleman, F.
+   damoiseau; fr. LL. domicella, dominicella, fem., domicellus,
+   dominicellus, masc., dim. fr. L. domina, dominus. See {Dame},
+   and cf. {Demoiselle}, {Doncella}.]
+   1. A young person, either male or female, of noble or gentle
+      extraction; as, Damsel Pepin; Damsel Richard, Prince of
+      Wales. [Obs.]
+      [1913 Webster]
+
+   2. A young unmarried woman; a girl; a maiden.
+      [1913 Webster]
+
+            With her train of damsels she was gone,
+            In shady walks the scorching heat to shun. --Dryden.
+      [1913 Webster]
+
+            Sometimes a troop of damsels glad, . . .
+            Goes by to towered Camelot.           --Tennyson.
+      [1913 Webster]
+
+   3. (Milling) An attachment to a millstone spindle for shaking
+      the hopper.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>damsel</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>damsel
+     n : a young unmarried woman [syn: {demoiselle}, {damoiselle}, {damosel},
+          {damozel}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

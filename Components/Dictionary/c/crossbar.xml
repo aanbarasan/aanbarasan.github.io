@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>crossbar</Word>
+  <Definitions>
+    <Definition>
+      <Word>crossbar</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Crossbar \Cross"bar`\ (-b[aum]r`), n.
+   A transverse bar or piece, as a bar across a door, or as the
+   iron bar or stock which passes through the shank of an anchor
+   to insure its turning fluke down. --Russell.
+   [1913 Webster]
+
+   {Crossbar shot}, a projectile which folds into a sphere for
+      loading, but on leaving the gun expands to a cross with a
+      quarter ball at the end of each arm; -- used in naval
+      actions for cutting the enemy's rigging.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>crossbar</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>crossbar
+     n 1: a horizontal bar that goes across something
+     2: game equipment consisting of a horizontal bar to be jumped
+        or vaulted over
+     3: long thin horizontal crosspiece between two vertical posts
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

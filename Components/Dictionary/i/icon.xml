@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>icon</Word>
+  <Definitions>
+    <Definition>
+      <Word>icon</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>icon
+     
+        &lt;graphics&gt; A small picture intended to represent something (a
+        file, directory, or action) in a {graphical user interface}.
+        When an icon is clicked on, some action is performed such as
+        opening a directory or aborting a file transfer.
+     
+        Icons are usually stored as {bitmap} images.  {Microsoft
+        Windows} uses a special bitmap format with file name extension
+        ".ico" as well as embedding icons in executable (".exe") and
+        {Dynamically Linked Library} (DLL) files.
+     
+        The term originates from {Alan Kay}'s theory for designing
+        interfaces which was primarily based on the work of Jerome
+        Bruner.  Bruner's second developmental stage, iconic, uses a
+        system of representation that depends on visual or other
+        sensory organization and upon the use of summarising images.
+     
+        {IEEE publication
+       
+     (http://www.ieee.org/organizations/history_center/cht_papers/Barnes.pdf)}.
+     
+        [What MS tool can create .ico files?]
+     
+        (2003-08-01)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>icon</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>Icon
+     
+        &lt;language&gt; A descendant of {SNOBOL4} with {Pascal}-like
+        syntax, produced by Griswold in the 1970's.  Icon is a
+        general-purpose language with special features for string
+        scanning.  It has dynamic types: records, sets, lists,
+        strings, tables.  If has some {object oriented} features but
+        no {modules} or {exception}s.  It has a primitive {Unix}
+        interface.
+     
+        The central theme of Icon is the generator: when an expression
+        is evaluated it may be suspended and later resumed, producing
+        a result sequence of values until it fails.  Resumption takes
+        place implicitly in two contexts: iteration which is
+        syntactically loop-like ('every-do'), and goal-directed
+        evaluation in which a conditional expression automatically
+        attempts to produce at least one result.  Expressions that
+        fail are used in lieu of Booleans.  Data {backtracking} is
+        supported by a reversible {assignment}.  Icon also has
+        {co-expression}s, which can be explicitly resumed at any time.
+     
+        Version 8.8 by Ralph Griswold &lt;ralph@cs.arizona.edu&gt; includes
+        an {interpreter}, a compiler (for some {platform}s) and a
+        library (v8.8).  Icon has been ported to {Amiga}, {Atari},
+        {CMS}, {Macintosh}, {Macintosh/MPW}, {MS-DOS}, {MVS}, {OS/2},
+        {Unix}, {VMS}, {Acorn}.
+     
+        See also {Ibpag2}.
+     
+        {(ftp://cs.arizona.edu/icon/)}, {MS-DOS FTP
+        (ftp://bellcore.com norman/iconexe.zip)}.
+     
+        {Usenet} newsgroup: {news:comp.lang.icon}.
+     
+        E-mail: &lt;icon-project@cs.arizona.edu&gt;, &lt;mengarini@delphi.com&gt;.
+     
+        Mailing list: icon-group@arizona.edu.
+     
+        ["The Icon Programmming Language", Ralph E. Griswold and Madge
+        T. Griswold, Prentice Hall, seond edition, 1990].
+     
+        ["The Implementation of the Icon Programmming Language", Ralph
+        E. Griswold and Madge T. Griswold, Princeton University Press
+        1986].
+     
+        (1992-08-21)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>icon</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>icon \i"con\ ([imac]"k[o^]n), n. [Also spelled {ikon}.] [L., fr.
+   Gr. e'ikw`n.]
+   1. An image or representation; a portrait or pretended
+      portrait.
+      [1913 Webster]
+
+            Netherlands whose names and icons are published.
+                                                  --Hakewill.
+      [1913 Webster]
+
+   2. (Gr. Ch.) A sacred picture representing the Virgin Mary,
+      Christ, a saint, or a martyr, and having the same function
+      as an image of such a person in the Latin Church. The term
+      is used especially for a highly stylized and
+      conventionalized representation of a holy person, rich in
+      symbolism and used in devotional services in many of the
+      eastern Orthodox churches, especially the Greek and
+      Russian Orthodox Churches.
+      [Webster 1913 Suppl. +PJC]
+
+   3. a symbol, especially a symbol whose form suggests its
+      meaning or the object it represents.
+      [PJC]
+
+   4. (Computers) a graphical symbol for a data object whose
+      form suggests the nature or function of the object;
+      especially, such a symbol as viewed on the computer
+      screen.
+
+   Note: In a graphical user interface, pointing to and clicking
+         on an icon may cause any of several types of actions,
+         such as opening a file or executing a program,
+         depending on how the icon properties are defined.
+         [PJC]
+
+   5. any object of uncritical devotion.
+      [PJC]
+
+            The former congresswoman and Vice-Presidential
+            candidate Geraldine Ferraro is still an icon to many
+            party members.                        --The New York
+                                                  Times, April
+                                                  16, 1998
+      [PJC]
+
+   6. an outstanding example of something which has come to
+      represent the class of things to which it belongs; a
+      paragon; used of persons as well as objects.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>icon</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>icon
+     n 1: (computer science) a graphic symbol (usually a simple
+          picture) that denotes a program or a command or a data
+          file or a concept in a graphical user interface
+     2: a visual representation (of an object or scene or person or
+        abstraction) produced on a surface; "they showed us the
+        pictures of their wedding"; "a movie is a series of images
+        projected so rapidly that the eye integrates them" [syn: {picture},
+         {image}, {ikon}]
+     3: a conventional religious painting in oil on a small wooden
+        panel; venerated in the Eastern Church [syn: {ikon}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

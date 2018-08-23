@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>evidently</Word>
+  <Definitions>
+    <Definition>
+      <Word>evidently</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Evidently \Ev"i*dent*ly\, adv.
+   In an evident manner; clearly; plainly.
+   [1913 Webster]
+
+         Before whose eyes Jesus Christ hath been evidently set
+         forth.                                   --Gal. iii. 1.
+   [1913 Webster]
+
+         He was evidently in the prime of youth.  --W. Irving.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>evidently</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>evidently
+     adv : unmistakably (`plain' is often used informally for
+           `plainly'); "the answer is obviously wrong"; "she was
+           in bed and evidently in great pain"; "he was manifestly
+           too important to leave off the guest list"; "it is all
+           patently nonsense"; "she has apparently been living
+           here for some time"; "I thought he owned the property,
+           but apparently not"; "You are plainly wrong"; "he is
+           plain stubborn" [syn: {obviously}, {manifestly}, {patently},
+            {apparently}, {plainly}, {plain}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

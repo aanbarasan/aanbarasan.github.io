@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>galveston</Word>
+  <Definitions>
+    <Definition>
+      <Word>galveston</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Galveston, IN (town, FIPS 26242)
+  Location: 40.57644 N, 86.19170 W
+  Population (1990): 1609 (649 housing units)
+  Area: 1.4 sq km (land), 0.0 sq km (water)
+  Zip code(s): 46932
+Galveston, KY
+  Zip code(s): 41629
+Galveston, TX (city, FIPS 28068)
+  Location: 29.22934 N, 94.89206 W
+  Population (1990): 59070 (30898 housing units)
+  Area: 119.6 sq km (land), 295.8 sq km (water)
+  Zip code(s): 77550, 77551, 77554
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>galveston</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Galveston
+     n : a town in southeast Texas on Galveston Island
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

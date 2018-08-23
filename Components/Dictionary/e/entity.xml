@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>entity</Word>
+  <Definitions>
+    <Definition>
+      <Word>entity</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Entity \En"ti*ty\, n.; pl. {Entities}. [LL. entitas, fr. L. ens,
+   entis, thing, prop. p. pr. of esse to be: cf. F. entit['e].
+   See {Essence}, {Is}.]
+   A real being, whether in thought (as an ideal conception) or
+   in fact; being; essence; existence.
+   [1913 Webster]
+
+         Self-subsisting entities, such as our own personality.
+                                                  --Shairp.
+   [1913 Webster]
+
+         Fortune is no real entity, . . . but a mere relative
+         signification.                           --Bentley.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>entity</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>entity
+     n : that which is perceived or known or inferred to have its own
+         distinct existence (living or nonliving)
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

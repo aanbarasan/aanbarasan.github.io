@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>feminist</Word>
+  <Definitions>
+    <Definition>
+      <Word>feminist</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>feminist
+     adj : of or relating to or advocating equal rights for women;
+           "feminist critique"
+     n : a supporter of feminism [syn: {women's rightist}, {women's
+         liberationist}, {libber}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

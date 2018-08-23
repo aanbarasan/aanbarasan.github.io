@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>disk</Word>
+  <Definitions>
+    <Definition>
+      <Word>disk</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>disk
+     
+        &lt;storage&gt; 1. {magnetic disk}.
+     
+        2. {compact disc}.
+     
+        3. {optical disk}.
+     
+        Note: the american spelling, "disk", is normal for most
+        computer disks whereas "compact disc", having come to
+        computers via the audio world, is correctly spelled with a
+        "c", indeed, this spelling is part of the CD standard.
+     
+        (1995-07-30)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>disk</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Disk \Disk\ (d[i^]sk), n. [L. discus, Gr. di`skos. See {Dish}.]
+   [Written also {disc}.]
+   1. A discus; a quoit.
+      [1913 Webster]
+
+            Some whirl the disk, and some the javelin dart.
+                                                  --Pope.
+      [1913 Webster]
+
+   2. A flat, circular plate; as, a disk of metal or paper.
+      [1913 Webster]
+
+   3. (Astron.) The circular figure of a celestial body, as seen
+      projected of the heavens.
+      [1913 Webster]
+
+   4. (Biol.) A circular structure either in plants or animals;
+      as, a blood disk; germinal disk, etc.
+      [1913 Webster]
+
+   5. (Bot.)
+      (a) The whole surface of a leaf.
+      (b) The central part of a radiate compound flower, as in
+          sunflower.
+      (c) A part of the receptacle enlarged or expanded under,
+          or around, or even on top of, the pistil.
+          [1913 Webster]
+
+   6. (Zo["o]l.)
+      (a) The anterior surface or oral area of c[oe]lenterate
+          animals, as of sea anemones.
+      (b) The lower side of the body of some invertebrates,
+          especially when used for locomotion, when it is often
+          called a creeping disk.
+      (c) In owls, the space around the eyes.
+          [1913 Webster]
+
+   {Disk engine}, a form of rotary steam engine.
+
+   {Disk shell} (Zo["o]l.), any species of Discina.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>disk</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>DISK
+     Deutschsprachige Internationale SAS-benutzer Konferenz
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>disk</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>disk
+     n 1: something with a round shape like a flat circular plate
+          [syn: {disc}, {saucer}]
+     2: a flat circular plate [syn: {disc}]
+     3: sound recording consisting of a disc with continuous
+        grooves; formerly used to reproduce music by rotating
+        while a phonograph needle tracked in the grooves [syn: {phonograph
+        record}, {phonograph recording}, {record}, {disc}, {platter}]
+     4: (computer science) a memory device consisting of a flat disk
+        covered with a magnetic coating on which information is
+        stored [syn: {magnetic disk}, {magnetic disc}, {disc}]
+     v : draw a harrow over (land) [syn: {harrow}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

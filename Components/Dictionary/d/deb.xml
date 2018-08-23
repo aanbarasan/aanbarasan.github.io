@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>deb</Word>
+  <Definitions>
+    <Definition>
+      <Word>deb</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>deb
+     
+        &lt;filename extension, Debian&gt; The {filename extension} for a
+        {Debian} {binary package}.
+     
+        (2001-01-27)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>deb</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>deb
+     n : a young woman making her debut into society [syn: {debutante}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fa</Word>
+  <Definitions>
+    <Definition>
+      <Word>fa</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fa \Fa\ (f[aum]), n. [It.] (Mus.)
+      (a) A syllable applied to the fourth tone of the diatonic
+          scale in solmization.
+      (b) The tone F.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fa</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>FA
+     FernmeldeAmt (Telekom)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fa</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fa
+     n : the syllable naming the fourth (subdominant) note of the
+         diatonic scale in solmization
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

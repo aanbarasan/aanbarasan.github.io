@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>goiter</Word>
+  <Definitions>
+    <Definition>
+      <Word>goiter</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Goiter \Goi"ter\ Goitre \Goi"tre\, n. [F. go[^i]tre, L. guttur
+   throat, cf. tumidum guttur goiter, gutturosus goitered. See
+   {Guttural}.] (Med.)
+   An enlargement of the thyroid gland, on the anterior part of
+   the neck, usually resulting from iodine deficiency;
+   bronchocele. It is frequently associated with cretinism, and
+   was at one time common in mountainous regions, especially in
+   certain parts of Switzerland. The incidence of goiter has
+   been substantially reduced by addition of iodine to ceratin
+   foods, such as salt.
+
+   Syn: struma.
+        [1913 Webster + WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>goiter</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>goiter
+     n : abnormally enlarged thyroid gland; can result from
+         under-production or over-production of hormone or from a
+         deficiency of iodine in the diet [syn: {goitre}, {struma},
+          {thyromegaly}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

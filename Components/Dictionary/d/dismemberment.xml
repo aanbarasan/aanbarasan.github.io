@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dismemberment</Word>
+  <Definitions>
+    <Definition>
+      <Word>dismemberment</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dismemberment \Dis*mem"ber*ment\, n. [Cf. OF. desmembrement, F.
+   d['e]membrement.]
+   The act of dismembering, or the state of being dismembered;
+   cutting in piece; m?tilation; division; separation.
+   [1913 Webster]
+
+         The Castilians would doubtless have resented the
+         dismemberment of the unwieldy body of which they formed
+         the head.                                --Macaulay.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dismemberment</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dismemberment
+     n : the removal of limbs; being cut to pieces [syn: {taking
+         apart}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

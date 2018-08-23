@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>detention</Word>
+  <Definitions>
+    <Definition>
+      <Word>detention</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Detention \De*ten"tion\, n. [L. detentio: cf. F. d['e]tention.
+   See {Detain}.]
+   1. The act of detaining or keeping back; a withholding.
+      [1913 Webster]
+
+   2. The state of being detained (stopped or hindered); delay
+      from necessity.
+      [1913 Webster]
+
+   3. Confinement; restraint; custody.
+      [1913 Webster]
+
+            The archduke Philip . . . found himself in a sort of
+            honorable detention at Henry's court. --Hallam.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>detention</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>detention
+     n 1: a state of being confined (usually for a short time); "his
+          detention was politically motivated"; "the prisoner is
+          on hold"; "he is in the custody of police" [syn: {hold},
+           {custody}]
+     2: a punishment in which a student must stay at school after
+        others have gone home; "the detention of tardy pupils"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

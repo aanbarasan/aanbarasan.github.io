@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>deference</Word>
+  <Definitions>
+    <Definition>
+      <Word>deference</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Deference \Def"er*ence\, n. [F. d['e]f['e]rence. See 3d
+   {Defer}.]
+   A yielding of judgment or preference from respect to the
+   wishes or opinion of another; submission in opinion; regard;
+   respect; complaisance.
+   [1913 Webster]
+
+         Deference to the authority of thoughtful and sagacious
+         men.                                     --Whewell.
+   [1913 Webster]
+
+         Deference is the most complicate, the most indirect,
+         and the most elegant of all compliments. --Shenstone.
+
+   Syn: {Deference}, {Reverence}, {Respect}.
+
+   Usage: Deference marks an inclination to yield one's opinion,
+          and to acquiesce in the sentiments of another in
+          preference to one's own. Respect marks the estimation
+          that we have for another, which makes us look to him
+          as worthy of high confidence for the qualities of his
+          mind and heart. Reverence denotes a mingling of fear
+          with a high degree of respect and esteem. Age, rank,
+          dignity, and personal merit call for deference;
+          respect should be paid to the wise and good; reverence
+          is due to God, to the authors of our being, and to the
+          sanctity of the laws.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>deference</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>deference
+     n 1: a courteous expression (by word or deed) of esteem or
+          regard; "his deference to her wishes was very
+          flattering"; "be sure to give my respects to the dean"
+          [syn: {respect}]
+     2: courteous regard for people's feelings; "in deference to
+        your wishes"; "out of respect for his privacy" [syn: {respect},
+         {respectfulness}]
+     3: a disposition or tendency to yield to the will of others
+        [syn: {complaisance}, {compliance}, {compliancy}, {obligingness}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>considerate</Word>
+  <Definitions>
+    <Definition>
+      <Word>considerate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Considerate \Con*sid"er*ate\ (k[o^]n*s[i^]d"[~e]r*[asl]t), a.
+   [L. consideratus, p. p.]
+   1. Given to consideration or to sober reflection; regardful
+      of consequences or circumstances; circumspect; careful;
+      esp. careful of the rights, claims, and feelings of
+      others.
+      [1913 Webster]
+
+            Of dauntless courage and considerate pride.
+                                                  --Milton.
+      [1913 Webster]
+
+            [AE]neas is patient, considerate, and careful of his
+            people.                               --Dryden.
+      [1913 Webster]
+
+            The wisest and most considerate men in the world.
+                                                  --Sharp.
+      [1913 Webster]
+
+   2. Having respect to; regardful. [R.]
+      [1913 Webster]
+
+            They may be . . . more considerate of praise. --Dr.
+                                                  H. More.
+
+   Syn: Thoughtful; reflective; careful; discreet; prudent;
+        deliberate; serious. See {Thoughtful}. --
+        {Con*sid"er*ate*ly}, adv. -- {Con*sid"er*ate*ness}, n.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>considerate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>considerate
+     adj : showing concern for the rights and feelings of others;
+           "friends considerate enough to leave us alone" [ant: {inconsiderate}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

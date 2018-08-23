@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>diagram</Word>
+  <Definitions>
+    <Definition>
+      <Word>diagram</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Diagram \Di"a*gram\, n. [Gr. ?, fr. ? to mark out by lines; dia`
+   through + ? to draw, write: cf. F. diagramme. See {Graphic}.]
+   1. (Geom.) A figure or drawing made to illustrate a
+      statement, or facilitate a demonstration; a plan.
+      [1913 Webster]
+
+   2. Any simple drawing made for mathematical or scientific
+      purposes, or to assist a verbal explanation which refers
+      to it; a mechanical drawing, as distinguished from an
+      artistical one.
+      [1913 Webster]
+
+   {Indicator diagram}. (Steam Engine) See {Indicator card},
+      under {indicator}
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>diagram</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Diagram \Di"a*gram\, v. t.
+   To put into the form of a diagram.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>diagram</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>diagram
+     n : a drawing intended to explain how something works; a drawing
+         showing the relation between the parts
+     v : make a schematic or technical drawing of that shows how
+         things work or how they are constructed [syn: {plot}]
+     [also: {diagramming}, {diagrammed}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

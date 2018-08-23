@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>grocery</Word>
+  <Definitions>
+    <Definition>
+      <Word>grocery</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Grocery \Gro"cer*y\, n.; pl. {Groceries}. [F. grosserie
+   wholesale. See {Grocer}.]
+   1. The commodities sold by grocers, as tea, coffee, spices,
+      etc.; -- in the United States almost always in the plural
+      form, in this sense.
+      [1913 Webster]
+
+            A deal box . . . to carry groceries in. --Goldsmith.
+      [1913 Webster]
+
+            The shops at which the best families of the
+            neighborhood bought grocery and millinery.
+                                                  --Macaulay.
+      [1913 Webster]
+
+   2. A retail grocer's shop or store. [U. S.]
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>grocery</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>grocery
+     n 1: a marketplace where groceries are sold; "the grocery store
+          included a meat market" [syn: {grocery store}, {food
+          market}, {market}]
+     2: (usually plural) consumer goods sold by a grocer [syn: {foodstuff}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

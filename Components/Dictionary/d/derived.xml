@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>derived</Word>
+  <Definitions>
+    <Definition>
+      <Word>derived</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Derive \De*rive"\, v. t. [imp. &amp; p. p. {Derived}; p. pr. &amp; vb.
+   n. {Deriving}.] [F. d['e]river, L. derivare; de- + rivus
+   stream, brook. See {Rival}.]
+   1. To turn the course of, as water; to divert and distribute
+      into subordinate channels; to diffuse; to communicate; to
+      transmit; -- followed by to, into, on, upon. [Obs.]
+      [1913 Webster]
+
+            For fear it [water] choke up the pits . . . they
+            [the workman] derive it by other drains. --Holland.
+      [1913 Webster]
+
+            Her due loves derived to that vile witch's share.
+                                                  --Spenser.
+      [1913 Webster]
+
+            Derived to us by tradition from Adam to Noah. --Jer.
+                                                  Taylor.
+      [1913 Webster]
+
+   2. To receive, as from a source or origin; to obtain by
+      descent or by transmission; to draw; to deduce; --
+      followed by from.
+      [1913 Webster]
+
+   3. To trace the origin, descent, or derivation of; to
+      recognize transmission of; as, he derives this word from
+      the Anglo-Saxon.
+      [1913 Webster]
+
+            From these two causes . . . an ancient set of
+            physicians derived all diseases.      --Arbuthnot.
+      [1913 Webster]
+
+   4. (Chem.) To obtain one substance from another by actual or
+      theoretical substitution; as, to derive an organic acid
+      from its corresponding hydrocarbon.
+
+   Syn: To trace; deduce; infer.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>derived</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>derived
+     adj 1: determined by mathematical computation; "the calculated
+            velocity of a bullet"; "a derived value" [syn: {calculated}]
+     2: formed or developed from something else; not original; "the
+        belief that classes and organizations are secondary and
+        derived"- John Dewey [ant: {underived}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

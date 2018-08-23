@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>guiltridden</Word>
+  <Definitions>
+    <Definition>
+      <Word>guiltridden</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>guilt-ridden \guilt-ridden\ adj.
+   mentally anguished due to feelings of guilt[3].
+
+   Syn: guilt-sick.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>guiltridden</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>guilt-ridden
+     adj : feeling or revealing a sense of guilt; "so guilt-ridden he
+           could not face his father"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

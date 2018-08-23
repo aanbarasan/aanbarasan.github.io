@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>crate</Word>
+  <Definitions>
+    <Definition>
+      <Word>crate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Crate \Crate\ (kr[=a]t), n. [L. cratis hurdle; perh. akin to E.
+   cradle. See {Hurdle}, and cf. {Crate} a framework.]
+   1. A large basket or hamper of wickerwork, used for the
+      transportation of china, crockery, and similar wares.
+      [1913 Webster]
+
+   2. A box or case whose sides are of wooden slats with
+      interspaces, -- used especially for transporting fruit.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>crate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>crate \crate\, v. t. [imp. &amp; p. p. {Crated}; p. pr. &amp; vb. n.
+   {Crating}.]
+   To pack in a crate or case for transportation; as, to crate a
+   sewing machine; to crate peaches.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>crate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>crate
+     n 1: a rugged box (usually made of wood); used for shipping
+     2: the quantity contained in a crate [syn: {crateful}]
+     v : put into a crate; as for protection; "crate the paintings
+         before shipping them to the museum" [ant: {uncrate}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

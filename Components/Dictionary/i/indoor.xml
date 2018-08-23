@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>indoor</Word>
+  <Definitions>
+    <Definition>
+      <Word>indoor</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Indoor \In"door`\, a.
+   Done or being within doors; within a house or institution;
+   domestic; as, indoor work.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>indoor</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>indoor
+     adj 1: located, suited for, or taking place within a building;
+            "indoor activities for a rainy day"; "an indoor pool"
+            [syn: {indoor(a)}, {inside}] [ant: {outdoor(a)}]
+     2: within doors; "an indoor setting"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

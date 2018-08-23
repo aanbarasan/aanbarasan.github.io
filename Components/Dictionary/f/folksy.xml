@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>folksy</Word>
+  <Definitions>
+    <Definition>
+      <Word>folksy</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>folksy \folksy\ adj.
+   1. same as {cracker-barrel}.
+
+   Syn: cracker-barrel, homespun.
+        [WordNet 1.5]
+
+   2. very informal and familiar; as, a folksy radio
+      commentator; a folksy style.
+      [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>folksy</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>folksy
+     adj 1: characteristic of country life; "cracker-barrel philosophy";
+            "folksy humor"; "the air of homespun country boys"
+            [syn: {cracker-barrel}, {homespun}]
+     2: very informal and familiar; "a folksy radio commentator"; "a
+        folksy style"
+     [also: {folksiest}, {folksier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

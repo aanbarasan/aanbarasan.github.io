@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>emma</Word>
+  <Definitions>
+    <Definition>
+      <Word>emma</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Emma, KY
+  Zip code(s): 41653
+Emma, MO (city, FIPS 22312)
+  Location: 38.97647 N, 93.49550 W
+  Population (1990): 194 (88 housing units)
+  Area: 1.1 sq km (land), 0.0 sq km (water)
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>emma</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>EMMA
+     European MultiMedia Award
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

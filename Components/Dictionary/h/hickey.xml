@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hickey</Word>
+  <Definitions>
+    <Definition>
+      <Word>hickey</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>hickey \hick"ey\, hickie \hick"ie\n.
+   1. (Elec.) A device used to adapt a lighting fixture for
+      mounting in an outlet box, or on a pipe.
+      [PJC]
+
+   2. A red mark on the skin, caused by a passionate, sucking
+      kiss at that location. [slang]
+      [PJC]
+
+   3. a {doohickey}. [informal]
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hickey</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hickey
+     n 1: a small inflamed elevation of the skin; a pustule or papule;
+          common symptom in acne [syn: {pimple}]
+     2: a temporary red mark on a person's skin resulting from
+        kissing or sucking by their lover [syn: {love bite}]
+     3: something whose name is either forgotten or not known [syn:
+        {dohickey}, {dojigger}, {doodad}, {doohickey}, {gimmick},
+        {gizmo}, {gismo}, {gubbins}, {thingamabob}, {thingumabob},
+         {thingmabob}, {thingamajig}, {thingumajig}, {thingmajig},
+         {thingummy}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

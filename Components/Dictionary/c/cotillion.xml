@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cotillion</Word>
+  <Definitions>
+    <Definition>
+      <Word>cotillion</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cotillon \Co`til`lon"\ (k[-o]`t[-e]`y[^o]N" or k[-o]`t[-e]l`-;
+   277), Cotillion \Co*til"lion\ (k[-o]*t[i^]l"y[u^]n), n. [F.
+   cotillon, fr. OF. cote coat, LL. cotta tunic. See {Coat}.]
+   1. A brisk dance, performed by eight persons; a quadrille.
+      [1913 Webster]
+
+   2. A tune which regulates the dance.
+      [1913 Webster]
+
+   3. A kind of woolen material for women's skirts.
+
+   4. A formal ball, especially one at which debutantes are
+      first presented to society.
+      [1913 Webster +PJC] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cotillion</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cotillion
+     n 1: a ball at which young ladies are presented to society [syn:
+          {cotilion}]
+     2: a lively dance originating in France in the 18th century
+        [syn: {cotilion}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

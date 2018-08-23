@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cyclotron</Word>
+  <Definitions>
+    <Definition>
+      <Word>cyclotron</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>cyclotron \cyclotron\ n.
+   a particle accelerator that imparts energies of several
+   million electron-volts to rapidly moving particles; it is
+   used in investigations in nuclear physics and particle
+   physics.
+   [WordNet 1.5 +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cyclotron</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cyclotron
+     n : an accelerator that imparts energies of several million
+         electron-volts to rapidly moving particles
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

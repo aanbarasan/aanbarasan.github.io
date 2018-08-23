@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>edinburgh</Word>
+  <Definitions>
+    <Definition>
+      <Word>edinburgh</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Edinburgh, IN (town, FIPS 20404)
+  Location: 39.35268 N, 85.96747 W
+  Population (1990): 4536 (1801 housing units)
+  Area: 4.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 46124
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>edinburgh</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Edinburgh
+     n : the capital of Scotland; located in the Lothian Region on
+         the south side of the Firth of Forth
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

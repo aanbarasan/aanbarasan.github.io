@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>enzyme</Word>
+  <Definitions>
+    <Definition>
+      <Word>enzyme</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>enzyme \en"zyme\ ([e^]n"z[imac]m), n. [Pref. en- (Gr. 'en in) +
+   Gr. zy`mh leaven.] (Physiol. Chem.)
+   A protein produced by a living organism, capable of
+   catalyzing a chemical reaction. Almost all processes in
+   living organisms require some form of enzyme to cause the
+   reactions to occur at a rate sufficient to support life.
+   There are a very wide variety of enzymes, each specifically
+   catalyzing a different chemical reaction, the sum of which
+   cause the bulk of the physiological changes observed as life
+   processes. Enzymes, like most proteins, are synthesized by
+   the protein-synthetic mechanism of the living cell, at
+   special sites on ribosomes, using the genetic information in
+   messenger RNA transcribed from the genetic instructions
+   stored as nuleotide sequences in the DNA (or in some viruses,
+   the RNA) of the genome. Some examples of enzymes are: pepsin,
+   diastase, rennet, DNA polymerase, invertase, glucose oxidase,
+   protease, and ribonuclease. There are many other types of
+   enzyme.
+   [1913 Webster +PJC]
+
+   Note: The 1913 Webster defined an enzyme as:
+         An unorganized or unformed ferment, in distinction from
+         an organized or living ferment; a soluble, or chemical,
+         ferment.
+         [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>enzyme</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>enzyme
+     n : any of several complex proteins that are produced by cells
+         and act as catalysts in specific biochemical reactions
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

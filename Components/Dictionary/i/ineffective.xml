@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ineffective</Word>
+  <Definitions>
+    <Definition>
+      <Word>ineffective</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ineffective \In`ef*fect"ive\, a. [Pref. in- not + effective: cf.
+   F. ineffectif.]
+   Not effective; not having the desired effect; ineffectual;
+   futile; inefficient; useless; as, an ineffective appeal; an
+   ineffective herbal remedy.
+   [1913 Webster +PJC]
+
+         The word of God, without the spirit, [is] a dead and
+         ineffective letter.                      --Jer. Taylor.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ineffective</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ineffective
+     adj 1: not producing an intended effect; "an ineffective teacher";
+            "ineffective legislation" [syn: {uneffective}, {ineffectual}]
+            [ant: {effective}]
+     2: lacking in power or forcefulness; "an ineffectual ruler";
+        "like an unable phoenix in hot ashes" [syn: {ineffectual},
+         {unable}]
+     3: lacking the ability or skill to perform effectively;
+        inadequate; "an ineffective administration"; "inefficient
+        workers" [syn: {inefficient}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

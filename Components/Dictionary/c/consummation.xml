@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>consummation</Word>
+  <Definitions>
+    <Definition>
+      <Word>consummation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Consummation \Con`sum*ma"tion\ (k[o^]n`s[u^]m*m[=a]"sh[u^]n), n.
+   [L. consummatio.]
+   The act of consummating, or the state of being consummated;
+   completion; perfection; termination; end (as of the world or
+   of life).
+   [1913 Webster]
+
+         ``'T is a consummation
+         Devoutly to be wished.                   --Shak.
+   [1913 Webster]
+
+         From its original to its consummation.   --Addison.
+   [1913 Webster]
+
+         Quiet consummation have,
+         And renown['e]d be thy grave.            --Shak.
+   [1913 Webster]
+
+   {Consummation of marriage}, completion of the connubial
+      relation by actual cohabition.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>consummation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>consummation
+     n 1: the completion of marriage by sexual intercourse
+     2: the act of bringing to completion or fruition
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

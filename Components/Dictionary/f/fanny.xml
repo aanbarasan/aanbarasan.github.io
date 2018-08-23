@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fanny</Word>
+  <Definitions>
+    <Definition>
+      <Word>fanny</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>fanny
+     n 1: the fleshy part of the human body that you sit on; "he
+          deserves a good kick in the butt"; "are you going to sit
+          on your fanny and do nothing?" [syn: {buttocks}, {nates},
+           {arse}, {butt}, {backside}, {bum}, {buns}, {can}, {fundament},
+           {hindquarters}, {hind end}, {keister}, {posterior}, {prat},
+           {rear}, {rear end}, {rump}, {stern}, {seat}, {tail}, {tail
+          end}, {tooshie}, {tush}, {bottom}, {behind}, {derriere},
+           {ass}]
+     2: external female sex organs; "in England `fanny' is vulgar
+        slang for female genitals" [syn: {female genitalia}, {female
+        genitals}, {female genital organ}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

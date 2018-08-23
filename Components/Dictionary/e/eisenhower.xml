@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>eisenhower</Word>
+  <Definitions>
+    <Definition>
+      <Word>eisenhower</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Eisenhower
+     n : United States general who supervised the invasion of
+         Normandy and the defeat of Nazi Germany; 34th President
+         of the United States (1890-1961) [syn: {Dwight Eisenhower},
+          {Dwight D. Eisenhower}, {Dwight David Eisenhower}, {Ike},
+          {President Eisenhower}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

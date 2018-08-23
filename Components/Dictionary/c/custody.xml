@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>custody</Word>
+  <Definitions>
+    <Definition>
+      <Word>custody</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Custody \Cus"to*dy\ (k?s"t?-d?), n. [L. custodia, fr. custos
+   guard; prob. akin to Gr. ?????? to hide, and E. hide. Seee
+   {Hide} to cover.]
+   1. A keeping or guarding; care, watch, inspection, for
+      keeping, preservation, or security.
+      [1913 Webster]
+
+            A fleet of thirty ships for the custody of the
+            narrow seas.                          --Bacon.
+      [1913 Webster]
+
+   2. Judicial or penal safe-keeping.
+      [1913 Webster]
+
+            Jailer, take him to thy custody.      --Shak.
+      [1913 Webster]
+
+   3. State of being guarded and watched to prevent escape;
+      restraint of liberty; confinement; imprisonment.
+      [1913 Webster]
+
+            What pease will be given
+            To us enslaved, but custody severe,
+            And stripes and arbitrary punishment? --Milton.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>custody</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>custody
+     n 1: a state of being confined (usually for a short time); "his
+          detention was politically motivated"; "the prisoner is
+          on hold"; "he is in the custody of police" [syn: {detention},
+           {hold}]
+     2: holding by the police; "the suspect is in custody"
+     3: (with `in') guardianship over; in divorce cases it is the
+        right to house and care for and discipline a child; "my
+        fate is in your hands"; "too much power in the president's
+        hands"; "your guests are now in my custody"; "the mother
+        was awarded custody of the children" [syn: {hands}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

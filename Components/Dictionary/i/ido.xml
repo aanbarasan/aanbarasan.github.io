@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ido</Word>
+  <Definitions>
+    <Definition>
+      <Word>ido</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ido \I"do\ ([=e]"d[=o]), n.
+   An artificial international language, selected by the
+   ``Delegation for the Adoption of an Auxillary International
+   Language'' (founded at Paris in 1901), made public in 1907,
+   and subsequently greatly revised and extended by a permanent
+   committee or ``Academy.'' It is a revised and simplified form
+   of {Esperanto}. It combines systematically the advantages of
+   previous schemes with a thoroughly logical word formation,
+   and has neither accented constants nor arbitrarily coined
+   pronominal words. For each idea that root is selected which
+   is already most international, on the principle of the
+   ``greatest facility for the greatest number of people.'' The
+   word ``Ido'' means in the language itself ``offspring.'' The
+   official name is: ``Linguo Internaciona di la Delegitaro
+   (Sistema Ido).'' -- {I"dism}, n. -- {I"dist}, n.
+   [Webster 1913 Suppl. +PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ido</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Ido
+     n : an artificial language that is a revision and simplification
+         of Esperanto
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>elevation</Word>
+  <Definitions>
+    <Definition>
+      <Word>elevation</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Elevation \El`e*va"tion\, n. [L. elevatio: cf. F.
+   ['e]l['e]vation.]
+   1. The act of raising from a lower place, condition, or
+      quality to a higher; -- said of material things, persons,
+      the mind, the voice, etc.; as, the elevation of grain;
+      elevation to a throne; elevation of mind, thoughts, or
+      character.
+      [1913 Webster]
+
+   2. Condition of being elevated; height; exaltation. ``Degrees
+      of elevation above us.'' --Locke.
+      [1913 Webster]
+
+            His style . . . wanted a little elevation. --Sir H.
+                                                  Wotton.
+      [1913 Webster]
+
+   3. That which is raised up or elevated; an elevated place or
+      station; as, an elevation of the ground; a hill.
+      [1913 Webster]
+
+   4. (Astron.) The distance of a celestial object above the
+      horizon, or the arc of a vertical circle intercepted
+      between it and the horizon; altitude; as, the elevation of
+      the pole, or of a star.
+      [1913 Webster]
+
+   5. (Dialing) The angle which the style makes with the
+      substylar line.
+      [1913 Webster]
+
+   6. (Gunnery) The movement of the axis of a piece in a
+      vertical plane; also, the angle of elevation, that is, the
+      angle between the axis of the piece and the line o? sight;
+      -- distinguished from direction.
+      [1913 Webster]
+
+   7. (Drawing) A geometrical projection of a building, or other
+      object, on a plane perpendicular to the horizon;
+      orthographic projection on a vertical plane; -- called by
+      the ancients the orthography.
+      [1913 Webster]
+
+   {Angle of elevation} (Geodesy), the angle which an ascending
+      line makes with a horizontal plane.
+
+   {Elevation of the host} (R. C. Ch.), that part of the Mass in
+      which the priest raises the host above his head for the
+      people to adore.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>elevation</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>elevation
+     n 1: the event of something being raised upward; "an elevation of
+          the temperature in the afternoon"; "a raising of the
+          land resulting from volcanic activity" [syn: {lift}, {raising}]
+     2: the highest level or degree attainable; "his landscapes were
+        deemed the acme of beauty"; "the artist's gifts are at
+        their acme"; "at the height of her career"; "the peak of
+        perfection"; "summer was at its peak"; "...catapulted
+        Einstein to the pinnacle of fame"; "the summit of his
+        ambition"; "so many highest superlatives achieved by man";
+        "at the top of his profession" [syn: {acme}, {height}, {peak},
+         {pinnacle}, {summit}, {superlative}, {top}]
+     3: angular distance above the horizon (especially of a
+        celestial object) [syn: {EL}, {altitude}, {ALT}]
+     4: a raised or elevated geological formation [syn: {natural
+        elevation}] [ant: {natural depression}]
+     5: distance of something above a reference point (such as sea
+        level); "there was snow at the higher elevations"
+     6: (ballet) the height of a dancer's leap or jump; "a dancer of
+        exceptional elevation"
+     7: drawing of an exterior of a structure
+     8: the act of increasing the wealth or prestige or power or
+        scope of something; "the aggrandizement of the king"; "his
+        elevation to cardinal" [syn: {aggrandizement}, {aggrandisement}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

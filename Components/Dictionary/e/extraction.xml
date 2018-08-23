@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>extraction</Word>
+  <Definitions>
+    <Definition>
+      <Word>extraction</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Extraction \Ex*trac"tion\, n. [Cf. F. extraction.]
+   1. The act of extracting, or drawing out; as, the extraction
+      of a tooth, of a bone or an arrow from the body, of a
+      stump from earth, of a passage from a book, of an essence
+      or tincture.
+      [1913 Webster]
+
+   2. Derivation from a stock or family; lineage; descent;
+      birth; the stock from which one has descended. ``A family
+      of ancient extraction.'' --Clarendon.
+      [1913 Webster]
+
+   3. That which is extracted; extract; essence.
+      [1913 Webster]
+
+            They [books] do preserve as in a vial the purest
+            efficacy and extraction of that living intellect
+            that bred them.                       --Milton.
+      [1913 Webster]
+
+   {The extraction of roots}. (Math.)
+      (a) The operation of finding the root of a given number or
+          quantity.
+      (b) The method or rule by which the operation is
+          performed; evolution.
+          [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>extraction</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>extraction
+     n 1: the process of obtaining something from a mixture or
+          compound by chemical or physical or mechanical means
+     2: properties attributable to your ancestry; "he comes from
+        good origins" [syn: {origin}, {descent}]
+     3: the act of pulling out (as a tooth); "the dentist gave her a
+        local anesthetic prior to the extraction"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

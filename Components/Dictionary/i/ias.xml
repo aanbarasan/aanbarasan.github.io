@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ias</Word>
+  <Definitions>
+    <Definition>
+      <Word>ias</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>IAS
+     
+        &lt;computer&gt; The first modern computer.  It had main
+        {registers}, processing circuits, information paths within the
+        {central processing unit} and used {Von Neumann}'s
+        {fetch-execute cycle}.
+     
+        The IAS machine's basic unit of information was a 40 bit
+        {word} and the memory had 4096 words.  A word stored in memory
+        could represent either an instruction or data.  Each IAS
+        instruction was twenty bits long, so that two instructions
+        could be stored in each 40-bit memory location.  Each
+        instruction consisted of an 8-bit {operation code} and a
+        12-bit address that could identify any of 2^12 locations that
+        may be used to store an {operand} of the instruction.
+     
+        The {CPU} consisted of a data processing unit and a program
+        control unit.  It contained various processing and control
+        circuits along with a set of high-speed {registers} for the
+        temporary storage of instructions, memory addresses and data.
+     
+        The main actions specified by instructions were performed by
+        the arithmetic-logic circuits of the data processing unit.  An
+        electronic clock circuit was used to generate the signals
+        needed to synchronise the operation of the different parts of
+        the system.
+     
+        (1996-11-24)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ias</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Pathopoela \Path`o*p[oe]"la\, n.; pl. {-ias}. [NL., from Gr. ?;
+   ? passion + ? to make.] (Rhet.)
+   A speech, or figure of speech, designed to move the passion.
+   --Smart.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ias</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>IAS
+     Interactive Application System (DEC)
+     
+     
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

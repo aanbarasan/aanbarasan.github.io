@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hacker</Word>
+  <Definitions>
+    <Definition>
+      <Word>hacker</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>hacker
+     
+        &lt;person, jargon&gt; (Originally, someone who makes furniture with
+        an axe) 1. A person who enjoys exploring the details of
+        programmable systems and how to stretch their capabilities, as
+        opposed to most users, who prefer to learn only the minimum
+        necessary.
+     
+        2. One who programs enthusiastically (even obsessively) or who
+        enjoys programming rather than just theorizing about
+        programming.
+     
+        3. A person capable of appreciating {hack value}.
+     
+        4. A person who is good at programming quickly.
+     
+        5. An expert at a particular program, or one who frequently
+        does work using it or on it; as in "a {Unix} hacker".
+        (Definitions 1 through 5 are correlated, and people who fit
+        them congregate.)
+     
+        6. An expert or enthusiast of any kind.  One might be an
+        astronomy hacker, for example.
+     
+        7. One who enjoys the intellectual challenge of creatively
+        overcoming or circumventing limitations.
+     
+        8. (Deprecated) A malicious meddler who tries to discover
+        sensitive information by poking around.  Hence "password
+        hacker", "network hacker".  The correct term is {cracker}.
+     
+        The term "hacker" also tends to connote membership in the
+        global community defined by the net (see {The Network} and
+        {Internet address}).  It also implies that the person
+        described is seen to subscribe to some version of the {hacker
+        ethic}.
+     
+        It is better to be described as a hacker by others than to
+        describe oneself that way.  Hackers consider themselves
+        something of an elite (a meritocracy based on ability), though
+        one to which new members are gladly welcome.  Thus while it is
+        gratifying to be called a hacker, false claimants to the title
+        are quickly labelled as "bogus" or a "{wannabee}".
+     
+        9. (University of Maryland, rare) A programmer who does not
+        understand proper programming techniques and principles and
+        doesn't have a Computer Science degree.  Someone who just
+        bangs on the keyboard until something happens.  For example,
+        "This program is nothing but {spaghetti code}.  It must have
+        been written by a hacker".
+     
+        [{Jargon File}]
+     
+        (1996-08-26)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hacker</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>hacker \hack"er\ (h[a^]k"[~e]r), n.
+   One who, or that which, hacks. Specifically: A cutting
+   instrument for making notches; esp., one used for notching
+   pine trees in collecting turpentine; a hack.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hacker</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>hacker n. [originally, someone who makes furniture with an axe] 1. A
+   person who enjoys exploring the details of programmable systems and how
+   to stretch their capabilities, as opposed to most users, who prefer to
+   learn only the minimum necessary. 2. One who programs enthusiastically
+   (even obsessively) or who enjoys programming rather than just theorizing
+   about programming. 3. A person capable of appreciating {hack value}. 4.
+   A person who is good at programming quickly. 5. An expert at a
+   particular program, or one who frequently does work using it or on it;
+   as in `a Unix hacker'. (Definitions 1 through 5 are correlated, and
+   people who fit them congregate.) 6. An expert or enthusiast of any kind.
+   One might be an astronomy hacker, for example. 7. One who enjoys the
+   intellectual challenge of creatively overcoming or circumventing
+   limitations. 8. [deprecated] A malicious meddler who tries to discover
+   sensitive information by poking around. Hence `password hacker',
+   `network hacker'. The correct term for this sense is {cracker}.
+
+   The term `hacker' also tends to connote membership in the global
+   community defined by the net (see {the network} and {Internet address}).
+   For discussion of some of the basics of this culture, see the How To
+   Become A Hacker (http://www.tuxedo.org/~esr/faqs/hacker-howto.html) FAQ.
+   It also implies that the person described is seen to subscribe to some
+   version of the hacker ethic (see {hacker ethic}).
+
+   It is better to be described as a hacker by others than to describe
+   oneself that way. Hackers consider themselves something of an elite (a
+   meritocracy based on ability), though one to which new members are
+   gladly welcome. There is thus a certain ego satisfaction to be had in
+   identifying yourself as a hacker (but if you claim to be one and are
+   not, you'll quickly be labeled {bogus}). See also {geek}, {wannabee}.
+
+   This term seems to have been first adopted as a badge in the 1960s by
+   the hacker culture surrounding TMRC and the MIT AI Lab. We have a report
+   that it was used in a sense close to this entry's by teenage radio hams
+   and electronics tinkerers in the mid-1950s.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hacker</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hacker
+     n 1: someone who plays golf poorly
+     2: a programmer who breaks into computer systems in order to
+        steal or change or destroy information as a form of
+        cyber-terrorism [syn: {cyber-terrorist}, {cyberpunk}]
+     3: a programmer for whom computing is its own reward; may enjoy
+        the challenge of breaking into other computers but does no
+        harm; "true hackers subscribe to a code of ethics and look
+        down upon crackers"
+     4: one who works hard at boring tasks [syn: {hack}, {drudge}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

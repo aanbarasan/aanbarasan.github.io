@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>extinguisher</Word>
+  <Definitions>
+    <Definition>
+      <Word>extinguisher</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Extinguisher \Ex*tin"guish*er\, n.
+   One who, or that which, extinguishes; esp., a hollow cone or
+   other device for extinguishing a flame, as of a torch or
+   candle.
+   [1913 Webster]
+
+   {fire extinguisher} a portable device designed to deliver
+      chemicals, usually in a stream, that can suppress or
+      extinguish a fire. Examples of fire extinghuishers are a
+      {carbon dioxide extinguisher}, or {CO2 extinguisher}, and
+      {soda-acid extinguisher}.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>extinguisher</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>extinguisher
+     n : a manually operated device for extinguishing small fires
+         [syn: {fire extinguisher}, {asphyxiator}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

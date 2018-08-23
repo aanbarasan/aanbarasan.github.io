@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>hurtful</Word>
+  <Definitions>
+    <Definition>
+      <Word>hurtful</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Hurtful \Hurt"ful\, a.
+   Tending to impair or damage; injurious; mischievous;
+   occasioning loss or injury; as, hurtful words or conduct.
+
+   Syn: Pernicious; harmful; baneful; prejudicial; detrimental;
+        disadvantageous; mischievous; injurious; noxious;
+        unwholesome; destructive. -- {Hurt"ful*ly}, adv. --
+        {Hurt"ful*ness}, n.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>hurtful</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>hurtful
+     adj 1: causing hurt; "her hurtful unconsidered words"
+     2: harmful to living things; "deleterious chemical additives"
+        [syn: {deleterious}, {injurious}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

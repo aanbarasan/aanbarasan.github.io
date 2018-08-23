@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>gi</Word>
+  <Definitions>
+    <Definition>
+      <Word>gi</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>gi
+     
+        &lt;networking&gt; The {country code} for Gibraltar.
+     
+        (1999-01-27)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gi</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>GI
+     
+        {generic identifier}
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gi</Word>
+      <Dictionary>
+        <Id>vera</Id>
+        <Name>Virtual Entity of Relevant Acronyms (Version 1.9, June 2002)</Name>
+      </Dictionary>
+      <WordDefinition>GI
+     Gesellschaft fuer Informatik (org.)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>gi</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>gi
+     adj : of or relating to the stomach and intestines; "a
+           gastrointestinal disorder" [syn: {gastrointestinal}]
+     n : a unit of magnetomotive force equal to 0.7958 ampere-turns
+         [syn: {gilbert}, {Gb}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

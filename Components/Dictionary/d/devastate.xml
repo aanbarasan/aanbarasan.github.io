@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>devastate</Word>
+  <Definitions>
+    <Definition>
+      <Word>devastate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Devastate \Dev"as*tate\ (?; 277), v. t. [imp. &amp; p. p.
+   {Devastated}; p. pr. &amp; vb. n. {Devastating}.] [L. devastatus,
+   p. p. of devastare to devastate; de + vastare to lay waste,
+   vastus waste. See {Vast}.]
+   To lay waste; to ravage; to desolate.
+   [1913 Webster]
+
+         Whole countries . . . were devastated.   --Macaulay.
+
+   Syn: To waste; ravage; desolate; destroy; demolish; plunder;
+        pillage.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>devastate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>devastate
+     v 1: devastate or ravage; "The enemy lay waste to the countryside
+          after the invasion" [syn: {lay waste to}, {waste}, {desolate},
+           {ravage}, {scourge}]
+     2: overwhelm or overpower; "He was devastated by his grief when
+        his son died"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

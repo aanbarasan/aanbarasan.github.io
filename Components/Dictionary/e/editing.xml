@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>editing</Word>
+  <Definitions>
+    <Definition>
+      <Word>editing</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Edit \Ed"it\ ([e^]d"[i^]t), v. t. [imp. &amp; p. p. {Edited}; p. pr.
+   &amp; vb. n. {Editing}.] [F. ['e]diter, or L. editus, p. p. of
+   edere to give out, put forth, publish; e out + dare to give.
+   See {Date} a point of time.]
+   To superintend the publication of; to revise and prepare for
+   publication; to select, correct, arrange, etc., the matter
+   of, for publication; as, to edit a newspaper.
+   [1913 Webster]
+
+         Philosophical treatises which have never been edited.
+                                                  --Enfield.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>editing</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>editing
+     n : putting something (as a literary work or a legislative bill)
+         into acceptable form [syn: {redaction}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

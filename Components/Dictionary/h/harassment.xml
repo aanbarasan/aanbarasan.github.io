@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>harassment</Word>
+  <Definitions>
+    <Definition>
+      <Word>harassment</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Harassment \Har"ass*ment\ (-ment), n.
+   The act of harassing, or state of being harassed; worry;
+   annoyance; anxiety.
+   [1913 Webster]
+
+         Little harassments which I am led to suspect do
+         occasionally molest the most fortunate.  --Ld. Lytton.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>harassment</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>harassment
+     n 1: a feeling of intense annoyance caused by being tormented;
+          "so great was his harassment that he wanted to destroy
+          his tormentors" [syn: {torment}]
+     2: the act of tormenting by continued persistent attacks and
+        criticism [syn: {molestation}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

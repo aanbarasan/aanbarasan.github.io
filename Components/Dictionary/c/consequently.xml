@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>consequently</Word>
+  <Definitions>
+    <Definition>
+      <Word>consequently</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Consequently \Con"se*quent*ly\, adv.
+   By consequence; by natural or logical sequence or connection.
+
+   Syn: See {Accordingly}.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>consequently</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>consequently
+     adv 1: (sentence connectors) because of the reason given;
+            "consequently, he didn't do it"; "continued to have
+            severe headaches and accordingly returned to the
+            doctor" [syn: {accordingly}]
+     2: as a consequence; "he had good reason to be grateful for the
+        opportunities which they had made available to him and
+        which consequently led to the good position he now held"
+        [syn: {therefore}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

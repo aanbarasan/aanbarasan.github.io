@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>immaculate</Word>
+  <Definitions>
+    <Definition>
+      <Word>immaculate</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Immaculate \Im*mac"u*late\, a. [L. immaculatus; pref. im- not +
+   maculatus, p. p. of maculare to spot, stane, fr. macula spot.
+   See {Mail} armor.]
+   Without stain or blemish; spotless; undefiled; clear; pure.
+   [1913 Webster]
+
+         Were but my soul as pure
+         From other guilt as that, Heaven did not hold
+         One more immaculate.                     --Denham.
+   [1913 Webster]
+
+         Thou sheer, immaculate and silver fountain. --Shak.
+   [1913 Webster]
+
+   {Immaculate conception} (R. C. Ch.), the doctrine that the
+      Virgin Mary was conceived without original sin. --
+      {Im*mac"u*late*ly}, adv. -- {Im*mac"u*late*ness}, n.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>immaculate</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>immaculate
+     adj 1: completely neat and clean; "the apartment was immaculate";
+            "in her immaculate white uniform"; "a spick-and-span
+            kitchen"; "their spic red-visored caps" [syn: {speckless},
+             {spick-and-span}, {spic-and-span}, {spic}, {spick}, {spotless}]
+     2: free from stain or blemish [syn: {undefiled}]
+     3: without fault or error; "faultless logic"; "speaks
+        impeccable French"; "timing and technique were
+        immaculate"; "an immaculate record" [syn: {faultless}, {impeccable}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

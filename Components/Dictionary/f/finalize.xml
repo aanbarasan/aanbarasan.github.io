@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>finalize</Word>
+  <Definitions>
+    <Definition>
+      <Word>finalize</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>finalize \finalize\ v. t. [imp. &amp; p. p. {finalized}; p. pr. &amp;
+   vb. n. {finalizing}.]
+   to put the last touches on; put into final form.
+
+   Syn: make final, settle, nail down.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>finalize</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>finalize
+     v : make final; put the last touches on; put into final form;
+         "let's finalize the proposal" [syn: {finalise}, {settle},
+          {nail down}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

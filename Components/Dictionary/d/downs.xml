@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>downs</Word>
+  <Definitions>
+    <Definition>
+      <Word>downs</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Downs, IL (village, FIPS 20643)
+  Location: 40.39589 N, 88.87173 W
+  Population (1990): 620 (229 housing units)
+  Area: 1.2 sq km (land), 0.0 sq km (water)
+Downs, KS (city, FIPS 18500)
+  Location: 39.50332 N, 98.54680 W
+  Population (1990): 1119 (575 housing units)
+  Area: 2.3 sq km (land), 0.0 sq km (water)
+  Zip code(s): 67437
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

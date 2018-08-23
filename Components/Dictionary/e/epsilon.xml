@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>epsilon</Word>
+  <Definitions>
+    <Definition>
+      <Word>epsilon</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>epsilon
+     
+        1. &lt;character&gt; The fifth letter of the Greek alphabet.
+     
+        2. &lt;mathematics&gt; (From the Hungarian mathematician {Paul
+        Erdos}) A very small, insignificant, or negligible quantity of
+        something.
+     
+        The use of epsilon is from the {epsilon-delta method} of
+        {proof} in {differential calculus}.
+     
+        (2001-07-06)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>epsilon</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>EPSILON
+     
+        &lt;language&gt; A {macro} language with high level features
+        including strings and lists, developed by A.P. Ershov at
+        Novosibirsk in 1967.  EPSILON was used to implement {ALGOL 68}
+        on the {M-220}.
+     
+        ["Application of the Machine-Oriented Language Epsilon to
+        Software Development", I.V. Pottosin et al, in Machine
+        Oriented Higher Level Languages, W. van der Poel, N-H 1974,
+        pp. 417-434].
+     
+        [{Jargon File}]
+     
+        (1995-05-10)
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>epsilon</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>epsilon [see {delta}] 1. n. A small quantity of anything. "The cost is
+   epsilon." 2. adj. Very small, negligible; less than {marginal}. "We can
+   get this feature for epsilon cost." 3. `within epsilon of': close enough
+   to be indistinguishable for all practical purposes, even closer than
+   being `within delta of'. "That's not what I asked for, but it's within
+   epsilon of what I wanted." Alternatively, it may mean not close enough,
+   but very little is required to get it there: "My program is within
+   epsilon of working."
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>epsilon</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>epsilon
+     n : the 5th letter of the Greek alphabet
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

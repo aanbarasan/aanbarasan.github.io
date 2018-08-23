@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>deficiency</Word>
+  <Definitions>
+    <Definition>
+      <Word>deficiency</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Deficiency \De*fi"cien*cy\, n.; pl. {Deficiencies}. [See
+   {Deficient}.]
+   The state of being deficient; inadequacy; want; failure;
+   imperfection; shortcoming; defect. ``A deficiency of blood.''
+   --Arbuthnot.
+   [1913 Webster]
+
+         [Marlborough] was so miserably ignorant, that his
+         deficiencies made him the ridicule of his
+         contemporaries.                          --Buckle.
+   [1913 Webster]
+
+   {Deficiency of a curve} (Geom.), the amount by which the
+      number of double points on a curve is short of the maximum
+      for curves of the same degree.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>deficiency</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>deficiency
+     n 1: the state of needing something that is absent or
+          unavailable; "there is a serious lack of insight into
+          the problem"; "water is the critical deficiency in
+          desert regions"; "for want of a nail the shoe was lost"
+          [syn: {lack}, {want}]
+     2: lack of an adequate quantity or number; "the inadequacy of
+        unemployment benefits" [syn: {insufficiency}, {inadequacy}]
+        [ant: {sufficiency}, {sufficiency}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

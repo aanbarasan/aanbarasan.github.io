@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>configured</Word>
+  <Definitions>
+    <Definition>
+      <Word>configured</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Configure \Con*fig"ure\, v. t. [imp. &amp; p. p. {Configured}; p.
+   pr. &amp; vb. n. {Configuring}.] [L. configurare: cf. F.
+   configurer. See {Configurate}.]
+   To arrange or dispose in a certain form, figure, or shape.
+   --Bentley.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>configured</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>configured
+     adj : organized so as to give configuration to; "a magnet is
+           surrounded by a configured field"; "a vehicle designed
+           for rough terrain" [syn: {designed}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

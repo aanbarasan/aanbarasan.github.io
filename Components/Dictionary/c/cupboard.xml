@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cupboard</Word>
+  <Definitions>
+    <Definition>
+      <Word>cupboard</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cupboard \Cup"board\ (k[u^]b"b[~e]rd), n. [Cup + board.]
+   1. A board or shelf for cups and dishes. [Obs.] --Bacon.
+      [1913 Webster]
+
+   2. A small closet in a room, with shelves to receive cups,
+      dishes, food, etc.; hence, any small closet.
+      [1913 Webster]
+
+   {Cupboard love}, interested love, or that which has an eye to
+      the cupboard. ``A cupboard love is seldom true.'' --Poor
+      Robin. [Colloq.]
+
+   {To cry cupboard}, to call for food; to express hunger.
+      [Colloq.] ``My stomach cries cupboard.'' --W. Irving.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cupboard</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cupboard \Cup"board\, v. t.
+   To collect, as into a cupboard; to hoard. [R.] --Shak.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cupboard</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cupboard
+     n : a small room (or recess) or cabinet used for storage space
+         [syn: {closet}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>cursory</Word>
+  <Definitions>
+    <Definition>
+      <Word>cursory</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Cursory \Cur"so*ry\ (k?r"s?-r?), a. [L. cursorius, fr. cursor.
+   See {Cursor}.]
+   1. Running about; not stationary. [Obs.]
+      [1913 Webster]
+
+   2. Characterized by haste; hastily or superficially
+      performed; slight; superficial; careless.
+      [1913 Webster]
+
+            Events far too important to be treated in a cursory
+            manner.                               --Hallam.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>cursory</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>cursory
+     adj : hasty and without attention to detail; not thorough; "a
+           casual (or cursory) inspection failed to reveal the
+           house's structural flaws"; "a passing glance";
+           "perfunctory courtesy" [syn: {casual}, {passing(a)}, {perfunctory}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

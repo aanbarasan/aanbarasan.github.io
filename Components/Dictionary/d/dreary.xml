@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dreary</Word>
+  <Definitions>
+    <Definition>
+      <Word>dreary</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dreary \Drear"y\ (dr[=e]r"[y^]), a. [Compar. {Drearier}; superl.
+   {Dreariest}.] [OE. dreori, dreri, AS. dre['o]rig, sad; akin
+   to G. traurig, and prob. to AS. dre['o]san to fall, Goth.
+   driusan. Cf. {Dross}, {Drear}, {Drizzle}, {Drowse}.]
+   1. Sorrowful; distressful. [Obs.] `` Dreary shrieks.''
+      --Spenser.
+      [1913 Webster]
+
+   2. Exciting cheerless sensations, feelings, or associations;
+      comfortless; dismal; gloomy. `` Dreary shades.'' --Dryden.
+      ``The dreary ground.'' --Prior.
+      [1913 Webster]
+
+            Full many a dreary anxious hour.      --Keble.
+      [1913 Webster]
+
+            Johnson entered on his vocation in the most dreary
+            part of that dreary interval which separated two
+            ages of prosperity.                   --Macaulay.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dreary</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dreary
+     adj 1: depressing in character or appearance; "drove through dingy
+            streets"; "the dismal prison twilight"- Charles
+            Dickens; "drab old buildings"; "a dreary mining town";
+            "gloomy tenements"; "sorry routine that follows on the
+            heels of death"- B.A.Williams [syn: {dingy}, {dismal},
+             {drab}, {drear}, {gloomy}, {sorry}]
+     2: lacking in liveliness or charm or surprise; "her drab
+        personality"; "life was drab compared with the more
+        exciting life style overseas"; "a series of dreary dinner
+        parties" [syn: {drab}]
+     [also: {dreariest}, {drearier}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

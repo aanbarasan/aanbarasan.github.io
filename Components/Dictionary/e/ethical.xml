@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>ethical</Word>
+  <Definitions>
+    <Definition>
+      <Word>ethical</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Ethic \Eth"ic\, Ethical \Eth"ic*al\, a. [L. ethicus, Gr. ?, fr.
+   ? custom, usage, character, dwelling; akin to ? custom, Goth.
+   sidus, G. sitte, Skr. svadh?, prob. orig., one's own doing;
+   sva self + dh? to set: cf. F. ['e]thique. See {So}, {Do}.]
+   Of, or belonging to, morals; treating of the moral feelings
+   or duties; containing percepts of morality; moral; as, ethic
+   discourses or epistles; an ethical system; ethical
+   philosophy.
+   [1913 Webster]
+
+         The ethical meaning of the miracles.     --Trench.
+   [1913 Webster]
+
+   {Ethical dative} (Gram.), a use of the dative of a pronoun to
+      signify that the person or thing spoken of is regarded
+      with interest by some one; as, Quid mihi Celsus agit? How
+      does my friend Celsus do?
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>ethical</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>ethical
+     adj 1: of or relating to the philosophical study of ethics;
+            "ethical codes"; "ethical theories"
+     2: conforming to accepted standards of social or professional
+        behavior; "an ethical lawyer"; "ethical medical practice";
+        "an ethical problem"; "had no ethical objection to
+        drinking"; "Ours is a world of nuclear giants and ethical
+        infants"- Omar N. Bradley [ant: {unethical}]
+     3: adhering to ethical and moral principles; "it seems ethical
+        and right"; "followed the only honorable course of
+        action"; "had the moral courage to stand alone" [syn: {honorable},
+         {honourable}, {moral}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

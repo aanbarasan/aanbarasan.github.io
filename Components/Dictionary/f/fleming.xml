@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>fleming</Word>
+  <Definitions>
+    <Definition>
+      <Word>fleming</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Fleming, CO (town, FIPS 26875)
+  Location: 40.68118 N, 102.83980 W
+  Population (1990): 344 (167 housing units)
+  Area: 1.1 sq km (land), 0.0 sq km (water)
+  Zip code(s): 80728
+Fleming, GA
+  Zip code(s): 31309
+Fleming, MO (city, FIPS 24562)
+  Location: 39.19288 N, 94.05122 W
+  Population (1990): 130 (57 housing units)
+  Area: 1.4 sq km (land), 0.0 sq km (water)
+Fleming, OH
+  Zip code(s): 45729
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fleming</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Fleming \Flem"ing\, n.
+   A native or inhabitant of Flanders.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>fleming</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Fleming
+     n 1: British writer famous for writing spy novels about secret
+          agent James Bond (1908-1964) [syn: {Ian Fleming}, {Ian
+          Lancaster Fleming}]
+     2: English bacteriologist who discovered penicillin (1881-1955)
+        [syn: {Alexander Fleming}, {Sir Alexander Fleming}]
+     3: a native of Flanders or a Flemish-speaking Belgian
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

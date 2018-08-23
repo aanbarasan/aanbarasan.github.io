@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>disappear</Word>
+  <Definitions>
+    <Definition>
+      <Word>disappear</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Disappear \Dis`ap*pear"\, v. i. [imp. &amp; p. p. {Disappeared}; p.
+   pr. &amp; vb. n. {Disappearing}.]
+   1. To cease to appear or to be perceived; to pass from view,
+      gradually or suddenly; to vanish; to be no longer seen;
+      as, darkness disappears at the approach of light; a ship
+      disappears as she sails from port.
+      [1913 Webster]
+
+   2. To cease to be or exist; as, the epidemic has disappeared.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>disappear</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>disappear
+     v 1: get lost, especially without warning or explanation; "He
+          disappeared without a trace" [syn: {vanish}, {go away}]
+          [ant: {appear}]
+     2: become invisible or unnoticeable; "The effect vanished when
+        day broke" [syn: {vanish}, {go away}]
+     3: cease to exist; "An entire civilization vanished" [syn: {vanish}]
+        [ant: {appear}]
+     4: become less intense and fade away gradually; "her resistance
+        melted under his charm" [syn: {melt}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

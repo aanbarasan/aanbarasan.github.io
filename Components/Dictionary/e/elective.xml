@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>elective</Word>
+  <Definitions>
+    <Definition>
+      <Word>elective</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Elective \E*lect"ive\, a. [Cf. F. ['e]lectif.]
+   1. Exerting the power of choice; selecting; as, an elective
+      act.
+      [1913 Webster]
+
+   2. Pertaining to, or consisting in, choice, or right of
+      choosing; electoral.
+      [1913 Webster]
+
+            The independent use of their elective franchise.
+                                                  --Bancroft.
+      [1913 Webster]
+
+   3. Bestowed or passing by election; as, an elective office.
+      [1913 Webster]
+
+            Kings of Rome were at first elective; . . . for such
+            are the conditions of an elective kingdom. --Dryden.
+      [1913 Webster]
+
+   4. Dependent on choice; that can be refused; as, an elective
+      college course. Opposite of {required} or {mandatory}.
+      [1913 Webster +PJC]
+
+   {Elective affinity} or {Elective attraction} (Chem.), a
+      tendency to unite with certain things; chemism.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>elective</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Elective \E*lect"ive\, n.
+   In an American college, an optional study or course of study;
+   a course that is not required. [Colloq.]
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>elective</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>elective
+     adj 1: subject to popular election; "elective official" [syn: {elected}]
+            [ant: {appointive}]
+     2: not compulsory; "elective surgery"; "an elective course of
+        study"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

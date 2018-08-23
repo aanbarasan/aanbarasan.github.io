@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>humdrum</Word>
+  <Definitions>
+    <Definition>
+      <Word>humdrum</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Humdrum \Hum"drum`\, a.
+   Monotonous; dull; commonplace. ``A humdrum crone.'' --Bryant.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>humdrum</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Humdrum \Hum"drum`\, n.
+   1. A dull fellow; a bore. --B. Jonson.
+      [1913 Webster]
+
+   2. Monotonous and tedious routine.
+      [1913 Webster]
+
+            Dissatisfied with humdrum.            --The Nation.
+      [1913 Webster]
+
+   3. A low cart with three wheels, drawn by one horse.
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>humdrum</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>humdrum
+     adj 1: not challenging; dull and lacking excitement; "an
+            unglamorous job greasing engines" [syn: {commonplace},
+             {prosaic}, {unglamorous}, {unglamourous}]
+     2: tediously repetitious or lacking in variety; "a humdrum
+        existence; all work and no play"; "nothing is so
+        monotonous as the sea" [syn: {monotonous}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

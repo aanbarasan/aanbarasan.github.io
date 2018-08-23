@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>industrial</Word>
+  <Definitions>
+    <Definition>
+      <Word>industrial</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Industrial \In*dus"tri*al\, a. [Cf. F. industriel, LL.
+   industrialis. See {Industry}.]
+   Consisting in industry; pertaining to industry, or the arts
+   and products of industry; concerning those employed in labor,
+   especially in manual labor, and their wages, duties, and
+   rights.
+   [1913 Webster]
+
+         The great ideas of industrial development and economic
+         social amelioration.                     --M. Arnold.
+   [1913 Webster]
+
+   {Industrial exhibition}, a public exhibition of the various
+      industrial products of a country, or of various countries.
+      
+
+   {Industrial school}, a school for teaching one or more
+      branches of industry; also, a school for educating
+      neglected children, and training them to habits of
+      industry.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>industrial</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>blue-collar \blue-collar\ adj.
+   1. of or designating work or workers in industry not
+      requiring well-groomed appearance. [Narrower terms:
+      {industrial}] {white-collar}
+      [WordNet 1.5]
+
+   2. of those who work for wages especially manual or
+      industrial laborers. [Narrower terms: {lower-class,
+      low-class}]
+
+   Syn: propertyless, wage-earning, working-class.
+        [WordNet 1.5]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>industrial</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>industrial
+     adj 1: of or relating to or resulting from industry; "industrial
+            output"
+     2: having highly developed industries; "the industrial
+        revolution"; "an industrial nation" [ant: {nonindustrial}]
+     3: employed in industry; "industrial workers"; "the industrial
+        term in use among professional thieves"
+     4: employed in industry; "the industrial classes"; "industrial
+        work"
+     5: suitable to stand up to hard wear; "industrial carpeting"
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

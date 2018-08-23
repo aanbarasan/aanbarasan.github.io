@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>diffusing</Word>
+  <Definitions>
+    <Definition>
+      <Word>diffusing</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Diffuse \Dif*fuse"\, v. t. [imp. &amp; p. p. {Diffused}; p. pr. &amp;
+   vb. n. {Diffusing}.] [L. diffusus, p. p. of diffundere to
+   pour out, to diffuse; dif- = dis- + fundere to pour. See
+   {Fuse} to melt.]
+   To pour out and cause to spread, as a fluid; to cause to flow
+   on all sides; to send out, or extend, in all directions; to
+   spread; to circulate; to disseminate; to scatter; as to
+   diffuse information.
+   [1913 Webster]
+
+         Thence diffuse
+         His good to worlds and ages infinite.    --Milton.
+   [1913 Webster]
+
+         We find this knowledge diffused among all civilized
+         nations.                                 --Whewell.
+
+   Syn: To expand; spread; circulate; extend; scatter; disperse;
+        publish; proclaim.
+        [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>diffusing</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>diffusing
+     adj : spreading by diffusion [syn: {diffusing(a)}, {diffusive}, {dispersive},
+            {disseminative}, {disseminating}, {scattering}, {spreading}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>depth</Word>
+  <Definitions>
+    <Definition>
+      <Word>depth</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Depth \Depth\ (s[e^]pth), n. [From {Deep}; akin to D. diepte,
+   Icel. d[=y]pt, d[=y]p[eth], Goth. diupi[thorn]a.]
+   1. The quality of being deep; deepness; perpendicular
+      measurement downward from the surface, or horizontal
+      measurement backward from the front; as, the depth of a
+      river; the depth of a body of troops.
+      [1913 Webster]
+
+   2. Profoundness; extent or degree of intensity; abundance;
+      completeness; as, depth of knowledge, or color.
+      [1913 Webster]
+
+            Mindful of that heavenly love
+            Which knows no end in depth or height. --Keble.
+      [1913 Webster]
+
+   3. Lowness; as, depth of sound.
+      [1913 Webster]
+
+   4. That which is deep; a deep, or the deepest, part or place;
+      the deep; the middle part; as, the depth of night, or of
+      winter.
+      [1913 Webster]
+
+            From you unclouded depth above.       --Keble.
+      [1913 Webster]
+
+            The depth closed me round about.      --Jonah ii. 5.
+      [1913 Webster]
+
+   5. (Logic) The number of simple elements which an abstract
+      conception or notion includes; the comprehension or
+      content.
+      [1913 Webster]
+
+   6. (Horology) A pair of toothed wheels which work together.
+      [R.]
+      [1913 Webster]
+
+   7. (A["e]ronautics) The perpendicular distance from the chord
+      to the farthest point of an arched surface.
+      [Webster 1913 Suppl.]
+
+   8. (Computers) the maximum number of times a type of
+      procedure is reiteratively called before the last call is
+      exited; -- of subroutines or procedures which are
+      reentrant; -- used of call stacks.
+      [PJC]
+
+   {Depth of a sail} (Naut.), the extent of a square sail from
+      the head rope to the foot rope; the length of the after
+      leach of a staysail or boom sail; -- commonly called the
+      {drop of a sail}.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>depth</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>depth
+     n 1: extent downward or backward or inward; "the depth of the
+          water"; "depth of a shelf"; "depth of a closet"
+     2: degree of psychological or intellectual depth
+     3: (usually plural) the deepest and most remote part; "from the
+        depths of darkest Africa"; "signals received from the
+        depths of space"
+     4: (usually plural) a low moral state; "he had sunk to the
+        depths of addiction"
+     5: the intellectual ability to penetrate deeply into ideas
+        [syn: {astuteness}, {profundity}, {profoundness}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

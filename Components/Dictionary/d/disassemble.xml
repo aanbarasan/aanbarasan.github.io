@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>disassemble</Word>
+  <Definitions>
+    <Definition>
+      <Word>disassemble</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>disassemble \dis`as*sem"ble\ v. t.
+   1. to take apart; to disconnect the parts of; to convert a
+      whole into its constituent pieces.
+
+   Syn: dismantle, take apart, break apart, break up. [PJC]
+
+   2. (Computers) to convert a computer program in machine
+      language into an equivalent assembly-language file.
+      [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>disassemble</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>disassemble \dis`as*sem"ble\ v. i.
+   to be able to come apart easily; to be converted into
+   constituent parts; as, the rifle disassembles into small
+   pieces for concealment.
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>disassemble</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>disassemble
+     v : take apart into its constituent pieces [syn: {dismantle}, {take
+         apart}, {break up}, {break apart}] [ant: {assemble}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

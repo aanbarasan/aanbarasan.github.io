@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>goldberg</Word>
+  <Definitions>
+    <Definition>
+      <Word>goldberg</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>Goldberg
+     n : United States cartoonist who drew intricate diagrams of very
+         complicated and impractical contraptions that
+         accomplished little or nothing (1883-1970) [syn: {Rube
+         Goldberg}, {Reuben Lucius Goldberg}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>eyeliner</Word>
+  <Definitions>
+    <Definition>
+      <Word>eyeliner</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>eyeliner \eye"lin`er\ ([imac]"l[imac]`n[~e]r), n.
+   a cosmetic powder of a dark tint, applied to the eyelid close
+   to the base of the eyelashes to accentuate the eyes. Compare
+   {eye shadow}.
+   [PJC]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>eyeliner</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>eyeliner
+     n : makeup applied to emphasize the shape of the eyes
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

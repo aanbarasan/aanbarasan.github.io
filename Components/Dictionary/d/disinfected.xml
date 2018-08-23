@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>disinfected</Word>
+  <Definitions>
+    <Definition>
+      <Word>disinfected</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Disinfect \Dis`in*fect"\, v. t. [imp. &amp; p. p. {Disinfected}; p.
+   pr. &amp; vb. n. {Disinfecting}.]
+   To free from infectious or contagious matter; to destroy
+   putrefaction; to purify; to make innocuous.
+   [1913 Webster]
+
+         When the infectious matter and the infectious matter
+         and the odoriferous matter are one . . . then to
+         deodorize is to disinfect.               --Ure.
+   [1913 Webster]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

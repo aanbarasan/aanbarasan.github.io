@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>entirety</Word>
+  <Definitions>
+    <Definition>
+      <Word>entirety</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Entirety \En*tire"ty\, n.; pl. {Entireness}. [OF. entieret['e].
+   Cf. {Integrity}.]
+   1. The state of being entire; completeness; as, entirely of
+      interest. --Blackstone.
+      [1913 Webster]
+
+   2. That which is entire; the whole. --Bacon.
+      [1913 Webster]
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>entirety</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>entirety
+     n : the state of being total; "appalled by the totality of the
+         destruction" [syn: {entireness}, {totality}]
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>

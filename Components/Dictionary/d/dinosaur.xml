@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://services.aonaware.com/webservices/">
+  <Word>dinosaur</Word>
+  <Definitions>
+    <Definition>
+      <Word>dinosaur</Word>
+      <Dictionary>
+        <Id>foldoc</Id>
+        <Name>The Free On-line Dictionary of Computing (27 SEP 03)</Name>
+      </Dictionary>
+      <WordDefinition>dinosaur
+     
+        1. Any hardware requiring raised flooring and special power.
+        Used especially of old {minicomputer}s and {mainframe}s, in
+        contrast with newer {microprocessor}-based machines.
+     
+        In a famous quote from the 1988 Unix EXPO, {Bill Joy} compared
+        the liquid-cooled mainframe in the massive {IBM} display with
+        a grazing dinosaur "with a truck outside pumping its bodily
+        fluids through it".  IBM was not amused.
+     
+        Compare {big iron}; see also {dinosaurs mating}.
+     
+        2. [IBM] A very conservative user; a {zipperhead}.
+     
+        [{Jargon File}]
+     
+     
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dinosaur</Word>
+      <Dictionary>
+        <Id>gazetteer</Id>
+        <Name>U.S. Gazetteer (1990)</Name>
+      </Dictionary>
+      <WordDefinition>Dinosaur, CO (town, FIPS 20495)
+  Location: 40.24156 N, 109.00804 W
+  Population (1990): 324 (157 housing units)
+  Area: 1.8 sq km (land), 0.0 sq km (water)
+  Zip code(s): 81610
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dinosaur</Word>
+      <Dictionary>
+        <Id>gcide</Id>
+        <Name>The Collaborative International Dictionary of English v.0.44</Name>
+      </Dictionary>
+      <WordDefinition>Dinosaur \Di"no*saur\, Dinosaurian \Di`no*sau"ri*an\, n. [Gr. ?
+   terrible + ? lizard.] (Paleon.)
+   One of the Dinosauria. [Written also {deinosaur}, and
+   {deinosaurian}.]
+   [1913 Webster] ||
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dinosaur</Word>
+      <Dictionary>
+        <Id>jargon</Id>
+        <Name>Jargon File (4.3.1, 29 Jun 2001)</Name>
+      </Dictionary>
+      <WordDefinition>dinosaur n. 1. Any hardware requiring raised flooring and special
+   power. Used especially of old minis and mainframes, in contrast with
+   newer microprocessor-based machines. In a famous quote from the 1988
+   Unix EXPO, Bill Joy compared the liquid-cooled mainframe in the massive
+   IBM display with a grazing dinosaur "with a truck outside pumping its
+   bodily fluids through it". IBM was not amused. Compare {big iron}; see
+   also {mainframe}. 2. [IBM] A very conservative user; a {zipperhead}.
+
+
+</WordDefinition>
+    </Definition>
+    <Definition>
+      <Word>dinosaur</Word>
+      <Dictionary>
+        <Id>wn</Id>
+        <Name>WordNet (r) 2.0</Name>
+      </Dictionary>
+      <WordDefinition>dinosaur
+     n : any of numerous extinct terrestrial reptiles of the Mesozoic
+         era
+</WordDefinition>
+    </Definition>
+  </Definitions>
+</WordDefinition>
