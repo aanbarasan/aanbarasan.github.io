@@ -9,12 +9,13 @@
     <link href="../Plugins/Bootstrap/css/bootstrap.min.css" rel="stylesheet" />
     <link href="../Plugins/Bootstrap/css/bootstrap-theme.min.css" rel="stylesheet" />
     <link href="../Components/CSS/LayoutProperties.css" rel="stylesheet" />
-    <script src="../Plugins/Jquery/jquery.min.js"></script>
-    <script src="../Plugins/Angular/angular.min.js"></script>
-    <script src="../Plugins/Bootstrap/js/bootstrap.min.js"></script>
-    <script src="../Components/JS/commanFunctions.js"></script>
-    <script src="Jsonfile.js"></script>
-    <script src="function.js"></script>
+    <script type="text/javascript" src="../Plugins/Jquery/jquery.min.js"></script>
+    <script type="text/javascript" src="../Plugins/Angular/angular.min.js"></script>
+    <script type="text/javascript" src="../Plugins/Bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../Components/JS/commanFunctions.js"></script>
+    <script type="text/javascript" src="wordList.js"></script>
+    <script type="text/javascript" src="commonWordHide.js"></script>
+    <script type="text/javascript" src="function.js"></script>
     <style>
         .np {
             padding:0px;
@@ -123,6 +124,33 @@
             z-index:2;
             outline: none;
         }
+        #workListContainerTable td,th{
+        	text-align: center;
+        }
+        #workListContainerTable .meaningColumn {
+        	padding : 5px;
+        }
+        #workListContainerTable .meaningColumn > pre {
+       	    color: black;
+		    max-height: 66px;
+		    overflow: hidden;
+		    padding: 5px;
+		    background-color: transparent;
+    		border: none;
+    		text-align: left;
+        }
+        #workListContainerTable .textColumn {
+        	padding : 5px;
+        }
+        #workListContainerTable th {
+        	padding: 10px;
+		    min-width: 100px;
+		    font-size: 17px;
+        }
+        #workListContainerTable td.hideColumn{
+        	color: blue;
+        	cursor: pointer;
+        }
     </style>
 </head>
 <body class="layoutBody">
@@ -136,76 +164,15 @@
     </div>
     <div class="col-sm-12 layoutContent" style="background-color:white;">
         <div style="min-height: 600px;">
-            <table style="width:100%;">
+            <table style="width:100%;" id="workListContainerTable" border="1">
                 <thead>
-                    <th style="min-width:100px;">Word</th>
-                    <th style="min-width:100px;">Meaning</th>
-                </thead>
-                <tbody id="workListContainer">
-                    <tr>
-                        <td>
-                            about
-                        </td>
-                        <td> <pre>
-                                About \A*bout"\, prep. [OE. aboute, abouten, abuten; AS.
-                                [=a]butan, onbutan; on + butan, which is from be by + utan
-                                outward, from ut out. See {But}, {Out}.]
-                                [1913 Webster]
-                                1. Around; all round; on every side of. ``Look about you.''
-                                   --Shak. ``Bind them about thy neck.'' --Prov. iii. 3.
-                                   [1913 Webster]
-                             
-                                2. In the immediate neighborhood of; in contiguity or
-                                   proximity to; near, as to place; by or on (one's person).
-                                   ``Have you much money about you?'' --Bulwer.
-                                   [1913 Webster]
-                             
-                                3. Over or upon different parts of; through or over in
-                                   various directions; here and there in; to and fro in;
-                                   throughout.
-                                   [1913 Webster]
-                             
-                                         Lampoons . . . were handed about the coffeehouses.
-                                                                               --Macaulay.
-                                   [1913 Webster]
-                             
-                                         Roving still about the world.         --Milton.
-                                   [1913 Webster]
-                             
-                                4. Near; not far from; -- determining approximately time,
-                                   size, quantity. ``To-morrow, about this time.'' --Exod.
-                                   ix. 18. ``About my stature.'' --Shak.
-                                   [1913 Webster]
-                             
-                                         He went out about the third hour.     --Matt. xx. 3.
-                                   [1913 Webster]
-                             
-                                Note: This use passes into the adverbial sense.
-                                      [1913 Webster]
-                             
-                                5. In concern with; engaged in; intent on.
-                                   [1913 Webster]
-                             
-                                         I must be about my Father's business. --Luke ii. 49.
-                                   [1913 Webster]
-                             
-                                6. Before a verbal noun or an infinitive: On the point or
-                                   verge of; going; in act of.
-                                   [1913 Webster]
-                             
-                                         Paul was now aboutto open his mouth.  --Acts xviii.
-                                                                               14.
-                                   [1913 Webster]
-                             
-                                7. Concerning; with regard to; on account of; touching. ``To
-                                   treat about thy ransom.'' --Milton.
-                                   [1913 Webster]
-                             
-                                         She must have her way about Sarah.    --Trollope.
-                                   [1913 Webster]
-                            </pre>
-                        </td>
+                	<tr>
+	                    <th>Word</th>
+	                    <th>Meaning</th>
+	                    <th></th>
                     </tr>
+                </thead>
+                <tbody id="workListContainerTBody">
                 </tbody>
             </table>
         </div>
