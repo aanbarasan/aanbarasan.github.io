@@ -6,6 +6,14 @@
         return false;
     }
 }
+
+function toggleVisblityForId(arg){
+	for(var i=0;i<arg.length;i++){
+		var id = arg[i];
+		$("#"+id).toggle();
+	}
+}
+
 function clearThisPageLocalStorage() {
     localStorage.singleClickEnabledLocal = "";
     localStorage.enterToNextTabLocal = "";

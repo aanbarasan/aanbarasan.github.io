@@ -3,8 +3,8 @@
 <head>
     <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
     <meta name="author" content="Anbarasan"/>
-    <meta name="description" content="It looks like Excel format sheet. Can edit the context and get line wise updated text."/>
-    <meta name="keywords" content="Text multiple builder, Query builder, String muliple builder, Excel format joining editor"/>
+    <meta name="description" content="Tv Show The big bang theory all words and meanings"/>
+    <meta name="keywords" content="Big bang theory words meaning"/>
     <title>Query Builder</title>
     <link href="../Plugins/Bootstrap/css/bootstrap.min.css" rel="stylesheet" />
     <link href="../Plugins/Bootstrap/css/bootstrap-theme.min.css" rel="stylesheet" />
@@ -151,6 +151,11 @@
         	color: blue;
         	cursor: pointer;
         }
+        #pagination .navigation{
+        	display: inline-block;
+        	padding: 5px;
+        	cursor: pointer;
+        }
     </style>
 </head>
 <body class="layoutBody">
@@ -163,10 +168,22 @@
         </div>
     </div>
     <div class="col-sm-12 layoutContent" style="background-color:white;">
+    	<div style="width: 100%;">
+    		<div class="pull-right" id="pagination" style="padding: 5px;">
+    			<div class="navigation" onclick="previousPage(event)">prev</div>
+   				<div class="navigation currentPageNumber" id="topCurrentPageNumber" 
+   					ondblclick="toggleVisblityForId(['topCurrentPageNumber', 'topCurrentPageNumberField'])"></div>
+   				<div class="navigation" id="topCurrentPageNumberField" style="display:none;">
+   					<input type="number" class="currentPageNumber" style="width:50px;" onchange="currentNumberValueChanged(event)"/>
+   				</div>
+    			<div class="navigation" onclick="nextPage(event)">next</div>
+    		</div>
+    	</div>
         <div style="min-height: 600px;">
             <table style="width:100%;" id="workListContainerTable" border="1">
                 <thead>
                 	<tr>
+                		<td>Index</td>
 	                    <th>Word</th>
 	                    <th>Meaning</th>
 	                    <th></th>
