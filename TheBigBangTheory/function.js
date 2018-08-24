@@ -96,7 +96,7 @@ function hideFunction(event) {
 		$(tr).remove();
 		commonWordHide.push(word);
 		console.log(commonWordHide);
-		removeInFormData(word);
+		// removeInFormData(word);
 	}
 }
 
@@ -121,22 +121,20 @@ function removeInFormData(word) {
 function appendDefinition(text, meaningTd) {
 	var folder = text.substring(0, 1);
 	var url = getUrl("Components/Dictionary/" + folder + "/" + text + ".xml");
-	$.get(url,
-			function(data) {
-				try {
-					var WordDefinition = $(data.documentElement).find(
-							"WordDefinition");
-					if (WordDefinition.length > 0) {
-						var definition = WordDefinition[0].textContent;
-						var content = "<pre>" + definition + "</pre>";
-						meaningTd.innerHTML = content;
-					}
-				} catch (e) {
-					console.error(text);
-					console.error(e);
-					eee = data;
-				}
-			});
+	$.get(url, function(data) {
+		try {
+			var WordDefinition = $(data.documentElement).find("WordDefinition");
+			if (WordDefinition.length > 0) {
+				var definition = WordDefinition[0].textContent;
+				var content = "<pre>" + definition + "</pre>";
+				meaningTd.innerHTML = content;
+			}
+		} catch (e) {
+			console.error(text);
+			console.error(e);
+			eee = data;
+		}
+	});
 }
 
 var localUrl = "../";
