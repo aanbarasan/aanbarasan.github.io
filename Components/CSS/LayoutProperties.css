@@ -57,7 +57,7 @@
     padding:5px 15px 5px 15px;
     width: auto;
 }
-.layoutBody a {
+.layoutBody .layoutFixedHeader a {
     color:white;
     text-decoration:none;
 }

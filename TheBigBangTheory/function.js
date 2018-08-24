@@ -10,7 +10,7 @@ function intPage() {
 }
 
 function reloadPages() {
-	updateTable(getWordList(currentPageNumber));
+	updateTableWithCurrentPage();
 }
 
 function previousPage(event) {
@@ -18,7 +18,7 @@ function previousPage(event) {
 	if (currentPageNumber > 1) {
 		currentPageNumber = currentPageNumber - 1;
 	}
-	updateTable(getWordList(currentPageNumber));
+	updateTableWithCurrentPage();
 }
 
 function nextPage(event) {
@@ -28,13 +28,13 @@ function nextPage(event) {
 		currentPageNumber = currentPageNumber + 1;
 		updateTable(words);
 	} else {
-		updateTable(getWordList(currentPageNumber));
+		updateTableWithCurrentPage();
 	}
 }
 
 function currentNumberValueChanged(event) {
 	currentPageNumber = parseInt($(event.target).val());
-	updateTable(getWordList(currentPageNumber));
+	updateTableWithCurrentPage();
 }
 
 function getWordList(pageNumber) {
@@ -55,6 +55,10 @@ function getWordList(pageNumber) {
 	return words;
 }
 
+function updateTableWithCurrentPage(){
+	updateTable(getWordList(currentPageNumber));
+}
+
 function updateTable(words) {
 	$(".currentPageNumber").html(currentPageNumber);
 	$(".currentPageNumber").val(currentPageNumber);
@@ -71,7 +75,8 @@ function updateTable(words) {
 		var meaningTd = document.createElement("td");
 		var hideColumn = document.createElement("td");
 		var tableRow = document.createElement("tr");
-		textTd.append(text);
+		var textTag = "<a href='https://www.google.com/search?q="+text+"+meaning' target='_blank' style='color:#0000ff;'>"+text+"</a>"
+		textTd.innerHTML = textTag;
 		hideColumn.innerHTML = "<span>Hide</span>";
 		textTd.classList.add("textColumn");
 		meaningTd.classList.add("meaningColumn");
@@ -97,7 +102,7 @@ function hideFunction(event) {
 		commonWordHide.push(word);
 		console.log(commonWordHide);
 		if($("#workListContainerTBody tr").length < 10){
-			updateTable(getWordList(currentPageNumber));
+			updateTableWithCurrentPage();
 		}
 		// removeInFormData(word);
 	}
