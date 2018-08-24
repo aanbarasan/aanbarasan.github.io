@@ -1,12 +1,26 @@
 window.wordPageSize = 50;
 window.currentPageNumber = 1;
+var tempHide = "temporaryHideWords";
 
 $(document).ready(function() {
 	intPage();
 });
 
 function intPage() {
+	temporaryHideWords();
 	reloadPages();
+}
+
+function temporaryHideWords(){
+	var tempString = localStorage[tempHide];
+	if(tempString){
+		var tempObject = JSON.parse(tempString);
+		if(tempObject.length > 0){
+			for(var i=0;i<tempObject.length;i++){
+				commonWordHide.push(tempObject[i]);
+			}
+		}
+	}
 }
 
 function reloadPages() {
@@ -100,12 +114,26 @@ function hideFunction(event) {
 	if (commonWordHide.indexOf(word) < 0) {
 		$(tr).remove();
 		commonWordHide.push(word);
+		removeWordInLocalStorage(word);
 		console.log(commonWordHide);
 		if($("#workListContainerTBody tr").length < 10){
 			updateTableWithCurrentPage();
 		}
 		// removeInFormData(word);
 	}
+}
+
+function removeWordInLocalStorage(word){
+	var tempString = localStorage[tempHide];
+	var tempObject = [];
+	if(!tempString){
+		tempObject = [word];
+	}
+	else {
+		tempObject = JSON.parse(tempString);
+		tempObject.push(word);
+	}
+	localStorage[tempHide] = JSON.stringify(tempObject);
 }
 
 function removeInFormData(word) {
