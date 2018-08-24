@@ -96,6 +96,9 @@ function hideFunction(event) {
 		$(tr).remove();
 		commonWordHide.push(word);
 		console.log(commonWordHide);
+		if($("#workListContainerTBody tr").length < 10){
+			updateTable(getWordList(currentPageNumber));
+		}
 		// removeInFormData(word);
 	}
 }
