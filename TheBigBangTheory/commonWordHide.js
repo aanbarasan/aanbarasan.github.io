@@ -17,4 +17,11 @@ window.commonWordHide = [ "you", "i", "the", "to", "a", "and", "of", "it",
 		"work", "let's", "talk", "fine", "people", "said", "love", "into",
 		"down", "thing", "very", "she's", "amy", "only", "kind", "much",
 		"even", "first", "does", "thought", "any", "give", "i'd", "nice",
-		"doesn't", "put", "please", "other", "new", "still" ];
+		"doesn't", "put", "please", "other", "new", "still", "started", "than",
+		"years", "man", "bang", "again", "fun", "things", "feel", "which",
+		"believe", "mother", "better", "day", "raj", "ever", "elderman",
+		"last", "cool", "might", "before", "course", "help", "being",
+		"they're", "made", "god", "date", "guy", "call", "anything", "friends",
+		"hello", "always", "talking", "friend", "science", "isn't", "home",
+		"life", "actually", "may", "thanks", "those", "hot", "told", "lot",
+		"while" ];
