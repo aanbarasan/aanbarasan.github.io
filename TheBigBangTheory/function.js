@@ -113,7 +113,7 @@ function updateTable(words) {
 		hideColumn.classList.add("hideColumn");
 		hideColumn.onclick = hideFunction;
 		$(textTd).attr("data-word", text);
-		indexTd.innerHTML = word.index + " <span>("+word.count+")</span>";
+		indexTd.innerHTML = word.index + " <span>(<a href='"+getDictionaryUrl(text)+"' target='_blank'>"+word.count+"</a>)</span>";
 		indexTd.style.textAlign = "left";
 		tableRow.appendChild(indexTd);
 		tableRow.appendChild(textTd);
