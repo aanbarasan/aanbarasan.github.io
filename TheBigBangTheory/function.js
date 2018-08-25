@@ -97,11 +97,15 @@ function updateTable(words) {
 		if (typeof (text) != "string") {
 			text = "" + text;
 		}
+		var indexTd = document.createElement("td");
 		var textTd = document.createElement("td");
 		var meaningTd = document.createElement("td");
 		var hideColumn = document.createElement("td");
 		var tableRow = document.createElement("tr");
-		var textTag = "<a title='"+word.count+" times repeat' href='"+getDictionaryUrl(text)+"' target='_blank' style='color:#0000ff;'>"+text+"</a>"
+		var textTag = "<a title='"+word.count+" times repeat' ";
+		// textTag = textTag + "href='"+getDictionaryUrl(text)+"' ";
+		textTag = textTag + "href='https://www.google.com/search?q="+text+"+meaning' "
+		textTag = textTag + "target='_blank' style='color:#0000ff;'>"+text+"</a>"
 		textTd.innerHTML = textTag;
 		hideColumn.innerHTML = "<span>Hide</span>";
 		textTd.classList.add("textColumn");
@@ -109,7 +113,9 @@ function updateTable(words) {
 		hideColumn.classList.add("hideColumn");
 		hideColumn.onclick = hideFunction;
 		$(textTd).attr("data-word", text);
-		tableRow.innerHTML = "<td>" + word.index + "</td>";
+		indexTd.innerHTML = word.index + " <span>("+word.count+")</span>";
+		indexTd.style.textAlign = "left";
+		tableRow.appendChild(indexTd);
 		tableRow.appendChild(textTd);
 		tableRow.appendChild(meaningTd);
 		tableRow.appendChild(hideColumn);
