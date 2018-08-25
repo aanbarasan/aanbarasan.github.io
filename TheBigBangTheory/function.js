@@ -89,7 +89,7 @@ function updateTable(words) {
 		var meaningTd = document.createElement("td");
 		var hideColumn = document.createElement("td");
 		var tableRow = document.createElement("tr");
-		var textTag = "<a href='https://www.google.com/search?q="+text+"+meaning' target='_blank' style='color:#0000ff;'>"+text+"</a>"
+		var textTag = "<a title='"+word.count+" times repeat' href='https://www.google.com/search?q="+text+"+meaning' target='_blank' style='color:#0000ff;'>"+text+"</a>"
 		textTd.innerHTML = textTag;
 		hideColumn.innerHTML = "<span>Hide</span>";
 		textTd.classList.add("textColumn");
@@ -157,27 +157,74 @@ function removeInFormData(word) {
 }
 
 function appendDefinition(text, meaningTd) {
-	var url = getUrl("Components/Dictionary1/" + text + ".json");
+	var url = getUrl("Components/Dictionary/" + text + ".json");
 	$.get(url, function(data) {
 		appendMeaingByJSON(data, meaningTd);
-		// appendMeaingByXML(data, meaningTd);
+	}).fail(function(){
+		meaningTd.innerHTML = "-";
 	});
 }
 
 function appendMeaingByJSON(data, meaningTd){
 	try {
-		console.log(data); 
-		eee = data;
-		var content = "<pre>";
+		var content = "";
+		var numberOfLines = 0;
 		for(var i=0;i<data.results.length;i++){
-			content = content + "" + (i + 1) + ". " + data.results[i].definition+"\n";
+			var result = splitToNextRow(data.results[i].definition, (i + 1), 80, 3);
+			numberOfLines = numberOfLines + result.lineNumbers;
+			content = content + result.text + "\n";
 		}
-		content = content + "</pre>";
-		meaningTd.innerHTML = content;
+		var preTag = document.createElement("pre");
+		preTag.innerHTML = content;
+		preTag.classList.add("heightLimit");
+		preTag.onclick = moreMeaningContent;
+		meaningTd.appendChild(preTag);
+		var numberOfLinesLimit = 3;
+		if(numberOfLines > numberOfLinesLimit){
+			var moreButton = document.createElement("span");
+			moreButton.innerHTML = "more("+(numberOfLines - numberOfLinesLimit)+")";
+			moreButton.classList.add("moreButton");
+			moreButton.onclick = moreMeaningContent;
+			meaningTd.appendChild(moreButton);
+		}
 	} catch (e) {
-		console.error(text);
+		console.error(data);
 		console.error(e);
 	}
+}
+
+function moreMeaningContent(event) {
+	var td = $(event.target).parent();
+	$(td).find(".heightLimit").removeClass("heightLimit");
+	$(td).find(".moreButton").remove();
+}
+
+function splitToNextRow(text, index, maxWidth, offSetValue){
+	var content = [];
+	var splitText = text.split(" ");
+	content.push(index + ". ");
+	for(var i=0;i<splitText.length;i++){
+		 var x = content[content.length-1];
+		 if((x.length + splitText[i].length) > maxWidth){
+			 var spaceText = "";
+			 for(var jj=0;jj<offSetValue;jj++){
+				 spaceText = spaceText + " ";
+			 }
+			 content.push(spaceText);
+			 if((content[content.length-1].length + splitText[i].length) > maxWidth){
+				 content[content.length-1] = content[content.length-1] + " " + splitText[i];
+			 }
+		 }
+		 content[content.length-1] = content[content.length-1] + " " + splitText[i];
+	}
+	
+	var result = { text : "" };
+	for(var i=0;i<content.length;i++){
+		result.text = result.text + ((i != 0) ? "\n" : "") + content[i]; 
+	}
+	result.lineNumbers = content.length;
+	
+	return result;
 }
 
 function appendMeaingByXML(data, meaningTd){

@@ -20,124 +20,26 @@
         .np {
             padding:0px;
         }
-        .layoutFlexBoxs{
-            float:left;
-            padding: 10px;
-            border: 1px solid rgb(218, 218, 218);
-            background-color: rgb(218, 218, 218);
-            /*margin: 3px;*/
-        }
-        .layoutFlexBoxs .layoutFlexBoxOver {
-           background-color: white;
-           padding: 3px;
-           min-height:400px;
-           max-height:500px;
-           overflow:auto;
-        }
-        .layoutTableTable {
-            width:100%;
-            background-color: white;
-        }
-        .layoutFullCellDiv {
-            user-select:none;
-            -webkit-user-select: none;
-            width:100%;
-            height:100%;
-        }
-        .layoutFullCellDivText {
-            user-select:none;
-            -webkit-user-select: none;
-            width:100%;
-            min-height:30px;
-            padding:3px;
-            padding-right:10px;
-        }
-        .layoutFullCellText {
-            user-select:initial;
-            -webkit-user-select:initial;
-            width:100%;
-            min-height: 30px;
-            max-height: 100%;
-            height: 100%;
-            border: 0px;
-            outline: 0px;
-        }
-        .layoutTableCell {
-            border-width:1px;
-            border-style: solid;
-            border-color: rgb(208, 208, 208);
-            color:gray;
-            cursor:default;
-            min-width: 30px;
-            position:relative;
-        }
-        .layoutSelectCell {
-        }
-        .layoutSelectCell.ST {
-            border-top-width:3px;
-        }
-        .layoutSelectCell.SR {
-            border-right-width:3px;
-        }
-        .layoutSelectCell.SB {
-            border-bottom-width:3px;
-        }
-        .layoutSelectCell.SL {
-            border-left-width:3px;
-        }
-        .headerIcon {
-            font-size: 40px;
-            cursor: pointer;
-            margin: 2px;
-        }
-        textarea.headingTextArea {
-            text-align:left;
-            height:60px;
-            width:200px;
-            margin:5px;
-            font-size: 14px;
-            font-weight: bold;
-            letter-spacing: 1px;
-            word-break: break-all;
-        }
-        .settingConditions {
-            margin:15px;
-        }
-        .columnsHeadTextContainer {
-            position: relative;
-        }
-        .columnsHeadTextContainer>button {
-            background-color:transparent;
-            border: 0px;
-            position: absolute;
-            top: 6px;
-            right: 6px;
-            height: 18px;
-            width: 15px;
-            vertical-align: middle;
-            -webkit-appearance: initial;
-            padding: 0px;
-            line-height: initial;
-            font-size: initial;
-            font-weight: initial;
-            font-family: initial;
-            z-index:2;
-            outline: none;
-        }
         #workListContainerTable td,th{
         	text-align: center;
         }
         #workListContainerTable .meaningColumn {
         	padding : 5px;
+        	position: relative;
         }
         #workListContainerTable .meaningColumn > pre {
        	    color: black;
-		    max-height: 66px;
-		    overflow: hidden;
 		    padding: 5px;
 		    background-color: transparent;
     		border: none;
     		text-align: left;
+        }
+        #workListContainerTable .meaningColumn .heightLimit{
+		    max-height: 66px;
+		    overflow: hidden;
+        }
+        #workListContainerTable .meaningColumn > pre{
+        	transition: max-height 5s ease-out;
         }
         #workListContainerTable .textColumn {
         	padding : 5px;
@@ -155,6 +57,13 @@
         	display: inline-block;
         	padding: 5px;
         	cursor: pointer;
+        }
+        #workListContainerTBody .moreButton{
+        	cursor: pointer;
+        	position: absolute;
+    		bottom: 4px;
+    		right: 10px;
+    		font-size: 9px;
         }
     </style>
 </head>
