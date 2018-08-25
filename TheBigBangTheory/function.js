@@ -157,22 +157,42 @@ function removeInFormData(word) {
 }
 
 function appendDefinition(text, meaningTd) {
-	var folder = text.substring(0, 1);
-	var url = getUrl("Components/Dictionary/" + folder + "/" + text + ".xml");
+	var url = getUrl("Components/Dictionary1/" + text + ".json");
 	$.get(url, function(data) {
-		try {
-			var WordDefinition = $(data.documentElement).find("WordDefinition");
-			if (WordDefinition.length > 0) {
-				var definition = WordDefinition[0].textContent;
-				var content = "<pre>" + definition + "</pre>";
-				meaningTd.innerHTML = content;
-			}
-		} catch (e) {
-			console.error(text);
-			console.error(e);
-			eee = data;
-		}
+		appendMeaingByJSON(data, meaningTd);
+		// appendMeaingByXML(data, meaningTd);
 	});
+}
+
+function appendMeaingByJSON(data, meaningTd){
+	try {
+		console.log(data); 
+		eee = data;
+		var content = "<pre>";
+		for(var i=0;i<data.results.length;i++){
+			content = content + "" + (i + 1) + ". " + data.results[i].definition+"\n";
+		}
+		content = content + "</pre>";
+		meaningTd.innerHTML = content;
+	} catch (e) {
+		console.error(text);
+		console.error(e);
+	}
+}
+
+function appendMeaingByXML(data, meaningTd){
+	try {
+		var WordDefinition = $(data.documentElement).find("WordDefinition");
+		if (WordDefinition.length > 0) {
+			var definition = WordDefinition[0].textContent;
+			var content = "<pre>" + definition + "</pre>";
+			meaningTd.innerHTML = content;
+		}
+	} catch (e) {
+		console.error(text);
+		console.error(e);
+		eee = data;
+	}
 }
 
 var localUrl = "../";
