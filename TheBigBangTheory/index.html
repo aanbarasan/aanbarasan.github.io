@@ -35,7 +35,7 @@
     		text-align: left;
         }
         #workListContainerTable .meaningColumn .heightLimit{
-		    max-height: 66px;
+		    max-height: 104px;
 		    overflow: hidden;
         }
         #workListContainerTable .meaningColumn > pre{
@@ -79,6 +79,12 @@
     <div class="col-sm-12 layoutContent" style="background-color:white;">
     	<div style="width: 100%;">
     		<div class="pull-right" id="pagination" style="padding: 5px;">
+    			<div class="navigation">
+    				<label>
+    					<input type="checkbox" id="switchToAllWordCheckBox" onchange="switchToAllWords(event)"/>
+    					Enable all words
+    				</label>
+    			</div>
     			<div class="navigation" onclick="previousPage(event)">prev</div>
    				<div class="navigation currentPageNumber" id="topCurrentPageNumber" 
    					ondblclick="toggleVisblityForId(['topCurrentPageNumber', 'topCurrentPageNumberField'])"></div>

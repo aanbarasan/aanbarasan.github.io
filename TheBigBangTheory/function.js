@@ -1,5 +1,6 @@
 window.wordPageSize = 50;
 window.currentPageNumber = 1;
+window.showAllWordsInTable = false;
 var tempHide = "temporaryHideWords";
 
 $(document).ready(function() {
@@ -55,7 +56,7 @@ function getWordList(pageNumber) {
 	var words = [];
 	var count = 0;
 	for (var i = 0; i < wordList.length; i++) {
-		if (commonWordHide.indexOf(wordList[i].word) < 0) {
+		if (commonWordHide.indexOf(wordList[i].word) < 0 || showAllWordsInTable) {
 			count++;
 			if (count > ((pageNumber - 1) * wordPageSize)) {
 				wordList[i].index = i;
@@ -67,6 +68,17 @@ function getWordList(pageNumber) {
 		}
 	}
 	return words;
+}
+
+function switchToAllWords(event){
+	var value = $("#switchToAllWordCheckBox")[0].checked;
+	if(value == true){
+		showAllWordsInTable = true;
+	}
+	else {
+		showAllWordsInTable = false;
+	}
+	updateTableWithCurrentPage();
 }
 
 function updateTableWithCurrentPage(){
@@ -89,7 +101,7 @@ function updateTable(words) {
 		var meaningTd = document.createElement("td");
 		var hideColumn = document.createElement("td");
 		var tableRow = document.createElement("tr");
-		var textTag = "<a title='"+word.count+" times repeat' href='https://www.google.com/search?q="+text+"+meaning' target='_blank' style='color:#0000ff;'>"+text+"</a>"
+		var textTag = "<a title='"+word.count+" times repeat' href='"+getDictionaryUrl(text)+"' target='_blank' style='color:#0000ff;'>"+text+"</a>"
 		textTd.innerHTML = textTag;
 		hideColumn.innerHTML = "<span>Hide</span>";
 		textTd.classList.add("textColumn");
@@ -115,7 +127,7 @@ function hideFunction(event) {
 		$(tr).remove();
 		commonWordHide.push(word);
 		removeWordInLocalStorage(word);
-		console.log(commonWordHide);
+		console.log(localStorage[tempHide]);
 		if($("#workListContainerTBody tr").length < 10){
 			updateTableWithCurrentPage();
 		}
@@ -157,7 +169,7 @@ function removeInFormData(word) {
 }
 
 function appendDefinition(text, meaningTd) {
-	var url = getUrl("Components/Dictionary/" + text + ".json");
+	var url = getDictionaryUrl(text);
 	$.get(url, function(data) {
 		appendMeaingByJSON(data, meaningTd);
 	}).fail(function(){
@@ -165,21 +177,46 @@ function appendDefinition(text, meaningTd) {
 	});
 }
 
+function getDictionaryUrl(text){
+	return getUrl("Components/Dictionary/" + text + ".json");
+}
+
 function appendMeaingByJSON(data, meaningTd){
 	try {
+		if(!data || !data.results){
+			return;
+		}
 		var content = "";
 		var numberOfLines = 0;
+		var typeWiseSplit = {};
 		for(var i=0;i<data.results.length;i++){
-			var result = splitToNextRow(data.results[i].definition, (i + 1), 80, 3);
+			var result = splitToNextRow(data.results[i].definition, (i + 1), 80, 2);
 			numberOfLines = numberOfLines + result.lineNumbers;
-			content = content + result.text + "\n";
+			var partOfSpeechText = "";
+			if(data.results[i].partOfSpeech){
+				partOfSpeechText = data.results[i].partOfSpeech;
+			}
+			if(!typeWiseSplit[partOfSpeechText]){
+				typeWiseSplit[partOfSpeechText] = [];
+			}
+			typeWiseSplit[partOfSpeechText].push(result);
 		}
+		for(var key in typeWiseSplit){
+			var results = typeWiseSplit[key];
+			content = content + key + "\n";
+			numberOfLines++;
+			for(var i=0;i<results.length;i++){
+				var textContent = results[i].text;
+				content = content + textContent + "\n";
+			}
+		}
+		
 		var preTag = document.createElement("pre");
 		preTag.innerHTML = content;
 		preTag.classList.add("heightLimit");
 		preTag.onclick = moreMeaningContent;
 		meaningTd.appendChild(preTag);
-		var numberOfLinesLimit = 3;
+		var numberOfLinesLimit = 5;
 		if(numberOfLines > numberOfLinesLimit){
 			var moreButton = document.createElement("span");
 			moreButton.innerHTML = "more("+(numberOfLines - numberOfLinesLimit)+")";
@@ -202,15 +239,11 @@ function moreMeaningContent(event) {
 function splitToNextRow(text, index, maxWidth, offSetValue){
 	var content = [];
 	var splitText = text.split(" ");
-	content.push(index + ". ");
+	content.push(getSpace(offSetValue)+"* ");
 	for(var i=0;i<splitText.length;i++){
 		 var x = content[content.length-1];
 		 if((x.length + splitText[i].length) > maxWidth){
-			 var spaceText = "";
-			 for(var jj=0;jj<offSetValue;jj++){
-				 spaceText = spaceText + " ";
-			 }
-			 content.push(spaceText);
+			 content.push(getSpace(offSetValue+2));
 			 if((content[content.length-1].length + splitText[i].length) > maxWidth){
 				 content[content.length-1] = content[content.length-1] + " " + splitText[i];
 			 }
