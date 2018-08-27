@@ -52,11 +52,30 @@ function currentNumberValueChanged(event) {
 	updateTableWithCurrentPage();
 }
 
+function searchWordIntableChangeEvent(event){
+	updateTableWithCurrentPage();
+}
+
 function getWordList(pageNumber) {
 	var words = [];
 	var count = 0;
+	var searchWord = $("#searchWordInTable").val();
+	if(!searchWord){
+		searchWord = undefined;
+	}
 	for (var i = 0; i < wordList.length; i++) {
-		if (commonWordHide.indexOf(wordList[i].word) < 0 || showAllWordsInTable) {
+		var text = wordList[i].word;
+		if (typeof (text) != "string") {
+			text = "" + text;
+		}
+		var booleanCheck = (commonWordHide.indexOf(text) < 0 || showAllWordsInTable);
+		if(searchWord != undefined){
+			booleanCheck = false;
+			if(text.indexOf(searchWord) >= 0){
+				booleanCheck = true;
+			}
+		}
+		if (booleanCheck) {
 			count++;
 			if (count > ((pageNumber - 1) * wordPageSize)) {
 				wordList[i].index = i;
