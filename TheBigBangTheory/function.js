@@ -156,7 +156,7 @@ function hideFunction(event) {
 		if($("#workListContainerTBody tr").length < 10){
 			updateTableWithCurrentPage();
 		}
-		if(location.href.indexOf("https://anbarasanmbbs") >= 0){
+		if(localStorage["donottrackonthispage"] != "true"){
 			removeInFormData(word);
 		}
 	}
