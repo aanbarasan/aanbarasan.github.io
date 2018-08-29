@@ -20,6 +20,7 @@ function temporaryHideWords(){
 		if(tempObject.length > 0){
 			for(var i=0;i<tempObject.length;i++){
 				if(commonWordHide.indexOf(tempObject[i]) >= 0){
+					console.log(tempObject[i]);
 					tempObject.splice(i, 1);
 					i--;
 					changesMade = true;
