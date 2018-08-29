@@ -24,4 +24,4 @@ window.commonWordHide = [ "you", "i", "the", "to", "a", "and", "of", "it",
 		"they're", "made", "god", "date", "guy", "call", "anything", "friends",
 		"hello", "always", "talking", "friend", "science", "isn't", "home",
 		"life", "actually", "may", "thanks", "those", "hot", "told", "lot",
-		"while" ];
+		"while", "pretty", "built", "wrong", "girl", "stop" ];

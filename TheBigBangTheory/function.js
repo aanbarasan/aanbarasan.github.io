@@ -18,9 +18,15 @@ function temporaryHideWords(){
 		var tempObject = JSON.parse(tempString);
 		if(tempObject.length > 0){
 			for(var i=0;i<tempObject.length;i++){
-				commonWordHide.push(tempObject[i]);
+				if(commonWordHide.indexOf(tempObject[i]) >= 0){
+					tempObject.splice(i, 1);
+				}
+				else {
+					commonWordHide.push(tempObject[i]);
+				}
 			}
 		}
+		localStorage[tempHide] = JSON.stringify(tempObject);
 	}
 }
 
