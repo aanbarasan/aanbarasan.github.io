@@ -25,4 +25,6 @@ window.commonWordHide = [ "you", "i", "the", "to", "a", "and", "of", "it",
 		"hello", "always", "talking", "friend", "science", "isn't", "home",
 		"life", "actually", "may", "thanks", "those", "hot", "told", "lot",
 		"while", "pretty", "built", "wrong", "girl", "stop", "getting",
-		"nothing", "bernadette", "ask", "guess", "having", "whole" ];
+		"nothing", "bernadette", "ask", "guess", "having", "whole", "dr", "hi",
+		"began", "find", "three", "around", "bad", "sync", "play", "these",
+		"keep", "next", "excuse", "their", "ago", "sex" ];
