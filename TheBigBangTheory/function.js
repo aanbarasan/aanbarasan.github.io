@@ -15,18 +15,23 @@ function intPage() {
 function temporaryHideWords(){
 	var tempString = localStorage[tempHide];
 	if(tempString){
+		var changesMade = false;
 		var tempObject = JSON.parse(tempString);
 		if(tempObject.length > 0){
 			for(var i=0;i<tempObject.length;i++){
 				if(commonWordHide.indexOf(tempObject[i]) >= 0){
 					tempObject.splice(i, 1);
+					i--;
+					changesMade = true;
 				}
 				else {
 					commonWordHide.push(tempObject[i]);
 				}
 			}
 		}
-		localStorage[tempHide] = JSON.stringify(tempObject);
+		if(changesMade){
+			localStorage[tempHide] = JSON.stringify(tempObject);
+		}
 	}
 }
 
