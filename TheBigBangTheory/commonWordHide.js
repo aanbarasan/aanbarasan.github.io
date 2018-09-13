@@ -30,4 +30,9 @@ window.commonWordHide = [ "you", "i", "the", "to", "a", "and", "of", "it",
 		"keep", "next", "excuse", "their", "ago", "sex", "hear", "someone",
 		"you've", "corrected", "wolowitz", "wouldn't", "long", "cause",
 		"after", "try", "went", "point", "problem", "woman", "understand",
-		"saying" ];
+		"saying", "through", "hang", "space", "theory", "you'll", "trying",
+		"mind", "another", "wanted", "together", "um", "done", "own", "away",
+		"wasn't", "happy", "making", "room", "listen", "idea", "boy", "cooper",
+		"question", "relationship", "enough", "start", "show", "universe",
+		"without", "tonight", "girlfriend", "thinking", "best", "game",
+		"since", "place", "use" ];
