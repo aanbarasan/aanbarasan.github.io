@@ -80,6 +80,14 @@
     	<div style="width: 100%;">
     		<div class="pull-right" id="pagination" style="padding: 5px;">
     			<div class="navigation">
+    				<div id="removeWordsDivisionHid" style="display:none;">
+    					<input type="text" style="width:100px;" id="removeWordsTextBox"/>
+	    				<button onclick="removeWordInFromHideButton()">Hide</button>
+    				</div>
+    				<button id="removeWordsDivisionHidButton"
+    					onclick="toggleVisblityForId(['removeWordsDivisionHid', 'removeWordsDivisionHidButton'])">Hide words</button>
+    			</div>
+    			<div class="navigation">
     				<label>
     					<input type="checkbox" id="switchToAllWordCheckBox" onchange="switchToAllWords(event)"/>
     					Enable all words

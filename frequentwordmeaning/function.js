@@ -174,6 +174,29 @@ function hideFunction(event) {
 	}
 }
 
+function removeWordInFromHideButton(){
+	toggleVisblityForId(['removeWordsDivisionHid', 'removeWordsDivisionHidButton']);
+	var textValue = document.getElementById("removeWordsTextBox").value;
+	document.getElementById("removeWordsTextBox").value = "";
+	if(textValue == "") {
+		return;
+	}
+	var array = [];
+	var textValueArray = textValue.split(",");
+	for(var i=0;i<textValueArray.length;i++){
+		var word = textValueArray[i].trim();
+		word = word.replace("\"", "").replace("\"", "");
+		array.push(word.trim());
+	}
+	
+	for(var i=0;i<array.length;i++){
+		var word = array[i];
+		commonWordHide.push(word);
+		removeWordInLocalStorage(word);
+	}
+	updateTableWithCurrentPage();
+}
+
 function removeWordInLocalStorage(word){
 	var tempString = localStorage[tempHide];
 	var tempObject = [];
