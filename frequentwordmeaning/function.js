@@ -164,7 +164,6 @@ function hideFunction(event) {
 		$(tr).remove();
 		commonWordHide.push(word);
 		removeWordInLocalStorage(word);
-		console.log(localStorage[tempHide]);
 		if($("#workListContainerTBody tr").length < 10){
 			updateTableWithCurrentPage();
 		}
