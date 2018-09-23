@@ -133,7 +133,7 @@ function updateTable(words) {
 		var meaningTd = document.createElement("td");
 		var hideColumn = document.createElement("td");
 		var tableRow = document.createElement("tr");
-		var textTag = "<a title='"+word.count+" times repeat' ";
+		var textTag = "<a title='"+word.frequency+" frequency' ";
 		// textTag = textTag + "href='"+getDictionaryUrl(text)+"' ";
 		textTag = textTag + "href='https://www.google.com/search?q="+text+"+meaning' "
 		textTag = textTag + "target='_blank' style='color:#0000ff;'>"+text+"</a>"
@@ -144,7 +144,7 @@ function updateTable(words) {
 		hideColumn.classList.add("hideColumn");
 		hideColumn.onclick = hideFunction;
 		$(textTd).attr("data-word", text);
-		indexTd.innerHTML = word.index + " <span>(<a href='"+getDictionaryUrl(text)+"' target='_blank'>"+word.count+"</a>)</span>";
+		indexTd.innerHTML = word.index + " <span>(<a href='"+getDictionaryUrl(text)+"' target='_blank'>"+word.frequency+"</a>)</span>";
 		indexTd.style.textAlign = "left";
 		tableRow.appendChild(indexTd);
 		tableRow.appendChild(textTd);
