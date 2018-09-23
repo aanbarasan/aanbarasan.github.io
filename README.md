@@ -12,6 +12,6 @@
 
    In this page manual query calculation for multiple scenarios are simplefied. In default column update query is enabled. When the scenarios changes use conditional options to change the dynamic formats. 
 
-# Big Bang Theory all words meaning
+# 5000 frequent words meaning
 
- Here posted all the words and meaning of the TV show Big Bnag Theory. The word list greped from subtile. Words found in the subtile only meaning files added.
+ Here posted 5000 frequent words and meaning.
