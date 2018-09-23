@@ -173,6 +173,20 @@ function hideFunction(event) {
 	}
 }
 
+function restoreHiddenWords(){
+	toggleVisblityForId(['removeWordsDivisionHid', 'removeWordsDivisionHidButton']);
+	var wordl = JSON.parse(localStorage[tempHide]);
+	console.log(wordl);
+	for(var i=0;i<wordl.length;i++){
+		var index = commonWordHide.indexOf(wordl[i]);
+		if(index >= 0){
+			commonWordHide.splice(index, 1);	
+		}
+	}
+	localStorage[tempHide] = "";
+	updateTableWithCurrentPage();
+}
+
 function removeWordInFromHideButton(){
 	toggleVisblityForId(['removeWordsDivisionHid', 'removeWordsDivisionHidButton']);
 	var textValue = document.getElementById("removeWordsTextBox").value;
