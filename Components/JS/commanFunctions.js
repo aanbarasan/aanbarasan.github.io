@@ -43,6 +43,7 @@ function versionTextClick(){
 	countVersionClick ++;
 	if(countVersionClick > 10){
 		localStorage["donottrackonthispage"] = "true";
+		alert("Do not track enabled");
 	}
 }
 
