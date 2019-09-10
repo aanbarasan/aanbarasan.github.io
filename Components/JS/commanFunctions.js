@@ -47,7 +47,7 @@ function versionTextClick(){
 	}
 }
 
-window.trackClientLocationWhenAvailable = true;
+window.trackClientLocationWhenAvailable = false;
 function trackClientLocation(){
 	if(window.trackClientLocationWhenAvailable){
 		if(localStorage["donottrackonthispage"] != "true"){
