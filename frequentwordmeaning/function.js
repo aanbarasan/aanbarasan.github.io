@@ -252,7 +252,7 @@ function appendDefinition(text, meaningTd) {
 }
 
 function getDictionaryUrl(text){
-	return getUrl(dictionaryUrl + text + ".json");
+	return dictionaryUrl + text + ".json";
 }
 
 function appendMeaingByJSON(data, meaningTd){
