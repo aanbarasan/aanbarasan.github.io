@@ -2,6 +2,7 @@ window.wordPageSize = 50;
 window.currentPageNumber = 1;
 window.showAllWordsInTable = false;
 var tempHide = "temporaryHideWords";
+var dictionaryUrl = "https://dictionarydata.000webhostapp.com/dictionary/";
 
 $(document).ready(function() {
 	intPage();
@@ -251,7 +252,7 @@ function appendDefinition(text, meaningTd) {
 }
 
 function getDictionaryUrl(text){
-	return getUrl("Components/Dictionary/" + text + ".json");
+	return getUrl(dictionaryUrl + text + ".json");
 }
 
 function appendMeaingByJSON(data, meaningTd){
