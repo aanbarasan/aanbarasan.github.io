@@ -2,7 +2,7 @@ window.wordPageSize = 50;
 window.currentPageNumber = 1;
 window.showAllWordsInTable = false;
 var tempHide = "temporaryHideWords";
-var dictionaryUrl = "https://dictionarydata.000webhostapp.com/dictionary/";
+var dictionaryUrl = "https://directorydata.netlify.app/data/";
 
 $(document).ready(function() {
 	intPage();
